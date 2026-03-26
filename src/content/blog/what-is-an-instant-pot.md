@@ -3,7 +3,7 @@ title: What is an Instant Pot?
 slug: what-is-an-instant-pot
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-03-05
-modDate: 2026-03-16
+modDate: 2026-03-26
 postAuthor: boniface-muriuki
 image: /src/content/blog/images/capture.png
 excerpt: "An Instant Pot is a versatile electric multi-cooker that has become a
