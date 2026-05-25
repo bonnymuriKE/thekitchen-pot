@@ -43,7 +43,7 @@ You can keep your cookies fresh and crunchy by storing them in the best airtight
 
 ## **What Makes a Container Truly Airtight?**
 
-An airtight container isn’t just about breathable silicone seals or click-lock lids, it’s the air-free pocket inside where spoiling slows to a crawl. The truly airtight models feature:
+An airtight container isn’t just about breathable silicone seals or click-lock lids, it’s the air-free pocket inside where spoiling slows to a crawl. The truly airtight models feature the following:
 
 * Rubber or silicone gaskets pressed flush against the lid
 * Multi-point clasps or snap-fit lids that lock securely
