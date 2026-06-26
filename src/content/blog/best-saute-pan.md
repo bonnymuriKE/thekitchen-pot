@@ -31,7 +31,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-While some can manage to exclusively use a skillet, serious chefs should own the best sauté pan to brush up their culinary expertise. A standard sauté pan is a distinctly versatile piece of kitchen appliance helping you to do way more than just sauté in it.
+WHILE some can manage to exclusively use a skillet, serious chefs should own the best sauté pan to brush up their culinary expertise. A standard sauté pan is a distinctly versatile piece of kitchen appliance helping you to do way more than just sauté in it.
 
 Whether you wish to reduce the time you spend in your kitchen or try your luck in practicing the new found pastime activity (cookery), sauté pans will come in handy.
 
