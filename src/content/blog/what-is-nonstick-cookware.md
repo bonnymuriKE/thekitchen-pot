@@ -8,8 +8,8 @@ author: boniface-muriuki
 image: /images/blog/default-cover.jpg
 excerpt: Nonstick cookware refers to pots and pans coated with a slick,
   low-friction surface that prevents food from adhering during cooking
-description: "Nonstick cookware refers to pots and pans coated with a slick,
-  low-friction surface that prevents food from adhering during cooking. "
+description: Nonstick cookware refers to pots and pans coated with a slick,
+  low-friction surface that prevents food from adhering during cooking.
 category: Kitchenware
 tags:
   - nonstick cookware
