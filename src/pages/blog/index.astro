@@ -56,7 +56,7 @@ title="Blog"
     <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
       {paginatedPosts.map((post) => (
         <article class="bg-white shadow-md rounded-lg overflow-hidden">
-          <img src={post.data.image?.src} alt={post.data.title} class="w-full h-48 object-cover" />
+          <img src={post.data.image?.src || "/images/blog/default-cover.jpg"} alt={post.data.title} class="w-full h-48 object-cover" />
           <div class="p-4">
             <h2 class="text-xl font-semibold mb-2"><a href={`/blog/${post.data.slug}/`} class="text-blue-500 hover:underline">{post.data.title}</a></h2>
             <p class="text-gray-600 mb-4">{post.data.description}</p>
