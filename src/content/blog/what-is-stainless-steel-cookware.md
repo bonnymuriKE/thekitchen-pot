@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-08-22
 modDate: 2026-08-22
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: "Stainless steel cookware consists of pots and pans made from an
   iron-based alloy containing chromium, nickel, and sometimes other elements
   like molybdenum. "
