@@ -11,6 +11,8 @@ excerpt: "When shopping for a candy thermometer, people often ask: “What’s t
 description: "When shopping for a candy thermometer, people often ask: “What’s
   the top-rated model on the market"
 category: Kitchenware
+tags:
+  - test article test article
 showTableOfContents: true
 source: decap
 ---
