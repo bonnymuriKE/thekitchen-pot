@@ -168,7 +168,6 @@ collections:
           required: true,
           hint: "Optimal size: 1200x630px",
           media_library: { config: { multiple: false } },
-          default: "/images/blog/default-cover.jpg",
         }
       - {
           label: "Excerpt",
