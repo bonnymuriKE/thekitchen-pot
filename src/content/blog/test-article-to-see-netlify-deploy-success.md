@@ -13,6 +13,7 @@ description: "When shopping for a candy thermometer, people often ask: â€œWhatâ€
 category: Kitchenware
 tags:
   - test article
+  - kitchenware test
 showTableOfContents: true
 source: decap
 ---
