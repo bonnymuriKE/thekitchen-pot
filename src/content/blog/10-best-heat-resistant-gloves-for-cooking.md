@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-If you love cooking/baking, you’ll opine that owning the best heat resistant gloves is an excellent idea. They protect your hands from heat-induced injuries, which could be detrimental to your health in the long run. 
+IF YOU LOVE cooking/baking, you’ll opine that owning the best heat resistant gloves is an excellent idea. They protect your hands from heat-induced injuries, which could be detrimental to your health in the long run. 
 
 While buying your best heat resistant gloves is necessary, the process can be tricky for beginners. Not all heat resistant gloves will give you maximal protection! As such, you must be keen on the material used as well as the design of the heat resistant gloves.
 
