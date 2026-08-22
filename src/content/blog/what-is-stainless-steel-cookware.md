@@ -35,7 +35,7 @@ Stainless steel is non-reactive withacidic or alkaline foods, making it ideal fo
 
 It responds quickly to temperaturechanges, gaining and losing heat rapidly, which provides precise control duringcooking.  Many stainless steel pansfeature multi-ply or clad construction, bonding layers of aluminum or copperbetween stainless steel to improve heat distribution and eliminate hotspots.  
 
-This versatility allows stainlesscookware to excel at searing, sautéing, deglazing, and simmering—tasks wherenonstick pans may fall short. 
+This versatility allows stainlesscookware to excel at searing, sautéing, deglazing, and simmering—tasks wherenonstick pans may fall short
 
 ## Safety and Durability
 
