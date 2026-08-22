@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: thekitchen-pot/thekitchen-pot # affilirator/thekitchen-pot
+  repo: bonnymuriKE/thekitchen-pot
   branch: main
   base_url: https://thekitchenpot.com
   squash_merges: true
