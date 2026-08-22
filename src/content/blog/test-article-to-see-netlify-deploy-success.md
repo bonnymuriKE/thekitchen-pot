@@ -7,7 +7,7 @@ modDate: 2026-08-22
 postAuthor: boniface-muriuki
 image: /images/blog/default-cover.jpg
 excerpt: "When shopping for a candy thermometer, people often ask: “What’s the
-  top-rated model on the market"
+  top-rated model on the market."
 description: "When shopping for a candy thermometer, people often ask: “What’s
   the top-rated model on the market"
 category: Kitchenware
