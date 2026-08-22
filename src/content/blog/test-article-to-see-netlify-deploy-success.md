@@ -12,7 +12,7 @@ description: "When shopping for a candy thermometer, people often ask: â€œWhatâ€
   the top-rated model on the market"
 category: Kitchenware
 tags:
-  - test article test article
+  - test article
 showTableOfContents: true
 source: decap
 ---
