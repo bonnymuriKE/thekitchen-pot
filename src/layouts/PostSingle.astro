@@ -112,7 +112,7 @@ const monthYear = new Date().toLocaleDateString('en-US', {
 });
 ---
 
-<Layout title={`${frontmatter.title} | ${monthYear}`} article={article}>
+<Layout title={`${frontmatter.title} | ${monthYear}`} article={article} description={frontmatter.description}>
   <script
         type="application/ld+json"
         set:html={JSON.stringify(articleSchema)}
