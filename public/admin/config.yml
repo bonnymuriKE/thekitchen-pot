@@ -73,7 +73,8 @@ collections:
           widget: "image",
           required: false,
         }
-      - { label: "Description", name: "excerpt", widget: "text" }
+      - { label: "Author Page Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Meta Description (SEO)", name: "description", widget: "text", required: true }
       - { label: "Category", name: "category", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
