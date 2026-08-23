@@ -4,7 +4,7 @@ slug: what-is-an-instant-pot
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-03-05
 modDate: 2026-03-05
-author: Boniface Muriuki
+author: boniface-muriuki
 image: /src/content/blog/images/capture.png
 excerpt: "An Instant Pot is a versatile electric multi-cooker that has become a
   staple in many American kitchens. Known for its ability to combine several
