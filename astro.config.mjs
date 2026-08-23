@@ -12,6 +12,21 @@ import {
 import react from "@astrojs/react";
 
 import rehypeStringify from 'rehype-stringify'
+   function rehypeLinksNewTab() {
+     return (tree) => {
+       function visit(node) {
+         if (node.type === 'element' && node.tagName === 'a') {
+           node.properties = node.properties || {};
+           node.properties.target = '_blank';
+           node.properties.rel = 'noopener noreferrer';
+         }
+         if (node.children) {
+           node.children.forEach(visit);
+         }
+       }
+       visit(tree);
+     };
+   }
 
 import tailwind from "@astrojs/tailwind";
 
@@ -52,7 +67,7 @@ export default defineConfig({
   markdown: {
 
     remarkPlugins: [ ],
-    rehypePlugins: [rehypeStringify],
+    rehypePlugins: [rehypeLinksNewTab, rehypeStringify],
     shikiConfig: {
       // Choose from Shiki's built-in themes (or add your own)
       // https://shiki.style/themes
