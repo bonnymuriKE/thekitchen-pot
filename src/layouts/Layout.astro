@@ -50,6 +50,20 @@ const organizationSchema = {
         "https://instagram.com/thekitchenpot",
     ],
 };
+
+const websiteSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    '@id': `${siteConfig.url}/#website`,
+    name: "The Kitchen Pot",
+    url: baseUrl,
+    publisher: { "@id": `${siteConfig.url}/#organization` },
+    potentialAction: {
+        "@type": "SearchAction",
+        target: `${baseUrl}/blog?search={search_term_string}`,
+        "query-input": "required name=search_term_string",
+    },
+};
 ---
 
 <!doctype html>
@@ -95,6 +109,10 @@ const organizationSchema = {
         type="application/ld+json"
         set:html={JSON.stringify(organizationSchema)}
     />
+<script
+    type="application/ld+json"
+    set:html={JSON.stringify(websiteSchema)}
+/>
 </head>
 
 <body class="w-full font-sans antialiased">
