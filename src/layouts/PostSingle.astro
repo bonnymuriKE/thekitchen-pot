@@ -111,6 +111,18 @@ const breadcrumbSchema = {
     ],
 };
 
+const faqSchema = frontmatter.faq && frontmatter.faq.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: frontmatter.faq.map((item) => ({
+    "@type": "Question",
+    name: item.question,
+    acceptedAnswer: {
+      "@type": "Answer",
+      text: item.answer,
+    },
+  })),
+} : null;
 const { tags } = frontmatter; // Assuming you're using frontmatter to get article data
 const monthYear = new Date().toLocaleDateString('en-US', {
   month: 'long',
@@ -127,6 +139,12 @@ const monthYear = new Date().toLocaleDateString('en-US', {
     type="application/ld+json"
     set:html={JSON.stringify(breadcrumbSchema)}
 />
+{faqSchema && (
+  <script
+      type="application/ld+json"
+      set:html={JSON.stringify(faqSchema)}
+  />
+)}
   <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
     <header class="mb-8">
 
@@ -175,6 +193,19 @@ const monthYear = new Date().toLocaleDateString('en-US', {
 
     <div class="blog-content prose dark:prose-invert">
       <slot />
+{frontmatter.faq && frontmatter.faq.length > 0 && (
+  <section class="faq-section mt-10 pt-8 border-t border-gray-200">
+    <h2 class="text-2xl font-bold mb-4">Frequently Asked Questions</h2>
+    <div class="space-y-4">
+      {frontmatter.faq.map((item) => (
+        <div class="pb-4">
+          <h3 class="font-semibold text-lg mb-1">{item.question}</h3>
+          <p class="text-gray-700">{item.answer}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+)}
     </div>
     <div>
 
