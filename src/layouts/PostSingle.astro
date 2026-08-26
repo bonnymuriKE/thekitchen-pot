@@ -124,13 +124,9 @@ const faqSchema = frontmatter.faq && frontmatter.faq.length > 0 ? {
   })),
 } : null;
 const { tags } = frontmatter; // Assuming you're using frontmatter to get article data
-const monthYear = new Date().toLocaleDateString('en-US', {
-  month: 'long',
-  year: 'numeric'
-});
 ---
 
-<Layout title={`${frontmatter.title} | ${monthYear}`} article={article} description={frontmatter.description}>
+<Layout title={frontmatter.title} article={article} description={frontmatter.description}>
   <script
         type="application/ld+json"
         set:html={JSON.stringify(articleSchema)}
