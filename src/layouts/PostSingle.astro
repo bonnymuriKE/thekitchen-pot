@@ -142,6 +142,10 @@ const { tags } = frontmatter; // Assuming you're using frontmatter to get articl
   />
 )}
   <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+   <p class="text-sm text-gray-500 italic mb-4">
+     We independently review and recommend products. If you buy through links on this page, we may earn a commission.
+   </p>
+
     <header class="mb-8">
 
       <Breadcrumbs classes="mb-6 mx-auto jusify-center jusify-items-center " tags={tags} />
@@ -186,9 +190,6 @@ const { tags } = frontmatter; // Assuming you're using frontmatter to get articl
     class=" object-cover w-full rounded-lg mb-8 shadow-lg"
   />
 )}
-   <div class="bg-amber-50 border border-amber-200 rounded-lg px-4 py-3 mb-6 text-sm text-amber-900">
-     <strong>Disclosure:</strong> This post contains affiliate links. If you make a purchase through one of these links, we may earn a commission at no extra cost to you.
-   </div>
 
     <div class="blog-content prose dark:prose-invert">
       <slot />
