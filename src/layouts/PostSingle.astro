@@ -142,13 +142,13 @@ const { tags } = frontmatter; // Assuming you're using frontmatter to get articl
   />
 )}
   <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-   <p class="text-sm text-gray-500 italic mb-4">
+  <p class="text-sm text-gray-500 italic mt-6 mb-4">
      We independently review and recommend products. If you buy through links on this page, we may earn a commission.
    </p>
 
     <header class="mb-8">
 
-      <Breadcrumbs classes="mb-6 mx-auto jusify-center jusify-items-center " tags={tags} />
+      <Breadcrumbs classes="mb-6 mx-auto jusify-center jusify-items-center " category={frontmatter.category} />
       <h1 class="text-4xl sm:text-5xl font-bold mb-4 text-gray-900">{frontmatter.title}</h1>
       <div class="flex items-center text-gray-600 mb-4">
         <Icon name="mdi:calendar" class="w-5 h-5 mr-2 text-teal-600" />
