@@ -17,8 +17,7 @@ const breadcrumbs = ['Home'];
 
 
 
-// Extract dynamic tag from frontmatter
-const { tags } = Astro.props; // Ensure tags is passed as a prop from the frontmatter
+const { category } = Astro.props;
 
 
 
@@ -28,10 +27,10 @@ if (segments.length > 0) {
     if (segments[0] === 'blog') {
         breadcrumbs.push('Blog');
 
-        // Add tag if present in props
-        if (tags && tags.length > 0) {
-            breadcrumbs.push(tags[0]);
-        }
+        // Add category if present in props
+           if (category) {
+               breadcrumbs.push(category);
+           }
 
         // Add remaining segments except 'blog'
         segments.slice(1).forEach(segment => {
@@ -65,14 +64,14 @@ const { classes } = Astro.props;
 <nav aria-label="Breadcrumb" class:list={['breadcrumbs', { [`${classes}`]: classes }]} itemscope itemtype="http://schema.org/BreadcrumbList" itemid=`${Astro.request.url}#rich-snippet`,>
     <ol class="breadcrumbs__list">
         {breadcrumbs.map((segment, index) => {
-    const isTag = tags?.includes(segment);
+    const isCategoryCrumb = segment === category;
     const isLast = index === breadcrumbs.length - 1;
     const href = segment === 'Home'
         ? '/'
         : segment === 'Blog'
             ? '/blog'
-            : isTag
-                ? `/blog/tag/${segment}`
+            : isCategoryCrumb
+                   ? `/blog/category/${segment.toLowerCase().replace(/\s+/g, '-')}`
                 : `/${segments.slice(0, segments.indexOf(segment) + 1).join('/')}`;
 
     return (
@@ -101,7 +100,7 @@ const { classes } = Astro.props;
 
 <style>
     .breadcrumbs {
-        @apply w-full overflow-x-auto inline-flex rounded border border-neutral-200 bg-teal-200 px-3 sm:px-4 py-2 text-sm text-neutral-900 dark:border-neutral-200 dark:bg-teal-50 dark:text-neutral-900;
+        @apply w-full overflow-x-auto inline-flex text-sm text-neutral-500;
         /* Hide scrollbar */
         -ms-overflow-style: none;  /* IE and Edge */
         scrollbar-width: none;  /* Firefox */
