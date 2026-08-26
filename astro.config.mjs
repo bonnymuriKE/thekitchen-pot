@@ -18,7 +18,11 @@ import rehypeStringify from 'rehype-stringify'
          if (node.type === 'element' && node.tagName === 'a') {
            node.properties = node.properties || {};
            node.properties.target = '_blank';
-           node.properties.rel = 'noopener noreferrer';
+           const href = node.properties.href || '';
+           const isAffiliate = href.includes('amazon.com') || href.includes('tidd.ly') || href.includes('awin1.com');
+           node.properties.rel = isAffiliate
+             ? 'sponsored noopener noreferrer'
+             : 'noopener noreferrer';
          }
          if (node.children) {
            node.children.forEach(visit);
@@ -27,7 +31,7 @@ import rehypeStringify from 'rehype-stringify'
        visit(tree);
      };
    }
-
+   
 import tailwind from "@astrojs/tailwind";
 
 import icon from "astro-icon";
