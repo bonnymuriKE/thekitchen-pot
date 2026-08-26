@@ -6,19 +6,9 @@ const site = import.meta.env.SITE;
 const DEFAULT_SITE_URL = site;
 const NO_INDEX_PATHS = [
   "/blog/tag/*",
-  "/blog/example-post",
-  "/category/*",
+  "/blog/category/*",
   "/api/*",
-  "*thekitchenpots.netlify.app/*",
-  "/tag/*",
-  "/goto/*",
-  "https://*.app",
-  "https://*.dev",
   "/search/*",
-  "*dev.thekitchenpot.com/*",
-  "https://*?*",
-  "*.pages.dev/*",
-  "*kff.pages.dev/*",
 ] as const;
 
 // Memoized function to generate robots.txt content
