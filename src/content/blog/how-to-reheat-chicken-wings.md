@@ -27,7 +27,8 @@ tags:
   - ninja-foodi
   - oven
 authorImageAlt: kitchenpot1
-description: "Do not waste your leftover wings! Here are 5 guaranteed methods to reheat them perfectly. No more dry or soggy chicken—just delicious and crispy results every time."---
+description: "Do not waste your leftover wings! Here are 5 guaranteed methods to reheat them perfectly. No more dry or soggy chicken—just delicious and crispy results every time."
+---
 Are you wondering how to reheat chicken wings to maintain their finger-licking goodness? While this is a simple exercise, many cooks miss several crucial steps making their chicken lose its sumptuousness. 
 
 The problem is so widespread that a majority of cooks will do everything possible to ensure that no cooked chicken wings remain.

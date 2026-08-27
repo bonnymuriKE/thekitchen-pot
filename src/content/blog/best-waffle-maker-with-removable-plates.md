@@ -24,7 +24,8 @@ tags:
   - ceramic-vs-non-stick-waffle-maker
   - waffle-maker
 authorImageAlt: kitchenpot1
-description: "Looking for a way to make Belgium-style waffles at home? The best waffle maker with removable plates makes it easy to cook and blissful to clean-up. It’s a must-have!"---
+description: "Looking for a way to make Belgium-style waffles at home? The best waffle maker with removable plates makes it easy to cook and blissful to clean-up. It’s a must-have!"
+---
 Waking up to a fresh aroma of freshly baked waffles is heavenly! If you’re a fan of waffles, getting the best waffle maker with removable plates will be the best buying decision you ever made!
 
 However, not just any waffle maker will do! It’d be good if your best waffle maker has removable plates for ease of cleaning. Other features that you may want to consider include functionality, portability, size, among others.

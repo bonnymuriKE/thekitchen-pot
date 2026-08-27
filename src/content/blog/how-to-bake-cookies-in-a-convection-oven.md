@@ -24,7 +24,8 @@ tags:
   - benefits-of-convection-oven
   - how-to-bake-cookies-on-convection-oven
 authorImageAlt: kitchenpot1
-description: "Are you tired of lopsided cookies? Our convection oven baking guide shows the perfect rack placement, pan types and timing adjustments for ideal results."---
+description: "Are you tired of lopsided cookies? Our convection oven baking guide shows the perfect rack placement, pan types and timing adjustments for ideal results."
+---
 Do you want to learn exceptional tips on how to bake cookies in a convection oven? Well, the art of achieving perfect baked cookies lies in several aspects, including mixing the ingredients, convection oven temperature, dough items, kneading, cookie-cutter pans, and baking procedure.
 
 This article provides the best tips on how to bake cookies in a convection oven. Read on to learn more.

@@ -25,7 +25,8 @@ tags:
   - free-standing-electric-range
   - slide-in-electric-range
 authorImageAlt: kitchenpot1
-description: "On a budget but still craving sleek cooking power? These best slide-in electric range under $1000 models strike the perfect balance, offering precision, ease, and value."---
+description: "On a budget but still craving sleek cooking power? These best slide-in electric range under $1000 models strike the perfect balance, offering precision, ease, and value."
+---
 Buying the best slide-in electric range can bring a refined look to your kitchen! While this is not an everyday activity, you may have to choose your best slide-in electric range once or twice in your life!
 
 If you’re already shopping for one, you must have realized that there are numerous brands with varying features.\

@@ -25,7 +25,8 @@ tags:
   - difference-between-food-processor-and-blenders
   - food-processor
 authorImageAlt: kitchenpot1
-description: "What is the difference between a food processor and a blender? One chops, one blends—but there's more! Discover which gadget belongs in your kitchen."---
+description: "What is the difference between a food processor and a blender? One chops, one blends—but there's more! Discover which gadget belongs in your kitchen."
+---
 What is the difference between a food processor and a blender? If you’re a cooking enthusiast, this question must have crossed your mind several times, right?
 
 When it comes to kitchen cookware, everything isn’t built equal. Many times people think that some of these kitchen tools are similar, but there are several differences that will help you differentiate them.
