@@ -19,10 +19,7 @@ tags:
   - gas-and-charcoal-grill-combo
   - meat-thermometer-for-smoking
 authorImageAlt: kitchenpot1
-description: Are you a novice BBQ enthusiast eager to impress your family with
-  delicious smoked meats? Starting with the best offset smoker for beginners is
-  key! These smokers use charcoal and wood chips to infuse a unique smoky flavor
-  into your meats while maintaining a consistent temperature
+description: "New to smoking and ready to smoke like a pro?? Check out these best offset smokers for beginners. They are easy to use & affordable, guaranteeing tasty BBQ."
 seo: If you need exceptional meat smoking experience, you should consider buying
   the best offset smoker for beginners. Own one and start grilling your meat
   like a pro!

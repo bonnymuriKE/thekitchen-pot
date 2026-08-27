@@ -19,7 +19,7 @@ tags:
   - season-stainless-steel-pans
   - waterless-cookware
 authorImageAlt: kitchenpot1
-description: Need a soup pot that lasts? These best stockpots with lids have thick bottoms, sturdy handles & are perfect for canning, boiling & simmering. Get them now! 
+description: "Need a soup pot that lasts? These best stockpots with lids have thick bottoms, sturdy handles & are perfect for canning, boiling & simmering. Get them now!"
 seo: Looking for the best stockpot with a lid? Well, there are a few factors
   that you should consider before you buy one. Here is an all-inclusive stockpot
   buying guide.

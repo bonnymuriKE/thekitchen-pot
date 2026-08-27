@@ -19,10 +19,7 @@ tags:
   - best
   - under-100
 authorImageAlt: kitchenpot1
-description: Are you tired of lengthy cooking processes and looking for a
-  healthier lifestyle? The best air fryers under $100 are here to revolutionize
-  your kitchen experience and help you enjoy scrumptious meals without excess
-  fat or cholesterol. With options like the Ninja
+description: "Skip the expensive models! We found the best air fryers under $100 that nail performance, capacity, and durability. Get restaurant-quality results for less!"
 seo: Are you looking for the best air fryers under $100? This article will offer
   a comprehensive buying guide with a well-researched list of the 5 best air
   fryers.00

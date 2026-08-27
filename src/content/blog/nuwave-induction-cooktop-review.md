@@ -20,10 +20,7 @@ tags:
   - induction-cooking
   - nuwave-oven-vs-air-fryer
 authorImageAlt: kitchenpot1
-description: Cooking from your kitchen can sometimes feel monotonous, especially
-  if you're looking to bond with family over outdoor recipes. If you're stuck
-  with a heavy electric cooktop, consider investing in a portable NuWave
-  induction cooktop for added convenience.
+description: "Tiny kitchen? NuWave induction cooktop saves space, heats instantly & is easy to clean. It is also safer, faster and more efficient. See why it’s a must!"
 seo: Induction cooking is a convenient and efficient method. If you want to buy
   an induction cooktop, then read through this NuWave Induction cooktop review
   to make an informed decision.

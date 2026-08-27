@@ -20,10 +20,7 @@ tags:
   - how-to-reheat-chicken-wings
   - how-to-use-sous-vide
 authorImageAlt: kitchenpot1
-description: If you've ever wondered about the weight of a chicken breast,
-  you're not alone. Knowing this information can help you regulate your calorie
-  intake and make healthier choices when cooking. While the weight can vary,
-  understanding the general range of weights for raw and
+description: "Recipes calling for '1 chicken breast'? The shocking weight variations (4oz to 12oz!) and how to adjust cooking times for perfect results every time."
 seo: How much does a chicken breast weigh? This is a common worry for chefs and
   cooks. If you've found yourself in such a quagmire, then this article answers
   all your questions on weighing chicken breasts

@@ -27,11 +27,7 @@ tags:
   - propane-and-charcoal-grills
   - smoker-box
 authorImageAlt: kitchenpot1
-description: Are you tired of missing out on the delicious smoky flavor in your
-  home-grilled meals? With a gas grill, you can still achieve that mouthwatering
-  taste by using a smoker box. Follow the step-by-step guide provided to level
-  up your
----
+description: "Want smoky BBQ without a smoker? Yes, you can. Learn how to use a smoker box on a gas grill with two simple methods that deliver incredible smoky taste."---
 Purchasing a gas grill brings hope that you’ll finally enjoy home-made grilled meals. However, you should know how to use a smoker box on a gas grill to give your meals that fine smoke taste!
 
 On its own, the [gas grill](https://thekitchenpot.com/blog/best-gas-grills-under-500/) cannot provide your meat with the traditional smoky flavor. Too boring right? Roasted beef is only scrumptious with a smoky flavor.

@@ -20,10 +20,7 @@ tags:
   - how-to-use-sous-vide
   - how-to-use-tortilla-press
 authorImageAlt: kitchenpot1
-description: If you find yourself with cream cheese you can't use due to an
-  emergency, freezing it is a safe option to avoid wastage. Although the texture
-  may change, frozen cream cheese is still suitable for baking and cooking.
-  Freezing cream cheese extends its
+description: "Is your cream cheese going bad often? Freeze it right with these proven methods to avoid graininess, making it perfect for bagels, dips & desserts."
 seo: Can you freeze cream cheese? Is it safe? This article offers 2 of the
   safest methods to use when freezing your cheese. Read on to learn the do's and
   the dont's of the process.

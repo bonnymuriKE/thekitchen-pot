@@ -20,9 +20,7 @@ tags:
   - induction-cooking
   - stainless-steel-pans
 authorImageAlt: kitchenpot1
-description: Glass top stoves can add elegance to your kitchen, but can be
-  difficult to manage, especially when using cast iron cookware. While it is not
-  recommended to use cast iron on a glass stovetop, if you choose to do so,
+description: "Using cast iron on a glass stove? Avoid cracks & scratches with these expert tips! Keep your cooktop pristine while enjoying heavy-duty pans. Learn how now."
 seo: Wondering how to protect glass top stove from cast iron cookware? Here is
   an all-inclusive guide that offers irresistible tips. Read on for more details
   and tips.

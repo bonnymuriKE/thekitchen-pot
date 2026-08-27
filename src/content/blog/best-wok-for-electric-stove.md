@@ -26,11 +26,7 @@ tags:
   - round-bottom-wok
   - wok-for-electric-stove
 authorImageAlt: kitchenpot1
-description: Did you know that a wok is a versatile piece of cookware that can
-  help you prepare a variety of delicious dishes? Choosing the best wok for an
-  electric stove can be a daunting task with so many options available in the
-  market. To make
----
+description: "Looking for electric stove-compatible woks? These best woks heat evenly, won’t warp & deliver authentic meals hassle-free. Get it now and stir-fry like a pro."---
 Did you know that a wok is one of the most versatile cookware you can ever acquire? Well, the best wok for electric stove helps you to prepare tasty stir fry, steam vegetables, char meat, among other outstanding functionalities. 
 
 In the current market place, there are numerous woks with different functionalities. Whether you want the traditional or the contemporary wok for electric stove, you’ll surely get it. 

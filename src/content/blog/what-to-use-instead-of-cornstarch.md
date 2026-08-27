@@ -19,10 +19,7 @@ tags:
   - cornmeal
   - cornstarch-vs-corn-flour
 authorImageAlt: kitchenpot1
-description: If you're unable to access cornstarch for your cooking needs, fret
-  not, as this article provides a thorough exploration of suitable substitutes.
-  Whether it's wheat flour, arrowroot, potato starch, rice flour, or tapioca,
-  there are plenty
+description: "Don’t let missing cornstarch ruin your recipe! Learn what to use instead of cornstarch – 5 healthy substitutes that work just as well (or even better)!"
 seo: Cornstarch is essential for thickening your soup and sauces. But what do
   you do when you can't access it. What to use instead of cornstarch? This
   article gives healthy substitutes for cornstarch. Read on

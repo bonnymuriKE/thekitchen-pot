@@ -17,10 +17,7 @@ coverAlt: How Do Electric Kettles Work? Complete Guide
 tags:
   - Featured
 authorImageAlt: kitchenpot1
-description: Owning an electric kettle is essential for any tea lover, as it
-  quickly boils water for a hot cup of tea or coffee. An electric kettle works
-  by heating water with a metal element at the bottom, allowing for precise
-  temperature control. Cleaning and
+description: "Ever wondered how your kettle heats water so fast? We explain all the details to highlight its functionality and demystify every click, coil, and steam puff. Read on."
 seo: How do electric kettles work? This article describes the working mechanisms
   of kettles, the cleaning procedures, and maintenance practices. Keep reading.
 authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of

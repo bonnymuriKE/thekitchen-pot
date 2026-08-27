@@ -19,10 +19,7 @@ tags:
   - best-non-stick-pans
   - best-oil-for-air-fryer
 authorImageAlt: kitchenpot1
-description: Are you tired of the same old French fries from fast food
-  restaurants? Learn how to cook frozen French fries in an air fryer and enjoy
-  crispier, tastier fries in just 15-20 minutes. Say goodbye to long waits and
-  unhealthy oil
+description: "Want crispier fries? Skip the oil! Our tested method using just frozen fries and this surprising technique delivers crunchier results than deep frying."
 seo: Do you want to learn unmatched tips on how to cook frozen french fries in
   an air fryer? Well, this article will provide an elaborate guide. Read on for
   more.

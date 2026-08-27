@@ -19,10 +19,7 @@ tags:
   - best-air-fryers
   - induction-cooking
 authorImageAlt: kitchenpot1
-description: A fondue pot is a versatile kitchen appliance with Swiss origins,
-  perfect for communal serving of melted cheese blended with wine and seasoning.
-  This article provides a comprehensive guide on how to use a fondue pot
-  effectively for various recipes, along with recommendations for the
+description: "Dust off your fondue pot and host the ultimate party! 3 easy, crowd-pleasing recipes to impress guests. We also offer secrets to prevent clumping, burning & separation."
 seo: Have you ever heard of a fondue pot? What is it? Here is how to use a
   fondue pot to make the best cheese, chocolate, and vegetable fondue for your
   guests! Read on

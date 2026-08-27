@@ -17,10 +17,7 @@ coverAlt: The Best Porcelain Kitchen Sink With Drainboard
 tags:
   - Featured
 authorImageAlt: kitchenpot1
-description: Looking for a new kitchen sink can be overwhelming, but with the
-  right research, you can find the perfect one to suit your needs and add beauty
-  to your kitchen. Porcelain kitchen sinks are a popular choice for many
-  homeowners due to their style and durability
+description: "Upgrade your kitchen with the best porcelain kitchen sink with drainboard. They are stylish, durable, and perfect for busy kitchens and stylish homes."
 seo: Looking for the best porcelain kitchen sink with drainboard? Here are all
   the details you need to know before settling for one. Read on
 authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of

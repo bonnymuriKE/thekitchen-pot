@@ -19,10 +19,7 @@ tags:
   - best-rice-cookers
   - how-to-use-oster-rice-cooker
 authorImageAlt: kitchenpot1
-description: If you've been struggling with your new rice cooker and feeling
-  overwhelmed by the rice-to-water ratio, don't worry. This comprehensive guide
-  will walk you through the process of cooking rice in a rice cooker, making it
-  easy and enjoyable. By following these
+description: "Just acquired a rice cooker and don’t know how to use it? This guide gives you all the tip to get perfectly cooked rice, whether white, brown and sushi."
 seo: Are wondering how to cook rice in a rice cooker without getting sticky? The
   rice to water ratio dynamics can be complex. However, this article offers
   useful tips to achieve fluffy and well-cooked rice

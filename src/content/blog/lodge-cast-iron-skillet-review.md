@@ -20,8 +20,7 @@ tags:
   - how-to-season-red-copper-pans
   - how-to-season-stainless-steel-pans
 authorImageAlt: kitchenpot1
-description: Lodge cast iron is a popular cookware in the US. Let's find out the
-  reasons behind the popularity.
+description: "Curious about the Lodge Cast Iron Skillet? This review reveals 6 reasons why it’s wildly popular. Read on to see why this cast iron legend is built to impress."
 seo: This lodge cast iron skillet review gives you honest details about the
   skillet. We tell you what we liked and what we didn't like about the Lodge
   skillet. Read on.

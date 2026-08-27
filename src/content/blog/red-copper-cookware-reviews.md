@@ -21,10 +21,7 @@ tags:
   - how-to-season-stainless-steel-pans
   - red-copper-pans
 authorImageAlt: kitchenpot1
-description: In the world of red copper cookware, there is a lot of hype and
-  confusion. Many reviews tout these pans as the ultimate nonstick option, but
-  the reality is more nuanced. Customer feedback on Amazon reveals mixed
-  opinions on the performance and durability of
+description: "Red Copper cookware review—do these TV-famous pans deliver true nonstick performance? We check heat resistance, durability & if eggs really slide off. Read on."
 seo: Are you looking for genuine red copper cookware reviews? Are these pans
   really nonstick? This article lays bare everything you need to know about red
   copper cookware. Read on.

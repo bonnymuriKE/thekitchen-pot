@@ -20,10 +20,7 @@ tags:
   - gotham-smokeless-indoor-grills
   - lodge-cast-iron-skillet
 authorImageAlt: kitchenpot1
-description: The Griswold cast iron skillet is highly sought after due to its
-  exceptional heat retention and searing capabilities, making it a favorite
-  among professional cooks. Despite the company closing over 65 years ago, the
-  skillet's rarity, durability, and top
+description: "Vintage cast iron fan? Our Griswold skillet review tests its legendary smoothness, heat retention & value. The gold standard or just nostalgia? Find out!"
 seo: Why is Griswold cast iron skillet so expensive? Is It worth it? Let's look
   at their history, features, and usability. Here's an all-inclusive Griswold
   cast iron skillet review.

@@ -19,10 +19,7 @@ tags:
   - knife-set
   - under-100
 authorImageAlt: kitchenpot1
-description: When it comes to finding the best knife set under $100, it's
-  important to consider your specific needs and budget. Whether you're a
-  professional chef or a casual home cook, there are plenty of options
-  available. Remember, the quality of the knives
+description: "Who says great knives cost a fortune? The best knife sets under $100 include everything you need: chef's knife, paring blade, shears & block. Get one now!"
 seo: If you want to upgrade your kitchen with a new set of knives, then this
   article outlines everything you need to know before you settle for the best
   knife set under 100. Read on.

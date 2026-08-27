@@ -19,10 +19,7 @@ tags:
   - double-boiler
   - fondue-pot
 authorImageAlt: kitchenpot1
-description: If you've ever struggled with melting chocolate over high heat,
-  you're not alone. Investing in a double boiler can help you gently and evenly
-  heat food items like chocolate without the risk of it lumping up. This article
-  provides a comprehensive guide on how
+description: "What is a double boiler & how does it work? Simple steps to use one for custards, ganache & more without scorching. Perfect for melting, sauces & delicate recipes."
 seo: Wondering how to use a double boiler? Well, this kitchen appliance is
   helpful when cooking food items that require slow cooking under low
   temperature. Here's everything you need to know.

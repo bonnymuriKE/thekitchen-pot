@@ -19,10 +19,7 @@ tags:
   - mandoline
   - safety-measures-for-mandoline
 authorImageAlt: kitchenpot1
-description: If you're feeling unsure about how to use a mandoline, don't worry,
-  we've got you covered! A mandoline is a hand-operated food slicer that makes
-  slicing vegetables and fruits a breeze, with interchangeable blades for
-  different cuts.
+description: "Wondering how to use a mandoline perfectly without slicing your fingers? From setup to clean-up, this complete guide covers it all—no guesswork, just precision."
 seo: Wondering how to use a mandoline safely? This guide is beginner friendly
   and will ensure that you use your mandoline like a pro. Read on
 authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of

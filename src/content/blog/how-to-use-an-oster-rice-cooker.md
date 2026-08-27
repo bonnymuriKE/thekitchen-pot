@@ -19,10 +19,7 @@ tags:
   - best-rice-cooker
   - spatula
 authorImageAlt: kitchenpot1
-description: Did you know that approximately 3.5 billion people globally depend
-  on rice for an estimated 20% of their daily calorie needs? The use of an Oster
-  Rice Cooker can make cooking rice easier and more efficient for those
-  struggling with the process
+description: "Steamy, fluffy, and fool proof! Learn how to use an Oster rice cooker with this step-by-step guide that takes the guesswork out of grain game. It’s easy and efficient."
 seo: How to use an oster rice cooker? This guide will offer you insightful tips
   on how you can use the appliance to cook rice and steam vegetables. Read on
   for more.

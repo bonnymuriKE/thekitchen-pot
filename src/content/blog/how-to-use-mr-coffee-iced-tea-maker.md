@@ -20,10 +20,7 @@ tags:
   - ice-makers
   - keurig-coffee-makers
 authorImageAlt: kitchenpot1
-description: Fall/autumn is a time of joy, with warm weather and beautiful
-  sunrises to refresh you after enduring long winter days. To fully enjoy the
-  season, consider indulging in cold, refreshing tea. The Mr. Coffee Iced Tea
-  Maker
+description: "Nothing beats perfect iced tea in summer. Here’s how to use Mr. Coffee iced tea maker to brew a cup of your best beverage effortlessly. It’s quick and easy!"
 seo: If you love iced tea, then it is time you consider owning an iced tea
   maker. This article provides an elaborate guide on how to use Mr. Coffee Iced
   Tea Maker. Read on for more.

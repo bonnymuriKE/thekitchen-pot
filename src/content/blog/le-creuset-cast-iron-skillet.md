@@ -20,9 +20,7 @@ tags:
   - best-skillets
   - frying-pan-vs-skillet
 authorImageAlt: kitchenpot1
-description: Le Creuset cast iron skillets are not cheap. But are they worth the
-  investment? This article offers comprehensive Le Creuset cast iron skillet
-  reviews. Read on
+description: "Is Le Creuset’s price justified? Should you buy the premium cast iron cookware? We test its heat retention, durability and cooking performance to help you decide."
 seo: Le Creuset cast iron skillets are not cheap. But are they worth the
   investment? This article offers comprehensive Le Creuset cast iron skillet
   reviews. Read on

@@ -19,10 +19,7 @@ tags:
   - roaster-oven
   - what-to-cook-in-roaster-oven
 authorImageAlt: kitchenpot1
-description: The quintessential Thanksgiving dinner often features a perfectly
-  roasted turkey, with a roaster oven being a holiday hero in many households.
-  While it's commonly associated with cooking large roasts, the untapped
-  potential of a roaster oven extends far beyond that,
+description: "What can you cook in a roaster oven? Way more than turkey. Think casseroles, chili, lasagna, or cake. You can also use it to roast, bake, or slow cook food like a pro!"
 seo: What can you cook in a roaster oven? Well, as celebrations nigh, you're
   likely to wish your electric roaster oven away, right? Not so fast! This is
   how you can utilize it.

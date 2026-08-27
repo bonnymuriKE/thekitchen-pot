@@ -19,10 +19,7 @@ tags:
   - clean-electric-griddle
   - cleaning-greasy-griddles
 authorImageAlt: kitchenpot1
-description: Are you struggling with cleaning your electric griddle after
-  preparing delicious meals at home? Don't worry, maintaining your griddle clean
-  is essential to prolong its lifespan, and the cleaning process doesn't have to
-  be challenging. By following simple steps using items like
+description: "Tired of greasy griddle residue? Use this restaurant-kitchen method for sparkling clean electric griddles using only paper towels and this pantry staple."
 seo: Wondering on how to clean electric griddle? Well, there are myriad ways you
   can use to make the equipment sparkling clean. Here's a comprehensive guide
   that'll revolutionize your cleaning process.

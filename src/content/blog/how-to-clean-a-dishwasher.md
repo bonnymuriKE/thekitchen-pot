@@ -19,11 +19,7 @@ tags:
   - best-dishwasher
   - how-to-clean-an-air-fryer
 authorImageAlt: kitchenpot1
-description: It's important to keep your dishwasher clean to maintain its
-  efficiency and prevent odors and stains from transferring to your dishes.
-  Regular cleaning with simple ingredients like vinegar, baking soda, and
-  rubbing alcohol can help keep your dishwasher sparkling and odor-free.
-  Remember to
+description: "Why your dishwasher isn't cleaning? Follow our 5-step monthly maintenance routine (vinegar hack included!) to banish grime, hard water stains and lingering food odors."
 seo: How to clean a dishwasher effectively is a necessary skill if you want to
   get the best out of your dishwasher. This definitive guide offers
   implementable tips on DIY cleaning of dishwashers. Read on.

@@ -19,10 +19,7 @@ tags:
   - gas-grills
   - meat-smoking
 authorImageAlt: kitchenpot1
-description: If you're tired of dry overcooked meat ruining your BBQ experience,
-  it's time to invest in the best meat thermometer for smoking. This small
-  kitchen tool will help you achieve perfectly cooked and flavorful BBQ every
-  time by regulating the meat's temperature accurately.
+description: "Want to get perfectly cooked meat without much hassle? Here are the best meat thermometers for smoking to help you get perfect temps and juicy results!"
 seo: Are you looking for the best meat thermometer for smoking? This is the best
   decision that any kitchen enthusiast can make. Her's a comprehensive buying
   guide.

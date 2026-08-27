@@ -19,10 +19,7 @@ tags:
   - lodge-cast-iron-skillet
   - staub-skillet
 authorImageAlt: kitchenpot1
-description: The Stargazer cast iron skillet may not have a shiny finish, but it
-  performs exceptionally well, with no sticking or hotspots. Despite some minor
-  drawbacks like a lack of pouring lips and handles that can get hot, it offers
-  top-notch performance and
+description: "Is the Stargazer Cast Iron Skillet really the best skillet for you? This review unpacks the pros, quirks, and must-know features before you make the leap."
 seo: Stargazer cast iron skillet is lightweight, smooth, and guarantees
   top-notch performance. I bought the pan to test its performance and here are
   the results. Read on

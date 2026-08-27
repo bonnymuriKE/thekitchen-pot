@@ -18,10 +18,7 @@ tags:
   - how-to-clean-a-dishwasher
   - how-to-clean-an-air-fryer
 authorImageAlt: kitchenpot1
-description: If you've noticed brown residue in your electric kettle, don't
-  worry, it's just limescale from boiling water. While limescale is harmless, it
-  can affect your kettle's efficiency and appearance. Check out some practical
-  tips on cleaning your
+description: "Black flakes in your tea? Scary! Our deep-cleaning guide removes mineral deposits and prevents future build-up for safer, better-tasting water. Works every time!"
 seo: Wondering how to clean an electric kettle? There are 4 proven techniques
   that you can use to restore the shiny look in your kettle. This article offers
   a comprehensive guide.

@@ -19,9 +19,7 @@ tags:
   - gas-grills
   - under-500
 authorImageAlt: kitchenpot1
-description: Are you in search of quality gas grills under $500? Look no
-  further! Our curated list of the 8 Best Gas Grills Under $500 offers top-notch
-  grilling without breaking the bank. Whether you're a seasoned BBQ pro or just
+description: "Upgrade your BBQ game! We’ve tested top gas grills under $500 for power, durability & flavor. See which affordable models made the cut and sear like a pro!"
 seo: Best gas grills under 500? Well, purchasing a gas grill will not be a easy!
   This guide offers implementable tips to make shopping a breeze. Read on.
 authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of

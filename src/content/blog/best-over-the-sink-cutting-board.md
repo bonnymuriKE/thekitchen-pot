@@ -25,11 +25,7 @@ tags:
   - knife-sets-under-100
   - sinks
 authorImageAlt: kitchenpot1
-description: If you're looking to expand your cutting space and make meal prep
-  more efficient, consider investing in the best over the sink cutting board.
-  These boards come with colanders for draining excess liquid and can even store
-  veggies as you cut them, saving you time
----
+description: "Chop, rinse, and prep with ease using the best over the sink cutting board. They are creatively designed to maximize space and reduce kitchen mess."---
 Do you want more cutting space when preparing your meals? Well, buying the best over the sink cutting board is a brilliant way to expand your cutting space over your sink.
 
 Most of these boards have colanders that are essential in draining excess liquid, this providing a conducive working environment. Even better, you can use these hollow parts to store your potatoes and other veggies as you cut them.

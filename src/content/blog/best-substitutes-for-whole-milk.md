@@ -21,10 +21,7 @@ tags:
   - substitute-for-whole-milk
   - vegan-milk-substitute
 authorImageAlt: kitchenpot1
-description: If you find yourself in a pinch without whole milk while baking or
-  cooking, don't panic! There are several substitutes you can use without
-  compromising the taste of your dish. From sour cream to half & half, there are
-  options to suit your needs.
+description: "Out of whole milk? These genius substitutes work perfectly in baking, coffee & sauces, including options for vegans or lactose-intolerant individuals."
 seo: Looking for the best substitutes for whole milk? This article details both
   dairy and non-dairy options that you can consider. Read on for insightful
   tips.

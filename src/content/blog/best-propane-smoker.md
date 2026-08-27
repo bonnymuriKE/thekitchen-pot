@@ -19,10 +19,7 @@ tags:
   - gas-grills-under-500
   - propane-grills
 authorImageAlt: kitchenpot1
-description: If you're looking for a convenient way to cook with a delicious
-  smoky flavor, investing in the best propane smoker is the way to go. With
-  options that slash down on time-consuming aspects of smoking, you can enjoy
-  tasty food without worries of poorly
+description: "Ready to smoke delicious meats? Here are the best propane smokers to elevate your BBQ game. Our buying guide covers features, tips, and top picks for smokers."
 seo: Do you love smoked meat? Well, you should get the best propane smoker to
   spice up your meals. Here's a comprehensive guide on what to consider when
   buying.

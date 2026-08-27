@@ -19,10 +19,7 @@ tags:
   - best-skillets
   - frying-pan-vs-skillet
 authorImageAlt: kitchenpot1
-description: Confused about the difference between a skillet and a frying pan?
-  This article breaks down the distinctions and advantages of each cookware,
-  helping you make an informed choice. From tossing ability to surface area and
-  evaporation rate, we cover it all to ensure
+description: "Skillet vs. frying pan: What’s the difference? One has sloped sides for flipping, the other is deep for stews. Master which to use for eggs, steaks & more!"
 seo: What is the difference between skillet and frying pan? This is a common
   question that only a few of kitchen enthusiasts can answer. Here are the
   crucial differences.

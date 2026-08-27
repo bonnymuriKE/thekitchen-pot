@@ -19,10 +19,7 @@ tags:
   - how-air-fryer-works
   - how-to-bake-cookies-on-convection-oven
 authorImageAlt: kitchenpot1
-description: If you're in a hurry and hungry, consider cooking sausages in the
-  oven for a quick and delicious meal. This method offers a unique taste and
-  evenly cooked sausages within just 30 minutes. Plus, it's a healthier option
-  compared
+description: "How to cook sausages in an oven instead of deep frying? Our tested sausage oven cooking tricks (plus how to tell when they're safely done) for crispier skins."
 seo: Are you in a hurry and hungry? This article offers unique hacks on how to
   cook sausages in the oven. You'll have your snack in 15 minutes!
 authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of

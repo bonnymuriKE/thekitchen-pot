@@ -18,10 +18,7 @@ tags:
   - mini-fridge-for-beer
   - side-by-side-refrigerator
 authorImageAlt: kitchenpot1
-description: If you've recently purchased a mini fridge for cold beverages, it's
-  important to maintain it properly to avoid short-lived joy. Learning how to
-  defrost a mini fridge is crucial for its longevity and optimal performance.
-  This comprehensive guide provides tips and steps to
+description: "Need to defrost your mini fridge? Try these 2 fast, safe methods to remove ice build-up and keep it running efficiently. Keep food fresh & energy bills low."
 seo: Wondering how to defrost a mini fridge? This guide offers the do's and the
   dont's that you should always consider when defrosting. Read on.
 authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of

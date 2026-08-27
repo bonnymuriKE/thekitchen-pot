@@ -19,10 +19,7 @@ tags:
   - best-gas-grills-under-500
   - gas-and-charcoal-grill-combo
 authorImageAlt: kitchenpot1
-description: If you're a fan of perfectly grilled barbecue, the best infrared
-  grills for the money can enhance your cooking experience. This article covers
-  everything you need to know about how these grills work, their key features,
-  and the top options available in the
+description: "The secret to perfect grilling is here! Explore the best infrared grills for the money that deliver high heat and juicy steaks. Your patio deserves this."
 seo: If you're want to transform your grilling experiences, then it is time you
   consider the best infrared grills for the money. Here's are the benefits
   you'll get by buying one! Read on for an all-inclusive guide.

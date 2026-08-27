@@ -18,10 +18,7 @@ tags:
   - kitchen-sinks
   - stainless-steel-sinks
 authorImageAlt: kitchenpot1
-description: Stainless steel sinks are a popular choice for many kitchens, with
-  16-inch and 18-inch sizes being most common. In this guide, we compare the two
-  sizes to help you decide what's best for your kitchen and provide tips on
-  caring for
+description: "Confused about sink thickness? Get expert tips on choosing between 16 and 18-gauge sinks—learn which one fits your budget, lifestyle, and kitchen."
 seo: What gauge stainless steel sink is best for you? What should you look out
   for when shopping for one? This guide answers all your questions
   comprehensively.

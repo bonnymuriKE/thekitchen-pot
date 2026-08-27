@@ -19,10 +19,7 @@ tags:
   - gas-and-charcoal-grill-combo
   - gas-grills-under-500
 authorImageAlt: kitchenpot1
-description: Smoking is an ancient cooking technique that dates back to the Old
-  Stone Age, where people realized that smoked meat not only tasted better but
-  also lasted longer. While smoking has evolved over time, the invention of
-  electric smokers has revolutionized the process. This
+description: "How to use an electric smoker like a pitmaster? This guide gives you all the smoky secrets and success tips – even beginners can achieve fall-off-the-bone results."
 seo: How to use an electric smoker? Well, how well you smoke your meat depends
   on your smoking techniques. This article guide you through all the steps
   necessary to transform you into a smoking guru fast!

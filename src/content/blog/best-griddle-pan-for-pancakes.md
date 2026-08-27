@@ -19,10 +19,7 @@ tags:
   - griddle-pan
   - griddle-pans-for-pancakes
 authorImageAlt: kitchenpot1
-description: Are you looking for the perfect griddle pan to make delicious
-  pancakes? This article discusses the benefits of different materials like
-  copper, cast iron, cast aluminum, and stainless steel. It also highlights
-  factors to consider, such as the size, surface type,
+description: "Craving perfect pancakes without the high cost? We’ve rounded up the best griddle pans for pancakes to turn your breakfast game from average to amazing."
 seo: Are you looking for the best griddle pan for pancakes? This article offers
   all the guidelines that you need to purchase that which will serve you the
   best. Read on to learn more.

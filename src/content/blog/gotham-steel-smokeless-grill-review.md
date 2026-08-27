@@ -21,10 +21,7 @@ tags:
   - offset-smokers-for-beginners
   - propane-grills
 authorImageAlt: kitchenpot1
-description: If you're new to grilling and looking for the perfect smokeless
-  grill, the Gotham Steel Smokeless Grill might be the solution you need. This
-  grill offers a nonstick ceramic surface, fast heat-up, and easy cleaning,
-  making it a convenient
+description: "Indoor grilling without smoke? Our Gotham Steel Smokeless Grill review tests its titanium coating, drip tray & claims. Crispy burgers, but is it truly smokeless?"
 seo: Smokeless grills are revolutionary. They help you grill your BBQ at the
   comfort of your kitchen with no worry of smoke. This Gotham steel smokeless
   grill review seeks to separate the facts from fiction on smokeless technology.
