@@ -51,7 +51,7 @@ import netlify from "@astrojs/netlify";
 export default defineConfig({
   site: "https://thekitchenpot.com",
 
-  // trailingSlash: "always",
+  trailingSlash: "always",
   integrations: [
     react(),
     tailwind({
@@ -62,6 +62,7 @@ export default defineConfig({
       changefreq: "weekly",
       priority: 0.7,
       lastmod: new Date("2025-07-08"),
+      filter: (page) => !page.includes('/admin') && !page.includes('/auth') && !page.includes('/blog/tag') && !page.includes('/blog/category'),
     }),
     // auth()
   ],
