@@ -260,7 +260,7 @@ This classic pizza stone from Honey-Can-Do offers quality and is also pocket fri
 
 Budget pick-honey-can-do is built from heat resistant and lead-free clay that can be used in the oven or the grill.
 
-**[Read about the best gas grills you can use with your best pizza stone here](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills//)**
+**[Read about the best gas grills you can use with your best pizza stone here](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills/)**
 
 This pizza stone requires 30 to 45 minutes of pre-heating. This may be inconvenient if you want to bake your pizza quickly. However, the preheating time is common with most pizza stones.
 

@@ -92,7 +92,7 @@ As such, this cooktop is economical and practical. It allows you to adjust the w
 
 **High Portability** 
 
-If you own a **[standard induction cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money//)**, it won’t be easy to use it outdoors. As such, you’ll need the lightweight and highly portable NuWave induction cooktop to enjoy outdoor escapades with your family. 
+If you own a **[standard induction cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money/)**, it won’t be easy to use it outdoors. As such, you’ll need the lightweight and highly portable NuWave induction cooktop to enjoy outdoor escapades with your family. 
 
 The NuWave cooktop weighs between 5 and 9 pounds, an ideal weight to allow ease of movement. You can use it anywhere as long as you have AC power. 
 
@@ -200,7 +200,7 @@ Radiant
 
 [Check Latest Price on Amazon](https://www.amazon.com/NuWave-Commercial-Grade-NSF-Certified-Programmable-Capabilities/dp/B085J2PQRB?tag=kitchenpot-20)
 
-This 1800-watt NuWave PIC Pro Chef cooktop has a series of magnetic induction coils in its 8 inches cooking surface. These coils will generate enough magnetic fields to heat your **[best induction cookware](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)**, and cook your meals fast. 
+This 1800-watt NuWave PIC Pro Chef cooktop has a series of magnetic induction coils in its 8 inches cooking surface. These coils will generate enough magnetic fields to heat your **[best induction cookware](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/)**, and cook your meals fast. 
 
 It is NSF-certified due to its top-notch functionality and durability standards. The cooktop glass is hardened enough and will not shatter, unless extreme force is exerted (it passed a drop test that had an impact of 1.5 ft-lbs)
 
@@ -218,7 +218,7 @@ Additionally, this cooktop has smart cooking features that make cooking fun. It 
 
 Not all cookware will be compatible with your induction cooktop. The compatibility will depend on the magnetic properties of the material used.
 
-> For the [cookware to be induction-compatible](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//), it must be made from a magnetic material such as cast iron and stainless steel.
+> For the [cookware to be induction-compatible](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/), it must be made from a magnetic material such as cast iron and stainless steel.
 
 If a cookware is made from other materials but has a magnetic base, then it will work well with an induction cooktop. For example, a ceramic pan with an iron base.
 
@@ -343,7 +343,7 @@ You will require magnetic cookware to use this burner. If your cookware is not i
 
 Additionally, this cooktop has a Child Lock feature for guaranteed safety. No open flame will be visible, further making it ideal for the elderly, children, and pet lovers. 
 
-***Read a [comprehensive guide on other induction cooktops](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money//) you can consider***
+***Read a [comprehensive guide on other induction cooktops](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money/) you can consider***
 
 ## NuWave Induction Cooktop Review – The Bottom Line
 

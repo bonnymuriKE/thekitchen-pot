@@ -91,7 +91,7 @@ While Cuisinart MCP-12n Multiclad Pro Stainless Steel 12-Piece Cookware Set offe
 
 There is a high chance that you will burn your food when using the set for the first time, resulting in a black surface. To avoid this, you should heat the pan slowly under low heat and add a little oil. Continue heating it until you can see a little smoke from the pan’s surface. This way, your pan will be seasoned, and you’ll have no problems using it henceforth. 
 
-If you already have the blackened surface and you’re wondering how to clean it, then you can get a **[comprehensive guide on cleaning stainless steel cookware](https://thekitchenpot.com/blog/how-to-clean-stainless-steel-pans//)** here.
+If you already have the blackened surface and you’re wondering how to clean it, then you can get a **[comprehensive guide on cleaning stainless steel cookware](https://thekitchenpot.com/blog/how-to-clean-stainless-steel-pans/)** here.
 
 **Pans are not stackable.**
 
@@ -131,7 +131,7 @@ For all these pieces, Cuisinart has priced this set quite affordably. You’ll g
 
 ### **2. Cuisinart 11-Piece Professional Stainless Cookware Set**
 
-This Cuisinart cookware set integrates a PowerBond high impact bonded base that heats relatively fast and guarantees a uniform heat distribution. The set is induction-ready, and you can use your **[induction cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money//)** without any difficulty. 
+This Cuisinart cookware set integrates a PowerBond high impact bonded base that heats relatively fast and guarantees a uniform heat distribution. The set is induction-ready, and you can use your **[induction cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money/)** without any difficulty. 
 
 The set features riveted cool stainless handles that are designed to offer exceptional functionality, strength, and durability. Additionally, the set comes with tempered glass FlavorLock lids that lock in moisture and nutrients, thus guaranteeing healthier and tastier meals. 
 

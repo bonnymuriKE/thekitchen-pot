@@ -55,7 +55,7 @@ Poaching is a cooking technique that involves cooking by submerging food in liqu
 
 Poaching is different from the other “moist heat” cooking methods, such as boiling and simmering in that it uses a relatively low temperature.
 
-If you regularly cook fish, you may find it hectic even when using the [best saute pans](https://thekitchenpot.com/blog/best-saute-pan//)! As such, investing in the best fish poacher is worthwhile.
+If you regularly cook fish, you may find it hectic even when using the [best saute pans](https://thekitchenpot.com/blog/best-saute-pan/)! As such, investing in the best fish poacher is worthwhile.
 
 ## **10 Best Fish Poachers** 
 

@@ -165,7 +165,7 @@ Never heat your chocolate directly since it will turn into a lump. Instead, you 
 
 ## Tips on How to Use a Fondue Pot Effectively
 
-* Initially Use a Stove. At the initial stages of your cooking, you should use your **[stove cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money//)** to heat the fondue to the required temperature. Once you achieve the right temperature, you should transfer it to the fondue pot to keep it warm under constant temperature. This applies to all other meals.
+* Initially Use a Stove. At the initial stages of your cooking, you should use your **[stove cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money/)** to heat the fondue to the required temperature. Once you achieve the right temperature, you should transfer it to the fondue pot to keep it warm under constant temperature. This applies to all other meals.
 * **Use a Trivet.** Placing your fondue pot on a trivet will protect your table from the hot pot and eliminate any chances of fire accidents. 
 * **Use Flavorful Beverages to Prepare Fondue.** When preparing your fondue, we recommend that you use dry wines. Avoid water as much as you can. 
 * **Limit the Number of People Using One Fondue.** We recommend that you limit the fondue users to four per pot. 

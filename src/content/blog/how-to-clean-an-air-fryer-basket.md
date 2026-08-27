@@ -39,7 +39,7 @@ If you’re in such a situation, then worry no more! This article offers a compr
 
 ## How to Clean an Air Fryer Basket – Why It is Important
 
-You love [cooking in an air fryer](https://thekitchenpot.com/blog/best-air-fryers-under-100//), right? But sometimes after using it, that chicken skin or dried sweet potato that sticks on the surface annoys you so much. It can cause problems for your air fryer which will result in extra expenditure.
+You love [cooking in an air fryer](https://thekitchenpot.com/blog/best-air-fryers-under-100/), right? But sometimes after using it, that chicken skin or dried sweet potato that sticks on the surface annoys you so much. It can cause problems for your air fryer which will result in extra expenditure.
 
 But what’s the solution? Clean your air fryer.
 
@@ -66,7 +66,7 @@ The air fryer basket cleaning process is incredibly easy, but there are activiti
 
 1. First, ensure that you unplug the air fryer from the power source to allow it cool down totally. With that done, wait for half an hour to make the air fryer’s basket cool before you begin the washing.
 
-* *If you have a tight schedule and can’t wait for the appliance to cool down, ensure you put on [heat resistant gloves](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking//) before you handle the hot device.*
+* *If you have a tight schedule and can’t wait for the appliance to cool down, ensure you put on [heat resistant gloves](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking/) before you handle the hot device.*
 * *Additionally, if you decide to use oven gloves, never allow water to get on them as they won’t protect your hands when they get wet.*
 
 2. After everything on the appliance has calm down, pull out the pan from the air fryer then lift the basket out. Do this by grabbing the pan’s handle then sliding it away gently from the gadget.

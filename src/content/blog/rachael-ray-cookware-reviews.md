@@ -118,7 +118,7 @@ It is not compatible with an induction cooktop. 
 
 [Check Latest Price on Amazon](https://www.amazon.com/Rachael-Ray-14-Piece-Nonstick-16223/dp/B00URO56CG?tag=kitchenpot-20)
 
-**Read about the [best cookware set for induction cooktop here](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)**
+**Read about the [best cookware set for induction cooktop here](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/)**
 
 ### **5. [Rachael Ray Brights Nonstick Frying Pan Set / Fry Pan Set / Skillet Set](https://www.amazon.com/Rachael-Ray-Aluminum-Nonstick-9-25-Inch/dp/B01DTF0U1G?tag=kitchenpot-20)**
 

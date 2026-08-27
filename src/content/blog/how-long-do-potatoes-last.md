@@ -88,7 +88,7 @@ If cooked, then you should use an airtight storage container to keep the leftove
 
 #### ***How Long Do Potatoes Last in a Freezer?***
 
-If cooked potatoes are stored well in an **[airtight storage container](https://thekitchenpot.com/blog/best-airtight-food-storage-containers//)**, they can last 10-12 months in a freezer. The temperature should be approximately 0°F.
+If cooked potatoes are stored well in an **[airtight storage container](https://thekitchenpot.com/blog/best-airtight-food-storage-containers/)**, they can last 10-12 months in a freezer. The temperature should be approximately 0°F.
 
 ## How to Know Whether Potatoes Have Gone Bad
 

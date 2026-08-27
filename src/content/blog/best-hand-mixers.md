@@ -299,7 +299,7 @@ Most hand mixers offer a range of speed settings that can range from 0-12 (With 
 
 Having attachments will simplify your mixing exercises and enable you to undertake activities that would otherwise require a stand mixer or a food processor.
 
-[Read more about how a food processor can improve your cooking experiences here](https://thekitchenpot.com/blog/best-food-processor-under-100//)
+[Read more about how a food processor can improve your cooking experiences here](https://thekitchenpot.com/blog/best-food-processor-under-100/)
 
 As such, ensuring that your best hand mixer has attachments will improve your mixing experience significantly. Some of the attachments/accessories you should consider include:
 

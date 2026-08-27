@@ -356,7 +356,7 @@ As such, you should only use if you’re ready to significantly reduce the durab
 
 That’s all:
 
-Your [coffee is ready](https://thekitchenpot.com/blog/best-coffee-maker-with-a-grinder//) and you want pancakes to complement the beverage. Here are factors to consider to ensure that you get a quick and efficient pan.
+Your [coffee is ready](https://thekitchenpot.com/blog/best-coffee-maker-with-a-grinder/) and you want pancakes to complement the beverage. Here are factors to consider to ensure that you get a quick and efficient pan.
 
 ## Factors to consider when buying the best nonstick pans
 

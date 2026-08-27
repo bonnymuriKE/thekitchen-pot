@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Buying a good **[knife set](https://thekitchenpot.com/blog/best-knife-set-under-100//)** should be a priority for any homeowner. Knives are instrumental in easing your food prep and, to some extent, **self defense.**
+Buying a good **[knife set](https://thekitchenpot.com/blog/best-knife-set-under-100/)** should be a priority for any homeowner. Knives are instrumental in easing your food prep and, to some extent, **self defense.**
 
 When buying a knife, you’ll have to consider many factors to ensure that you only settle for the best.
 
@@ -101,7 +101,7 @@ Like we’ve highlighted, the key differences between the main differences betwe
 
 If you’re looking for a hardy knife that can endure tough assignments, then you should settle for the forged one. 
 
-**[Forged knives are thicker and heavy](https://thekitchenpot.com/blog/wusthof-knives-review//)**, thus guaranteeing stability when cutting bones and undertaking other tough tasks. If you undertake these duties with a stamped knives, you can be sure of bending and reduced durability.
+**[Forged knives are thicker and heavy](https://thekitchenpot.com/blog/wusthof-knives-review/)**, thus guaranteeing stability when cutting bones and undertaking other tough tasks. If you undertake these duties with a stamped knives, you can be sure of bending and reduced durability.
 
 Additionally, the design of forged knives makes them safer than the stamped ones. They have a bolster that prevents your hand from sliding into the blade, thus offering extra safety. 
 
@@ -140,7 +140,7 @@ Many manufacturers make forged knives. However, the three main brands with treme
 
 ## **Forged vs. Stamped Knives: The Bottom Line**
 
-**[Forged knives](https://thekitchenpot.com/blog/wusthof-knives-review//)** are your best bet if you love heavy and durable kitchen knives. They are made from heavy-duty steel bars that are heated and honed to perfection. These knives have better edge retention, which eliminates the need to sharpen them now and then.
+**[Forged knives](https://thekitchenpot.com/blog/wusthof-knives-review/)** are your best bet if you love heavy and durable kitchen knives. They are made from heavy-duty steel bars that are heated and honed to perfection. These knives have better edge retention, which eliminates the need to sharpen them now and then.
 
 On the other hand, the stamped knives are light. They are ideal for simple duties that do not require intense force. While these knives are cheaper than the forged ones, they are not as durable. 
 

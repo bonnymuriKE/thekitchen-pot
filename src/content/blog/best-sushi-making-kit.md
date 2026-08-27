@@ -233,11 +233,11 @@ FUNGYAND
 
 [Check Latest Price on Amazon](https://www.amazon.com/Sushi-Making-Kit-Chopsticks-Spreader/dp/B07HRR4L5R/?tag=kitchenpot-20)
 
-This is an all-in-one kit that contains a **[dishwasher-safe](https://thekitchenpot.com/blog/how-to-clean-a-dishwasher//)** bazooka for an unmatched sushi-making experience. It includes a bamboo mat, spreader, knife, paddle, bamboo chopsticks, avocado slicer, and chopstick holders. 
+This is an all-in-one kit that contains a **[dishwasher-safe](https://thekitchenpot.com/blog/how-to-clean-a-dishwasher/)** bazooka for an unmatched sushi-making experience. It includes a bamboo mat, spreader, knife, paddle, bamboo chopsticks, avocado slicer, and chopstick holders. 
 
 The sushi-making kit comprises 100% natural premium bamboo and food-grade plastic that is BPA-free. Its high-security profile ensures that you are safe and healthier as you enjoy your favorite sushi. 
 
-The mats have high-quality cotton threads to ensure that you have an easy rolling time. These mats are easy to clean using water and warm soap. All the plastic constituents are **[dishwasher safe](https://thekitchenpot.com/blog/how-to-clean-a-dishwasher//)**, which makes cleaning a breeze. 
+The mats have high-quality cotton threads to ensure that you have an easy rolling time. These mats are easy to clean using water and warm soap. All the plastic constituents are **[dishwasher safe](https://thekitchenpot.com/blog/how-to-clean-a-dishwasher/)**, which makes cleaning a breeze. 
 
 Additionally, this sushi-making kit is easy to use. All you’ll need is to open its sushi bazooka, load it with rice and other ingredients, and squeeze it into its final products, with unmatched ease. 
 
@@ -329,7 +329,7 @@ The plastic ones are sturdy, and you can clean them with much ease, including us
 
 **4. Ease of Cleaning** 
 
-If you’d love to **[use a dishwasher to clean](https://thekitchenpot.com/blog/how-to-clean-a-dishwasher//)** your best sushi making kit, then you should ensure that you select the plastic model as opposed to the bamboo ones.
+If you’d love to **[use a dishwasher to clean](https://thekitchenpot.com/blog/how-to-clean-a-dishwasher/)** your best sushi making kit, then you should ensure that you select the plastic model as opposed to the bamboo ones.
 
 Even then, it would be best if you were keen to check the manufacturer’s cleaning instructions. 
 

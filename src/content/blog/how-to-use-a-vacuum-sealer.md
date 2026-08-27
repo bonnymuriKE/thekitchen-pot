@@ -36,13 +36,13 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 You can use this important tool to seal and preserve your ingredients and other perishables when you buy in bulk. 
 
-Besides owning **[airtight food storage containers](https://thekitchenpot.com/blog/best-airtight-food-storage-containers//)**, learning how to use a vacuum sealer will save you many storage hassles. 
+Besides owning **[airtight food storage containers](https://thekitchenpot.com/blog/best-airtight-food-storage-containers/)**, learning how to use a vacuum sealer will save you many storage hassles. 
 
-Additionally, a vacuum sealer comes in handy when you’re using your **[sous vide precision cooker](https://thekitchenpot.com/blog/sous-vide-power-precision-cooker//)**. It eliminates all the air from the bag, thus allowing your food to cook entirely in vacuum, thus ensuring superbly well-cooked meals.
+Additionally, a vacuum sealer comes in handy when you’re using your **[sous vide precision cooker](https://thekitchenpot.com/blog/sous-vide-power-precision-cooker/)**. It eliminates all the air from the bag, thus allowing your food to cook entirely in vacuum, thus ensuring superbly well-cooked meals.
 
 ## Why You Should Own a Vacuum Sealer 
 
-There are a plethora of benefits that you get by owning a **[vacuum sealer](https://thekitchenpot.com/blog/best-vacuum-sealer-for-sous-vide//)**. It is the best investment when you need to reduce food wastage and enhance your cooking experiences.
+There are a plethora of benefits that you get by owning a **[vacuum sealer](https://thekitchenpot.com/blog/best-vacuum-sealer-for-sous-vide/)**. It is the best investment when you need to reduce food wastage and enhance your cooking experiences.
 
 Here are three scenarios when a vacuum sealer will make life easy for you:
 
@@ -50,13 +50,13 @@ Here are three scenarios when a vacuum sealer will make life easy for you:
 
 If you’re not careful with the method you use to store food leftovers, you’re likely to experience food poisoning. Storing the food on an open surface creates a perfect environment for harmful bacteria to multiply, which can cause severe health complications. 
 
-As such, you should ensure that you store the food in an environment that’s free of contamination. One of the surest ways to achieve that is by using a **[vacuum sealer](https://thekitchenpot.com/blog/best-vacuum-sealer-for-sous-vide//)**. 
+As such, you should ensure that you store the food in an environment that’s free of contamination. One of the surest ways to achieve that is by using a **[vacuum sealer](https://thekitchenpot.com/blog/best-vacuum-sealer-for-sous-vide/)**. 
 
 This appliance removes air from the storage bag, thus creating a vacuum. This process is crucial since it ensures that microbes do not multiply, thus protecting your food from going bad. 
 
 **When Using a Sous Vide Precision Cooker** 
 
-**[Sous Vide Precision Cooker machine](https://thekitchenpot.com/blog/sous-vide-power-precision-cooker//)** allows you to cook your meals in vacuum-sealed containers. This is a slow-cooking technique that enables you to get evenly cooked meals that are soft and tender. 
+**[Sous Vide Precision Cooker machine](https://thekitchenpot.com/blog/sous-vide-power-precision-cooker/)** allows you to cook your meals in vacuum-sealed containers. This is a slow-cooking technique that enables you to get evenly cooked meals that are soft and tender. 
 
 However, there is a catch!
 

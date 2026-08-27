@@ -87,7 +87,7 @@ Adding nonstick surfaces to these valleys allows you to cook with little to no o
 
 The peaks offer a stainless steel surface which enhances your cooking escapades. It improves your searing and sautéing process, ensuring that you achieve golden brown meals.
 
-Additionally, these stainless steel peaks protect your pan from peeling and flaking, thus guaranteeing durability. As such, you can **freely use your [best metal spatulas](https://thekitchenpot.com/blog/best-metal-spatula-set//) without the fear of peeling the nonstick surface.** 
+Additionally, these stainless steel peaks protect your pan from peeling and flaking, thus guaranteeing durability. As such, you can **freely use your [best metal spatulas](https://thekitchenpot.com/blog/best-metal-spatula-set/) without the fear of peeling the nonstick surface.** 
 
 **No Hotspots** 
 

@@ -233,7 +233,7 @@ While scrubbing may be necessary to remove the burnt areas, you should always be
 
 **Also Read:**
 
-**[Best nonstick pans to consider](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//)**
+**[Best nonstick pans to consider](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/)**
 
 ## Circulon Premier Professional Reviews – the Bottom Line
 

@@ -43,7 +43,7 @@ This article details various conversion units that give cooks a hard time when d
 
 If you love cooking, you’ll appreciate the importance of hacking the measuring units question. A meal that would otherwise have been scrumptious can become unpalatable because of an excess ingredient!
 
-Yes, if a recipe states that you add 2 tablespoons of **[olive oil](https://thekitchenpot.com/blog/best-oil-for-air-fryer//)** (or any other ingredient), you should be careful to follow the instruction, lest your meal becomes a waste.
+Yes, if a recipe states that you add 2 tablespoons of **[olive oil](https://thekitchenpot.com/blog/best-oil-for-air-fryer/)** (or any other ingredient), you should be careful to follow the instruction, lest your meal becomes a waste.
 
 While following the instruction is the easier part, there is the more complicated assignment of knowing the exact amount of ingredients required when using the measuring units available at your disposal.
 

@@ -327,7 +327,7 @@ Does your best waffle maker with removable plates have a time, a clear display, 
 
 * **Cooking Surface**
 
-What would you want for a cooking surface? You’ve probably heard of the [best non-stick pan](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//), right? But did you know that we also have -stick Teflon waffle makers?
+What would you want for a cooking surface? You’ve probably heard of the [best non-stick pan](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/), right? But did you know that we also have -stick Teflon waffle makers?
 
 Well, the two most common materials include the non-stick coatings and ceramic ones. The former is easy to clean and has top-notch functionality. On the other hand, the latter is highly effective but difficult to clean and maintain.
 

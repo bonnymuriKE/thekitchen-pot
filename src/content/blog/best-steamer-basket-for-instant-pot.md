@@ -323,7 +323,7 @@ It features a compact design and can easily fit in your squeezed kitchen. It has
 
 ## Best Steamer Basket for Instant Pot – Factors to Consider When Buying
 
-Before you settle for the best steamer basket for [instant pot](https://thekitchenpot.com/blog/instant-pot-vs-pressure-cooker//), you should consider the following crucial factors:
+Before you settle for the best steamer basket for [instant pot](https://thekitchenpot.com/blog/instant-pot-vs-pressure-cooker/), you should consider the following crucial factors:
 
 **Size**
 

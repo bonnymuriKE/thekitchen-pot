@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-If you love BBQ, you probably use a **[meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking//)** to ensure that you get perfect doneness every time you grill or **[smoke meat](https://thekitchenpot.com/blog/best-offset-smoker-for-beginners//)**.
+If you love BBQ, you probably use a **[meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking/)** to ensure that you get perfect doneness every time you grill or **[smoke meat](https://thekitchenpot.com/blog/best-offset-smoker-for-beginners/)**.
 
 But if you don’t clean your thermometer after each use, bacteria from last week’s messy job could be making the rounds in your current meat packets.
 
@@ -46,7 +46,7 @@ Let’s face it, most of us use our meat thermometers for only a few seconds at 
 
 The truth is that every time you insert the thermometer into meat, juices and bacteria flows out onto the stem and around the sensor. Before you know it, you’ve got a mess on your hands.
 
-Remember, the tip of a **[digital meat thermometer](https://thekitchenpot.com/blog/7-best-candy-thermometer//)** is tiny and designed to slip into tight spaces and remain there for several seconds. That’s why it needs cleaning after each use.
+Remember, the tip of a **[digital meat thermometer](https://thekitchenpot.com/blog/7-best-candy-thermometer/)** is tiny and designed to slip into tight spaces and remain there for several seconds. That’s why it needs cleaning after each use.
 
 ## **How To Clean A Meat Thermometer: What You’ll Need**
 
@@ -56,7 +56,7 @@ Remember, the tip of a **[digital meat thermometer](https://thekitchenpot.com/bl
 
 ## **How to Clean A Meat Thermometer – Step-by-Step Guide**
 
-You should always clean your **[meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking//)** immediately after use. This way, you can avoid the mess of dried meat juice later.
+You should always clean your **[meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking/)** immediately after use. This way, you can avoid the mess of dried meat juice later.
 
 **Step 1: Soak & Scrub**
 
@@ -80,11 +80,11 @@ Finally, dry your meat thermometer with a clean cloth or paper towel. Remember t
 
 And there you have it–a sparkling-clean meat thermometer that’s safe to use for barbecuing and smoking!
 
-**Use the same procedure to clean a [candy thermometer](https://thekitchenpot.com/blog/7-best-candy-thermometer//)**
+**Use the same procedure to clean a [candy thermometer](https://thekitchenpot.com/blog/7-best-candy-thermometer/)**
 
 ## **How To Sanitize A Meat Thermometer**
 
-In case you’re out **[camping](https://thekitchenpot.com/blog/best-camping-cookware//)**, you will likely not have enough water to be able to give your meat thermometer the thorough cleaning outlined above.
+In case you’re out **[camping](https://thekitchenpot.com/blog/best-camping-cookware/)**, you will likely not have enough water to be able to give your meat thermometer the thorough cleaning outlined above.
 
 Instead, you can use a **[commercial sanitizing solution](https://www.amazon.com/s?k=sanitizing+solution+for+cleaning&crid=2Y1SVIKSYDFZH&sprefix=sanitizing+solution%2Caps%2C629&?tag=kitchenpot-20)** and follow the step-by-step instructions (for soaking and scrubbing) as given on its label.
 
@@ -104,9 +104,9 @@ Don’t forget to clean your meat thermometer at least once a month, especially 
 
 ## **How to Clean A Meat Thermometer – The Bottom Line**
 
-A clean **[meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking//)** is a safe meat thermometer. Keep yours in good condition by following the step-by-step guide above and it will last you years of cooking enjoyment!
+A clean **[meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking/)** is a safe meat thermometer. Keep yours in good condition by following the step-by-step guide above and it will last you years of cooking enjoyment!
 
-And, just to be sure that your **[barbecue](https://thekitchenpot.com/blog/best-infrared-grills-for-the-money//)** goes off without a hitch, and that you don’t get sick from undercooked or overcooked food, it pays to have multiple meat thermometers on hand.
+And, just to be sure that your **[barbecue](https://thekitchenpot.com/blog/best-infrared-grills-for-the-money/)** goes off without a hitch, and that you don’t get sick from undercooked or overcooked food, it pays to have multiple meat thermometers on hand.
 
 This will allow you to check the progress of different kinds of food at once, while also assuring that nothing cooks for too long or not long enough.
 

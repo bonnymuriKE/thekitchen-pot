@@ -45,7 +45,7 @@ Several substitutes will give you the same baking/cooking results. They include 
 
 Whole milk refers to cow milk before it is processed. It’s wholly the way it came out of the cow’s teats. Since it has all the constituents, it is creamier and tastier than any other milk form. 
 
-It contains at **least 3.25% of fat (8 grams of fat per 8 [ounces of milk](https://thekitchenpot.com/blog/how-many-ounces-in-a-quart//)).** Additionally, it has many other nutrients that make it the best cooking/baking option for your family. 
+It contains at **least 3.25% of fat (8 grams of fat per 8 [ounces of milk](https://thekitchenpot.com/blog/how-many-ounces-in-a-quart/)).** Additionally, it has many other nutrients that make it the best cooking/baking option for your family. 
 
 ## Why Substitute Whole Milk When Baking
 
@@ -135,7 +135,7 @@ However, the milk has a unique flavor. Some people like it while others don’t.
 
 This milk alternative offers a creamy and sweet soup. It is rich in vitamin D and B-12. It also contains a little calcium and approximately one gram of protein for every cup.
 
-**Read more about [coconut milk substitute](https://thekitchenpot.com/blog/best-coconut-milk-substitute//) here**
+**Read more about [coconut milk substitute](https://thekitchenpot.com/blog/best-coconut-milk-substitute/) here**
 
 ## Substitute for Whole Milk -The Bottom Line
 

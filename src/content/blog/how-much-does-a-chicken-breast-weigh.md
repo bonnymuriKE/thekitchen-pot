@@ -63,9 +63,9 @@ If you’re dealing with a rotisserie chicken, then one chicken breast will have
 
 **Read also:**
 
-**[How long should a chicken last in a fridge](https://thekitchenpot.com/blog/how-long-does-chicken-last-in-the-fridge//)**
+**[How long should a chicken last in a fridge](https://thekitchenpot.com/blog/how-long-does-chicken-last-in-the-fridge/)**
 
-**[How to reheat chicken wings](https://thekitchenpot.com/blog/how-to-reheat-chicken-wings//)**
+**[How to reheat chicken wings](https://thekitchenpot.com/blog/how-to-reheat-chicken-wings/)**
 
 ## Why You Should Know the Weight of Your Chicken Breast
 

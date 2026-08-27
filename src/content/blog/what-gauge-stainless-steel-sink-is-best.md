@@ -54,9 +54,9 @@ It’s a metal alloy that comprises 10.5% chromium and steel. Chromium gives ste
 
 Additionally, stainless steel has other components such as titanium, nickel, copper, and molybdenum that increase its formability, durability, and strength.
 
-As such, stainless steel sinks deliver a clean look that matches your **[best stainless steel cookware sets](https://thekitchenpot.com/blog/best-cookware-set-under-200//)**, thus giving your kitchen an unmatched elegance.
+As such, stainless steel sinks deliver a clean look that matches your **[best stainless steel cookware sets](https://thekitchenpot.com/blog/best-cookware-set-under-200/)**, thus giving your kitchen an unmatched elegance.
 
-Even better, these type of sinks are hardy compared to **[ceramic ones](https://www.amazon.com/s?k=Ceramic+Sinks&crid=23YD6RBANR4JL&sprefix=ceramic+sink%2Caps%2C547&?tag=kitchenpot-20)**. As such, you can use your **[over-the-sink chopping boards](https://thekitchenpot.com/blog/best-over-the-sink-cutting-board//)** or even place utensils on top without any worry!
+Even better, these type of sinks are hardy compared to **[ceramic ones](https://www.amazon.com/s?k=Ceramic+Sinks&crid=23YD6RBANR4JL&sprefix=ceramic+sink%2Caps%2C547&?tag=kitchenpot-20)**. As such, you can use your **[over-the-sink chopping boards](https://thekitchenpot.com/blog/best-over-the-sink-cutting-board/)** or even place utensils on top without any worry!
 
 **What’s A Stainless Steel Gauge?**
 
@@ -74,7 +74,7 @@ Most kitchen sinks have 18 or 16 gauge that is extremely heavy to withstand rust
 
 Thin stainless steel gauges are outstanding for small kitchen sinks. Although they are prone to bowing, dings, and denting, they are highly effective and affordable for small households. 
 
-However, sturdy [pans and pots](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//) can easily damage thin gauge stainless steel sinks as they are weaker when compared to thick gauges. More so, thin gauge sinks are highly susceptible to denting and vibrating. 
+However, sturdy [pans and pots](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/) can easily damage thin gauge stainless steel sinks as they are weaker when compared to thick gauges. More so, thin gauge sinks are highly susceptible to denting and vibrating. 
 
 As such, they are only best in small bar sinks, cabins, and recreational vehicles. For home use, we recommend using thicker stainless steel sinks. 
 

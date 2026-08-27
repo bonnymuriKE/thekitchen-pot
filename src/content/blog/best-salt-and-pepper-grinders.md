@@ -348,4 +348,4 @@ Buying the best salt and pepper grinders is a great idea. However, you should in
 
 We provides a detailed guide on what you should consider before buying your best salt and pepper grinders. Additionally, it offers a well-researched list of the best salt and pepper grinders that you should consider. 
 
-Whether you’re [baking cookies](https://thekitchenpot.com/blog/how-to-bake-cookies-in-a-convection-oven//) or cooking any other meal, you need the best salt and pepper grinders that’ll help you to balance the salt ration. This way, you’ll never get disappointed with the outcome of your meals.
+Whether you’re [baking cookies](https://thekitchenpot.com/blog/how-to-bake-cookies-in-a-convection-oven/) or cooking any other meal, you need the best salt and pepper grinders that’ll help you to balance the salt ration. This way, you’ll never get disappointed with the outcome of your meals.

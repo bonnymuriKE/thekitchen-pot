@@ -35,7 +35,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 Did you know that a congested kitchen increases the chance of accidents by almost half? If you’re guilty of placing your pots and pans anyhow in one of your cabinets, you’ll opine that it’s not the safest storage technique.
 
-Fortunately, several types of pots and pans racks can help you **[organize your kitchen](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans//)**. These racks are built using different designs and come in different sizes. As such, you can be sure that you can get one that suits your needs the best.
+Fortunately, several types of pots and pans racks can help you **[organize your kitchen](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans/)**. These racks are built using different designs and come in different sizes. As such, you can be sure that you can get one that suits your needs the best.
 
 The three major types of these racks include:
 
@@ -47,7 +47,7 @@ If you’ve been wondering how to store pots and pans safely, then read on as we
 
 ## Benefits of Owning a Pots and Pans Rack
 
-Living in a house with a small kitchen can be a hassle. You try investing in the **[best lazy Susan](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen//)** but you realize that space is still limited. If you’ve found yourself in such situations, then you should consider buying a pots and pans rack. Here are three main reasons why you need one.
+Living in a house with a small kitchen can be a hassle. You try investing in the **[best lazy Susan](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen/)** but you realize that space is still limited. If you’ve found yourself in such situations, then you should consider buying a pots and pans rack. Here are three main reasons why you need one.
 
 * **Safety.** When you have your pots on a rack, you’ll eliminate the chances of your cookware falling and hitting you accidentally. 
 * **Decorative.** Besides helping you to organize your cookware, pots and pans racks are highly aesthetics. It adds a sense of style and fashion to your kitchen. 
@@ -222,7 +222,7 @@ However, the wall-mount racks have their limitations too. Some of the drawbacks 
 
 Do you need a pot rack with lights? Well, this will depend on your preference. If your kitchen is well-lit, this feature will only serve to add to your kitchen elegance. 
 
-**[Read more on techniques that you can use to declutter your kitchen](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans//)**
+**[Read more on techniques that you can use to declutter your kitchen](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans/)**
 
 **Low Ceiling Pot Rack vs High Ceiling Pot Rack**
 
@@ -255,7 +255,7 @@ The shape you select will depend on your preferences. However, rectangular ones 
 
 Pots and pans rack is a great addition to your kitchen. It ensures that you organize your kitchen and declutter, thus creating a clean and safe cooking environment.
 
-There are d**[ifferent techniques that you can use to declutter your kitchen](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans//)**. In this article, we have highlighted how you can use pots and pans racks to organize your cookware. We’ve highlighted some of the most effective options we have in the market.
+There are d**[ifferent techniques that you can use to declutter your kitchen](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans/)**. In this article, we have highlighted how you can use pots and pans racks to organize your cookware. We’ve highlighted some of the most effective options we have in the market.
 
 Buying a pot and pan rack will certainly enhance the overall outlook of your kitchen. It will ease the process of reaching out to cookware and eliminate risks that may occur due to accidental falls of the pots and pans. 
 

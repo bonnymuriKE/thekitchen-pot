@@ -35,7 +35,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 Are you struggling with a cluttered kitchen? If so, then this article is for you. Storing pans of different sizes and shapes can be tough. It becomes even more frustrating when you cannot spot your favorite cookware when you need it most! 
 
-If you’ve found yourself in such situations, then you need to acquire lazy Susan, pot racks, and other [organizational assets](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans//) to help you keep your kitchen tidy. 
+If you’ve found yourself in such situations, then you need to acquire lazy Susan, pot racks, and other [organizational assets](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans/) to help you keep your kitchen tidy. 
 
 This guide offers a step-by-step guide on how to organize pots and pans, thus making cooking fun in your home. We will help you to get enough space for all your cookware while improving accessibility, presentability, and safety. 
 
@@ -51,7 +51,7 @@ As such, there is an absolute need to organize your pots and pans. When doing th
 * Label all your pots, containers, and pans. Labeling makes it easier for you to identify the pot that you need for a specific task with ease.
 * Put all unused pots and pans away from the cabinets/drawers to create more space for the regularly used ones. 
 
-When organizing your pots, ensure that you avoid storing scratch-prone pans stacked with other metallic cookware. For example, storing **[non-stick pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//)** together with **[metallic spatulas](https://thekitchenpot.com/blog/best-metal-spatula-set//)** may lead to scratches. 
+When organizing your pots, ensure that you avoid storing scratch-prone pans stacked with other metallic cookware. For example, storing **[non-stick pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/)** together with **[metallic spatulas](https://thekitchenpot.com/blog/best-metal-spatula-set/)** may lead to scratches. 
 
 Additionally, you should always ensure that the pans that you use regularly are closer than those that you rarely use. This way, you’ll have an easy time reaching out to them when you need them and minimize the chances of accidental falls. 
 
@@ -65,13 +65,13 @@ For example, if space is an issue at home or work there are smaller versions ava
 
 There are also larger ones that can be used as serving trays when not being used as storage containers too! So really it just depends on what size fits your needs best and where it will go in your kitchen space.
 
-I wrote an all-inclusive guide on the **[best lazy Susan organizers for the money](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen//)**. Read it here to make an informed decision on the best lazy Susan for your organizational needs. 
+I wrote an all-inclusive guide on the **[best lazy Susan organizers for the money](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen/)**. Read it here to make an informed decision on the best lazy Susan for your organizational needs. 
 
 If you’re wondering why lazy Susan comes in handy when decluttering your kitchen, then here is the answer. These are the benefits that you’ll get from these useful kitchen additions:
 
 * **Save Tons of Time.** There is nothing as hectic as trying to reach out to your pots hidden deep into the cabinet. It makes cooking a hassle and reduces the longevity of the pans as they scratch against each other in the removal/storage process.  
 * **Get More Storage Space for Pots and Pans.** This is particularly crucial if you’re living in a small condo or you have a relatively small kitchen. The lazy Susan organizer ensures that you utilize your space optimally, thus achieving a highly organized kitchen. 
-* **Organize Your Kitchen to Make Cooking Easier, Faster, and Cleaner. [Lazy Susans](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen//)** enable you to keep your kitchen clean. You will have an incredibly easy time reaching to your pots, which will make cooking fun. 
+* **Organize Your Kitchen to Make Cooking Easier, Faster, and Cleaner. [Lazy Susans](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen/)** enable you to keep your kitchen clean. You will have an incredibly easy time reaching to your pots, which will make cooking fun. 
 
 You can find these in any kitchen supply store or **[online retailer](https://www.amazon.com/s?k=padded+pot+protectors&crid=2KQJ6WCNT8H59%3Ftag%3Dkitchenpot-20)**. They come in different shapes, sizes, colors, materials- all sorts of things! It’s up to you to decide what kind will work best for your needs.
 
@@ -97,7 +97,7 @@ Are you getting rid of some other pieces that don’t match with this new one? W
 
 If that sounds complicated, then worry no more. We’ve written a comprehensive guide on how to select the best pots and pans rack. We considered many factors ranging from versatility, quality, and durability. 
 
-**Read the [comprehensive pots and pans rack guide here.](https://thekitchenpot.com/blog/pots-and-pans-rack-reviews//)**
+**Read the [comprehensive pots and pans rack guide here.](https://thekitchenpot.com/blog/pots-and-pans-rack-reviews/)**
 
 When selecting one, ensure that you choose one made out of high-quality materials that won’t bend or break easily, even after heavy use! Such racks will look great in any kitchen while being easy on the wallet.
 
@@ -132,7 +132,7 @@ Other ingenious pots and pans organization techniques include:
 * Hang your cookware over your kitchen island
 * Buy a **[magnetic knife strip](https://www.amazon.com/s?k=magnetic+knife+strip&crid=OFNVMMGEAVVU?tag=kitchenpot-20)** for your cutlery
 
-**[Read more about magnetic knife strips here](https://thekitchenpot.com/blog/best-magnetic-knife-strip//)**
+**[Read more about magnetic knife strips here](https://thekitchenpot.com/blog/best-magnetic-knife-strip/)**
 
 ## How to Organize Pots and Pans – The Bottom Line
 

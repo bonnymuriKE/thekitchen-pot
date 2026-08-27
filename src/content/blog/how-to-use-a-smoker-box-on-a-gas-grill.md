@@ -34,7 +34,7 @@ description: Are you tired of missing out on the delicious smoky flavor in your
 ---
 Purchasing a gas grill brings hope that you’ll finally enjoy home-made grilled meals. However, you should know how to use a smoker box on a gas grill to give your meals that fine smoke taste!
 
-On its own, the [gas grill](https://thekitchenpot.com/blog/best-gas-grills-under-500//) cannot provide your meat with the traditional smoky flavor. Too boring right? Roasted beef is only scrumptious with a smoky flavor.
+On its own, the [gas grill](https://thekitchenpot.com/blog/best-gas-grills-under-500/) cannot provide your meat with the traditional smoky flavor. Too boring right? Roasted beef is only scrumptious with a smoky flavor.
 
 But the question is:
 
@@ -46,7 +46,7 @@ Follow the step-by-step guide on the article and get to know how to use a smoker
 
 ## **How to Use a Smoker Box on a Gas Grill** 
 
-Whether you have a plain gas grill or the hybrid [gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//), these steps will help you get that irresistible smoky taste on your BBQ.
+Whether you have a plain gas grill or the hybrid [gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo/), these steps will help you get that irresistible smoky taste on your BBQ.
 
 * **Preheat the Gas Grill**
 
@@ -60,7 +60,7 @@ No big deal; the main goal here is to even the heat inside the grill to save you
 
 * **Prepare the Smoker Box** 
 
-Again, you’ll have to [use a smoker box](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills//). You can construct one for your own or rather buy. Both ways work, although commercial smoker boxes are made of durable materials that can be recycled.
+Again, you’ll have to [use a smoker box](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills/). You can construct one for your own or rather buy. Both ways work, although commercial smoker boxes are made of durable materials that can be recycled.
 
 If you prefer constructing a smoker box on your own, ensure you use an aluminum foil to build a ball with wood chips inside. After that, load wood chips on the tray then poke some holes on top to allow smoke escape.
 

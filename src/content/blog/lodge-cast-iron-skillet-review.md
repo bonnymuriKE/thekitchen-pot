@@ -96,7 +96,7 @@ To achieve this, you should place the pan on the stovetop and let it heat before
 
 Let the oil heat for some time until you can see some smoke coming out of the pan. Remove the pan from the stovetop and let it cool. 
 
-***For a [detailed seasoning procedure](https://thekitchenpot.com/blog/how-to-season-red-copper-pan//), you should read [here](https://thekitchenpot.com/blog/how-to-season-stainless-steel-pans//).***
+***For a [detailed seasoning procedure](https://thekitchenpot.com/blog/how-to-season-red-copper-pan/), you should read [here](https://thekitchenpot.com/blog/how-to-season-stainless-steel-pans/).***
 
 ## **Features of Lodge Cast Iron Skillet**
 

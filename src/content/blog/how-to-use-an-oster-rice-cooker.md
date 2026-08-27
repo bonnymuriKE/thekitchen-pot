@@ -60,7 +60,7 @@ If you have a big family, then you should go for the [high-capacity Oster 20-Cu
 * Rice
 * Water
 * Measuring Cup (preferably one that comes with the rice cooker)
-* [Spatula](https://thekitchenpot.com/blog/best-metal-spatula-set//)
+* [Spatula](https://thekitchenpot.com/blog/best-metal-spatula-set/)
 
 If you’re new to automated rice cooking and you’re wondering how to use an oster rice cooker, then you shouldn’t worry any longer.
 
@@ -139,7 +139,7 @@ Here are some of the most useful cleaning tips you should consider:
 * **Never Use Scouring Pads.** If you want to avoid scratches on your oster rice cooker, you should only use soft and non-abrasive cleaning materials.
 * **Avoid Dipping Heating Elements into Water.** This is one of the surest ways of ensuring that you maintain top-notch functionality and longevity. 
 
-***Read more about the [best rice cookers](https://thekitchenpot.com/blog/best-rice-cooker-for-brown-rice//) here***
+***Read more about the [best rice cookers](https://thekitchenpot.com/blog/best-rice-cooker-for-brown-rice/) here***
 
 ## How to Use an Oster Rice Cooker – The Bottom Line
 

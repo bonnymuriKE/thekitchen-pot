@@ -47,7 +47,7 @@ Cast iron cookware is relatively heavy and they will surely damage your glass co
 
 If you’re insistent on using them, then you should follow the guide we’ve provided herein to try and safeguard your stovetop from ugly scratches. 
 
-***We recommend that you use [stainless steel pans with glass top stove](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//) which are also ideal for induction cooking***
+***We recommend that you use [stainless steel pans with glass top stove](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/) which are also ideal for induction cooking***
 
 ## What are the Benefits of Using Glass Top Stove?
 

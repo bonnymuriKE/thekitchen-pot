@@ -261,7 +261,7 @@ The large handle located on the carafe helps you get a firm grip. The product fe
 
 ## **The Best Iced Tea Maker – Buying Guide** 
 
-It doesn’t matter whether you have the **[best tea kettle for gas stove](https://thekitchenpot.com/blog/best-tea-kettle-for-gas-stove//)**, you’ll need an iced tea maker for a cold and refreshing beverage.
+It doesn’t matter whether you have the **[best tea kettle for gas stove](https://thekitchenpot.com/blog/best-tea-kettle-for-gas-stove/)**, you’ll need an iced tea maker for a cold and refreshing beverage.
 
 However, choosing your best iced tea maker will undoubtedly not be a walk in the park. There are several factors that you should always consider before settling on your best iced tea maker. 
 

@@ -271,7 +271,7 @@ The LGLSXC22396D is a high-cost refrigerator because of its lite features, it’
 
 ## **Best Side By Side Refrigerators – Buying Guide**
 
-If you want to upgrade from your [mini fridge](https://thekitchenpot.com/blog/best-mini-fridge-for-beer//) to a more spacious fridge, then you should purchase the best side by side refrigerator. This will assist you to get that which will meet all requirements effortlessly.
+If you want to upgrade from your [mini fridge](https://thekitchenpot.com/blog/best-mini-fridge-for-beer/) to a more spacious fridge, then you should purchase the best side by side refrigerator. This will assist you to get that which will meet all requirements effortlessly.
 
 The buying guide will evaluate all you need to put into consideration when shopping for the best side by side refrigerator.
 

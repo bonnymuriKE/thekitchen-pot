@@ -240,7 +240,7 @@ They function similarly to the countertop microwaves but eliminates cooking odor
 
 ### **Over the Range Microwaves- What are the Benefits?**
 
-Most kitchens require a [range over the hood](https://thekitchenpot.com/blog/6-best-ductless-range-hood//) that will evacuate the food odor, smoke, and steam to keep the air fresh and clean. 
+Most kitchens require a [range over the hood](https://thekitchenpot.com/blog/6-best-ductless-range-hood/) that will evacuate the food odor, smoke, and steam to keep the air fresh and clean. 
 
 Due to incorporated fans, the over the range microwave also works as a range hood. This means you will have two items in one, so the functionality is increased.
 

@@ -124,7 +124,7 @@ All that will be required of you is to place your ingredients in the bowl, put i
 
 The 8-cup rice cooker cooks with a touch of a button. It has four pre-programmed settings, including white rice, whole grains, steam, and hot cereal. When cooking brown rice, you should use the whole grain options.
 
-[**Read here about the water: rice ratio when cooking brown rice**.](https://thekitchenpot.com/blog/how-to-cook-rice-in-a-rice-cooker//)
+[**Read here about the water: rice ratio when cooking brown rice**.](https://thekitchenpot.com/blog/how-to-cook-rice-in-a-rice-cooker/)
 
 Even better, the Hamilton Beach Rice Cooker comes with a measuring cup and a well-calibrated bowl to ensure that you use the right volumes of water. This eliminates any chance of getting sticky or undercooked rice. It also has a serving paddle.
 
@@ -410,6 +410,6 @@ A rice cooker for brown rice delivers exactly what you’ve been longing for; we
 
 If you’re not ready to serve the meal (probably you are waiting for visitors to arrive), the cooker will hold the food properly at the right temperature.
 
-No more long waits for the rice to cook and to check the [non-stick pan](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//) every minute to ensure the water doesn’t boil over.
+No more long waits for the rice to cook and to check the [non-stick pan](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/) every minute to ensure the water doesn’t boil over.
 
 No more running around the kitchen to time your cooking food that it doesn’t get burnt. Everything has been made simple!

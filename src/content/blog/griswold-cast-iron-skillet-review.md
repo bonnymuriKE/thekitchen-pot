@@ -87,14 +87,14 @@ Some of the rarest Griswold cast iron skillets are “Erie” and “Erie Spider
 
 ## Features of Griswold Cast Iron Skillet
 
-* **Shape.** The skillets are rounded and have tall sidewalls with two pouring spouts on both sides. They are best for shallow frying and braising food. If you want one that can allow you to flip your food with a **[spatula](https://thekitchenpot.com/blog/best-metal-spatula-set//)** easily, Lodge cast iron skillet will fit the bill. It has lower sidewalls and rounded corners. 
+* **Shape.** The skillets are rounded and have tall sidewalls with two pouring spouts on both sides. They are best for shallow frying and braising food. If you want one that can allow you to flip your food with a **[spatula](https://thekitchenpot.com/blog/best-metal-spatula-set/)** easily, Lodge cast iron skillet will fit the bill. It has lower sidewalls and rounded corners. 
 * **Handles.** Griswold cast iron skillets to have a sturdy but short handle. Overall, the handles are smooth and durable! They’ll not just break anyhow.
 * **Texture.** Interestingly, Griswold skillets are smoother than most **modern-day skillets**. It will ensure that you cook seamlessly without the food sticking to the pan. However, the smooth surface requires more frequent seasoning for the best results.
 * **Non-Stick Performance.** Griswold develops a seasoning layer after several uses. This layer occurs as a result of fat polymerization on the pan. It protects it from rusting and improves durability. 
 
 ## Griswold Cast Iron Skillet Weight and Thickness
 
-If you’re a fan of cast iron skillet, you’ll opine that they are quite heavy. However, Griswold cast iron skillet is an exception. This **skillet is amazingly lightweight!** It weighs approximately 3.8 lb., which is almost half of what the **[Lodge cast iron skillet](https://thekitchenpot.com/blog/lodge-cast-iron-skillet-review//)** will weigh. 
+If you’re a fan of cast iron skillet, you’ll opine that they are quite heavy. However, Griswold cast iron skillet is an exception. This **skillet is amazingly lightweight!** It weighs approximately 3.8 lb., which is almost half of what the **[Lodge cast iron skillet](https://thekitchenpot.com/blog/lodge-cast-iron-skillet-review/)** will weigh. 
 
 Additionally, the Griswold cast iron skillet is thinner than most modern skillets. Its thickness is a mere 0.12 inches, while that of Lodge is approximately 0.15 inches.
 
@@ -112,6 +112,6 @@ Investing in Griswold is still an excellent idea since it has a sense of nobilit
 
 If you’ve been wondering why the Griswold cast iron is so expensive, then this article offers you the answer. Their rarity and nobility make the collectors price it highly. On average, you will spend approximately $500 on the skillets.
 
-But why are the Griswold cast iron skillets so rare? Well, these skillets are no longer in production. The last skillet was produced more than 65 years ago! Back then, Griswold was the household cookware name in the U.S.- it was akin to today’s **[Lodge Cast Iron skillet.](https://thekitchenpot.com/blog/lodge-cast-iron-skillet-review//)** 
+But why are the Griswold cast iron skillets so rare? Well, these skillets are no longer in production. The last skillet was produced more than 65 years ago! Back then, Griswold was the household cookware name in the U.S.- it was akin to today’s **[Lodge Cast Iron skillet.](https://thekitchenpot.com/blog/lodge-cast-iron-skillet-review/)** 
 
 This guide offers a comprehensive analysis of Griswold cast iron skillets. Are they still worth the investment? Are they any better than the Lodge skillet? Read through this article to decipher all these.

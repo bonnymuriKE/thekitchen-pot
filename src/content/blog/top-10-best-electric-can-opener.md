@@ -298,7 +298,7 @@ Consequently, you should **buy the handheld one if you intend to use it outdoors
 
 * **Extra Features**
 
-Some manufacturers will incorporate **special features** to make your best electric can opener stand out from the rest. Some of these may include **in-built knife sharpeners, an in-built cord storage sectio**n, among others. This will save you the cost of purchasing the [best knife sharpeners](https://thekitchenpot.com/blog/best-knife-sharpener//) independently. 
+Some manufacturers will incorporate **special features** to make your best electric can opener stand out from the rest. Some of these may include **in-built knife sharpeners, an in-built cord storage sectio**n, among others. This will save you the cost of purchasing the [best knife sharpeners](https://thekitchenpot.com/blog/best-knife-sharpener/) independently. 
 
 If the extra features do not compromise the functionality of the electric can opener, then you shouldn’t hesitate to go for them. They will offer more functions at relatively affordable rates! 
 

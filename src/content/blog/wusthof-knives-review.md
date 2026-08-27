@@ -80,7 +80,7 @@ Their heavy knives are molded using state-of-the-art technology to ensure top-no
 
 ***Forged knives have thick blades that extend to the handle and a bolster that adds balance, thus preventing your hand from sliding towards the blade.***
 
-While these knives maintain sharpness for long, you should regularly sharpen them to maintain their efficiency. If you don’t have an **[easy-to-use knife sharpener](https://thekitchenpot.com/blog/best-knife-sharpener//)**, then read this **[comprehensive guide for buying tips](https://thekitchenpot.com/blog/best-knife-sharpener//)**. 
+While these knives maintain sharpness for long, you should regularly sharpen them to maintain their efficiency. If you don’t have an **[easy-to-use knife sharpener](https://thekitchenpot.com/blog/best-knife-sharpener/)**, then read this **[comprehensive guide for buying tips](https://thekitchenpot.com/blog/best-knife-sharpener/)**. 
 
 ## Types of Wusthof Knives 
 
@@ -286,7 +286,7 @@ Wusthof uses a unique sharpening technique to ensure that your knife will cut yo
 
 During the manufacturing process, these knives are sharpened at a 14-degree angle on both sides. This gives them an exceptionally thin and sharp edge that will slice your veggies to any size and shape you desire. 
 
-If sharpness is a factor you value when selecting your **[best knife set](https://thekitchenpot.com/blog/best-knife-set-under-100//)**, then you’ll not go wrong with the Wusthof knives. 
+If sharpness is a factor you value when selecting your **[best knife set](https://thekitchenpot.com/blog/best-knife-set-under-100/)**, then you’ll not go wrong with the Wusthof knives. 
 
 **\>Edge Retention**
 
@@ -330,7 +330,7 @@ Overall, Wusthof and Zwilling J.A Henckel’s brands are of high-quality. As suc
 
 To achieve longevity with your Wusthof knives, you should take optimum care when handling them. Here are a few tips you should never ignore:
 
-* **Avoid cutting on hard surfaces, such as glass, metallic tables, and stones.** Instead, you should use **[over-the-sink cutting boards](https://thekitchenpot.com/blog/best-over-the-sink-cutting-board//)** made of bamboo, soft plastics, and other friendly materials. 
+* **Avoid cutting on hard surfaces, such as glass, metallic tables, and stones.** Instead, you should use **[over-the-sink cutting boards](https://thekitchenpot.com/blog/best-over-the-sink-cutting-board/)** made of bamboo, soft plastics, and other friendly materials. 
 * **Use the knives for the right purpose.** Using your Wusthof knives for their intended purpose will guarantee edge retention and longevity. For example, you cannot use a Wusthof serrated knife to cut bones!
 * **Clean Your Knives After Use.** You should avoid soaking your knives or washing them using a dishwasher. Additionally, ensure that the blades are dry before storing them.
 * **Avoid Heating Your Knives Directly.** Exposing your knives to extreme temperatures will reduce the sharpness of the edges. Additionally, such instances increase the chances that the knife will rust/ corrode.

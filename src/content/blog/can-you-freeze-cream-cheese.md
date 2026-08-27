@@ -71,9 +71,9 @@ While this may sound like a brilliant idea, we recommend that you **do not keep 
 
 ### How to Freeze Opened Cream Cheese
 
-If you’ve already opened your cream cheese, you should never freeze it when open. Instead, it would be best if you transferred it to an **[airtight container](https://thekitchenpot.com/blog/best-airtight-food-storage-containers//)** before freezing it. 
+If you’ve already opened your cream cheese, you should never freeze it when open. Instead, it would be best if you transferred it to an **[airtight container](https://thekitchenpot.com/blog/best-airtight-food-storage-containers/)** before freezing it. 
 
-If you don’t have an airtight container, but you own a **[vacuum sealer](https://thekitchenpot.com/blog/best-vacuum-sealer-for-sous-vide//)**, then you shouldn’t worry. Just seal the packaging bag to ensure that you store it in a vacuum. Ensure that you seal it well to avoid air seepage. 
+If you don’t have an airtight container, but you own a **[vacuum sealer](https://thekitchenpot.com/blog/best-vacuum-sealer-for-sous-vide/)**, then you shouldn’t worry. Just seal the packaging bag to ensure that you store it in a vacuum. Ensure that you seal it well to avoid air seepage. 
 
 This practice will protect your cream cheese from cross-contamination, which will further alter its taste and increase the chance of going bad. 
 
@@ -85,14 +85,14 @@ After thawing the cheese, the water from the crystals does not emulsify into che
 
 ## How to Thaw Your Frozen Cream Cheese
 
-You should ensure that you remove the cheese from the **[freezer](https://thekitchenpot.com/blog/best-side-by-side-refrigerator//)** several hours before using it; even overnight can be ideal. Let it sit under room temperature until it’s completely thawed.
+You should ensure that you remove the cheese from the **[freezer](https://thekitchenpot.com/blog/best-side-by-side-refrigerator/)** several hours before using it; even overnight can be ideal. Let it sit under room temperature until it’s completely thawed.
 
 ## How to Make Your Frozen Cream Cheese Creamy Again
 
 If you still need the unique taste of your cream cheese, then you can use the following simple techniques to regain the creaminess:
 
 * **Use a Microwave.** After your cheese has thawed for approximately 24 hours, you should transfer it into an oven-safe bowl and microwave it for 10 seconds. Repeat this process until you get the consistency that you desire. 
-* **Stovetop.** Put some water in a saucepan and place it on your **[stovetop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money//)**. Place your thawed cream cheese in a small bowl and put it in water. If you have a **[double boiler](https://thekitchenpot.com/blog/how-to-use-a-double-boiler//)**, you can use it for better results. 
+* **Stovetop.** Put some water in a saucepan and place it on your **[stovetop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money/)**. Place your thawed cream cheese in a small bowl and put it in water. If you have a **[double boiler](https://thekitchenpot.com/blog/how-to-use-a-double-boiler/)**, you can use it for better results. 
 
 ## Can You Freeze Cream Cheese? The Verdict
 

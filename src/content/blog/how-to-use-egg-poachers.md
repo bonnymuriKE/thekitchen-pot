@@ -38,7 +38,7 @@ You’re probably wondering how to poach eggs like a professional. Well, the pro
 
 ## **How to Use Egg Poachers: Why You Must Learn the Art**
 
-Many people use the traditional (and detailed) egg poaching method– swirling water in [nonstick](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//)/traditional pans then dropping the egg inside while crossing their fingers to make a smoothly-poached egg. 
+Many people use the traditional (and detailed) egg poaching method– swirling water in [nonstick](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/)/traditional pans then dropping the egg inside while crossing their fingers to make a smoothly-poached egg. 
 
 But the procedure is undoubtedly tiresome!
 

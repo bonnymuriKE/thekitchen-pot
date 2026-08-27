@@ -250,7 +250,7 @@ The manufacturer also backs the gloves with an extended warranty, and if you thi
 
 [Check Latest Price on Amazon](https://www.amazon.com/Resistant-Kitchen-Professional-Grilling-Barbeque/dp/B07WZYB4D3?tag=kitchenpot-20)
 
-SUMPRO griller features a non-slip and five-figure with a textured construction to help you hold and manage greasy and wet meat from [the grill](https://thekitchenpot.com/blog/best-gas-grills-under-500//).
+SUMPRO griller features a non-slip and five-figure with a textured construction to help you hold and manage greasy and wet meat from [the grill](https://thekitchenpot.com/blog/best-gas-grills-under-500/).
 
 Furthermore, the gloves have two layers of the soft cotton interior liner that will not only offer maximum comfort and pleasure but also provides you with insulation. It has a loose fit to make your hands comfortable and cool while using them.
 

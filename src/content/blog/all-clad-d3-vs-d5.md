@@ -166,7 +166,7 @@ Both D3 and D5 constructions are oven-safe and you can use them in an oven up to
 
 **Dishwasher Safe**
 
-Both the All-Clad D3 and D5 are dishwasher safe. As such, you can be sure that cleaning them is a breeze. **[If you’re dealing with difficult stains, you should follow this cleaning guide to get rid of them.](https://thekitchenpot.com/blog/how-to-clean-hard-anodized-cookware//)**
+Both the All-Clad D3 and D5 are dishwasher safe. As such, you can be sure that cleaning them is a breeze. **[If you’re dealing with difficult stains, you should follow this cleaning guide to get rid of them.](https://thekitchenpot.com/blog/how-to-clean-hard-anodized-cookware/)**
 
 ## All-Clad D3 vs D5: What’s the Difference?
 
@@ -195,7 +195,7 @@ However, you should note that the functionality difference between All-Clad D3 p
 
 All-Clad D3 has a polished finish while the D5 comes with a matte/brushed finish.
 
-Additionally, all D5 models have flared rims while only a few D3 (skillet and **[saute pan](https://thekitchenpot.com/blog/best-saute-pan//)**) sets come with flared/grooved rims. Flared rims are crucial since they help you to pour with minimal drips. As such, cookware with minimal or no grooves/flairs is likely to lead to a mess when pouring liquids.
+Additionally, all D5 models have flared rims while only a few D3 (skillet and **[saute pan](https://thekitchenpot.com/blog/best-saute-pan/)**) sets come with flared/grooved rims. Flared rims are crucial since they help you to pour with minimal drips. As such, cookware with minimal or no grooves/flairs is likely to lead to a mess when pouring liquids.
 
 ### **All-Clad D3 vs D5: Handles**
 

@@ -47,7 +47,7 @@ It is made of long chains of starch molecules that break down upon exposure to h
 
 If you love soup, then you fathom the scrumptiousness that comes with thick yet tasty soups, right?
 
-Cornstarch is one of the ingredients that you should always have in your **[kitchen cabinet’s lazy Susan organizer](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen//)** if you want such delicacies. 
+Cornstarch is one of the ingredients that you should always have in your **[kitchen cabinet’s lazy Susan organizer](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen/)** if you want such delicacies. 
 
 This unique ingredient acts as the thickening agent, thus enabling you to achieve thick sauces, soups, and stir-fries. 
 

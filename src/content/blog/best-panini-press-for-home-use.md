@@ -170,7 +170,7 @@ Additionally, the device features a digital temperature display. It is also fitt
 
 For easier cleaning, the Breville smart grill Panini press is fitted with plates that are removable and are dishwasher safe.
 
-Additionally, it features six different adjustable settings that provides storage flexibility since it can fit in any kitchen counter space or even a [well-built kitchen cabinet lazy Susan](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen//). 
+Additionally, it features six different adjustable settings that provides storage flexibility since it can fit in any kitchen counter space or even a [well-built kitchen cabinet lazy Susan](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen/). 
 
 The press measures 16 x 15 x 5 inches and weighs 18.96 pounds.
 

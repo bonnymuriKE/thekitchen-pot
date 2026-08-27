@@ -739,7 +739,7 @@ The Cosmo UMC30 has a powerful suction of about **760CFM airflow capacity** and 
 
 ## **Best** **Ductless Range Hoods –** **Buyer’s Guide**
 
-There are several types of range hoods in the market. The key categories include [under cabinet hoods](https://thekitchenpot.com/blog/best-under-cabinet-range-hood//), wall mount hoods, island hoods, ductless hoods, and downdraft hoods. This article analyzes the best ductless range hoods that you can consider when shopping.
+There are several types of range hoods in the market. The key categories include [under cabinet hoods](https://thekitchenpot.com/blog/best-under-cabinet-range-hood/), wall mount hoods, island hoods, ductless hoods, and downdraft hoods. This article analyzes the best ductless range hoods that you can consider when shopping.
 
 When picking the best ductless range hood to either remodel, for a newly built, or replace the existing, you need to be decisive by looking at several factors. Enough research is required for the proper maintenance, and [installation](https://www.wikihow.com/Install-a-Range-Hood), as they fundamentally need more attention, compared to vented hoods. 
 

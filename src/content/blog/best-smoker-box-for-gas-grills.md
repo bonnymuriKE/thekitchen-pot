@@ -49,7 +49,7 @@ If you notice thick dark smoke, then there is something wrong with your smoker b
 
 Here are a few steps that’ll guide you through the process:
 
-* **Filling the Smoker Boxer.** Place your smoker box on [your gas grill](https://thekitchenpot.com/blog/best-gas-grills-under-500//) and let it heat. Afterward, you should place wood chips carefully into the smoker box
+* **Filling the Smoker Boxer.** Place your smoker box on [your gas grill](https://thekitchenpot.com/blog/best-gas-grills-under-500/) and let it heat. Afterward, you should place wood chips carefully into the smoker box
 * **Preparing for the Smoking.** Once you fill the smoker box, you should close the lid and wait for the heating to begin. It’ll take a few minutes before you start seeing the smoke
 * **Placing the Meat/Food.** Once you spot the smoke, you should open the lid of your grill and place your meat/meal to give it an irresistible smoky flavor! The cooking will take several minutes depending on the nature of the meals
 

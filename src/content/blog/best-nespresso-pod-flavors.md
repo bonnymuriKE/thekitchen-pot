@@ -261,7 +261,7 @@ In this section, we will guide you on how to use the best nespresso pod flavors 
 
 Using the best nespresso pod flavors is extremely easy. Well, all you need is to just follow a few steps and your coffee will be ready in no time.
 
-* **Step 1**– first, you need to fill the water tank with water. This water will be warmed to the temperature as per the temperature setting of your Nespresso machine/ espresso coffee machine (Read a [comprehensive guide on the best espresso coffee makers](https://thekitchenpot.com/blog/best-espresso-machines//))
+* **Step 1**– first, you need to fill the water tank with water. This water will be warmed to the temperature as per the temperature setting of your Nespresso machine/ espresso coffee machine (Read a [comprehensive guide on the best espresso coffee makers](https://thekitchenpot.com/blog/best-espresso-machines/))
 * You will later have to select the volume of water you want to use for your coffee.
 * **Step 2**– place the coffee pod in the machine. Always ensure you find the capsules that are compatible with your machine so you can operate your machine efficiently.
 * Other capsules are not going to work in the Nespresso machine.

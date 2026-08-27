@@ -188,7 +188,7 @@ Before you settle for your ideal fillet knife, you should ensure that it offers 
 * **Precision** 
 * **Speed**
 
-To get these out of your knife, you should ensure that it is designed uniquely with filleting in mind. Don’t go for just any **[general knife](https://thekitchenpot.com/blog/best-knife-set-under-100//)** – you will be frustrated! 
+To get these out of your knife, you should ensure that it is designed uniquely with filleting in mind. Don’t go for just any **[general knife](https://thekitchenpot.com/blog/best-knife-set-under-100/)** – you will be frustrated! 
 
 ### **Features of the Best Electric Fillet Knife**
 
@@ -252,7 +252,7 @@ Some of the most common materials used for the construction of handles include w
 
 ## **Best Electric Fillet Knife – The Bottom Line**
 
-I would rather spend long hours fishing than cleaning the fish! The cleaning and filleting exercise can be messy and cumbersome! It becomes especially frustrating when you are using an **[ordinary knife](https://thekitchenpot.com/blog/wusthof-knives-review//)** with no modifications to ease fish cutting. 
+I would rather spend long hours fishing than cleaning the fish! The cleaning and filleting exercise can be messy and cumbersome! It becomes especially frustrating when you are using an **[ordinary knife](https://thekitchenpot.com/blog/wusthof-knives-review/)** with no modifications to ease fish cutting. 
 
 If you want to enjoy fish cleaning and filleting, you have no option but to invest in the best electric fillet knife. However, there are a plethora of fillet knives available in the market. As such, deciding on which suits your needs best can be a hassle!
 

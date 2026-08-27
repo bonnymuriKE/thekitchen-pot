@@ -248,7 +248,7 @@ The rectangular-shaped food storage containers with straight edges stack uniform
 
 On the other hand, the round ones are ideal for liquids, and salads.
 
-However, we recommend the rectangular ones with straight edges as they take up less space in your **[lazy Susan Organizers](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen//)**, cabinets, and fridge.
+However, we recommend the rectangular ones with straight edges as they take up less space in your **[lazy Susan Organizers](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen/)**, cabinets, and fridge.
 
 * **Construction Material** 
 
@@ -266,9 +266,9 @@ Lids are of different types: some have clasps on the sides while others require 
 
 On the other hand, the ones with clasps come with an extra source of leak-safety.
 
-Additionally, metallic lids are the best if you intend to use a **[magnetic knife strip](https://thekitchenpot.com/blog/best-magnetic-knife-strip//)** to organize them in your cabinet. They will attach on the underside of the magnetic strip, thus making storage a breeze.
+Additionally, metallic lids are the best if you intend to use a **[magnetic knife strip](https://thekitchenpot.com/blog/best-magnetic-knife-strip/)** to organize them in your cabinet. They will attach on the underside of the magnetic strip, thus making storage a breeze.
 
-**[Read also on how to organize your kitchenware -Proven tips](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans//)**
+**[Read also on how to organize your kitchenware -Proven tips](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans/)**
 
 ## **Types of Airtight Containers** and Their Advantages
 

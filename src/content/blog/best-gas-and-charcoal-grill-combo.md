@@ -39,7 +39,7 @@ Whether you are camping in the backyard, picnics, at the lakes, neighborhood par
 
 There’s nothing that can beat a quintessential summer cookout. And if you want to be the neighborhood grilling pro, then you need to buy the best gas and charcoal combo grill.
 
-Both [gas grills](https://thekitchenpot.com/blog/best-gas-grills-under-500//) and the best gas and charcoal grill combos have their unique set of significant differences. whereas the former delivers the best and intense flame to get some good chops on the outside, the latter provides more control and convenience.
+Both [gas grills](https://thekitchenpot.com/blog/best-gas-grills-under-500/) and the best gas and charcoal grill combos have their unique set of significant differences. whereas the former delivers the best and intense flame to get some good chops on the outside, the latter provides more control and convenience.
 
 When going out to shop for the best gas and charcoal grill combo, you can get spoilt for options given a myriad options available in the market.
 
@@ -256,7 +256,7 @@ Meanwhile, Smoke Hollow grill comes with an instruction manual on how you can as
 
 ## **Buyers Guide: Best Gas and Charcoal Grill Combo**
 
-Unlike your [ordinary gas grill](https://thekitchenpot.com/blog/best-gas-grills-under-500//), the gas and charcoal grill combo is highly flexible since it allows the use of both gas and charcoal. 
+Unlike your [ordinary gas grill](https://thekitchenpot.com/blog/best-gas-grills-under-500/), the gas and charcoal grill combo is highly flexible since it allows the use of both gas and charcoal. 
 
 However, you should check the following factors before settling for your best gas and charcoal grill combo:
 

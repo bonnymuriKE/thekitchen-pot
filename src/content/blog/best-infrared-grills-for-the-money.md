@@ -257,7 +257,7 @@ And that’s not all, the heat of the appliance doesn’t have to be adjusted as
 * Its grilling space is not spacious
 * The infrared light is too bright for the eyes
 
-**If you’d want the [best gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//), then here’s a comprehensive guide.** 
+**If you’d want the [best gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo/), then here’s a comprehensive guide.** 
 
 ## **Best Infrared Grills for the Money- Buying Guide**
 
@@ -304,6 +304,6 @@ With your infrared grill, you’ll be able to easily produce a juicy, mouthwater
 
 And aside from saving you time, infrared grills use up less energy and gas. This will allow you to save up a few coins in your pockets.
 
-And unlike the **[conventional gas grills](https://thekitchenpot.com/blog/best-gas-grills-under-500//),** the best infrared grills for the money heat up fast in around 3-5 minutes, and also produce a higher cooking temperature. This means you don’t have to stay long in front of the grill to get a deliciously cooked meal.
+And unlike the **[conventional gas grills](https://thekitchenpot.com/blog/best-gas-grills-under-500/),** the best infrared grills for the money heat up fast in around 3-5 minutes, and also produce a higher cooking temperature. This means you don’t have to stay long in front of the grill to get a deliciously cooked meal.
 
 So with all these amazing benefits of the best infrared grills for the money, every day can be a barbeque day, not just on weekdays. So hurry and get yours today for everyday fun moments!

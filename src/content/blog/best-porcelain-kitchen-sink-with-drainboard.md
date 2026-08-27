@@ -30,7 +30,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Buying a **[kitchen sink](https://thekitchenpot.com/blog/best-white-undermount-kitchen-sink//)** should not be a difficult thing to do. With the right research, you will get the perfect sink that suits your needs and add beauty to your kitchen.
+Buying a **[kitchen sink](https://thekitchenpot.com/blog/best-white-undermount-kitchen-sink/)** should not be a difficult thing to do. With the right research, you will get the perfect sink that suits your needs and add beauty to your kitchen.
 
 There are different kinds of sinks to choose from, including stainless steel, copper, cast iron, and porcelain sinks. This article offers a comprehensive guide on how to choose the best porcelain kitchen sink with drainboard. Read more for tested and proven tips from an expert.
 

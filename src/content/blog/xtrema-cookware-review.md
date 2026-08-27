@@ -35,7 +35,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 If you’re a passionate cook who values healthy meals, you must have found yourself in a quagmire about the safety of non-stick pans. The debate about the safety of these pans, especially when used under high temperatures, has been rife.
 
-And it has been a bother to many cooks and professional chefs. While **[non-stick pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//)** are ideal when used to cook under low temperatures, you’ll need to shift to more versatile cookware that will not limit your cooking options. 
+And it has been a bother to many cooks and professional chefs. While **[non-stick pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/)** are ideal when used to cook under low temperatures, you’ll need to shift to more versatile cookware that will not limit your cooking options. 
 
 However, shopping for non-toxic cookware is not for the faint-hearted. It becomes particularly challenging when you have to balance between performance and safety.
 
@@ -85,7 +85,7 @@ The Xtrema cookware is hardened using high heating technology. This makes them h
 
 Xtrema uses a natural ceramic glaze for a smooth high-gloss surface that will not peel. The non-stick property is, by far, more effective than the one in ceramic-coated pans. 
 
-As such, you can use **[metal spatulas](https://thekitchenpot.com/blog/best-metal-spatula-set//)** to prepare your best meals without worrying about the possibility of a flaking/peeling surface. 
+As such, you can use **[metal spatulas](https://thekitchenpot.com/blog/best-metal-spatula-set/)** to prepare your best meals without worrying about the possibility of a flaking/peeling surface. 
 
 Additionally, the nonstick is natural. It has no PTFE coatings that have been associated with nonstick toxins, especially in high temperatures. As such, using these pans in extremely high temperatures is safe!
 

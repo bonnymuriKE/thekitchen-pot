@@ -265,7 +265,7 @@ Conventional blenders with a motor base and a pitcher can self-clean quite effec
 
 Other types of blenders like the personal blenders can’t self-clean but the parts that work with food are commonly dishwasher safe.
 
-> **[Here is a list of blenders you can use for protein shakes](https://thekitchenpot.com/blog/best-blender-for-protein-shakes//)**.
+> **[Here is a list of blenders you can use for protein shakes](https://thekitchenpot.com/blog/best-blender-for-protein-shakes/)**.
 
 ## **Benefits of Best Blenders for Smoothies**
 
@@ -287,7 +287,7 @@ Blending is one of the most important activities in a kitchen. Having the best b
 
 Additionally, the best blenders for smoothies are easy to use, and also don’t require long clean-ups and the lengthy preparation time that scares away most people when it comes to juicers.
 
-The best blenders for smoothies can be used to chop, mix puree, and blend effectively, meaning that it is a substitute for a [food processor](https://thekitchenpot.com/blog/best-food-processor-under-100//) and a juicer.
+The best blenders for smoothies can be used to chop, mix puree, and blend effectively, meaning that it is a substitute for a [food processor](https://thekitchenpot.com/blog/best-food-processor-under-100/) and a juicer.
 
 When using the best blenders for smoothies, there are no spillages, thanks to the lids on the containers.
 

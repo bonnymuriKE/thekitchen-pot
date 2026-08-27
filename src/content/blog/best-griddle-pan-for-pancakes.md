@@ -331,7 +331,7 @@ What’s the size of your family? The bigger your family, the larger your best g
 
 **Surface**
 
-If you’ve been cooking your pancakes using the [ordinary frying pan](https://thekitchenpot.com/blog/difference-between-skillet-and-frying-pan//), you must have experienced difficulties with cooking even and soft pancakes, right? This is the first sign that you need to upgrade to the best griddle pan for pancakes!
+If you’ve been cooking your pancakes using the [ordinary frying pan](https://thekitchenpot.com/blog/difference-between-skillet-and-frying-pan/), you must have experienced difficulties with cooking even and soft pancakes, right? This is the first sign that you need to upgrade to the best griddle pan for pancakes!
 
 You should always ensure that your best griddle pan for pancakes does not have a sticky surface. Also, the surface should be easy to clean and maintain.
 

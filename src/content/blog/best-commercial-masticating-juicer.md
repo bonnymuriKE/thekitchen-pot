@@ -53,9 +53,9 @@ Juices or extractors, be they commercial or home use, can easily be sorted into 
 * Triturating
 * Citrus 
 
-Which [juicer](https://thekitchenpot.com/blog/top-5-best-juicers//) is best for you depends on your juicing turnover? But in this article, we will expound more on the best commercial masticating juicers.
+Which [juicer](https://thekitchenpot.com/blog/top-5-best-juicers/) is best for you depends on your juicing turnover? But in this article, we will expound more on the best commercial masticating juicers.
 
-**Read about more juicers to consider [here](https://thekitchenpot.com/blog/top-5-best-juicers//).**
+**Read about more juicers to consider [here](https://thekitchenpot.com/blog/top-5-best-juicers/).**
 
 ## **Best Commercial Masticating Juicer/Slow Juicers – Meaning**
 
@@ -278,7 +278,7 @@ Masticating commercial slow juicers come with varying warranties, you will notic
 
 Before purchasing a juicer, make sure you consider the color of other appliances in your kitchen. You should also consider the size and shape of your juicer and ensure you have enough space around your juicer for the collector bowls and for the products you are juicing.
 
-Read about the [difference between food processors and blenders](https://thekitchenpot.com/blog/what-is-the-difference-between-a-food-processor-and-a-blender//) here.
+Read about the [difference between food processors and blenders](https://thekitchenpot.com/blog/what-is-the-difference-between-a-food-processor-and-a-blender/) here.
 
 ## **Benefits of Best Commercial Masticating Juicer**
 

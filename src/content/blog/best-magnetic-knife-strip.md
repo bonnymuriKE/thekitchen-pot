@@ -60,7 +60,7 @@ A magnetic knife strip is a versatile tool. Besides organizing your kitchen kniv
 * **Hang Metallic Spoons, Spatula, and Other Utensils.** You’ll be able to organize all magnetic kitchen appliances without a hassle. Just clip them on the bar and let them hang safely!
 * **Store Food Processor Blades/ Pot Lids.** Storing pot lids is a big problem for many moms. They keep falling and the chances of destruction are quite high. If you have metallic lids, then you will solve this problem using a magnetic knife strip.
 
-**[Read a comprehensive guide on how to organize your pots and lids here.](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans//)**
+**[Read a comprehensive guide on how to organize your pots and lids here.](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans/)**
 
 * **Under Cabinet Storage.** Storing spice jars and other airtight containers is a breeze if you own a magnetic knife strip. However, you must ensure that you buy jars with metallic lids to benefit from this strategy. 
 
@@ -192,7 +192,7 @@ RSVP international did not think about aesthetics when designing this magnetic k
 
 If you want a durable and functional magnetic bar, then you can consider the 10-inch RSVP strip. It is made of silicone exterior and a powerful magnetic bar that can hold many knives. 
 
-Additionally, the magnetic bar is versatile and can attach to your refrigerator! You can use it to [organize](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans//) your knives, tools, keys, gadgets, scissors, and many more. 
+Additionally, the magnetic bar is versatile and can attach to your refrigerator! You can use it to [organize](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans/) your knives, tools, keys, gadgets, scissors, and many more. 
 
 What we Like
 
@@ -212,7 +212,7 @@ When choosing the best magnetic knife strip, you should consider several factors
 
 The shape, material, and appearance of the magnetic knife strip will undoubtedly influence your decision. We highlight what you need to know before you settle for your ideal magnetic knife holder/strip. 
 
-**[Read on how to choose the best pots and pans rack for your kitchen](https://thekitchenpot.com/blog/pots-and-pans-rack-reviews//)**
+**[Read on how to choose the best pots and pans rack for your kitchen](https://thekitchenpot.com/blog/pots-and-pans-rack-reviews/)**
 
 ## Other Crucial Factors to Consider When Buying a Magnetic Knife Strip
 

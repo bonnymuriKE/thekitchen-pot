@@ -232,11 +232,11 @@ Overall, the choice between the two brands boils down to personal preferences. C
 
 Having the best knife is all glamorous until it becomes blunt. All of a sudden, what used to make dicing and cutting a breeze will become a source of pain. 
 
-Considering that almost all meal prep activities demand that you have a knife, you cannot afford to have a dull knife in your **[lazy Susan organizer.](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen//)**
+Considering that almost all meal prep activities demand that you have a knife, you cannot afford to have a dull knife in your **[lazy Susan organizer.](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen/)**
 
 Fortunately, getting the best knife sharpener does not have to cost an arm and a leg! There are numerous knife sharpeners starting from as little as $20. 
 
-**Check here for the [best knife sharpeners to buy](https://thekitchenpot.com/blog/best-knife-sharpener//)**
+**Check here for the [best knife sharpeners to buy](https://thekitchenpot.com/blog/best-knife-sharpener/)**
 
 Before you step out to shop, you should know that there are two main types of knife sharpeners:
 

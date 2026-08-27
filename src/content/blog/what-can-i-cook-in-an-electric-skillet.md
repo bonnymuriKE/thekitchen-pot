@@ -120,7 +120,7 @@ This recipe requires approximately 50 minutes. The ingredients below are ideal f
 * 1 tablespoon of olive oil
 * 2 tablespoons of cumin
 * 3 limes (for lime juice)
-* Crushed Red Pepper (use [pepper millers](https://thekitchenpot.com/blog/best-pepper-mill//))
+* Crushed Red Pepper (use [pepper millers](https://thekitchenpot.com/blog/best-pepper-mill/))
 * Approximately 1 pound of chicken breasts 
 * An onion 
 

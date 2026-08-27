@@ -373,7 +373,7 @@ Before we look at what you should consider when buying your best hot dog steamer
 * **Set the optimal temperature** to allow the equipment to form adequate steam. Once you have enough steam, you can reduce the temperature to allow the hot dogs to cook slowly and evenly.
 * When the hot dogs are cooked, you should **remove them, unplug your best hot dog steamer and bun warmer, and drain the water.** 
 
-Just like the way you clean your **[favorite air fryer](https://thekitchenpot.com/blog/how-to-clean-an-air-fryer-basket//),** you should always clean the steamer after use. This is not only hygienic but it also boosts the longevity of your equipment. 
+Just like the way you clean your **[favorite air fryer](https://thekitchenpot.com/blog/how-to-clean-an-air-fryer-basket/),** you should always clean the steamer after use. This is not only hygienic but it also boosts the longevity of your equipment. 
 
 ### **Best Hot Dog Steamer and Bun Warmer – What You Should Look For**
 

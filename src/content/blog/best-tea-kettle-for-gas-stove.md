@@ -258,7 +258,7 @@ Price is the most crucial factor to consider before you even think of buying a k
 
 If you are not a tea addict, then you can purchase a cheap kettle. But if you know you are a tea aficionado, it’s better to buy a quality and an expensive model. But after all, you are the money holder. The choice is yours! Buy something that will satisfy your needs at a given price range.
 
-> If all you need is iced tea, then you should consider [purchasing the best iced tea maker](https://thekitchenpot.com/blog/best-iced-tea-maker//). It offers the best iced tea that’ll surely revolutionize your winter.
+> If all you need is iced tea, then you should consider [purchasing the best iced tea maker](https://thekitchenpot.com/blog/best-iced-tea-maker/). It offers the best iced tea that’ll surely revolutionize your winter.
 
 ## **The Bottom Line: Best Tea Kettle for Gas Stove**
 

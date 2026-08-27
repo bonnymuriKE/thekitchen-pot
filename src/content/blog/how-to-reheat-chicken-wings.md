@@ -74,12 +74,12 @@ Here is a step-by-step guide on how to reheat chicken wings using your home oven
 4. Reheat the chicken wings for 20 minutes (this can be less or more depending on the number of chicken wings you’re heating)
 5. We recommend that you use the best digital thermometer to check whether the chicken wings are ready.
 
-> ***Check the [best meat thermometers here](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking//)***
+> ***Check the [best meat thermometers here](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking/)***
 
 6. Use the thermometer on the thickest part of the wings. Once it reads 165 degrees Fahrenheit, then the chicken wings will be ready. 
 7. Remove it from the oven and place it on a heat-proof bowl (preferably metallic)
 
-***When removing from the oven, you should be careful not to burn your hands. We recommend that you use [heat-resistant cooking gloves for the best oven use experience](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking//).*** 
+***When removing from the oven, you should be careful not to burn your hands. We recommend that you use [heat-resistant cooking gloves for the best oven use experience](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking/).*** 
 
 8. Serve and Enjoy
 
@@ -91,7 +91,7 @@ This multi-purpose kitchen arsenal uses hot air generated using electricity. The
 
 Consequently, you can be sure that using an air fryer is a healthy way to reheat your chicken wings fast. 
 
-> ***To achieve this, you need the best air fryers. [Check here for the reviews of the best in the market.](https://thekitchenpot.com/blog/best-air-fryers-under-100//)***
+> ***To achieve this, you need the best air fryers. [Check here for the reviews of the best in the market.](https://thekitchenpot.com/blog/best-air-fryers-under-100/)***
 
 Once you get your air fryer, you should follow the following simple reheating steps:
 
@@ -104,7 +104,7 @@ Once you get your air fryer, you should follow the following simple reheating st
 
  If you desire a crispy and crunchy surface, you can use a little oil on your air fryer before reheating.
 
-***We recommend that you use the following [organic and air fryer recommended oils](https://thekitchenpot.com/blog/best-oil-for-air-fryer//)*** 
+***We recommend that you use the following [organic and air fryer recommended oils](https://thekitchenpot.com/blog/best-oil-for-air-fryer/)*** 
 
 ### **How to Reheat Chicken Wings Using a Frying Pan**
 
@@ -133,7 +133,7 @@ This is a labor-intensive approach to reheating your chicken wings. It entails c
 
 While it may take longer, this method will yield incredibly tasty and crispy chicken wings. If you want the smoky taste, you can use the best charcoal grills.
 
-> ***Check the [best charcoal and gas grills here](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//) for your consideration*** 
+> ***Check the [best charcoal and gas grills here](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo/) for your consideration*** 
 
 You will require approximately 15 minutes to reheat your chicken wings using this unique technique. Use the following steps to achieve the best results:
 

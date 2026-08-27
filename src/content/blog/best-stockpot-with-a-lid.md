@@ -30,7 +30,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-If you’re looking for [versatile cookware](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy//), then it is time you invest in the best stockpot with a lid. 
+If you’re looking for [versatile cookware](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy/), then it is time you invest in the best stockpot with a lid. 
 
 You can use the equipment to boil pasta, preserve soup, fry vegetables, and make all your favorite meals. However, your choice will primarily affect how you use it! 
 
@@ -46,7 +46,7 @@ The appliance has the following unique features:
 
 ***While most stockpots have flat bases, some do not! I recommend that you always choose one with a flat base to achieve the best results, regardless of the cooktop you’re using.***
 
-* **Straight Sides.** Unlike **[many other cooking pots](https://thekitchenpot.com/blog/best-ceramic-cookware-set//),** stockpots have straight sides that are perpendicular to their flat bases.
+* **Straight Sides.** Unlike **[many other cooking pots](https://thekitchenpot.com/blog/best-ceramic-cookware-set/),** stockpots have straight sides that are perpendicular to their flat bases.
 * **Wide Opening.** All stock pots have a full-diameter opening. This feature makes it easy for you to transfer liquid meals/ broth without the need for a funnel. Even better, it guarantees zero spillage during your cooking escapades. 
 * **Two Handles.** Stockpots have two strong handles on both sides. Always ensure that the handles are strong enough to handle the weight, even when full. 
 * **A Lid (With a Handle on Top).** Most of the stockpots come with a lid. These lids are designed with an ergonomic handle, thus guaranteeing comfort, convenience, and safety. 
@@ -75,7 +75,7 @@ However, they may not be the best for induction cooking. If you go for this opti
 
 These pots have a fair heat distribution, reduced hotspots, and are less pricier than copper and cladded stainless steel ones. 
 
-However, not all of them can be used with **[induction cooktops](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money//)**. As such, you should be keen to use the magnet test or check induction safety status. 
+However, not all of them can be used with **[induction cooktops](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money/)**. As such, you should be keen to use the magnet test or check induction safety status. 
 
 * **Anodized Aluminum**
 
@@ -360,7 +360,7 @@ If you want a stockpot for home use, then you should go for the nonstick pot. Th
 
 If you go for either stainless steel or red copper stockpot, you should ensure that you season them regularly to prevent sticking food.
 
-**Read a comprehensive guide on [how to season red copper](https://thekitchenpot.com/blog/how-to-season-red-copper-pan//) and [stainless steel pots](https://thekitchenpot.com/blog/how-to-season-stainless-steel-pans//).** 
+**Read a comprehensive guide on [how to season red copper](https://thekitchenpot.com/blog/how-to-season-red-copper-pan/) and [stainless steel pots](https://thekitchenpot.com/blog/how-to-season-stainless-steel-pans/).** 
 
 On the other hand, pasta pots are primarily made from stainless steel. However, it is not unusual to find cast iron, red copper, or aluminum pasta pots. The design is customized to ensure ease of draining water while retaining the pasta in the pot. 
 
@@ -386,7 +386,7 @@ Defining these needs will help you to settle for the ideal pasta pot for the mon
 
 * If you want the best stock pot for induction cooking, you should go for ***cast iron, stainless steel, steel, or some enameled steel stockpots***. Some stock pots will be made with other materials but have an iron base or core, making them ideal for induction. However, you should not buy aluminum, glass, or copper stock pots if you intend to use an induction cooktop. 
 
-If you’re wondering how to know whether a stockpot is induction friendly, then you can check for an induction-compatible sticker or use a magnet. **[ALL INDUCTION COOKWARE ARE MAGNETIC](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)**. For convenience, your best stock pot for induction cooktop should have a flat base. 
+If you’re wondering how to know whether a stockpot is induction friendly, then you can check for an induction-compatible sticker or use a magnet. **[ALL INDUCTION COOKWARE ARE MAGNETIC](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/)**. For convenience, your best stock pot for induction cooktop should have a flat base. 
 
 * If your primary need is a stock pot for soup storage, you should go for a deep one. It should also have a strong lid to keep your soup/broth from contamination.
 

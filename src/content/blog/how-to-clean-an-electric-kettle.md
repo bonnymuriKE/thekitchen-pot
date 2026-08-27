@@ -129,7 +129,7 @@ To achieve the best results when using CLR to clean your stainless steel kettle,
 * Unplug and empty your kettle
 * Add approximately one cup of warm water and one cup of CLR
 * Swish the mixture for 3 minutes
-* Empty the CLR-Water mixture into a **[jar](https://thekitchenpot.com/blog/best-airtight-food-storage-containers//)** nearby and discard it later
+* Empty the CLR-Water mixture into a **[jar](https://thekitchenpot.com/blog/best-airtight-food-storage-containers/)** nearby and discard it later
 * Rinse the kettle thoroughly (**we recommend rinsing the kettle five times**)
 * Repeat the process until there is no debris on the kettle’s inner surface
 
@@ -139,9 +139,9 @@ It’s essential to note that **[CLR is highly acidic](https://www.amazon.com/Je
 
 **Read also**
 
-**[How to clean a dishwasher](https://thekitchenpot.com/blog/how-to-clean-a-dishwasher//)**
+**[How to clean a dishwasher](https://thekitchenpot.com/blog/how-to-clean-a-dishwasher/)**
 
-**[How to clean stainless steel pans](https://thekitchenpot.com/blog/how-to-clean-stainless-steel-pans//)**
+**[How to clean stainless steel pans](https://thekitchenpot.com/blog/how-to-clean-stainless-steel-pans/)**
 
 ## How Often to Clean an Electric Kettle
 

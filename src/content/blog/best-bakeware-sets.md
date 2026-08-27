@@ -37,7 +37,7 @@ As a professional baker, I would say that baking is one of the most fulfilling p
 
 And how do you achieve this?
 
-Baking involves a rhythm. This is from weighing your ingredients, having the constant sound of the [mixer](https://thekitchenpot.com/blog/best-hand-mixers//) creaming and whisking in the background, to even manipulation of the dough. Baking is a tonic way to relax for those who need to untwine.
+Baking involves a rhythm. This is from weighing your ingredients, having the constant sound of the [mixer](https://thekitchenpot.com/blog/best-hand-mixers/) creaming and whisking in the background, to even manipulation of the dough. Baking is a tonic way to relax for those who need to untwine.
 
 Although I might possess all the baking skills one would wish to have, I can’t achieve all these without a the best bakeware set, which also plays an essential role to attain good results in your baked products.
 

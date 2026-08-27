@@ -42,7 +42,7 @@ This article offers a comprehensive answer on; what is the difference between a 
 
 ### **1. Blenders**
 
-A blender is generally used for light foods, and it’s used to prepare smoothies and [protein shakes](https://thekitchenpot.com/blog/best-blender-for-protein-shakes//). However, a relatively large blender can handle pretty hard foods just like a blender.
+A blender is generally used for light foods, and it’s used to prepare smoothies and [protein shakes](https://thekitchenpot.com/blog/best-blender-for-protein-shakes/). However, a relatively large blender can handle pretty hard foods just like a blender.
 
 They are a great addition to any kitchen, and if you lack one, then your kitchen is incomplete.
 
@@ -210,4 +210,4 @@ While a food processor is a friendly appliance for bakers, a blender, on the oth
 
 So having known the significant differences between the two, which appliance do you think is the best for your kitchen? You have the ultimate decision!
 
-But since the line between a blender and a food processor has perfectly blended, you can also buy high-end [kitchen appliances](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy//) that can handle both tasks admirably.
+But since the line between a blender and a food processor has perfectly blended, you can also buy high-end [kitchen appliances](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy/) that can handle both tasks admirably.

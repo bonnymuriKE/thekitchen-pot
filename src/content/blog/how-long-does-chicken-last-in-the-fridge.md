@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-When **[buying a fridge](https://thekitchenpot.com/blog/best-side-by-side-refrigerator//)**, you hope to reduce your visits to the market, right? But did you know that refrigerating food for longer than the recommended time can be a [health hazard](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)? 
+When **[buying a fridge](https://thekitchenpot.com/blog/best-side-by-side-refrigerator/)**, you hope to reduce your visits to the market, right? But did you know that refrigerating food for longer than the recommended time can be a [health hazard](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)? 
 
 So, how long does chicken last in the fridge? Well, this depend on how well you store it.
 
@@ -57,7 +57,7 @@ Cooked chicken will have a relatively long shelf life in a refrigerator than raw
 
 However, you must ensure that you first store your chicken in an air-tight container. This will eliminate air, thus minimizing the chances of bacterial growth. Consequently, a chicken in an airtight container will last longer than a cooked chicken stored in an open/poorly sealed can. 
 
-***Read here about the [best airtight storage containers](https://thekitchenpot.com/blog/best-airtight-food-storage-containers//) to consider***
+***Read here about the [best airtight storage containers](https://thekitchenpot.com/blog/best-airtight-food-storage-containers/) to consider***
 
 ## **How to Vacuum Seal Raw Chicken Before Storing in the Refrigerator**
 
@@ -90,7 +90,7 @@ On the other hand, **cooked chicken can last in a freezer for about 4 months**.�
 
 Once you remove it from the freezer, you should thaw it and reheat it using adequate means.
 
-***Read on [how you can reheat your chicken](https://thekitchenpot.com/blog/how-to-reheat-chicken-wings//) here*** 
+***Read on [how you can reheat your chicken](https://thekitchenpot.com/blog/how-to-reheat-chicken-wings/) here*** 
 
 Additionally, you should not store hot chicken directly in the refrigerator. Instead, you should let it cool for approximately one hour before refrigerating/freezing it.  
 

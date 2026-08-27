@@ -39,7 +39,7 @@ These kitchen cookware sets, pans and skillets are most commonly interchanged an
 
 If you’ve found yourself in such confusion, then worry no more!
 
-This article explains the difference between skillet and [frying pan](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//). We’ve carried a detailed review of the advantages and the disadvantages of each cookware and other factors that can help you decipher the difference between skillet and frying pan.
+This article explains the difference between skillet and [frying pan](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/). We’ve carried a detailed review of the advantages and the disadvantages of each cookware and other factors that can help you decipher the difference between skillet and frying pan.
 
 ## Difference Between Skillet and Frying Pan
 

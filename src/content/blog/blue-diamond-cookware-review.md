@@ -65,7 +65,7 @@ Overall, their diamond-infused coating is the epitome of its efficacy, elegance,
 
 Blue Diamond Cookware sets a new nonstick standard – characterized by safety, efficacy, and elegance. 
 
-The signature diamond-infused ceramic coating is five times harder and ten times more lasting than **[traditional nonstick coating pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//)**. The company brings the strength of diamond metal to your kitchen! 
+The signature diamond-infused ceramic coating is five times harder and ten times more lasting than **[traditional nonstick coating pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/)**. The company brings the strength of diamond metal to your kitchen! 
 
 When compared to copper, a diamond will transfer heat approximately four times faster. As such, you will get better results in a shorter time. Additionally, the coating’s hardened nature prevents chipping, thus ensuring that you pass your pans to generations!
 

@@ -51,7 +51,7 @@ Blending and pureeing are synonymous with any modern kitchen. For a long time, t
 
 However, a unique technological invention is bound to change your pureeing and blending experiences. Have you heard about an immersion blender?
 
-Well, unlike the [countertop models](https://thekitchenpot.com/blog/best-blenders-for-smoothies//), these are small, portable, and highly convenient hand-held blenders. Their relatively small size and ergonomic designs make them a choice for many cooks, especially when blending small amounts of foods/fruits/vegetables.  
+Well, unlike the [countertop models](https://thekitchenpot.com/blog/best-blenders-for-smoothies/), these are small, portable, and highly convenient hand-held blenders. Their relatively small size and ergonomic designs make them a choice for many cooks, especially when blending small amounts of foods/fruits/vegetables.  
 
 Here are other benefits you’ll accrue by purchasing the best immersion blender:
 
@@ -421,7 +421,7 @@ That said, having your best immersion blender will be akin to having a food proc
 
 Using an immersion blender is a straightforward process. We made a comprehensive guide on how to use these crucial kitchen appliances.
 
-> [Read the step-by-step guide on How to Use an Immersion Blender](https://thekitchenpot.com/blog/how-to-use-an-immersion-blender//)
+> [Read the step-by-step guide on How to Use an Immersion Blender](https://thekitchenpot.com/blog/how-to-use-an-immersion-blender/)
 
 ## **What are the Downsides of Immersion Blenders?**
 

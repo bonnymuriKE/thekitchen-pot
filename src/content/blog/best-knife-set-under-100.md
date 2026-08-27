@@ -82,7 +82,7 @@ Buying the best knife set under 100 will surely be one of the best decisions eve
 
 As such, the best knife set under 100 will help you bid goodbye to the one-fit-all knife! This will add glamour to your kitchen and enhance your cooking experience greatly.
 
-Additionally, you’ll be able to use the right knife for the right function, thus reducing the chances of destroying your **[over the sink cutting board](https://thekitchenpot.com/blog/best-over-the-sink-cutting-board//)!**
+Additionally, you’ll be able to use the right knife for the right function, thus reducing the chances of destroying your **[over the sink cutting board](https://thekitchenpot.com/blog/best-over-the-sink-cutting-board/)!**
 
 **You should never use your dishwasher to clean your knives, even when the manufacturer suggests that it is safe to do so. It reduces the lifespan of your knives significantly.**
 
@@ -214,7 +214,7 @@ It comes with nearly everything you’ll need to get started on the culinary adv
 
 The entire set is portable and lightweight. You can use it during your hiking and camping escapades.
 
-**[Read more about best camping cookware here.](https://thekitchenpot.com/blog/best-camping-cookware//)**
+**[Read more about best camping cookware here.](https://thekitchenpot.com/blog/best-camping-cookware/)**
 
 **Pros** 
 

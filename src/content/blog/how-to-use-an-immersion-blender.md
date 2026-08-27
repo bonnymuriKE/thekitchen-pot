@@ -35,7 +35,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 With the emerging trends impacting our lives today, it wouldn’t be wrong to say that so much has changed in the food industry. One such advancement is the innovation of immersion blenders.
 
-You’ve probably heard about [blenders](https://thekitchenpot.com/blog/best-blender-for-protein-shakes//) and even used them. But you’ve never has a user experience with an immersion blender and you might be wondering how it’s used, right?
+You’ve probably heard about [blenders](https://thekitchenpot.com/blog/best-blender-for-protein-shakes/) and even used them. But you’ve never has a user experience with an immersion blender and you might be wondering how it’s used, right?
 
 Well, you don’t have to sweat it anymore. It’s easy and user friendly. This article will take you through how to use an immersion blender step by step.
 

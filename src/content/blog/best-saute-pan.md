@@ -51,7 +51,7 @@ This sauté pan is one of the best choices for a non-stick pan. The calphalon cl
 
 The pan is made of cast stainless steel with a Teflon coating on the bottom surface. Due to its sturdy construction, food doesn’t stick on the surface, even when cooking without oil.
 
-The calphalon classic sauté pan is a unique one as compared to other [non-stick Pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//) because it can be placed in an oven with high temperatures of up to 450 degrees.
+The calphalon classic sauté pan is a unique one as compared to other [non-stick Pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/) because it can be placed in an oven with high temperatures of up to 450 degrees.
 
 **[Check Latest Price on Amazon](https://www.amazon.com/Calphalon-Classic-Nonstick-Saute-Cover/dp/B01APP21VU?tag=kitchenpot-20)**
 

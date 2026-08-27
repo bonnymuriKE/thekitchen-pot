@@ -225,7 +225,7 @@ While the majority of Paula Deen Cookware items are oven-safe, you must confirm 
 
 Additionally, you should check whether your best Paula Deen Cookware is dishwasher safe. This will make the cleaning process a breeze! 
 
-> [Read more about nonstick pans and their benefits](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//)
+> [Read more about nonstick pans and their benefits](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/)
 
 ## **Best Paula Deen Cookware – The Bottom Line**
 

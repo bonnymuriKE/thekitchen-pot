@@ -330,7 +330,7 @@ When buying the best meat thermometer for smoking, you should factor in the foll
 * **Accuracy.** When buying the best meat thermometer for smoking, you should ensure that it has the least margin of error. The best meat thermometer for smoking should have an + or – 1-degree Celsius error margin. 
 * **Temperature Range.** The best meat thermometer for smoking should have a high-temperature range. Most models have a range of 32°F – 572°F. Others may go up to 700°F. The higher it is, the better. 
 
-> When cooking using high temperatures, always ensure that you use [heat-resistant gloves](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking//) to protect your hands from injuries. 
+> When cooking using high temperatures, always ensure that you use [heat-resistant gloves](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking/) to protect your hands from injuries. 
 
 ## **Best Meat Thermometer for Smoking – Bottom Line**
 

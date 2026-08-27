@@ -251,7 +251,7 @@ It is built with a proper depth that lines up with your countertops and comes wi
 
 This Samsung range comes with all whistles and bells you expect from a high-tech model. It comes with a large capacity of 5.8 cu ft. And can cook a wide range of foods at once. Additionally, it comes with a flexible cooktop that comes with five burners that you can use simultaneously.
 
-And with a variety of between 5000 Btu up to 18,000 Btu, this Samsung slide in electric range performs every task in your kitchen from searing, steaming, and baking. Additionally, it comes with a reversible cast iron grill and a custom wok grate that accommodates the bottom of a [wok](https://thekitchenpot.com/blog/best-wok-for-electric-stove//).
+And with a variety of between 5000 Btu up to 18,000 Btu, this Samsung slide in electric range performs every task in your kitchen from searing, steaming, and baking. Additionally, it comes with a reversible cast iron grill and a custom wok grate that accommodates the bottom of a [wok](https://thekitchenpot.com/blog/best-wok-for-electric-stove/).
 
 The included temperature probe removes the guesswork out of cooking, plus the grate indicator mark located on the cooktop helps you position your pans and pots for proper heat distribution. The true slide-in style range is essential in overlapping the counter with the cooktop.
 

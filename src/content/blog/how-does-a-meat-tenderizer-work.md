@@ -107,7 +107,7 @@ To achieve its tenderizing effect, you should follow the following simple steps:
 * Sprinkle salt uniformly on all sides
 * Let it sit for 2 hours
 * Rinse the salt off the meat
-* Cook your meat in a **[skillet](https://thekitchenpot.com/blog/what-can-i-cook-in-an-electric-skillet//)** or roast it using your **[best grill](https://thekitchenpot.com/blog/best-infrared-grills-for-the-money//)**
+* Cook your meat in a **[skillet](https://thekitchenpot.com/blog/what-can-i-cook-in-an-electric-skillet/)** or roast it using your **[best grill](https://thekitchenpot.com/blog/best-infrared-grills-for-the-money/)**
 
 The salt will break down connective tissues, making the meat tender. However, it would help if you never forgot to rinse the meat to avoid over salted meals. 
 

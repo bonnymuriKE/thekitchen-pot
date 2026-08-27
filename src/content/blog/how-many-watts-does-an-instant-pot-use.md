@@ -37,7 +37,7 @@ One of the biggest fear for most people when it comes to electric appliances is 
 
 So, how many watts does an Instant Pot use? The answer is simple: 700-1200 watts depending on the capacity and brand.
 
-It’s something that you might want to know as it’ll help you estimate your electric bill. Also, since the **[Instant Pot is a kitchen appliance](https://thekitchenpot.com/blog/instant-pot-vs-ninja-foodi//)** that pretty much everyone knows about now, it’s good to know what to expect before purchasing one. Here is a comprehensive guide.
+It’s something that you might want to know as it’ll help you estimate your electric bill. Also, since the **[Instant Pot is a kitchen appliance](https://thekitchenpot.com/blog/instant-pot-vs-ninja-foodi/)** that pretty much everyone knows about now, it’s good to know what to expect before purchasing one. Here is a comprehensive guide.
 
 ## **How Many Watts Does An Instant Pot Use?**
 
@@ -68,7 +68,7 @@ The amount of electricity that an Instant Pot uses will depend on how often it�
 
 To give you a general idea, if your Instant Pot is used for about an hour a day, it will cost about $0.50-$1 a month in electricity. This number might change depending on the above factors, so it’s best to use it as a reference.
 
-**[Read about steamer baskets for instant pots](https://thekitchenpot.com/blog/best-steamer-basket-for-instant-pot//)**
+**[Read about steamer baskets for instant pots](https://thekitchenpot.com/blog/best-steamer-basket-for-instant-pot/)**
 
 ## **How Many Watts Does An Instant Pot Use? Conclusion**
 

@@ -64,7 +64,7 @@ The preparation involves the use of wheat-flour noodles. For Chow Mein, **noodle
 
 ### **What is Chow Mein?**
 
-Chow means fried, and Mein means noodles. So, Chow Mein means fried noodles. They are cooked on a **[flat pan or a wok](https://thekitchenpot.com/blog/best-wok-for-electric-stove//)** to achieve a unique crispness that makes leaves an excellent taste on your mouth. 
+Chow means fried, and Mein means noodles. So, Chow Mein means fried noodles. They are cooked on a **[flat pan or a wok](https://thekitchenpot.com/blog/best-wok-for-electric-stove/)** to achieve a unique crispness that makes leaves an excellent taste on your mouth. 
 
 The exact taste of Chow Mein depends on the meat and vegetables used in its preparation. It can be spicy, have lots of vegetables, or even include Tofu. 
 
@@ -72,7 +72,7 @@ The exact taste of Chow Mein depends on the meat and vegetables used in its prep
 
 While the name may sound complicated, the process of making Chow Mein is relatively simple. It is recommended that you first boil the noodles before frying them to get the best results. Here is a step-by-step guide on how to make Chow Mein:
 
-* **Prepare All Ingredients.** It would be best to use a **[sharp knife](https://thekitchenpot.com/blog/best-knife-set-under-100//)** to slice, chop, and marinate all your ingredients. We recommend that you have all the ingredients ready before you start the cooking.
+* **Prepare All Ingredients.** It would be best to use a **[sharp knife](https://thekitchenpot.com/blog/best-knife-set-under-100/)** to slice, chop, and marinate all your ingredients. We recommend that you have all the ingredients ready before you start the cooking.
 * **Boil Your Noodles.** You will be required to boil your noodles lightly. Once through, drain the water and rinse the noodles in cold water. Ensure you drain them entirely. 
 * **Heat Oil in a Skillet.** If you have a **[Lodge Cast Iron Skillet](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Skillet-Silicone/dp/B00G2XGC88?tag=kitchenpot-20)**, you can use it. If not, use any other pan, preferably heavy and with a flat base. Heat the oil until it bubbles (Sesame oil recommended).
 * **Place the Noodles.** Place your drained noodles into the hot oil until they form a pancake-like structure. When ready to flip, place a plate over the noodles and turn them carefully. Fry them until they become crispy.
@@ -107,10 +107,10 @@ Preparing Lo Mein is more painless than preparing Chow Mein. In this case, you w
 
 Instead, you will follow these simple steps:
 
-* **Prepare Your Vegetables.** This should **ALWAYS** be the first step. Please do not start with boiling the noodles since they cool pretty fast. Use an **[over-the-sink cutting board](https://thekitchenpot.com/blog/best-over-the-sink-cutting-board//)** to ensure that you clean and drain your vegetables adequately. 
+* **Prepare Your Vegetables.** This should **ALWAYS** be the first step. Please do not start with boiling the noodles since they cool pretty fast. Use an **[over-the-sink cutting board](https://thekitchenpot.com/blog/best-over-the-sink-cutting-board/)** to ensure that you clean and drain your vegetables adequately. 
 * **Prepare Your Sauce.** Which sauce would you like to use? Prepare your favorite sauce early enough. Also, make sure that your preferred source of protein is ready. 
-* **Boil the water.** Place your **[stock pot](https://thekitchenpot.com/blog/best-stockpot-with-a-lid//)** on the stovetop and add enough water and a pinch of salt. Add your noodles and let them cook.
-* **Heat the Oil and Stir-Fry Your Vegetables.** We recommend the use of **[organic oils](https://thekitchenpot.com/blog/best-oil-for-air-fryer//)** such as olive, canola, and avocado oils. 
+* **Boil the water.** Place your **[stock pot](https://thekitchenpot.com/blog/best-stockpot-with-a-lid/)** on the stovetop and add enough water and a pinch of salt. Add your noodles and let them cook.
+* **Heat the Oil and Stir-Fry Your Vegetables.** We recommend the use of **[organic oils](https://thekitchenpot.com/blog/best-oil-for-air-fryer/)** such as olive, canola, and avocado oils. 
 * **Toss them and Serve.** When both the noodles and the vegetables/proteins are ready, you should toss them together and serve.
 
 #### Types of Lo Mein
@@ -118,7 +118,7 @@ Instead, you will follow these simple steps:
 Just like Chow Mein, Lo Mein is primarily classified based on the ingredients used. Some of the most common Lo Meins include:
 
 * Chicken Lo Mein
-* **Beef Lo Mein.** Ensure you marinate the beef with honey, ginger, or any other spices before slicing it. (use a **[meat slicer for home use](https://thekitchenpot.com/blog/best-meat-slicer-for-home-use//)**).
+* **Beef Lo Mein.** Ensure you marinate the beef with honey, ginger, or any other spices before slicing it. (use a **[meat slicer for home use](https://thekitchenpot.com/blog/best-meat-slicer-for-home-use/)**).
 * **Shrimp Lo Mein.** Ensure that you don’t expose your shrimp to high heat lest it becomes chewy and tough.
 * Pork Lo Mein
 * Vegetable Lo Mein

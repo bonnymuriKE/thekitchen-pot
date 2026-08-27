@@ -274,7 +274,7 @@ Additionally, you can **connect it to your phone through WIFI**. This feature en
 
 It gives a uniform and quick heat circulation as it is **powered by 1000 watts.** This makes it ideal for cooking different types of food, including tender meat, vegetables, and eggs. 
 
-It is noise-free and programmable. All you need is to **[vacuum seal](https://thekitchenpot.com/blog/best-vacuum-sealer-for-sous-vide//)** your meals, place them in the water bath, and program the cooking time and temperature. 
+It is noise-free and programmable. All you need is to **[vacuum seal](https://thekitchenpot.com/blog/best-vacuum-sealer-for-sous-vide/)** your meals, place them in the water bath, and program the cooking time and temperature. 
 
 When the water is low, the **thermal cooker will stop operating and send an alarm to your phone App**. Additionally, the alarm will alert you when the temperature gets to the target setting value and when the meal is ready.
 
@@ -555,7 +555,7 @@ Furthermore, this Sous Vide Power Precision Cooker **comes with a recipe book, c
 A Sous Vide power precision cooker is a slow cooker that works by cooking meals underwater. However, you must seal the food in a plastic bag before immersing it. Here is a step-wise guide of using a Sous Vide power precision cooker:
 
 * Place your food inside a plastic bag and seal it
-* Drop it in your cooking pot, **[instant pot](https://thekitchenpot.com/blog/instant-pot-vs-pressure-cooker//)**, or any other cooking vessel
+* Drop it in your cooking pot, **[instant pot](https://thekitchenpot.com/blog/instant-pot-vs-pressure-cooker/)**, or any other cooking vessel
 * Clip the Sous Vide power precision cooker on the side of the vessel
 * Set the Sous Vide power precision cooker by selecting the temperature and cooking duration
 

@@ -47,9 +47,9 @@ Due to its unique taste and nutritional benefits, coconut milk is used in many r
 
 ## How is Coconut Milk Made?
 
-Coconut milk is extracted from mature coconuts. To get the puree, you will be required to grate the coconut’s white flesh or slice it into small pieces using your **[mandoline slicers](https://thekitchenpot.com/blog/best-mandoline-slicers//)**.
+Coconut milk is extracted from mature coconuts. To get the puree, you will be required to grate the coconut’s white flesh or slice it into small pieces using your **[mandoline slicers](https://thekitchenpot.com/blog/best-mandoline-slicers/)**.
 
-When you’re through with the grating process, you’ll **[press the grated meat to extract the coconut cream](https://thekitchenpot.com/blog/how-to-use-a-mandoline//)**. This cream is then soaked in hot water and passed through a sieve/ a cheesecloth to achieve the coconut milk. 
+When you’re through with the grating process, you’ll **[press the grated meat to extract the coconut cream](https://thekitchenpot.com/blog/how-to-use-a-mandoline/)**. This cream is then soaked in hot water and passed through a sieve/ a cheesecloth to achieve the coconut milk. 
 
 If you want high-quality coconut milk, you should ensure that it contains both coconut cream and milk. The cream will appear as a fatty layer sitting on top of the milky substance. 
 
@@ -131,7 +131,7 @@ Even better, **[oat milk](https://www.amazon.com/Califia-Farms-Unsweetened-Oatmi
 
 Tofu is made by hard-pressing condensed soy milk to form blocks. It is ideal for making desserts and smoothies.
 
-Tofu is high in proteins, and you can use it to replace coconut oil in the ratio of 1:1. If you use your **[best blender for smoothies](https://thekitchenpot.com/blog/best-blenders-for-smoothies//)**, you should get consistent and smooth soup and curry. 
+Tofu is high in proteins, and you can use it to replace coconut oil in the ratio of 1:1. If you use your **[best blender for smoothies](https://thekitchenpot.com/blog/best-blenders-for-smoothies/)**, you should get consistent and smooth soup and curry. 
 
 **12. Hemp Milk**
 

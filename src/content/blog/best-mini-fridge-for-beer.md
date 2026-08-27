@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 If you love cold beer, the you’ll opine that nothing tastes better than a cold beer in a hot summer! However, getting that chilled beer can be a hassle unless you get the best mini fridge for beer. 
 
-Whether you are a passive beer hobbyist or a cerevisaphile, a minibar is an ideal investment. With summer just around the corner, a chilly beer with [smoke-grilled](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//) meat doesn’t overly seem like a bad idea. 
+Whether you are a passive beer hobbyist or a cerevisaphile, a minibar is an ideal investment. With summer just around the corner, a chilly beer with [smoke-grilled](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo/) meat doesn’t overly seem like a bad idea. 
 
 With that in mind, let’s look at the numerous top models’ mini-fridges in the market currently, and the various elements that make it worthwhile.
 

@@ -47,7 +47,7 @@ This article will make your search less tiresome and successful.
 
 ## **What is Vegetable Chopper?**
 
-The best vegetable choppers are essential tools when you want to chop or reduce the use of a [knife set](https://thekitchenpot.com/blog/best-knife-set-under-100//) in food preparation.
+The best vegetable choppers are essential tools when you want to chop or reduce the use of a [knife set](https://thekitchenpot.com/blog/best-knife-set-under-100/) in food preparation.
 
 The most common functions of the best vegetable chopper include chopping and cutting garlic, onions, carrots for stews and soups.
 
@@ -199,7 +199,7 @@ Besides the vegetable chopper being nicely designed, it’s also user-friendly. 
 
 * The vegetable chopper can only be used to make different kinds of slices but not dicing
 
-> **If you’d love to read more about Mandoline Slicers, then we [recommend this article](https://thekitchenpot.com/blog/best-mandoline-slicers//).** 
+> **If you’d love to read more about Mandoline Slicers, then we [recommend this article](https://thekitchenpot.com/blog/best-mandoline-slicers/).** 
 
 **6. [Vidalia Chop Wizard](https://www.amazon.com/Vidalia-Chop-Wizard-67366-Large/dp/B000I6JZWA?tag=kitchenpot-20)**
 

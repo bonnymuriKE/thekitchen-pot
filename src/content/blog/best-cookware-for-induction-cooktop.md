@@ -354,7 +354,7 @@ If you need the best cookware for induction cooktop, you should always check a p
 
 Additionally, you can use a magnetic and try to stick it on the bottom of any cookware. If it’s compatible with an induction cooktop, the magnet should stick strongly.
 
-Induction cooking can interfere with your [digital meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking//)! As such, you may need an analog thermometer when cooking.
+Induction cooking can interfere with your [digital meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking/)! As such, you may need an analog thermometer when cooking.
 
 ## Best Cookware for Induction Cooktop – Bottom Line
 

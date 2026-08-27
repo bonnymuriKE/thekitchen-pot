@@ -132,7 +132,7 @@ The machine comes fitted with a touchscreen which is easily accessible and has s
 
 The go wise electric fryer comprises of a 30 minute timer that switches to standby mode when the time is up.
 
-To read more about [Air Fryers, how they work, and the best products to consider, visit here](https://thekitchenpot.com/blog/best-air-fryers-under-100//)
+To read more about [Air Fryers, how they work, and the best products to consider, visit here](https://thekitchenpot.com/blog/best-air-fryers-under-100/)
 
 ## **What is a NuWave Oven?**
 

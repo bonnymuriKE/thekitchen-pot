@@ -228,7 +228,7 @@ Drying the logs/chips ensure that they burn faster to produce smoke, which yield
 
 * **Wait to Achieve the Right Temperature**
 
-When the wood chip starts burning, you need to start monitoring the temperature. We recommend that you buy the **[best meat thermometer for smoking](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking//)** for easier temperature management. The in-built thermometer can greatly mislead you!
+When the wood chip starts burning, you need to start monitoring the temperature. We recommend that you buy the **[best meat thermometer for smoking](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking/)** for easier temperature management. The in-built thermometer can greatly mislead you!
 
 * **Place Your Meat on the Grates**
 
@@ -309,7 +309,7 @@ Some of the common problems associated with cheap smokers include:
 
 Considering that your best offset smoker is a lifetime investment, price should be the least of your factors to consider. 
 
-**If you want a [gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//) or an [ordinary gas grill](https://thekitchenpot.com/blog/best-gas-grills-under-500//), then here is a detailed guide.** 
+**If you want a [gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo/) or an [ordinary gas grill](https://thekitchenpot.com/blog/best-gas-grills-under-500/), then here is a detailed guide.** 
 
 ## **Best Offset Smoker for Beginners -The Bottom Line**
 

@@ -84,7 +84,7 @@ Using a paper towel or a dry cloth, wipe down the griddle then dry it out carefu
 * Warm soap solution
 * Metal spatula
 * Clean clothes
-* [Heat resistant gloves](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking//)
+* [Heat resistant gloves](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking/)
 
 **How to Clean**
 

@@ -379,7 +379,7 @@ When buying your best wok for electric stove, you should always consider the fol
 * **Availability of a Lid.** We recommend that your best wok for electric stove should have a lid. This allows your food to simmer and cook well over a short period.
 * **Maintenance.** What are the care and maintenance practices to keep your wok functional for long? Do you need regular seasoning? You should get all these facts before buying your best wok for electric stove. You should also understand the cleaning requirements and only buy a wok that you can maintain expertly. 
 * **Size.** Your best wok for electric stove should be big enough to cook enough food for your family and guests. Also, ensure that you consider the type of stove you’ll use with the wok. When it’s too big compared to the stove, it can tilt leading to spillage and accidents!
-* **Non-Stick or Not?** There are [several non-stick pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//) and woks in the market. If you want a wok with non-stick coating, you should check its functionality first. For example, coating carbon steel with a non-stick material may not yield great results. On the contrary, non-stick aluminum/calphalon woks can work just fine. 
+* **Non-Stick or Not?** There are [several non-stick pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/) and woks in the market. If you want a wok with non-stick coating, you should check its functionality first. For example, coating carbon steel with a non-stick material may not yield great results. On the contrary, non-stick aluminum/calphalon woks can work just fine. 
 
 ## **Best Wok for Electric Stove – Bottom Line**
 

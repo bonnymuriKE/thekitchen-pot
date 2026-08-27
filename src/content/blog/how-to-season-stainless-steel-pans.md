@@ -54,11 +54,11 @@ However, you should note that regular cleaning of your stainless steel with soap
 
 ## How to Season Stainless Steel Pans – the Ultimate Guide 
 
-Seasoning your stainless steel cookware is less work than **[seasoning red copper pans](https://thekitchenpot.com/blog/how-to-season-red-copper-pan//)**, carbon steel, or cast iron. 
+Seasoning your stainless steel cookware is less work than **[seasoning red copper pans](https://thekitchenpot.com/blog/how-to-season-red-copper-pan/)**, carbon steel, or cast iron. 
 
 You will need soap, warm water, oil (with a high smoking point), and paper towels. We recommend that you use any oil ideal for air fryers.
 
-***[Read here about the best oils for air fryers](https://thekitchenpot.com/blog/best-oil-for-air-fryer//)*** 
+***[Read here about the best oils for air fryers](https://thekitchenpot.com/blog/best-oil-for-air-fryer/)*** 
 
 **Step 1: Wash Your Pan** 
 
@@ -98,7 +98,7 @@ Matter of factly, stainless steel is the leading contemporary cookware – and f
 * **Good Heat Absorption.** The best stainless steel cookware has an exceptionally good cooking ability. It absorbs heat pretty fast to ensure that your food cooks fast. The only pan that can beat stainless steel in heat absorption is made out of red copper. 
 * **Ease of Cleaning.** Stainless steel pans have smooth and non-porous surfaces that are easy to clean. Using warm water and soap is everything you will need to achieve sparkling clean pans. If need be, you can use baking soda and vinegar to remove stains. Even better, the majority of these dishes are dishwasher safe!
 
-***Read more on* *[how to clean stainless steel pans](https://thekitchenpot.com/blog/how-to-clean-stainless-steel-pans//)* *here***
+***Read more on* *[how to clean stainless steel pans](https://thekitchenpot.com/blog/how-to-clean-stainless-steel-pans/)* *here***
 
 * **Does Not React with Food.** Unlike copper pans, stainless steel cookware is safe to use with highly acidic and alkaline food items. You can cook your lime recipes without the risk of forming harmful compounds. 
 * **Lightweight.** When you compare stainless steel pans with cast iron, you’ll realize that it is easy to handle the former due to their lightweight nature. This boosts your flexibility as you can turn the food without a hassle. 

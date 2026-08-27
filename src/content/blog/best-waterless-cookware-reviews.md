@@ -73,7 +73,7 @@ Even better, using your best waterless cookware will result in tastier meals. It
 
 ## **Why is Waterless Cookware Special?**
 
-Unlike traditional [sauté pans](https://thekitchenpot.com/blog/best-saute-pan//), the waterless ones offer fast heat transfer and even heating. Also, the cookware is made of sturdy material with the ability to retain heat for a long time. 
+Unlike traditional [sauté pans](https://thekitchenpot.com/blog/best-saute-pan/), the waterless ones offer fast heat transfer and even heating. Also, the cookware is made of sturdy material with the ability to retain heat for a long time. 
 
 To achieve this, your best waterless cookware consists of several layers. The first layer (which is the cooking surface) is made of high-grade/surgical grade steel, durable stainless steel designed specially to ensure that you do not have a metallic taste on your meals. 
 

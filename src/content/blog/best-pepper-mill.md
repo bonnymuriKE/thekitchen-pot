@@ -328,7 +328,7 @@ The LED light helps you to see how much you’re putting if you’re in a dim ro
 
 * It is electric so when the batteries die, you can’t grind it by hand
 
-Do you need more salt and pepper grinders? [Check here for a comprehensive user’s guide](https://thekitchenpot.com/blog/best-salt-and-pepper-grinders//).
+Do you need more salt and pepper grinders? [Check here for a comprehensive user’s guide](https://thekitchenpot.com/blog/best-salt-and-pepper-grinders/).
 
 ## **How to Choose the Best Pepper Mill- Buying Guide**
 

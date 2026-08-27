@@ -109,7 +109,7 @@ Also, the lids come with a stylish top handle completed with a metallic shiny ap
 
 ## Pros and Cons of Using Enameled Cast Iron Cookware
 
-Cast iron cookware is among the safest options compared to aluminum, copper, and **[Teflon-coated pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//)**. 
+Cast iron cookware is among the safest options compared to aluminum, copper, and **[Teflon-coated pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/)**. 
 
 However, there is very negligent leaching of iron into your food. While this is considered harmless, long-term accumulation can lead to iron toxicity. **Note that this risk is minimal but especially high when you use your iron cookware to cook acidic food regularly.** 
 

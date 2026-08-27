@@ -43,7 +43,7 @@ It analyzes how to work with the Keurig coffee maker as well as the benefits of 
 
 ## **[Keurig Classic Series Brewers: What is It?](https://www.amazon.com/Keurig-K55-K-Classic-Coffee-Programmable/dp/B018UQ5AMS?tag=kitchenpot-20)**
 
-While there are many [coffee makers with grinders](https://thekitchenpot.com/blog/best-coffee-maker-with-a-grinder//) in the market, the Keurig Coffee Maker will serve you right if you want a small yet efficient coffee maker. It’s a single-brew machine that functions with uniquely suited coffee pods namely “k-cups” with miniature devising.
+While there are many [coffee makers with grinders](https://thekitchenpot.com/blog/best-coffee-maker-with-a-grinder/) in the market, the Keurig Coffee Maker will serve you right if you want a small yet efficient coffee maker. It’s a single-brew machine that functions with uniquely suited coffee pods namely “k-cups” with miniature devising.
 
 [Check Price on Amazon](https://www.amazon.com/Keurig-K55-K-Classic-Coffee-Programmable/dp/B018UQ5AMS?tag=kitchenpot-20)
 

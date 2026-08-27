@@ -268,7 +268,7 @@ Additionally, this espresso machine under $200 has unique back light indicators 
 
 ## **Best Espresso Machines – Buying Guide**
 
-Buying the best espresso machine is a step in the right direction. This is especially important if you don’t have a [coffee machine with a grinder](https://thekitchenpot.com/blog/best-coffee-maker-with-a-grinder//)! It will revolutionize your coffee brewing experience and save you time! 
+Buying the best espresso machine is a step in the right direction. This is especially important if you don’t have a [coffee machine with a grinder](https://thekitchenpot.com/blog/best-coffee-maker-with-a-grinder/)! It will revolutionize your coffee brewing experience and save you time! 
 
 However, selecting the best espresso machines can be hectic. This is worse when you do not have the slightest idea of what you should consider when shopping.
 

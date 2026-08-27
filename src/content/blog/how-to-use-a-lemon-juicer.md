@@ -63,7 +63,7 @@ Also, select ripe fruits that aren’t heavier nor hard. Harder fruits are hard 
 **Prepare your lemon for squeezing**.
 
 *  Roll the lemon using your hand. Hold it against the kitchen countertop then provide gentle and smooth pressure on it. Keep rolling the lemon back and forth to make the process lessen the inner segments of the fruit for easy juicing.
-* Using [a chef knife](https://thekitchenpot.com/blog/best-knife-set-under-100//), cut the lemon across the center. You can cut it either lengthwise or crosswise to fit on the lemon juicer. If you want to harvest more juice, ensure you cut the lime or lemon LENGTHWISE.
+* Using [a chef knife](https://thekitchenpot.com/blog/best-knife-set-under-100/), cut the lemon across the center. You can cut it either lengthwise or crosswise to fit on the lemon juicer. If you want to harvest more juice, ensure you cut the lime or lemon LENGTHWISE.
 * Cutting away the rind tip gives you extra power for using a manual squeezer.
 
 **Extract the Juice** 

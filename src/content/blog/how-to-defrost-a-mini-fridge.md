@@ -31,7 +31,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-So, you’ve recently acquired your [mini fridge](https://thekitchenpot.com/blog/best-mini-fridge-for-beer//) and you’re happy that you’ll now enjoy cold beer going forward. However, you should be careful to maintain the appliance lest you have the most short-lived joy ever!
+So, you’ve recently acquired your [mini fridge](https://thekitchenpot.com/blog/best-mini-fridge-for-beer/) and you’re happy that you’ll now enjoy cold beer going forward. However, you should be careful to maintain the appliance lest you have the most short-lived joy ever!
 
 How do I maintain the mini fridge for optimum performance?
 

@@ -161,7 +161,7 @@ So why should you spend tons of money in that restaurant, yet you have a machine
 
 The 1700 watts coil generates an extremely high heat that reaches up to 400F for a quick heating experience. You don’t have to wait for so long for your food to be ready like the traditional air fryers. Just load the food then set the temperature and the cooking time.
 
-After use, it’s easy to [clean as it has a nonstick basket](https://thekitchenpot.com/blog/how-to-clean-an-air-fryer-basket//).
+After use, it’s easy to [clean as it has a nonstick basket](https://thekitchenpot.com/blog/how-to-clean-an-air-fryer-basket/).
 
 ***Pros*** 
 
@@ -248,7 +248,7 @@ Ensure you buy a product that will save you from future electrical expenses. The
 
 The reviewed air fryers under $100 have similar outcomes but differ in capacities. Our best pick here is the [GoWISE USA GW22921](https://www.amazon.com/GoWISE-USA-GW22664-2-75-QT-Majestic/dp/B078X1SZHQ?tag=kitchenpot-20).
 
-You will enjoy the services that it delivers. In other words, it’s durable, stylish, and comes with different smart colors. It [cooks frozen fries](https://thekitchenpot.com/blog/how-to-cook-frozen-french-fries-in-an-air-fryer//) and other superb dishes fast!
+You will enjoy the services that it delivers. In other words, it’s durable, stylish, and comes with different smart colors. It [cooks frozen fries](https://thekitchenpot.com/blog/how-to-cook-frozen-french-fries-in-an-air-fryer/) and other superb dishes fast!
 
 We hope that now you have a clear sketch of how a top-notch air fryer can boost your health by lowering the excess harmful calories in your best meal. Why should you continue struggling with a traditional deep fryer? Try out something new with a small budget.
 

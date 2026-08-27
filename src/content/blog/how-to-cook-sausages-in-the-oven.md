@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 Are you in a hurry and hungry? If so, then you should consider cooking sausages since they offer a quick fix. Within a few minutes, you’ll be enjoying your sausage delicacy – either plain or with your favorite dessert.
 
-But how exactly do you prepare the sausages? Most people are used to cooking them in an **[air fryer](https://thekitchenpot.com/blog/how-to-cook-frozen-french-fries-in-an-air-fryer//)** or deep fry them in an ordinary **[nonstick pan](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//)**. 
+But how exactly do you prepare the sausages? Most people are used to cooking them in an **[air fryer](https://thekitchenpot.com/blog/how-to-cook-frozen-french-fries-in-an-air-fryer/)** or deep fry them in an ordinary **[nonstick pan](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/)**. 
 
 However, you can also use an oven to obtain a unique taste of evenly baked sausages. This article elucidates how to cook sausages in the oven within a few minutes! Read on.
 
@@ -60,7 +60,7 @@ If you opt for baking the sausages in the oven, you will minimize the sausage’
 
 Baking your sausages in an oven offers one of the easiest cooking methods. Unlike grilling, you can bake your sausages in the comfort of your house.
 
-***Read how you can use the [smokeless grill for baking sausages](https://thekitchenpot.com/blog/gotham-steel-smokeless-grill-review//) here.*** 
+***Read how you can use the [smokeless grill for baking sausages](https://thekitchenpot.com/blog/gotham-steel-smokeless-grill-review/) here.*** 
 
 Additionally, baking your sausages doesn’t require constant checking. All you need is to place your sausages in the oven, set the temperature & time, then wait. 
 
@@ -72,11 +72,11 @@ As such, cleaning the oven will be a breeze. On the contrary, pan-frying, grilli
 
 **Evenly Cooked Sausages** 
 
-Cooking sausages in the oven is almost foolproof. You will almost be sure that you’ll get the results you anticipated. Unlike when using a **[skillet](https://thekitchenpot.com/blog/what-can-i-cook-in-an-electric-skillet//),** you will not be required to turn over the sausages regularly. 
+Cooking sausages in the oven is almost foolproof. You will almost be sure that you’ll get the results you anticipated. Unlike when using a **[skillet](https://thekitchenpot.com/blog/what-can-i-cook-in-an-electric-skillet/),** you will not be required to turn over the sausages regularly. 
 
 Once you set your oven’s temperature, the sausages will cook evenly. If you want to quicken the cooking process, you’ll adjust the temperature to reduce the cooking time. 
 
-To avoid overcooking your sausages, we recommend that you use a **[meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking//)**. This way, you’ll quickly tell when the sausages get to the right temperatures (approximately 160 degrees Fahrenheit) for eating. 
+To avoid overcooking your sausages, we recommend that you use a **[meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking/)**. This way, you’ll quickly tell when the sausages get to the right temperatures (approximately 160 degrees Fahrenheit) for eating. 
 
 **Ideal for Cooking Many Sausages** 
 

@@ -297,7 +297,7 @@ The food holder and the blade are removable for easy cleaning, and the suction g
 
 ## **Best Meat Slicer for Home Use: Complete Buying Guide**
 
-While using the [best knives](https://thekitchenpot.com/blog/best-knife-set-under-100//) to cut meat can be appropriate, you may require a more versatile slicer. This will save time while increasing cooking efficiency.
+While using the [best knives](https://thekitchenpot.com/blog/best-knife-set-under-100/) to cut meat can be appropriate, you may require a more versatile slicer. This will save time while increasing cooking efficiency.
 
 If you want to buy the best meat slicer for home use, then you’re on the right forum. Here, we’ll highlight the crucial factors that you should consider before you settle for your best meat slicer for home use.
 

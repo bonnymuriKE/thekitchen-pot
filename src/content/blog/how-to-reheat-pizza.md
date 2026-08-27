@@ -138,7 +138,7 @@ After adding the water, you should cover the skillet and let it reheat. The wate
 
 Achieving the required 165 degrees Fahrenheit is not possible. As such, you should only do this if you enjoy a relatively warm pizza. 
 
-***[Learn more about saute pans and how to use them here](https://thekitchenpot.com/blog/best-saute-pan//)***
+***[Learn more about saute pans and how to use them here](https://thekitchenpot.com/blog/best-saute-pan/)***
 
 ### **3. How to Reheat Pizza in a Microwave**
 
@@ -173,7 +173,7 @@ This is one of the most labor-intensive technique you can use to reheat your piz
 * Let the pizza warm for 6-10 minutes
 * Check whether the crust is crispy. If satisfied, remove it from the grill and serve
 
-While this method is yields impressive results, it has its downsides. First, it requires a lot of energy to start your [best gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//) (if you have an electric grill, the you’ll be lucky!).
+While this method is yields impressive results, it has its downsides. First, it requires a lot of energy to start your [best gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo/) (if you have an electric grill, the you’ll be lucky!).
 
 Also, using this technique may be limited by weather, especially if you’re into outdoor grilling activities.
 

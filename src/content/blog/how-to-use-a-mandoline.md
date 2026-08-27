@@ -40,7 +40,7 @@ But what exactly is a mandoline?
 
 This is a rectangular and a hand-operated food slicer tool that cuts vegetables and fruits easily. The tool has interchangeable blades to give you different fruits and vegetable slices— wavy, julienne, lattice, and even raw cuts.
 
-As compared to slicing food with a [kitchen knife](https://thekitchenpot.com/blog/best-knife-set-under-100//), using a mandoline is a breeze! It delivers consistent cuts always.
+As compared to slicing food with a [kitchen knife](https://thekitchenpot.com/blog/best-knife-set-under-100/), using a mandoline is a breeze! It delivers consistent cuts always.
 
 More so, you can make thinner cuts than what a knife can do, which is a friendly technique for shaved or gratin garnishes.
 

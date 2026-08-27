@@ -84,7 +84,7 @@ Next, cut the butter cookies into the shape you want. If you do not have a cooki
 
 **Step Four**
 
-With the oven preheated at 180 degrees, insert the cookie sheet into the middle of the oven. And you leave the cookies baking for about 15 minutes at 160 degrees. (always use [heat resistant gloves](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking//) to protect your hands from heat-induced injuries).
+With the oven preheated at 180 degrees, insert the cookie sheet into the middle of the oven. And you leave the cookies baking for about 15 minutes at 160 degrees. (always use [heat resistant gloves](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking/) to protect your hands from heat-induced injuries).
 
 Depending on the power of your oven, they may take less time, but you should watch them, so they don’t burn. When they are golden brown, carefully remove them from the oven and let them cool.
 
@@ -116,6 +116,6 @@ When the cookies are ready, please don’t take them out all at once. Wait for t
 
 ## **How to Bake Cookies in a Convection Oven: Final Words**
 
-Once your cookies are ready, they won’t last long if you don’t know how to preserve them properly. To keep them delicious and fresh longer put them in an [airtight container](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans//). 
+Once your cookies are ready, they won’t last long if you don’t know how to preserve them properly. To keep them delicious and fresh longer put them in an [airtight container](https://thekitchenpot.com/blog/how-to-organize-pots-and-pans/). 
 
 Let them cool before storing; otherwise, the texture may be damaged. Cookies usually last a few months, but will always be fresher in the first two weeks after you make them.

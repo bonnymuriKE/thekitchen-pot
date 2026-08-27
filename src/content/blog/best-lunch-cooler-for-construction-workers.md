@@ -460,7 +460,7 @@ While most lunch coolers come with an ice pack, some don’t. If your lunch box 
 
 Buying an airtight lunch cooler box is paramount. It keeps food safe and prevents microbial contamination. As such, an airtight lunch box is the best bet for a healthy, fresh meal. 
 
-**Read more on [airtight food storage containers](https://thekitchenpot.com/blog/best-airtight-food-storage-containers//)**
+**Read more on [airtight food storage containers](https://thekitchenpot.com/blog/best-airtight-food-storage-containers/)**
 
 **Durability** 
 

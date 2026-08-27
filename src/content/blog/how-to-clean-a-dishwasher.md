@@ -40,7 +40,7 @@ But the reality is;
 
 Dishwashers get dirty and can become quite smelly due to the accumulation of debris resulting from grease and mineral build-ups. if you fail to clean your dishwasher regularly, its functionality will be affected negatively.
 
-Over time, you will start noticing an unpleasant odor and stains are being transferred to your **[best dinner sets](https://thekitchenpot.com/blog/7-best-dinnerware-sets//)**! This will not only take away the luster in your dishes but can also call for replacement, which would be an unnecessary expenditure. 
+Over time, you will start noticing an unpleasant odor and stains are being transferred to your **[best dinner sets](https://thekitchenpot.com/blog/7-best-dinnerware-sets/)**! This will not only take away the luster in your dishes but can also call for replacement, which would be an unnecessary expenditure. 
 
 ## **What You Need to Clean Your Dishwasher**
 

@@ -122,7 +122,7 @@ Additionally, you should ensure that you space the food to prevent sticking and 
 
 ## Advantages of a Bamboo Steamer 
 
-* **Lightweight.** When you compare this steamer with **[other cookware](https://thekitchenpot.com/blog/best-waterless-cookware-reviews//)**, you’ll be amazed at how light it is! It is easy to handle the appliance even when it has food in it.
+* **Lightweight.** When you compare this steamer with **[other cookware](https://thekitchenpot.com/blog/best-waterless-cookware-reviews/)**, you’ll be amazed at how light it is! It is easy to handle the appliance even when it has food in it.
 * **It is Stackable.** Like we’ve earlier indicated, the bamboo steamer comes with many stackable baskets. This way, you can steam more than one food item simultaneously.
 * **Highly Aesthetic.** A bamboo steamer is natural and attractive. It oozes elegance and class, and you can be sure that it will be a mark of excellence in your kitchen.
 * **Easy to Use.** Cooking with a bamboo steamer requires little supervision. The risk of your food burning is minimal. All that you’ll be required to do is check the water levels regularly.

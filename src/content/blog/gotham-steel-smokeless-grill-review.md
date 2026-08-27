@@ -37,7 +37,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 If you’re new to the world of grilling, choosing the right grill among a sea of available options is an uphill task.
 
-It becomes even more complicated when you want to make your barbecue inside your kitchen. In that case, your **[favorite gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//)** won’t work! Do you even have enough space for it?
+It becomes even more complicated when you want to make your barbecue inside your kitchen. In that case, your **[favorite gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo/)** won’t work! Do you even have enough space for it?
 
 If you’re in that situation, then there is a solution for you! And that’s purchasing the best smokeless grill to get the tastiest BBQ at the comfort of your house. 
 

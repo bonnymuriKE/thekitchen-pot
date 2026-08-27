@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-I love cooking and, like any other chef, I am always on the lookout for [appliances that can make the exercise fun](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy//). 
+I love cooking and, like any other chef, I am always on the lookout for [appliances that can make the exercise fun](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy/). 
 
 Recently, I discovered a pretty efficient kitchen appliance – a Nuwave Oven. This appliance has undoubtedly revolutionized my cooking. It is easier and faster to cook any type of meal than when using my conventional oven. 
 
@@ -54,7 +54,7 @@ The appliance combines convection, conduction, and infrared systems to ensure th
 
 Nuwave Oven is possibly one of the most advanced cooking appliances you’ll ever get. I surely believe that it is a perfect enhancement of air fryers.
 
-**[Read a comprehensive NuWave Oven vs Air Fryer’s comparison here](https://thekitchenpot.com/blog/nuwave-oven-vs-air-fryers//)**
+**[Read a comprehensive NuWave Oven vs Air Fryer’s comparison here](https://thekitchenpot.com/blog/nuwave-oven-vs-air-fryers/)**
 
 The appliance uses infrared, conduction, and conventional cooking technology simultaneously to make your cooking process a breeze. 
 

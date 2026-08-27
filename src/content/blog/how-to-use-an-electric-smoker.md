@@ -79,7 +79,7 @@ This technique involves smoking the meat in controlled environments, such as usi
 
  If you do not have an electric smoker, you can always purchase a smoker box and incorporate it into your gas grills for a perfect smoking experience.
 
-> **Read more on [how to use a smoker box in your gas grills](https://thekitchenpot.com/blog/how-to-use-a-smoker-box-on-a-gas-grill//) effectively** 
+> **Read more on [how to use a smoker box in your gas grills](https://thekitchenpot.com/blog/how-to-use-a-smoker-box-on-a-gas-grill/) effectively** 
 
 Hot smoking takes place under 126 to 176 °F for 1-24 hours depending on your needs. This temperature is ideal for cooking your meat. Consequently, you can choose to either it as it is or further saute/cook it. 
 
@@ -210,7 +210,7 @@ This involves marinating your meat using various spices depending on your taste 
 
 Once you’re through with the meal prep, you should place it on the smoker’s rack using a spatula/pair of tongs.
 
-> **We recommend that you use heat-resistant gloves. [Read here to learn more about them](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking//)**
+> **We recommend that you use heat-resistant gloves. [Read here to learn more about them](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking/)**
 
 Also, you should consider placing the big chunks of meat at the bottom racks and the smaller ones on top. This way, you’ll cook evenly while utilizing your space optimally. 
 

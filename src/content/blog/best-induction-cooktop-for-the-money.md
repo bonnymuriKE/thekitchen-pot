@@ -47,7 +47,7 @@ Induction cooking refers to a cooking technology that uses electromagnetic curre
 
 Unlike traditional cooking, this method does not rely on conduction, convection, or radiation to heat your food. Consequently, heating occurs faster, thus resulting in a quicker cooking process. 
 
-However, you must have the **[best cookware for induction cooktops](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)** to ensure that you enjoy these benefits. Such cookware must have magnetic properties – a magnet should stick on the surface effortlessly.
+However, you must have the **[best cookware for induction cooktops](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/)** to ensure that you enjoy these benefits. Such cookware must have magnetic properties – a magnet should stick on the surface effortlessly.
 
 The **ideal cookware are made of stainless steel and iron**. However, you should note that **not all stainless steel cookware are magnetic**.
 
@@ -264,7 +264,7 @@ The working rationale of your best induction cooktop for the money is pretty str
 For your induction cooking to be effective, you must have the following two necessities:
 
 * An induction cooktop
-* An **[induction cookware](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)** 
+* An **[induction cookware](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/)** 
 
 An induction cooktop has a coil (made of copper) through which electric current passes. This will produce eddy currents.
 
@@ -318,7 +318,7 @@ These are freestanding induction ranges that have both induction cooktops and ov
 
 An ideal freestanding induction cooktop should be 30-36 inches. As such, you must always ensure that you have adequate space for storage. 
 
-**[Read more about Freestanding Electric Ranges](https://thekitchenpot.com/blog/best-slide-in-electric-range//) for your consideration**
+**[Read more about Freestanding Electric Ranges](https://thekitchenpot.com/blog/best-slide-in-electric-range/) for your consideration**
 
 Additionally, you should consider the electricity requirements of the range (150V to 240V is ideal). They may have a wattage of 1800 to 3700 watts per unit. This can either be split among the burners or fixed for each burner. 
 

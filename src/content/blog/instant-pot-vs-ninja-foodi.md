@@ -256,7 +256,7 @@ As such, no matter which appliance you choose, they will both produce tasty and 
 
 Give them a try and get to know why a large number of pf people love pressure cooking. It’s easier, tastier, and faster than conventional cooking.
 
-> If you’re wondering what the [differences between an instant pot and pressure cooker](https://thekitchenpot.com/blog/instant-pot-vs-pressure-cooker//) are, then you should check out this article.
+> If you’re wondering what the [differences between an instant pot and pressure cooker](https://thekitchenpot.com/blog/instant-pot-vs-pressure-cooker/) are, then you should check out this article.
 
 ## Instant Pot vs Ninja Foodi- The Bottom Line
 

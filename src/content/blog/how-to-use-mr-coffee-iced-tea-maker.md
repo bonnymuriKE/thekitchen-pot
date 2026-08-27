@@ -42,7 +42,7 @@ If you’re wondering how to use **[Mr. Coffee Iced Tea Maker](https://www.amazo
 
 ## **What is an Iced Tea Maker?**
 
-An **[iced tea maker](https://thekitchenpot.com/blog/best-iced-tea-maker//)** is a kitchen appliance that enables you to make iced tea at your convenience. It is designed to enable the use of ice during the preparation process, thus making it easy, fast, and convenient. 
+An **[iced tea maker](https://thekitchenpot.com/blog/best-iced-tea-maker/)** is a kitchen appliance that enables you to make iced tea at your convenience. It is designed to enable the use of ice during the preparation process, thus making it easy, fast, and convenient. 
 
 When it is summer and the heat is getting extreme, you need something to cool your body, right? Well, in such cases, it can be a hassle to get your bottle of cola from the shop. 
 
@@ -70,7 +70,7 @@ Do you want your iced tea maker big or small? Will you use it at home or in your
 
 Only select an iced tea maker that suits your preferences – both in design and functionality. You should check the base of the appliance to ensure stability. 
 
-***Read more about other*** ***[factors to consider when buying the best iced tea maker](https://thekitchenpot.com/blog/best-iced-tea-maker//)***
+***Read more about other*** ***[factors to consider when buying the best iced tea maker](https://thekitchenpot.com/blog/best-iced-tea-maker/)***
 
 ## **How to Make Iced Tea in a Mr. Coffee Iced Tea Maker**
 
@@ -96,7 +96,7 @@ Mr. Coffee Iced Tea Maker allows you to choose whether you want mild or strong t
 
 * **Step 5: Fill Your Pitcher with Ice** 
 
-Get your ice from your **[best ice maker](https://thekitchenpot.com/blog/best-ice-maker-for-home-use//)** and fill the pitcher to your desired level. The pitcher is marked (1-3 quart). If you’re making 3 quarts of iced tea, you should fill your pitcher to the 3-quart mark. Ensure that you position the pitcher beneath the discharge hole to collect your tea. 
+Get your ice from your **[best ice maker](https://thekitchenpot.com/blog/best-ice-maker-for-home-use/)** and fill the pitcher to your desired level. The pitcher is marked (1-3 quart). If you’re making 3 quarts of iced tea, you should fill your pitcher to the 3-quart mark. Ensure that you position the pitcher beneath the discharge hole to collect your tea. 
 
 * **Step 5: Plug-In the Tea Maker and Start Brewing**
 
@@ -141,7 +141,7 @@ To clean your iced tea maker, you should always ensure that:
 
 Additionally, you will need to wash the appliance immediately after buying it (avoid using any new appliance before washing it).
 
-**Read a [comprehensive guide on how to clean kettles](https://thekitchenpot.com/blog/how-to-clean-an-electric-kettle//) (including electric ones) here**
+**Read a [comprehensive guide on how to clean kettles](https://thekitchenpot.com/blog/how-to-clean-an-electric-kettle/) (including electric ones) here**
 
 ### **Step-by-Step Guide on Cleaning Mr. Coffee Iced Tea Maker**
 

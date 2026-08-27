@@ -285,7 +285,7 @@ Besides the use, there are other factors that you should consider before you set
 * **Safety When Using Microwave.** Not all dinnerware sets offer the luxury of using a microwave to warm your meals. As such, you should always read through the recommendations, especially if you love using a microwave regularly. 
 * **Price.** How affordable is your best dinnerware set? While price should come last in your “factors to consider” list, you should never neglect it. If you can get all the features you need in a dinnerware set at more affordable rates, then you should go for it! However, you should never compromise the quality to save a few bucks since it will be super costly in the long run. 
 
-> Read here if you also want to [add pans to your ceramic cookware library](https://thekitchenpot.com/blog/best-ceramic-cookware-set//).
+> Read here if you also want to [add pans to your ceramic cookware library](https://thekitchenpot.com/blog/best-ceramic-cookware-set/).
 
 ## **Best Dinnerware Sets – The Bottom Line**
 

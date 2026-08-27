@@ -58,7 +58,7 @@ Buying high-quality stainless steel cookware can be expensive! As such, it’s o
 
 Immediately after you buy it, you should clean and season it comprehensively.
 
-***Here is a complete guide on* *[how to season stainless steel pans](https://thekitchenpot.com/blog/how-to-season-stainless-steel-pans//)***
+***Here is a complete guide on* *[how to season stainless steel pans](https://thekitchenpot.com/blog/how-to-season-stainless-steel-pans/)***
 
 These basic maintenance practices ensure that you avoid staining, discoloration, and scratching of the pans.
 
@@ -122,7 +122,7 @@ The acidity in the lime and the coarseness of the salt help you to achieve the b
 
 To achieve this, you should cut your lime into two equal pieces and use a lemon squeezer to get the juice out of it. Sprinkle the juice on your pan’s bottom and add salt. Let it sit for approximately 10 minutes.
 
-***Read more on* *[how to use a lemon squeezer](https://thekitchenpot.com/blog/how-to-use-a-lemon-juicer//)* *here***
+***Read more on* *[how to use a lemon squeezer](https://thekitchenpot.com/blog/how-to-use-a-lemon-juicer/)* *here***
 
 After the 10 minutes, you should use a non-abrasive pad to scrub the debris. Ensure that you consistently do it until you achieve the shiny steel surface. Rinse the pan and dry it using a clean towel. 
 

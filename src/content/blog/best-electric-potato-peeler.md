@@ -263,7 +263,7 @@ Kizove multi-functional electric peeler does not function with 4*AA batteries, b
 
 * The device is expensive
 
-If you’d like to read more about apple and potato corers, then [here’s a comprehensive guide](https://thekitchenpot.com/blog/best-electric-apple-peeler-corer-slicer//).
+If you’d like to read more about apple and potato corers, then [here’s a comprehensive guide](https://thekitchenpot.com/blog/best-electric-apple-peeler-corer-slicer/).
 
 ## **Best Electric Potato Peeler- Buying Guide**
 

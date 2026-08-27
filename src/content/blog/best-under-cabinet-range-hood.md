@@ -42,7 +42,7 @@ A smokeless and odorless kitchen is, without a doubt, the best environment for p
 
 Yes, that is how under cabinet range hood is crucial to your home.
 
-Any homeowner should consider purchasing one and improving their cooking environment significantly. Whether you’re using [instant pots](https://thekitchenpot.com/blog/instant-pot-vs-pressure-cooker//) or open pans, the equipment will go a long way in bettering your kitchen experiences. 
+Any homeowner should consider purchasing one and improving their cooking environment significantly. Whether you’re using [instant pots](https://thekitchenpot.com/blog/instant-pot-vs-pressure-cooker/) or open pans, the equipment will go a long way in bettering your kitchen experiences. 
 
 This article summarizes the eight best under cabinet range hoods that you should consider. Read on to learn more. 
 

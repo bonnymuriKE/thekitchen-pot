@@ -48,11 +48,11 @@ However, eating fruits is not optional!
 
 They provide crucial nutrients that are essential for your well-being. As such, you must find a way to circumvent the time limitation. One proven technique is juicing fruits and vegetables.
 
-To achieve juicing, we recommend that you invest in a [reliable blender](https://thekitchenpot.com/blog/best-blenders-for-smoothies//) or a [juicer](https://thekitchenpot.com/blog/best-commercial-masticating-juicer//). This way, you’ll easily blend enough fruits and vegetables, and take them in the form of juice.
+To achieve juicing, we recommend that you invest in a [reliable blender](https://thekitchenpot.com/blog/best-blenders-for-smoothies/) or a [juicer](https://thekitchenpot.com/blog/best-commercial-masticating-juicer/). This way, you’ll easily blend enough fruits and vegetables, and take them in the form of juice.
 
 ## NutriBullet Blender vs. Ninja Blender – Overview 
 
-NutriBullet and Ninja make pretty decent [blenders](https://thekitchenpot.com/blog/best-blender-for-protein-shakes//). We set out to test a few of the two brands and rate them based on their efficiency and reliability on various tasks. Here is a summary of our findings:
+NutriBullet and Ninja make pretty decent [blenders](https://thekitchenpot.com/blog/best-blender-for-protein-shakes/). We set out to test a few of the two brands and rate them based on their efficiency and reliability on various tasks. Here is a summary of our findings:
 
 Feature
 
@@ -267,7 +267,7 @@ Even better, Vitamix Blenders are not expensive for nothing! They are superbly s
 
 ## NutriBullet Vs Ninja Blender- Bottom Line
 
-Owning a [blender](https://thekitchenpot.com/blog/best-blender-for-protein-shakes//) for your kitchen should be a top-notch priority. The versatile appliances come in handy when you are preparing your food and beverages.
+Owning a [blender](https://thekitchenpot.com/blog/best-blender-for-protein-shakes/) for your kitchen should be a top-notch priority. The versatile appliances come in handy when you are preparing your food and beverages.
 
 However, you should be careful to pick a blender that suits your needs. There are several brands in the market. But three stand out – Nutribullet, Ninja, and Vitamix. 
 

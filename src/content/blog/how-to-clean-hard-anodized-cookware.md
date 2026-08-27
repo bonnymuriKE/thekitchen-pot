@@ -66,7 +66,7 @@ Finally, you’ll note that hard anodized cookware are pretty smooth and almost 
 
 For a more enhanced non-sticking experience, you can choose nonstick hard anodized cookware. These pans guarantee comfort and convenience when cooking. 
 
-> ***Read here to explore to understand the [concept of non-stick pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//) and get reviews of the best in the market.***
+> ***Read here to explore to understand the [concept of non-stick pans](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/) and get reviews of the best in the market.***
 
 ## Are Hard Anodized Cookware Safe?
 

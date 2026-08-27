@@ -185,7 +185,7 @@ To achieve these benefits and enjoy healthy meat, then follow the following seas
 * Ensure that the smoker, hooks, and racks are in place. **You should never put water in the water pan!**
 * Plugin the electric smoker and press the power button to start the smoker
 * Set the temperature to 275 degrees Fahrenheit and let it set the timer to approximately 3 hours
-* After 2 hours, add half a cup of your favorite wood chips to the **[smoker box](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills//)**. Let them heat for the remaining one hour. 
+* After 2 hours, add half a cup of your favorite wood chips to the **[smoker box](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills/)**. Let them heat for the remaining one hour. 
 * Switch off your smoker and let it cool. Once it cools, then it will be ready for use! 
 
 Ensure that you follow all the steps. This will help to remove dirt and impurities from the manufacturer. 
@@ -208,7 +208,7 @@ If you put your meat into a cold smoker, it will take longer to achieve the best
 
 To avoid this disappointment, you should follow the following preheating steps:
 
-* Place your preferred wood chips into the smoker box (**[while the smoker is still cold](https://thekitchenpot.com/blog/how-to-use-a-smoker-box-on-a-gas-grill//))**
+* Place your preferred wood chips into the smoker box (**[while the smoker is still cold](https://thekitchenpot.com/blog/how-to-use-a-smoker-box-on-a-gas-grill/))**
 * Turn on your smoker and set it to your desired temperature (based on your Masterbuilt electric smoker recipe). If you’re cooking meat, you should set your temperature at approximately 225 degrees Fahrenheit.
 * After approximately 30 minutes (or when the smoker gets to your desired temp), add more wood chips.
 * When you’re ready to start cooking, you can fill the water pan with water (some people will prefer wine, vinegar, cola, and other beverages to achieve a unique taste) 
@@ -219,7 +219,7 @@ Now that your smoker is already producing smoke and you have water in the tray, 
 
 Place your meat on the grates and give it time to cook. Ensure that you use the right temperature for the proper meal (check with your recipe. However, it should be 225 degrees Fahrenheit to 250 degrees Fahrenheit for most meals.
 
-***We recommend that you buy the [best meat thermometer for smoking](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking//). This will enable you to keep a check on your temperature and determine when your meat is ready.*** 
+***We recommend that you buy the [best meat thermometer for smoking](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking/). This will enable you to keep a check on your temperature and determine when your meat is ready.*** 
 
 Additionally, you should set your time to ensure that you do not overcook or undercook your meat. Ensure that you have water on the water pan to achieve substantial moisture, thus guaranteeing moist and delicious meat. 
 
@@ -260,7 +260,7 @@ Brisket
 Alternatively, you can use the following tips to determine the doneness of your meat:
 
 * Pierce the thickest part of your meat with a fork. Ensure that the juices run clear
-* Cut the meat with a **[knife](https://thekitchenpot.com/blog/wusthof-knives-review//)** and check whether it’s steaming. The innermost part of the meat should be steaming.
+* Cut the meat with a **[knife](https://thekitchenpot.com/blog/wusthof-knives-review/)** and check whether it’s steaming. The innermost part of the meat should be steaming.
 * Check the meat’s color. Cooked meat should not be pink.
 
 ## How to Clean Your Masterbuilt Electric Smoker after Use 
@@ -284,7 +284,7 @@ This smoker is one of the most versatile kitchen appliances that you’ll ever f
 
 These are just a few of the meals you can cook in the smoker. To achieve the best results, ensure that you follow the smoking procedure we’ve detailed herein. Do not skip a step lest you regret your smoking escapades. 
 
-*Always use you **[heat-resistant gloves when grilling](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking//)** your meat to avoid burns*
+*Always use you **[heat-resistant gloves when grilling](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking/)** your meat to avoid burns*
 
 You must maintain the ideal water levels and add wood chips to enhance the flavor. 
 

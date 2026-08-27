@@ -47,7 +47,7 @@ A lazy Susan is a rotating tray that is set on the table and placed on a workben
 
 The best lazy Susan comes in circular shapes are constructed from different materials. The construction materials include plastic, glass, and wood.
 
-Besides having the [best dinnerware set](https://thekitchenpot.com/blog/7-best-dinnerware-sets//), lazy Susan is the other great technique to ensure that your visitors enjoy their meals on the dinner table. They also help in ensuring that you have a neat kitchen, thus an easy time preparing your meals.
+Besides having the [best dinnerware set](https://thekitchenpot.com/blog/7-best-dinnerware-sets/), lazy Susan is the other great technique to ensure that your visitors enjoy their meals on the dinner table. They also help in ensuring that you have a neat kitchen, thus an easy time preparing your meals.
 
 ## **8 Best Lazy Susan Organizers for Your Kitchen**
 

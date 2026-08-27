@@ -61,7 +61,7 @@ Also, stainless steel cookware do not leach harmful substances or toxins to your
 * **Discoloration:**When you expose stainless steel to maximum heat, the exterior parts may easily discolor. But there are various ways you can use to heat then restore the cookware preventing it from discoloring, although this means extra time and works for you.
 * **Poor Heat Conduction:**When using stainless steel cookware without copper or aluminum coating, the surface will not heat appropriately as stainless steel cookware is a poor heat conductor.
 
-However, while stainless steel might not be the best and user-friendly cookware like the [non-stick ones](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//), you can still use them to produce some fantastic dishes.
+However, while stainless steel might not be the best and user-friendly cookware like the [non-stick ones](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/), you can still use them to produce some fantastic dishes.
 
 Keep in mind that when using stainless steel, ensure you start by heating it for some time before adding oil. Immediately it’s hot enough; be sure to add some oil then swirl it on the surface. Add your food instantly; the oil is shimmering to prevent it from sticking.
 

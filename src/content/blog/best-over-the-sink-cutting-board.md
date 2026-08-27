@@ -38,7 +38,7 @@ If your kitchen space is limited, then getting the best over the sink cutting bo
 
 However, you must choose the best over the sink cutting board to get the benefits. Ensure that it has perfect dimensions to fit over your sink.
 
-Also, you should be sure that you’ll have no problems using your best [set of knives](https://thekitchenpot.com/blog/best-knife-set-under-100//) on it. It should not be too light to be damaged by the knives.
+Also, you should be sure that you’ll have no problems using your best [set of knives](https://thekitchenpot.com/blog/best-knife-set-under-100/) on it. It should not be too light to be damaged by the knives.
 
 This article enumerates the factors you should consider when shopping for the best over the sink cutting board. Also, it includes a comprehensive list of the best over the sink cutting boards in the market.
 

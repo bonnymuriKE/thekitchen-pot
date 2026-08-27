@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Owning the best juicer offers unmatched convenience! It allows you to make your favourite juice whenever you feel like. Unlike [blenders](https://thekitchenpot.com/blog/best-blender-for-protein-shakes//), juicers allow you to include anything you need without the worry of destroying the blades.
+Owning the best juicer offers unmatched convenience! It allows you to make your favourite juice whenever you feel like. Unlike [blenders](https://thekitchenpot.com/blog/best-blender-for-protein-shakes/), juicers allow you to include anything you need without the worry of destroying the blades.
 
 A good juice fix at home is the appropriate method to create the garnishes that best suit your aesthetics and diet during summer. But before you buy your ideal juicer, you must research on the best juicers in the market to ensure that you get value for your money.
 

@@ -175,7 +175,7 @@ Cast iron has a high heat capacity compared to other materials, such as aluminum
 
 Some materials can react with your food, which will alter your food taste or have adverse health effects.
 
-As such, reactivity is a critical area that you should never ignore when shopping for your **[best pans and skillets](https://thekitchenpot.com/blog/best-saute-pan//)**. 
+As such, reactivity is a critical area that you should never ignore when shopping for your **[best pans and skillets](https://thekitchenpot.com/blog/best-saute-pan/)**. 
 
 Aluminum and copper are some of the most reactive metals. Fortunately, cast iron has very low reactivity. Even better, Le Creuset skillets are covered with an enamel material, which results in zero reactivity. Therefore, using the Le Creuset skillets is safe.
 
@@ -191,7 +191,7 @@ Just clean it with warm soapy water and wipe it dry. No need to use abrasive cle
 
 Additionally, the enameled surface is ready-to-use. You do not require any seasoning before you start cooking.
 
-However, when using a cast iron pan that is not enameled, you must season it often to avoid food sticking to the surface. To achieve this, you should add a layer of oil (preferably **[olive oil](https://thekitchenpot.com/blog/best-oil-for-air-fryer//)**) and heat the pan for some time. 
+However, when using a cast iron pan that is not enameled, you must season it often to avoid food sticking to the surface. To achieve this, you should add a layer of oil (preferably **[olive oil](https://thekitchenpot.com/blog/best-oil-for-air-fryer/)**) and heat the pan for some time. 
 
 ## Is Buying Le Creuset Skillets Worth It?
 

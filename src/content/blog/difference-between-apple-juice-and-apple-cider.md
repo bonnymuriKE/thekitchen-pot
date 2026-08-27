@@ -53,11 +53,11 @@ Just like cider, apple juice is obtained from apples but it is more refined. The
 
 Children will always prefer apple juice to cider since it’s sweeter. Wondering how the juice is made?
 
-Well, this beverage is made by maceration of whole apples using powerful [masticating and juicing blenders](https://thekitchenpot.com/blog/top-5-best-juicers//). Immediately after extraction, the juice undergoes enzymatic and centrifugal treatment to remove pectin and other fiber elements. 
+Well, this beverage is made by maceration of whole apples using powerful [masticating and juicing blenders](https://thekitchenpot.com/blog/top-5-best-juicers/). Immediately after extraction, the juice undergoes enzymatic and centrifugal treatment to remove pectin and other fiber elements. 
 
 After the treatment, the apple juice is pasteurized and packaged for sale. Ordinarily, apple juicing can be complex, making it largely feasible for large scale producers. 
 
-***[Read more about commercial masticating juicers here](https://thekitchenpot.com/blog/best-commercial-masticating-juicer//)*** 
+***[Read more about commercial masticating juicers here](https://thekitchenpot.com/blog/best-commercial-masticating-juicer/)*** 
 
 ## **I**s Apple Cider Healthier than Apple Juice?
 

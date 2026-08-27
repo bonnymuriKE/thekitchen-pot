@@ -50,13 +50,13 @@ As such, a cookware set is a must-have. However, you should ensure that it is su
 
 **Stackable**
 
-You should always ensure that your camping cookware is easy-to-carry. When you can [stack the pans and pots](https://thekitchenpot.com/blog/6-best-stackable-pots-and-pans//) together, it will reduce the space requirements, making it easy for them to fit in your camping bag. 
+You should always ensure that your camping cookware is easy-to-carry. When you can [stack the pans and pots](https://thekitchenpot.com/blog/6-best-stackable-pots-and-pans/) together, it will reduce the space requirements, making it easy for them to fit in your camping bag. 
 
 **Reliable** 
 
 It would be frustrating to be in the bush with cookware that cannot serve its need! When you’re shopping for the best camping cookware, you consider the cooking technique you will use.
 
-For example, if you’re carrying a **[portable NuWave induction cooktop](https://thekitchenpot.com/blog/nuwave-induction-cooktop-review//)**, you should ensure that your cookware is induction ready. If you love cooking in an open place, it would be ideal to buy the best camping cookware for open fire. 
+For example, if you’re carrying a **[portable NuWave induction cooktop](https://thekitchenpot.com/blog/nuwave-induction-cooktop-review/)**, you should ensure that your cookware is induction ready. If you love cooking in an open place, it would be ideal to buy the best camping cookware for open fire. 
 
 Whichever cooking option you’ll choose, ensure that the cookware you select can work optimally under the given conditions. 
 
@@ -102,7 +102,7 @@ MalloMe cookware mess kit contains 10 items:
 
 The nylon bag is water-resistant, and you can be sure that your cookware set will remain dry even when you’re mountaineering under wet conditions. 
 
-Additionally, this set is collapsible, and you can stack all the items into a small bundle, making it highly portable. Even better, the set is lightweight, and you will not struggle to carry it in your backpack or **[lunch coolers](https://thekitchenpot.com/blog/best-lunch-cooler-for-construction-workers//)**.
+Additionally, this set is collapsible, and you can stack all the items into a small bundle, making it highly portable. Even better, the set is lightweight, and you will not struggle to carry it in your backpack or **[lunch coolers](https://thekitchenpot.com/blog/best-lunch-cooler-for-construction-workers/)**.
 
 It is compact and easy to clean. All you will need is warm, soapy water and a sponge (that comes together with the kit) to complete your cleaning in a few minutes. 
 

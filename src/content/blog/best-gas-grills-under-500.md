@@ -49,7 +49,7 @@ Its powder-coated steel construction gives it a rugged and durable look, while t
 
 Additionally, each burner produces 15,000 BTU giving a cumulative total of 60,000 BTU – plenty of heat for those big grilling jobs. This feature, coupled with its 720 square inches of cooking space, means you can easily feed a crowd.
 
-Besides, its high versatility makes it an ideal choice for direct and indirect grilling, making it the perfect grill for all occasions. Whether you’re **[smoking](https://thekitchenpot.com/blog/best-offset-smoker-for-beginners//)**, grilling, or **[searing](https://thekitchenpot.com/blog/gotham-steel-smokeless-grill-review//)**, the Blackstone 36-inch Cooking station will have you covered.
+Besides, its high versatility makes it an ideal choice for direct and indirect grilling, making it the perfect grill for all occasions. Whether you’re **[smoking](https://thekitchenpot.com/blog/best-offset-smoker-for-beginners/)**, grilling, or **[searing](https://thekitchenpot.com/blog/gotham-steel-smokeless-grill-review/)**, the Blackstone 36-inch Cooking station will have you covered.
 
 ### **[Weber Q1000 Liquid Propane Grill](https://www.amazon.com/Weber-44010001-Spirit-2-Burner-Propane/dp/B077K1MK8N/?tag=kitchenpot-20)**
 
@@ -81,7 +81,7 @@ When not in use, you can fold the metal side shelves for easy storage or transpo
 
 For those looking for a mid-range gas grill, the Weber Spirit II E-310 3-Burner Natural Gas Grill is an excellent choice. This grill features three stainless steel burners that generate 30,000 BTUs of cooking heat per hour. It also offers a spacious 424 square inches of cooking space and an additional 105 square inch warming rack – perfect for cooking up your favorite family recipes.
 
-The cast-iron grates help to retain heat and create those irresistible sear marks. The built-in lid thermometer helps you monitor temperatures with ease. They are also porcelain-enameled for easy cleaning and long-lasting performance (you can also use other **[meat thermometers](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking//)**).
+The cast-iron grates help to retain heat and create those irresistible sear marks. The built-in lid thermometer helps you monitor temperatures with ease. They are also porcelain-enameled for easy cleaning and long-lasting performance (you can also use other **[meat thermometers](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking/)**).
 
 Plus, the grill has an infinity ignition system. It also includes a fuel gauge and flavorizer bars that enhance the smoky flavor of your food. With its superior performance, the Weber Spirit II E-310 3-Burner Natural Gas Grill will satisfy all your grilling needs.
 
@@ -123,15 +123,15 @@ When it comes to grilling, you don’t have to break the bank to get a great gas
 
 In this section, we’ll look at everything you need to know about the best gas grills under $500. Whether you’re an experienced griller or a novice, these tips will help you find the right model for your needs.
 
-**[Read on how to use an electric smoker in 5 simple steps](https://thekitchenpot.com/blog/how-to-use-masterbuilt-electric-smoker//)**
+**[Read on how to use an electric smoker in 5 simple steps](https://thekitchenpot.com/blog/how-to-use-masterbuilt-electric-smoker/)**
 
 ### **What is a Gas Grill?**
 
-Before we jump into our buying guide, let’s start by defining what a gas grill is. A gas grill is a cooking device that uses either natural gas or propane to create an open flame for **[grilling](https://thekitchenpot.com/blog/best-infrared-grills-for-the-money//)** food.
+Before we jump into our buying guide, let’s start by defining what a gas grill is. A gas grill is a cooking device that uses either natural gas or propane to create an open flame for **[grilling](https://thekitchenpot.com/blog/best-infrared-grills-for-the-money/)** food.
 
 It is different from charcoal grills, which use charcoal briquettes to generate heat. Gas grills are more popular than charcoal grills because they require less effort and produce less smoke.
 
-However, some manufacturers offer **[gas and charcoal grills combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//)** models that offer the best of both worlds. This way, you can switch between gas and charcoal depending on your grilling needs.
+However, some manufacturers offer **[gas and charcoal grills combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo/)** models that offer the best of both worlds. This way, you can switch between gas and charcoal depending on your grilling needs.
 
 ### **What to Look for in a Gas Grill Under 500?**
 
@@ -145,7 +145,7 @@ When selecting a gas grill, look for one with enough room to cook all your food 
 
 **BTUs**
 
-This refers to the amount of heat produced by the **[gas grill](https://thekitchenpot.com/blog/best-propane-smoker//)**. A higher BTU rating means more heat, which can be helpful if you need to cook food quickly. Look for a gas grill with at least 10,000 BTUs or more.
+This refers to the amount of heat produced by the **[gas grill](https://thekitchenpot.com/blog/best-propane-smoker/)**. A higher BTU rating means more heat, which can be helpful if you need to cook food quickly. Look for a gas grill with at least 10,000 BTUs or more.
 
 The total BTUs depend on the number of burners and their settings. For example, a gas grill with two 10,000 BTU burners will have 20,000 total BTUs. These are measured per hour, so the higher the BTU rating, the hotter and faster your food will cook.
 
@@ -175,7 +175,7 @@ However, not all have automatic igniters, so ensure you check for this feature i
 
 Finally, if you plan on taking your gas grill with you on the go, look for one that is lightweight and has folding legs. This will make it easier to transport and store when not in use.
 
-If you want even more flexibility, manufacturers offer gas and charcoal grills combo models that offer the best of both worlds. This is great if you want to switch between gas and charcoal grilling depending on your needs. You can also use **[smoker boxes](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills//)** to add a smoky flavor to your meals.
+If you want even more flexibility, manufacturers offer gas and charcoal grills combo models that offer the best of both worlds. This is great if you want to switch between gas and charcoal grilling depending on your needs. You can also use **[smoker boxes](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills/)** to add a smoky flavor to your meals.
 
 ## Tested & Proven Tips for Choosing the Best Gas Grills Under 500
 
@@ -183,7 +183,7 @@ When selecting the best gas grills for under 500 dollars, look for a large cooki
 
 * **Warranty.** This is important to protect your investment in case something goes wrong. Most manufacturers will offer a warranty of one year on parts and labor.
 * **Ignition System.** Look for gas grills with an automated ignition system so you don’t have to use matches or lighters.
-* **Fuel Type & Consumption.** Most **[gas grills use propane](https://thekitchenpot.com/blog/best-propane-smoker//)**, but some may offer natural gas. Ensure you check how much fuel it consumes, as this will impact your recurring costs.
+* **Fuel Type & Consumption.** Most **[gas grills use propane](https://thekitchenpot.com/blog/best-propane-smoker/)**, but some may offer natural gas. Ensure you check how much fuel it consumes, as this will impact your recurring costs.
 * **Price.** When buying a gas grill, you don’t need to break the bank to get a good one. There are plenty of quality grills under 500 dollars to last you many years if properly maintained and cared for.
 
 ## Conclusion -Best Gas Grills for the Money

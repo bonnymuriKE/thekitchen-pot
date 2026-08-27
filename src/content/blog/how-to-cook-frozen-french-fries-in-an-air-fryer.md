@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Are you tired of buying French fries in fast food restaurants? Well, you’ll undoubtedly turn the situation around when you learn how to cook frozen French fries in an [air fryer](https://thekitchenpot.com/blog/best-air-fryers-under-100//)!
+Are you tired of buying French fries in fast food restaurants? Well, you’ll undoubtedly turn the situation around when you learn how to cook frozen French fries in an [air fryer](https://thekitchenpot.com/blog/best-air-fryers-under-100/)!
 
 If you haven’t attempted frozen French fries in your air fryer yet, you’re in for a treat. Air-fried French fries are tastier and crispier that your ordinary fries. You will enjoy all through and you can never have enough.
 

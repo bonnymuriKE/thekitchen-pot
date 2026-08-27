@@ -140,7 +140,7 @@ The GreenPan cookware set includes:
 * The cookware comes fitted with a tempered glass cover
 * PTFE/PFOA free and petroleum-free
 * Its oven safe up to 600 degrees
-* It can work with [induction cooking methods](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)
+* It can work with [induction cooking methods](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/)
 * The Cuisinart element comes with an easy-grip silicone handle
 * It’s easy to clean the pans and the skillets
 
@@ -224,14 +224,14 @@ The Ivation cookware set includes:
 
 * The pan is generously sized to help you tackle all your frying and sautéing needs
 * PTFE, PFOA, and cadmium-free
-* Safe for gas, electric, glass and [induction stovetops](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)
+* Safe for gas, electric, glass and [induction stovetops](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/)
 * Oven safe up to 400 degrees Fahrenheit
 
 **Cons**
 
 * It can be high-cost. On the other hand, the quality of the ceramic coat and the aluminum body is worth every dollar.
 
-> * Read more about **[induction cooking here (includes the best cookware for induction cooktop)](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)**
+> * Read more about **[induction cooking here (includes the best cookware for induction cooktop)](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/)**
 
 ### **7. [Cuisinart Advantage Ceramica XT Cookware Set](https://www.amazon.com/Cuisinart-54C-11BK-Advantage-Ceramica-Cookware/dp/B076H4YDB3?tag=kitchenpot-20)**
 

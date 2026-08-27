@@ -60,7 +60,7 @@ A candy thermometer can also be defined as a thermometer designed for use specif
 
 [Check Price on Amazon](https://www.amazon.com/OXO-Grips-Glass-Candy-Thermometer/dp/B00L9X2RZS?tag=kitchenpot-20)
 
-There are so many thermometers readily available in the market, these include the [best meat smoking thermometers](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking//), laser gun thermometers, and even oven thermometers.
+There are so many thermometers readily available in the market, these include the [best meat smoking thermometers](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking/), laser gun thermometers, and even oven thermometers.
 
 Sadly, none of them are the right devices for controlling temperatures in candy or deep-frying, so the results are usually uncertain.
 

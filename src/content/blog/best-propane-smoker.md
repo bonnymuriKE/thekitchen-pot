@@ -47,9 +47,9 @@ So steel yourself with comfort and trust us as we go through the list to pick th
 
 ## **The Best Propane Smoker: What is It?**
 
-A gas smoker is an outdoor cooking device that smokes food and uses propane as its heating source. Also known as vertical propane smokers, these devices incorporate wood just like charcoal counterparts. The difference between [gas smokers and charcoal smokers](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//) is the source of heat.
+A gas smoker is an outdoor cooking device that smokes food and uses propane as its heating source. Also known as vertical propane smokers, these devices incorporate wood just like charcoal counterparts. The difference between [gas smokers and charcoal smokers](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo/) is the source of heat.
 
-> **[Read more about Gas and Charcoal Grill Combos (gives you the liberty to use charcoal or gas)](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo//)**
+> **[Read more about Gas and Charcoal Grill Combos (gives you the liberty to use charcoal or gas)](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo/)**
 
 ## 7 Best Propane Smokers
 
@@ -113,7 +113,7 @@ The device consists of a built-in wood chip tray as well as a large capacity wat
 * Slow heating 
 * Doors not completely sealable
 
-> You can also opt for a [modified smoker box. Read here](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills//) for several options available.
+> You can also opt for a [modified smoker box. Read here](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills/) for several options available.
 
 ### **3. [Camp Chef Smoke Vault Propane Smoke](https://www.amazon.com/dp/B000URBBVK?tag=kitchenpot-20)**
 

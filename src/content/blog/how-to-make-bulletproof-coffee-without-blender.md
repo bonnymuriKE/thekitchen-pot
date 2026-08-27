@@ -32,7 +32,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 If you’re a coffee-lover, then you’ll certainly marvel at the unique taste of bulletproof coffee. This signature beverage is all you need to kick start your day!
 
-However, you’d ordinarily require a [blender](https://thekitchenpot.com/blog/best-blender-for-protein-shakes//) to make a cup of this amazing drink. Confused that you may not enjoy it due to lack of the best blender?
+However, you’d ordinarily require a [blender](https://thekitchenpot.com/blog/best-blender-for-protein-shakes/) to make a cup of this amazing drink. Confused that you may not enjoy it due to lack of the best blender?
 
 Well, you shouldn’t worry anymore! This article will teach you how to make bulletproof coffee without  blender! Read on to learn more.
 

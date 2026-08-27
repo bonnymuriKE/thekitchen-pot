@@ -38,7 +38,7 @@ We’ll save you the hassle by providing a highly detailed instant pot vs pressu
 
 ## Instant Pot vs Pressure Cooker: Crucial Details You Should Know
 
-As its name suggests, an instant pot is the opposite of a slow cooker. In other words, it’s an electric pot with a [steamer basket](https://thekitchenpot.com/blog/best-steamer-basket-for-instant-pot//) (optional) that uses high pressure to cook your favorite dishes.
+As its name suggests, an instant pot is the opposite of a slow cooker. In other words, it’s an electric pot with a [steamer basket](https://thekitchenpot.com/blog/best-steamer-basket-for-instant-pot/) (optional) that uses high pressure to cook your favorite dishes.
 
 On the contrary:
 

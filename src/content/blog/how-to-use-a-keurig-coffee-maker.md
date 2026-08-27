@@ -36,7 +36,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Have you added a **[Keurig Coffee Maker Machine](https://thekitchenpot.com/blog/top-5-keurig-coffee-maker//)** to your kitchen arsenal, but you are having difficulties operating it? If yes, then read this comprehensive guide on how to use a Keurig, and you’ll be mesmerized at how fun it is to make your favorite cup of coffee.
+Have you added a **[Keurig Coffee Maker Machine](https://thekitchenpot.com/blog/top-5-keurig-coffee-maker/)** to your kitchen arsenal, but you are having difficulties operating it? If yes, then read this comprehensive guide on how to use a Keurig, and you’ll be mesmerized at how fun it is to make your favorite cup of coffee.
 
 Keurig uses k-cups to help you make coffee of your desired concentration. The machine comes with different capacities ranging from **[Keurig Single Cup Coffee Maker](https://www.amazon.com/Keurig-K-Mini-Single-Serve-Coffee/dp/B07GV2S1GS?tag=kitchenpot-20)** to **[Keurig Classic Series](https://www.amazon.com/Keurig-K55-K-Classic-Coffee-Programmable/dp/B018UQ5AMS?tag=kitchenpot-20)**, with the potential to make multiple cups. This article explains how you can get the best of the appliance. 
 
@@ -46,7 +46,7 @@ Before we proceed, it would best if you understand what Keurig means. Well, Keur
 
 The machines are named after the founder, Keurig Dr. Pepper. The main products from Keurig include single-serve coffee machines, commercial multiple-cups machines, K-Cup pods, and many other beverage pods. 
 
-**We compiled a research-based article on Keurig. Could you read it** **[here](https://thekitchenpot.com/blog/top-5-keurig-coffee-maker//)?**
+**We compiled a research-based article on Keurig. Could you read it** **[here](https://thekitchenpot.com/blog/top-5-keurig-coffee-maker/)?**
 
 The Keurig Machines work well with specially designed coffee pods called the K-cups. Once you become conversant with the Keurig coffee making machine, you’ll realize that it is quite a simple and convenient machine to use. 
 

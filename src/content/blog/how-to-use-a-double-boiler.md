@@ -77,7 +77,7 @@ After cleaning the boiler, you should pick the saucepan and fill it with water u
 
 **Step 3: Place Your Saucepan on Your Cooktop**
 
-Place the saucepan on the **[cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money//)** and ignite it. Heat the water for a few minutes.
+Place the saucepan on the **[cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money/)** and ignite it. Heat the water for a few minutes.
 
 **Step 4: Place Your Bowl on Top of the Saucepan**
 
@@ -97,7 +97,7 @@ Double boilers are designed to heat the food using steam derived directly from w
 
 You should check the water levels on the lower bowl periodically and fill it up if it runs dry.
 
-> If you’re using an **[induction cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money//)**, always ensure that the bottom pot is **[induction-ready](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)**
+> If you’re using an **[induction cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money/)**, always ensure that the bottom pot is **[induction-ready](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/)**
 
 ## When to Use a Double Boiler
 

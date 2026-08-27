@@ -59,7 +59,7 @@ Many cooking enthusiasts prefer the wooden option as you don’t have to season 
 ## **How to Use a Manual Tortilla Press**
 
 1. Start by preparing masa for corn tortillas. Separate the masa into different orbs (same size as a golf ball. Remember, small masa balls yield smaller tortilla corns almost four inches in diameter.)
-2. Cut two pieces (round or square) of strong plastic from a clean shopping bag or a storage bag using a sharp [knife](https://thekitchenpot.com/blog/best-knife-set-under-100//). Ensure the pieces are an inch larger than the size of the tortilla press. You can as well use a parchment paper as it works. But the choice is yours!
+2. Cut two pieces (round or square) of strong plastic from a clean shopping bag or a storage bag using a sharp [knife](https://thekitchenpot.com/blog/best-knife-set-under-100/). Ensure the pieces are an inch larger than the size of the tortilla press. You can as well use a parchment paper as it works. But the choice is yours!
 
 * ***These pieces of parchment or plastic papers are used to line the bottom and top surfaces of the tortilla press. For proper measure, ensure you make at least two to three pairs just in case the first pair fails to work through getting sticky.***
 

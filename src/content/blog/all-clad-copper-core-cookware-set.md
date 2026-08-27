@@ -84,7 +84,7 @@ The All-Clad copper core cookware is made of five metal layers including two out
 
 The five-ply construction has many benefits, including making the pans induction-friendly, improving heat conductivity and retention, enhancing durability, and improving the overall performance. 
 
-**[Read more about the benefits of All-Clad Multi-Ply construction](https://thekitchenpot.com/blog/all-clad-d3-vs-d5//)**
+**[Read more about the benefits of All-Clad Multi-Ply construction](https://thekitchenpot.com/blog/all-clad-d3-vs-d5/)**
 
 The outer stainless steel is highly magnetic, which makes this cookware ideal for use with induction hobs, electric cooktops, and many other different constructions. 
 

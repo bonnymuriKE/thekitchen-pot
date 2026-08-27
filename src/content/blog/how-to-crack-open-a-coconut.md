@@ -86,9 +86,9 @@ You should always be careful not to hit your fingers. Do not apply too much forc
 
 **Step 3: Removing the Coconut Meat** 
 
-Now that you have two halves of the coconut, you should place them on a **[cutting board](https://thekitchenpot.com/blog/best-over-the-sink-cutting-board//)**. You should then hit them repeatedly with a hammer to help loosen the meat from the shell. Ensure that you tap all over the shell area to remove all the meat.
+Now that you have two halves of the coconut, you should place them on a **[cutting board](https://thekitchenpot.com/blog/best-over-the-sink-cutting-board/)**. You should then hit them repeatedly with a hammer to help loosen the meat from the shell. Ensure that you tap all over the shell area to remove all the meat.
 
-After hitting it all around, you should slide a knife (preferably a hard one, such as **[Wusthof Butter Knife](https://thekitchenpot.com/blog/wusthof-knives-review//)**) between the shell and the meat. Repeat this with each piece until you get all your meat.
+After hitting it all around, you should slide a knife (preferably a hard one, such as **[Wusthof Butter Knife](https://thekitchenpot.com/blog/wusthof-knives-review/)**) between the shell and the meat. Repeat this with each piece until you get all your meat.
 
 ## How to Open a Coconut Using an Oven 
 
@@ -104,7 +104,7 @@ Follow the following simple steps:
 * **Hit it Against a Hard Surface.** You should hit the wrapped coconut against a hard surface (such as a concrete wall) until you hear it break into pieces.
 * **Place a Butter Knife Between the Shell and the Meat to Separate Them.** Ensure that you’re careful enough not to cut your fingers.
 
-You can also use an **[over the range microwave](https://thekitchenpot.com/blog/7-best-over-the-range-microwaves//)** if you’re in a hurry. Just set the microwave and heat the coconut for 3 minutes.
+You can also use an **[over the range microwave](https://thekitchenpot.com/blog/7-best-over-the-range-microwaves/)** if you’re in a hurry. Just set the microwave and heat the coconut for 3 minutes.
 
 ## How to Use a Coconut
 
@@ -125,7 +125,7 @@ If you’ve ever found yourself in such a situation, then this section is for yo
 
 **Selecting the Best Young Coconut**
 
-Young coconuts have a relatively green husk. In many stores, these coconuts are refrigerated since they can go bad easily. Before refrigeration, they are slightly cut to reveal the inner meat and then sealed using a [**vacuum plastic sealer**.](https://thekitchenpot.com/blog/best-vacuum-sealer-for-sous-vide//)
+Young coconuts have a relatively green husk. In many stores, these coconuts are refrigerated since they can go bad easily. Before refrigeration, they are slightly cut to reveal the inner meat and then sealed using a [**vacuum plastic sealer**.](https://thekitchenpot.com/blog/best-vacuum-sealer-for-sous-vide/)
 
 To select the best young coconut, follow the tips below:
 

@@ -62,7 +62,7 @@ This is a cooking technique that allows you to cook your meals without adding wa
 
 Besides the nutritional value of waterless cooking, you will also get tastier meals.
 
-**Read more about [waterless cooking here](https://thekitchenpot.com/blog/best-waterless-cookware-reviews//)** 
+**Read more about [waterless cooking here](https://thekitchenpot.com/blog/best-waterless-cookware-reviews/)** 
 
 ## How 360 Waterless Cookware Works 
 
@@ -155,6 +155,6 @@ If you’re apprehensive that you may lose your investment due to poor quality a
 
 Ever heard of vapor cooking technology? Also called waterless cooking, the approach advocates for the use of natural juices in cooking your meals. As such, you will not necessarily add oil or water when cooking your meals.
 
-However, you will need **[waterless cookware](https://thekitchenpot.com/blog/best-waterless-cookware-reviews//)** to achieve waterfree cooking. One of the most reputable companies in making these modified cookware is 360 cookware in the USA.
+However, you will need **[waterless cookware](https://thekitchenpot.com/blog/best-waterless-cookware-reviews/)** to achieve waterfree cooking. One of the most reputable companies in making these modified cookware is 360 cookware in the USA.
 
 This 360 cookware review gives a comprehensive guide on everything you need to know about waterless cooking and the best pots for it. Read through the guide and buy a 360 vapor cooking-compliant pot to enjoy natural, healthy, and tasty meals!

@@ -278,7 +278,7 @@ Metal spatulas that come fitted with beveled edges are suitable for allowing you
 
 Other metal spatulas are rectangular or square shapes with a handle running along the top. These types of spatulas are made to help in cutting your food items as it cooks and is also suitable tools for preparing your scrambled eggs in skillets or pans.
 
-> **Check whether you can use your best metal spatula set with [ceramic cookware](https://thekitchenpot.com/blog/best-ceramic-cookware-set//), cast iron skillet, among other kitchen pans.** 
+> **Check whether you can use your best metal spatula set with [ceramic cookware](https://thekitchenpot.com/blog/best-ceramic-cookware-set/), cast iron skillet, among other kitchen pans.** 
 
 * **How Ergonomic is the Handle?**
 

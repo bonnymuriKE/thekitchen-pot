@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-Are you thinking about **[remodeling your kitchen](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy//)**? If so, you’re probably thinking about changing out the sink as well. If you want value for money, consider buying the best white undermount kitchen sink for your remodel.
+Are you thinking about **[remodeling your kitchen](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy/)**? If so, you’re probably thinking about changing out the sink as well. If you want value for money, consider buying the best white undermount kitchen sink for your remodel.
 
 An undermount kitchen sink has several benefits. It is easy to clean, and it fits under the countertop seamlessly. It also conceals unsightly stains and scratches that can occur on a surface-mounted sink.
 
@@ -158,7 +158,7 @@ Kitchen sink noise is another important factor to consider before you buy. If yo
 
 While noise isn’t usually an issue with ceramic and enamel models, it may be a problem for stainless steel, nickel, and copper sinks because they tend to be noisier when filled with water.
 
-If you must buy stainless steel, ensure that you choose the **[best gauge for kitchen sinks (primarily between 18-gauge, 16-gauge, and 14-gauge)](https://thekitchenpot.com/blog/what-gauge-stainless-steel-sink-is-best//)**. Here is a comprehensive guide on the same. The thicker the stainless steel, the less noisy the sink.
+If you must buy stainless steel, ensure that you choose the **[best gauge for kitchen sinks (primarily between 18-gauge, 16-gauge, and 14-gauge)](https://thekitchenpot.com/blog/what-gauge-stainless-steel-sink-is-best/)**. Here is a comprehensive guide on the same. The thicker the stainless steel, the less noisy the sink.
 
 ## **Comparison of the Best Kitchen Sinks in the Market**
 

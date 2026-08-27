@@ -34,13 +34,13 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-It can be frustrating to buy your best cookware set only to realize that it doesn’t work with your favorite **[induction cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money//)**. But all is not lost. There are a few things you can do to make it compatible with an induction cooktop.
+It can be frustrating to buy your best cookware set only to realize that it doesn’t work with your favorite **[induction cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money/)**. But all is not lost. There are a few things you can do to make it compatible with an induction cooktop.
 
 This guide offers tips on how to use non induction cookware on induction cooktops without a hassle. It is simple and easily implementable!
 
 ## **What is an Induction Cookware?**
 
-**[Induction cookware](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)** is a pot or pan that is designed to work with an **[induction cooktop](https://thekitchenpot.com/blog/nuwave-induction-cooktop-review//)**. The bottom of the cookware is made from a ferrous material, such as cast iron, which must be strongly magnetic. This material allows the induction current to flow through it.
+**[Induction cookware](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/)** is a pot or pan that is designed to work with an **[induction cooktop](https://thekitchenpot.com/blog/nuwave-induction-cooktop-review/)**. The bottom of the cookware is made from a ferrous material, such as cast iron, which must be strongly magnetic. This material allows the induction current to flow through it.
 
 Noninduction cookware will not work with an induction cooktop because it does not have a ferrous bottom. So, is there a way you can modify the non-magnetic cookware to work with induction cooktops? Let’s find out here:
 
@@ -54,7 +54,7 @@ Converter disks/ magnetic disks contain a ferrous material that allows the induc
 
 Converter disks are widely available in **[departmental stores or online shops](https://www.amazon.com/Upromax-Induction-Embossed-Converter-Stainless/dp/B07D7FPYV1/?tag=kitchenpot-20)**. You can choose from among many different-sized converters depending on the size of your pot or pan. Here’s a **[link to Amazon for some converter disks](https://www.amazon.com/s?k=magnetic+disk%2Fconverter+disks&crid=3VQVMGKPHD8U7&sprefix=magnetic+disk%2Fconverter+disk%2Caps%2C365&?tag=kitchenpot-20)**.
 
-Read about some of the **[best heat diffusers](https://thekitchenpot.com/blog/how-to-protect-glass-top-stove-from-cast-iron//)** here
+Read about some of the **[best heat diffusers](https://thekitchenpot.com/blog/how-to-protect-glass-top-stove-from-cast-iron/)** here
 
 **Step-by-Step Guide on How to Use Converter Disks** 
 
@@ -113,6 +113,6 @@ In addition, this method can only be used for a short time as you will need to r
 
 There are various ways of how to use non induction cookware on an induction cooktop. You can opt for the converter disk or try out the DIY techniques, which are quite easy and handy. Your choice will depend on your cooking needs.
 
-If you want faster cooking times, then you should use **[induction-safe pots and pans](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop//)**. You should also try out the various techniques to determine which one will work best for your cooking needs.
+If you want faster cooking times, then you should use **[induction-safe pots and pans](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/)**. You should also try out the various techniques to determine which one will work best for your cooking needs.
 
 Try them all if you have no induction safe cookware available to help you enjoy having an induction cooker!

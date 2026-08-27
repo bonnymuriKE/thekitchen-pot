@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-If you recently bought your **[rice cooker](https://thekitchenpot.com/blog/best-rice-cooker-for-brown-rice//)**, you might be wondering how to use it to get the most delicious rice. The rice-to-water ratio dynamics can be overwhelming, and you may even end up giving up on using your rice cooker.
+If you recently bought your **[rice cooker](https://thekitchenpot.com/blog/best-rice-cooker-for-brown-rice/)**, you might be wondering how to use it to get the most delicious rice. The rice-to-water ratio dynamics can be overwhelming, and you may even end up giving up on using your rice cooker.
 
 If you’re reached that point, then you shouldn’t worry. This article offers an all-inclusive guide on how to cook rice in a rice cooker.
 
@@ -173,7 +173,7 @@ When **[cooking brown rice in a rice cooker](https://www.amazon.com/GAU-00011-El
 
 On the other hand, cooking Basmati and Jasmine rice in a rice cooker requires less water. In that case, the 1:1 ratio will be enough.
 
-**Read a guide on how to use how to use Oster rice cooker [here](https://thekitchenpot.com/blog/how-to-use-an-oster-rice-cooker//)**
+**Read a guide on how to use how to use Oster rice cooker [here](https://thekitchenpot.com/blog/how-to-use-an-oster-rice-cooker/)**
 
 ## How to Make Fluffy Rice in a Rice Cooker
 

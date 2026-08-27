@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 If you are in constant need of ice, then you should invest in the best ice maker for home use. The machine will make fresh ice cubes, which will revolutionize how you take your beverages.
 
-While most [**refrigerator**s](https://thekitchenpot.com/blog/best-mini-fridge-for-beer//) come with built-in ice makers, they can never be efficient as a dedicated ice maker for home use.
+While most [**refrigerator**s](https://thekitchenpot.com/blog/best-mini-fridge-for-beer/) come with built-in ice makers, they can never be efficient as a dedicated ice maker for home use.
 
 However, there are a few factors that you should consider before purchasing your ice maker for home use. For example, you should always consider the price, design, and ice shape.
 
@@ -67,7 +67,7 @@ When making a choice of your best ice maker for home use, always consider the fo
 
 The best part of an at-home ice maker is its ease of use. The appliance does not need you to take extra steps to use. Additionally, it’s fast, which guarantees a steady supply of ice whenever you need it.
 
-**Read [how you can use your ice to make iced tea](https://thekitchenpot.com/blog/how-to-use-mr-coffee-iced-tea-maker//)**
+**Read [how you can use your ice to make iced tea](https://thekitchenpot.com/blog/how-to-use-mr-coffee-iced-tea-maker/)**
 
 ## Top 5 Best Ice Maker for Home Use
 
@@ -237,7 +237,7 @@ The two types of ice makers have distinct similarities and differences. As such,
 
 To help in the buying exercise, we will expound more on some of the pros and cons of the two types of ice makers.
 
-**[Read about the best iced tea makers here](https://thekitchenpot.com/blog/best-iced-tea-maker//)**
+**[Read about the best iced tea makers here](https://thekitchenpot.com/blog/best-iced-tea-maker/)**
 
 **Portable Ice Makers**
 

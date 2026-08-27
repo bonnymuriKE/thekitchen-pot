@@ -71,7 +71,7 @@ As a result, you’ll get evenly cooked food. Even more importantly, you’ll ne
 
 * **Have an Ideal Weight**
 
-Copper pans are averagely heavy – neither too heavy nor too light. This way, you can be sure that you’ll have no problem when moving your pan from your **[lazy Susan organizer](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen//)** to your stovetop. 
+Copper pans are averagely heavy – neither too heavy nor too light. This way, you can be sure that you’ll have no problem when moving your pan from your **[lazy Susan organizer](https://thekitchenpot.com/blog/8-best-lazy-susan-organizers-for-your-kitchen/)** to your stovetop. 
 
 * **Superior Design and Aesthetic Benefits**
 
@@ -91,7 +91,7 @@ While copper pans are undoubtedly beneficial to any cooking enthusiast, they pos
 
 These pans are pricey when compared with ceramic cookware, cast iron pans, stainless steel, and other variants. 
 
-> ***Read a [review of ceramic cookware](https://thekitchenpot.com/blog/best-ceramic-cookware-set//) here***
+> ***Read a [review of ceramic cookware](https://thekitchenpot.com/blog/best-ceramic-cookware-set/) here***
 
 The pans’ high price can be attributed to its top-notch quality and preference among top professional chefs. 
 

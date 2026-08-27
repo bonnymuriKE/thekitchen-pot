@@ -133,7 +133,7 @@ Sardel cookware is made in Italy and you can pre-order to get your pans crafted 
 
 ## **Is Buying Sardel Cookware Worth It?**
 
-Sardel cookware has revolutionized nonstick cooking. Unlike other [**nonstick pans** (Teflon-coated)](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide//), these pots have a relatively safe nonstick layer. It has no PFOA or PTFE, thus offering a unique quality and performance combo.  
+Sardel cookware has revolutionized nonstick cooking. Unlike other [**nonstick pans** (Teflon-coated)](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/), these pots have a relatively safe nonstick layer. It has no PFOA or PTFE, thus offering a unique quality and performance combo.  
 
 Additionally, the pan’s nonstick surface has a honeycomb appearance that enhances performance and improves aesthetics. Its surface is infused with stainless steel particles for even heat distribution and retention. 
 
@@ -181,6 +181,6 @@ If you buy cookware worth more than $50, then the manufacturer will ship your or
 
 If you’ve been wondering whether **Sardel cookware** is a worthwhile investment, then worry no more. This comprehensive Sardel cookware review offers an honest guide on what to know before placing your order.
 
-The cookware is superb. It nears the performance of the high-end brands such as **[le Creuset.](https://thekitchenpot.com/blog/le-creuset-cast-iron-skillet//)** Even better, it is one of the most fairly priced cookware you’ll ever get in the market. 
+The cookware is superb. It nears the performance of the high-end brands such as **[le Creuset.](https://thekitchenpot.com/blog/le-creuset-cast-iron-skillet/)** Even better, it is one of the most fairly priced cookware you’ll ever get in the market. 
 
 I’ve used the **Sardel Full Set** and I like every element of it. The nonstick skillet is superbly effective and I would rate it 4.8 stars. Buy it today and watch as your cooking escapades improve for the better.

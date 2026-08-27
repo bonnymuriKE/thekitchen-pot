@@ -34,7 +34,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
 ---
 Having the best knife sharpener in your kitchen is the surest way of reducing your cook time and enjoying every minute of it.
 
-You’ll need your best [knife sets](https://thekitchenpot.com/blog/best-knife-set-under-100//) to slice, dice, slice, and undertake other instrumental kitchen activities. As such, you cannot afford to have a blunt and dysfunctional knife set in your kitchen! 
+You’ll need your best [knife sets](https://thekitchenpot.com/blog/best-knife-set-under-100/) to slice, dice, slice, and undertake other instrumental kitchen activities. As such, you cannot afford to have a blunt and dysfunctional knife set in your kitchen! 
 
 Odd enough, the best knife sharpeners are rare in the average kitchen. Many cooks think that sharpening a knife should be a one-time event or a reserve for professional chefs.  
 

@@ -33,7 +33,7 @@ authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   in sharing his knowledge at thekitchenpot.com where he writes about the best
   cookware for various recipes..
 ---
-For how long have you heard about [ceramic cookware](https://thekitchenpot.com/blog/best-ceramic-cookware-set//)? If you believe that these ceramic appliances are recent, then you’re in for a shock!
+For how long have you heard about [ceramic cookware](https://thekitchenpot.com/blog/best-ceramic-cookware-set/)? If you believe that these ceramic appliances are recent, then you’re in for a shock!
 
 Archaeologists have continuously recovered ceramic pots that are believed to have aided the human race in their cooking escapades as early as 24,000 BCE. 
 
@@ -51,7 +51,7 @@ In some parts of the world, such as Asia, the use of ceramic cookware has remain
 
 However, the inventions of technologically advanced cooking pans masked the use of ceramic until recently when manufacturers started producing modern ceramic pots, skillets, and griddles. 
 
-Due to their enhanced functionality, the ceramic cookware items have been accepted in the current world. Top manufacturers, including T-Fall, Calphalon, Rachael Ray, and [Paula Deen](https://thekitchenpot.com/blog/paula-deen-cookware-reviews//), are making unique ceramic cookware. 
+Due to their enhanced functionality, the ceramic cookware items have been accepted in the current world. Top manufacturers, including T-Fall, Calphalon, Rachael Ray, and [Paula Deen](https://thekitchenpot.com/blog/paula-deen-cookware-reviews/), are making unique ceramic cookware. 
 
 If you’re to get the best out of these appliances, you should learn the basics of how to clean ceramic pan. This article will give you all the tips to care for your cookware optimally. 
 
@@ -170,7 +170,7 @@ On the other hand, the ceramic coating is made of silicon and inorganic elements
 
 While it boils down to personal preference, the ceramic cookware is better than Teflon-coated cookware. However, this will vary depending on preferences, needs, and budget. 
 
-***If you’re wondering which cookware is better [between ceramic and stainless steel, then this guide](https://thekitchenpot.com/blog/stainless-steel-vs-ceramic-cookware//) will offer useful insights***
+***If you’re wondering which cookware is better [between ceramic and stainless steel, then this guide](https://thekitchenpot.com/blog/stainless-steel-vs-ceramic-cookware/) will offer useful insights***
 
 ## How to Clean Ceramic Pan – The Bottom Line
 

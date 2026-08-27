@@ -46,7 +46,7 @@ If you need to buy a ceramic knife, then it should be to complement your high ca
 
 ## **How are Ceramic Knives Made?**
 
-Whenever ceramic is mentioned, what comes to your mind? In most cases, people associate ceramic with [dinnerware sets](https://thekitchenpot.com/blog/7-best-dinnerware-sets//).
+Whenever ceramic is mentioned, what comes to your mind? In most cases, people associate ceramic with [dinnerware sets](https://thekitchenpot.com/blog/7-best-dinnerware-sets/).
 
 However, ceramic knives are not made from the same material as your ordinary dinner plate or mug!
 
@@ -66,7 +66,7 @@ As we’ve previously indicated, the answer on how to sharpen ceramic knives lie
 
 You cannot sharpen ceramic knife blades using the ordinary knife sharpeners that you use with your steel knives.
 
-> ***Read about the [best knives sharpeners for stainless steel knives](https://thekitchenpot.com/blog/best-knife-sharpener//) here.***
+> ***Read about the [best knives sharpeners for stainless steel knives](https://thekitchenpot.com/blog/best-knife-sharpener/) here.***
 
 As such, you would require professional sharpening services, which can be costly. Some manufacturers have sharpening services, where you can send the knife to them for maintenance. But is the hassle worth it?
 

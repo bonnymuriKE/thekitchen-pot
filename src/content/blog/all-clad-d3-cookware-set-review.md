@@ -117,11 +117,11 @@ The pans have durable 18/10 stainless steel construction that guarantees even he
 
 While All-Clad indicates that the pan is dishwasher-safe, we recommend that you hand wash it using non-abrasive cleaning agents. 
 
-**[Read more about the benefits of owning a saute pan here](https://thekitchenpot.com/blog/best-saute-pan//)**
+**[Read more about the benefits of owning a saute pan here](https://thekitchenpot.com/blog/best-saute-pan/)**
 
 ## Pros and Cons of All-Clad D3 Cookware Set
 
-All-Clad is a king in the Made in USA cookware industry. While other foreign brands such as **[Le Creuset](https://thekitchenpot.com/blog/le-creuset-cast-iron-skillet//)**, **[Milo](https://thekitchenpot.com/blog/milo-dutch-oven-review//)**, and Staub are increasingly upping their quality, All-Clad’s technology remains unique in the industry.
+All-Clad is a king in the Made in USA cookware industry. While other foreign brands such as **[Le Creuset](https://thekitchenpot.com/blog/le-creuset-cast-iron-skillet/)**, **[Milo](https://thekitchenpot.com/blog/milo-dutch-oven-review/)**, and Staub are increasingly upping their quality, All-Clad’s technology remains unique in the industry.
 
 The use of layered structures with different metals all around their pans and pots are quite outstanding. The technology not only makes their pans unique but also guarantees longevity and top-notch functionality. 
 
@@ -165,7 +165,7 @@ Cleaning All-Clad pans is a breeze. However, we advise that you do not let burnt
 
 If you’re finding it difficult to clean the pans due to debris, you should use baking soda to get rid of them.
 
-**[Read more about how to clean stainless steel cookware here](https://thekitchenpot.com/blog/how-to-clean-stainless-steel-pans//)**
+**[Read more about how to clean stainless steel cookware here](https://thekitchenpot.com/blog/how-to-clean-stainless-steel-pans/)**
 
 Additionally, we recommend that you use non-abrasive cleaning agents to prevent scratches that would make the pan a bit ugly. Also, avoid using a dishwasher. 
 

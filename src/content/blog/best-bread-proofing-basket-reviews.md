@@ -216,7 +216,7 @@ And for credibility purposes, the proofing basket complies with German food, art
 
 * The proofing basket is subject to splinters
 
-***Read about [best bakeware sets](https://thekitchenpot.com/blog/best-bakeware-sets//) to consider for beginners***
+***Read about [best bakeware sets](https://thekitchenpot.com/blog/best-bakeware-sets/) to consider for beginners***
 
 ## **Best Bread Proofing Baskets- Buying guide**
 

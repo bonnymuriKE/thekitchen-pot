@@ -63,7 +63,7 @@ However, you can still buy the red copper pans and pots if you need a nonstick p
 
 Unlike Teflon nonstick pans, the red copper cookware is safe, even when used in an oven. It does not contain PFOA and PTFE. 
 
-**[Also read on All-Clad copper core cookware set](https://thekitchenpot.com/blog/all-clad-copper-core-cookware-set//)**
+**[Also read on All-Clad copper core cookware set](https://thekitchenpot.com/blog/all-clad-copper-core-cookware-set/)**
 
 ## Red Copper Cookware Reviews 
 
@@ -236,7 +236,7 @@ Once you’re through with cleaning, you should dry your red copper pans using a
 
 ## How to Season Your Red Copper Pans
 
-Failure to **[season your red copper pans](https://thekitchenpot.com/blog/how-to-season-red-copper-pan//)** can result in a frustrating cooking experience. In most cases, this omission will make you curse the day you bought the pans, quite literally. It will lead to the burning of food and difficult cleaning!
+Failure to **[season your red copper pans](https://thekitchenpot.com/blog/how-to-season-red-copper-pan/)** can result in a frustrating cooking experience. In most cases, this omission will make you curse the day you bought the pans, quite literally. It will lead to the burning of food and difficult cleaning!
 
 As such, you should be careful to season your copper pans to get the best out of them. But why is seasoning important? Well, the process fills tiny spaces on the surface of the pans, which boosts their non-stick properties. 
 
@@ -249,7 +249,7 @@ To get the best out of your red copper pans, we recommend that you follow these 
 * Place your pan in the oven for approximately 20 minutes 
 * Remove the pans and allow them to cool. Wipe off the excess oil 
 
-**[Read more on how to season red copper pan in 5 simple steps](https://thekitchenpot.com/blog/how-to-season-red-copper-pan//)**
+**[Read more on how to season red copper pan in 5 simple steps](https://thekitchenpot.com/blog/how-to-season-red-copper-pan/)**
 
 To continue enjoying the benefits of your red copper pan, we recommend that you re-season your pans regularly (after every 3-6 months).
 

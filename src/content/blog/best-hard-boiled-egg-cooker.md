@@ -295,7 +295,7 @@ However, a plastic lid would be efficient since it’s light, easy to handle, tr
 
 * **Flexibility** 
 
-A flexible egg cooker allows you to cook your eggs just the way you’d love them. Whether you enjoy [poached eggs](https://thekitchenpot.com/blog/how-to-use-egg-poachers//) or omelets, your best hard boiled egg cooker should serve you right. 
+A flexible egg cooker allows you to cook your eggs just the way you’d love them. Whether you enjoy [poached eggs](https://thekitchenpot.com/blog/how-to-use-egg-poachers/) or omelets, your best hard boiled egg cooker should serve you right. 
 
 * **Alarm Features**
 

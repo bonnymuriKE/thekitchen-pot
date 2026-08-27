@@ -73,7 +73,7 @@ However, modifications and infusions have helped to improve the functionality of
 
 Using a nonstick cookware makes cooking blissful. Since titanium is not nonstick, manufacturers found it necessary to infuse the titanium with a ceramic coating to give it the nonstick properties.
 
-While there are many other nonstick coatings, **[ceramic is preferred](https://thekitchenpot.com/blog/best-ceramic-cookware-set//)** due to its high safety profile. 
+While there are many other nonstick coatings, **[ceramic is preferred](https://thekitchenpot.com/blog/best-ceramic-cookware-set/)** due to its high safety profile. 
 
 Unlike other nonstick materials, the ceramic coating does not contain any toxic materials. Even when you heat the cookware to extremely high temperatures, the cooking will still be safe, and no chemicals will leach into the food. 
 
