@@ -44,7 +44,7 @@ const totalPosts = page.total;
               {post.data.image && (
                 <div class="aspect-video overflow-hidden">
                   <Image
-                    src={post.data.image}
+                    src={post.data.image || "/images/blog/default-cover.jpg"}
                     width={post.data.image.width}
                     height={post.data.image.height}
                     format="webp"

@@ -28,7 +28,7 @@ const relatedReviews = allReviews
         <Card className="overflow-hidden group hover:shadow-lg transition-shadow">
           <div class="relative aspect-video overflow-hidden">
             <img
-              src={review.data.image}
+              src={review.data.image || "/images/blog/default-cover.jpg"}
               alt={review.data.title}
               class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
             />

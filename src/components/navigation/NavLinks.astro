@@ -2,28 +2,99 @@
 import { navigationLinks } from './config.ts';
 ---
 
-<!-- 
+<div class="hidden md:flex items-center space-x-8">
+  {navigationLinks.map((link) => (
+    'children' in link ? (
+      <div class="relative" data-dropdown>
+        <button
+          type="button"
+          class="nav-link flex items-center gap-1"
+          data-dropdown-trigger
+          aria-expanded="false"
+        >
+          {link.text}
+          <svg
+            class="w-4 h-4 transition-transform duration-200"
+            data-dropdown-arrow
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 20 20"
+            fill="currentColor"
+            aria-hidden="true"
+          >
+            <path
+              fill-rule="evenodd"
+              d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+              clip-rule="evenodd"
+            />
+          </svg>
+        </button>
+        <div
+          class="hidden absolute left-0 top-full mt-3 w-64 bg-white rounded-lg shadow-lg border border-gray-100 py-2 z-50"
+          data-dropdown-panel
+          role="menu"
+        >
+          {link.children.map((child) => (
+            <a
+              href={child.href}
+              class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 hover:text-teal-700 transition-colors"
+              role="menuitem"
+            >
+              {child.text}
+            </a>
+          ))}
+        </div>
+      </div>
+    ) : (
+      <a href={link.href} class="nav-link">
+        {link.text}
+      </a>
+    )
+  ))}
+</div>
+
 <style>
   .nav-link {
-    @apply text-golf-secondary hover:text-golf-accent transition-colors duration-300 font-medium;
-  }
-
-  .book-button {
-    @apply bg-golf-primary text-white px-6 py-2 rounded-full hover:bg-golf-accent
-           transition-all duration-300 transform hover:scale-105 font-medium;
+    @apply text-white hover:text-teal-100 transition-colors duration-300 font-medium;
   }
 </style>
--->
 
-<div class="hidden md:flex items-center space-x-8">
-  {navigationLinks.map(link => (
-    <a href={link.href} class="nav-link">
-      {link.text}
-    </a>
-  ))}
-  <!-- 
-  <button class="book-button">
-    Book Now
-  </button>
-  -->
-</div>
+<script>
+  function setupDropdowns() {
+    const dropdowns = document.querySelectorAll<HTMLElement>('[data-dropdown]');
+
+    function closeAll() {
+      dropdowns.forEach((dropdown) => {
+        const panel = dropdown.querySelector<HTMLElement>('[data-dropdown-panel]');
+        const trigger = dropdown.querySelector<HTMLElement>('[data-dropdown-trigger]');
+        const arrow = dropdown.querySelector<HTMLElement>('[data-dropdown-arrow]');
+        panel?.classList.add('hidden');
+        trigger?.setAttribute('aria-expanded', 'false');
+        arrow?.classList.remove('rotate-180');
+      });
+    }
+
+    dropdowns.forEach((dropdown) => {
+      const trigger = dropdown.querySelector<HTMLElement>('[data-dropdown-trigger]');
+      const panel = dropdown.querySelector<HTMLElement>('[data-dropdown-panel]');
+      const arrow = dropdown.querySelector<HTMLElement>('[data-dropdown-arrow]');
+
+      trigger?.addEventListener('click', (event) => {
+        event.stopPropagation();
+        const isOpen = !panel?.classList.contains('hidden');
+        closeAll();
+        if (!isOpen) {
+          panel?.classList.remove('hidden');
+          trigger.setAttribute('aria-expanded', 'true');
+          arrow?.classList.add('rotate-180');
+        }
+      });
+    });
+
+    document.addEventListener('click', () => closeAll());
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape') closeAll();
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', setupDropdowns);
+</script>

@@ -57,7 +57,7 @@ function formatDate(dateString: Date | undefined) {
         <article class="bg-white rounded-lg overflow-hidden shadow-lg transform transition-transform hover:scale-105">
          {post.data.image && (
           <Image
-            src={post.data.image}
+            src={post.data.image || "/images/blog/default-cover.jpg"}
             width={1200}
             height={620}
             alt={post.data.title}

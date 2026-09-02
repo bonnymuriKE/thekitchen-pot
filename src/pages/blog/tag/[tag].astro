@@ -62,7 +62,7 @@ function formatDate(dateString: Date | undefined) {
                   <div class="relative">
                    { post.data.image && (
                    <Image
-                      src={post.data.image}
+                      src={post.data.image || "/images/blog/default-cover.jpg"}
                       width={1200}
                       height={620}
                       format='webp'

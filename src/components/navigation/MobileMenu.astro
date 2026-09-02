@@ -6,7 +6,7 @@ import { navigationLinks } from '../navigation/config';
 <div class="md:hidden">
   <button
     id="mobile-menu-button"
-    class="text-golf-secondary p-2 hover:bg-gray-100 rounded-lg transition-colors"
+    class="text-white p-2 hover:bg-white/10 rounded-lg transition-colors"
     aria-label="Toggle mobile menu"
     aria-expanded="false"
   >
@@ -19,30 +19,59 @@ import { navigationLinks } from '../navigation/config';
 
   <div
     id="mobile-menu"
-    class="hidden absolute top-full left-0 right-0 bg-white shadow-lg border-t border-gray-100"
+    class="hidden absolute top-full left-0 right-0 bg-white shadow-lg border-t border-gray-100 max-h-[80vh] overflow-y-auto"
     role="menu"
     aria-labelledby="mobile-menu-button"
   >
     <nav class="px-4 py-3 space-y-1">
-      {navigationLinks.map(({ href, text }) => (
-        <a
-          href={href}
-          class="block px-3 py-2 text-golf-secondary hover:text-golf-accent hover:bg-gray-50
-                 rounded-lg transition-colors duration-300"
-          role="menuitem"
-        >
-          {text}
-        </a>
+      {navigationLinks.map((link) => (
+        'children' in link ? (
+          <div data-mobile-accordion>
+            <button
+              type="button"
+              class="w-full flex items-center justify-between px-3 py-2 text-gray-800 hover:text-teal-700 hover:bg-gray-50 rounded-lg transition-colors duration-300"
+              data-mobile-accordion-trigger
+              aria-expanded="false"
+            >
+              <span>{link.text}</span>
+              <svg
+                class="w-4 h-4 transition-transform duration-200"
+                data-mobile-accordion-arrow
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 20 20"
+                fill="currentColor"
+                aria-hidden="true"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+                  clip-rule="evenodd"
+                />
+              </svg>
+            </button>
+            <div class="hidden pl-6 space-y-1" data-mobile-accordion-panel>
+              {link.children.map((child) => (
+                <a
+                  href={child.href}
+                  class="block px-3 py-2 text-sm text-gray-600 hover:text-teal-700 hover:bg-gray-50 rounded-lg transition-colors duration-300"
+                  role="menuitem"
+                >
+                  {child.text}
+                </a>
+              ))}
+            </div>
+          </div>
+        ) : (
+          <a
+            href={link.href}
+            class="block px-3 py-2 text-gray-800 hover:text-teal-700 hover:bg-gray-50
+                   rounded-lg transition-colors duration-300"
+            role="menuitem"
+          >
+            {link.text}
+          </a>
+        )
       ))}
-      <!-- 
-      <button
-        class="w-full mt-2 bg-golf-primary text-white px-6 py-2 rounded-full
-               hover:bg-golf-accent transition-colors duration-300"
-        role="menuitem"
-      >
-        Book Now
-      </button>
-      -->
     </nav>
   </div>
 </div>
@@ -92,6 +121,27 @@ import { navigationLinks } from '../navigation/config';
     };
   }
 
+  function setupMobileAccordions() {
+    const accordions = document.querySelectorAll<HTMLElement>('[data-mobile-accordion]');
+
+    accordions.forEach((accordion) => {
+      const trigger = accordion.querySelector<HTMLElement>('[data-mobile-accordion-trigger]');
+      const panel = accordion.querySelector<HTMLElement>('[data-mobile-accordion-panel]');
+      const arrow = accordion.querySelector<HTMLElement>('[data-mobile-accordion-arrow]');
+
+      trigger?.addEventListener('click', (event) => {
+        event.stopPropagation();
+        const isOpen = !panel?.classList.contains('hidden');
+        panel?.classList.toggle('hidden');
+        trigger.setAttribute('aria-expanded', String(!isOpen));
+        arrow?.classList.toggle('rotate-180');
+      });
+    });
+  }
+
   // Initialize when DOM is ready
-  document.addEventListener('DOMContentLoaded', setupMobileMenu);
+  document.addEventListener('DOMContentLoaded', () => {
+    setupMobileMenu();
+    setupMobileAccordions();
+  });
 </script>

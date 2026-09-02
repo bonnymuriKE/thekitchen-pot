@@ -80,7 +80,7 @@ function formatDate(dateString: Date | undefined) {
               <div class="relative overflow-hidden">
                 <div class="absolute inset-0 bg-gradient-to-t from-slate-900 to-transparent opacity-60 z-10"></div>
                 <Image
-                  src={post.data.image}
+                  src={post.data.image || "/images/blog/default-cover.jpg"}
                   alt={post.data.title}
                   format={'webp'}
                   fetchpriority={'low'}
