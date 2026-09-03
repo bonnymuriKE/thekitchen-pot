@@ -10,7 +10,7 @@ slug: all-clad-d3-vs-d5
 pubDate: 2021-03-16
 modDate: 2025-02-26
 image: ""
-category: Kitchenware
+category: Cookware Equipment
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: "All-Clad D3 vs D5: Which is Better?"

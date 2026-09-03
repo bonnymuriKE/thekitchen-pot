@@ -10,7 +10,7 @@ slug: top-10-best-electric-can-opener
 pubDate: 2020-07-14
 modDate: 2025-01-31
 image: ""
-category: Kitchenware
+category: Small Appliances
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: Top 10 Best Electric Can Openers - Why You Should Own One

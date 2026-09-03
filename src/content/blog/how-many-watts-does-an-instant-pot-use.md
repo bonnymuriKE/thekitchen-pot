@@ -10,7 +10,7 @@ slug: how-many-watts-does-an-instant-pot-use
 pubDate: 2021-12-19
 modDate: 2025-01-30
 image: ""
-category: Kitchenware
+category: Small Appliances
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: How Many Watts Does An Instant Pot Use?

@@ -14,7 +14,7 @@ description: "An Instant Pot is a versatile electric multi-cooker that has
   become a staple in many American kitchens. Known for its ability to combine
   several cooking functions into one appliance, it simplifies meal preparation
   while saving time and energy. "
-category: Kitchenware
+category: Small Appliances
 tags:
   - Instant Pot
   - Pressure Cooker

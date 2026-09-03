@@ -10,7 +10,7 @@ slug: best-coffee-maker-with-a-grinder
 pubDate: 2020-04-08
 modDate: 2025-02-21
 image: ""
-category: Kitchenware
+category: Beverages Equipment
 author: Boniface Muriuki
 authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   Culinary Education, New York. He has worked in several restaurants and is

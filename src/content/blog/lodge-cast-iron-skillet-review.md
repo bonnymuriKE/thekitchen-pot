@@ -10,7 +10,7 @@ slug: lodge-cast-iron-skillet-review
 pubDate: 2021-01-21
 modDate: 2025-01-28
 image: ""
-category: Kitchenware
+category: Cookware Equipment
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: Lodge Cast Iron Skillet Review - 6 Reasons Why It Is Popular

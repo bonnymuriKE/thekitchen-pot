@@ -10,7 +10,7 @@ slug: best-propane-smoker
 pubDate: 2020-07-24
 modDate: 2025-01-22
 image: ""
-category: Kitchenware
+category: Gas And Charcoal Grills
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 7 Best Propane Smoker - With a Comprehensive Buying Guide

@@ -9,7 +9,7 @@ slug: best-food-processor-under-100
 pubDate: 2020-06-27
 modDate: 2025-02-03
 image: ""
-category: Kitchenware
+category: Small Appliances
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 6 Best Food Processor Under $ 100

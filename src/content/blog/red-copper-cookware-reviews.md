@@ -10,7 +10,7 @@ slug: red-copper-cookware-reviews
 pubDate: 2021-06-03
 modDate: 2025-02-11
 image: ""
-category: Kitchenware
+category: Cookware Equipment
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: Red Copper Cookware Reviews - Are They Really Nonstick?

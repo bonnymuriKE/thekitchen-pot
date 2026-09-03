@@ -10,7 +10,7 @@ slug: instant-pot-vs-ninja-foodi
 pubDate: 2020-08-11
 modDate: 2025-02-27
 image: ""
-category: Kitchenware
+category: Small Appliances
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: "Instant Pot Vs Ninja Foodi: Which is Better for Your Kitchen?"

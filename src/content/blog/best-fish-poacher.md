@@ -10,7 +10,7 @@ slug: best-fish-poacher
 pubDate: 2020-07-09
 modDate: 2025-02-14
 image: ""
-category: Kitchenware
+category: Pans And Pots
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 10 Best Fish Poacher - Which One is Best for You?

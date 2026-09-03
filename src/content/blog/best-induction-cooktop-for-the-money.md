@@ -10,7 +10,7 @@ slug: best-induction-cooktop-for-the-money
 pubDate: 2020-10-31
 modDate: 2025-02-11
 image: ""
-category: Kitchenware
+category: Small Appliances
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 5 Best Induction Cooktop for the Money - Buying Guide

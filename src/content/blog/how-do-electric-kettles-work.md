@@ -10,7 +10,7 @@ slug: how-do-electric-kettles-work
 pubDate: 2022-10-03
 modDate: 2025-02-27
 image: ""
-category: Kitchenware
+category: Small Appliances
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: How Do Electric Kettles Work? Complete Guide

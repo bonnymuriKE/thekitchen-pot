@@ -10,7 +10,7 @@ slug: best-cookware-for-induction-cooktop
 pubDate: 2020-06-07
 modDate: 2025-02-12
 image: ""
-category: Kitchenware
+category: Cookware Equipment
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 8 Best Cookware for Induction Cooktop for the Money

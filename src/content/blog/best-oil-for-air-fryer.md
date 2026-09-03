@@ -10,7 +10,7 @@ slug: best-oil-for-air-fryer
 pubDate: 2020-06-27
 modDate: 2025-02-11
 image: ""
-category: Kitchenware
+category: Small Appliances
 author: Boniface Muriuki
 authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
   Culinary Education, New York. He has worked in several restaurants and is

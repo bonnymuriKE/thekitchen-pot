@@ -10,7 +10,7 @@ slug: best-waterless-cookware-reviews
 pubDate: 2020-09-30
 modDate: 2025-01-30
 image: ""
-category: Kitchenware
+category: Cookware Equipment
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 8 Best Waterless Cookware Sets Reviews for the Money

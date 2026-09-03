@@ -10,7 +10,7 @@ slug: milo-dutch-oven-review
 pubDate: 2021-03-27
 modDate: 2025-01-16
 image: ""
-category: Kitchenware
+category: Cookware Equipment
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: Milo Dutch Oven Review -  Why It Is Worth Your Money

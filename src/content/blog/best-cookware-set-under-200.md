@@ -10,7 +10,7 @@ slug: best-cookware-set-under-200
 pubDate: 2021-11-15
 modDate: 2025-02-11
 image: ""
-category: Kitchenware
+category: Cookware Equipment
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: Best Cookware Set Under $200

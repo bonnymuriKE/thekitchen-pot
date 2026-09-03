@@ -10,7 +10,7 @@ slug: best-saute-pan
 pubDate: 2020-07-07
 modDate: 2025-03-01
 image: ""
-category: Kitchenware
+category: Pans And Pots
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 9 Best Sauté Pans With Lids- a Comprehensive Buying Guide

@@ -10,7 +10,7 @@ slug: cuisinart-mcp-12n-multiclad-pro-stainless-steel-12-piece-cookware-set
 pubDate: 2021-02-28
 modDate: 2025-01-21
 image: ""
-category: Kitchenware
+category: Cookware Equipment
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: Cuisinart MCP-12n Multiclad Pro Stainless Steel 12-Piece Cookware Set Review

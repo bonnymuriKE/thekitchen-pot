@@ -10,7 +10,7 @@ slug: best-electric-potato-peeler
 pubDate: 2020-08-20
 modDate: 2025-02-21
 image: ""
-category: Kitchenware
+category: Small Appliances
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 8 Best Electric Potato Peeler - With a Comprehensive Buying Guide

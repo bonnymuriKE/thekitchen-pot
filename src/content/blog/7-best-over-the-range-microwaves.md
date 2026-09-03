@@ -10,7 +10,7 @@ slug: 7-best-over-the-range-microwaves
 pubDate: 2020-07-15
 modDate: 2025-01-18
 image: ""
-category: Kitchenware
+category: Small Appliances
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 7 Best Over The Range Microwaves For Every Kitchen

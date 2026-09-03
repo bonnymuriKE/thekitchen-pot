@@ -10,7 +10,7 @@ slug: best-mini-fridge-for-beer
 pubDate: 2020-06-15
 modDate: 2025-02-22
 image: ""
-category: Kitchenware
+category: Small Appliances
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 6 Best Mini Fridge for Beer for the Most Refreshing Beers

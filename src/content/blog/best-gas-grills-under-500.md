@@ -10,7 +10,7 @@ slug: best-gas-grills-under-500
 pubDate: 2020-03-22
 modDate: 2025-02-03
 image: ""
-category: Kitchenware
+category: Gas And Charcoal Grills
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 8 Best Gas Grills Under 500 - Tested and Proven

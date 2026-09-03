@@ -14,6 +14,7 @@ export const navigationLinks = Object.freeze([
   {
     text: "Kitchen Appliances",
     children: [
+      { href: "/blog/category/small-appliances/", text: "Small Appliances" },
       { href: "/blog/category/beverages-equipment/", text: "Coffee & Beverage Makers" },
       { href: "/blog/category/blenders-and-juicing-equipment/", text: "Blenders & Juicers" },
       { href: "/blog/category/range-hoods/", text: "Range Hoods" },
@@ -23,6 +24,7 @@ export const navigationLinks = Object.freeze([
   {
     text: "Cookware",
     children: [
+      { href: "/blog/category/cookware-equipment/", text: "Cookware Sets & Reviews" },
       { href: "/blog/category/pans-and-pots/", text: "Pots & Pans" },
       { href: "/blog/category/bakeware/", text: "Bakeware" },
       { href: "/blog/category/gas-and-charcoal-grills/", text: "Grills & Outdoor Cooking" },

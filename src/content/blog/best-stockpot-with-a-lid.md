@@ -10,7 +10,7 @@ slug: best-stockpot-with-a-lid
 pubDate: 2026-02-03
 modDate: 2026-02-03
 image: ""
-category: Kitchenware
+category: Pans And Pots
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 8 Best Stockpot with a Lid -Your Ultimate Buying Guide

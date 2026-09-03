@@ -10,7 +10,7 @@ slug: nuwave-induction-cooktop-review
 pubDate: 2021-01-23
 modDate: 2025-01-18
 image: ""
-category: Kitchenware
+category: Small Appliances
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: NuWave Induction Cooktop Review - 3 Reasons You Should Have It

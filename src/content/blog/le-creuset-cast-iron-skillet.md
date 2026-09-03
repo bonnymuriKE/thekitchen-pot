@@ -10,7 +10,7 @@ slug: le-creuset-cast-iron-skillet
 pubDate: 2021-01-19
 modDate: 2025-01-27
 image: ""
-category: Kitchenware
+category: Cookware Equipment
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: Le Creuset Cast Iron Skillet - Is it Worth It?

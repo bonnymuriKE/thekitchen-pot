@@ -10,7 +10,7 @@ slug: best-nespresso-pod-flavors
 pubDate: 2020-07-30
 modDate: 2025-03-01
 image: ""
-category: Kitchenware
+category: Beverages Equipment
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 9 Best Nespresso Pod Flavors and How to Use Them

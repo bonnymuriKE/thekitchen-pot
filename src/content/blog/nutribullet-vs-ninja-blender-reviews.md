@@ -10,7 +10,7 @@ slug: nutribullet-vs-ninja-blender-reviews
 pubDate: 2021-10-26
 modDate: 2025-02-17
 image: ""
-category: Kitchenware
+category: Blenders And Juicing Equipment
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: NutriBullet vs Ninja Blender Reviews- Which is Better?

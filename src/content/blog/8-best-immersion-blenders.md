@@ -10,7 +10,7 @@ slug: 8-best-immersion-blenders
 pubDate: 2020-07-28
 modDate: 2025-01-17
 image: ""
-category: Kitchenware
+category: Blenders And Juicing Equipment
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 8 Best Immersion Blenders - With a Comprehensive Buyers Guide

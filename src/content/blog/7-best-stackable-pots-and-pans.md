@@ -10,7 +10,7 @@ slug: 6-best-stackable-pots-and-pans
 pubDate: 2021-09-02
 modDate: 2026-02-01
 image: ""
-category: Kitchenware
+category: Pans And Pots
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 7 Best stackable pots and pans for the Money

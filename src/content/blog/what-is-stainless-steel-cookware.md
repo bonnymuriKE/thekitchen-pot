@@ -12,7 +12,7 @@ excerpt: "Stainless steel cookware consists of pots and pans made from an
 description: "Stainless steel cookware consists of pots and pans made from an
   iron-based alloy containing chromium, nickel, and sometimes other elements
   like molybdenum. "
-category: Kitchenware
+category: Cookware Equipment
 tags:
   - stainless steel cookware
   - benefits of stainless steel cookware

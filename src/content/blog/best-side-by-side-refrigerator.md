@@ -10,7 +10,7 @@ slug: best-side-by-side-refrigerator
 pubDate: 2020-07-05
 modDate: 2025-02-09
 image: ""
-category: Kitchenware
+category: Small Appliances
 author: Boniface Muriuki
 authorImage: ""
 coverAlt: 9 Best Side By Side Refrigerator - Why You Should Own One
