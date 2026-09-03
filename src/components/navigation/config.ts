@@ -11,6 +11,7 @@ export const navigationLinks = Object.freeze([
       { href: "/blog/category/beverages-equipment/", text: "Coffee & Beverage Makers" },
       { href: "/blog/category/blenders-and-juicing-equipment/", text: "Blenders & Juicers" },
       { href: "/blog/category/range-hoods/", text: "Range Hoods" },
+      { href: "/blog/category/kitchenware/", text: "Kitchen Tools & Gadgets" },
     ],
   },
   {
@@ -22,17 +23,15 @@ export const navigationLinks = Object.freeze([
     ],
   },
   {
-    href: "/blog/category/kitchenware/",
-    text: "Kitchen Tools & Gadgets",
-  },
-  {
     href: "/blog/category/how-to-guides/",
     text: "How-To Guides",
   },
   {
-    href: "/blog/tag/buying-guide/",
-    text: "Buying Guides",
+    text: "About",
+    children: [
+      { href: "/about/", text: "About Us" },
+      { href: "/contact-us/", text: "Contact" },
+      { href: "/privacy-policy/", text: "Privacy Policy" },
+    ],
   },
-  { href: "/about/", text: "About" },
-  { href: "/contact-us/", text: "Contact" },
 ]);

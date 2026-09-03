@@ -2,13 +2,13 @@
 import { navigationLinks } from './config.ts';
 ---
 
-<div class="hidden md:flex items-center space-x-8">
+<div class="hidden lg:flex items-center space-x-6">
   {navigationLinks.map((link) => (
     'children' in link ? (
       <div class="relative" data-dropdown>
         <button
           type="button"
-          class="nav-link flex items-center gap-1"
+          class="nav-link flex items-center gap-1 whitespace-nowrap"
           data-dropdown-trigger
           aria-expanded="false"
         >
@@ -45,7 +45,7 @@ import { navigationLinks } from './config.ts';
         </div>
       </div>
     ) : (
-      <a href={link.href} class="nav-link">
+      <a href={link.href} class="nav-link whitespace-nowrap">
         {link.text}
       </a>
     )
