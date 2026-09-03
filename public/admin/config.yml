@@ -75,7 +75,16 @@ collections:
         }
       - { label: "Author Page Excerpt", name: "excerpt", widget: "text" }
       - { label: "Meta Description (SEO)", name: "description", widget: "text", required: true }
-      - { label: "Category", name: "category", widget: "string" }
+      - {
+          label: "Category",
+          name: "category",
+          widget: "relation",
+          collection: "categories",
+          search_fields: ["slug", "title"],
+          value_field: "title",
+          display_fields: ["title"],
+          required: true,
+        }
       - {
           label: "Tags",
           name: "tags",

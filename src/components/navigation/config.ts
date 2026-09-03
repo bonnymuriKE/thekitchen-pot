@@ -2,8 +2,14 @@
 // or a dropdown group ({ text, children: [{ href, text }] })
 export const navigationLinks = Object.freeze([
   {
-    href: "/blog/tag/small-space-kitchens/",
     text: "Small-Space Kitchens",
+    children: [
+      { href: "/blog/tag/storage-organization/", text: "Storage & Organization" },
+      { href: "/blog/tag/cooking-for-one/", text: "Cooking for One" },
+      { href: "/blog/tag/eco-friendly-appliances/", text: "Eco-Friendly Appliances" },
+      { href: "/blog/tag/small-space-bakeware/", text: "Small-Space Bakeware" },
+      { href: "/blog/tag/balcony-patio-grilling/", text: "Balcony & Patio Grilling" },
+    ],
   },
   {
     text: "Kitchen Appliances",
