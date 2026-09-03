@@ -17,13 +17,13 @@ const bakewarePosts = (await getCollection('blog', ({ data }) =>
 // Copy content from AIDA structure
 const bakewareCopy = {
   attention: "Staring longingly at that muffin recipe but your counter looks like a game of Bakeware Tetris gone wrong? Dreaming of fresh bread but your oven rack feels claustrophobic?",
-  interest: "Imagine bakeware that *actually* understands your petite palace. No more wrestling with pans that dwarf your sink or stacking nightmares that avalanche when you open the cupboard.",
+  interest: "Imagine bakeware that <em>actually</em> understands your petite palace. No more wrestling with pans that dwarf your sink or stacking nightmares that avalanche when you open the cupboard.",
   desire: [
-    "**Cabinet Zen:** Nesting sets that magically disappear into a single footprint",
-    "**Oven Harmony:** Pans sized *just right* for compact ovens",
-    "**Countertop Calm:** Prep, bake, and serve without sacrificing workspace",
-    "**Effortless Cleanup:** Fewer dishes to wrestle into your tiny sink",
-    "**Baking Freedom:** Weekend croissant projects become easy and exciting!"
+    "<strong>Cabinet Zen:</strong> Nesting sets that magically disappear into a single footprint",
+    "<strong>Oven Harmony:</strong> Pans sized <em>just right</em> for compact ovens",
+    "<strong>Countertop Calm:</strong> Prep, bake, and serve without sacrificing workspace",
+    "<strong>Effortless Cleanup:</strong> Fewer dishes to wrestle into your tiny sink",
+    "<strong>Baking Freedom:</strong> Weekend croissant projects become easy and exciting!"
   ],
   action: "Ready to reclaim your tiny kitchen and whisk away baking frustrations?"
 };
@@ -92,7 +92,7 @@ const images = [
             <div>
               <h2 class="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-700 to-teal-600 mb-6">The Tiny Kitchen Baking Dilemma</h2>
               <p class="text-gray-700 mb-6 leading-relaxed">{bakewareCopy.attention}</p>
-              <p class="text-gray-700 mb-8 leading-relaxed">{bakewareCopy.interest}</p>
+              <p class="text-gray-700 mb-8 leading-relaxed" set:html={bakewareCopy.interest}></p>
               
               <div class="space-y-5 mb-10">
                 {bakewareCopy.desire.map((item) => (
