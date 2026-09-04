@@ -1,6 +1,6 @@
 ---
 import { Image, Picture } from 'astro:assets';
-import featureImg from "@/assets/images/feature-image.png";
+import featureImg from "@/assets/images/the-kitchen-pot-bakeware.png";
 import { getCollection } from 'astro:content';
 import type { BlogPost } from '@/types/blog';
 
@@ -108,7 +108,7 @@ const bakewarePosts: BlogPost[] = (await getCollection('blog'))
         </div>
         
         <!-- Stats -->
-        <div class="absolute -bottom-6 left-1/2 transform -translate-x-1/2 bg-white/10 backdrop-blur-md border border-white/10 rounded-xl p-4 w-4/5 grid grid-cols-3 gap-4">
+        <div class="absolute -bottom-6 left-1/2 transform -translate-x-1/2 bg-slate-900/70 backdrop-blur-md border border-white/10 rounded-xl p-4 w-4/5 grid grid-cols-3 gap-4 shadow-xl">
           <div class="text-center">
             <p class="text-2xl font-bold bg-gradient-to-r from-purple-400 to-cyan-300 bg-clip-text text-transparent">50%</p>
             <p class="text-xs text-slate-300">Space Saved</p>
