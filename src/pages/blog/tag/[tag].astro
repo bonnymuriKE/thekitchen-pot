@@ -7,7 +7,11 @@ import { generateSlug } from '@/lib/utils/slugify';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
-  const tags = [...new Set(posts.flatMap(post => post.data.tags || []))];
+  const allTagValues = posts.flatMap(post => {
+    const tags = post.data.tags || [];
+    return post.data.smallSpacePillar ? [...tags, post.data.smallSpacePillar] : tags;
+  });
+  const tags = [...new Set(allTagValues)];
 
   return tags.map(tag => {
     const slug = generateSlug(tag);
@@ -16,7 +20,7 @@ export async function getStaticPaths() {
       props: {
         tag,
         tagSlug: slug,
-        posts: posts.filter(post => post.data.tags?.includes(tag))
+        posts: posts.filter(post => post.data.tags?.includes(tag) || post.data.smallSpacePillar === tag)
           .sort((a, b) => new Date(b.data.modDate || '').getTime() - new Date(a.data.modDate || '').getTime())
       }
     };

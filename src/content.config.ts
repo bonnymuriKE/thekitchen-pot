@@ -32,6 +32,13 @@ const blog = defineCollection({
       question: z.string(),
       answer: z.string(),
     })).optional(),
+    smallSpacePillar: z.enum([
+      "storage-organization",
+      "cooking-for-one",
+      "eco-friendly-appliances",
+      "small-space-bakeware",
+      "balcony-patio-grilling",
+    ]).optional(),
 
 
   })

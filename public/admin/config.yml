@@ -14,7 +14,7 @@ display_url: thekitchenpot.com
 # logo_url: https://www.bestofvacuum.com/images/logo.svg
 show_preview_links: true
 publish_mode: simple
-media_folder: "images"
+media_folder: "public/images"
 public_folder: "/images"
 
 collections:
@@ -102,6 +102,20 @@ collections:
           fields: [
             { label: "Question", name: "question", widget: "string" },
             { label: "Answer", name: "answer", widget: "text" },
+          ],
+        }
+      - {
+          label: "Small-Space Pillar (optional)",
+          name: "smallSpacePillar",
+          widget: "select",
+          required: false,
+          hint: "Pick this if the post belongs under Small-Space Kitchens in the navigation",
+          options: [
+            { label: "Storage & Organization", value: "storage-organization" },
+            { label: "Cooking for One", value: "cooking-for-one" },
+            { label: "Eco-Friendly Appliances", value: "eco-friendly-appliances" },
+            { label: "Small-Space Bakeware", value: "small-space-bakeware" },
+            { label: "Balcony & Patio Grilling", value: "balcony-patio-grilling" },
           ],
         }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -237,6 +251,20 @@ collections:
           fields: [
             { label: "Question", name: "question", widget: "string" },
             { label: "Answer", name: "answer", widget: "text" },
+          ],
+        }
+      - {
+          label: "Small-Space Pillar (optional)",
+          name: "smallSpacePillar",
+          widget: "select",
+          required: false,
+          hint: "Pick this if the post belongs under Small-Space Kitchens in the navigation",
+          options: [
+            { label: "Storage & Organization", value: "storage-organization" },
+            { label: "Cooking for One", value: "cooking-for-one" },
+            { label: "Eco-Friendly Appliances", value: "eco-friendly-appliances" },
+            { label: "Small-Space Bakeware", value: "small-space-bakeware" },
+            { label: "Balcony & Patio Grilling", value: "balcony-patio-grilling" },
           ],
         }
       - { label: "Body", name: "body", widget: "markdown" }
