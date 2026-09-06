@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-05
 modDate: 2026-09-05
 author: boniface-muriuki
-image: images/how-to-store-pots-and-pans.jpg
+image: /src/content/blog/images/how-to-store-pots-and-pans.jpg
 excerpt: Cooking in a cramped kitchen can feel like a game of Tetris, especially
   when dealing with bulky cookware. If your cabinets are overflowing and your
   counters are cluttered, it is time to rethink your setup. From hidden cabinet
@@ -63,7 +63,7 @@ Everything else, the pan you got as a gift and never used, the three lids that d
 
 This single step solves more of your storage problem than any organizer will, and it costs nothing.
 
-![How to Store Pots and Pans in a Small Kitchen](/images/blog/how-to-store-pots-and-pans.jpg "Kitchen Storage Guide")
+![How to Store Pots and Pans in a Small Kitchen](/src/content/blog/images/how-to-store-pots-and-pans.jpg "Kitchen Storage Guide")
 
 It's also worth thinking about whether you're renting or own your place, since that changes which of the solutions below make sense for you. Renters generally want options that don't require drilling into walls or cabinets, while homeowners have more freedom to install permanent fixtures. We've noted which is which as we go.
 
@@ -115,7 +115,7 @@ Corner cabinets are notoriously wasted space, hard to reach and easy to lose thi
 
 What to get: a pull-out basket organizer sized to your specific cabinet. Measure carefully, since these mount to the cabinet floor and sides.
 
-![Kitchen storage](/images/blog/kitchen-storage.jpg "Kitchen Organization ")
+![Kitchen storage](/src/content/blog/images/kitchen-storage.jpg "Kitchen Organization ")
 
 ### **7. Add a Rolling Cart for Overflow**
 
@@ -139,7 +139,7 @@ Here's the truth: if your pots and pans don't stack neatly, no organizer fully s
 
 This is especially worth considering if you're cooking for one or two people and don't need a huge collection in the first place. See our full guide to the best cookware for cooking solo for specific picks.
 
-![Small Kitchen Organization ](/images/blog/kitchen-storage.jpg "Organize a Tiny Kitchen")
+![Small Kitchen Organization ](/src/content/blog/images/kitchen-storage.jpg "Organize a Tiny Kitchen")
 
 ## **Common Mistakes to Avoid**
 
@@ -156,6 +156,8 @@ Even with the right organizers, a few habits can undo your progress fast:
 * Vertical Storage Ideas for Tiny Kitchens
 * How to Organize a One-Cabinet Kitchen?
 * Small Kitchen Tools That Do Double Duty
+
+![](/src/content/blog/images/10.jpg)
 
 ## **The Bottom Line**
 
