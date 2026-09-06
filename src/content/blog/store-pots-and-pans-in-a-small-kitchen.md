@@ -115,6 +115,8 @@ Corner cabinets are notoriously wasted space, hard to reach and easy to lose thi
 
 What to get: a pull-out basket organizer sized to your specific cabinet. Measure carefully, since these mount to the cabinet floor and sides.
 
+![](/src/content/blog/images/kitchen-storage.jpg)
+
 ### **7. Add a Rolling Cart for Overflow**
 
 If you're simply out of built-in storage, a small rolling kitchen cart adds both extra workspace and a place to stash pots and pans underneath. The advantage over a fixed shelf is that you can roll it out of the way, into a pantry, closet, or corner, when you're not using it.
