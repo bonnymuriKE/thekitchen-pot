@@ -115,7 +115,7 @@ Corner cabinets are notoriously wasted space, hard to reach and easy to lose thi
 
 What to get: a pull-out basket organizer sized to your specific cabinet. Measure carefully, since these mount to the cabinet floor and sides.
 
-![](/src/content/blog/images/kitchen-storage.jpg)
+![Kitchen storage](/src/content/blog/images/kitchen-storage.jpg "Kitchen Organization ")
 
 ### **7. Add a Rolling Cart for Overflow**
 
