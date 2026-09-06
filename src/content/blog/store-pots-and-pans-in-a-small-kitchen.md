@@ -157,7 +157,7 @@ Even with the right organizers, a few habits can undo your progress fast:
 * How to Organize a One-Cabinet Kitchen?
 * Small Kitchen Tools That Do Double Duty
 
-![How to Store Pots and Pans in a Small Kitchen ](/src/content/blog/images/10.jpg "How to Store Pots and Pans in a Small Kitchen ")
+![How to Store Pots and Pans in a Small Kitchen ](/images/10.jpg "How to Store Pots and Pans in a Small Kitchen ")
 
 ## **The Bottom Line**
 
