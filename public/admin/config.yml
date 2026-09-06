@@ -151,8 +151,8 @@ collections:
     label_singular: "Article"
     preview_path: "/blog/{{slug}}/"
     folder: "src/content/blog"
-    media_folder: "images"
-    public_folder: "/src/content/blog/images"
+    media_folder: "/public/images/blog"
+    public_folder: "/images/blog"
     filter: { field: "source", value: "decap" }
     description: "New articles added via CMS"
     create: true
