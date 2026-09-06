@@ -72,6 +72,8 @@ collections:
           name: "image",
           widget: "image",
           required: false,
+          media_folder: "images",
+          public_folder: "images",
         }
       - { label: "Author Page Excerpt", name: "excerpt", widget: "text" }
       - { label: "Meta Description (SEO)", name: "description", widget: "text", required: true }
@@ -211,6 +213,8 @@ collections:
           required: true,
           hint: "Optimal size: 1200x630px",
           media_library: { config: { multiple: false } },
+          media_folder: "images",
+          public_folder: "images",
         }
       - {
           label: "Excerpt",
