@@ -42,6 +42,7 @@ faq:
       wall rails are best left to homeowners. Cabinet dividers, shelf risers,
       over-the-door racks, and rolling carts are all renter-friendly and leave
       no marks behind."
+smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
