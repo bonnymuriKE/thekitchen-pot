@@ -125,6 +125,8 @@ If you're simply out of built-in storage, a small rolling kitchen cart adds both
 
 What to get: a butcher block top rolling cart with an open shelf underneath. Store your heaviest pots on the bottom shelf for stability.
 
+![Kitchen ware](/images/blog/kitchen-wayre.jpg "Kitchenware")
+
 ### **8. Use Wall-Mounted Pegboard for Total Flexibility**
 
 A pegboard mounted on an open wall gives you completely customizable, moveable storage. Hooks for pans, small shelves for pots, and the ability to rearrange everything as your collection changes. It's a favorite of small-kitchen designers precisely because it adapts as your needs do.
