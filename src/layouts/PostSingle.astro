@@ -74,7 +74,7 @@ const articleSchema = {
     "url": Astro.request.url,
     headline: frontmatter.title,
     description: frontmatter.description,
-    image: frontmatter.image.src,
+    image: frontmatter.image,
     datePublished: frontmatter.pubDate,
     dateModified: currentDateInfo.dateTimeValue, // Use datetimevalue for dateModified
     author: {
@@ -169,14 +169,11 @@ const { tags } = frontmatter; // Assuming you're using frontmatter to get articl
     </header>
 
 {frontmatter.image && (
-  <Picture
+  <img
     src={frontmatter.image}
     alt={frontmatter.title}
-    height={frontmatter.image.height / 2}
-    width={frontmatter.image.width / 2}
-    
-    inferSize={true}
-    formats={['webp', 'avif']}
+    height="400"
+    width="800"
     loading="eager"
     class=" object-cover w-full rounded-lg mb-8 shadow-lg"
   />

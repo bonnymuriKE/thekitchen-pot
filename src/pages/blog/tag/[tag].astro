@@ -65,11 +65,10 @@ function formatDate(dateString: Date | undefined) {
                 <article class="bg-white rounded-xl overflow-hidden shadow-lg transform group-hover:scale-105 transition-all duration-300 h-full">
                   <div class="relative">
                    { post.data.image && (
-                   <Image
+                   <img
                       src={post.data.image || "/images/blog/default-cover.jpg"}
                       width={1200}
                       height={620}
-                      format='webp'
                       alt={post.data.title}
                       class="w-full h-48 object-cover"
                     />

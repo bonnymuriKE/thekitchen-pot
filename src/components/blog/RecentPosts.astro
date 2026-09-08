@@ -12,12 +12,11 @@ const { posts } = Astro.props;
     <li class="group">
       <a href={`/blog/${post.id}/`} class="flex gap-3 items-start">
         {post.data.image && (
-          <Image
-            src={post.data.image.src}
+          <img
+            src={post.data.image}
             alt={post.data.title}
             width={80}
             height={80}
-            format='webp'
             class="w-20 h-20 object-cover rounded-md group-hover:opacity-90 transition-opacity"
           />
         )}

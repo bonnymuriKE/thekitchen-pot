@@ -15,7 +15,7 @@ const { posts } = Astro.props;
             href={`/${post.slug}`}
             class="rounded-lg block hover:text-primary overflow-hidden group"
           >
-            <Image
+            <img
               class="group-hover:scale-[1.05] transition duration-300 w-full"
               src={post.data.image || "/images/blog/default-cover.jpg"}
               alt={post.data.title}

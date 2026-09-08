@@ -43,11 +43,10 @@ const totalPosts = page.total;
             <article class="bg-white shadow-md rounded-lg overflow-hidden hover:scale-[1.02] transition">
               {post.data.image && (
                 <div class="aspect-video overflow-hidden">
-                  <Image
+                  <img
                     src={post.data.image || "/images/blog/default-cover.jpg"}
-                    width={post.data.image.width}
-                    height={post.data.image.height}
-                    format="webp"
+                    width="800"
+                    height="450"
                     loading="eager"
                     alt={post.data.title}
                     class="w-full h-full object-cover"

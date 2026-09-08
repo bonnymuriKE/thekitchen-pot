@@ -12,7 +12,7 @@ import { glob, file } from "astro/loaders";
 // 3. Define your collection(s)
 const blog = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/blog" }),
-  schema: ({ image }) => z.object({
+  schema: () => z.object({
     title: z.string(),
     slug: z.string(),
     pubDate: z.date().default(today),
@@ -27,7 +27,7 @@ const blog = defineCollection({
     tags: z.array(z.string()),
     category: z.string(),
     seo: z.string().optional().default(description),
-    image: image().optional(),
+    image: z.string().optional(),
     faq: z.array(z.object({
       question: z.string(),
       answer: z.string(),

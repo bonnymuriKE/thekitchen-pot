@@ -20,7 +20,7 @@ const bakewarePosts: BlogPost[] = (await getCollection('blog'))
               <div class="flex gap-4 items-start p-3 hover:bg-slate-800/40 rounded-xl transition-all">
                 <div class="flex-shrink-0">
                   <img 
-                    src={post.data.image.src} 
+                    src={post.data.image} 
                     alt={post.data.title}
                     class="w-20 h-20 object-cover rounded-lg border border-slate-700"
                     width={80}

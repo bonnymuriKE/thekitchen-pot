@@ -58,13 +58,11 @@ const pageNumbers = Array.from(
         <div class="bg-white shadow-md rounded-lg overflow-hidden transition-transform hover:scale-[1.02] duration-200">
           {post.data.image && (
             <div class="aspect-video overflow-hidden">
-              <Image
-                src={post.data.image.src}
-                width={post.data.image.width / 2}
-                height={post.data.image.width / 2}
-                inferSize={true}
-                format='webp'
-                loading='eager'
+              <img
+                src={post.data.image}
+                width="800"
+                height="450"
+                loading="eager"
                 alt={post.data.title}
                 class="w-full h-full object-cover"
               />
