@@ -125,7 +125,7 @@ If you're simply out of built-in storage, a small rolling kitchen cart adds both
 
 What to get: a butcher block top rolling cart with an open shelf underneath. Store your heaviest pots on the bottom shelf for stability.
 
-![Kitchen ware](/images/blog/kitchen-wayre.jpg "Kitchenware")
+![Kitchen ware](blob:https://thekitchenpot.com/4cc14e5d-2379-461f-b444-28173ae8deff "Kitchenware")
 
 ### **8. Use Wall-Mounted Pegboard for Total Flexibility**
 
