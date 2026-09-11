@@ -70,7 +70,11 @@
   }
 
   .blog-content blockquote {
-    @apply border-l-4 border-teal-500 pl-4 italic my-4;
+    @apply border-l-4 border-teal-500 bg-gray-50 rounded-lg pl-5 pr-4 py-3 my-6 not-italic;
+  }
+
+  .blog-content blockquote p {
+    @apply mb-2 last:mb-0;
   }
 
   .blog-content pre {

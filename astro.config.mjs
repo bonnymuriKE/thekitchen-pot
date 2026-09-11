@@ -12,6 +12,7 @@ import {
 import react from "@astrojs/react";
 
 import rehypeStringify from 'rehype-stringify'
+import rehypeSlug from 'rehype-slug'
    function rehypeLinksNewTab() {
      return (tree) => {
        function visit(node) {
@@ -72,7 +73,7 @@ export default defineConfig({
   markdown: {
 
     remarkPlugins: [ ],
-    rehypePlugins: [rehypeLinksNewTab, rehypeStringify],
+    rehypePlugins: [rehypeSlug, rehypeLinksNewTab, rehypeStringify],
     shikiConfig: {
       // Choose from Shiki's built-in themes (or add your own)
       // https://shiki.style/themes
