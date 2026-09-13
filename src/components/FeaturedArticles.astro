@@ -31,9 +31,12 @@ const totalPages = Math.ceil(sortedPosts.length / postsPerPage);
 const paginatedPosts = sortedPosts.slice((currentPage - 1) * postsPerPage, currentPage * postsPerPage);
 
 
-// Get featured posts (taking the first 3 most recent posts)
-// Get featured posts (skipping first 2 and taking next 3 posts)
-const featuredPosts = sortedPosts.slice(4, 7);
+// Featured posts: prioritize Small-Space content first, filling any remaining
+// slots with other recent posts. As more small-space articles are published,
+// this section naturally becomes fully small-space-focused.
+const smallSpacePosts = sortedPosts.filter(post => post.data.smallSpacePillar);
+const otherPosts = sortedPosts.filter(post => !post.data.smallSpacePillar);
+const featuredPosts = [...smallSpacePosts, ...otherPosts].slice(0, 3);
 
 // Helper function to format date
 function formatDate(dateString: Date | undefined) {

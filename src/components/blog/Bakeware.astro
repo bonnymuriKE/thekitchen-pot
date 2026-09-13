@@ -7,7 +7,9 @@ import { Icon } from "astro-icon/components";
 // Fetch blog posts from the 'blog' collection with category 'Bakeware', sorted by date descending
 const blogPosts = await getCollection('blog', post => post.data.category === 'Bakeware');
 blogPosts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
-const featuredPost = blogPosts.length > 0 ? blogPosts[0] : null;
+// Prioritize posts specifically tagged for the Small-Space Bakeware pillar
+const smallSpaceBakewarePosts = blogPosts.filter(post => post.data.smallSpacePillar === 'small-space-bakeware');
+const featuredPost = smallSpaceBakewarePosts.length > 0 ? smallSpaceBakewarePosts[0] : (blogPosts.length > 0 ? blogPosts[0] : null);
 const otherPosts = blogPosts.length > 1 ? blogPosts.slice(2, 3) : [];
 ---
 

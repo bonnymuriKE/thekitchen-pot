@@ -12,21 +12,24 @@ const reasons = [
         description: "We factor in real footprint and storage needs, so you're not guessing whether it'll actually fit your space.",
         image: FitImg,
         icon: "mdi:ruler-square",
-        color: "purple"
+        color: "purple",
+        link: "/blog/tag/storage-organization/"
     },
     {
         title: "Quiet Enough for Roommates",
         description: "We flag noise complaints and reviews from real buyers, so loud appliances don't catch you off guard.",
         image: SilentImg,
         icon: "mdi:volume-low",
-        color: "cyan"
+        color: "cyan",
+        link: "/blog/category/small-appliances/"
     },
     {
         title: "Multipurpose or Bust",
         description: "If it can't do at least 3 jobs (looking at you, Instant Pot + yogurt maker + rice cooker), we won't waste your precious cabinet space.",
         image: MultipurposeImg,
         icon: "mdi:tools",
-        color: "teal"
+        color: "teal",
+        link: "/blog/category/small-appliances/"
     },
 ];
 ---
@@ -98,7 +101,7 @@ const reasons = [
               </p>
               
               <div class="mt-6 flex justify-end">
-                <a href="/contact-us/" class={`inline-flex items-center gap-1 text-${reason.color}-600 hover:text-${reason.color}-800 font-medium text-sm transition-colors duration-300 group-hover:translate-x-1`}>
+                <a href={reason.link} class={`inline-flex items-center gap-1 text-${reason.color}-600 hover:text-${reason.color}-800 font-medium text-sm transition-colors duration-300 group-hover:translate-x-1`}>
                   <span>Learn more</span>
                   <Icon name="mdi:arrow-right" class="w-4 h-4" />
                 </a>
