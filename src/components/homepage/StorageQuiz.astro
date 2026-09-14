@@ -4,31 +4,85 @@ import { Icon } from "astro-icon/components";
 const quizQuestions = [
   {
     id: 1,
-    question: "How do you currently store spices?",
+    question: "What's your biggest kitchen frustration right now?",
     options: [
-      { id: "a", text: "Jumbled in a drawer", score: 1 },
-      { id: "b", text: "Falling off the fridge", score: 2 },
-      { id: "c", text: "What are spices?", score: 3 }
+      { id: "a", text: "I can't fit all my pots, pans, and bakeware", pillar: "storage-organization" },
+      { id: "b", text: "I have way more cookware than I actually need", pillar: "cooking-for-one" },
+      { id: "c", text: "My baking pans never stack or fit right", pillar: "small-space-bakeware" },
+      { id: "d", text: "I want to grill but only have a balcony or patio", pillar: "balcony-patio-grilling" }
     ]
   },
   {
     id: 2,
-    question: "Your biggest kitchen storage challenge?",
+    question: "How many people do you usually cook for?",
     options: [
-      { id: "a", text: "Too many appliances", score: 3 },
-      { id: "b", text: "Limited cabinet space", score: 2 },
-      { id: "c", text: "Messy drawers", score: 1 }
+      { id: "a", text: "Just me, most nights", pillar: "cooking-for-one" },
+      { id: "b", text: "Me and one other person", pillar: "cooking-for-one" },
+      { id: "c", text: "A full household", pillar: "storage-organization" }
+    ]
+  },
+  {
+    id: 3,
+    question: "What's cluttering your cabinets the most?",
+    options: [
+      { id: "a", text: "Bakeware, muffin tins, and baking sheets", pillar: "small-space-bakeware" },
+      { id: "b", text: "Pots, pans, and lids everywhere", pillar: "storage-organization" },
+      { id: "c", text: "Small appliances I rarely use", pillar: "eco-friendly-appliances" }
+    ]
+  },
+  {
+    id: 4,
+    question: "Do you have any outdoor cooking space?",
+    options: [
+      { id: "a", text: "Yes, a balcony or small patio", pillar: "balcony-patio-grilling" },
+      { id: "b", text: "No outdoor space at all", pillar: "storage-organization" }
+    ]
+  },
+  {
+    id: 5,
+    question: "What matters most when you're buying something new for the kitchen?",
+    options: [
+      { id: "a", text: "Saving energy and reducing waste", pillar: "eco-friendly-appliances" },
+      { id: "b", text: "Saving space, above all else", pillar: "storage-organization" },
+      { id: "c", text: "It has to do more than one job", pillar: "cooking-for-one" }
     ]
   }
-  // Add more questions as needed
 ];
+
+const pillarInfo = {
+  "storage-organization": {
+    label: "Storage & Organization",
+    description: "Your priority is fitting everything you already own into the space you have.",
+    link: "/blog/tag/storage-organization/"
+  },
+  "cooking-for-one": {
+    label: "Cooking for One (or Two)",
+    description: "You don't need a full kitchen's worth of gear, just the right pieces for how you actually cook.",
+    link: "/blog/tag/cooking-for-one/"
+  },
+  "eco-friendly-appliances": {
+    label: "Eco-Friendly Appliances",
+    description: "You care about energy use and waste as much as space, we've got picks for that.",
+    link: "/blog/tag/eco-friendly-appliances/"
+  },
+  "small-space-bakeware": {
+    label: "Small-Space Bakeware",
+    description: "Baking pans are your specific cabinet nightmare, we have a whole guide just for this.",
+    link: "/blog/tag/small-space-bakeware/"
+  },
+  "balcony-patio-grilling": {
+    label: "Balcony & Patio Grilling",
+    description: "You want to grill without a backyard, here's how to do it well in a small outdoor space.",
+    link: "/blog/tag/balcony-patio-grilling/"
+  }
+};
 ---
 
 <section class="py-16 bg-background">
   <div class="container mx-auto px-4">
     <div class="max-w-2xl mx-auto text-center">
-      <h2 class="text-3xl font-bold mb-6 text-accent">What's Your Storage Personality?</h2>
-      <p class="text-muted-foreground mb-8">Take our 30-second quiz to get personalized solutions</p>
+      <h2 class="text-3xl font-bold mb-6 text-accent">Find Your Small-Space Kitchen Focus</h2>
+      <p class="text-muted-foreground mb-8">Answer 5 quick questions and we'll point you to the guides most useful for your kitchen</p>
 
       <div class="bg-card p-8 rounded-xl shadow-sm" id="quiz-container">
         <div class="mb-6">
@@ -45,22 +99,23 @@ const quizQuestions = [
       </div>
 
       <div id="results" class="hidden mt-8 p-6 bg-primary/10 rounded-xl">
-        <h3 class="text-xl font-bold mb-4 text-primary">Your Storage Personality:</h3>
-        <p class="text-accent mb-4 result-text"></p>
-        <a href="/blog/tag/storage-organization/" class="inline-block bg-primary text-white px-6 py-3 rounded-lg hover:bg-primary/90 transition-colors">
-          View Recommended Solutions
+        <h3 class="text-xl font-bold mb-2 text-primary">Your Focus: <span class="result-label"></span></h3>
+        <p class="text-accent mb-4 result-description"></p>
+        <a href="#" class="result-link inline-block bg-primary text-white px-6 py-3 rounded-lg hover:bg-primary/90 transition-colors">
+          See Guides for This
         </a>
       </div>
     </div>
   </div>
 </section>
 
-<script define:vars={{ quizQuestions }}>
+<script define:vars={{ quizQuestions, pillarInfo }}>
   class QuizManager {
-    constructor(questions) {
+    constructor(questions, pillarInfo) {
       this.currentQuestion = 0;
-      this.score = 0;
+      this.pillarCounts = {};
       this.questions = questions;
+      this.pillarInfo = pillarInfo;
       this.container = document.getElementById('quiz-container');
       this.resultsDiv = document.getElementById('results');
       this.initQuiz();
@@ -84,14 +139,14 @@ const quizQuestions = [
           const button = document.createElement('button');
           button.className = 'w-full p-4 bg-card border rounded-lg hover:border-primary hover:bg-primary/5 transition-colors text-left';
           button.textContent = `➔ ${option.text}`;
-          button.addEventListener('click', () => this.handleAnswer(option.score));
+          button.addEventListener('click', () => this.handleAnswer(option.pillar));
           optionsContainer.appendChild(button);
         });
       }
     }
 
-    handleAnswer(score) {
-      this.score += score;
+    handleAnswer(pillar) {
+      this.pillarCounts[pillar] = (this.pillarCounts[pillar] || 0) + 1;
       this.currentQuestion++;
 
       if (this.currentQuestion < this.questions.length) {
@@ -107,8 +162,9 @@ const quizQuestions = [
       const progressBar = this.container.querySelector('.progress-bar');
 
       if (progressText && progressBar) {
-        progressText.textContent = `Question ${this.currentQuestion + 1} of ${this.questions.length}`;
-        const progress = ((this.currentQuestion + 1) / this.questions.length) * 100;
+        const shown = Math.min(this.currentQuestion + 1, this.questions.length);
+        progressText.textContent = `Question ${shown} of ${this.questions.length}`;
+        const progress = (shown / this.questions.length) * 100;
         progressBar.style.width = `${progress}%`;
       }
     }
@@ -117,26 +173,30 @@ const quizQuestions = [
       this.container.classList.add('hidden');
       this.resultsDiv.classList.remove('hidden');
 
-      const resultText = this.resultsDiv.querySelector('.result-text');
-      const averageScore = this.score / this.questions.length;
-
-      let personality = '';
-      if (averageScore <= 1.5) {
-        personality = "The Minimalist Organizer";
-      } else if (averageScore <= 2.5) {
-        personality = "The Practical Stacker";
-      } else {
-        personality = "The Creative Space-Maker";
+      // Find the pillar with the most votes
+      let topPillar = null;
+      let topCount = -1;
+      for (const [pillar, count] of Object.entries(this.pillarCounts)) {
+        if (count > topCount) {
+          topCount = count;
+          topPillar = pillar;
+        }
       }
 
-      if (resultText) {
-        resultText.textContent = personality;
+      const info = this.pillarInfo[topPillar];
+      const resultLabel = this.resultsDiv.querySelector('.result-label');
+      const resultDescription = this.resultsDiv.querySelector('.result-description');
+      const resultLink = this.resultsDiv.querySelector('.result-link');
+
+      if (info && resultLabel && resultDescription && resultLink) {
+        resultLabel.textContent = info.label;
+        resultDescription.textContent = info.description;
+        resultLink.href = info.link;
       }
     }
   }
 
-  // Initialize quiz when the page loads
   document.addEventListener('DOMContentLoaded', () => {
-    new QuizManager(quizQuestions);
+    new QuizManager(quizQuestions, pillarInfo);
   });
 </script>
