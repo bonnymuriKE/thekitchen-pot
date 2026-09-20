@@ -3,51 +3,17 @@
 import Layout from '@/layouts/Layout.astro';
 import InnovationHero from '@/components/About/InnovationHero.astro';
 import PhilosophyCard from '@/components/About/PhilosophyCard.astro';
-import InnovationTimeline from '@/components/About/InnovationTimeline.astro';
-import TrustBadge from '@/components/About/TrustBadge.astro';
 import ChefShowcase from '@/components/About/ChefShowcase.astro';
 
 import heroImage from "@/data/assets/images/quitest-kitchen-appliances.jpg";
 import founderImg from "@/data/assets/images/tiny-kitchen-will-this-fit.jpg";
 import IconCard from '@/components/About/IconCard.astro';
 
-const timelineItems = [
-  {
-    year: "2015",
-    title: "Founding Flame",
-    description: "Born from a burned grilled cheese in a 42 sq.ft NYC kitchenette. Our first prototype - a collapsible spice rack - goes viral on Reddit.",
-    icon: "mdi:chef-hat"
-  },
-  {
-    year: "2017",
-    title: "Space-Smart Launch",
-    description: "Released our first curated collection - 15 apartment-approved tools that fit in shoebox-sized kitchens. Featured in Apartment Therapy.",
-    icon: "mdi:tools"
-  },
-  {
-    year: "2020",
-    title: "Pandemic Pivot",
-    description: "Created the Tiny Kitchen Survival Kit, helping 50,000+ lockdown cooks maximize their small spaces. Partnered with IKEA for space-efficient designs.",
-    icon: "mdi:virus"
-  },
-  {
-    year: "2022",
-    title: "Award-Winning Innovation",
-    description: "Won Good Design Award for our Stack & Steam cookware system. Reached 1 million newsletter subscribers.",
-    icon: "mdi:trophy"
-  },
-  {
-    year: "2025",
-    title: "Future Vision",
-    description: "Launching smart kitchen sensors that analyze space usage in real-time. Expanding to 10 new countries.",
-    icon: "mdi:rocket"
-  }
-];
 // Sample Chef Data
 const chefData = {
   name: "Boniface Muriuki",
-  role: "Founder & Chief Space Optimizer",
-  bio: "Le Cordon Bleu-trained chef turned small-space evangelist. Creator of the Space Efficiency Ratio™ used by appliance manufacturers worldwide. When not testing 10th-generation colanders, he's teaching micro-meal prep classes at community centers.",
+  role: "Founder & Editor",
+  bio: "Passionate about helping small-space cooks make the most of limited square footage. Boniface founded The Kitchen Pot after one too many kitchen items that never should have made it past the front door of a small apartment.",
   image: founderImg,
   specialties: [
     "Vertical Cooking Systems",
@@ -61,37 +27,23 @@ const chefData = {
     { platform: "linkedin" as const, url: "https://linkedin.com/in/bonifacem" }
   ]
 };
-
-const monthYear = new Date().toLocaleString('default', { month: 'long', year: 'numeric' });
 ---
 
-<Layout title={`About | The Kitchen Pot | ${monthYear}`} description="The Kitchen Pot is reimagining small space cooking for tiny homes." robots="index, follow">
+<Layout title="About | The Kitchen Pot" description="Kitchen gear that respects your square footage. Real advice for small kitchens, apartments, and studios." robots="index, follow">
 
 <InnovationHero
-  title="Reimagining Small Space Cooking"
-  subtitle="Where every inch inspires culinary magic"
+  title="Kitchen Gear That Respects Your Square Footage"
+  subtitle="Real advice for small kitchens, apartments, and studios, not generic 'best of' lists"
   imageSrc={heroImage}
 />
 
 <IconCard
   title="The Kitchen Pot"
-  content="Reimagining small space cooking for tiny homes"
+  content="Most kitchen advice assumes you have unlimited cabinet space. We write for the rest of us: apartments, studios, and small kitchens where every inch matters. We're upfront about our process, some reviews are based on genuine hands-on testing, others are carefully researched buying guides, and we label which is which so you always know what you're getting."
   icon="mdi:chef-hat"
   layoutStyle="iconTop"
 
 />
-
-<InnovationTimeline items={timelineItems} />
-
-<div class="grid md:grid-cols-3 gap-8 container mx-auto px-4 py-16">
-  <TrustBadge
-    title="Happy Cooks"
-    value="238K+"
-    description="Tiny Kitchen Warriors"
-    icon="mdi:chef-hat"
-  />
-  {/* Add more TrustBadges */}
-</div>
 
 <div class="container mx-auto px-4 py-12">
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10">
