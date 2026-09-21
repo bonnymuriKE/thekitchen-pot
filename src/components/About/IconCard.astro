@@ -5,11 +5,10 @@ interface Props {
   title: string;
   icon: string;
   content: string;
-  accentColor?: string;
   layoutStyle?: 'iconTop' | 'iconLeft' | 'iconRight' | 'iconBottom' | 'iconCenter' | 'iconCenterTop' | 'iconCenterBottom' | 'iconCenterLeft' | 'iconCenterRight' | 'noIcon' | 'default';
 }
 
-const { title, icon, layoutStyle = "iconTop", content, accentColor = 'orange' } = Astro.props;
+const { title, icon, layoutStyle = "iconTop", content } = Astro.props;
 
 const iconPositions = {
   iconTop: 'top-0 left-1/2 -translate-x-1/2 -translate-y-1/2',
@@ -27,17 +26,17 @@ const iconPositions = {
 <section>
 
 <div
-  class={`relative container p-10 sm:p-12 max-w-prose mx-auto
+  class="relative container p-10 sm:p-12 max-w-prose mx-auto
           rounded-[2.5rem] shadow-2xl border-8
           transform hover:-translate-y-2 transition-all duration-300
-          border-teal-100/30 bg-gradient-to-tl from-teal-600/30 via-teal-200/60 to-gray-200/20`}
+          border-teal-100/30 bg-gradient-to-tl from-teal-600/30 via-teal-200/60 to-gray-200/20"
 >
   {layoutStyle !== 'noIcon' && (
     <div
       class={`absolute flex-shrink-0 w-20 h-20 bg-gradient-to-bl from-orange-600/90 via-orange-600/80 to-orange-600/90
               rounded-full flex items-center justify-center shadow-xl
               transform hover:scale-110 transition-all duration-300 hover:rotate-3
-              ring-4 ring-${accentColor}-200/50 backdrop-blur-sm
+              ring-4 ring-orange-200/50 backdrop-blur-sm
               ${iconPositions[layoutStyle]}`}
     >
       <Icon name={icon} class="w-10 h-10 text-gray-100" />
@@ -68,18 +67,6 @@ const iconPositions = {
   @container (min-width: 400px) {
     section {
       padding: 3rem;
-    }
-  }
-</style>
-
-<style>
-  section {
-    container-type: inline-size;
-  }
-
-  @container (min-width: 400px) {
-    section {
-      padding: 2.5rem;
     }
   }
 </style>
