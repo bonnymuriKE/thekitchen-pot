@@ -1,35 +1,24 @@
 ---
 import { Image, Picture } from 'astro:assets';
 import featureImg from "@/assets/images/feature-image.png";
-import { getCollection } from 'astro:content';
-import type { BlogPost } from '@/types/blog';
 
 interface Props {
    featureImage?: string;
    headline?: string;
    attention?: string;
    interest?: string;
-   desire?: string;
    ctaText?: string;
    ctaLink?: string;
 }
 
 const {
-  headline = "Big Ideas in Tiny Kitchens",
-  attention = "Struggling to bake your dreams in a pint-sized kitchen?",
-  interest = "Imagine having every baking essential at your fingertips...",
-  desire = "Expertly curated cookware reviews...",
-  ctaText = "Explore Space-Saving Kitchenware",
-  ctaLink = "/blog/tag/small-space-bakeware/",
+  headline = "Big Ideas for Small Kitchens",
+  attention = "A small kitchen doesn't mean smaller results.",
+  interest = "Whether you're short on storage, cooking for one, watching your energy use, working around a tiny oven, or grilling on a balcony, we write guides for that exact situation, not generic advice built for someone else's kitchen.",
+  ctaText = "See What's Bothering You Most",
+  ctaLink = "#tiny-kitchen-problems",
   featureImage = featureImg.src,
 } = Astro.props;
-
-// Feature small-space-bakeware pillar posts here, since this section's
-// default copy and CTA are about space-saving bakeware specifically.
-const bakewarePosts: BlogPost[] = (await getCollection('blog'))
-  .filter(post => post.data.smallSpacePillar === 'small-space-bakeware')
-  .sort((a, b) => new Date(b.data.pubDate || '').getTime() - new Date(a.data.pubDate || '').getTime())
-  .slice(0, 3);
 ---
 
 <section class="hero-section mx-auto min-h-screen relative overflow-hidden bg-gradient-to-b from-slate-900 to-slate-800 text-white">
@@ -37,24 +26,24 @@ const bakewarePosts: BlogPost[] = (await getCollection('blog'))
   <div class="absolute inset-0 opacity-10">
     <div class="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMC40Ij48cGF0aCBkPSJNMzYgMzRjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIvPjwvZz48L2c+PC9zdmc+')] bg-repeat"></div>
   </div>
-  
+
   <!-- Gradient overlay -->
   <div class="absolute inset-0 bg-gradient-to-r from-purple-900/20 to-cyan-900/20"></div>
-  
+
   <div class="container mx-auto px-4 py-16 md:py-24 relative z-10">
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 items-center">
       <!-- Left content -->
       <div class="space-y-8 mr-4">
         <div class="inline-block justify-center items-center">
           <span class="bg-gradient-to-r from-purple-500 to-cyan-400 px-4 py-1 rounded-full text-sm font-medium tracking-wider">
-            SPACE-SAVING SOLUTIONS
+            SMALL-SPACE KITCHENS
           </span>
         </div>
-        
+
         <h1 class="text-4xl md:text-4xl lg:text-4xl font-bold leading-tight bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent">
           {headline}
         </h1>
-        
+
         <div class="space-y-6">
           <div class="flex items-start">
             <div class="h-10 w-1 bg-gradient-to-b from-purple-500 to-cyan-400 rounded-full mr-4 mt-1"></div>
@@ -62,18 +51,12 @@ const bakewarePosts: BlogPost[] = (await getCollection('blog'))
               {attention}
             </p>
           </div>
-          
+
           <p class="text-lg text-slate-300 leading-relaxed">
             {interest}
           </p>
-          
-          <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-xl p-6 shadow-lg">
-            <p class="text-lg text-slate-200 leading-relaxed">
-              {desire}
-            </p>
-          </div>
         </div>
-        
+
         <div class="flex flex-col sm:flex-row gap-4 pt-4">
           <a href={ctaLink} class="inline-flex items-center justify-center px-8 py-4 rounded-lg bg-gradient-to-r from-purple-600 to-cyan-500 text-white font-medium text-lg transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/25 focus:ring-4 focus:ring-purple-500/30 focus:outline-none">
             {ctaText}
@@ -81,25 +64,25 @@ const bakewarePosts: BlogPost[] = (await getCollection('blog'))
               <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
             </svg>
           </a>
-          
-          <a href="/blog/" class="inline-flex items-center justify-center px-8 py-4 rounded-lg border border-white/20 bg-white/5 backdrop-blur-sm text-white font-medium text-lg transition-all duration-300 hover:bg-white/10">
-            Learn More
+
+          <a href="/about/" class="inline-flex items-center justify-center px-8 py-4 rounded-lg border border-white/20 bg-white/5 backdrop-blur-sm text-white font-medium text-lg transition-all duration-300 hover:bg-white/10">
+            About This Site
           </a>
         </div>
       </div>
-      
+
       <!-- Right content -->
       <div class="relative">
         <!-- Decorative elements -->
         <div class="absolute -top-10 -right-10 w-40 h-40 bg-purple-500/20 rounded-full blur-3xl"></div>
         <div class="absolute -bottom-10 -left-10 w-40 h-40 bg-cyan-500/20 rounded-full blur-3xl"></div>
-        
+
         <!-- Image container -->
         <div class="relative z-10 rounded-2xl overflow-hidden border border-white/10 shadow-2xl shadow-purple-500/10">
           <div class="absolute inset-0 bg-gradient-to-tr from-purple-500/20 to-cyan-500/20 mix-blend-overlay"></div>
           <Picture
             src={featureImg}
-            alt="Space-saving bakeware in tiny kitchen"
+            alt="Small kitchen setup"
             class="w-full h-auto object-cover aspect-[4/3]"
             formats={['webp', 'avif']}
             fetchpriority={'high'}
@@ -110,46 +93,5 @@ const bakewarePosts: BlogPost[] = (await getCollection('blog'))
         </div>
       </div>
     </div>
-    
-    <!-- Featured posts -->
-    {bakewarePosts.length > 0 && (
-      <div class="mt-24" id="learn-more">
-        <div class="flex items-center justify-between mb-8">
-          <h2 class="text-2xl font-bold">Featured Articles</h2>
-          <a href="/blog/tag/small-space-bakeware/" class="text-cyan-400 hover:text-cyan-300 flex items-center gap-1 transition-colors">
-            View all
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
-              <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
-            </svg>
-          </a>
-        </div>
-        
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-          {bakewarePosts.map((post) => (
-            <a href={`/blog/${post.id}/`} class="group">
-              <div class="h-full bg-white/5 backdrop-blur-sm border border-white/10 rounded-xl overflow-hidden transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/10 hover:border-white/20">
-                {post.data.image && (
-                  <div class="h-48 overflow-hidden">
-                    <img 
-                      src={post.data.image} 
-                      alt={post.data.title}
-                      class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                    />
-                  </div>
-                )}
-                <div class="p-6">
-                  <h3 class="font-bold text-lg mb-2 group-hover:text-cyan-300 transition-colors">
-                    {post.data.title}
-                  </h3>
-                  <p class="text-sm text-slate-400">
-                    {post.data.description}
-                  </p>
-                </div>
-              </div>
-            </a>
-          ))}
-        </div>
-      </div>
-    )}
   </div>
 </section>
