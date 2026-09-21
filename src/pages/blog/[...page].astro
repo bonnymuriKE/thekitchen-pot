@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import Layout from '@/layouts/Layout.astro';
 import Sidebar from '@/components/blog/Sidebar.astro';
 import { Image } from 'astro:assets';
+import { getCoverImage } from '@/lib/utils/postImage';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('blog');
@@ -58,7 +59,7 @@ const pageNumbers = Array.from(
         <div class="bg-white shadow-md rounded-lg overflow-hidden transition-transform hover:scale-[1.02] duration-200">
           <div class="aspect-video overflow-hidden">
             <img
-              src={post.data.image || "/images/blog/default-cover.jpg"}
+              src={getCoverImage(post.data.image, post.data.category)}
               width="800"
               height="450"
               loading="eager"
