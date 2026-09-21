@@ -1,0 +1,52 @@
+---
+// src/components/About/MissionSection.astro
+import { Icon } from 'astro-icon/components';
+---
+<section class="relative py-24 overflow-hidden bg-gradient-to-b from-white via-orange-50/60 to-white">
+  {/* Decorative blobs */}
+  <div class="absolute -top-24 -left-24 w-96 h-96 bg-orange-100 rounded-full mix-blend-multiply opacity-40 blur-2xl"></div>
+  <div class="absolute -bottom-24 -right-24 w-96 h-96 bg-amber-100 rounded-full mix-blend-multiply opacity-40 blur-2xl"></div>
+
+  <div class="relative container mx-auto px-4 max-w-5xl">
+    <div class="grid lg:grid-cols-[auto,1fr] gap-8 lg:gap-12 items-start">
+      <Icon name="mdi:format-quote-open" class="w-16 h-16 lg:w-24 lg:h-24 text-orange-300 flex-shrink-0 -mt-4" />
+
+      <div class="space-y-8">
+        <p class="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 leading-tight">
+          Most kitchen advice assumes you have unlimited cabinet space.
+          <span class="text-orange-600">We write for the rest of us.</span>
+        </p>
+
+        <p class="text-lg md:text-xl text-gray-600 leading-relaxed max-w-3xl">
+          Apartments, studios, and small kitchens where every inch matters, not generic "best of" lists built for someone else's pantry.
+        </p>
+
+        <div class="grid sm:grid-cols-2 gap-4 pt-4 max-w-2xl">
+          <div class="flex items-start gap-4 bg-white rounded-2xl p-5 shadow-md border border-orange-100">
+            <div class="w-11 h-11 rounded-xl bg-orange-600 flex items-center justify-center flex-shrink-0">
+              <Icon name="mdi:hand-back-right" class="w-6 h-6 text-white" />
+            </div>
+            <div>
+              <p class="font-bold text-gray-900">Hands-On Tested</p>
+              <p class="text-sm text-gray-600">We bought it, used it in a real small kitchen, and tell you what actually happened.</p>
+            </div>
+          </div>
+
+          <div class="flex items-start gap-4 bg-white rounded-2xl p-5 shadow-md border border-orange-100">
+            <div class="w-11 h-11 rounded-xl bg-orange-600 flex items-center justify-center flex-shrink-0">
+              <Icon name="mdi:magnify" class="w-6 h-6 text-white" />
+            </div>
+            <div>
+              <p class="font-bold text-gray-900">Researched Guide</p>
+              <p class="text-sm text-gray-600">Carefully compared specs, reviews, and real owner feedback when hands-on testing isn't possible.</p>
+            </div>
+          </div>
+        </div>
+
+        <p class="text-sm text-gray-500 italic pt-2">
+          We always tell you which is which, so you know exactly what you're getting.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
