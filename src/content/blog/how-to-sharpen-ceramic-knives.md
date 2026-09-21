@@ -22,12 +22,7 @@ description: "Are you wondering how to sharpen ceramic knives? Learn the safe, e
 seo: How to sharpen ceramic knives? While ceramic knives are sharp and conducive
   when cutting and dicing, their sharpening process can be a hassle. Here is
   what you need to know about it.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Using the best ceramic knife is all fun until it is blunt. Unlike stainless steel knives, sharpening a ceramic knife is an art. 
 

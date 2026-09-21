@@ -25,12 +25,7 @@ description: "Are you a fan of delicious Sushi? These best sushi kits include pr
 seo: If you lover sushi, spending a few bucks on the best sushi making kit is
   the best investment you can ever make. It saves you the cost of eating at a
   restaurant and offer unmatched convenience.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you’re a sushi lover, you’ll opine that those frequent trips to your favorite restaurant are expensive and time-consuming. Why spend all the money when you can make your sushi using the best sushi making kit?
 

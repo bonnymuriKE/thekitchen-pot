@@ -23,12 +23,7 @@ description: "Steamy, fluffy, and fool proof! Learn how to use an Oster rice coo
 seo: How to use an oster rice cooker? This guide will offer you insightful tips
   on how you can use the appliance to cook rice and steam vegetables. Read on
   for more.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Did you know that approximately 3.5 billion people globally depend on rice for an estimated 20% of their daily calorie needs? 
 

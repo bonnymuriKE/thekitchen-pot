@@ -23,12 +23,7 @@ description: "Why your eggs stick? You're cleaning ceramic pans wrong! The right
 seo: Having adequate knowledge on how to clean ceramic pan ensures that you care
   for your cookware, thus guaranteeing longevity. This guide offers unique tips
   that actually work!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 For how long have you heard about [ceramic cookware](https://thekitchenpot.com/blog/best-ceramic-cookware-set/)? If you believe that these ceramic appliances are recent, then you’re in for a shock!
 

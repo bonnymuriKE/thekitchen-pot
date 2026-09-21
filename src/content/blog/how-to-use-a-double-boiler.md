@@ -23,12 +23,7 @@ description: "What is a double boiler & how does it work? Simple steps to use on
 seo: Wondering how to use a double boiler? Well, this kitchen appliance is
   helpful when cooking food items that require slow cooking under low
   temperature. Here's everything you need to know.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Have you ever tried melting chocolate over high heat? Well, this will almost always end up in disappointment. Your chocolate is likely to become a lump!
 

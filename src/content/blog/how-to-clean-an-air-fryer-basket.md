@@ -23,12 +23,7 @@ description: "Why your air fryer smokes? Burnt residue! Our step-by-step deep cl
 seo: How to clean an air fryer basket? Well, that's a common quagmire among
   kitchen enthusiasts. If you're in such a situation, we'll make your cleaning
   process a breeze!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 You recently bought an air fryer. You love everything about it! Yes, you can cook fast and and your family is happy about your well-dried fries, right? But there is a problem! How to clean an air fryer basket has been the biggest headache since you bought your air fryer.
 

@@ -23,12 +23,7 @@ description: "Tired of messy pots & pans? 3 genius organizing hacks to declutter
 seo: "Wondering how to organize pots and pans in your kitchen? Well, there are
   several proven techniques you can use to achieve an orderly kitchen. They
   include:"
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Are you struggling with a cluttered kitchen? If so, then this article is for you. Storing pans of different sizes and shapes can be tough. It becomes even more frustrating when you cannot spot your favorite cookware when you need it most! 
 

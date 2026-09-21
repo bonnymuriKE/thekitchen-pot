@@ -23,12 +23,7 @@ description: "How Does a Meat Tenderizer Work? We break it down—and share 10 B
 seo: How does a meat tenderizer work? Well, there are many types of meat
   tenderizers in market today. This article highlights the working rationale of
   each. Read on for the details.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 There is nothing as frustrating as encountering a chewy chunk of meat when enjoying your meal. It not only takes away your appetite but raises the chances of choking!
 

@@ -24,12 +24,7 @@ description: "Are you tired of recipe math? Learn exactly how many ounces are in
 seo: How many ounces in a quart? What about ounces in a gallon? This
   comprehensive guide offers all metric conversion guidelines to make cooking
   easy for you.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Cooking is all fun until you start encountering unfamiliar measuring units. For example, how many tablespoons in 1/3 cup? How many ounces in a quart? If you’ve yourself in the units conversion dilemma, then we’ve got your back!
 

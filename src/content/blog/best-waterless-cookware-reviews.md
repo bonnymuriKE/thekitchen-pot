@@ -23,12 +23,7 @@ description: "If you’re a health-conscious chef, you’ll love these best wate
 seo: Waterless cooking is a healthy cooking option that allow you to cook your
   meals without oil and water. However, you must have the best waterless
   cookware to achieve this. Here's a complete guide.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Have you ever heard of waterless cooking (also called waterfree cooking)? Well, this is a unique cooking technique that enables you to use little or no water when cooking your meals.
 

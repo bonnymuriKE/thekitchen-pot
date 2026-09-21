@@ -24,12 +24,7 @@ description: "Dreaming of a sleek kitchen? The best white undermount blends seam
 seo: Are you looking for the best white undermount kitchen sink? Well, these
   sinks are easy to clean and maintain. They are the best bet if you are
   remodelling your kitchen.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Are you thinking about **[remodeling your kitchen](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy/)**? If so, you’re probably thinking about changing out the sink as well. If you want value for money, consider buying the best white undermount kitchen sink for your remodel.
 

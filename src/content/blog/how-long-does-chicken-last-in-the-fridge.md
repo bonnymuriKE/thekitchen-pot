@@ -23,12 +23,7 @@ description: "How Long Does Chicken Last in the Fridge? Stop guessing—learn ex
 seo: How long does chicken last in the fridge? Well, answering this question
   helps you to get rid of possible health hazards associated with eating bad
   food. Read on for comprehensive guidelines.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 When **[buying a fridge](https://thekitchenpot.com/blog/best-side-by-side-refrigerator/)**, you hope to reduce your visits to the market, right? But did you know that refrigerating food for longer than the recommended time can be a [health hazard](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)? 
 

@@ -23,12 +23,7 @@ description: "Upgrading your cookware? Our Cuisinart MCP-12n Multiclad Pro Stain
 seo: Cuisinart MCP-12n Multiclad pro stainless steel 12-piece cookware set has a
   unique mirror finish and an irresistible stylish design. But is the
   functionality good? Find out here.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Cuisinart MCP-12n Multiclad Pro Stainless Steel 12-Piece Cookware Set is one of the most polished cookware you can add to your kitchen arsenal. The set epitomizes excellence, efficacy, and elegance – a combo that’ll bring phenomenal transformation to your cooking escapades. 
 

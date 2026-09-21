@@ -24,12 +24,7 @@ description: "Learn how to use a Nuwave oven like a seasoned chef. These 5 incre
 seo: Wondering how to use a nuwave oven? This article details everything you
   need to know before buying this appliance. Read on for comprehensive Nuwave
   Oven analysis.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 I love cooking and, like any other chef, I am always on the lookout for [appliances that can make the exercise fun](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy/). 
 

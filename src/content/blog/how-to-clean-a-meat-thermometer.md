@@ -24,12 +24,7 @@ description: "Why your meat thermometer gives false readings? Food gunk alters a
 seo: Wondering how to clean a meat thermometer? Is it necessary? This article
   offers an all-inclusive guide on meat thermometer hygiene. Read on for unique
   tips.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you love BBQ, you probably use a **[meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking/)** to ensure that you get perfect doneness every time you grill or **[smoke meat](https://thekitchenpot.com/blog/best-offset-smoker-for-beginners/)**.
 

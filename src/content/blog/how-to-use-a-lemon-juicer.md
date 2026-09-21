@@ -24,12 +24,7 @@ description: "Get every drop of lemon juice using these tested and proven juicin
 seo: If you're wondering how to use a lemon juicer perfectly, then this guide
   offers you unmatched tips that'll revolutionize your juicing experience. Read
   on!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Whether you’re making a sour or sweet lemon dessert, a citrus salad dressing, or preparing a fresh batch of lemonade, the chances are that you’ll be using a handheld lemon squeezer. However, how to use a lemon juicer perfectly is a constantly pain for many cooks!
 

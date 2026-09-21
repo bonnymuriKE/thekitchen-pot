@@ -22,12 +22,7 @@ authorImageAlt: kitchenpot1
 description: "Is Blue Diamond cookware worth it? Our hands-on review tests its diamond-infused non-stick, oven safety & durability. Is it the holy grail of non-stick? Find out inside."
 seo: This Blue Diamond Cookware review highlights its pros and cons to help you
   make an informed decision. Is the set worthwhile? Find out here.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Owning an elegant and efficient cookware set is a dream of every cooking enthusiast. It gives unmatched satisfaction and creates an insatiable urge to test different recipes.
 

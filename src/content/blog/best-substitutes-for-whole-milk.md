@@ -25,12 +25,7 @@ description: "Out of whole milk? These genius substitutes work perfectly in baki
 seo: Looking for the best substitutes for whole milk? This article details both
   dairy and non-dairy options that you can consider. Read on for insightful
   tips.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Whole milk is an essential ingredient for baking and cooking. However, you shouldn’t freak out when you realize that you’ve run out of it in the middle of preparing a meal. You can always use substitutes for whole milk without compromising the taste of your meal. 
 

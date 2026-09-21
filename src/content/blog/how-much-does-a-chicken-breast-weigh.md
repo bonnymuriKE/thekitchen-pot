@@ -24,12 +24,7 @@ description: "Recipes calling for '1 chicken breast'? The shocking weight variat
 seo: How much does a chicken breast weigh? This is a common worry for chefs and
   cooks. If you've found yourself in such a quagmire, then this article answers
   all your questions on weighing chicken breasts
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Knowing the weight of your chicken breast is an absolute necessity if you value serving even food rations. It helps you ensure that you’re taking the recommended chicken portions, thus facilitating healthy eating.
 

@@ -24,12 +24,7 @@ description: "Is your cream cheese going bad often? Freeze it right with these p
 seo: Can you freeze cream cheese? Is it safe? This article offers 2 of the
   safest methods to use when freezing your cheese. Read on to learn the do's and
   the dont's of the process.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 You’re set to try out a recipe with cream cheese as a primary ingredient. And, you buy the cream cheese ready to prepare a tasty meal.
 

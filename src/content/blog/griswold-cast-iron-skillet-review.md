@@ -24,12 +24,7 @@ description: "Vintage cast iron fan? Our Griswold skillet review tests its legen
 seo: Why is Griswold cast iron skillet so expensive? Is It worth it? Let's look
   at their history, features, and usability. Here's an all-inclusive Griswold
   cast iron skillet review.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Why is the Griswold cast iron skillet so expensive? Why is it among the most sought after royal skillets, yet the company closed more than 65 years ago?
 

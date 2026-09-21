@@ -23,12 +23,7 @@ authorImageAlt: kitchenpot1
 description: "Is Circulon Premier Professional worth it? We tested its hard-anodized pots for oven safety, even heat distribution, nonstick properties and more. Here’s our verdict."
 seo: Circulon is the leading producer of nonstick pans. But are they worth the
   money? Here's an honest circulon premier professional review. Read on.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Circulon Premier Professional 13-piece hard anodized cookware set is popular among many cooking enthusiasts. But is Circulon a good brand? Should you spend your hard-earned money on this cookware set?
 

@@ -24,12 +24,7 @@ seo: Wondering how much juice is in one lemon? This information will be
   instrumental in helping you make better lemon juicing decision. It prevents
   overbuying and ensures that you enjoy juice from fresh lemons all the time.
   Here's a guide.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 A kitchen without lemon is incomplete! The small, rounded fruit has many crucial roles ranging from cleaning stained cookware to juicing.
 

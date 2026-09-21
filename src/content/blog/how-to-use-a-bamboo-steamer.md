@@ -24,12 +24,7 @@ description: "Master the bamboo steamer for healthy, flavorful meals! Here is a 
 seo: Bamboo steamer is one of the healthiest cooking options. This article
   details how to use a bamboo steamer to cook vegetables, fish, dumplings, and
   other meals. Read on
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Steaming is a healthier and faster method of preparing your meals. It requires no added fat or preservatives but allows the food to cook in its natural flavor.
 

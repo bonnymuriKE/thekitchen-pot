@@ -23,12 +23,7 @@ description: "Skillet vs. frying pan: What’s the difference? One has sloped si
 seo: What is the difference between skillet and frying pan? This is a common
   question that only a few of kitchen enthusiasts can answer. Here are the
   crucial differences.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 What comes to your mind when you see a piece of kitchen cookware that has a large and a flat bottom— long handle, and short-sized sides, and excellent shape for preparing seared and tasty steak? You think of a frying pan and skillet, right? But what exactly is the difference between skillet and frying pan?
 

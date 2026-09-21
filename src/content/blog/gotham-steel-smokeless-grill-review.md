@@ -25,12 +25,7 @@ description: "Indoor grilling without smoke? Our Gotham Steel Smokeless Grill re
 seo: Smokeless grills are revolutionary. They help you grill your BBQ at the
   comfort of your kitchen with no worry of smoke. This Gotham steel smokeless
   grill review seeks to separate the facts from fiction on smokeless technology.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you’re new to the world of grilling, choosing the right grill among a sea of available options is an uphill task.
 

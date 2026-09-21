@@ -24,12 +24,7 @@ description: "Wondering how to reheat pizza without the sogginess? Here are 3 be
 seo: How to reheat pizza pizza without imposing adverse health effects to your
   loved ones is a priority. That is why we have included a comprehensive guide
   on the topic.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you love pizza, then you understand the pain of throwing away leftover pizza. However, it is an open secret that pizza will not taste as good as when it was hot!
 

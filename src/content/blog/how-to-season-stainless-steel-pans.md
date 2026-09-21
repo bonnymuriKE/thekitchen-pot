@@ -22,12 +22,7 @@ authorImageAlt: kitchenpot1
 description: "Transform your stainless steel pan with this ultimate seasoning guide! 4 expert-approved steps to guarantee a durable cooking surface and enhance cooking performance."
 seo: If you're looking for a comprehensive guide on how to season stainless
   steel pans, then we've got you covered. Read on for the details.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 When using your stainless steel pans for the first time, you should season it to achieve optimal performance. Seasoning will keep your food from sticking to the pan, which will improve your cooking experience significantly. 
 

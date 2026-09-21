@@ -25,12 +25,7 @@ seo: Are you looking for the coolest kitchen appliances to buy? This article
   offers a comprehensive guide on the best appliance on each category. It
   doesn't matter whether you need to equip your kitchen or buy your friend a
   gift, this is an all-inclusive guide.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Did you know that the average person spends approximately 30 minutes daily in the kitchen? A survey conducted by the [US Bureau of Labor Statistics](https://www.bls.gov/news.release/pdf/atus.pdf) shows that Americans spend more time cooking than in any other activity. 
 

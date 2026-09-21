@@ -23,12 +23,7 @@ description: "Why your dishwasher isn't cleaning? Follow our 5-step monthly main
 seo: How to clean a dishwasher effectively is a necessary skill if you want to
   get the best out of your dishwasher. This definitive guide offers
   implementable tips on DIY cleaning of dishwashers. Read on.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 How to clean a dishwasher? Well, It’s not strange to think that dishwashers should always be clean. After all, they are in constant water and detergents.
 

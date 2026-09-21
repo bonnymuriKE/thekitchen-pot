@@ -26,12 +26,7 @@ description: "New to Keurig coffer maker machine? Here’s a quick-start guide t
 seo: Wondering how to use a keurig coffee maker? Well, it is not as complicated
   and it appears at first. This guide will enable you to operate the machine
   like a pro. Read on
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Have you added a **[Keurig Coffee Maker Machine](https://thekitchenpot.com/blog/top-5-keurig-coffee-maker/)** to your kitchen arsenal, but you are having difficulties operating it? If yes, then read this comprehensive guide on how to use a Keurig, and you’ll be mesmerized at how fun it is to make your favorite cup of coffee.
 

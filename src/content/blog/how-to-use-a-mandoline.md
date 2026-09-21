@@ -22,12 +22,7 @@ authorImageAlt: kitchenpot1
 description: "Wondering how to use a mandoline perfectly without slicing your fingers? From setup to clean-up, this complete guide covers it all—no guesswork, just precision."
 seo: Wondering how to use a mandoline safely? This guide is beginner friendly
   and will ensure that you use your mandoline like a pro. Read on
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 How to use a mandoline? This is a common question that arises among kitchen enthusiasts. While they would want an easier way of slicing, they are kept out of mandoline due to safety misconceptions and overall beliefs that the tool is hard to use.
 

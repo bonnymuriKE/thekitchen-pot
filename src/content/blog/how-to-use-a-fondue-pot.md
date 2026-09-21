@@ -23,12 +23,7 @@ description: "Dust off your fondue pot and host the ultimate party! 3 easy, crow
 seo: Have you ever heard of a fondue pot? What is it? Here is how to use a
   fondue pot to make the best cheese, chocolate, and vegetable fondue for your
   guests! Read on
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 A fondue pot is one of the oldest kitchen appliances that just never loses its usefulness. This appliance will help you to unlock your A-game in matters serving desserts and appetizers.
 

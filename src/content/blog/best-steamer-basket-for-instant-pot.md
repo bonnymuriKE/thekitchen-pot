@@ -23,12 +23,7 @@ description: "Steam like a pro! The 9 best steamer baskets for Instant Pot make 
 seo: Are you looking for the best steamer basket for instant pot? Well, we've
   analyzed some of the crucial factors you should consider before purchasing
   one. Read on
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you’ve used an instant pot, you’re certainly thrilled by its versatility, right? Well, you can increase its functionality by purchasing the best steamer basket for instant pot!
 

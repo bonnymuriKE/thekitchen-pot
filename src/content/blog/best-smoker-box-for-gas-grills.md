@@ -23,12 +23,7 @@ description: "Want smoky flavors on a gas grill? These best smoker boxes add aut
 seo: Did you know that you can turn your gas grill into smokers? Well, the best
   smoker box for gas grills will help you achieve that smoky flavor in your
   meat. Here's a comprehensive guide
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Did you know that you can turn your gas grill into smokers? Well, the best smoker box for gas grills will help you achieve that smoky flavor in your barbecue!
 

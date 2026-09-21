@@ -22,12 +22,7 @@ description: "Stop wasting money on special cleaners! These household items clea
 seo: How to clean stainless steel pans? Well, cleaning the pans is one of the
   most important maintenance routine that you must muster. This guide offers
   insights on how to care for your pans.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Cleaning your stainless steel pans is an essential maintenance activity that enhances their durability and efficacy. 
 

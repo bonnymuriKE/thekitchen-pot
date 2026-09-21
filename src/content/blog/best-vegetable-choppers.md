@@ -23,12 +23,7 @@ description: "Want perfectly diced veggies? These best choppers are ergonomic, e
 seo: Purchasing the best vegetable choppers will reduce your meal prep time
   significantly. However, you should choose one with the right features to
   achieve optimal functionality. Here's a guide
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Preparing an all-inclusive meal requires dealing with different vegetables. To make the finest out of your cutting and dicing needs, you require the best vegetable chopper that will save you time and energy spent in the kitchen.
 

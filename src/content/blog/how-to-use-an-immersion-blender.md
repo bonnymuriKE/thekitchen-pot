@@ -23,12 +23,7 @@ description: "Want silky soups or quick sauces? Learn how to use an immersion bl
 seo: How to use an immersion blender? Well, this is one of the most
   revolutionary kitchen appliance you'll ever use! Learn the basic tips of using
   it effectively.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 With the emerging trends impacting our lives today, it wouldn’t be wrong to say that so much has changed in the food industry. One such advancement is the innovation of immersion blenders.
 

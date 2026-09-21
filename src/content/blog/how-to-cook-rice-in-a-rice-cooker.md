@@ -23,12 +23,7 @@ description: "Just acquired a rice cooker and don’t know how to use it? This g
 seo: Are wondering how to cook rice in a rice cooker without getting sticky? The
   rice to water ratio dynamics can be complex. However, this article offers
   useful tips to achieve fluffy and well-cooked rice
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you recently bought your **[rice cooker](https://thekitchenpot.com/blog/best-rice-cooker-for-brown-rice/)**, you might be wondering how to use it to get the most delicious rice. The rice-to-water ratio dynamics can be overwhelming, and you may even end up giving up on using your rice cooker.
 

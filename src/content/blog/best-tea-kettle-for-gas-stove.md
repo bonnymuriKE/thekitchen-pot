@@ -23,12 +23,7 @@ description: "These best tea kettles for gas stoves heats evenly and lasts years
 seo: Are you looking for the best tea kettle for gas stove? Well, the buying
   process can be complicated especially if you don't understand the features to
   look out for. Here is a comprehensive guide for you!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you’ve been planning to buy the best tea kettles for gas stove, then you are in the right place. A tea kettle is a handy equipment that makes your work easy with reduced cooking time .
 

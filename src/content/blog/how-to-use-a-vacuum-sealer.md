@@ -24,12 +24,7 @@ description: "Seal freshness like a pro! Learn how to use a vacuum sealer in 5 s
 seo: Wondering how to use a vacuum sealer to get the best results? Well, sealing
   your food in a vacuum sealer shouldn't be a hassle. Here is how you do it in 5
   steps
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 You can use this important tool to seal and preserve your ingredients and other perishables when you buy in bulk. 
 

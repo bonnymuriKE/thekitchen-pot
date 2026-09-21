@@ -24,12 +24,7 @@ description: "Want restaurant-style tortillas at home? Master how to use a torti
 seo: How to use a tortilla press for the best tortillas? This comprehensive
   guide offers a candid procedure to use when using tortilla press! Read on to
   know how to prepare the best.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Nothing beats the scrumptiousness of freshly homemade tortillas! The pride of preparing them in your kitchen as opposed to buying them from the grocery stores is exceptional. If you’re still uncertain on how to use a tortilla press for the best tortillas, then this article is all you need!
 

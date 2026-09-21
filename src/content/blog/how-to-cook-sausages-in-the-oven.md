@@ -22,12 +22,7 @@ authorImageAlt: kitchenpot1
 description: "How to cook sausages in an oven instead of deep frying? Our tested sausage oven cooking tricks (plus how to tell when they're safely done) for crispier skins."
 seo: Are you in a hurry and hungry? This article offers unique hacks on how to
   cook sausages in the oven. You'll have your snack in 15 minutes!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Are you in a hurry and hungry? If so, then you should consider cooking sausages since they offer a quick fix. Within a few minutes, you’ll be enjoying your sausage delicacy – either plain or with your favorite dessert.
 

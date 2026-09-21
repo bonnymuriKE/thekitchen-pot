@@ -23,12 +23,7 @@ description: "How many watts does an Instant Pot really use? See exactly how muc
 seo: How Many Watts Does An Instant Pot Use? Between 700 watts to 1200 watts,
   with a few rated 1500 watts. This article guides you on how to pick the best
   for your needs.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 One of the biggest fear for most people when it comes to electric appliances is the amount of energy they use. And it’s a valid concern given that the amount of energy an item uses determine how much you have to pay for your electric bill.
 

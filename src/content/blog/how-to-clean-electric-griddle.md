@@ -23,12 +23,7 @@ description: "Tired of greasy griddle residue? Use this restaurant-kitchen metho
 seo: Wondering on how to clean electric griddle? Well, there are myriad ways you
   can use to make the equipment sparkling clean. Here's a comprehensive guide
   that'll revolutionize your cleaning process.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Did you know that you can prepare Hamburgers, pancakes, and Paninis at home without a hassle? Well, all you need is an electric griddle! Despite its benefits, how to clean electric griddle fast is a headache for many kitchen lovers! If you’re in such a situation, then this guide is for you! 
 

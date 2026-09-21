@@ -23,12 +23,7 @@ description: "Season your Red Copper pan perfectly in 5 easy steps. We offer gua
 seo: How to season red copper pans? This crucial exercise is necessary if you
   want to achieve top-notch functionality of your pans. Here'a an all-inclusive
   seasoning guide
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Any cooking enthusiast values an elegant yet effective pan. If you’d want one that will heat fast and evenly, then you should consider buying a **[red copper pan](https://www.amazon.com/s?k=red+copper+pans%3Ftag%3Dkitchenpot-20).**
 
