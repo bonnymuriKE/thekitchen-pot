@@ -4,20 +4,12 @@ import Layout from '@/layouts/Layout.astro';
 import ContactHero from '@/components/Contact/ContactHero.astro';
 import ContactChannel from '@/components/Contact/ContactChannel.astro';
 import ContactForm from '@/components/Contact/ContactForm.astro';
-import ContactMap from '@/components/Contact/ContactMap.astro';
-import SocialLinks from '@/components/Contact/SocialLinks.astro';
 
 const formFields = [
   { type: 'text', name: 'name', label: 'Full Name', required: true },
   { type: 'email', name: 'email', label: 'Email Address', required: true },
   { type: 'tel', name: 'phone', label: 'Phone Number' },
   { type: 'select', name: 'subject', label: 'Inquiry Type', required: true }
-];
-
-const socialLinks = [
-  { platform: 'instagram', url: '#', handle: 'TheKitchenPot' },
-  { platform: 'facebook', url: '#', handle: 'TheKitchenPotOfficial' },
-  { platform: 'twitter', url: '#', handle: 'KitchenPotHQ' }
 ];
 ---
 <Layout title="Contact Us - The Kitchen Pot">
@@ -32,27 +24,12 @@ const socialLinks = [
     <ContactChannel
       icon="mdi:email"
       title="Email Us"
-      details={["General: hello@thekitchenpot.com", "Support: help@thekitchenpot.com"]}
-    />
-    <ContactChannel
-      icon="mdi:phone"
-      title="Call Us"
-      details={["US: +1 (800) 123-4567", "Intl: +1 (555) 123-4567"]}
-      accentColor="amber"
-    />
-    <ContactChannel
-      icon="mdi:map-marker"
-      title="Visit Us"
-      details={["123 Kitchen Street", "Portland, OR 97209", "Mon-Fri: 9AM - 5PM PST"]}
-      accentColor="rose"
+      details={["thekitchenpot8@gmail.com"]}
     />
   </div>
 
   <div class="grid lg:grid-cols-2 gap-12 items-start">
     <ContactForm formFields={formFields} />
-    <ContactMap />
   </div>
-
-  <SocialLinks links={socialLinks} />
 </div>
 </Layout>
