@@ -9,44 +9,17 @@ import { Icon } from "astro-icon/components";
     Your Privacy Controls
   </h3>
 
-  <div class="space-y-6">
-    <div class="flex items-center justify-between p-4 bg-orange-50 rounded-xl">
-      <div>
-        <p class="font-medium">Analytics Cookies</p>
-        <p class="text-sm text-gray-600">Help us improve our services</p>
-      </div>
-      <label class="switch">
-        <input type="checkbox" checked />
-        <span class="slider"></span>
-      </label>
-    </div>
-
-    <div class="flex items-center justify-between p-4 bg-orange-50 rounded-xl">
-      <div>
-        <p class="font-medium">Marketing Preferences</p>
-        <p class="text-sm text-gray-600">Receive kitchen optimization tips</p>
-      </div>
-      <label class="switch">
-        <input type="checkbox" />
-        <span class="slider"></span>
-      </label>
-    </div>
+  <div class="space-y-4 text-gray-700">
+    <p>
+      You can control cookies, including analytics and affiliate tracking cookies, through your
+      browser's settings at any time.
+    </p>
+    <p>
+      If you've subscribed to our newsletter, you can unsubscribe using the link included in any
+      email we send, or by emailing us at
+      <a href="mailto:thekitchenpot8@gmail.com" class="text-orange-600 hover:text-orange-700 underline">
+        thekitchenpot8@gmail.com
+      </a>.
+    </p>
   </div>
 </div>
-
-<style>
-  .switch {
-    @apply relative inline-block w-12 h-6;
-  }
-  .slider {
-    @apply absolute inset-0 bg-gray-200 rounded-full transition-all
-           before:absolute before:w-5 before:h-5 before:left-0.5 before:bottom-0.5
-           before:bg-white before:rounded-full before:transition-all;
-  }
-  input:checked + .slider {
-    @apply bg-orange-600;
-  }
-  input:checked + .slider:before {
-    @apply translate-x-6;
-  }
-</style>
