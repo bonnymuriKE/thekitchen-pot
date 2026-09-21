@@ -24,12 +24,7 @@ description: "Flip, stir, and serve with the best metal spatula sets that combin
 seo: If you're looking for the best metal spatula set, then this guide is for
   you. We evaluate the leading brands in the market and access their advantages
   and disadvantages for your consideration. Read on
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 You may overlook it, but amazingly, a spatula is one of the most important and regularly used tools in most kitchens. 
 

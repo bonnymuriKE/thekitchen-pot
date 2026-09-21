@@ -22,12 +22,7 @@ authorImageAlt: kitchenpot1
 description: "Upgrade your BBQ game! We’ve tested top gas grills under $500 for power, durability & flavor. See which affordable models made the cut and sear like a pro!"
 seo: Best gas grills under 500? Well, purchasing a gas grill will not be a easy!
   This guide offers implementable tips to make shopping a breeze. Read on.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Are you wondering how to up your grilling game without burning a hole in your pocket? You’re not alone!
 

@@ -23,12 +23,7 @@ authorImageAlt: kitchenpot1
 description: "Power up your kitchen with the best immersion blenders – versatile, powerful, and perfect for every cook. Plus, get expert tips in our detailed buyer’s guide!"
 seo: Do you want to buy the best immersion blenders? Well, this guide will help
   you understand what you should consider before you settle for one.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Living healthy encompasses eating plenty of antioxidants to keep free radicals at bay. Juicing fruits and vegetables is a sure way of providing minerals, antioxidants, and other nutrients to your body. 
 

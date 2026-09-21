@@ -23,12 +23,7 @@ description: "Just starting out? These are the BEST beginner bakeware sets for f
 seo: Looking for the best bakeware sets has never been this easy! Read through
   this guide and get easy-to-implement buying tips.  It includes a
   well-researched list.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 As a professional baker, I would say that baking is one of the most fulfilling pursuits that one can engage in. By baking, you get a physical connection between your mind and body. 
 

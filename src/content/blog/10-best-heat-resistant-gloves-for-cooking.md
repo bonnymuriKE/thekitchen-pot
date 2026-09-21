@@ -23,12 +23,7 @@ description: "Upgrade your BBQ game with top-rated heat-resistant gloves for smo
 seo: If you love cooking/baking/grilling, you'll opine that owning the best heat
   resistant gloves is an excellent idea. They protect your hands from
   heat-induced injuries. Here's what you should never ignore when buying one.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 IF you love cooking/baking, you’ll opine that owning the best heat resistant gloves is an excellent idea. They protect your hands from heat-induced injuries, which could be detrimental to your health in the long run. 
 

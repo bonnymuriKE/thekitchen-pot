@@ -23,12 +23,7 @@ description: "Are you looking for the best cookware for induction cooktop? These
 seo: While induction cooking has gained significant popularity, confusion on the
   best cookware for induction cooktop is rife! This article offers unique buying
   tips.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 While induction cooking has gained significant popularity, confusion on the best cookware for induction cooktop is rife! This article will explain what you need to know before purchasing your ideal cookware for use with an induction cooktop.
 

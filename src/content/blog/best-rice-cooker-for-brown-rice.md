@@ -22,12 +22,7 @@ description: "Get perfectly cooked brown rice with the best rice cooker for brow
 seo: If you love cooking, you'll opine that preparing brown rice is one of the
   trickiest exercise. This article enumerate the best rice cooker for brown
   rice, giving unique shopping tips that will make picking the best a breeze.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you love cooking, you’ll agree that preparing brown rice for your family is one of the trickiest exercise, right?
 

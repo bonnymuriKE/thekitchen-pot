@@ -24,12 +24,7 @@ description: "How unique is All-Clad Copper Core cookware set? Learn why it is a
 seo: All-Clad copper core cookware set is one of the most expensive cookware set
   you'll ever lay your hands on. Does its performance commensurate with price?
   Find out here
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 How much can you spend on a cookware set? Well, All-Clad has a cookware set that will set you back over $1000. But is it worth it?
 

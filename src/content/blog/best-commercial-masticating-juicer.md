@@ -22,12 +22,7 @@ description: "Need durable, high-yield juicing? Discover the best commercial mas
 seo: Do you want to boost your juicing business? Well, one of the surest ways to
   achieve this is by buying the best commercial masticating juicer. Here is a
   complete guide on what to consider when buying.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 To start your day in a healthy way, a good breakfast is always essential. A glass of juice is one of the best ways to fizz up your day. However, in the present age, thick, concentrated juices are high in sugars and unnecessary ingredients. 
 

@@ -22,12 +22,7 @@ authorImageAlt: kitchenpot1
 description: "Say goodbye to sticky messes. Here are the best nonstick pans that guarantee easy cooking and a clean-up breeze. Find your perfect pan with our expert buying guide."
 seo: Best nonstick pans are essential in enhancing your cooking experience. This
   article offers a comprehensive buying guide for the pans!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Your kitchen is never complete if you don’t have a non-stick pan. Yes, the best nonstick pans will help you fry eggs and flip pancakes, thus ensuring that your family is ever jovial!
 

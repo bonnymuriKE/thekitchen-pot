@@ -27,12 +27,7 @@ description: If you're looking to improve your candy-making skills, a candy
 seo: If you're looking for the best candy thermometer, then you should always
   consider the accuracy, ease of use, among many other factors. Here's a
   detailed buyers guide for you!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you need to make tasty candies, then you should constantly check your cooking temperature. To help you achieve the right temperature in every cooking step, you need the best candy thermometer!
 

@@ -23,12 +23,7 @@ description: "New to smoking and ready to smoke like a pro?? Check out these bes
 seo: If you need exceptional meat smoking experience, you should consider buying
   the best offset smoker for beginners. Own one and start grilling your meat
   like a pro!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Do you desire to make the tastiest BBQ for your family but you’re new to the game? Well, it all starts by owning the **best offset smoker for beginners**!
 

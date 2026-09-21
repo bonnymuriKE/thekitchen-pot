@@ -20,12 +20,7 @@ authorImageAlt: kitchenpot1
 description: "Upgrade your kitchen with the best porcelain kitchen sink with drainboard. They are stylish, durable, and perfect for busy kitchens and stylish homes."
 seo: Looking for the best porcelain kitchen sink with drainboard? Here are all
   the details you need to know before settling for one. Read on
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Buying a **[kitchen sink](https://thekitchenpot.com/blog/best-white-undermount-kitchen-sink/)** should not be a difficult thing to do. With the right research, you will get the perfect sink that suits your needs and add beauty to your kitchen.
 

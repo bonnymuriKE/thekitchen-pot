@@ -22,12 +22,7 @@ description: "Keep your brews perfectly chilled with the best mini fridge for be
 seo: Are you looking for the best mini fridge for beer? Well, there are
   different brands in the market. This guide analyzes several brands in the
   market and their features. Read on.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you love cold beer, the you’ll opine that nothing tastes better than a cold beer in a hot summer! However, getting that chilled beer can be a hassle unless you get the best mini fridge for beer. 
 

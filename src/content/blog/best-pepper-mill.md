@@ -23,12 +23,7 @@ description: "It’s now easy to make freshly ground pepper with these best pepp
 seo: Did you know that taking freshly ground pepper has more health benefits?
   Well, grinding your pepper using the best pepper mills will add more flavor to
   your meals. Read on to learn more about the pepper mills.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Are you aware that fresh ground pepper makes simple soups a little spicy? Well, a finely seasoned pepper-crusted steak is always a fan favorite. 
 

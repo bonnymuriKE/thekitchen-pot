@@ -1,10 +1,7 @@
 ---
 // src/components/Author/Hero.astro
 import { Image } from "astro:assets";
-import { Icon } from "astro-icon/components";
 import bonifaceHeadshot from "@/data/assets/images/founder.jpeg";
-
-// From Unsplash: Professional chef portrait (ensure rights to use)
 ---
 
 <section class="bg-white py-16">
@@ -12,7 +9,7 @@ import bonifaceHeadshot from "@/data/assets/images/founder.jpeg";
     <div class="md:w-1/3">
       <Image
         src={bonifaceHeadshot}
-        alt="Boniface Muriuki - Professional Chef & Tiny Kitchen Expert"
+        alt="Boniface Muriuki, Founder and Editor of The Kitchen Pot"
         width={400}
         height={600}
         class="rounded-lg shadow-xl"
@@ -25,29 +22,15 @@ import bonifaceHeadshot from "@/data/assets/images/founder.jpeg";
         Boniface Muriuki
       </h1>
       <p class="text-xl text-gray-600 mb-6">
-        Executive Chef • Tiny Space Cooking Innovator • 15+ Years Industry Experience
+        Founder & Editor, The Kitchen Pot
+      </p>
+      <p class="text-gray-600 leading-relaxed max-w-2xl mb-8">
+        Boniface founded The Kitchen Pot to help small-space cooks make the most of limited square footage. He writes and edits guides for apartments, studios, and small kitchens, some based on hands-on testing, others carefully researched, and always labeled as one or the other.
       </p>
 
-      <div class="flex gap-4 mb-8">
-        <a href="#credentials" class="bg-primary-600 text-foreground px-6 py-3 rounded-lg hover:bg-primary-700 transition">
-          View Credentials
-        </a>
-        <a href="#contact" class="border-2 border-primary-600 text-primary-600 px-6 py-3 rounded-lg hover:bg-primary-50 transition">
-          Contact Boniface
-        </a>
-      </div>
-
-      <div class="flex gap-6">
-        <a href="[LinkedIn URL]" aria-label="LinkedIn Profile">
-          <Icon name="mdi:linkedin" class="w-8 h-8 text-gray-600 hover:text-primary-600 transition" />
-        </a>
-        <a href="[Verified Twitter URL]" aria-label="Twitter Profile">
-          <Icon name="mdi:twitter" class="w-8 h-8 text-gray-600 hover:text-primary-600 transition" />
-        </a>
-        <a href="[Professional Website]" aria-label="Personal Website">
-          <Icon name="mdi:web" class="w-8 h-8 text-gray-600 hover:text-primary-600 transition" />
-        </a>
-      </div>
+      <a href="/contact-us" class="inline-block bg-primary-600 text-foreground px-6 py-3 rounded-lg hover:bg-primary-700 transition">
+        Contact Boniface
+      </a>
     </div>
   </div>
 </section>

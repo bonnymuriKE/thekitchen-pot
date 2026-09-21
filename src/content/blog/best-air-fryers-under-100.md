@@ -23,12 +23,7 @@ description: "Skip the expensive models! We found the best air fryers under $100
 seo: Are you looking for the best air fryers under $100? This article will offer
   a comprehensive buying guide with a well-researched list of the 5 best air
   fryers.00
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Are you tired of long cooking procedures? Well, best air fryers under $100 will definitely revolutionize your kitchen experience!
 

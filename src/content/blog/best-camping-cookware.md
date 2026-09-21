@@ -22,12 +22,7 @@ description: "Love camping but hate bulky gear? These best ultralight camping co
 seo: Looking for the best camping cookware can be complicated, especially when
   you do not have defined goals. Learn how to perform a needs analysis to ensure
   that you have everything you need at your camping site.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you like camping and hiking, you should ensure that you carry the best camping cookware to spice up your adventure. Outdoor cooking has a way of rejuvenating your spirits! 
 

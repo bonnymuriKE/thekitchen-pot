@@ -12,12 +12,7 @@ modDate: 2025-02-11
 image: ""
 category: Small Appliances
 author: Boniface Muriuki
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 authorImage: ""
 coverAlt: 10 Best Oil for Air Fryer -What is So Special About Them?
 tags:

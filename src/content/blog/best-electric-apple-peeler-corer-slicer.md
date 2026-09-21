@@ -22,12 +22,7 @@ description: "Save hours peeling, coring, and slicing apples with the best elect
 seo: Are you looking for the best electric apple peeler corer slicer? Well, you
   should read this comprehensive guide before you go out for shopping. It offers
   crucial buying tips.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 There is something truly refreshing about enjoying a bowl of fresh fruit salad after a long day. But the excitement of the first saucy bite can quickly diminish when you think of the peeling, coring and slicing of apples, and honestly, it seems like an arduous task.
 

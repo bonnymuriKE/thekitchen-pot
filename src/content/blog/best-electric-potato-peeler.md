@@ -23,12 +23,7 @@ description: "Speed up prep time with the best electric potato peelers! Our ulti
 seo: Looking for the best electric potato peeler? This article evaluates the
   best peelers in the market that you can use for peeling potatoes and other
   vegetables. Read on for more
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you’re tired of manually peeling potatoes, then you should invest in the best electric potato peeler. This unique kitchen gadget will eliminate the hassle, and make potato peeling a blissful exercise.
 

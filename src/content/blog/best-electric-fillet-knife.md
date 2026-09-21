@@ -23,12 +23,7 @@ description: "Upgrade your fish filleting game now! Explore the best electric fi
 seo: Do you desire effortless fish filleting? The first step to achieving that
   is investing on the best electric fillet knife. Here's a comprehensive buying
   guide.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 While fish filleting may appear like a straightforward process, it can get messy and frustrating, especially when you’re dealing with large volumes. As such, it is a no-brainer that you need to invest in the best electric fillet knife to get precise cuttings at a lesser time. 
 

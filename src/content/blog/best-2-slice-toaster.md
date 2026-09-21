@@ -21,12 +21,7 @@ authorImageAlt: kitchenpot1
 description: "Is the best 2 slice toaster worth your money? Compare features, performance, and value to choose a reliable toaster that makes breakfast effortless and delicious."
 seo: 2 slice toaster will transform your mornings for the better. If you love
   well-browned and crunchy bread, then you should read this comprehensive guide!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 There is nothing as refreshing as a mug of coffee and crunchy toasts in the morning!
 

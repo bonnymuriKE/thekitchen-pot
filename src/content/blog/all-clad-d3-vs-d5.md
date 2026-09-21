@@ -25,12 +25,7 @@ description: "All-Clad D3 vs D5: Which cookware set suits your kitchen best? Com
 seo: All-Clad D3 vs D5? Which of the two cookware should you buy? Both
   variations offer top-notch performance. However, there are a few differences
   between the two sets that will influence your buying. Here they are.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Owning an All-Clad cookware set is the ultimate desire of every cooking enthusiast. The pans and pots are crafted using multi-ply technology that ensures **superb heat conductivity, uniform heat distribution, and an overall ergonomic design.**
 

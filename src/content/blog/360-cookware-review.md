@@ -23,12 +23,7 @@ description: "360 Cookware review—hype or must-have? We break down its pros, c
 seo: Ever heard of vapor cooking technology? This waterless cooking method is
   healthy, fast, and convenient. This 360 cookware review guides you on using
   360 cookware for vapor cooking.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 360 pans and pots are hand-crafted with precision in a Green E-Certified factory located in West Bend, Wisconsin. The company has specialized in the production of heavy-duty cookware with vapor seal to allow waterless cookware. 
 

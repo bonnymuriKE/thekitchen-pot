@@ -23,12 +23,7 @@ description: "The secret to perfect grilling is here! Explore the best infrared 
 seo: If you're want to transform your grilling experiences, then it is time you
   consider the best infrared grills for the money. Here's are the benefits
   you'll get by buying one! Read on for an all-inclusive guide.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 I’m not sure about your preferences when it comes to barbecue, but I sure enjoy mine grilled to sublimity. To achieve the special taste, the best infrared grills for the money come in handy.
 

@@ -24,12 +24,7 @@ description: "Tight on space but big on taste? Maximize space with the best stac
 seo: Stackable pots and pans are a must-have for beginners with small kitchen.
   The pots will are space saving and guarantees convenience and efficacy, all as
   one package!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 How to optimize your limited kitchen space? Well, besides investing in **[pot and pan racks](https://thekitchenpot.com/blog/pots-and-pans-rack-reviews/)**, you can also buy stackable pots and pans. 
 

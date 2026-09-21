@@ -22,12 +22,7 @@ description: "Love pizza? Check out the best pizza stones and master homemade pi
 seo: Looking for the best pizza stones? Well, getting one will certainly make
   pizza making a breeze. This guide helps you to understand what to look out for
   when shopping
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Are you aware that you can make your pizza at your convenience? Well, all that you need to achieve this milestone is the best pizza stone! 
 

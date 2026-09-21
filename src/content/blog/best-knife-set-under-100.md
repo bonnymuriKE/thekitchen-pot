@@ -23,12 +23,7 @@ description: "Who says great knives cost a fortune? The best knife sets under $1
 seo: If you want to upgrade your kitchen with a new set of knives, then this
   article outlines everything you need to know before you settle for the best
   knife set under 100. Read on.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Let’s be honest — a knife set is an essential part of your kitchen. It comes in handy since it comprises various knife types, making it highly versatile and giving you an easy time prepping
 and cooking your meals. 

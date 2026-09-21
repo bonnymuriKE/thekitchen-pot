@@ -23,12 +23,7 @@ description: "Craving perfect pancakes without the high cost? We’ve rounded up
 seo: Are you looking for the best griddle pan for pancakes? This article offers
   all the guidelines that you need to purchase that which will serve you the
   best. Read on to learn more.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Did you know that pancakes contain 500 fewer calories than a plate of French toast? Well, this option provides a healthier yet tasty breakfast alternative. To ensure that you get the best out of it, you should invest in the best griddle pan for pancakes.
 

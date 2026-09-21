@@ -25,12 +25,7 @@ authorImageAlt: kitchenpot1
 description: "Long shifts, no sweat. The best lunch cooler for construction workers offers rugged builds, max insulation, and a guarantee for fresh meals for hungry crews."
 seo: Looking for the best lunch cooler for construction workers? You need to
   consider several factors before buying. Here is a comprehensive guide.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 When you're on a construction site, your lunch cooler isn’t just for food—it's a lifeline. It needs strength, reliability, temperature control, and often even doubles as a seat or storage.
 

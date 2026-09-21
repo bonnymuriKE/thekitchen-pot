@@ -23,12 +23,7 @@ description: "Do you need the best hand mixer to make food prep a breeze? Our ex
 seo: If you want to take your baking experiences to the next level, then you
   should invest in the best hand mixers. These kitchen tools simplify your
   blending incredibly. Here's a buying guide.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you want to take your baking experiences to the next level, then you should invest in the best hand mixers. These kitchen tools simplify your blending, beating, mixing, and whipping cooking assignments.
 

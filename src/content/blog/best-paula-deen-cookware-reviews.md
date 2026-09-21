@@ -22,12 +22,7 @@ authorImageAlt: kitchenpot1
 description: "Cook with confidence using the best Paula Deen cookware. We’ve tested its pots and pans first-hand and included all pros and cons to help you pick the perfect set!"
 seo: Are you looking for the best Paula Deen Cookware? Well, this article offer
   an elaborate guide on what to look out for when shopping. Read on.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you love cooking, then you must have heard about the sophisticated and classy Paula Deen Cookware. These are some of the most durable cooking equipment that you can find in the market.
 

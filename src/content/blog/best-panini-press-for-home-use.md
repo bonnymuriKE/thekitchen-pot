@@ -23,12 +23,7 @@ description: "Upgrade your kitchen with the best panini press for home use and b
 seo: Are you looking for the best panini press for home use? Sure enough, this
   appliance will revolutionize how you make your sandwiches! But only if you get
   the right one for you. Here's a comprehensive guide.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Sick and tired of ready-made Paninis? Well, you can kiss those cold, uninviting sandwiches goodbye and start preparing tasty Paninis in the comfort of your kitchen.
 

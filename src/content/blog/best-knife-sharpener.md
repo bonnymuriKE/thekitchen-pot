@@ -22,12 +22,7 @@ description: "Tired of struggling with blunt blades? The best knife sharpener br
 seo: Buying the best knife sharpener will reduce your prep time significantly.
   You'll have an easy time cutting and chopping your ingredients, thus improving
   your cooking experience.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Having the best knife sharpener in your kitchen is the surest way of reducing your cook time and enjoying every minute of it.
 

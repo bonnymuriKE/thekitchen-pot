@@ -23,12 +23,7 @@ description: "Why choose one when you can have both? Explore the best gas and ch
 seo: Selecting the best gas and charcoal grill combo can be a grueling task
   especially when you're working with a limited budget. Read here for a complete
   guide
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Summer vacation is just around the corner, and it’s always a grilling season, having fun and relaxing. When choosing an excellent way to cook pork chops or sear up steaks, you have to find the best gas and charcoal grill combo.
 

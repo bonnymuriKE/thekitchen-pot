@@ -23,12 +23,7 @@ description: "Cooking just got smarter (and cheaper)! The best induction cooktop
 seo: Are you looking for the best induction cooktop for the money? This article
   will educate you on how induction technology work and how to choose the best
   cooktop. Read on
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Technology has crept into different spheres of life – and the kitchen is certainly among the biggest beneficiaries. The invention of induction cooking is one of the most revolutionary occurrences. It has improved how we prepare our meals immensely.
 

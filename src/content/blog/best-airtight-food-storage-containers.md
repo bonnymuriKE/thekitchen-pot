@@ -23,12 +23,7 @@ description: "Want fresh food and clutter-free shelves? These best airtight cont
 seo: Do you want to have your food items fresh and uncontaminated always? Well,
   you should get yourself the best airtight food storage containers! Here's a
   comprehensive guide.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Are you having trouble maintaining your food items as fresh as you bought them? Or have you had your cookies go soft and tasteless just because you left them exposed in the open air? 
 

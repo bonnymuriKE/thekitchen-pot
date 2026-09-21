@@ -23,12 +23,7 @@ description: "Looking for a fridge upgrade? This best side by side refrigerator 
 seo: Are you shopping for the best side by side refrigerator? This article
   offers a comprehensive guide on what to consider when shopping and a list of
   top 9 refrigerators.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 When you mention a refrigerator, what first comes to your mind are the big names like the top freezers, French doors which show all the glory. But you shouldn’t ignore the best side by side refrigerator.
 

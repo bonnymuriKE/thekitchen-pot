@@ -23,12 +23,7 @@ description: "Here are the best fish poachers to take the guesswork out of poach
 seo: If you cook fish regularly, then you'll revolutionize your experience by
   investing in the best fish poacher. Poaching fish is a flair from the kitchen
   and this equipment will come in handy. Read on.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you cook fish regularly, then you’ll revolutionize your experience by investing in the best fish poacher. Poaching fish is a flair from the kitchen. Its fragile grain and savor can well match acoustic excellence of the poaching.
 

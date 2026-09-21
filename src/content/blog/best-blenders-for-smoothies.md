@@ -23,12 +23,7 @@ description: "Find the best blenders for smoothies that always deliver creamy re
 seo: Are you wondering which are the best blenders for smoothies? Well, this
   article compares several blenders , enumerating unique features for each. Read
   on for more.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Making your smoothies at home can be easy and enjoyable if you use the best [blender](https://en.wikipedia.org/wiki/Blender) for smoothies. From milkshakes to blended cocktails, and amazing smoothies; you can add all the ingredients you want!
 

@@ -23,12 +23,7 @@ description: "Out of coconut milk? Get the best substitutes that bring creamy te
 seo: Are you looking for the best coconut milk substitute to try out your
   favorite recipe? You will get a myriad options, which can be confusing. This
   article offers well-researched list that you can rely on.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 You’ve found a unique recipe that you want to try out, and coconut milk is one of the main ingredients you require. You’ve run out of it or you are allergic to coconut. 
 

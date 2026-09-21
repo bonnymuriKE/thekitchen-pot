@@ -22,12 +22,7 @@ authorImageAlt: kitchenpot1
 description: "Tired of ice trays and freezer struggles? Learn why you need a home ice maker and explore the best ice maker machines for fast, clean, and consistent ice anytime."
 seo: If you have a big family, then you should invest in the best ice maker for
   home use. Read on all the benefits you'll accrue by owning one
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you are in constant need of ice, then you should invest in the best ice maker for home use. The machine will make fresh ice cubes, which will revolutionize how you take your beverages.
 

@@ -24,12 +24,7 @@ description: "Thinking of upgrading your cookware? Our All-Clad D3 cookware set 
 seo: "All-Clad D3 cookware set is a must-have for any serious cook. The cookware
   is durable and guarantee top-notch performance. However, it has several
   shortcomings as detailed below:"
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 ![All-Clad D3 Cookware Set Review]()
 

@@ -26,12 +26,7 @@ description: When it comes to serving your guests, the presentation of your
 seo: Are you looking for the best dinnerware sets? Well, there are many
   materials used in construction including porcelain, bone china, china, and
   many others. Read to learn the best for you.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you ask any top-notch chef, they’ll tell you that the most crucial part of feeding your guests is not cooking delicious meals. Yes, you read that right! 
 

@@ -22,12 +22,7 @@ description: "Want perfect slices in seconds? These best mandoline slicers are s
 seo: Are you looking for an easy way to prepare your ingredients without cutting
   your skin? Well, you should get the best mandoline slicers. Here's a
   comprehensive guide.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you want uniformly cut veggies, then the best mandoline slicer is your best bet. It reduces the time you take to prepare your spices.
 

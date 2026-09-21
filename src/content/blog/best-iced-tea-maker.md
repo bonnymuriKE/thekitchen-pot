@@ -23,12 +23,7 @@ description: "Brew like a pro with the best iced tea maker and glass pitcher com
 seo: Looking for the best iced tea maker? Well, this article offers a
   comprehensive guide on what you should consider before selecting one. Read on
   to get more!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 What happens when you get visitors during the summer? Well, one of the best ways to welcome them is by serving iced tea. To achieve this, you need the best iced tea maker.
 

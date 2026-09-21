@@ -23,12 +23,7 @@ description: "Ready to smoke delicious meats? Here are the best propane smokers 
 seo: Do you love smoked meat? Well, you should get the best propane smoker to
   spice up your meals. Here's a comprehensive guide on what to consider when
   buying.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Smoking is a great way to cook your meat, but the process of getting everything ready and starting your smoker can be quite time-consuming.
 

@@ -23,12 +23,7 @@ seo: It is essential to have the best food processor in your kitchen if you want
   fun-filled cooking escapades. It helps you to grind, slice, and dice your
   food. Here's an all-inclusive buying guide00, it provides a detailed analysis
   of each product's pros and cons
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 It is [essential](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy/) to have the best food processor in your kitchen if you want fun-filled cooking escapades. It helps you to grind, slice, and dice your food items without a hassle, thus saving you energy and time.
 

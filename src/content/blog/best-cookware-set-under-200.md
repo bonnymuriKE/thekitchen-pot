@@ -22,12 +22,7 @@ authorImageAlt: kitchenpot1
 description: "Upgrade your kitchen gear for less! Explore the best cookware sets under $200 with our handpicked reviews for quality, style, and unbeatable savings."
 seo: Are you looking for the Best Cookware Set Under $200? Well, this guide will
   help you out. You don't have to settle for low-quality pieces. Check this out!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Some cookware sets cost **[more than $500](https://thekitchenpot.com/blog/all-clad-d3-cookware-set-review/)**. If you’re lucky, you might be able to afford one of these top-of-the-line sets for yourself.
 
