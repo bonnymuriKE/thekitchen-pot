@@ -22,12 +22,7 @@ description: "Confused about sink thickness? Get expert tips on choosing between
 seo: What gauge stainless steel sink is best for you? What should you look out
   for when shopping for one? This guide answers all your questions
   comprehensively.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 **[Stainless steel sinks](https://www.amazon.com/s?k=STAINLESS+STEEL+KITCHEN+SINK&crid=1432F670567VJ&sprefix=stainless+steel+kitchen+sink%2Caps%2C415&?tag=kitchenpot-20)** are a popular choice for many kitchens. They come in different sizes, and the two most common sizes are 16 inches and 18 inches. So, what stainless steel sink is best for you?
 

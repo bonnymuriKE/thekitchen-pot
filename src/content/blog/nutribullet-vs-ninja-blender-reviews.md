@@ -24,12 +24,7 @@ description: "NutriBullet vs Ninja Blender—which crushes, blends & mixes bette
 seo: Nutribullet vs Ninja blender - which one should you buy? Both blenders are
   of high quality. However, it depends on your needs. Ninja has better
   countertop blenders than nutribullet
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 NutriBullet vs Ninja Blender question is frequent among [smoothie](https://www.goodhousekeeping.com/food-recipes/healthy/g4060/healthy-smoothie-recipes/) lovers. And for a good reason. The two companies have a significantly large share of the blender/juicer industry.
 

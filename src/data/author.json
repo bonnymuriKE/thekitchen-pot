@@ -2,64 +2,8 @@
   {
     "authorId": "kitchenpot1",
     "name": "Boniface Muriuki",
-    "bio": "Boniface Muriuki understands the unique frustrations—and hidden potential—of tiny kitchens. Over 15 years, he’s transformed cramped countertops across three continents into functional culinary havens, earning recognition as a James Beard Award-nominated innovator and the bestselling author of The Micro Kitchen Manifesto.",
-    "image": "/images/Patrick-Mahinge.jpg",
-    "jobTitle": "Founder & Culinary Space Alchemist",
-    "nationality": "Kenyan",
-    "worksFor": {
-      "name": "MTBNZ",
-      "url": "https://mtbnz.org"
-    },
-    "url": "https://mtbnz.org/author/patrick-mahinge",
-    "sameAs": [
-      "https://twitter.com/patrickmahinge",
-      "twitter",
-      "https://www.linkedin.com/in/patrick-mahinge",
-      "https://www.youtube.com/@patrickmahinge"
-    ],
-    "email": "patrick@mahinge.com",
-    "telephone": "+254710251380",
-    "address": {
-      "streetAddress": "Plot No Karai/Karai/6766",
-      "addressLocality": "Kikuyu",
-      "addressRegion": "Kiambu County",
-      "postalCode": "00902",
-      "addressCountry": "KE"
-    },
-    "alumniOf": [
-      {
-        "name": "Masinde Muliro University of Science and Technology",
-        "url": "https://mmust.ac.ke"
-      }
-    ],
-    "awards": [
-      "Best Forex Trading Coach in Kenya - 2023",
-      "Top Financial Educator in Africa - 2022"
-    ],
-    "knowsAbout": ["Mountain Biking"],
-    "hasCredential": [
-      {
-        "name": "Certified Financial Markets Analyst (CFMA)",
-        "awardingBody": "Institute of Financial Markets"
-      }
-    ],
-    "description": "Patrick Mahinge is a Kenya entrepreneur who also enjoys mountain biking."
-  },
-  {
-    "id": "jane-smith",
-    "name": "Jane Smith",
-    "bio": "Jane Smith is a financial analyst and guest contributor specializing in stock market trends and investment strategies.",
-    "image": "/images/authors/jane-smith.jpg",
-    "jobTitle": "Financial Analyst",
-    "nationality": "American",
-    "worksFor": {
-      "name": "InvestPro Global",
-      "url": "https://investproglobal.com"
-    },
-    "url": "https://janesmith.com",
-    "sameAs": [
-      "https://twitter.com/janesmith",
-      "https://www.linkedin.com/in/jane-smith"
-    ]
+    "jobTitle": "Founder & Editor",
+    "bio": "Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.",
+    "url": "https://thekitchenpot.com/authors/boniface-muriuki/"
   }
 ]

@@ -23,12 +23,7 @@ description: "Are you tired of cluttered cabinets? Here’s how you can use pots
 seo: Pots and pans rack is a necessity if you want to organize your kitchen
   flawlessly. There are several variations including ceiling racks, wall mount,
   and hanging pot racks. Here's the difference.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Did you know that a congested kitchen increases the chance of accidents by almost half? If you’re guilty of placing your pots and pans anyhow in one of your cabinets, you’ll opine that it’s not the safest storage technique.
 

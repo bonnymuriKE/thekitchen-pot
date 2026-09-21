@@ -25,12 +25,7 @@ description: "Ready to smoke like a pro? Learn how to use Masterbuilt electric s
 seo: Wondering how to use Masterbuilt electric smoker? While it may appear
   complicated at first, this guide will simplify it for you. Read on and smoke
   your meat like a pro!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If grilling and smoking meat is your forte, then you’ll opine that the Masterbuilt electric smoker is a game-changer. The dynamic appliance is, by far, the most convenient and efficient smoker you’ll find in the market today.
 

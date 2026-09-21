@@ -23,12 +23,7 @@ description: "Which is the best electric can openers for you? Discover which mod
 seo: Buying the best electric can opener is definitely an excellent decision if
   you regularly handle canned meals. This article will offer you exceptional
   tips on how to choose the ideal one!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you’re a fan of canned food, you’ll opine that it can be frustrating to open the cans. To save yourself from the hassle, you should invest in the best electric can opener.
 

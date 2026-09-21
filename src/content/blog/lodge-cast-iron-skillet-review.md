@@ -24,12 +24,7 @@ description: "Curious about the Lodge Cast Iron Skillet? This review reveals 6 r
 seo: This lodge cast iron skillet review gives you honest details about the
   skillet. We tell you what we liked and what we didn't like about the Lodge
   skillet. Read on.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 It’s hard to ignore the popularity of the **[Lodge cast iron skillet](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Skillet-Silicone/dp/B00G2XGC88?tag=kitchenpot-20)**. It has become a favorite for many cooking enthusiasts, and we bought one to test its efficacy. 
 

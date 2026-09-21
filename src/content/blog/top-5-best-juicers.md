@@ -24,12 +24,7 @@ description: "Not all juicers are created equal! Our best juicers guide reveals 
 seo: Are you shopping for the best juicer? Well, you need to consider several
   factors before settling for one! This article offers a comprehensive buying
   guide and top juicers in the market.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Owning the best juicer offers unmatched convenience! It allows you to make your favourite juice whenever you feel like. Unlike [blenders](https://thekitchenpot.com/blog/best-blender-for-protein-shakes/), juicers allow you to include anything you need without the worry of destroying the blades.
 

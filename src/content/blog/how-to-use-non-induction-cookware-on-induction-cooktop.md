@@ -24,12 +24,7 @@ description: "Can you use non-induction cookware on an induction cooktop? Yes. N
 seo: Wondering how to use non induction cookware on induction cooktop? This
   guide offers 3 invaluable tips that will enable you utilize your noninduction
   cookware optimally
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 It can be frustrating to buy your best cookware set only to realize that it doesn’t work with your favorite **[induction cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money/)**. But all is not lost. There are a few things you can do to make it compatible with an induction cooktop.
 

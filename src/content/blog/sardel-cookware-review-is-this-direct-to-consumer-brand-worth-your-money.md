@@ -23,12 +23,7 @@ description: "Sardel cookware review: Is it worthwhile? This review dives into q
 seo: If you intend to upgrade your kitchen arsenal, you need to shop for a
   cookware that meets all your needs. This Sardel cookware review gives an
   honest review on the pans.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 No matter how hard you try, your kitchen will be incomplete without a stainless steel cookware set.
 

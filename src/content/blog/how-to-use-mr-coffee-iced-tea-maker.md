@@ -24,12 +24,7 @@ description: "Nothing beats perfect iced tea in summer. Here’s how to use Mr. 
 seo: If you love iced tea, then it is time you consider owning an iced tea
   maker. This article provides an elaborate guide on how to use Mr. Coffee Iced
   Tea Maker. Read on for more.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 The joy that comes with fall/autumn is unrivaled. The warm weather and the spectacular sight of sunrise are incredibly refreshing. Considering that you’ve endured the long winter days, too much heat can lead to a little discomfort. 
 

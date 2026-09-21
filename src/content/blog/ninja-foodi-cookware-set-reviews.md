@@ -24,12 +24,7 @@ description: "Looking for pans that perform? This Ninja Foodi Cookware Set shows
 seo: Is Ninja Foodi Cookware Set all you need for your nonstick cooking needs?
   How efficient is it? This all-inclusive guide evaluates the performance of the
   set. Read on
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 There are many things that you can do without and still have a good meal. But a [good quality cookware set](https://thekitchenpot.com/blog/7-best-stackable-pots-and-pans/) has no alternative. It is a must-have for any serious chef.
 

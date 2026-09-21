@@ -23,12 +23,7 @@ description: "Milo Dutch Oven Review: Is it worth your money? Discover why this 
 seo: If you want to get the best searing and braising experience, you should buy
   Milo Dutch Oven. Unlike Le Creuset and Staub Dutch ovens, Milo is quite
   affordable. Read the Milo Dutch Oven review here
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Dutch ovens are versatile. These cast-iron cookware can braise your meat, boil water for pasta, deep fry, and bake, among many other applications. They are a must-have for any serious cook or professional chef. 
 

@@ -23,12 +23,7 @@ description: "Is the Stargazer Cast Iron Skillet really the best skillet for you
 seo: Stargazer cast iron skillet is lightweight, smooth, and guarantees
   top-notch performance. I bought the pan to test its performance and here are
   the results. Read on
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Stargazer cast iron skillet appears quite dull on unpacking – certainly not a shiny finish but a bit brighter than **[Lodge cast iron skillet.](https://thekitchenpot.com/blog/lodge-cast-iron-skillet-review/)** 
 

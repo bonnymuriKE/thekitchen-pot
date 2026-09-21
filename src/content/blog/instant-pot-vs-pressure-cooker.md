@@ -22,12 +22,7 @@ description: "Are you confused between Instant Pot and a classic pressure cooker
 seo: Instant pot vs pressure cooker? This is a common quagmire that faces
   cooking enthusiasts! Which one is better for you? This article evaluates the
   pros and cons of each.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Instant pot vs pressure cooker? This is a common quagmire that faces cooking enthusiasts! It’s relatively challenging for many people to differentiate between these two cooking equipment.
 

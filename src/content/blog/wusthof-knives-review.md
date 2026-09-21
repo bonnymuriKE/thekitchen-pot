@@ -23,12 +23,7 @@ description: "In this honest Wusthof knives review, we put these iconic blades t
 seo: Wusthof knives have been in the market for more than 200 years. They never
   lose demand. So, what is the secret behind the success? Here is a
   comprehensive Wusthof knives review.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Wusthof has built a global reputation as one of the best knife makers in the world. This German company makes heavy-duty knives that are a desire for any enthusiastic chef.
 

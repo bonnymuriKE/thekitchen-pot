@@ -24,12 +24,7 @@ description: "Tiny kitchen? NuWave induction cooktop saves space, heats instantl
 seo: Induction cooking is a convenient and efficient method. If you want to buy
   an induction cooktop, then read through this NuWave Induction cooktop review
   to make an informed decision.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Cooking from your kitchen can be monotonous, right? You’d need to try outdoor recipes with your family as you bond. But there is a problem:
 

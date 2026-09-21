@@ -2,27 +2,13 @@
 // src/pages/author/boniface-muriuki.astro
 import Layout from "../../layouts/Layout.astro";
 import Hero from "../../components/Author/Hero.astro";
-import EEATBadges from "../../components/Author/EEATBadges.astro";
-import ExpertiseTimeline from "../../components/Author/ExpertiseTimeline.astro";
-import MediaFeatures from "../../components/Author/MediaFeatures.astro";
 import EEATSchema from "../../components/Author/EEATSchema.astro";
-import ContactPantry from "@/components/Author/ContactPantry.astro";
-import SimmeringPublications from "@/components/Author/SimmeringPublications.astro";
-import FlavorTimeline from "@/components/Author/FlavorTimeline.astro";
 
-const pageTitle = "Boniface Muriuki - Executive Chef & Tiny Kitchen Expert";
-const pageDescription = "15+ year culinary expert specializing in small-space cooking solutions. Le Cordon Bleu graduate, James Beard nominee, and bestselling author.";
+const pageTitle = "Boniface Muriuki - Founder & Editor, The Kitchen Pot";
+const pageDescription = "Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.";
 ---
 
-
 <Layout title={pageTitle} description={pageDescription}>
-    <EEATSchema />
+  <EEATSchema />
   <Hero />
-  <EEATBadges />
-  <FlavorTimeline />
-  {/* <SimmeringPublications /> */}
-  <ExpertiseTimeline />
-  <MediaFeatures />
-  <ContactPantry />
-  <!-- Add other components -->
 </Layout>

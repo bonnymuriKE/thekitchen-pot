@@ -23,12 +23,7 @@ description: "Don’t let missing cornstarch ruin your recipe! Learn what to use
 seo: Cornstarch is essential for thickening your soup and sauces. But what do
   you do when you can't access it. What to use instead of cornstarch? This
   article gives healthy substitutes for cornstarch. Read on
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 If you love cooking and baking, then you understand the crucial role that cornstarch plays in bettering your meals. But what do you do when you desperately want to cook but you can’t access the ingredient?
 

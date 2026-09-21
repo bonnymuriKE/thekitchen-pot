@@ -24,12 +24,7 @@ description: "Lo Mein vs. Chow Mein—think it’s just noodles? Think again. Un
 seo: "Lo Mein vs. Chow Mein: What's the difference? What about Chop Suey? This
   article provides all the details you need to know about these Chinese dishes.
   Read on."
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Chinese dishes are gaining popularity globally. It is not unusual to find Chinese restaurants in the US. 
 

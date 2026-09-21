@@ -23,12 +23,7 @@ description: "NuWave Oven Vs Air Fryers – Which is Better? We tested both so y
 seo: nuwave oven vs air fryers? Are you confused on which one to pick? Well,
   this article offers well-researched details about each product, making it easy
   for you to settle on your best!
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Every year, distinctive and proficient cooking devices hit the market to help meet the wishes and demands of hungry customers.
 

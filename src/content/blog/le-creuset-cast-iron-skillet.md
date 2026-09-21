@@ -24,12 +24,7 @@ description: "Is Le Creuset’s price justified? Should you buy the premium cast
 seo: Le Creuset cast iron skillets are not cheap. But are they worth the
   investment? This article offers comprehensive Le Creuset cast iron skillet
   reviews. Read on
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 What comes to your mind when you hear about Le Creuset cast iron skillet? For many, this brand is associated with sophistication, elegance, and bold pricing.  
 

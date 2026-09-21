@@ -25,12 +25,7 @@ description: "Red Copper cookware review—do these TV-famous pans deliver true 
 seo: Are you looking for genuine red copper cookware reviews? Are these pans
   really nonstick? This article lays bare everything you need to know about red
   copper cookware. Read on.
-authorBio: Chef Boniface is a graduate in Culinary Arts from the Institute of
-  Culinary Education, New York. He has worked in several restaurants and is
-  currently the Head Chef at Cavali Restaurant. He has excelled in developing
-  unique recipes and influencing the menu at the restaurant. He prides himself
-  in sharing his knowledge at thekitchenpot.com where he writes about the best
-  cookware for various recipes..
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Many red copper cookware reviews portray red copper pans and pots as the gold standard for nonstick cookware. However, we’ve all learned to take these adverts and reviews with a pinch of salt – sometimes they can be misleading and inaccurate.
 
