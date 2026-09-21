@@ -2,14 +2,13 @@
 // src/pages/about.astro
 import Layout from '@/layouts/Layout.astro';
 import InnovationHero from '@/components/About/InnovationHero.astro';
-import PhilosophyCard from '@/components/About/PhilosophyCard.astro';
 import ChefShowcase from '@/components/About/ChefShowcase.astro';
+import IconCard from '@/components/About/IconCard.astro';
 
 import heroImage from "@/data/assets/images/quitest-kitchen-appliances.jpg";
 import founderImg from "@/data/assets/images/tiny-kitchen-will-this-fit.jpg";
-import IconCard from '@/components/About/IconCard.astro';
 
-// Sample Chef Data
+// Founder & Editor
 const chefData = {
   name: "Boniface Muriuki",
   role: "Founder & Editor",
@@ -20,11 +19,6 @@ const chefData = {
     "Appliance Downsizing",
     "Clutter-Free Meal Prep",
     "Renter-Friendly Hacks"
-  ],
-  socials: [
-    { platform: "twitter" as const, url: "https://twitter.com/chefboniface" },
-    { platform: "instagram" as const, url: "https://instagram.com/tinykitchenhero" },
-    { platform: "linkedin" as const, url: "https://linkedin.com/in/bonifacem" }
   ]
 };
 ---
@@ -39,17 +33,4 @@ const chefData = {
 
 <IconCard
   title="The Kitchen Pot"
-  content="Most kitchen advice assumes you have unlimited cabinet space. We write for the rest of us: apartments, studios, and small kitchens where every inch matters. We're upfront about our process, some reviews are based on genuine hands-on testing, others are carefully researched buying guides, and we label which is which so you always know what you're getting."
-  icon="mdi:chef-hat"
-  layoutStyle="iconTop"
-
-/>
-
-<div class="container mx-auto px-4 py-12">
-  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10">
-    {[chefData].map(chef => (
-      <ChefShowcase chef={chefData} />
-    ))}
-  </div>
-</div>
-</Layout>
+  content="Most kitchen advice assumes you have unlimited cabinet space. We write for the rest of us:
