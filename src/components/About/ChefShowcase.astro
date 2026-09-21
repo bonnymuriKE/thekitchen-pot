@@ -1,11 +1,5 @@
 ---
 import { Image } from 'astro:assets';
-import { Icon } from 'astro-icon/components';
-
-interface Social {
-  platform: 'twitter' | 'instagram' | 'linkedin' | 'portfolio';
-  url: string;
-}
 
 interface Chef {
   name: string;
@@ -13,7 +7,6 @@ interface Chef {
   bio: string;
   image: any;
   specialties: string[];
-  socials?: Social[];
 }
 
 interface Props {
@@ -21,30 +14,21 @@ interface Props {
 }
 
 const { chef } = Astro.props;
-
-const socialIcons = {
-  twitter: 'mdi:twitter',
-  instagram: 'mdi:instagram',
-  linkedin: 'mdi:linkedin',
-  portfolio:'mdi:book'
-
-};
 ---
 <section id="meet-the-team" class="bg-primary/5 py-12 w-full">
 
-
 <section
-  class="group relative bg-card rounded-3xl shadow-lg overflow-hidden max-w-prose hover:shadow-xl transform hover:scale-[1.02] focus-within:scale-[1.02] transition-all duration-300"
+  class="group relative bg-card rounded-3xl shadow-lg overflow-hidden max-w-prose mx-auto hover:shadow-xl transform hover:scale-[1.02] focus-within:scale-[1.02] transition-all duration-300"
   itemscope
   itemtype="http://schema.org/Person"
 >
-  <div class="relative  max-w-prose overflow-hidden">
+  <div class="relative max-w-prose overflow-hidden">
     <Image
       src={chef.image}
       alt={`Portrait of ${chef.name}`}
       width={chef.image.width}
       height={chef.image.height}
-      class="  group-hover:grayscale-0 transform group-hover:scale-105 transition-all duration-700"
+      class="group-hover:grayscale-0 transform group-hover:scale-105 transition-all duration-700"
       itemprop="image"
     />
 
@@ -74,27 +58,3 @@ const socialIcons = {
         </span>
       ))}
     </div>
-
-    <p
-      class="text-muted-foreground text-base leading-relaxed line-clamp-3"
-      itemprop="description"
-    >
-      {chef.bio}
-    </p>
-
-    <div class="flex gap-4 pt-2 opacity-75 group-hover:opacity-100 transition-opacity">
-    {chef.socials?.map(social => (
-      <a
-        href={social.url}
-        class="text-primary hover:text-primary/80 hover:scale-110 transition-all"
-        aria-label={`Follow ${chef.name} on ${social.platform}`}
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <Icon name={socialIcons[social.platform]} class="w-6 h-6" />
-      </a>
-    ))}
-    </div>
-  </div>
-</section>
-</section>
