@@ -2,9 +2,6 @@
 // src/components/Privacy/PolicySection.astro
 import { Icon } from 'astro-icon/components';
 
-import PrivacyPolicies from "@/data/content/PrivacyPolicies.json";
-
-
 interface Props {
   title: string;
   icon: string;
@@ -17,13 +14,13 @@ const { title, icon, content, index, id } = Astro.props;
 ---
 
 <section
+  id={id}
   class="relative py-16"
   style={`--parallax-speed: ${0.2 + (index * 0.1)}`}
 >
-  {/* Parallax Layer */}
+  {/* Gradient Layer */}
   <div
-    class="absolute inset-0 bg-[url('/images/kitchen-texture.png')] bg-fixed opacity-10"
-    style="transform: translateY(calc(var(--scroll) * var(--parallax-speed) * 1px))"
+    class="absolute inset-0 bg-gradient-to-b from-orange-50 to-amber-50 opacity-40"
   ></div>
 
   <div class="backdrop-blur-lg bg-white/80 rounded-3xl p-8 shadow-xl max-w-4xl mx-auto">
