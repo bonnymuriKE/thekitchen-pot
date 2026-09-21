@@ -12,24 +12,42 @@ const reasons = [
         description: "We factor in real footprint and storage needs, so you're not guessing whether it'll actually fit your space.",
         image: FitImg,
         icon: "mdi:ruler-square",
-        color: "purple",
-        link: "/blog/tag/storage-organization/"
+        link: "/blog/tag/storage-organization/",
+        ringClass: "border-purple-100",
+        glowClass: "from-purple-600/20 to-purple-400/5",
+        overlayClass: "from-purple-900/20 to-purple-600/40",
+        iconTextClass: "text-purple-600",
+        badgeClass: "from-purple-600 to-purple-400",
+        titleHoverClass: "group-hover:text-purple-700",
+        linkClass: "text-purple-600 hover:text-purple-800",
     },
     {
         title: "Quiet Enough for Roommates",
         description: "We flag noise complaints and reviews from real buyers, so loud appliances don't catch you off guard.",
         image: SilentImg,
         icon: "mdi:volume-low",
-        color: "cyan",
-        link: "/blog/category/small-appliances/"
+        link: "/blog/tag/eco-friendly-appliances/",
+        ringClass: "border-cyan-100",
+        glowClass: "from-cyan-600/20 to-cyan-400/5",
+        overlayClass: "from-cyan-900/20 to-cyan-600/40",
+        iconTextClass: "text-cyan-600",
+        badgeClass: "from-cyan-600 to-cyan-400",
+        titleHoverClass: "group-hover:text-cyan-700",
+        linkClass: "text-cyan-600 hover:text-cyan-800",
     },
     {
         title: "Multipurpose or Bust",
         description: "If it can't do at least 3 jobs (looking at you, Instant Pot + yogurt maker + rice cooker), we won't waste your precious cabinet space.",
         image: MultipurposeImg,
         icon: "mdi:tools",
-        color: "teal",
-        link: "/blog/category/small-appliances/"
+        link: "/blog/tag/cooking-for-one/",
+        ringClass: "border-teal-100",
+        glowClass: "from-teal-600/20 to-teal-400/5",
+        overlayClass: "from-teal-900/20 to-teal-600/40",
+        iconTextClass: "text-teal-600",
+        badgeClass: "from-teal-600 to-teal-400",
+        titleHoverClass: "group-hover:text-teal-700",
+        linkClass: "text-teal-600 hover:text-teal-800",
     },
 ];
 ---
@@ -64,11 +82,11 @@ const reasons = [
     <div class="grid grid-cols-1 md:grid-cols-3 gap-8 lg:gap-10">
       {reasons.map((reason, index) => (
         <div class="group relative h-full">
-          <div class="absolute inset-0 bg-gradient-to-br from-{reason.color}-600/20 to-{reason.color}-400/5 rounded-2xl blur-sm -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-          
-          <div class="h-full bg-white/80 backdrop-blur-sm rounded-2xl overflow-hidden shadow-lg border border-{reason.color}-100 hover:shadow-xl transition-all duration-300 hover:-translate-y-1">
+          <div class={`absolute inset-0 bg-gradient-to-br ${reason.glowClass} rounded-2xl blur-sm -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500`}></div>
+
+          <div class={`h-full bg-white/80 backdrop-blur-sm rounded-2xl overflow-hidden shadow-lg border ${reason.ringClass} hover:shadow-xl transition-all duration-300 hover:-translate-y-1`}>
             <div class="relative">
-              <div class="absolute inset-0 bg-gradient-to-br from-{reason.color}-900/20 to-{reason.color}-600/40 mix-blend-multiply"></div>
+              <div class={`absolute inset-0 bg-gradient-to-br ${reason.overlayClass} mix-blend-multiply`}></div>
               <Image
                 src={reason.image}
                 alt={`${reason.title} product category`}
@@ -77,31 +95,31 @@ const reasons = [
                 format="webp"
                 class="w-full h-48 object-cover transform group-hover:scale-105 transition-transform duration-700"
               />
-              
+
               <div class="absolute top-4 right-4">
                 <div class="w-12 h-12 rounded-full bg-white/90 backdrop-blur-md flex items-center justify-center shadow-lg transform group-hover:scale-110 transition-transform duration-300">
-                  <Icon name={reason.icon} class={`w-6 h-6 text-${reason.color}-600`} />
+                  <Icon name={reason.icon} class={`w-6 h-6 ${reason.iconTextClass}`} />
                 </div>
               </div>
-              
+
               <div class="absolute -bottom-6 left-6">
-                <div class={`w-12 h-12 rounded-xl bg-gradient-to-br from-${reason.color}-600 to-${reason.color}-400 flex items-center justify-center shadow-lg transform rotate-12 group-hover:rotate-0 transition-transform duration-500`}>
+                <div class={`w-12 h-12 rounded-xl bg-gradient-to-br ${reason.badgeClass} flex items-center justify-center shadow-lg transform rotate-12 group-hover:rotate-0 transition-transform duration-500`}>
                   <span class="text-white font-bold text-lg">0{index + 1}</span>
                 </div>
               </div>
             </div>
-            
+
             <div class="p-8 pt-10 relative">
-              <h3 class={`text-xl font-bold mb-3 text-gray-800 group-hover:text-${reason.color}-700 transition-colors duration-300`}>
+              <h3 class={`text-xl font-bold mb-3 text-gray-800 ${reason.titleHoverClass} transition-colors duration-300`}>
                 {reason.title}
               </h3>
-              
+
               <p class="text-gray-600 leading-relaxed">
                 {reason.description}
               </p>
-              
+
               <div class="mt-6 flex justify-end">
-                <a href={reason.link} class={`inline-flex items-center gap-1 text-${reason.color}-600 hover:text-${reason.color}-800 font-medium text-sm transition-colors duration-300 group-hover:translate-x-1`}>
+                <a href={reason.link} class={`inline-flex items-center gap-1 ${reason.linkClass} font-medium text-sm transition-colors duration-300 group-hover:translate-x-1`}>
                   <span>Learn more</span>
                   <Icon name="mdi:arrow-right" class="w-4 h-4" />
                 </a>

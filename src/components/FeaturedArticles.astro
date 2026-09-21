@@ -6,37 +6,33 @@ import { Icon } from 'astro-icon/components';
 import { Image } from 'astro:assets';
 import featureImage from '../assets/images/feature-image.png';
 
-type Post = { data: { image: string; title: string; pubDate: string; excerpt: string; slug: string; } };
 // Fetch all blog posts
 const allPosts = await getCollection('blog');
 
-// Sort posts by pubDate (newest first)
-const sortedPosts = allPosts.sort((a, b) => {
-  return new Date(b.data.pubDate || '').getTime() - new Date(a.data.pubDate || '').getTime();
-});
+// The Small-Space Kitchens pillars, in nav order, each paired with its
+// cornerstone/pillar article slug. These are the entry-point guides for
+// each subsection, so they're what the homepage should feature.
+const pillars = [
+  { pillar: 'storage-organization', label: 'Storage & Organization', slug: 'how-to-organize-a-small-kitchen-with-no-pantry' },
+  { pillar: 'cooking-for-one', label: 'Cooking for One', slug: 'how-to-stock-a-small-kitchen-for-solo-cooking' },
+  { pillar: 'eco-friendly-appliances', label: 'Eco-Friendly Appliances', slug: 'most-energy-efficient-small-kitchen-appliances' },
+  { pillar: 'small-space-bakeware', label: 'Small-Space Bakeware', slug: 'best-bakeware-for-small-kitchens' },
+  { pillar: 'balcony-patio-grilling', label: 'Balcony & Patio Grilling', slug: 'best-small-grills-for-balconies-and-patios' },
+];
 
-// Get unique tags
-const allTags = [...new Set(sortedPosts.flatMap(post => post.data.tags || []))];
-
-// Group posts by tag
-const postsByTag: Record<string, Post[]> = allTags.reduce((acc, tag) => {
-  acc[tag] = sortedPosts.filter(post => post.data.tags?.includes(tag));
-  return acc;
-}, {} as Record<string, Post[]>);
-
-// Pagination
-const postsPerPage = 9;
-const currentPage = Number(Astro.url.searchParams.get('page') || 1);
-const totalPages = Math.ceil(sortedPosts.length / postsPerPage);
-const paginatedPosts = sortedPosts.slice((currentPage - 1) * postsPerPage, currentPage * postsPerPage);
-
-
-// Featured posts: prioritize Small-Space content first, filling any remaining
-// slots with other recent posts. As more small-space articles are published,
-// this section naturally becomes fully small-space-focused.
-const smallSpacePosts = sortedPosts.filter(post => post.data.smallSpacePillar);
-const otherPosts = sortedPosts.filter(post => !post.data.smallSpacePillar);
-const featuredPosts = [...smallSpacePosts, ...otherPosts].slice(0, 3);
+// Resolve each pillar's cornerstone post, falling back to the most recent
+// post tagged with that pillar if the specific slug isn't found (so this
+// never silently breaks if a slug changes).
+const featuredPosts = pillars
+  .map(({ pillar, slug }) => {
+    const bySlug = allPosts.find(post => post.data.slug === slug);
+    if (bySlug) return bySlug;
+    const byPillar = allPosts
+      .filter(post => post.data.smallSpacePillar === pillar)
+      .sort((a, b) => new Date(b.data.pubDate || '').getTime() - new Date(a.data.pubDate || '').getTime());
+    return byPillar[0];
+  })
+  .filter(Boolean);
 
 // Helper function to format date
 function formatDate(dateString: Date | undefined) {
@@ -60,19 +56,26 @@ function formatDate(dateString: Date | undefined) {
   </div>
 
   <div class="container mx-auto px-4 relative z-10">
-    <div class="flex flex-col md:flex-row justify-between items-center mb-16">
-      <div class=" md:mb-0">
+    <div class="flex flex-col gap-6 mb-16">
+      <div>
         <h2 class="font-display leading-relaxed text-4xl bg-gradient-to-r from-cyan-300 via-teal-300 to-purple-400 bg-clip-text text-transparent">
-          TRENDING CONTENT
+          SMALL-KITCHEN ESSENTIALS
         </h2>
         <div class="h-1 w-24 bg-gradient-to-r from-cyan-400 to-purple-500 mt-2 rounded-full"></div>
+        <p class="text-slate-300 mt-4 max-w-2xl">
+          Our pillar guides for making the most of a small kitchen, apartment, or studio, one section at a time.
+        </p>
       </div>
-      <a href="/blog/" class="group px-6 py-3 bg-gradient-to-r from-cyan-500 to-teal-400 hover:from-purple-500 hover:to-cyan-500 text-white rounded-full flex items-center gap-2 transition-all duration-300 shadow-lg shadow-cyan-500/20 hover:shadow-purple-500/30">
-        View All Articles
-        <span class="bg-white rounded-full p-1 transform group-hover:translate-x-1 transition-transform">
-          <ArrowRight className="h-4 w-4 text-cyan-500 group-hover:text-purple-500 transition-colors" />
-        </span>
-      </a>
+      <div class="flex flex-wrap gap-3">
+        {pillars.map(({ pillar, label }) => (
+          <a
+            href={`/blog/tag/${pillar}/`}
+            class="px-4 py-2 rounded-full border border-slate-600 text-sm text-slate-200 hover:border-cyan-400 hover:text-cyan-300 transition-colors"
+          >
+            {label}
+          </a>
+        ))}
+      </div>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
