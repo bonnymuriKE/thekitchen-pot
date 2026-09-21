@@ -1,13 +1,11 @@
 ---
 // src/components/Privacy/PolicyHero.astro
-import { Image } from 'astro:assets';
-
 ---
 <section class="relative min-h-[60vh] flex items-center overflow-hidden">
-  {/* Parallax Background */}
-  <div class="absolute inset-0 bg-[url('/images/privacy-bg.jpg')] bg-fixed bg-cover bg-center scale-110"></div>
+  {/* Gradient Background */}
+  <div class="absolute inset-0 bg-gradient-to-br from-orange-600 via-amber-600 to-orange-800"></div>
 
-  {/* Glassmorphism Overlay */}
+  {/* Overlay */}
   <div class="absolute inset-0 bg-black/30 backdrop-blur-sm"></div>
 
   <div class="relative z-10 container mx-auto px-4 text-center">
