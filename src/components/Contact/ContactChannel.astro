@@ -6,26 +6,29 @@ interface Props {
   icon: string;
   title: string;
   details: string[];
-  accentColor?: string;
 }
 
-const { icon, title, details, accentColor = 'orange' } = Astro.props;
+const { icon, title, details } = Astro.props;
 ---
 
 <section class="bg-white p-8 rounded-3xl shadow-lg hover:shadow-xl transition-shadow
-              border-l-8 border-${accentColor}-600 group">
+              border-l-8 border-orange-600 group">
   <div class="flex items-start gap-6">
-    <div class="w-16 h-16 bg-${accentColor}-100 rounded-2xl flex items-center justify-center
-              group-hover:bg-${accentColor}-600 transition-colors">
-      <Icon name={icon} class="w-8 h-8 text-${accentColor}-600 group-hover:text-white" />
+    <div class="w-16 h-16 bg-orange-100 rounded-2xl flex items-center justify-center
+              group-hover:bg-orange-600 transition-colors">
+      <Icon name={icon} class="w-8 h-8 text-orange-600 group-hover:text-white" />
     </div>
 
     <div class="flex-1">
       <h3 class="text-2xl font-bold mb-4">{title}</h3>
       {details.map((detail) => (
         <p class="text-gray-600 mb-2 flex items-center gap-2">
-          <Icon name="mdi:chevron-right" class="text-${accentColor}-600" />
-          {detail}
+          <Icon name="mdi:chevron-right" class="text-orange-600" />
+          {detail.includes('@') ? (
+            <a href={`mailto:${detail}`} class="hover:text-orange-600 transition-colors">{detail}</a>
+          ) : (
+            detail
+          )}
         </p>
       ))}
     </div>
