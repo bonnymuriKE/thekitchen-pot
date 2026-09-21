@@ -1,62 +1,56 @@
 [
   {
-    "title": "Welcome to Our Privacy Policy",
+    "title": "Welcome",
     "icon": "mdi:shield-lock",
-    "content": "<p class='lead'>Just like we help you organize your physical kitchen space, we're committed to keeping your digital space secure and clutter-free. This policy explains how we handle your information with the same care you'd expect in a well-organized kitchen.</p>",
+    "content": "<p class='lead'>The Kitchen Pot is a content site about kitchen organization and small-space cooking. We publish articles, guides, and product recommendations, and some of the links on our site are affiliate links. This policy explains what information we collect from visitors, how we use it, and the choices you have.</p>",
     "slug": "welcome"
   },
   {
     "title": "What We Collect",
     "icon": "mdi:database-lock",
-    "content": "<div class='space-y-4'><p>We collect essential 'ingredients' to serve you better:</p><ul><li>Basic contact information (name, email, phone number)</li><li>Your preferences and interests in kitchen organization</li><li>Website usage data to improve your experience</li><li>Comments and feedback you choose to share</li></ul><p>We only collect what's necessary – just like you'd only gather the ingredients you need for a recipe.</p></div>",
-    "slug": "data-collection"
+    "content": "<div class='space-y-4'><p>We collect a limited amount of information from visitors to our site:</p><ul><li><strong>Contact form submissions:</strong> if you reach out to us through our contact form, we collect the name, email address, and message you provide.</li><li><strong>Newsletter sign-ups:</strong> if you subscribe to our newsletter, we collect your email address so we can send you updates.</li><li><strong>Analytics usage data:</strong> like most websites, we use analytics tools to understand how visitors use our site, such as which pages are viewed and how long visitors stay.</li><li><strong>Cookies:</strong> small files stored in your browser that support site functionality, analytics, and affiliate tracking (see below).</li></ul></div>",
+    "slug": "what-we-collect"
   },
   {
-    "title": "How We Use Your Information",
+    "title": "How We Use Information",
     "icon": "mdi:cog",
-    "content": "<div class='space-y-4'><p>Your information helps us:</p><ul><li>Personalize your kitchen organization experience</li><li>Send relevant tips and updates about kitchen organization</li><li>Improve our services based on your feedback</li><li>Respond to your questions and support needs</li></ul><p>We handle your data with care, just like you'd handle your favorite kitchen tools.</p></div>",
-    "slug": "information-usage"
+    "content": "<div class='space-y-4'><p>We use the information we collect to:</p><ul><li>Respond to messages sent through our contact form</li><li>Send newsletter updates to subscribers who have opted in</li><li>Understand how visitors use our site so we can improve our content</li><li>Keep our site secure and functioning properly</li></ul><p>We do not sell your personal information.</p></div>",
+    "slug": "how-we-use-information"
   },
   {
-    "title": "Our Recipe for Data Usage",
-    "icon": "mdi:pot-steam",
-    "content": "<div class='space-y-4'><h3 class='text-xl font-semibold text-orange-700 mb-4'>We Never Microwave Your Data</h3><p>Just like a gourmet meal, we prepare and process your information with care and purpose. Here's our detailed recipe for using your data:</p><div class='grid gap-6 mt-6'><div class='bg-orange-50 rounded-xl p-6 border-l-4 border-orange-400'><h4 class='flex items-center gap-3 text-lg font-medium mb-3'><span class='p-2 bg-orange-100 rounded-lg'><Icon name='mdi:room-service' class='w-6 h-6 text-orange-600' /></span>Service Simmering</h4><p class='mb-3'>We carefully process your data to:</p><ul class='space-y-2 text-gray-700'><li>• Handle your orders with precision</li><li>• Maintain your account fresh and up-to-date</li><li>• Serve you prompt customer support</li></ul></div><div class='bg-orange-50 rounded-xl p-6 border-l-4 border-orange-400'><h4 class='flex items-center gap-3 text-lg font-medium mb-3'><span class='p-2 bg-orange-100 rounded-lg'><Icon name='mdi:palette' class='w-6 h-6 text-orange-600' /></span>Flavor Personalization</h4><p class='mb-3'>We analyze your preferences to:</p><ul class='space-y-2 text-gray-700'><li>• Recommend perfect storage solutions for your kitchen</li><li>• Suggest organization tools that match your space</li><li>• Create a tailored browsing experience</li></ul></div><div class='bg-orange-50 rounded-xl p-6 border-l-4 border-orange-400'><h4 class='flex items-center gap-3 text-lg font-medium mb-3'><span class='p-2 bg-orange-100 rounded-lg'><Icon name='mdi:email-newsletter' class='w-6 h-6 text-orange-600' /></span>Nutrition Labels</h4><p class='mb-3'>We keep you informed with:</p><ul class='space-y-2 text-gray-700'><li>• Order status updates and confirmations</li><li>• Important policy and service changes</li><li>• Weekly kitchen organization tips (if you've opted in)</li></ul></div><div class='bg-orange-50 rounded-xl p-6 border-l-4 border-orange-400'><h4 class='flex items-center gap-3 text-lg font-medium mb-3'><span class='p-2 bg-orange-100 rounded-lg'><Icon name='mdi:chart-box' class='w-6 h-6 text-orange-600' /></span>Quality Control</h4><p class='mb-3'>We monitor and improve by:</p><ul class='space-y-2 text-gray-700'><li>• Analyzing how visitors navigate our site</li><li>• Identifying and fixing usability issues</li><li>• Optimizing our digital 'kitchen layout'</li></ul></div><div class='bg-orange-50 rounded-xl p-6 border-l-4 border-orange-400'><h4 class='flex items-center gap-3 text-lg font-medium mb-3'><span class='p-2 bg-orange-100 rounded-lg'><Icon name='mdi:shield-check' class='w-6 h-6 text-orange-600' /></span>Safety First</h4><p class='mb-3'>We protect your experience by:</p><ul class='space-y-2 text-gray-700'><li>• Detecting suspicious activities</li><li>• Preventing unauthorized access</li><li>• Maintaining a secure shopping environment</li></ul></div></div><p class='text-sm italic mt-6 bg-orange-100 p-4 rounded-lg'>Just as every ingredient in a recipe serves a purpose, each way we use your data is essential to providing you with the best possible kitchen organization experience. We never use your information in ways you wouldn't expect – no mystery ingredients in our data kitchen!</p></div>",
-    "slug": "data-usage"
-},
+    "title": "Affiliate Links & Cookies",
+    "icon": "mdi:link-variant",
+    "content": "<div class='space-y-4'><p>The Kitchen Pot participates in the Amazon Associates Program and other affiliate marketing programs. This means we may earn a commission if you click a link on our site and make a purchase, at no additional cost to you.</p><p>When you click an affiliate link, the retailer (such as Amazon) may set a cookie in your browser to track that the referral came from our site. These third-party cookies are governed by the privacy policies of the respective retailers, not by us. We do not control how these companies use the data collected through their cookies.</p></div>",
+    "slug": "affiliate-links-cookies"
+  },
   {
-    "title": "Sharing the Feast",
+    "title": "Sharing Your Information",
     "icon": "mdi:share-variant",
-    "content": "<div class='space-y-4'><h3 class='text-xl font-semibold text-orange-700 mb-4'>We Don't Sell Your Recipe Book</h3><p>Just like a cherished family cookbook, we keep your information private. We never sell, rent, or trade your personal data to third parties for marketing purposes.</p><div class='mt-6'><h4 class='text-lg font-medium mb-3'>Our Trusted Sous-Chefs</h4><p>We only share your information with carefully selected partners who help us serve you better:</p><div class='grid md:grid-cols-2 gap-6 mt-4'><div class='bg-orange-50/50 p-4 rounded-lg'><h5 class='font-medium mb-2'>Delivery Partners</h5><ul class='space-y-2'><li>• Shipping carriers (UPS, FedEx) for product delivery</li><li>• Address verification services</li></ul></div><div class='bg-orange-50/50 p-4 rounded-lg'><h5 class='font-medium mb-2'>Payment Processing</h5><ul class='space-y-2'><li>• Secure payment processors (Stripe, PayPal)</li><li>• Fraud prevention services</li></ul></div><div class='bg-orange-50/50 p-4 rounded-lg'><h5 class='font-medium mb-2'>Kitchen Analytics</h5><ul class='space-y-2'><li>• Google Analytics for website improvement</li><li>• Customer service tools</li></ul></div><div class='bg-orange-50/50 p-4 rounded-lg'><h5 class='font-medium mb-2'>Legal Requirements</h5><ul class='space-y-2'><li>• Court orders and legal obligations</li><li>• Protection of rights and safety</li></ul></div></div></div><div class='mt-6 border-t border-orange-100 pt-6'><h4 class='text-lg font-medium mb-3'>Business Transfers</h4><p>In the rare case of a kitchen remodel (merger, acquisition, or sale), your data may be transferred as part of our business assets. We'll notify you well in advance of any such changes and ensure your rights are protected.</p></div><p class='text-sm italic mt-6 bg-orange-50 p-4 rounded-lg'>All our partners are bound by strict confidentiality agreements and must follow our recipe for data protection. They can only use your information for specific, authorized purposes – just like a sous-chef following the head chef's exact instructions.</p></div>",
-    "slug": "data-sharing"
-  },
-  {
-    "title": "Your Kitchen Rights",
-    "icon": "mdi:chef-hat",
-    "content": "<div class='space-y-4'><p>As the head chef of your data kitchen, you have specific rights that we're committed to honoring:</p><div class='overflow-x-auto'><table class='w-full mt-4 mb-6'><thead class='bg-orange-50'><tr><th class='px-4 py-2 text-left'>Your Right</th><th class='px-4 py-2 text-left'>What You Can Do</th></tr></thead><tbody><tr class='border-b'><td class='px-4 py-3 font-medium'>Access</td><td class='px-4 py-3'>Request a complete copy of your personal data, like reviewing your recipe collection</td></tr><tr class='border-b bg-orange-50/30'><td class='px-4 py-3 font-medium'>Correction</td><td class='px-4 py-3'>Update any inaccurate information, just like adjusting ingredients in a recipe</td></tr><tr class='border-b'><td class='px-4 py-3 font-medium'>Deletion</td><td class='px-4 py-3'>Ask us to remove non-essential data, like clearing out unused ingredients</td></tr><tr class='border-b bg-orange-50/30'><td class='px-4 py-3 font-medium'>Opt-Out</td><td class='px-4 py-3'>Unsubscribe from marketing communications, like declining recipe suggestions</td></tr><tr class='border-b'><td class='px-4 py-3 font-medium'>Portability</td><td class='px-4 py-3'>Export your data in a usable format, like taking your recipes to a new kitchen</td></tr><tr class='border-b bg-orange-50/30'><td class='px-4 py-3 font-medium'>Restriction</td><td class='px-4 py-3'>Limit how we process your data, like setting specific cooking preferences</td></tr></tbody></table></div><p class='mt-4'>To exercise any of these rights, contact our Privacy Team through our <a href='#contact' class='text-orange-600 hover:text-orange-700 underline'>Contact Form</a>. We'll respond to your request within 30 days.</p><p class='text-sm italic mt-4'>Note: Some rights may be limited by legal requirements, just like certain kitchen safety regulations must be followed.</p></div>",
-    "slug": "kitchen-rights"
+    "content": "<div class='space-y-4'><p>We do not sell your personal information. We share information only in the following circumstances:</p><ul><li><strong>Netlify:</strong> our site is hosted on Netlify, which also processes submissions from our contact form.</li><li><strong>Google Analytics:</strong> we use Google Analytics to understand site traffic and usage patterns.</li><li><strong>Affiliate networks:</strong> when you click an affiliate link, the destination retailer may receive information about the referral, as described above.</li><li><strong>Legal requirements:</strong> we may disclose information if required to do so by law or in response to valid legal requests.</li></ul></div>",
+    "slug": "sharing-your-information"
   },
   {
     "title": "Your Rights and Choices",
     "icon": "mdi:account-check",
-    "content": "<div class='space-y-4'><p>You're in control of your data, just like you're in control of your kitchen. You can:</p><ul><li>Access your personal information</li><li>Update or correct your details</li><li>Request deletion of your data</li><li>Opt-out of marketing communications</li><li>Choose what you share with us</li></ul><p>Think of it as having full control over your kitchen's recipe book.</p></div>",
-    "slug": "your-rights"
+    "content": "<div class='space-y-4'><p>You have choices about the information we collect:</p><ul><li>You can decline to use our contact form if you'd rather not share your name, email, or message with us.</li><li>You can unsubscribe from our newsletter at any time using the unsubscribe link in any email, or by contacting us directly.</li><li>You can control or disable cookies through your browser settings, including cookies used for analytics and affiliate tracking.</li><li>You can contact us to ask what information we hold about you or to request that it be deleted.</li></ul></div>",
+    "slug": "your-rights-and-choices"
   },
   {
     "title": "Data Security",
     "icon": "mdi:security",
-    "content": "<div class='space-y-4'><p>We protect your information like you'd protect your valuable kitchen equipment:</p><ul><li>Secure storage and encryption</li><li>Regular security updates</li><li>Limited access to authorized personnel</li><li>Continuous monitoring for potential risks</li></ul><p>Your digital security is as important to us as food safety in a kitchen.</p></div>",
-    "slug": "security"
+    "content": "<div class='space-y-4'><p>We take reasonable steps to protect the information we collect, including relying on the security practices of our hosting provider (Netlify) for form submissions and site infrastructure. However, no method of transmission or storage over the internet is completely secure, and we cannot guarantee absolute security.</p></div>",
+    "slug": "data-security"
   },
   {
-    "title": "Contact Us",
-    "icon": "mdi:message",
-    "content": "<div class='space-y-4'><p>Have questions about our privacy practices? We're here to help!</p><p>Email: privacy@thekitchenpot.com<br>Phone: (555) 123-4567<br>Address: 123 Kitchen Street, Culinary City, CC 12345</p><p>We aim to respond to all privacy-related inquiries within 48 hours, just like we believe in prompt kitchen service.</p></div>",
-    "slug": "contact"
+    "title": "Children's Privacy",
+    "icon": "mdi:human-child",
+    "content": "<div class='space-y-4'><p>The Kitchen Pot is not directed at children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal information, please contact us so we can remove it.</p></div>",
+    "slug": "childrens-privacy"
   },
   {
     "title": "Policy Updates",
     "icon": "mdi:bell-ring",
-    "content": "<div class='space-y-4'><p>Just like recipes evolve, our privacy practices may need occasional updates. Here's how we'll keep you in the loop:</p><ul><li><strong>Minor Updates:</strong> Changes will be reflected on this page with an updated timestamp</li><li><strong>Major Changes:</strong> We'll notify you via email and display a prominent banner on our website</li><li><strong>Policy Archive:</strong> Previous versions of our privacy policy are available <a href='/privacy/archive' class='text-orange-600 hover:text-orange-700 underline'>in our archive</a></li></ul><p>Last Updated: January 2025</p><p class='text-sm italic mt-4'>We encourage you to review this policy periodically, like checking your favorite cookbook for updated recipes.</p></div>",
+    "content": "<div class='space-y-4'><p>We may update this privacy policy from time to time to reflect changes in our practices. Any changes will be posted on this page with an updated revision date.</p><p>Last Updated: September 2026</p><p>If you have any questions about this policy, please contact us at <a href='mailto:thekitchenpot8@gmail.com' class='text-orange-600 hover:text-orange-700 underline'>thekitchenpot8@gmail.com</a>.</p></div>",
     "slug": "policy-updates"
   }
 ]
