@@ -1,24 +1,11 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Hero from '@/components/Hero.astro';
 import FeaturedArticles from '@/components/FeaturedArticles.astro';
 import Newsletter from '@/components/Newsletter.astro';
 import WhyChooseUs from '@/components/WhyChooseUs.astro';
-import { Image } from 'astro:assets';
 import SpaceSavingCookware from "@/components/blog/SpaceSaving.astro";
-import AboutHero from '@/components/AboutHero.astro';
-
-
-import heroImage from "@/data/assets/images/multipurpose-kitchen-appliances.jpg"
 import PainPoints from '@/components/PainPoints.astro';
-import ProblemSolvers from '@/components/ProblemSolvers.astro';
-import TrustBuilder from '@/components/TrustBuilder.astro';
-import SizeComparator from '@/components/homepage/SizeComparator.astro';
-import StorageQuiz from '@/components/homepage/StorageQuiz.astro';
-import SpaceCalculator from '@/components/homepage/SpaceCalculator.astro';
-import SeasonalCarousel from '@/components/homepage/SeasonalCarousel.astro';
 import Bakeware from '@/components/blog/Bakeware.astro';
-import FeatureCategory from '@/components/blog/FeaturedCategory.astro';
 ---
 
 <Layout
@@ -30,26 +17,11 @@ import FeatureCategory from '@/components/blog/FeaturedCategory.astro';
       <!-- Background decoration -->
       <div class="absolute inset-0 bg-grid-slate-100 [mask-image:linear-gradient(0deg,transparent,black,transparent)] pointer-events-none"></div>
       <SpaceSavingCookware />
-      <!-- Hero section with enhanced backdrop -->
-      <div class="relative z-10 backdrop-blur-[2px]">
-        
-        
-      </div>
-      <FeatureCategory />
 
       <!-- Pain points with floating effect -->
       <div class="relative z-20 mt-[-4rem] transform-gpu">
         <PainPoints />
       </div>
-
-      <!-- Interactive small-space tools -->
-      <StorageQuiz />
-
-      <!-- Trust builder with glassmorphism 
-      <div class="relative z-10 mt-16 backdrop-blur-sm bg-white/30">
-        <TrustBuilder />
-      </div>
-      -->
 
       <!-- Bakeware section with parallax scroll -->
       <div class="relative z-20 mt-6 transform-gpu">
