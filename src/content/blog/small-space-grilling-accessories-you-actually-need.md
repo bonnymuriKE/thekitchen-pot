@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: Grill accessory aisles are full of gadgets you'll use once and then
   store forever. If you're grilling on a balcony or small patio, space is the
   real currency, so here's the short list of accessories that genuinely earn

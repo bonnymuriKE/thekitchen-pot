@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: The pots and pans you cook with matter almost as much as the stove
   you cook on. The right material, size, and shape can cut your cooking time
   and energy use, while the wrong choice wastes heat with every meal. Here's

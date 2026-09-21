@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: Your kitchen is probably the biggest energy user in your apartment,
   even if it's tiny. The good news is that most of the fixes cost nothing and
   take five minutes. Here's a real, renter-friendly plan for cutting your

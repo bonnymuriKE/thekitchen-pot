@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: You don't need a drawer full of single-purpose gadgets to bake well.
   A small, well-chosen set of space-saving baking tools can cover almost
   everything you'll ever bake, without taking over your kitchen. Here's the

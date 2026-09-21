@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: No counter space doesn't mean no baking. With the right order of
   operations, a few multi-use tools, and some smart borrowing of space you're
   not using, you can bake bread, cookies, and cakes in a kitchen with barely

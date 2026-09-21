@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: You don't need to replace every appliance in your kitchen to make it
   greener. From swapping a full-size oven for a countertop convection oven to
   ditching single-use plastic gadgets, small changes add up fast. Here are

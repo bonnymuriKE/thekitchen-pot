@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: When your cabinets are full and your counters are covered, the next
   place to look isn't more square footage, it's the empty space above your
   head. These vertical storage ideas for small kitchens turn unused walls

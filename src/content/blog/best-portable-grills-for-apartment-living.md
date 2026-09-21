@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: Apartment living means smaller balconies, stricter fire rules, and no
   patience for a grill you can't easily store. Here's how to pick a genuinely
   portable grill that fits your space, your lease, and how often you'll actually

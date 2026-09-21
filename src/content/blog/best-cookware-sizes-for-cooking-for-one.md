@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: Most cookware sets are built and priced around cooking for four to
   six people, which means half the pieces you own are probably too big for
   what you actually cook. If you're cooking for one, getting the sizing

@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: Small kitchens don't have to mean small savings. The right compact
   appliances can cook your meals using a fraction of the energy a full-size
   oven or stove needs. Here's exactly which small kitchen appliances save the

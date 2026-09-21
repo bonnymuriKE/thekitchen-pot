@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: A small kitchen doesn't have less potential storage, it just has less
   forgiving cabinets. Every inch that's wasted on awkward stacking or dead
   corner space is space you actually need. These small kitchen cabinet

@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: Living somewhere small doesn't mean giving up real backyard flavor. Whether
   you have a narrow balcony, a tiny concrete patio, or a shared courtyard, there's
   a grill sized and rated for your space. Here's how to pick the right one without

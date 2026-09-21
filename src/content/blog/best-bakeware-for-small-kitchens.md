@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: You don't need a full-size baking cabinet to bake well. If your kitchen
   is tiny, the trick is choosing bakeware that's sized right, stacks well, and
   pulls double duty. Here's exactly what to buy, and what to skip, when every

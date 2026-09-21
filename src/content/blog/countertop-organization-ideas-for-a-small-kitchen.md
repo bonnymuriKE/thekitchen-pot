@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: In a small kitchen, counter space is the most valuable real estate
   you have, and it's usually the first thing to disappear under appliances,
   mail, and half-used bags of snacks. These countertop organization ideas

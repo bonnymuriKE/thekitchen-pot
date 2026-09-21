@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: No pantry doesn't mean no storage. If your dry goods, canned food, and
   snacks are scattered across every cabinet in your kitchen, you can still
   build a system that works. These practical, mostly renter-friendly fixes

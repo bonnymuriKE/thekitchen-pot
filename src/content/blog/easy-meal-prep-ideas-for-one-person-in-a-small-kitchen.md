@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: Most meal prep advice assumes you have a big kitchen, a full set of
   containers, and four mouths to feed. Meal prep for one person actually
   works differently, and it's easier once you stop trying to follow family-size

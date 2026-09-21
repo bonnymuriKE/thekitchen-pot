@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: Not sure why your baking sheet doesn't fit your oven, or your cabinet?
   You're probably using standard restaurant-size bakeware in a kitchen built
   for something smaller. Here's a full breakdown of compact pan sizes, so you

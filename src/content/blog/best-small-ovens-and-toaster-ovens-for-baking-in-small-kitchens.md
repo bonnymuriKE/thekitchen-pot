@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: No full-size oven? No problem. A good countertop or toaster oven can
   bake cookies, cakes, and even bread just fine, once you know what features
   actually matter. Here's how to choose the best small oven for your space,

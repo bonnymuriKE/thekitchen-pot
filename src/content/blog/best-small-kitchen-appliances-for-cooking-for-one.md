@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: Full-size appliances are built for families, not for one person and
   a small counter. If your kitchen is tiny and you're tired of hauling out a
   giant blender for a single smoothie, these are the small kitchen appliances

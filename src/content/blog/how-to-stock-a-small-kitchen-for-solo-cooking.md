@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: Stocking a kitchen for one person is a completely different exercise
   than stocking one for a family. You need fewer of almost everything, but
   the "fewer" part is exactly where most people get it wrong, buying either

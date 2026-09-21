@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: Kitchen drawers have a way of turning into a junk drawer no matter
   how small your kitchen is. Utensils tangle, gadgets pile up, and the drawer
   that should hold your everyday tools becomes the one you dread opening.

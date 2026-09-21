@@ -5,7 +5,7 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
 author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: ""
 excerpt: Kitchen gadget aisles are full of tools that promise to save you
   time, but most of them just take up drawer space you don't have. If you're
   cooking for one in a small kitchen, only a handful of gadgets actually earn
