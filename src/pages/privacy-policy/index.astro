@@ -8,24 +8,9 @@ import ConsentManager from '@/components/Privacy/ConsentManager.astro';
 import PrivacyPolicies from '@/data/content/PrivacyPolicies.json';
 
 import Layout from '@/layouts/Layout.astro';
-
-const sections = [
-  {
-    id: 'data-collection',
-    title: 'Ingredients We Gather',
-    icon: 'mdi:clipboard-list',
-    content: `We collect only essential data...`
-  },
-  {
-    id: 'data-use',
-    title: 'Our Recipe for Data Usage',
-    icon: 'mdi:chef-hat',
-    content: `Your information helps us...`
-  }
-];
 ---
 
-<Layout title="Privacy Policy" description="" robots="index, follow">
+<Layout title="Privacy Policy" description="Learn how The Kitchen Pot collects, uses, and protects your information, including our use of affiliate links and cookies." robots="index, follow">
 
   <PolicyHero />
 
