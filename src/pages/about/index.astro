@@ -2,8 +2,8 @@
 // src/pages/about.astro
 import Layout from '@/layouts/Layout.astro';
 import InnovationHero from '@/components/About/InnovationHero.astro';
+import MissionSection from '@/components/About/MissionSection.astro';
 import ChefShowcase from '@/components/About/ChefShowcase.astro';
-import IconCard from '@/components/About/IconCard.astro';
 
 import heroImage from "@/data/assets/images/quitest-kitchen-appliances.jpg";
 import founderImg from "@/data/assets/images/tiny-kitchen-will-this-fit.jpg";
@@ -31,6 +31,7 @@ const chefData = {
   imageSrc={heroImage}
 />
 
-<IconCard
-  title="The Kitchen Pot"
-  content="Most kitchen advice assumes you have unlimited cabinet space. We write for the rest of us:
+<MissionSection />
+
+<ChefShowcase chef={chefData} />
+</Layout>
