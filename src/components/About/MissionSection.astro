@@ -11,41 +11,59 @@ import { Icon } from 'astro-icon/components';
     <div class="grid lg:grid-cols-[auto,1fr] gap-8 lg:gap-12 items-start">
       <Icon name="mdi:format-quote-open" class="w-16 h-16 lg:w-24 lg:h-24 text-orange-300 flex-shrink-0 -mt-4" />
 
-      <div class="space-y-8">
-        <p class="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 leading-tight">
-          Most kitchen advice assumes you have unlimited cabinet space.
-          <span class="text-orange-600">We write for the rest of us.</span>
-        </p>
+      <div class="space-y-10">
+        <div class="space-y-8">
+          <p class="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 leading-tight">
+            Most kitchen advice assumes you have unlimited cabinet space.
+            <span class="text-orange-600">We write for the rest of us.</span>
+          </p>
 
-        <p class="text-lg md:text-xl text-gray-600 leading-relaxed max-w-3xl">
-          Apartments, studios, and small kitchens where every inch matters, not generic "best of" lists built for someone else's pantry.
-        </p>
+          <p class="text-lg md:text-xl text-gray-600 leading-relaxed max-w-3xl">
+            Apartments, studios, and small kitchens where every inch matters, not generic "best of" lists built for someone else's pantry.
+          </p>
+        </div>
 
-        <div class="grid sm:grid-cols-2 gap-4 pt-4 max-w-2xl">
-          <div class="flex items-start gap-4 bg-white rounded-2xl p-5 shadow-md border border-orange-100">
-            <div class="w-11 h-11 rounded-xl bg-orange-600 flex items-center justify-center flex-shrink-0">
-              <Icon name="mdi:hand-back-right" class="w-6 h-6 text-white" />
-            </div>
-            <div>
-              <p class="font-bold text-gray-900">Hands-On Tested</p>
-              <p class="text-sm text-gray-600">We bought it, used it in a real small kitchen, and tell you what actually happened.</p>
-            </div>
-          </div>
+        {/* How We Review */}
+        <div class="max-w-2xl">
+          <p class="text-xs font-bold uppercase tracking-widest text-orange-600 mb-4">How We Review</p>
 
-          <div class="flex items-start gap-4 bg-white rounded-2xl p-5 shadow-md border border-orange-100">
-            <div class="w-11 h-11 rounded-xl bg-orange-600 flex items-center justify-center flex-shrink-0">
-              <Icon name="mdi:magnify" class="w-6 h-6 text-white" />
+          <div class="space-y-3">
+            <div class="flex items-start gap-4 bg-white rounded-2xl p-6 shadow-md border-2 border-orange-200">
+              <div class="w-12 h-12 rounded-xl bg-orange-600 flex items-center justify-center flex-shrink-0">
+                <Icon name="mdi:magnify" class="w-7 h-7 text-white" />
+              </div>
+              <div>
+                <p class="font-bold text-gray-900 text-lg">Mostly Researched Buying Guides</p>
+                <p class="text-sm text-gray-600 mt-1 leading-relaxed">
+                  For most of what we recommend, we dig into specs, compare real owner reviews, and cross-check trusted sources, built specifically around small-kitchen needs.
+                </p>
+              </div>
             </div>
-            <div>
-              <p class="font-bold text-gray-900">Researched Guide</p>
-              <p class="text-sm text-gray-600">Carefully compared specs, reviews, and real owner feedback when hands-on testing isn't possible.</p>
+
+            <div class="flex items-start gap-4 bg-white rounded-2xl p-5 shadow-sm border border-orange-100 sm:ml-8">
+              <div class="w-10 h-10 rounded-xl bg-orange-100 flex items-center justify-center flex-shrink-0">
+                <Icon name="mdi:hand-back-right" class="w-5 h-5 text-orange-600" />
+              </div>
+              <div>
+                <p class="font-semibold text-gray-900">Sometimes, Hands-On Tested</p>
+                <p class="text-sm text-gray-600 mt-1 leading-relaxed">
+                  Occasionally, we buy a product ourselves and put it to work in a real small kitchen.
+                </p>
+              </div>
             </div>
           </div>
         </div>
 
-        <p class="text-sm text-gray-500 italic pt-2">
-          We always tell you which is which, so you know exactly what you're getting.
-        </p>
+        {/* Transparency Promise */}
+        <div class="max-w-2xl flex items-start gap-4 bg-teal-700 text-white rounded-2xl p-6 shadow-lg">
+          <Icon name="mdi:shield-check" class="w-9 h-9 flex-shrink-0 text-teal-200" />
+          <div>
+            <p class="font-bold text-lg">Our Transparency Promise</p>
+            <p class="text-teal-50 mt-1 leading-relaxed">
+              Whenever we buy and personally test a product, we say so explicitly, right in the article. We never let you guess which recommendations are hands-on and which are research-based.
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
