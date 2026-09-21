@@ -1,25 +1,21 @@
 ---
 // src/components/Privacy/PolicyTOC.astro
 import { Icon } from "astro-icon/components";
+import PrivacyPolicies from "@/data/content/PrivacyPolicies.json";
 ---
 
 <aside class="sticky top-24 hidden lg:block ml-8">
   <nav class="bg-white/80 backdrop-blur-lg rounded-xl p-6 shadow-lg border border-orange-100">
     <h3 class="text-xl font-bold mb-4 text-orange-600">Table of Contents</h3>
     <ul class="space-y-3">
-      <li>
-        <a href="#data-collection" class="flex items-center gap-2 hover:text-orange-700">
-          <Icon name="mdi:clipboard-list" class="w-5 h-5" />
-          Data Collection
-        </a>
-      </li>
-      <li>
-        <a href="#data-use" class="flex items-center gap-2 hover:text-orange-700">
-          <Icon name="mdi:chart-box" class="w-5 h-5" />
-          Data Usage
-        </a>
-      </li>
-      {/* Add more TOC items */}
+      {PrivacyPolicies.map((policy) => (
+        <li>
+          <a href={`#${policy.slug}`} class="flex items-center gap-2 hover:text-orange-700">
+            <Icon name={policy.icon} class="w-5 h-5" />
+            {policy.title}
+          </a>
+        </li>
+      ))}
     </ul>
   </nav>
 </aside>
