@@ -78,7 +78,7 @@ const pageNumbers = Array.from(
               })}
             </time>
             <p class="text-gray-600 mb-4 line-clamp-3">{post.data.description.slice(0, 56)}</p>
-            
+            <a
               href={`/blog/${post.id}/`}
               class="inline-flex p-2 pl-2 rounded-full bg-golf-accent items-center text-blue-100 hover:text-blue-100 font-serif font-medium"
             >
@@ -105,7 +105,7 @@ const pageNumbers = Array.from(
         {totalPages > 1 && (
       <nav class="flex justify-center items-center mt-12" aria-label="Pagination">
         <div class="flex items-center gap-2">
-          
+          <a
             href={currentPage > 1 ? `/blog/${currentPage - 1}/` : undefined}
             class={`px-4 py-2 text-sm font-medium rounded-md ${
               currentPage === 1
@@ -120,7 +120,7 @@ const pageNumbers = Array.from(
           <div class="hidden sm:flex gap-1">
             {startPage > 1 && (
               <>
-                
+                <a
                   href="/blog/1/"
                   class="px-4 py-2 text-sm font-medium rounded-md bg-white text-gray-700 hover:bg-gray-50"
                 >
@@ -133,7 +133,7 @@ const pageNumbers = Array.from(
             )}
 
             {pageNumbers.map((pageNum) => (
-              
+              <a
                 href={`/blog/${pageNum}/`}
                 class={`px-4 py-2 text-sm font-medium rounded-md ${
                   currentPage === pageNum
@@ -151,7 +151,7 @@ const pageNumbers = Array.from(
                 {endPage < totalPages - 1 && (
                   <span class="px-3 py-2 text-gray-500">...</span>
                 )}
-                
+                <a
                   href={`/blog/${totalPages}/`}
                   class="px-4 py-2 text-sm font-medium rounded-md bg-white text-gray-700 hover:bg-gray-50"
                 >
@@ -161,7 +161,7 @@ const pageNumbers = Array.from(
             )}
           </div>
 
-          
+          <a
             href={currentPage < totalPages ? `/blog/${currentPage + 1}/` : undefined}
             class={`px-4 py-2 text-sm font-medium rounded-md ${
               currentPage === totalPages
