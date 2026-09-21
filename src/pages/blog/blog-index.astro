@@ -1,0 +1,143 @@
+---
+import Layout from '@/layouts/Layout.astro'
+
+import { getCollection } from 'astro:content';
+//export const prerender = true;
+
+
+
+// Redirect to /blog/1
+//return Astro.redirect('/blog/1');
+
+/**
+ * Pagination settings and validation
+ */
+// Import or define your posts array here
+//import posts from '@/data/posts'; // Adjust the path as needed
+
+const allPosts = await getCollection('blog');
+
+// Sort posts by date descending (customize as needed)
+const sortedPosts = allPosts.sort((a, b) => {
+  return new Date(b.data.modDate || '').getTime() - new Date(a.data.modDate || '').getTime();
+});
+
+const itemsPerPage = 12;
+const totalPosts = sortedPosts.length;
+const totalPages = Math.ceil(totalPosts / itemsPerPage);
+let currentPage = Number(Astro.url.searchParams.get('page')) || 1;
+
+
+// Validate current page number
+if (currentPage < 1) currentPage = 1;
+if (currentPage > totalPages) currentPage = totalPages;
+
+const startIndex = (currentPage - 1) * itemsPerPage;
+const endIndex = startIndex + itemsPerPage;
+const paginatedPosts = sortedPosts.slice(startIndex, endIndex);
+
+// Calculate pagination range
+const maxVisiblePages = 5;
+const startPage = Math.max(1, currentPage - Math.floor(maxVisiblePages / 2));
+const endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
+const pageNumbers = Array.from(
+  { length: endPage - startPage + 1 },
+  (_, i) => startPage + i
+);
+---
+
+<Layout 
+title="Blog"
+>
+  <main class="container mx-auto px-4 py-16">
+    <h1 class="text-4xl font-bold mb-6 text-center">Blog</h1>
+
+    <!-- Blog Posts Section -->
+    <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {paginatedPosts.map((post) => (
+        <article class="bg-white shadow-md rounded-lg overflow-hidden">
+          <img src={post.data.image || "/images/blog/default-cover.jpg"} alt={post.data.title} class="w-full h-48 object-cover" />
+          <div class="p-4">
+            <h2 class="text-xl font-semibold mb-2"><a href={`/blog/${post.data.slug}/`} class="text-blue-500 hover:underline">{post.data.title}</a></h2>
+            <p class="text-gray-600 mb-4">{post.data.description}</p>
+            <a href={`/blog/${post.data.slug}/`} class="text-golf-primary hover:underline">Read more</a>
+          </div>
+        </article>
+      ))}
+    </section>
+
+    {totalPages > 1 && (
+      <nav class="flex justify-center items-center mt-12" aria-label="Pagination">
+        <div class="flex items-center gap-2">
+          <a
+            href={currentPage > 1 ? `/${currentPage - 1}?page=${currentPage - 1}` : undefined}
+            class={`px-4 py-2 text-sm font-medium rounded-md ${
+              currentPage === 1
+                ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
+                : 'bg-white text-gray-700 hover:bg-gray-50'
+            }`}
+            aria-disabled={currentPage === 1}
+          >
+            Previous
+          </a>
+
+          <div class="hidden sm:flex gap-1">
+            {startPage > 1 && (
+              <>
+                <a
+                  href="?page=1"
+                  class="px-4 py-2 text-sm font-medium rounded-md bg-white text-gray-700 hover:bg-gray-50"
+                >
+                  1
+                </a>
+                {startPage > 2 && (
+                  <span class="px-3 py-2 text-gray-500">...</span>
+                )}
+              </>
+            )}
+
+            {pageNumbers.map((pageNum) => (
+              <a
+                href={`/blog/${pageNum}/?page=${pageNum}`}
+                class={`px-4 py-2 text-sm font-medium rounded-md ${
+                  currentPage === pageNum
+                    ? 'bg-golf-accent text-white'
+                    : 'bg-white text-gray-700 hover:bg-gray-50'
+                }`}
+                aria-current={currentPage === pageNum ? 'page' : undefined}
+              >
+                {pageNum}
+              </a>
+            ))}
+
+            {endPage < totalPages && (
+              <>
+                {endPage < totalPages - 1 && (
+                  <span class="px-3 py-2 text-gray-500">...</span>
+                )}
+                <a
+                  href={`/blog/${totalPages}?page=${totalPages}`}
+                  class="px-4 py-2 text-sm font-medium rounded-md bg-white text-gray-700 hover:bg-gray-50"
+                >
+                  {totalPages}
+                </a>
+              </>
+            )}
+          </div>
+
+          <a
+            href={currentPage < totalPages ? `/blog/${currentPage + 1}?page=${currentPage + 1}` : undefined}
+            class={`px-4 py-2 text-sm font-medium rounded-md ${
+              currentPage === totalPages
+                ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
+                : 'bg-white text-gray-700 hover:bg-gray-50'
+            }`}
+            aria-disabled={currentPage === totalPages}
+          >
+            Next
+          </a>
+        </div>
+      </nav>
+    )}
+  </main>
+</Layout>
