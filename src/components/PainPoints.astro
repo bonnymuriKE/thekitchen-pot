@@ -2,7 +2,86 @@
 // src/components/PainPoints.astro
 import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
-import kitchenClutterImg from "@/assets/images/the-kitchen-pot-bakeware.png";
+import storageImg from "@/data/assets/images/tiny-kitchen-will-this-fit.jpg";
+import cookingImg from "@/data/assets/images/foodwine.jpeg";
+import ecoImg from "@/data/assets/images/quitest-kitchen-appliances.jpg";
+import bakewareImg from "@/assets/images/the-kitchen-pot-bakeware.png";
+
+const painPoints = [
+  {
+    title: "Countertop Battlefield",
+    description: "Battling countertop clutter and cabinets that won't fit your pots, pans, and bakeware.",
+    icon: "mdi:account-hard-hat",
+    image: storageImg,
+    link: "/blog/tag/storage-organization/",
+    color: "purple",
+  },
+  {
+    title: "Family-Size Everything",
+    description: "Every recipe and cookware set seems built for four people, not for cooking solo or for two.",
+    icon: "mdi:silverware-fork-knife",
+    image: cookingImg,
+    link: "/blog/tag/cooking-for-one/",
+    color: "cyan",
+  },
+  {
+    title: "Mystery Electric Bill",
+    description: "No idea which of your small appliances are quietly running up your energy costs.",
+    icon: "mdi:lightning-bolt",
+    image: ecoImg,
+    link: "/blog/tag/eco-friendly-appliances/",
+    color: "teal",
+  },
+  {
+    title: "Bakeware Avalanche",
+    description: "Baking pans that never stack, never nest, and never fit the one free shelf you have.",
+    icon: "mdi:cupcake",
+    image: bakewareImg,
+    link: "/blog/tag/small-space-bakeware/",
+    color: "rose",
+  },
+  {
+    title: "Grill Envy",
+    description: "You want to grill, but a balcony or a small patio is all the outdoor space you've got.",
+    icon: "mdi:grill",
+    image: null,
+    link: "/blog/tag/balcony-patio-grilling/",
+    color: "orange",
+  },
+];
+
+const colorClasses: Record<string, { badge: string; ring: string; glow: string; hoverText: string }> = {
+  purple: {
+    badge: "from-purple-500 to-purple-700",
+    ring: "border-purple-100",
+    glow: "from-purple-600/20 to-purple-400/5",
+    hoverText: "group-hover:text-purple-700",
+  },
+  cyan: {
+    badge: "from-cyan-500 to-cyan-700",
+    ring: "border-cyan-100",
+    glow: "from-cyan-600/20 to-cyan-400/5",
+    hoverText: "group-hover:text-cyan-700",
+  },
+  teal: {
+    badge: "from-teal-500 to-teal-700",
+    ring: "border-teal-100",
+    glow: "from-teal-600/20 to-teal-400/5",
+    hoverText: "group-hover:text-teal-700",
+  },
+  rose: {
+    badge: "from-rose-500 to-rose-700",
+    ring: "border-rose-100",
+    glow: "from-rose-600/20 to-rose-400/5",
+    hoverText: "group-hover:text-rose-700",
+  },
+  orange: {
+    badge: "from-orange-500 to-orange-700",
+    ring: "border-orange-100",
+    glow: "from-orange-600/20 to-orange-400/5",
+    hoverText: "group-hover:text-orange-700",
+  },
+};
 ---
 
 <section class="relative py-16 sm:py-24 overflow-hidden" aria-labelledby="tiny-kitchen-problems">
@@ -10,118 +89,91 @@ import kitchenClutterImg from "@/assets/images/the-kitchen-pot-bakeware.png";
   <div class="absolute inset-0 bg-gradient-to-br from-purple-900/5 to-cyan-900/5"></div>
   <div class="absolute top-0 right-0 w-1/3 h-1/3 bg-cyan-300/20 rounded-full blur-3xl -z-10"></div>
   <div class="absolute bottom-0 left-0 w-1/2 h-1/2 bg-purple-300/10 rounded-full blur-3xl -z-10"></div>
-  
+
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
     <div class="text-center mb-12">
-      <h2 class="text-3xl md:text-4xl font-bold tracking-tight mb-4">
+      <h2 id="tiny-kitchen-problems" class="text-3xl md:text-4xl font-bold tracking-tight mb-4">
         <span class="bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-teal-500">
           Cooking in a cramped kitchen feels like...
         </span>
       </h2>
       <div class="w-24 h-1 bg-gradient-to-r from-purple-500 to-teal-400 mx-auto rounded-full"></div>
+      <p class="text-gray-600 mt-4 max-w-2xl mx-auto">
+        Pick the problem that sounds like yours, we'll take you straight to the guides for it.
+      </p>
     </div>
 
-    <div class="grid md:grid-cols-3 gap-6 lg:gap-10">
-      <!-- Card 1 -->
-      <div class="group relative">
-        <div class="absolute inset-0 bg-gradient-to-br from-purple-600/20 to-purple-400/5 rounded-2xl blur-sm -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-        <div class="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-lg border border-purple-100 hover:shadow-xl transition-all duration-300 hover:-translate-y-1 overflow-hidden">
-          <div class="flex items-start gap-5">
-            <div class="relative">
-              <div class="absolute inset-0 bg-gradient-to-br from-purple-400 to-purple-600 rounded-xl blur-md opacity-50 group-hover:opacity-70 transition-opacity duration-300"></div>
-              <div class="relative w-14 h-14 bg-gradient-to-br from-purple-500 to-purple-700 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-105 transition-transform duration-300">
-                <Icon name="mdi:account-hard-hat" class="text-white w-8 h-8" />
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 items-stretch">
+      {painPoints.map((point) => {
+        const c = colorClasses[point.color];
+        return (
+          <a href={point.link} class="group relative block h-full">
+            <div class={`absolute inset-0 bg-gradient-to-br ${c.glow} rounded-2xl blur-sm -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500`}></div>
+            <div class={`h-full flex flex-col bg-white/80 backdrop-blur-sm rounded-2xl shadow-lg border ${c.ring} hover:shadow-xl transition-all duration-300 hover:-translate-y-1 overflow-hidden`}>
+              {point.image ? (
+                <div class="relative h-36 overflow-hidden">
+                  <Image
+                    src={point.image}
+                    alt={point.title}
+                    width={500}
+                    height={280}
+                    format="webp"
+                    class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                  />
+                  <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+                  <div class="absolute bottom-3 left-3">
+                    <div class={`w-11 h-11 rounded-xl bg-gradient-to-br ${c.badge} flex items-center justify-center shadow-lg`}>
+                      <Icon name={point.icon} class="text-white w-6 h-6" />
+                    </div>
+                  </div>
+                </div>
+              ) : (
+                <div class={`relative h-36 flex items-center justify-center bg-gradient-to-br ${c.badge}`}>
+                  <Icon name={point.icon} class="text-white w-12 h-12 opacity-90" />
+                </div>
+              )}
+              <div class="p-6 flex-1 flex flex-col">
+                <h3 class={`text-xl font-semibold text-gray-800 mb-2 ${c.hoverText} transition-colors duration-300`}>
+                  {point.title}
+                </h3>
+                <p class="text-gray-600 flex-1">{point.description}</p>
+                <span class={`mt-4 inline-flex items-center gap-1 text-sm font-medium ${c.hoverText} transition-colors duration-300`}>
+                  See the guides
+                  <Icon name="mdi:arrow-right" class="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                </span>
               </div>
             </div>
-            <div>
-              <h3 class="text-xl font-semibold text-gray-800 mb-2 group-hover:text-purple-700 transition-colors duration-300">Countertop Battlefield</h3>
-              <p class="text-gray-600">Battling countertop clutter just to chop an onion</p>
-            </div>
-          </div>
-          <div class="absolute -bottom-12 -right-12 w-32 h-32 bg-purple-200/30 rounded-full blur-2xl -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-        </div>
-      </div>
-
-      <!-- Card 2 -->
-      <div class="group relative mt-8 md:mt-0">
-        <div class="absolute inset-0 bg-gradient-to-br from-cyan-600/20 to-cyan-400/5 rounded-2xl blur-sm -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-        <div class="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-lg border border-cyan-100 hover:shadow-xl transition-all duration-300 hover:-translate-y-1 overflow-hidden">
-          <div class="flex items-start gap-5">
-            <div class="relative">
-              <div class="absolute inset-0 bg-gradient-to-br from-cyan-400 to-cyan-600 rounded-xl blur-md opacity-50 group-hover:opacity-70 transition-opacity duration-300"></div>
-              <div class="relative w-14 h-14 bg-gradient-to-br from-cyan-500 to-cyan-700 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-105 transition-transform duration-300">
-                <Icon name="mdi:package-variant" class="text-white w-8 h-8" />
-              </div>
-            </div>
-            <div>
-              <h3 class="text-xl font-semibold text-gray-800 mb-2 group-hover:text-cyan-700 transition-colors duration-300">Storage Tetris</h3>
-              <p class="text-gray-600">Playing Tetris with your pots and appliances</p>
-            </div>
-          </div>
-          <div class="absolute -bottom-12 -right-12 w-32 h-32 bg-cyan-200/30 rounded-full blur-2xl -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-        </div>
-      </div>
-
-      <!-- Card 3 -->
-      <div class="group relative mt-8 md:mt-16">
-        <div class="absolute inset-0 bg-gradient-to-br from-teal-600/20 to-teal-400/5 rounded-2xl blur-sm -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-        <div class="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-lg border border-teal-100 hover:shadow-xl transition-all duration-300 hover:-translate-y-1 overflow-hidden">
-          <div class="flex items-start gap-5">
-            <div class="relative">
-              <div class="absolute inset-0 bg-gradient-to-br from-teal-400 to-teal-600 rounded-xl blur-md opacity-50 group-hover:opacity-70 transition-opacity duration-300"></div>
-              <div class="relative w-14 h-14 bg-gradient-to-br from-teal-500 to-teal-700 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-105 transition-transform duration-300">
-                <Icon name="mdi:water" class="text-white w-8 h-8" />
-              </div>
-            </div>
-            <div>
-              <h3 class="text-xl font-semibold text-gray-800 mb-2 group-hover:text-teal-700 transition-colors duration-300">Micro Sink Struggles</h3>
-              <p class="text-gray-600">Scrubbing dishes in a sink smaller than your laptop</p>
-            </div>
-          </div>
-          <div class="absolute -bottom-12 -right-12 w-32 h-32 bg-teal-200/30 rounded-full blur-2xl -z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-        </div>
-      </div>
+          </a>
+        );
+      })}
     </div>
 
-    <!-- Bottom illustration -->
+    <!-- Bottom CTA -->
     <div class="mt-16 relative max-w-3xl mx-auto">
       <div class="absolute inset-0 bg-gradient-to-r from-purple-600/20 to-teal-600/20 rounded-3xl blur-md"></div>
-      <div class="relative bg-white/70 backdrop-blur-md p-6 rounded-3xl shadow-lg border border-purple-100/50 overflow-hidden">
+      <div class="relative bg-white/70 backdrop-blur-md p-8 rounded-3xl shadow-lg border border-purple-100/50 overflow-hidden text-center">
         <div class="absolute -bottom-20 -right-20 w-40 h-40 bg-gradient-to-br from-cyan-400/20 to-purple-400/20 rounded-full blur-3xl"></div>
         <div class="absolute -top-20 -left-20 w-40 h-40 bg-gradient-to-tr from-teal-400/20 to-purple-400/20 rounded-full blur-3xl"></div>
-        
-        <div class="flex flex-col md:flex-row items-center gap-6 md:gap-10">
-          <div class="md:w-1/2">
-            <h3 class="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-teal-500 mb-4">Ready for a solution?</h3>
-            <p class="text-gray-700 mb-6">Our space-saving kitchen tools are designed specifically for tiny kitchens, so you can cook with joy, not frustration.</p>
-            <a href="/about/" class="inline-flex items-center gap-2 bg-gradient-to-r from-purple-600 to-teal-500 text-white font-medium py-3 px-6 rounded-full hover:shadow-lg hover:shadow-purple-200/50 transition-all duration-300 hover:-translate-y-1">
-              <span>Discover Solutions</span>
-              <Icon name="mdi:arrow-right" class="w-5 h-5" />
-            </a>
-          </div>
-          <div class="md:w-1/2 rounded-2xl overflow-hidden shadow-lg">
-            <div class="relative aspect-[4/3] w-full">
-              <div class="absolute inset-0 bg-gradient-to-tr from-purple-500/20 to-teal-500/20 mix-blend-overlay"></div>
-              <Image 
-                src={kitchenClutterImg} 
-                alt="Cluttered tiny kitchen" 
-                format={'webp'}
-                class="w-full h-full object-cover"
-                width={400}
-                height={300}
-              />
-            </div>
+
+        <div class="relative z-10">
+          <h3 class="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-teal-500 mb-4">
+            Not sure which one is you?
+          </h3>
+          <p class="text-gray-700 mb-6 max-w-xl mx-auto">
+            Every guide above is written specifically for small kitchens, apartments, and studios, not generic "best of" lists built for someone else's pantry.
+          </p>
+          <div class="flex flex-wrap justify-center gap-3">
+            {painPoints.map((point) => (
+              <a
+                href={point.link}
+                class="px-4 py-2 rounded-full border border-gray-300 text-sm text-gray-700 hover:border-purple-400 hover:text-purple-700 transition-colors"
+              >
+                {point.title}
+              </a>
+            ))}
           </div>
         </div>
       </div>
     </div>
   </div>
 </section>
-
-<style>
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-</style>
