@@ -23,7 +23,7 @@ faq:
       scraper, a silicone spatula, and a quarter sheet pan cover the vast
       majority of home baking needs without taking up much space.
   - question: "Do I need a stand mixer to bake well?"
-    answer: No. A hand mixer handles almost every home baking task, from
+    answer: No. A [hand mixer](/blog/best-hand-mixers/) handles almost every home baking task, from
       whipping cream to creaming butter and sugar, and stores in a fraction
       of the space a stand mixer needs.
   - question: "What baking gadgets are safe to skip in a small kitchen?"
@@ -75,7 +75,7 @@ If you bake bread frequently and rely on a mixer for kneading, that's the one ca
 
 ### What to get:
 
-* **A hand mixer**, usually $20 to $35.
+* **A [hand mixer](/blog/best-hand-mixers/)**, usually $20 to $35.
 * **A silicone spatula**, usually $6 to $10, for folding batter and scraping bowls completely clean.
 * Consider skipping: a stand mixer, unless you bake bread regularly or bake in large volume often enough to justify the counter space.
 
@@ -129,22 +129,22 @@ Look for a collapsible cooling rack, which folds down to a fraction of its usabl
 
 ## Storage Without a Dedicated Baking Drawer
 
-Most small kitchens don't have a spare drawer to dedicate entirely to baking tools. Instead of fighting for one, consider a countertop crock for your most-used tools, like a spatula, a whisk, and a set of measuring spoons, kept upright and visible near your prep area.
+Most small kitchens don't have a spare drawer to dedicate entirely to baking tools. Instead of fighting for one, consider a countertop crock for your most-used tools, like a spatula, a whisk, and a set of measuring spoons, kept upright and visible near your prep area, the same way you might [store pots and pans](/blog/store-pots-and-pans-in-a-small-kitchen/) out in the open rather than stacked in a cabinet.
 
 For everything else, a single shallow bin inside an existing cabinet, rather than spreading tools across multiple drawers, keeps your baking gear together and easy to find. When everything lives in one place, you're less likely to buy duplicates of tools you already own but couldn't locate.
 
 ### What to get:
 
 * **A countertop utensil crock**, usually $10 to $20, for daily-use tools.
-* **A shallow bin or drawer organizer**, usually $8 to $15, to corral the rest of your baking tools in a single cabinet spot.
+* **A [shallow bin or drawer organizer](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/)**, usually $8 to $15, to corral the rest of your baking tools in a single cabinet spot.
 
 **Renter-friendly:** yes.
 
-If counter space is too tight even for a crock, an over-the-cabinet-door hook rack or a magnetic strip mounted with adhesive strips (rather than screws) can hold metal tools like whisks and spatulas with metal handles vertically, freeing up the crock spot entirely for something else. This works especially well in a rental, since adhesive-mount versions come down cleanly without marking cabinet doors or walls.
+If counter space is too tight even for a crock, an [over-the-cabinet-door hook rack](/blog/countertop-organization-ideas-for-a-small-kitchen/) or a [magnetic strip](/blog/best-magnetic-knife-strip/) mounted with adhesive strips (rather than screws) can hold metal tools like whisks and spatulas with metal handles vertically, freeing up the crock spot entirely for something else. This works especially well in a rental, since adhesive-mount versions come down cleanly without marking cabinet doors or walls.
 
 ## Seasonal and Occasional-Use Tools
 
-Not every tool needs a permanent spot in daily rotation. Items you use only around specific holidays, like a set of cookie cutters or a candy thermometer for once-a-year fudge, don't need to compete with your everyday tools for prime real estate. Keep these in a single labeled box stored on a high shelf or in a closet, so you're not digging through daily-use tools every December.
+Not every tool needs a permanent spot in daily rotation. Items you use only around specific holidays, like a set of cookie cutters or a [candy thermometer](/blog/7-best-candy-thermometer/) for once-a-year fudge, don't need to compete with your everyday tools for prime real estate. Keep these in a single labeled box stored on a high shelf or in a closet, so you're not digging through daily-use tools every December.
 
 ## The Honest "Skip It" List
 
@@ -182,10 +182,10 @@ A genuine gap looks like this: you've made banana bread three times in the last 
 
 **Related Guides**
 
-* Best Bakeware for Small Kitchens
-* Compact Baking Sheet and Pan Sizes for Small Kitchens
-* How to Bake in a Small Kitchen Without Extra Counter Space
-* Best Small Ovens and Toaster Ovens for Baking in Small Kitchens
+* [Best Bakeware for Small Kitchens](/blog/best-bakeware-for-small-kitchens/)
+* [Compact Baking Sheet and Pan Sizes for Small Kitchens](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/)
+* [How to Bake in a Small Kitchen Without Extra Counter Space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/)
+* [Best Small Ovens and Toaster Ovens for Baking in Small Kitchens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/)
 
 ## The Bottom Line
 

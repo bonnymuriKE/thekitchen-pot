@@ -61,7 +61,7 @@ It also helps to think in terms of frequency, not just usefulness. An appliance 
 
 An air fryer is probably the single most useful appliance for someone cooking for one. It reheats leftovers so they're crispy instead of soggy, roasts a single portion of vegetables faster than an oven, and cooks proteins like chicken breast or salmon evenly without heating up your whole kitchen the way an oven does.
 
-For one person, you don't need the large family-size baskets. A 2 to 4-quart air fryer is plenty for single portions and takes up a fraction of the counter space.
+For one person, you don't need the large family-size baskets. A [2 to 4-quart air fryer](/blog/best-air-fryers-under-100/) is plenty for single portions and takes up a fraction of the counter space.
 
 **Renter-friendly:** yes, it's a countertop appliance with no installation.
 
@@ -69,7 +69,7 @@ For one person, you don't need the large family-size baskets. A 2 to 4-quart air
 
 ## 2. Single-Serve or Personal Blender
 
-If your mornings involve a smoothie, protein shake, or the occasional soup you want blended smooth, a single-serve blender is far more practical than a full-size pitcher blender. You blend directly into a cup, drink from that same cup, and there's no oversized pitcher to wash and find storage for.
+If your mornings involve a smoothie, protein shake, or the occasional soup you want blended smooth, a [single-serve blender](/blog/best-blenders-for-smoothies/) is far more practical than a full-size pitcher blender. You blend directly into a cup, drink from that same cup, and there's no oversized pitcher to wash and find storage for.
 
 **Renter-friendly:** yes.
 
@@ -77,7 +77,7 @@ If your mornings involve a smoothie, protein shake, or the occasional soup you w
 
 ## 3. Compact Toaster Oven (or Combo Toaster Oven / Air Fryer)
 
-A full-size oven is inefficient for reheating a single slice of pizza or toasting one bagel. It takes minutes to preheat and heats your whole apartment in summer. A compact toaster oven solves this, and a combination toaster oven with air fryer settings can genuinely replace both your air fryer and your oven for most day-to-day cooking.
+A full-size oven is inefficient for reheating a single slice of pizza or toasting one bagel. It takes minutes to preheat and heats your whole apartment in summer. A [compact toaster oven](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) solves this, and a combination toaster oven with air fryer settings can genuinely replace both your air fryer and your oven for most day-to-day cooking.
 
 **Renter-friendly:** yes.
 
@@ -85,7 +85,7 @@ A full-size oven is inefficient for reheating a single slice of pizza or toastin
 
 ## 4. Small Rice Cooker
 
-If rice is part of your regular rotation, a small rice cooker takes the guesswork out of it completely and frees up a stovetop burner. Many small rice cookers also double as a basic steamer for vegetables, which is a nice bonus for one-pot style meals.
+If rice is part of your regular rotation, a [small rice cooker](/blog/best-rice-cooker-for-brown-rice/) takes the guesswork out of it completely and frees up a stovetop burner. Many small rice cookers also double as a basic steamer for vegetables, which is a nice bonus for one-pot style meals.
 
 **Renter-friendly:** yes.
 
@@ -93,7 +93,7 @@ If rice is part of your regular rotation, a small rice cooker takes the guesswor
 
 ## 5. Single-Cup Coffee Maker or Pour-Over Setup
 
-A 12-cup coffee maker is designed for an office break room, not one person. If coffee is part of your routine, a single-serve coffee maker or a simple pour-over setup gives you a fresh cup without a bulky machine or old coffee sitting in a warming carafe for hours.
+A 12-cup coffee maker is designed for an office break room, not one person. If coffee is part of your routine, a [single-serve coffee maker](/blog/top-5-keurig-coffee-maker/) or a simple pour-over setup gives you a fresh cup without a bulky machine or old coffee sitting in a warming carafe for hours.
 
 **Renter-friendly:** yes.
 
@@ -109,7 +109,7 @@ An immersion blender is one of the most underrated tools for solo cooking. It bl
 
 ## 7. Compact Multi-Cooker (Instead of Separate Appliances)
 
-If your kitchen genuinely has no room for multiple appliances, a compact multi-cooker (the kind that pressure cooks, slow cooks, and sometimes sautés) can replace several single-purpose gadgets with one unit. For one person, a 3-quart size is usually enough, well below the 6 or 8-quart versions built for families.
+If your kitchen genuinely has no room for multiple appliances, a [compact multi-cooker](/blog/instant-pot-vs-pressure-cooker/) (the kind that pressure cooks, slow cooks, and sometimes sautés) can replace several single-purpose gadgets with one unit. For one person, a 3-quart size is usually enough, well below the 6 or 8-quart versions built for families.
 
 **Renter-friendly:** yes.
 
@@ -117,7 +117,7 @@ If your kitchen genuinely has no room for multiple appliances, a compact multi-c
 
 ## 8. Electric Kettle
 
-If you drink tea, instant coffee, or just need hot water quickly for cooking (blooming spices, softening noodles, or making a quick broth), an electric kettle boils water in a couple of minutes and uses far less energy than heating a full pot on the stove for a single cup. It's also one of the smallest appliances on this list in terms of footprint, since most models are designed to sit on their own base and store easily on a shelf when not in use.
+If you drink tea, instant coffee, or just need hot water quickly for cooking (blooming spices, softening noodles, or making a quick broth), an [electric kettle](/blog/how-do-electric-kettles-work/) boils water in a couple of minutes and uses far less energy than heating a full pot on the stove for a single cup. It's also one of the smallest appliances on this list in terms of footprint, since most models are designed to sit on their own base and store easily on a shelf when not in use.
 
 **Renter-friendly:** yes.
 
@@ -131,7 +131,7 @@ If you're unsure whether a new appliance will actually get used, borrow one from
 
 Not every popular appliance earns its space in a small, solo kitchen. Consider skipping:
 
-* **Full-size stand mixers.** Unless you bake often and in real volume, a hand mixer does 90% of the job in a fraction of the space.
+* **Full-size stand mixers.** Unless you bake often and in real volume, a [hand mixer](/blog/best-hand-mixers/) does 90% of the job in a fraction of the space.
 * **Large slow cookers (6-quart or bigger).** These are built for family-size roasts and soups. A 1.5 to 3-quart slow cooker (or your multi-cooker's slow cook setting) is plenty for one.
 * **Juicers.** They're bulky, hard to clean, and most people stop using them within a few months. A blender covers most of the same ground for solo use.
 * **Bread machines.** Unless you eat a full loaf quickly, you'll be storing bread longer than it stays fresh, and the machine itself takes up significant counter space.
@@ -148,7 +148,7 @@ If you can only fit two or three appliances, prioritize based on what actually c
 2. **Pick one blending tool.** An immersion blender or a personal blender covers most needs. You rarely need both.
 3. **Add a rice cooker or multi-cooker only if starch or one-pot meals are a regular part of your cooking.** If you mostly eat salads or sandwiches, skip it.
 
-A vertical appliance shelf, a rolling cart, or a slide-out shelf under a cabinet can also stretch your counter space without adding clutter, letting you store an appliance out of sight until you actually need it.
+A [vertical appliance shelf](/blog/vertical-storage-ideas-for-small-kitchens/), a rolling cart, or a slide-out shelf under a cabinet can also stretch your counter space without adding clutter, letting you store an appliance out of sight until you actually need it.
 
 4. **Consider how often each appliance needs to be pulled out versus left plugged in.** An appliance you use daily, like a coffee maker or air fryer, is worth leaving on the counter. Something you use weekly, like a rice cooker, is a reasonable candidate for cabinet storage between uses, even if that means a little extra effort each time.
 
@@ -163,10 +163,10 @@ If you're furnishing a kitchen from scratch, it's also worth spacing purchases o
 
 **Related Guides**
 
-* Best Cookware Sizes for Cooking for One
-* Small Kitchen Gadgets Worth Buying When You Cook for One
-* How to Stock a Small Kitchen for Solo Cooking
-* How to Store Pots and Pans in a Small Kitchen
+* [Best Cookware Sizes for Cooking for One](/blog/best-cookware-sizes-for-cooking-for-one/)
+* [Small Kitchen Gadgets Worth Buying When You Cook for One](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/)
+* [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
+* [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
 
 ## The Bottom Line
 

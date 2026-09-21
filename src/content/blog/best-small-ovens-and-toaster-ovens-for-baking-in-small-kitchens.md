@@ -30,9 +30,11 @@ faq:
       sized only for toast and small snacks are usually too small for real
       baking.
   - question: "Does a toaster oven use less energy than a full-size oven?"
-    answer: Generally yes, since it heats a much smaller interior space. This
-      also means it typically preheats faster, which is a genuine advantage
-      for small, quick bakes.
+    answer: Generally yes, since it heats a much smaller interior space, which
+      lines up with the broader push toward
+      [energy-efficient small kitchen appliances](/blog/most-energy-efficient-small-kitchen-appliances/).
+      This also means it typically preheats faster, which is a genuine
+      advantage for small, quick bakes.
   - question: "What's the difference between a toaster oven and a countertop
       convection oven for baking?"
     answer: The terms overlap a lot in practice. Look past the name and check
@@ -66,7 +68,7 @@ This overlap in naming is genuinely confusing when you're comparing listings sid
 
 The single biggest factor in whether a small oven can genuinely bake, rather than just toast and reheat, is interior space. Look at what the manufacturer says it fits, not the exterior dimensions, since a bulky exterior doesn't guarantee a usable interior.
 
-At minimum, for real baking, you want an oven that can fit a quarter sheet pan (roughly 9 x 13 inches) with a little clearance on all sides for air to circulate. Many mid-size and larger countertop ovens can fit a 9x13 baking dish or even a 12-inch pizza, which gives you enough room for most cookie batches, a full cake, or a small casserole.
+At minimum, for real baking, you want an oven that can fit a [quarter sheet pan](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) (roughly 9 x 13 inches) with a little clearance on all sides for air to circulate. Many mid-size and larger countertop ovens can fit a 9x13 baking dish or even a [12-inch pizza](/blog/best-pizza-stone/), which gives you enough room for most cookie batches, a full cake, or a small casserole.
 
 Very compact toaster ovens, the kind sized mainly for two slices of bread and a small tray, usually can't fit standard bakeware at all, and are better suited to reheating and basic toasting than actual baking projects.
 
@@ -77,7 +79,7 @@ Very compact toaster ovens, the kind sized mainly for two slices of bread and a 
 
 **What to get:** a countertop oven in the mid-to-large size range for its category, usually $60 to $150, depending on features. Going too small to save counter space usually backfires, since you'll be unable to bake full recipes at all.
 
-It helps to physically map out the appliance's footprint before you buy, not just its interior capacity. Measure the counter spot you plan to dedicate to it, including a few inches of clearance on the back and sides for ventilation, since these ovens run hot and need airflow to avoid overheating nearby cabinets or damaging the appliance itself over time. A model with a larger interior often has a surprisingly similar exterior footprint to a smaller one, since manufacturers have gotten better at minimizing wasted space between the housing and the cavity, so don't assume bigger interior automatically means a much bigger counter footprint.
+It helps to physically map out the appliance's footprint before you buy, not just its interior capacity. Measure the [counter spot](/blog/countertop-organization-ideas-for-a-small-kitchen/) you plan to dedicate to it, including a few inches of clearance on the back and sides for ventilation, since these ovens run hot and need airflow to avoid overheating nearby cabinets or damaging the appliance itself over time. A model with a larger interior often has a surprisingly similar exterior footprint to a smaller one, since manufacturers have gotten better at minimizing wasted space between the housing and the cavity, so don't assume bigger interior automatically means a much bigger counter footprint.
 
 ## Convection: Worth Prioritizing
 
@@ -91,7 +93,7 @@ Not every oven marketed with "convection" in the name actually has a dedicated f
 
 * A countertop oven with an explicitly listed convection fan, not just a "convection" name on the box.
 
-Keep in mind that convection changes how recipes behave slightly, since moving air cooks food a bit faster and can dry out delicate baked goods if you don't adjust for it. A common rule of thumb is to lower the recipe's stated temperature by about 25 degrees Fahrenheit, or shorten the bake time by a few minutes, when using a convection setting instead of a standard bake setting. Most countertop ovens with both options let you toggle convection on or off, so you can start with it off while you're still learning your recipes, then switch it on for things like sheet-pan cookies or roasted vegetables where faster, more even browning is a genuine benefit.
+Keep in mind that convection changes how recipes behave slightly, since moving air cooks food a bit faster and can dry out delicate baked goods if you don't adjust for it. If you want a deeper walkthrough of these adjustments, see [how to bake cookies in a convection oven](/blog/how-to-bake-cookies-in-a-convection-oven/). A common rule of thumb is to lower the recipe's stated temperature by about 25 degrees Fahrenheit, or shorten the bake time by a few minutes, when using a convection setting instead of a standard bake setting. Most countertop ovens with both options let you toggle convection on or off, so you can start with it off while you're still learning your recipes, then switch it on for things like sheet-pan cookies or roasted vegetables where faster, more even browning is a genuine benefit.
 
 ## Temperature Range and Accuracy
 
@@ -147,7 +149,7 @@ Once you've got the right oven, a few adjustments will improve your results sign
 
 ## When a Small Oven Isn't Enough
 
-For most cookies, cakes, muffins, and small loaves of bread, a good countertop oven genuinely performs well. Where they tend to fall short is very large batches (a full 9x13 pan plus rising room for a layer of frosting, for instance), delicate multi-tier cakes that need very even heat throughout, and some artisan bread recipes that benefit from the thermal mass of a full-size oven.
+For most cookies, cakes, muffins, and small loaves of bread, a good countertop oven genuinely performs well, and it pairs naturally with the rest of your [small-kitchen bakeware](/blog/best-bakeware-for-small-kitchens/). Where they tend to fall short is very large batches (a full 9x13 pan plus rising room for a layer of frosting, for instance), delicate multi-tier cakes that need very even heat throughout, and some artisan bread recipes that benefit from the thermal mass of a full-size oven.
 
 If you find yourself regularly running into capacity limits, that's a sign to look at the larger end of the countertop oven category rather than assuming baking in a small kitchen isn't possible at all.
 
@@ -167,10 +169,10 @@ Wipe down the interior after it's fully cooled, especially any drips or crumbs o
 
 **Related Guides**
 
-* Best Bakeware for Small Kitchens
-* Compact Baking Sheet and Pan Sizes for Small Kitchens
-* Space-Saving Baking Tool Essentials
-* How to Bake in a Small Kitchen Without Extra Counter Space
+* [Best Bakeware for Small Kitchens](/blog/best-bakeware-for-small-kitchens/)
+* [Compact Baking Sheet and Pan Sizes for Small Kitchens](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/)
+* [Space-Saving Baking Tool Essentials](/blog/space-saving-baking-tool-essentials/)
+* [How to Bake in a Small Kitchen Without Extra Counter Space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/)
 
 ## The Bottom Line
 

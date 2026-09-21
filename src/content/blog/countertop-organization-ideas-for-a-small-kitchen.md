@@ -56,11 +56,11 @@ The fix isn't a bigger kitchen, it's being intentional about what earns a perman
 
 ## The Core Rule: If You Use It Daily, It Can Stay
 
-The simplest filter for countertop organization is frequency of use. If you use an item every single day, like a coffee maker, a knife block, or a dish soap dispenser, it earns a spot on the counter because putting it away and pulling it back out daily wastes more time than it saves.
+The simplest filter for countertop organization is frequency of use. If you use an item every single day, like a [coffee maker](/blog/best-coffee-maker-with-a-grinder/), a [knife block](/blog/forged-vs-stamped-knives/), or a dish soap dispenser, it earns a spot on the counter because putting it away and pulling it back out daily wastes more time than it saves.
 
-Everything else, the blender you use twice a month, the stand mixer that only comes out for holidays, the pile of mail that's accumulated by the toaster, needs a different home. Walk your counters right now and sort everything into "daily," "occasional," and "doesn't belong here at all."
+Everything else, the [blender](/blog/best-blenders-for-smoothies/) you use twice a month, the stand mixer that only comes out for holidays, the pile of mail that's accumulated by the [toaster](/blog/best-2-slice-toaster/), needs a different home. Walk your counters right now and sort everything into "daily," "occasional," and "doesn't belong here at all."
 
-Be honest with yourself during this sort. It's easy to tell yourself you'll use that panini press every week, but if it's been sitting untouched for the last month, it belongs in a cabinet or on a cart, not on your only workspace. You can always bring an occasional appliance back out to the counter on the days you actually use it. What you're avoiding is the version where it sits out permanently just in case.
+Be honest with yourself during this sort. It's easy to tell yourself you'll use that [panini press](/blog/best-panini-press-for-home-use/) every week, but if it's been sitting untouched for the last month, it belongs in a cabinet or on a cart, not on your only workspace. You can always bring an occasional appliance back out to the counter on the days you actually use it. What you're avoiding is the version where it sits out permanently just in case.
 
 ## 1. Create an Appliance Garage
 
@@ -74,7 +74,7 @@ An appliance garage earns its cost fastest in a kitchen where two or three appli
 
 ## 2. Move Occasional Appliances to a Cabinet or Cart
 
-Appliances you use weekly or less, a stand mixer, a waffle iron, a slow cooker, don't need to live on the counter. Storing them in a lower cabinet or on a rolling cart frees up significant counter space immediately.
+Appliances you use weekly or less, a stand mixer, a [waffle iron](/blog/best-waffle-maker-with-removable-plates/), a slow cooker, don't need to live on the counter. Storing them in a lower cabinet or on a rolling cart frees up significant counter space immediately.
 
 **What to get:** if cabinet space is tight, a small rolling cart with shelving, usually $40 to $90, can hold several appliances and roll into a corner or closet when not needed.
 
@@ -172,10 +172,10 @@ Resist the temptation to buy every product on this list at once. Clear your coun
 
 **Related Guides**
 
-* Small Kitchen Cabinet Organization Ideas
-* Vertical Storage Ideas for Small Kitchens
-* How to Organize Kitchen Drawers in a Small Kitchen
-* How to Organize a Small Kitchen with No Pantry
+* [Small Kitchen Cabinet Organization Ideas](/blog/small-kitchen-cabinet-organization-ideas/)
+* [Vertical Storage Ideas for Small Kitchens](/blog/vertical-storage-ideas-for-small-kitchens/)
+* [How to Organize Kitchen Drawers in a Small Kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/)
+* [How to Organize a Small Kitchen with No Pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/)
 
 ## **The Bottom Line**
 

@@ -66,7 +66,7 @@ This is why fire codes in many cities specifically call out open-flame cooking o
 While rules differ by city and building, a common pattern shows up again and again in fire codes and apartment leases:
 
 * **Electric grills** are the type most likely to be allowed on balconies, including upper-floor ones, since there's no open flame or fuel to store.
-* **Propane grills** are often restricted or banned on balconies, especially above the ground floor, though ground-level patios sometimes have more flexibility.
+* **[Propane grills](/blog/best-gas-grills-under-500/)** are often restricted or banned on balconies, especially above the ground floor, though ground-level patios sometimes have more flexibility.
 * **Charcoal grills** are frequently the most restricted, since they involve open flame, hot ash, and ember disposal, and many buildings ban them entirely regardless of floor level.
 
 Again, this is a general pattern, not a guarantee. Some cities allow small propane grills on any balcony. Some buildings ban all grilling, including electric, on any balcony regardless of what the city's fire code technically permits. The only way to know for certain is to check your own lease and your local fire code directly.
@@ -102,7 +102,7 @@ Smoke and heat rising directly into an overhang or the underside of the balcony 
 
 ### Keep a Fire Extinguisher Within Reach
 
-A small kitchen-rated fire extinguisher stored just inside your door, not buried in a closet, means you can act in seconds if something goes wrong. Check that it's rated for grease and electrical fires, not just paper and wood.
+A small [kitchen-rated fire extinguisher](/blog/small-space-grilling-accessories-you-actually-need/) stored just inside your door, not buried in a closet, means you can act in seconds if something goes wrong. Check that it's rated for grease and electrical fires, not just paper and wood.
 
 ### Never Leave a Lit Grill Unattended
 
@@ -110,7 +110,7 @@ This sounds obvious, but it's the single most common factor in grill fires. Step
 
 ### Watch the Wind
 
-Balconies, especially on higher floors, often get more wind than a backyard would. Wind can blow a flame sideways toward railings or siding, or send sparks from a charcoal grill further than you'd expect. If it's unusually windy, consider waiting, or at minimum increase your clearance further.
+Balconies, especially on higher floors, often get more wind than a backyard would. Wind can blow a flame sideways toward railings or siding, or send sparks from a [charcoal grill](/blog/best-gas-and-charcoal-grill-combo/) further than you'd expect. If it's unusually windy, consider waiting, or at minimum increase your clearance further.
 
 ### Let the Grill Cool Completely Before Moving or Covering It
 
@@ -120,7 +120,7 @@ A grill that feels "mostly cool" can still be hot enough to damage a cover or st
 
 Never dump hot charcoal ash into a regular trash can, even one on a balcony, since embers can smolder for hours. Let ash cool completely in a metal container before disposal. Wipe down grease trays after every use rather than letting buildup accumulate, since grease fires are one of the most common causes of grill-related balcony fires.
 
-### Store Propane Tanks Correctly
+### Store [Propane Tanks](/blog/best-propane-smoker/) Correctly
 
 If propane is allowed in your building, keep the tank upright, away from direct sun, and disconnect it when the grill isn't in active use rather than leaving it connected between cookouts. Never store a spare tank inside your apartment.
 
@@ -139,7 +139,7 @@ If your building's rules turn out to be stricter than you hoped, you still have 
 * **Electric grills** are the most likely to be an exception even in strict buildings, since they carry the lowest fire risk. Confirm this specifically rather than assuming.
 * **A shared building grilling area**, if your complex has one, is often specifically set up to be compliant with local fire code.
 * **A nearby public park** with grilling stations is a completely legal workaround if your building bans grilling outright.
-* **Indoor alternatives**, like a stovetop grill pan or an indoor electric grill, can scratch the itch without any of the balcony restrictions applying at all.
+* **Indoor alternatives**, like a [stovetop grill pan](/blog/best-griddle-pan-for-pancakes/) or an [indoor electric grill](/blog/gotham-steel-smokeless-grill-review/), can scratch the itch without any of the balcony restrictions applying at all.
 
 ## Renters' Insurance and Liability
 
@@ -155,10 +155,10 @@ This part gets overlooked constantly, but it's worth a few minutes of attention.
 
 **Related Guides**
 
-* Best Small Grills for Balconies and Patios
-* Best Portable Grills for Apartment Living
-* Small-Space Grilling Accessories You Actually Need
-* How to Set Up a Small Patio for Grilling
+* [Best Small Grills for Balconies and Patios](/blog/best-small-grills-for-balconies-and-patios/)
+* [Best Portable Grills for Apartment Living](/blog/best-portable-grills-for-apartment-living/)
+* [Small-Space Grilling Accessories You Actually Need](/blog/small-space-grilling-accessories-you-actually-need/)
+* [How to Set Up a Small Patio for Grilling](/blog/how-to-set-up-a-small-patio-for-grilling/)
 
 ## **The Bottom Line**
 

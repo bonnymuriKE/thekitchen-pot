@@ -28,7 +28,7 @@ faq:
       that lives on your counter permanently, even for just the hour you're
       baking.
   - question: "Do I need a stand mixer if I have no counter space?"
-    answer: No. A hand mixer or even mixing by hand works for the vast majority
+    answer: No. A [hand mixer](/blog/best-hand-mixers/) or even mixing by hand works for the vast majority
       of home baking recipes and takes up a fraction of the storage and
       counter space a stand mixer needs.
   - question: "How do I cool baked goods without counter space?"
@@ -62,7 +62,7 @@ Before you assume you don't have room to bake, do an honest inventory of every f
 
 ### What to get:
 
-* **A sink cover or a large cutting board** sized to fit over your sink, usually $15 to $30. This single item can add 2 to 4 square feet of usable space in a kitchen where every inch counts.
+* **A [sink cover or a large cutting board](/blog/best-over-the-sink-cutting-board/)** sized to fit over your sink, usually $15 to $30. This single item can add 2 to 4 square feet of usable space in a kitchen where every inch counts.
 * **A stove burner cover** or a flat trivet set, usually $10 to $20, to safely use your stovetop as a staging surface when it's not in use.
 
 Measure before you buy either of these. A sink cover that's too large will rock or slide when you lean on it, and one that's too small won't cover the basin edge to edge, which defeats the point. Measure the outer lip of your sink, not just the basin opening, and look for a cover with a bit of overhang and a non-slip underside. The same goes for a stove cover: make sure it's rated for your stovetop type (gas grates and flat electric or induction surfaces often need different styles), and always confirm the burners are fully off and cool before you set anything on top.
@@ -105,7 +105,7 @@ This is especially useful for cookies and other recipes involving trays. Instead
 
 ### What to get:
 
-* **A quarter sheet pan**, usually $10 to $18, sized for smaller batches and easier to store between uses.
+* **A [quarter sheet pan](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/)**, usually $10 to $18, sized for smaller batches and easier to store between uses.
 * **A digital kitchen scale**, usually $12 to $20, which makes halving or scaling recipes far more accurate than using measuring cups for fractional amounts.
 
 ## Use Vertical Space to Free Up the Counter
@@ -116,8 +116,8 @@ A small shelf mounted above your workspace (or a freestanding shelf unit, if you
 
 ### What to get:
 
-* **A wall-mounted spice or ingredient shelf**, usually $15 to $30, for frequently used baking staples. If you're renting, look for a freestanding version instead of one that requires drilling.
-* **An over-the-door or magnetic tool rack**, usually $10 to $20, to keep measuring spoons, spatulas, and a whisk within reach without a drawer.
+* **A [wall-mounted spice or ingredient shelf](/blog/vertical-storage-ideas-for-small-kitchens/)**, usually $15 to $30, for frequently used baking staples. If you're renting, look for a freestanding version instead of one that requires drilling.
+* **An [over-the-door or magnetic tool rack](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/)**, usually $10 to $20, to keep measuring spoons, spatulas, and a whisk within reach without a drawer.
 
 **Renter-friendly:** varies. Check the mounting method before buying. Command-strip and freestanding versions work in almost any rental.
 
@@ -165,10 +165,10 @@ If this keeps happening on the same type of recipe, that's useful information, n
 
 **Related Guides**
 
-* Best Bakeware for Small Kitchens
-* Compact Baking Sheet and Pan Sizes for Small Kitchens
-* Space-Saving Baking Tool Essentials
-* How to Store Pots and Pans in a Small Kitchen
+* [Best Bakeware for Small Kitchens](/blog/best-bakeware-for-small-kitchens/)
+* [Compact Baking Sheet and Pan Sizes for Small Kitchens](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/)
+* [Space-Saving Baking Tool Essentials](/blog/space-saving-baking-tool-essentials/)
+* [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
 
 ## The Bottom Line
 

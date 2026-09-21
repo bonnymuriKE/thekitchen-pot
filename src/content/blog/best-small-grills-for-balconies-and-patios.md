@@ -60,7 +60,7 @@ Check three things:
 * **Your local fire code.** Cities regularly restrict open-flame cooking devices above a certain floor or within a certain distance of a building.
 * **Your building's specific balcony construction.** Combustible balconies (wood) are treated more strictly than concrete ones in many fire codes.
 
-If you're on a ground-floor patio with no shared walls above you, you likely have more freedom. If you're several floors up on a balcony attached to a multi-unit building, electric is often your only legal option. We cover this in much more depth in our full safety guide, but it's worth repeating here because it changes which grill type you should even be shopping for.
+If you're on a ground-floor patio with no shared walls above you, you likely have more freedom. If you're several floors up on a balcony attached to a multi-unit building, electric is often your only legal option. We cover this in much more depth in our [full safety guide](/blog/balcony-grilling-safety-tips-and-rules/), but it's worth repeating here because it changes which grill type you should even be shopping for.
 
 ## The Three Grill Types for Small Outdoor Spaces
 
@@ -78,7 +78,7 @@ Small propane grills, often using a 1-pound disposable canister instead of a ful
 
 **Renter-friendly:** usually yes as furniture, but check whether propane specifically is banned even if the grill itself would be fine.
 
-**What to get:** a tabletop or small-cart propane grill, typically $80-$250, with a single or double burner. Look for one that uses the small screw-on propane canisters if you don't want to store a full tank, since those are easier to store in a tight space.
+**What to get:** a tabletop or small-cart [propane grill](/blog/best-gas-grills-under-500/), typically $80-$250, with a single or double burner. Look for one that uses the small screw-on propane canisters if you don't want to store a full tank, since those are easier to store in a tight space.
 
 ### 3. Compact Charcoal Grills
 
@@ -86,7 +86,7 @@ Nothing beats charcoal for smoky flavor, but it's also the type most likely to b
 
 **Renter-friendly:** only if your building allows charcoal specifically. Many do not.
 
-**What to get:** a compact kettle grill or portable box-style charcoal grill, generally $40-$120. Choose one with a lid that closes fully and vents you can adjust, since that gives you more control over heat in a small space.
+**What to get:** a compact kettle grill or portable box-style [charcoal grill](/blog/best-gas-and-charcoal-grill-combo/), generally $40-$120. Choose one with a lid that closes fully and vents you can adjust, since that gives you more control over heat in a small space.
 
 ## What to Look for Beyond the Fuel Type
 
@@ -96,7 +96,7 @@ Once you know which fuel type fits your situation, a few other features matter m
 
 **Weight.** If you're carrying the grill up and down stairs, or moving it in and out of storage every time you use it, weight matters more than you'd think. A lightweight tabletop model is much easier to live with day to day than a heavier cart-style unit, even if the cart looks nicer.
 
-**Heat-safe surfaces underneath.** Some compact grills run hotter on the bottom than you'd expect, which matters on a wood balcony or near vinyl siding. Look for models with raised feet or a heat shield on the base, and plan to use a grill mat underneath regardless (more on that in our accessories guide).
+**Heat-safe surfaces underneath.** Some compact grills run hotter on the bottom than you'd expect, which matters on a wood balcony or near vinyl siding. Look for models with raised feet or a heat shield on the base, and plan to use a grill mat underneath regardless (more on that in our [accessories guide](/blog/small-space-grilling-accessories-you-actually-need/)).
 
 **Easy-to-empty drip trays or ash pans.** In a small space, you're not walking the grill out to a big trash can outside. You want a tray that pops out cleanly and doesn't spill on the way to the kitchen sink or trash.
 
@@ -116,7 +116,7 @@ Sizing a grill for a small space isn't just about what fits physically, it's abo
 
 It's easy to overbuy on grill size "just in case." In reality, most small-space grillers are cooking for one to four people on a regular weeknight, with bigger cookouts being the rare exception. Be honest with yourself about how often you'd actually use the extra capacity. A grill that's twice as big as you need doesn't just cost more upfront, it also takes longer to preheat, uses more fuel per cook, and eats into the exact storage space you were trying to protect by going small in the first place.
 
-* **Cooking for 1-2:** A single-burner or small tabletop grill (roughly 150-250 square inches of cooking surface) is plenty.
+* **[Cooking for 1-2](/blog/best-cookware-sizes-for-cooking-for-one/):** A single-burner or small tabletop grill (roughly 150-250 square inches of cooking surface) is plenty.
 * **Cooking for 3-4:** Look for 250-350 square inches of grilling surface, still very achievable in a compact, single-burner or double-burner unit.
 * **Occasional larger gatherings:** Rather than buying a bigger grill you rarely need, consider cooking in batches, or borrowing/renting a larger grill for the rare big event. It's cheaper and takes up far less space the rest of the year.
 
@@ -130,7 +130,7 @@ If you've gotten noise complaints or comments from neighbors about smoke before,
 
 The sticker price on a small grill is only part of what you'll spend on it over time, and small-space grills have their own cost patterns worth knowing before you buy.
 
-Electric grills have the lowest ongoing cost. There's no fuel to buy, just a small bump in your electric bill that's barely noticeable for occasional use. The main future cost is eventually replacing the unit if the heating element wears out, which tends to happen after a few years of regular use.
+Electric grills have the lowest ongoing cost. There's no fuel to buy, just a small bump in your [electric bill](/blog/most-energy-efficient-small-kitchen-appliances/) that's barely noticeable for occasional use. The main future cost is eventually replacing the unit if the heating element wears out, which tends to happen after a few years of regular use.
 
 Propane grills using small disposable canisters are convenient but not the cheapest way to buy fuel over time. Those 1-pound canisters cost more per ounce of propane than a full 20-pound tank would, so if you grill several times a week, the convenience comes at a real premium. If your building allows a standard tank and you have somewhere to store it, that's the more economical route for frequent grilling.
 
@@ -152,14 +152,14 @@ Neither of these affects how the food turns out, but they affect whether you act
 * **Ignoring clearance requirements.** Even an allowed grill needs open space around it. Don't wedge it into a corner against a wall or under an overhang.
 * **Choosing the biggest grill you can afford.** In a small space, a grill that's too big becomes clutter you have to work around every single day, not just when you're cooking.
 * **Skipping a cover.** Grills left outside full-time without a cover degrade fast, especially electric models with exposed cords and connections.
-* **Forgetting about storage between uses.** If you can't easily fold or move the grill, it'll end up permanently taking over your only outdoor seating space.
+* **Forgetting about [storage](/blog/store-pots-and-pans-in-a-small-kitchen/) between uses.** If you can't easily fold or move the grill, it'll end up permanently taking over your only outdoor seating space.
 
 **Related Guides**
 
-* Balcony Grilling Safety Tips and Rules
-* Best Portable Grills for Apartment Living
-* Small-Space Grilling Accessories You Actually Need
-* How to Set Up a Small Patio for Grilling
+* [Balcony Grilling Safety Tips and Rules](/blog/balcony-grilling-safety-tips-and-rules/)
+* [Best Portable Grills for Apartment Living](/blog/best-portable-grills-for-apartment-living/)
+* [Small-Space Grilling Accessories You Actually Need](/blog/small-space-grilling-accessories-you-actually-need/)
+* [How to Set Up a Small Patio for Grilling](/blog/how-to-set-up-a-small-patio-for-grilling/)
 
 ## **The Bottom Line**
 

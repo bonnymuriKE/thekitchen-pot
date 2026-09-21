@@ -66,13 +66,13 @@ None of this requires buying the most expensive cookware on the market. It just 
 
 Aluminum is one of the best heat conductors used in cookware, which means pans made from it, or with an aluminum core sandwiched between other metals, heat up quickly and evenly. That even heating means less time waiting for hot spots to catch up, and less energy spent overall.
 
-**What to get:** a mid-weight aluminum or aluminum-core stainless steel pan for your main frying pan and saucepan, usually $30 to $80 per piece. Avoid very thin, lightweight aluminum pans, since they warp more easily and lose that even-heating advantage over time.
+**What to get:** a mid-weight aluminum or [aluminum-core stainless steel pan](/blog/what-is-stainless-steel-cookware/) for your main frying pan and saucepan, usually $30 to $80 per piece. Avoid very thin, lightweight aluminum pans, since they warp more easily and lose that even-heating advantage over time.
 
 ### Copper (and Copper-Core Cookware)
 
 Copper is an even better conductor than aluminum, heating up and cooling down almost instantly in response to temperature changes. That responsiveness lets you make quick adjustments without wasting time (and energy) waiting for the pan to catch up. Full copper cookware is expensive, but copper-core pieces, where a layer of copper sits between layers of stainless steel, offer much of the benefit at a lower price and with easier cleanup.
 
-**What to get:** a copper-core stainless steel saucepan or skillet, usually $50 to $150. This is a worthwhile upgrade for a pan you use daily, less necessary for occasional-use pieces.
+**What to get:** a [copper-core stainless steel saucepan](/blog/all-clad-copper-core-cookware-set/) or skillet, usually $50 to $150. This is a worthwhile upgrade for a pan you use daily, less necessary for occasional-use pieces.
 
 ### Stainless Steel (Without a Core Layer)
 
@@ -86,13 +86,13 @@ Cast iron is a mixed bag for efficiency. It heats slowly and somewhat unevenly a
 
 **Renter-friendly:** yes, it's just cookware, no installation involved.
 
-**What to get:** a pre-seasoned cast iron skillet, usually $20 to $50. Give it a few extra minutes to preheat fully before cooking, and you'll get more consistent results with less energy wasted on uneven hot spots.
+**What to get:** a [pre-seasoned cast iron skillet](/blog/lodge-cast-iron-skillet-review/), usually $20 to $50. Give it a few extra minutes to preheat fully before cooking, and you'll get more consistent results with less energy wasted on uneven hot spots.
 
 ### Nonstick Coated Cookware
 
 Nonstick cookware isn't defined by its base metal (it's usually aluminum or stainless steel with a coating), so its efficiency depends mostly on what's underneath the coating. The main energy benefit of nonstick is indirect: food releases easily at lower temperatures, so you often don't need to crank the heat as high to prevent sticking.
 
-**What to get:** a nonstick pan with a solid aluminum base, usually $25 to $60. Replace nonstick cookware once the coating is visibly worn, since a damaged coating often means you're compensating with more heat and oil than the pan actually needs.
+**What to get:** a [nonstick pan](/blog/best-nonstick-pans-with-buying-guide/) with a solid aluminum base, usually $25 to $60. Replace nonstick cookware once the coating is visibly worn, since a damaged coating often means you're compensating with more heat and oil than the pan actually needs.
 
 ## Match Your Pan Size to Your Burner Size
 
@@ -113,7 +113,7 @@ Even the best-conducting pan loses some of its advantage over time if it's not c
 
 ## Cookware for Induction Cooktops
 
-If you're using or considering an induction cooktop, one of the more energy-efficient cooking methods available, your cookware options narrow. Induction only works with cookware that a magnet sticks to. That includes:
+If you're using or considering an induction cooktop, one of the more energy-efficient cooking methods available, your [cookware options for induction](/blog/best-cookware-for-induction-cooktop/) narrow. Induction only works with cookware that a magnet sticks to. That includes:
 
 * Cast iron and enameled cast iron
 * Many (but not all) stainless steel pans
@@ -129,7 +129,7 @@ It's easy to overlook, but a well-fitting lid is one of the biggest efficiency f
 
 ## Glass and Ceramic Cookware
 
-Glass and ceramic bakeware are common in small kitchens because they double as serving dishes, but it's worth knowing how they behave with heat. Glass is a relatively poor conductor compared to metal, so it heats more slowly and unevenly, and it holds onto heat for a while after you take it out of the oven, which can mean carryover cooking if you're not careful. Ceramic behaves similarly. Neither is a bad choice, but neither is the most energy-efficient option for stovetop use, and glass and ceramic are not compatible with induction cooktops at all.
+Glass and [ceramic cookware](/blog/best-ceramic-cookware-set/) are common in small kitchens because they double as serving dishes, but it's worth knowing how they behave with heat. Glass is a relatively poor conductor compared to metal, so it heats more slowly and unevenly, and it holds onto heat for a while after you take it out of the oven, which can mean carryover cooking if you're not careful. Ceramic behaves similarly. Neither is a bad choice, but neither is the most energy-efficient option for stovetop use, and glass and ceramic are not compatible with induction cooktops at all.
 
 **What to get:** glass or ceramic bakeware is best reserved for oven use, like casseroles or baked dishes, rather than as your everyday stovetop cookware, usually $15 to $40 per piece.
 
@@ -155,10 +155,10 @@ Probably not. Most people cook with the same two or three pieces of cookware for
 
 **Related Guides**
 
-* Most Energy-Efficient Small Kitchen Appliances
-* Best Cookware for an Induction Cooktop
-* Eco-Friendly Alternatives to Common Kitchen Appliances
-* How to Store Pots and Pans in a Small Kitchen
+* [Most Energy-Efficient Small Kitchen Appliances](/blog/most-energy-efficient-small-kitchen-appliances/)
+* [Best Cookware for an Induction Cooktop](/blog/best-cookware-for-induction-cooktop/)
+* [Eco-Friendly Alternatives to Common Kitchen Appliances](/blog/eco-friendly-alternatives-to-common-kitchen-appliances/)
+* [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
 
 ## **The Bottom Line**
 

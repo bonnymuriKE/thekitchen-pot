@@ -67,7 +67,7 @@ If you want just one skillet to cover slightly more ground, including the occasi
 
 **Renter-friendly:** yes, cookware isn't tied to your kitchen setup at all.
 
-**What to get:** an 8-inch nonstick or stainless skillet, usually $20 to $40. If you only buy one pan for your whole kitchen, this is the one.
+**What to get:** an 8-inch [nonstick](/blog/what-is-nonstick-cookware/) or stainless skillet, usually $20 to $40. If you only buy one pan for your whole kitchen, this is the one.
 
 ## Saucepans: 1 to 2 Quarts
 
@@ -87,7 +87,7 @@ If soup-making is a regular part of your routine and you like to batch a few day
 
 **Renter-friendly:** yes.
 
-**What to get:** a 3-quart pot with a lid, usually $25 to $45. This size doubles well as your pasta pot and your soup pot, so you likely don't need both.
+**What to get:** a [3-quart pot with a lid](/blog/best-stockpot-with-a-lid/), usually $25 to $45. This size doubles well as your pasta pot and your soup pot, so you likely don't need both.
 
 ## Baking Dishes: Mini and Single-Serving Sizes
 
@@ -95,7 +95,7 @@ If you bake or roast small portions, a mini baking dish (often around 6x6 inches
 
 **Renter-friendly:** yes.
 
-**What to get:** a small ceramic or glass baking dish (around 1 to 1.5 quarts), typically $10 to $20.
+**What to get:** a [small ceramic or glass baking dish](/blog/best-bakeware-for-small-kitchens/) (around 1 to 1.5 quarts), typically $10 to $20.
 
 ## Sheet Pans: Half-Sheet Is Usually Plenty
 
@@ -103,11 +103,11 @@ A full-size sheet pan is built for restaurant kitchens or holiday cooking, and i
 
 **Renter-friendly:** yes.
 
-**What to get:** a half-sheet aluminum pan, usually $10 to $20. A light-colored, uncoated pan tends to give more even browning than a dark nonstick one.
+**What to get:** a [half-sheet aluminum pan](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/), usually $10 to $20. A light-colored, uncoated pan tends to give more even browning than a dark nonstick one.
 
 ## Do You Need a Wok or Large Sauté Pan?
 
-If stir-fries are a regular part of your cooking, a small wok (around 10 to 12 inches) can be worth the space, since the sloped sides let you toss food without it spilling, even in a smaller quantity. If stir-fries are occasional, your 10-inch skillet can usually do the job well enough that a dedicated wok isn't necessary.
+If stir-fries are a regular part of your cooking, a [small wok](/blog/best-wok-for-electric-stove/) (around 10 to 12 inches) can be worth the space, since the sloped sides let you toss food without it spilling, even in a smaller quantity. If stir-fries are occasional, your 10-inch skillet can usually do the job well enough that a dedicated wok isn't necessary.
 
 ## What a Realistic Cookware Lineup Looks Like
 
@@ -123,7 +123,7 @@ That's five pieces total, still a fraction of what comes in a typical 10-piece f
 
 ## Where Storage Fits Into the Sizing Decision
 
-Cookware sizing and cookware storage are really the same decision viewed from two angles. A nesting set, where the saucepan and pot share a lid size and the skillet stacks on top, saves noticeably more cabinet space than the same three pieces bought separately from different collections with mismatched dimensions. When you're shopping, it's worth checking whether pieces you're considering nest or stack cleanly together, since that can make the difference between everything fitting in one cabinet shelf versus spilling across two.
+Cookware sizing and cookware storage are really the same decision viewed from two angles. A [nesting set](/blog/6-best-stackable-pots-and-pans/), where the saucepan and pot share a lid size and the skillet stacks on top, saves noticeably more cabinet space than the same three pieces bought separately from different collections with mismatched dimensions. When you're shopping, it's worth checking whether pieces you're considering nest or stack cleanly together, since that can make the difference between everything fitting in one cabinet shelf versus spilling across two.
 
 ## When It Makes Sense to Size Up
 
@@ -137,7 +137,7 @@ The goal isn't to own the smallest cookware possible, it's to match your cookwar
 
 ## Material Matters Too, Not Just Size
 
-Once you've settled on sizes, material affects how well small cookware performs. Nonstick works well for the smaller skillet since you're often cooking eggs or delicate proteins in single portions. Stainless steel is a solid, durable choice for your saucepan and pot, especially for boiling and simmering. Cast iron can work too, but its weight and slower heating make it a less practical everyday choice for quick single-portion cooking, even though it's excellent for the occasional sear.
+Once you've settled on sizes, material affects how well small cookware performs. Nonstick works well for the smaller skillet since you're often cooking eggs or delicate proteins in single portions. [Stainless steel](/blog/what-is-stainless-steel-cookware/) is a solid, durable choice for your saucepan and pot, especially for boiling and simmering. [Cast iron](/blog/lodge-cast-iron-skillet-review/) can work too, but its weight and slower heating make it a less practical everyday choice for quick single-portion cooking, even though it's excellent for the occasional sear.
 
 Weight is worth factoring in beyond just cooking performance, especially in a small kitchen. A heavy cast iron skillet or enameled pot can be genuinely awkward to lift, drain, and wash one-handed in a compact sink, which matters more when you're cooking solo and don't have anyone to help maneuver a heavy pot of boiling pasta water. If you do want one cast iron piece for searing, an 8-inch size keeps the weight manageable while still giving you that high-heat performance for the occasions it's worth it.
 
@@ -154,10 +154,10 @@ Good cookware in the sizes above is a reasonable investment, not a disposable pu
 
 **Related Guides**
 
-* How to Store Pots and Pans in a Small Kitchen
-* Best Small Kitchen Appliances for Cooking for One
-* How to Stock a Small Kitchen for Solo Cooking
-* Small Kitchen Gadgets Worth Buying When You Cook for One
+* [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
+* [Best Small Kitchen Appliances for Cooking for One](/blog/best-small-kitchen-appliances-for-cooking-for-one/)
+* [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
+* [Small Kitchen Gadgets Worth Buying When You Cook for One](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/)
 
 ## The Bottom Line
 

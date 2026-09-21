@@ -65,7 +65,7 @@ It's worth being skeptical of the word "portable" on a product listing until you
 
 ## Portable Electric Grills
 
-Electric grills are the most apartment-friendly option on the market, for two reasons that matter a lot in this specific living situation. First, they're commonly the only grill type explicitly allowed in buildings that restrict open flame on balconies. Second, they tend to be genuinely lightweight and simple to store, since there's no fuel tank or ash to deal with.
+[Electric grills](/blog/gotham-steel-smokeless-grill-review/) are the most apartment-friendly option on the market, for two reasons that matter a lot in this specific living situation. First, they're commonly the only grill type explicitly allowed in buildings that restrict open flame on balconies. Second, they tend to be genuinely lightweight and simple to store, since there's no fuel tank or ash to deal with.
 
 **Best for:** apartment dwellers on upper floors, buildings with strict fire codes, or anyone who wants the simplest possible setup and cleanup.
 
@@ -83,7 +83,7 @@ If your building allows gas, a small propane grill using a 1-pound disposable ca
 
 **Renter-friendly:** usually yes as furniture, but confirm propane specifically is allowed, since some buildings restrict fuel type regardless of grill size.
 
-**What to get:** a tabletop or single-burner propane grill designed for 1-pound canisters, typically $70-$180. Look for a built-in igniter so you're not fumbling with a lighter, and a locking lid latch for easy carrying.
+**What to get:** a tabletop or single-burner [propane grill](/blog/best-gas-grills-under-500/) designed for 1-pound canisters, typically $70-$180. Look for a built-in igniter so you're not fumbling with a lighter, and a locking lid latch for easy carrying.
 
 **Trade-offs:** you'll need to store and periodically replace small propane canisters, and some buildings restrict propane storage even if grilling itself is fine.
 
@@ -95,7 +95,7 @@ Charcoal is the least likely fuel type to be allowed in most apartment buildings
 
 **Renter-friendly:** only where specifically permitted, check before buying.
 
-**What to get:** a compact kettle grill or a folding box-style charcoal grill, generally $40-$120. A grill with a lid that closes fully gives you more heat control than an open brazier-style option.
+**What to get:** a compact kettle grill or a folding box-style [charcoal grill](/blog/best-gas-and-charcoal-grill-combo/), generally $40-$120. A grill with a lid that closes fully gives you more heat control than an open brazier-style option.
 
 **Trade-offs:** longer setup and cleanup time, ash disposal to manage, and it's the fuel type most often restricted outright.
 
@@ -115,7 +115,7 @@ There's no universally "best" answer here. The right choice is whichever type yo
 
 There's a natural trade-off in portable grills worth understanding before you shop: the more genuinely portable a grill is, generally the smaller its cooking surface. A single-burner tabletop model that folds down to the size of a briefcase might only offer 150-200 square inches of cooking space, enough for two to three burgers at once, while a slightly larger cart-style portable grill might offer 300+ square inches but weigh two or three times as much and take up more storage room.
 
-Neither is wrong, it depends on your actual cooking habits. If you're regularly cooking for one or two people, the smallest, most portable option rarely feels limiting. If you're cooking for four or more on a semi-regular basis, it's worth accepting a slightly bulkier grill in exchange for not needing to cook in multiple batches every time you have people over. Think through your last several months of actual grilling occasions, not a hypothetical big cookout, to figure out which side of that trade-off makes more sense for you.
+Neither is wrong, it depends on your actual cooking habits. If you're regularly [cooking for one or two people](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/), the smallest, most portable option rarely feels limiting. If you're cooking for four or more on a semi-regular basis, it's worth accepting a slightly bulkier grill in exchange for not needing to cook in multiple batches every time you have people over. Think through your last several months of actual grilling occasions, not a hypothetical big cookout, to figure out which side of that trade-off makes more sense for you.
 
 ## What to Prioritize Based on How Often You'll Use It
 
@@ -129,14 +129,14 @@ Neither is wrong, it depends on your actual cooking habits. If you're regularly 
 
 Once you've picked a grill, a few habits make it work well long-term in tight quarters:
 
-* **Designate one storage spot** for the grill, whether that's a closet shelf, under a console table, or a corner of a hall closet. If it doesn't have a home, it'll end up permanently taking up balcony space.
-* **Keep a small grill mat with it**, folded or rolled together in the same storage spot, so you're never setting up on a bare balcony floor.
+* **Designate one [storage spot](/blog/store-pots-and-pans-in-a-small-kitchen/)** for the grill, whether that's a closet shelf, under a console table, or a corner of a hall closet. If it doesn't have a home, it'll end up permanently taking up balcony space.
+* **Keep a [small grill mat](/blog/small-space-grilling-accessories-you-actually-need/) with it**, folded or rolled together in the same storage spot, so you're never setting up on a bare balcony floor.
 * **Store the fuel separately if required.** Small propane canisters especially should be stored upright, away from heat, ideally not inside a hot closet in summer.
 * **Check the cord length if going electric.** Many apartment balconies don't have a nearby outlet, and a heavy-duty outdoor extension cord is often part of the real setup, not an afterthought.
 
 ## Packing a Portable Grill for a Move
 
-If you know you'll be moving within the next year or two, a bit of extra care now saves you a headache later. Keep the original box if you have room to store it flat, since it's usually the best-fitting container for transporting the grill safely. If you've disposed of the box, wrap folded legs and any glass or ceramic components (some tabletop grills have ceramic-coated plates) in a towel or bubble wrap before placing the unit in a moving box. Disconnect and separately pack any propane canisters, since movers and some moving truck rental companies don't allow pressurized fuel canisters on board. Label the box clearly so it doesn't end up buried at the bottom of a stack, since a grill you can't easily find is a grill that stays in storage long after moving day.
+If you know you'll be moving within the next year or two, a bit of extra care now saves you a headache later. Keep the original box if you have room to store it flat, since it's usually the best-fitting container for transporting the grill safely. If you've disposed of the box, wrap folded legs and any glass or [ceramic components](/blog/best-ceramic-cookware-set/) (some tabletop grills have ceramic-coated plates) in a towel or bubble wrap before placing the unit in a moving box. Disconnect and separately pack any propane canisters, since movers and some moving truck rental companies don't allow pressurized fuel canisters on board. Label the box clearly so it doesn't end up buried at the bottom of a stack, since a grill you can't easily find is a grill that stays in storage long after moving day.
 
 ## Renter-Friendly Power and Fuel Access
 
@@ -152,10 +152,10 @@ One detail that trips up a lot of first-time balcony grillers is simply not havi
 
 **Related Guides**
 
-* Best Small Grills for Balconies and Patios
-* Balcony Grilling Safety Tips and Rules
-* Small-Space Grilling Accessories You Actually Need
-* How to Set Up a Small Patio for Grilling
+* [Best Small Grills for Balconies and Patios](/blog/best-small-grills-for-balconies-and-patios/)
+* [Balcony Grilling Safety Tips and Rules](/blog/balcony-grilling-safety-tips-and-rules/)
+* [Small-Space Grilling Accessories You Actually Need](/blog/small-space-grilling-accessories-you-actually-need/)
+* [How to Set Up a Small Patio for Grilling](/blog/how-to-set-up-a-small-patio-for-grilling/)
 
 ## **The Bottom Line**
 

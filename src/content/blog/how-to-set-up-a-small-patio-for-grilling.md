@@ -63,7 +63,7 @@ This becomes your base layout map for every decision after this.
 
 ## Step 2: Confirm What You're Actually Allowed to Do Here
 
-Before you plan a layout around a specific grill type, confirm what fuel types are permitted on your patio. This matters even more for ground-floor patios attached to multi-unit buildings, since rules can differ from what's allowed on upper-floor balconies. Check your lease, HOA rules, or local fire code, since this affects clearance requirements too. Gas and charcoal typically need more clearance than electric.
+Before you plan a layout around a specific grill type, confirm what fuel types are permitted on your patio. This matters even more for ground-floor patios attached to multi-unit buildings, since rules can differ from what's allowed on upper-floor balconies. Check your lease, HOA rules, or local fire code, since this affects clearance requirements too. [Gas and charcoal](/blog/best-gas-and-charcoal-grill-combo/) typically need more clearance than electric.
 
 ## Step 3: Choose Your Grill Placement First
 
@@ -80,7 +80,7 @@ If your patio has a natural "dead zone," like the area right next to a shared wa
 
 ## Step 4: Protect the Surface Underneath
 
-Once you know where the grill is going, address what's underneath it before you ever use it. If you have wood decking, composite decking, or anything that could scorch or stain, a heat-resistant grill mat is essential, not optional. On concrete or stone, it's less critical, but still helps contain grease and makes cleanup faster.
+Once you know where the grill is going, address what's underneath it before you ever use it. If you have wood decking, composite decking, or anything that could scorch or stain, a [heat-resistant grill mat](/blog/small-space-grilling-accessories-you-actually-need/) is essential, not optional. On concrete or stone, it's less critical, but still helps contain grease and makes cleanup faster.
 
 **Renter-friendly:** yes, this is one of the easiest ways to protect a space you don't own.
 
@@ -108,13 +108,13 @@ You need somewhere to set down tongs, a plate of raw food, and a plate of cooked
 
 ## Step 7: Plan for Lighting if You'll Grill in the Evening
 
-If your patio doesn't already have good lighting, add a simple solution before you're standing there squinting at a thermometer in the dark. This doesn't need to be elaborate.
+If your patio doesn't already have good lighting, add a simple solution before you're standing there squinting at a [thermometer](/blog/best-meat-thermometer-for-smoking/) in the dark. This doesn't need to be elaborate.
 
 **What to get:** a battery-powered or solar string light set, or a single clip-on LED light attached near the grill area, typically $15-$30. Avoid anything requiring hardwired installation if you're renting.
 
 ## Step 8: Build In Storage for the Grill and Accessories
 
-Decide upfront where accessories will live between grilling sessions; otherwise they'll end up scattered across your small patio permanently. A small bin, a hook near the door, or the grill's own side shelf (if it has one) all work.
+Decide upfront where accessories will live between grilling sessions; otherwise they'll end up scattered across your small patio permanently. A [small bin](/blog/countertop-organization-ideas-for-a-small-kitchen/), a hook near the door, or the grill's own side shelf (if it has one) all work.
 
 If your grill itself needs to be moved indoors or into storage seasonally, plan the physical path for that now, including doorway width, so you're not discovering a problem the first time you try to move it.
 
@@ -149,7 +149,7 @@ If you deal with rain regularly, think through where you'll grill when the patio
 
 Once the functional layout is in place, a few low-cost additions can make a small patio feel noticeably less cramped without adding clutter or eating into your clearance zones.
 
-* **Vertical storage.** A wall-mounted rack or a few hooks for tools and a folded mat keeps the floor clear, which matters more for the sense of space than most people expect.
+* **[Vertical storage](/blog/vertical-storage-ideas-for-small-kitchens/).** A wall-mounted rack or a few hooks for tools and a folded mat keeps the floor clear, which matters more for the sense of space than most people expect.
 * **Light, reflective furniture.** Lighter-colored or slightly see-through furniture (like a mesh-back folding chair) tends to make a small patio feel more open than solid, heavy pieces of the same size.
 * **A single focal point rather than several small decorations.** One planter or one string light strand reads as intentional. Several small scattered items read as clutter, even if they individually take up little room.
 * **Keeping the walking path genuinely clear.** It's tempting to let the path narrow slightly as you add furniture and accessories over time. Periodically re-check it against your original layout plan, since small additions add up.
@@ -170,10 +170,10 @@ It's also worth revisiting the layout any time your circumstances change, like g
 
 **Related Guides**
 
-* Best Small Grills for Balconies and Patios
-* Balcony Grilling Safety Tips and Rules
-* Small-Space Grilling Accessories You Actually Need
-* Best Portable Grills for Apartment Living
+* [Best Small Grills for Balconies and Patios](/blog/best-small-grills-for-balconies-and-patios/)
+* [Balcony Grilling Safety Tips and Rules](/blog/balcony-grilling-safety-tips-and-rules/)
+* [Small-Space Grilling Accessories You Actually Need](/blog/small-space-grilling-accessories-you-actually-need/)
+* [Best Portable Grills for Apartment Living](/blog/best-portable-grills-for-apartment-living/)
 
 ## **The Bottom Line**
 

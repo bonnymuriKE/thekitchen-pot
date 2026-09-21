@@ -60,7 +60,7 @@ This is the whole idea behind "right-sizing" your cooking equipment. If you're o
 
 ### 1. Toaster Ovens and Convection Countertop Ovens
 
-A toaster oven is one of the most efficient tools in a small kitchen. It preheats faster than a full oven, uses a fraction of the energy for the same 20-minute bake, and works well for reheating, toasting, roasting a small tray of vegetables, or baking a small batch of anything.
+A [toaster oven](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) is one of the most efficient tools in a small kitchen. It preheats faster than a full oven, uses a fraction of the energy for the same 20-minute bake, and works well for reheating, toasting, roasting a small tray of vegetables, or baking a small batch of anything.
 
 **Renter-friendly:** yes, it's a plug-in countertop unit with zero installation.
 
@@ -68,7 +68,7 @@ A toaster oven is one of the most efficient tools in a small kitchen. It preheat
 
 ### 2. Air Fryers
 
-Air fryers are essentially small convection ovens, and they've become popular for a good reason. They heat up almost instantly, cook in a compact chamber, and typically finish a meal in less time than an oven would need just to preheat.
+[Air fryers](/blog/best-air-fryers-under-100/) are essentially small convection ovens, and they've become popular for a good reason. They heat up almost instantly, cook in a compact chamber, and typically finish a meal in less time than an oven would need just to preheat.
 
 **Renter-friendly:** yes.
 
@@ -76,7 +76,7 @@ Air fryers are essentially small convection ovens, and they've become popular fo
 
 ### 3. Electric Kettles
 
-If you make tea, coffee, or need hot water for cooking, an electric kettle heats water far faster and more efficiently than a stovetop kettle or microwave. Because the heating element sits directly in the water, almost all the energy goes into heating the water itself rather than the surrounding pot or air.
+If you make tea, coffee, or need hot water for cooking, an [electric kettle](/blog/how-do-electric-kettles-work/) heats water far faster and more efficiently than a stovetop kettle or microwave. Because the heating element sits directly in the water, almost all the energy goes into heating the water itself rather than the surrounding pot or air.
 
 **Renter-friendly:** yes.
 
@@ -104,7 +104,7 @@ Induction cooking is one of the biggest efficiency upgrades you can make if you'
 
 **Renter-friendly:** a portable single-burner induction cooktop is yes, since it just plugs in and sits on the counter. A built-in induction range is a bigger commitment, best left to homeowners or long-term renters with landlord approval.
 
-**What to get:** a single-burner portable induction cooktop, usually $40 to $100, if you want to try induction cooking without replacing your whole stove. You will need induction-compatible cookware, which is anything a magnet sticks to, like cast iron or many stainless steel pans.
+**What to get:** a [single-burner portable induction cooktop](/blog/best-induction-cooktop-for-the-money/), usually $40 to $100, if you want to try induction cooking without replacing your whole stove. You will need induction-compatible cookware, which is anything a magnet sticks to, like [cast iron](/blog/lodge-cast-iron-skillet-review/) or many stainless steel pans.
 
 ### 7. Mini or Compact Refrigerators
 
@@ -112,11 +112,11 @@ A full-size refrigerator runs 24 hours a day, every day, which makes it one of t
 
 **Renter-friendly:** yes, in most cases, though check whether your unit includes one already.
 
-**What to get:** an Energy Star-certified compact refrigerator, usually $150 to $350 depending on size. Look for the Energy Star label specifically here, since refrigerators are one category where it's a reliable, verified signal of lower energy use.
+**What to get:** an Energy Star-certified [compact refrigerator](/blog/best-mini-fridge-for-beer/), usually $150 to $350 depending on size. Look for the Energy Star label specifically here, since refrigerators are one category where it's a reliable, verified signal of lower energy use.
 
 ### 8. Multicookers (Pressure Cooker / Slow Cooker Combos)
 
-A multicooker that combines pressure cooking, slow cooking, and sometimes rice cooking into one unit can be more efficient than owning several single-purpose appliances, simply because pressure cooking dramatically shortens cook time for foods that would otherwise need hours in the oven or on the stovetop, like beans, tough cuts of meat, or grains. Less cook time generally means less total energy, even though the wattage while running is moderate to high.
+A [multicooker](/blog/what-is-an-instant-pot/) that combines pressure cooking, slow cooking, and sometimes rice cooking into one unit can be more efficient than owning several single-purpose appliances, simply because pressure cooking dramatically shortens cook time for foods that would otherwise need hours in the oven or on the stovetop, like beans, tough cuts of meat, or grains. Less cook time generally means less total energy, even though the wattage while running is moderate to high.
 
 **Renter-friendly:** yes.
 
@@ -163,10 +163,10 @@ Buying efficient appliances only gets you halfway there. How you use them matter
 
 **Related Guides**
 
-* Eco-Friendly Alternatives to Common Kitchen Appliances
-* Best Compact Energy Star Appliances for Small Kitchens
-* How to Reduce Kitchen Energy Use in a Small Apartment
-* How to Choose Energy-Efficient Cookware for a Small Kitchen
+* [Eco-Friendly Alternatives to Common Kitchen Appliances](/blog/eco-friendly-alternatives-to-common-kitchen-appliances/)
+* [Best Compact Energy Star Appliances for Small Kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/)
+* [How to Reduce Kitchen Energy Use in a Small Apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/)
+* [How to Choose Energy-Efficient Cookware for a Small Kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/)
 
 ## **The Bottom Line**
 

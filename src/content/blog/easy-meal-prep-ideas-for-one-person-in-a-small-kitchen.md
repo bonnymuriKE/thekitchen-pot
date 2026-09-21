@@ -67,9 +67,9 @@ This approach has two big advantages for someone cooking for one:
 
 A simple framework: choose one grain or starch, one protein, and one or two vegetables to prep at the start of the week. That's it. From there, you build meals by combining them with different sauces, seasonings, or a quick fresh ingredient like avocado or a fried egg.
 
-**Grains and starches:** rice, quinoa, roasted potatoes, or pasta.
+**Grains and starches:** rice, quinoa, [roasted potatoes](/blog/how-long-do-potatoes-last/), or pasta.
 
-**Proteins:** roasted or pan-seared chicken thighs, a tray of baked tofu, hard-boiled eggs, or a pot of beans or lentils.
+**Proteins:** [roasted or pan-seared chicken thighs](/blog/how-long-does-chicken-last-in-the-fridge/), a tray of baked tofu, hard-boiled eggs, or a pot of beans or lentils.
 
 **Vegetables:** a sheet pan of roasted mixed vegetables, a quick sauté, or something you can eat raw, like shredded cabbage or carrots for a slaw.
 
@@ -106,11 +106,11 @@ You don't need a rigid schedule, but having a loose rhythm makes solo meal prep 
 
 **Sheet pan roast, three ways.** Roast a tray of chicken thighs alongside a mix of vegetables. Eat it as-is the first night, chop it into a grain bowl the second night, and fold it into a wrap or quesadilla the third.
 
-**Big pot of grains, small daily changes.** Cook a batch of rice or quinoa. Pair it with a fried egg and hot sauce one day, a scoop of beans and salsa the next, and stir-fried vegetables with soy sauce after that.
+**Big pot of grains, small daily changes.** [Cook a batch of rice](/blog/how-to-cook-rice-in-a-rice-cooker/) or quinoa. Pair it with a fried egg and hot sauce one day, a scoop of beans and salsa the next, and stir-fried vegetables with soy sauce after that.
 
 **Soup in single portions.** Soups and stews often taste better the next day and freeze well. Make a pot, portion it into individual containers, and freeze most of it. Thaw one at a time through the following weeks.
 
-**Egg-based breakfasts for the week.** Hard-boil half a dozen eggs, or make a batch of baked egg muffins in a muffin tin. Both keep for about 5 days and give you a fast breakfast or snack without any daily cooking.
+**Egg-based breakfasts for the week.** [Hard-boil half a dozen eggs](/blog/best-hard-boiled-egg-cooker/), or make a batch of baked egg muffins in a muffin tin. Both keep for about 5 days and give you a fast breakfast or snack without any daily cooking.
 
 **One-pan pasta for two nights.** Cook enough pasta with a simple sauce for two meals, not more, so you're not eating reheated pasta four days later when the texture has changed.
 
@@ -118,13 +118,13 @@ You don't need a rigid schedule, but having a loose rhythm makes solo meal prep 
 
 Solo meal prep in a tight kitchen comes with its own logistics. A few things that help:
 
-* **Use one pot or pan for multiple components when possible.** Steam vegetables in the same pot you just used for grains (after draining), or roast protein and vegetables together on one sheet pan to save on both cooking time and dishes.
+* **Use one pot or pan for multiple components when possible.** Steam vegetables in the same pot you just used for grains (after draining), or roast protein and vegetables together on [one sheet pan](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) to save on both cooking time and dishes.
 * **Wash as you go.** With limited counter and sink space, a sink full of dishes at the end of prep can feel overwhelming. Rinse and put away tools between steps instead of stacking everything for later.
-* **Store food vertically.** In a small fridge, stackable containers of the same size use shelf space far more efficiently than a mismatched collection of containers and lids.
+* **[Store food vertically](/blog/vertical-storage-ideas-for-small-kitchens/).** In a small fridge, stackable containers of the same size use shelf space far more efficiently than a mismatched collection of containers and lids.
 
 **Renter-friendly:** all of this works with equipment you can take with you, no permanent kitchen changes required.
 
-**What to get:** a set of 4 to 6 stackable, freezer-safe containers in one or two sizes, usually $15 to $30 for a full set. Look for ones with airtight lids if you plan to freeze any portions.
+**What to get:** a set of 4 to 6 [stackable, freezer-safe containers](/blog/best-airtight-food-storage-containers/) in one or two sizes, usually $15 to $30 for a full set. Look for ones with airtight lids if you plan to freeze any portions.
 
 ## What to Do When a Prep Session Doesn't Fit Your Week
 
@@ -153,10 +153,10 @@ Grocery stores are often designed around family-size packaging, which makes wast
 
 **Related Guides**
 
-* How to Stock a Small Kitchen for Solo Cooking
-* Best Cookware Sizes for Cooking for One
-* Best Small Kitchen Appliances for Cooking for One
-* Small Kitchen Gadgets Worth Buying When You Cook for One
+* [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
+* [Best Cookware Sizes for Cooking for One](/blog/best-cookware-sizes-for-cooking-for-one/)
+* [Best Small Kitchen Appliances for Cooking for One](/blog/best-small-kitchen-appliances-for-cooking-for-one/)
+* [Small Kitchen Gadgets Worth Buying When You Cook for One](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/)
 
 ## The Bottom Line
 

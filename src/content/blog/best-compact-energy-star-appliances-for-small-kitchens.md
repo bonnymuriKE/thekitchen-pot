@@ -71,11 +71,11 @@ Full-size refrigerators run continuously, all day, every day, which makes them o
 
 **Renter-friendly:** yes, in most cases, especially if your unit doesn't already include a full-size fridge.
 
-**What to get:** an Energy Star-certified compact refrigerator, typically 3 to 5 cubic feet for a single person or small household, usually $150 to $300. Look specifically for the Energy Star label on the unit itself or its listing, since not all mini fridges carry it.
+**What to get:** an Energy Star-certified [compact refrigerator](/blog/best-mini-fridge-for-beer/), typically 3 to 5 cubic feet for a single person or small household, usually $150 to $300. Look specifically for the Energy Star label on the unit itself or its listing, since not all mini fridges carry it.
 
 ## Compact and Countertop Dishwashers
 
-If you're doing dishes for one or two people, a full-size dishwasher is often overkill, both for space and energy. Compact and countertop dishwashers use less water and less electricity per cycle, since they're heating and pumping a smaller volume.
+If you're doing [dishes](/blog/how-to-clean-a-dishwasher/) for one or two people, a full-size dishwasher is often overkill, both for space and energy. Compact and countertop dishwashers use less water and less electricity per cycle, since they're heating and pumping a smaller volume.
 
 **Renter-friendly:** countertop dishwashers that hook up to your kitchen faucet with no permanent installation are generally yes. Built-in compact dishwashers usually require some plumbing work, so check with your landlord first.
 
@@ -95,7 +95,7 @@ Since so many small kitchen appliances fall outside the Energy Star program, you
 
 * **Check the wattage.** Lower wattage generally means less power draw, but remember run time matters too. A low-watt appliance running for hours can use more total energy than a higher-watt one running briefly.
 * **Match size to your household.** An oversized air fryer or slow cooker run for a single portion wastes both energy and capacity. Buy the smallest size that reliably fits what you cook.
-* **Look for auto-shutoff features.** Kettles, and some toaster ovens and multicookers, include automatic shutoff, which prevents wasted energy from an appliance left running by accident.
+* **Look for auto-shutoff features.** [Kettles](/blog/how-do-electric-kettles-work/), and some toaster ovens and [multicookers](/blog/what-is-an-instant-pot/), include automatic shutoff, which prevents wasted energy from an appliance left running by accident.
 * **Favor appliances with adjustable or lower-heat settings.** Being able to choose a lower cooking temperature when full heat isn't needed reduces energy use on tasks that don't require it.
 
 ## How Compact Appliances Save More Than Just Energy
@@ -120,7 +120,7 @@ The Energy Star logo itself just confirms certification, but the yellow EnergyGu
 
 ## Small Countertop Categories Worth Watching for Future Certification
 
-The Energy Star program periodically expands to new categories, so it's worth doing a quick search before you buy if you're shopping for something not currently covered, like a toaster oven or air fryer, in case that changes. In the meantime, a few practical stand-ins for certification on non-covered categories include checking the wattage against similar models, looking for adjustable temperature settings, and favoring appliances with an auto-shutoff or timer, all of which reduce the chance of energy being wasted through oversized settings or an appliance left running longer than it needs to.
+The Energy Star program periodically expands to new categories, so it's worth doing a quick search before you buy if you're shopping for something not currently covered, like a [toaster oven](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) or [air fryer](/blog/best-air-fryers-under-100/), in case that changes. In the meantime, a few practical stand-ins for certification on non-covered categories include checking the wattage against similar models, looking for adjustable temperature settings, and favoring appliances with an auto-shutoff or timer, all of which reduce the chance of energy being wasted through oversized settings or an appliance left running longer than it needs to.
 
 ## Comparing Two Certified Models Side by Side
 
@@ -153,10 +153,10 @@ A compact, certified appliance still needs to be used correctly to deliver its e
 
 **Related Guides**
 
-* Most Energy-Efficient Small Kitchen Appliances
-* Eco-Friendly Alternatives to Common Kitchen Appliances
-* How to Reduce Kitchen Energy Use in a Small Apartment
-* How to Choose Energy-Efficient Cookware for a Small Kitchen
+* [Most Energy-Efficient Small Kitchen Appliances](/blog/most-energy-efficient-small-kitchen-appliances/)
+* [Eco-Friendly Alternatives to Common Kitchen Appliances](/blog/eco-friendly-alternatives-to-common-kitchen-appliances/)
+* [How to Reduce Kitchen Energy Use in a Small Apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/)
+* [How to Choose Energy-Efficient Cookware for a Small Kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/)
 
 ## **The Bottom Line**
 

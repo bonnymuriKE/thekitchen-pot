@@ -105,16 +105,16 @@ A small kitchen for one person doesn't need a full set of anything. Here's a rea
 * **One 8-inch skillet**, for eggs, small proteins, and quick sautés.
 * **One 1.5 to 2-quart saucepan**, for rice, sauces, and reheating.
 * **One 3-quart pot**, for pasta, soup, and boiling.
-* **One cutting board and one good chef's knife.** These get used daily, so it's worth spending a bit more here than on other tools.
-* **A few basic utensils:** a spatula, a wooden spoon, tongs, and a can opener.
-* **Measuring cups and spoons**, a compact set rather than a bulky standalone version of each.
+* **One cutting board and one [good chef's knife](/blog/best-knife-set-under-100/).** These get used daily, so it's worth spending a bit more here than on other tools.
+* **A few basic utensils:** a [spatula](/blog/best-metal-spatula-set/), a wooden spoon, tongs, and a [can opener](/blog/top-10-best-electric-can-opener/).
+* **[Measuring cups and spoons](/blog/how-many-ounces-in-a-quart/)**, a compact set rather than a bulky standalone version of each.
 * **A colander**, ideally one that also nests or folds flat for storage.
 
 That short list covers the overwhelming majority of everyday cooking. Add specialty tools, like a garlic press or a citrus juicer, only after you notice you actually need one repeatedly, not preemptively.
 
 ## Small Appliances Worth Considering
 
-You don't need a full countertop's worth of appliances to cook well solo, but a couple of well-chosen ones can genuinely simplify your routine. A compact air fryer handles reheating and quick roasting far better than a full-size oven for single portions. A personal blender or immersion blender covers smoothies, sauces, and blended soups without a bulky pitcher blender taking up space. If rice is a regular part of your meals, a small rice cooker frees up a stovetop burner and takes the guesswork out of timing.
+You don't need a full countertop's worth of appliances to cook well solo, but a couple of well-chosen ones can genuinely simplify your routine. A [compact air fryer](/blog/best-air-fryers-under-100/) handles reheating and quick roasting far better than a full-size oven for single portions. A [personal blender](/blog/best-blenders-for-smoothies/) or immersion blender covers smoothies, sauces, and blended soups without a bulky pitcher blender taking up space. If rice is a regular part of your meals, a [small rice cooker](/blog/best-rice-cooker-for-brown-rice/) frees up a stovetop burner and takes the guesswork out of timing.
 
 **Renter-friendly:** yes, appliances are freestanding and move with you.
 
@@ -157,10 +157,10 @@ A few categories of items are rarely worth the space for someone cooking solo in
 
 **Related Guides**
 
-* Best Cookware Sizes for Cooking for One
-* Best Small Kitchen Appliances for Cooking for One
-* Easy Meal Prep Ideas for One Person in a Small Kitchen
-* Small Kitchen Gadgets Worth Buying When You Cook for One
+* [Best Cookware Sizes for Cooking for One](/blog/best-cookware-sizes-for-cooking-for-one/)
+* [Best Small Kitchen Appliances for Cooking for One](/blog/best-small-kitchen-appliances-for-cooking-for-one/)
+* [Easy Meal Prep Ideas for One Person in a Small Kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/)
+* [Small Kitchen Gadgets Worth Buying When You Cook for One](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/)
 
 ## The Bottom Line
 

@@ -78,15 +78,15 @@ A pegboard is the single most adaptable vertical storage system you can add to a
 
 ## 3. Add a Wall-Mounted Pot Rail or Rack
 
-If your cookware is eating up cabinet space, moving it to the wall solves two problems at once: it frees up cabinets and puts your most-used pans within easy reach while you cook. A rail with S-hooks or a small hanging rack works well over a stove or prep area.
+If your [cookware](/blog/store-pots-and-pans-in-a-small-kitchen/) is eating up cabinet space, moving it to the wall solves two problems at once: it frees up cabinets and puts your most-used pans within easy reach while you cook. A rail with S-hooks or a small hanging rack works well over a stove or prep area.
 
-**What to get:** a wall rail with hooks, often under $20, or a ceiling-mounted pot rack for $50 to $120 if you have the clearance. Confirm whatever you're mounting into can support the combined weight of your cookware.
+**What to get:** a wall rail with hooks, often under $20, or a [ceiling-mounted pot rack](/blog/pots-and-pans-rack-reviews/) for $50 to $120 if you have the clearance. Confirm whatever you're mounting into can support the combined weight of your cookware.
 
 **Renter-friendly:** only with adhesive-mounted rails rather than drilled ones. Check your lease before installing anything permanent.
 
 ## 4. Use a Magnetic Strip for Knives and Metal Tools
 
-A magnetic knife strip mounted on the wall next to your prep area keeps knives sharp, visible, and completely off the counter and out of a drawer. Many strips also hold metal utensils, scissors, and even small spice tins with metal lids.
+A [magnetic knife strip](/blog/best-magnetic-knife-strip/) mounted on the wall next to your prep area keeps knives sharp, visible, and completely off the counter and out of a drawer. Many strips also hold metal utensils, scissors, and even small spice tins with metal lids.
 
 **What to get:** a magnetic wall strip, typically $15 to $30 depending on length. Mount it high enough that it's out of reach of small children if that's a concern in your home.
 
@@ -118,7 +118,7 @@ Vertical storage isn't only about walls, it also applies inside your existing ca
 
 ## 8. Add a Tension Rod for Vertical Lid or Tray Storage
 
-A spring-loaded tension rod mounted inside a cabinet, either horizontally near the top or vertically between two shelves, creates a slot for storing baking sheets, cutting boards, or pan lids on their sides instead of stacked flat.
+A spring-loaded tension rod mounted inside a cabinet, either horizontally near the top or vertically between two shelves, creates a slot for storing [baking sheets](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/), cutting boards, or pan lids on their sides instead of stacked flat.
 
 **What to get:** an adjustable tension rod, usually $8 to $15. This is one of the cheapest vertical storage fixes on this list.
 
@@ -160,7 +160,7 @@ If your walls are off-limits but you have a shelf, soffit, or ceiling joist you 
 
 ## What If You Live in an Older Building or a Rental with Plaster Walls
 
-Plaster walls, popcorn ceilings, and tile backsplashes all make standard drilling trickier or against the rules. If that's your situation, lean on the options in this list that don't need a wall anchor at all: tension rods, adhesive strips rated for kitchen use, magnetic strips on existing metal surfaces like a range hood, and freestanding or under-shelf mounted pieces. Test any adhesive-backed hook on an inconspicuous spot first, since some finishes react differently to adhesive than a standard painted drywall wall would.
+Plaster walls, popcorn ceilings, and tile backsplashes all make standard drilling trickier or against the rules. If that's your situation, lean on the options in this list that don't need a wall anchor at all: tension rods, adhesive strips rated for kitchen use, magnetic strips on existing metal surfaces like a [range hood](/blog/best-under-cabinet-range-hood/), and freestanding or under-shelf mounted pieces. Test any adhesive-backed hook on an inconspicuous spot first, since some finishes react differently to adhesive than a standard painted drywall wall would.
 
 ## How to Decide Where to Start
 
@@ -178,10 +178,10 @@ It's also worth spacing these projects out rather than installing everything in 
 
 **Related Guides**
 
-* How to Organize a Small Kitchen with No Pantry
-* Small Kitchen Cabinet Organization Ideas
-* How to Store Pots and Pans in a Small Kitchen
-* Countertop Organization Ideas for a Small Kitchen
+* [How to Organize a Small Kitchen with No Pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/)
+* [Small Kitchen Cabinet Organization Ideas](/blog/small-kitchen-cabinet-organization-ideas/)
+* [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
+* [Countertop Organization Ideas for a Small Kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/)
 
 ## **The Bottom Line**
 

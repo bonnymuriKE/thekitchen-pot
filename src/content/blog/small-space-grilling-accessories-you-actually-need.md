@@ -65,7 +65,7 @@ You need a spatula, tongs, and a basting brush. That's genuinely most of what ge
 
 **What to get:** a 3-4 piece stainless steel tool set with long handles for heat safety, typically $15-$30. Look for a set that comes with a small hanging loop or a compact case rather than a bulky caddy.
 
-### 3. An Instant-Read Meat Thermometer
+### 3. An Instant-Read [Meat Thermometer](/blog/best-meat-thermometer-for-smoking/)
 
 This one isn't about space, it's about not overcooking or undercooking food on a smaller grill where heat can be less even than a full-size backyard model. It also takes up almost no room at all.
 
@@ -113,7 +113,7 @@ Rather than letting grease drip onto your balcony floor or grill mat, a small he
 
 **What to get:** a small metal or heat-safe container that fits under your specific grill's drip point, often just a repurposed can or a $10-$15 dedicated grease cup.
 
-### 9. A Set of Heat-Resistant Gloves
+### 9. A Set of [Heat-Resistant Gloves](/blog/10-best-heat-resistant-gloves-for-cooking/)
 
 Tongs handle most of what you'll do at the grill, but there are moments, adjusting a grate, moving a hot grease tray, or repositioning the grill itself once it's cooled slightly, where a bare hand near heat is a bad idea. A pair of heat-resistant gloves solves this without taking up more room than a folded dish towel.
 
@@ -135,7 +135,7 @@ Not everything marketed to grillers deserves a spot on a balcony. Here's what to
 
 * **Large multi-tool caddies.** These are built to sit permanently on a full-size grill's side shelf. On a small grill, they just take up cooking space or fall off the table you're using instead.
 * **Rotisserie attachments.** They require a larger grill with the right mounting hardware, plus significant clearance, neither of which most balcony grills have.
-* **Smoker boxes for gas grills**, unless you already know you'll use one regularly. They're a genuinely fun addition, but they're also a single-purpose item that's easy to leave unused.
+* **[Smoker boxes for gas grills](/blog/best-smoker-box-for-gas-grills/)**, unless you already know you'll use one regularly. They're a genuinely fun addition, but they're also a single-purpose item that's easy to leave unused.
 * **Oversized grill baskets.** A small, single grill basket for vegetables is genuinely useful. A giant multi-tier one is overkill for two to four servings.
 * **Full grill carts**, if your grill is already tabletop-style. Adding a cart just to have somewhere to put your grill often defeats the purpose of choosing a compact model in the first place.
 * **Decorative grill lights and string lighting kits marketed specifically for grills.** Nice in theory, but they're an ambiance purchase, not a functional one, and they add clutter to store.
@@ -144,8 +144,8 @@ Not everything marketed to grillers deserves a spot on a balcony. Here's what to
 
 Even the minimal list above needs a home when you're not grilling. A few options that work well in small spaces:
 
-* **A single small bin or basket** kept just inside the door or in a nearby closet, holding the tool set, thermometer, and brush together.
-* **A hook mounted near the grill** (command-style hooks work if you're renting) for hanging the tongs and spatula so they're always within reach.
+* **A single [small bin or basket](/blog/countertop-organization-ideas-for-a-small-kitchen/)** kept just inside the door or in a nearby closet, holding the tool set, thermometer, and brush together.
+* **A [hook mounted](/blog/vertical-storage-ideas-for-small-kitchens/) near the grill** (command-style hooks work if you're renting) for hanging the tongs and spatula so they're always within reach.
 * **The grill's own side shelf**, if it has one, for the thermometer and grease container, so they travel with the grill rather than needing separate storage.
 
 The goal is that everything you need lives in one compact spot, so setting up to grill takes 30 seconds, not a scavenger hunt through your apartment.
@@ -156,7 +156,7 @@ If you're starting from zero, buying everything on this list at once can feel li
 
 **Buy first:** the grill mat and the fire extinguisher. These are the two items with real safety and deposit implications, and they're also the cheapest way to avoid a costly mistake.
 
-**Buy second:** the tool set and thermometer. These directly affect whether your food turns out well, and you'll notice the difference the very first time you use them.
+**Buy second:** the tool set and [thermometer](/blog/how-to-clean-a-meat-thermometer/). These directly affect whether your food turns out well, and you'll notice the difference the very first time you use them.
 
 **Buy third:** the cover and the grease container. These extend the life of your grill and keep cleanup manageable, but you can technically grill a few times without them while you get the rest of your kit together.
 
@@ -166,7 +166,7 @@ This staged approach usually lands you at a full, functional kit for well under 
 
 ## Multi-Purpose Picks Worth Considering
 
-If storage space is especially tight, look for accessories that do double duty rather than buying single-purpose items for every task. A folding stool that also works as a side table saves you from owning both. A cast-iron or heat-safe tray can double as both a serving platter and a resting spot for cooked food straight off the grill, which means one less dish to find room for. Even the storage bin holding your tools can double as a seat in a pinch if your patio is tight on seating options. None of these swaps compromise function, they just mean fewer individual items competing for the same small footprint.
+If storage space is especially tight, look for accessories that do double duty rather than buying single-purpose items for every task. A folding stool that also works as a side table saves you from owning both. A [cast-iron](/blog/lodge-cast-iron-skillet-review/) or heat-safe tray can double as both a serving platter and a resting spot for cooked food straight off the grill, which means one less dish to find room for. Even the storage bin holding your tools can double as a seat in a pinch if your patio is tight on seating options. None of these swaps compromise function, they just mean fewer individual items competing for the same small footprint.
 
 It's also worth checking what your grill already includes before buying separately. Some compact grills ship with a basic tool, a small side shelf, or a fitted cover included in the box, and duplicating something you already own is one of the easiest ways to end up with more clutter than you intended.
 
@@ -184,10 +184,10 @@ If you're renting, a few of these accessories do double duty protecting your sec
 
 **Related Guides**
 
-* Best Small Grills for Balconies and Patios
-* Balcony Grilling Safety Tips and Rules
-* Best Portable Grills for Apartment Living
-* How to Set Up a Small Patio for Grilling
+* [Best Small Grills for Balconies and Patios](/blog/best-small-grills-for-balconies-and-patios/)
+* [Balcony Grilling Safety Tips and Rules](/blog/balcony-grilling-safety-tips-and-rules/)
+* [Best Portable Grills for Apartment Living](/blog/best-portable-grills-for-apartment-living/)
+* [How to Set Up a Small Patio for Grilling](/blog/how-to-set-up-a-small-patio-for-grilling/)
 
 ## **The Bottom Line**
 

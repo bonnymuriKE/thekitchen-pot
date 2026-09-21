@@ -68,7 +68,7 @@ While everything is out, take a minute to actually check dates on spices, oils, 
 
 The biggest mindset shift when you don't have a pantry is this: you need one dedicated area that acts like a pantry, even if it's just a single cabinet or a section of shelving. Trying to spread dry goods across every cabinet in the kitchen is what causes the chaos in the first place.
 
-Pick the cabinet, shelf, or wall space that's closest to your prep area and commit it to food storage only. Everything else, dishes, cookware, appliances, gets moved elsewhere to make room.
+Pick the cabinet, shelf, or wall space that's closest to your prep area and commit it to food storage only. Everything else, dishes, [cookware](/blog/store-pots-and-pans-in-a-small-kitchen/), appliances, gets moved elsewhere to make room.
 
 **Renter-friendly:** yes, this costs nothing and requires no installation, just some reshuffling.
 
@@ -84,7 +84,7 @@ If you don't have floor space for a full cabinet, even a narrow gap next to the 
 
 ## Use the Space Above Your Cabinets
 
-Most kitchens have a foot or more of dead air between the top of the cabinets and the ceiling. That space is perfect for storing bulk items or things you don't need daily, like extra paper towels, large stockpots, or backstock of canned goods.
+Most kitchens have a foot or more of dead air between the top of the cabinets and the ceiling. That space is perfect for storing bulk items or things you don't need daily, like extra paper towels, [large stockpots](/blog/best-stockpot-with-a-lid/), or backstock of canned goods.
 
 **What to get:** decorative baskets or bins sized to fit your cabinet top, typically $10 to $20 each. Keep heavier items in sturdier bins and reserve this space for things you can grab with a step stool, not what you need every day.
 
@@ -110,7 +110,7 @@ If there's a coat closet, linen closet, or even an unused closet in a hallway ne
 
 This is the single change that makes the biggest visual and functional difference. Bulky bags of flour, rice, pasta, and cereal don't stack well, they tear, and they take up more room than the food inside actually needs. Pouring dry goods into matching, stackable containers solves all three problems at once.
 
-**What to get:** a set of airtight stackable containers, usually $30 to $60 for a full set of 10 to 20 pieces. Square or rectangular containers use space more efficiently than round ones. Add a label maker or simple adhesive labels so you're not guessing what's what, especially for things like flour and cornstarch that look identical.
+**What to get:** a set of [airtight stackable containers](/blog/best-airtight-food-storage-containers/), usually $30 to $60 for a full set of 10 to 20 pieces. Square or rectangular containers use space more efficiently than round ones. Add a label maker or simple adhesive labels so you're not guessing what's what, especially for things like flour and cornstarch that look identical.
 
 **Renter-friendly:** yes.
 
@@ -134,7 +134,7 @@ A stack of canned goods is hard to sort through and tends to topple. Canned food
 
 ## Add a Rolling Cart for Overflow
 
-When you've used up every inch of fixed storage and still need more room, a small rolling kitchen cart is one of the most flexible fixes available. It adds shelving for canned goods, boxed items, and even small appliances, plus a bit of extra counter space on top, and you can roll it into a closet or corner when it's not needed.
+When you've used up every inch of fixed storage and still need more room, a small rolling kitchen cart is one of the most flexible fixes available. It adds shelving for canned goods, boxed items, and even [small appliances](/blog/best-small-kitchen-appliances-for-cooking-for-one/), plus a bit of extra counter space on top, and you can roll it into a closet or corner when it's not needed.
 
 **What to get:** a two- or three-tier rolling cart, typically $40 to $90. A butcher block or laminate top adds usable prep space in addition to the storage underneath.
 
@@ -142,7 +142,7 @@ When you've used up every inch of fixed storage and still need more room, a smal
 
 ## Group by Category, Not by Where It Fits
 
-Once you have storage in place, resist the urge to just cram things wherever there's an open spot. Group similar items together: baking supplies in one zone, snacks in another, canned goods in a third. This makes it far easier to see what you have, what's running low, and what you actually need at the store.
+Once you have storage in place, resist the urge to just cram things wherever there's an open spot. Group similar items together: [baking supplies](/blog/space-saving-baking-tool-essentials/) in one zone, snacks in another, canned goods in a third. This makes it far easier to see what you have, what's running low, and what you actually need at the store.
 
 Labeling shelves or bins, even with simple masking tape and a marker, reinforces the system so it's easy to put things back in the right place, not just easy to find them once.
 
@@ -166,10 +166,10 @@ Setting up a pantry substitute is only half the job. Without a little upkeep, ev
 
 **Related Guides**
 
-* Vertical Storage Ideas for Small Kitchens
-* Small Kitchen Cabinet Organization Ideas
-* How to Organize Kitchen Drawers in a Small Kitchen
-* Small Kitchen Tools That Do Double Duty
+* [Vertical Storage Ideas for Small Kitchens](/blog/vertical-storage-ideas-for-small-kitchens/)
+* [Small Kitchen Cabinet Organization Ideas](/blog/small-kitchen-cabinet-organization-ideas/)
+* [How to Organize Kitchen Drawers in a Small Kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/)
+* [Countertop Organization Ideas for a Small Kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/)
 
 ## **The Bottom Line**
 

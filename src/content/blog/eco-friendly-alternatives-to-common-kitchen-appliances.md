@@ -58,7 +58,7 @@ A full oven is designed to heat a large box of air, which takes a lot of energy 
 
 **Renter-friendly:** yes, no installation needed.
 
-**What to get:** a countertop convection toaster oven with an interior big enough for a quarter or half sheet pan, usually $60 to $180. Reserve your full oven for big batches, holiday cooking, or dishes that genuinely need the extra space.
+**What to get:** a [countertop convection toaster oven](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) with an interior big enough for a quarter or half sheet pan, usually $60 to $180. Reserve your full oven for big batches, holiday cooking, or dishes that genuinely need the extra space.
 
 ## Standard Coffee Maker → Manual Pour-Over or French Press
 
@@ -70,7 +70,7 @@ Drip coffee makers use electricity to heat water and often keep a hot plate runn
 
 ## Electric Can Opener → Manual Can Opener
 
-This is one of the simplest, cheapest swaps on this list. An electric can opener uses a small motor and takes up counter space and a plug, for a task a manual opener does just as fast with zero electricity.
+This is one of the simplest, cheapest swaps on this list. An [electric can opener](/blog/top-10-best-electric-can-opener/) uses a small motor and takes up counter space and a plug, for a task a manual opener does just as fast with zero electricity.
 
 **Renter-friendly:** yes.
 
@@ -82,11 +82,11 @@ Plastic kettles can leach small amounts of material into hot water over time, an
 
 **Renter-friendly:** yes.
 
-**What to get:** a stainless steel electric kettle with an automatic shutoff, usually $25 to $60. This is a straightforward upgrade that doesn't change how you use it day to day.
+**What to get:** a stainless steel electric kettle with an automatic shutoff, usually $25 to $60. This is a straightforward upgrade that doesn't change how you [clean or use it](/blog/how-to-clean-an-electric-kettle/) day to day.
 
 ## Single-Use Coffee Pod Machine → Reusable Filter or Grounds-Based Brewing
 
-Single-use coffee pods create a significant amount of packaging waste, one pod per cup, every single day. Switching to a reusable metal or mesh filter pod (if you want to keep your existing machine) or moving to a pour-over or French press eliminates that waste entirely.
+Single-use [coffee pod machines](/blog/top-5-keurig-coffee-maker/) create a significant amount of packaging waste, one pod per cup, every single day. Switching to a reusable metal or mesh filter pod (if you want to keep your existing machine) or moving to a pour-over or French press eliminates that waste entirely.
 
 **Renter-friendly:** yes.
 
@@ -98,11 +98,11 @@ Small electric food processors and choppers are convenient, but for many everyda
 
 **Renter-friendly:** yes.
 
-**What to get:** a stainless steel box grater and a mid-size chef's knife, together usually $30 to $60. Keep an electric food processor for the occasional big batch task, like shredding a large amount of cheese or vegetables at once.
+**What to get:** a stainless steel box grater and a mid-size [chef's knife](/blog/best-knife-set-under-100/), together usually $30 to $60. Keep an electric food processor for the occasional big batch task, like shredding a large amount of cheese or vegetables at once.
 
 ## Standard Dishwasher → Energy Star Compact Dishwasher (or Full Loads Only)
 
-Dishwashing itself isn't the problem, running a half-empty machine is. If you're replacing a dishwasher, an Energy Star-certified compact model designed for one or two people uses less water and energy per cycle than a full-size unit. If you're not replacing yours, simply waiting for a full load makes the biggest difference.
+[Dishwashing](/blog/how-to-clean-a-dishwasher/) itself isn't the problem, running a half-empty machine is. If you're replacing a dishwasher, an Energy Star-certified compact model designed for one or two people uses less water and energy per cycle than a full-size unit. If you're not replacing yours, simply waiting for a full load makes the biggest difference.
 
 **Renter-friendly:** only if you own the unit or your landlord allows appliance swaps. Otherwise, focus on full-load habits with what you already have.
 
@@ -122,11 +122,11 @@ If you mostly make single-serving smoothies or small sauces, a full-size blender
 
 **Renter-friendly:** yes.
 
-**What to get:** a personal-size blender with a travel cup attachment, usually $30 to $70.
+**What to get:** a [personal-size blender](/blog/best-blenders-for-smoothies/) with a travel cup attachment, usually $30 to $70.
 
 ## Standard Microwave → Nothing (It's Already a Good Choice)
 
-Not every section on a list like this needs to end in a swap, and the microwave is a good example. Despite a reputation for feeling less "wholesome" than stovetop cooking, a microwave heats food directly rather than heating the surrounding air, which makes it genuinely one of the more efficient appliances already sitting in most kitchens. If you're looking to green your kitchen, your microwave usually isn't the place to start. It's already doing a good job for reheating and small-portion cooking.
+Not every section on a list like this needs to end in a swap, and the [microwave](/blog/7-best-over-the-range-microwaves/) is a good example. Despite a reputation for feeling less "wholesome" than stovetop cooking, a microwave heats food directly rather than heating the surrounding air, which makes it genuinely one of the more efficient appliances already sitting in most kitchens. If you're looking to green your kitchen, your microwave usually isn't the place to start. It's already doing a good job for reheating and small-portion cooking.
 
 **What to get:** if yours is old and struggling, an Energy Star-certified compact microwave, usually $60 to $120, is a reasonable eventual replacement, but there's no rush to swap a microwave that still works fine.
 
@@ -140,13 +140,13 @@ This one isn't an appliance, but it fits the spirit of this list: small, everyda
 
 ## Standard Toaster → Toaster Oven (If You're Replacing Either One)
 
-If your toaster and your oven both need replacing around the same time, consider consolidating into one countertop convection toaster oven instead of buying both separately. A single well-chosen toaster oven handles toasting, reheating, and small baking tasks, which means one appliance doing several jobs instead of two or three appliances each drawing their own standby power and taking up their own counter space.
+If your [toaster](/blog/best-2-slice-toaster/) and your oven both need replacing around the same time, consider consolidating into one countertop convection toaster oven instead of buying both separately. A single well-chosen toaster oven handles toasting, reheating, and small baking tasks, which means one appliance doing several jobs instead of two or three appliances each drawing their own standby power and taking up their own counter space.
 
 **Renter-friendly:** yes.
 
 **What to get:** a countertop convection toaster oven with a dedicated toast setting, usually $70 to $160. This only makes sense as a "replace both" decision. There's no need to retire a perfectly good toaster just to consolidate.
 
-## Plastic Food Storage Containers → Glass or Stainless Steel Containers
+## Plastic [Food Storage Containers](/blog/best-airtight-food-storage-containers/) → Glass or Stainless Steel Containers
 
 Plastic storage containers wear out faster than glass or stainless steel, especially with regular microwave use, dishwasher cycles, and staining from tomato-based sauces. They also aren't ideal for reheating food directly, since some plastics can degrade with repeated heat exposure. Glass and stainless steel containers last much longer, go from fridge to microwave (glass only) or oven without a swap, and don't absorb odors or stains the way plastic does over time.
 
@@ -189,10 +189,10 @@ A kitchen full of brand-new "eco" gadgets replacing perfectly good appliances is
 
 **Related Guides**
 
-* Most Energy-Efficient Small Kitchen Appliances
-* Best Compact Energy Star Appliances for Small Kitchens
-* How to Reduce Kitchen Energy Use in a Small Apartment
-* How to Choose Energy-Efficient Cookware for a Small Kitchen
+* [Most Energy-Efficient Small Kitchen Appliances](/blog/most-energy-efficient-small-kitchen-appliances/)
+* [Best Compact Energy Star Appliances for Small Kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/)
+* [How to Reduce Kitchen Energy Use in a Small Apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/)
+* [How to Choose Energy-Efficient Cookware for a Small Kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/)
 
 ## **The Bottom Line**
 

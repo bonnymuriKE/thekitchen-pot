@@ -56,7 +56,7 @@ Here's a practical, renter-friendly plan for cutting kitchen energy use in a sma
 
 ## Start With Your Refrigerator (It's Probably Your Biggest Energy User)
 
-Unlike your oven or microwave, which run for short bursts, your refrigerator runs continuously, 24 hours a day, every day of the year. That makes it one of the largest energy users in most kitchens, small or large, even though it's easy to overlook because it's just quietly humming in the corner.
+Unlike your oven or microwave, which run for short bursts, your [refrigerator](/blog/best-side-by-side-refrigerator/) runs continuously, 24 hours a day, every day of the year. That makes it one of the largest energy users in most kitchens, small or large, even though it's easy to overlook because it's just quietly humming in the corner.
 
 * **Check the door seal.** Close the door on a piece of paper. If you can pull the paper out easily, the seal may be worn, letting cold air escape and forcing the compressor to run more.
 * **Keep the coils clean.** Dust buildup on the coils (usually on the back or bottom of the fridge) makes it work harder to release heat. A quick vacuum every few months helps.
@@ -70,13 +70,13 @@ Unlike your oven or microwave, which run for short bursts, your refrigerator run
 
 This is one of the simplest fixes and it costs nothing if you already own lids. A covered pot traps heat and steam, so water boils faster and food cooks in less time. An uncovered pot loses a steady stream of heat into the room the entire time it's on the burner.
 
-Similarly, a pan smaller than your burner wastes heat around its edges, especially on electric coil stoves. Use a pan that matches your burner size, and if you're missing lids for a few pots, a universal silicone lid is a cheap fix.
+Similarly, a pan smaller than your burner wastes heat around its edges, especially on electric coil stoves. [Matching pan size to burner size](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/) is one of the simplest cookware fixes, and if you're missing lids for a few pots, a universal silicone lid is a cheap fix.
 
 **What to get:** a universal adjustable silicone lid set, usually $15 to $25, if any of your pots are missing their original lids.
 
 ## Use the Right-Sized Appliance for the Job
 
-Cooking a single potato in a full-size oven means heating a large box of air for one small item. A toaster oven, air fryer, or microwave handles small portions using a fraction of the energy, since they heat a much smaller space.
+Cooking a single potato in a full-size oven means heating a large box of air for one small item. A [toaster oven](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/), [air fryer](/blog/best-air-fryers-under-100/), or microwave handles small portions using a fraction of the energy, since they heat a much smaller space.
 
 * Reserve your full oven for larger batches or dishes that genuinely need it.
 * Use a microwave or toaster oven for reheating and small meals.
@@ -101,20 +101,20 @@ Running an oven, stovetop, or air fryer once for a larger batch is more efficien
 
 Many countertop appliances draw a small amount of power even when they're off but still plugged in, sometimes called standby or phantom power. It's a small draw per device, a coffee maker's clock, a microwave's display, but across a kitchen full of small appliances, it adds up over a full year.
 
-* Unplug appliances you don't use daily, like a stand mixer or waffle iron, between uses.
+* Unplug appliances you don't use daily, like a [stand mixer](/blog/best-hand-mixers/) or [waffle iron](/blog/best-waffle-maker-with-removable-plates/), between uses.
 * Consider a power strip for your most-used counter appliances so you can switch several off at once when you're not cooking.
 
 **Renter-friendly:** yes, this requires no changes to the apartment itself.
 
 ## Run Full Loads, Not Partial Ones
 
-If you have a dishwasher, running it only with a full load makes a real difference, since a partial load still uses nearly the same amount of water and energy as a full one. The same logic applies to laundry if your unit is in the kitchen or nearby, though that's a separate topic from cooking energy specifically.
+If you have a [dishwasher](/blog/how-to-clean-a-dishwasher/), running it only with a full load makes a real difference, since a partial load still uses nearly the same amount of water and energy as a full one. The same logic applies to laundry if your unit is in the kitchen or nearby, though that's a separate topic from cooking energy specifically.
 
 If you're hand-washing dishes instead, batching them into one wash rather than repeatedly running the tap for a few items at a time saves both water and the energy used to heat it.
 
 ## Consider a Portable Induction Burner for Occasional Use
 
-If your apartment's stove is older or inefficient, and a full replacement isn't an option as a renter, a portable single-burner induction cooktop is a low-cost, plug-in way to cook more efficiently for everyday meals. Induction transfers heat directly to the pan rather than heating a coil or flame first, wasting much less heat into the surrounding air.
+If your apartment's stove is older or inefficient, and a full replacement isn't an option as a renter, a [portable single-burner induction cooktop](/blog/best-induction-cooktop-for-the-money/) is a low-cost, plug-in way to cook more efficiently for everyday meals. Induction transfers heat directly to the pan rather than heating a coil or flame first, wasting much less heat into the surrounding air.
 
 **Renter-friendly:** yes, it's a countertop unit, no installation required. You'll need induction-compatible cookware (anything a magnet sticks to).
 
@@ -144,7 +144,7 @@ If your apartment's dishwasher has an eco or energy-saving cycle, it's generally
 
 ## Watch Out for an Old or Inefficient Stove
 
-Older gas and electric stoves can lose efficiency over time. Warped electric coils don't sit flush with a pot's bottom, and older gas burners can develop uneven flame patterns that waste heat around the sides of a pan. If you notice one burner heating noticeably slower than the others, or a burner that looks visibly warped or damaged, it's worth mentioning to your landlord as a maintenance issue rather than assuming it's just something to work around. A repaired burner restores lost efficiency at no cost to you.
+Older gas and [electric stoves](/blog/best-slide-in-electric-range/) can lose efficiency over time. Warped electric coils don't sit flush with a pot's bottom, and older gas burners can develop uneven flame patterns that waste heat around the sides of a pan. If you notice one burner heating noticeably slower than the others, or a burner that looks visibly warped or damaged, it's worth mentioning to your landlord as a maintenance issue rather than assuming it's just something to work around. A repaired burner restores lost efficiency at no cost to you.
 
 ## Talk to Your Landlord About Old Appliances
 
@@ -160,10 +160,10 @@ If your building's fridge or oven is genuinely old and inefficient, it's worth a
 
 **Related Guides**
 
-* Most Energy-Efficient Small Kitchen Appliances
-* Best Compact Energy Star Appliances for Small Kitchens
-* Eco-Friendly Alternatives to Common Kitchen Appliances
-* How to Choose Energy-Efficient Cookware for a Small Kitchen
+* [Most Energy-Efficient Small Kitchen Appliances](/blog/most-energy-efficient-small-kitchen-appliances/)
+* [Best Compact Energy Star Appliances for Small Kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/)
+* [Eco-Friendly Alternatives to Common Kitchen Appliances](/blog/eco-friendly-alternatives-to-common-kitchen-appliances/)
+* [How to Choose Energy-Efficient Cookware for a Small Kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/)
 
 ## **The Bottom Line**
 

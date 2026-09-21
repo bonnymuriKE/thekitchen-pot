@@ -59,7 +59,7 @@ Before you buy a single divider, pull everything out of each drawer and sort it 
 
 This step alone usually solves half the problem, since most cluttered drawers are holding twice as much as they need to.
 
-While you're sorting, pay attention to duplicates specifically. It's extremely common to own three vegetable peelers or four sets of measuring spoons simply because you couldn't find the original when you needed one and bought another. Keep the one in the best condition, donate or toss the rest, and you'll likely free up more room than any organizer could add on its own.
+While you're sorting, pay attention to duplicates specifically. It's extremely common to own three [vegetable peelers](/blog/best-electric-potato-peeler/) or four sets of measuring spoons simply because you couldn't find the original when you needed one and bought another. Keep the one in the best condition, donate or toss the rest, and you'll likely free up more room than any organizer could add on its own.
 
 ## Assign Each Drawer a Single Job
 
@@ -68,7 +68,7 @@ The most common reason drawers become chaotic is that they're trying to hold too
 Instead, give each drawer one clear purpose:
 
 * One drawer for everyday utensils (spatulas, tongs, serving spoons)
-* One drawer for cooking tools and gadgets (can opener, peeler, whisk)
+* One drawer for cooking tools and gadgets ([can opener](/blog/top-10-best-electric-can-opener/), peeler, whisk)
 * One drawer for cutlery
 * One drawer for kitchen linens (towels, oven mitts)
 * If you have a true junk drawer, keep it small and separate from your cooking tools entirely
@@ -93,7 +93,7 @@ Deep drawers, especially ones designed for pots or bulk storage, waste a lot of 
 
 ## 3. Store Knives with a Drawer Knife Block
 
-If counter space is tight, an in-drawer knife block keeps blades organized, protected, and out of sight, without giving up any counter real estate. This is a strong option for small kitchens where every inch of visible counter matters.
+If [counter space](/blog/countertop-organization-ideas-for-a-small-kitchen/) is tight, an in-drawer [knife block](/blog/best-knife-set-under-100/) keeps blades organized, protected, and out of sight, without giving up any counter real estate. This is a strong option for small kitchens where every inch of visible counter matters.
 
 **What to get:** an in-drawer knife organizer with slots, usually $20 to $35 depending on capacity.
 
@@ -119,7 +119,7 @@ A basic cutlery tray keeps forks, knives, and spoons from becoming a pile you ha
 
 ## 6. Roll, Don't Stack, Kitchen Linens
 
-Dish towels and oven mitts stacked flat in a drawer tend to become one solid, hard-to-search block. Rolling them instead, the same way you'd roll clothes in a suitcase, lets you see and access each one individually and usually fits more in the same space.
+Dish towels and [oven mitts](/blog/10-best-heat-resistant-gloves-for-cooking/) stacked flat in a drawer tend to become one solid, hard-to-search block. Rolling them instead, the same way you'd roll clothes in a suitcase, lets you see and access each one individually and usually fits more in the same space.
 
 **What to get:** no special product needed here, just a rolling technique, though a few fabric bins can help keep rolled linens upright and separated by type.
 
@@ -179,10 +179,10 @@ Before you order anything online, measure your drawer's interior width, depth, a
 
 **Related Guides**
 
-* Small Kitchen Cabinet Organization Ideas
-* Countertop Organization Ideas for a Small Kitchen
-* How to Store Pots and Pans in a Small Kitchen
-* Vertical Storage Ideas for Small Kitchens
+* [Small Kitchen Cabinet Organization Ideas](/blog/small-kitchen-cabinet-organization-ideas/)
+* [Countertop Organization Ideas for a Small Kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/)
+* [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
+* [Vertical Storage Ideas for Small Kitchens](/blog/vertical-storage-ideas-for-small-kitchens/)
 
 ## **The Bottom Line**
 

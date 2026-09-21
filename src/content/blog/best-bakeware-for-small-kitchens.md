@@ -54,7 +54,7 @@ Most bakeware is designed for full-size kitchens with deep cabinets and roomy pa
 
 When people set up a small kitchen, they usually try to solve the space problem by buying less bakeware. That helps, but it's not the real fix. The real fix is buying the right size bakeware in the first place.
 
-A half sheet pan, the kind most recipes assume you own, is roughly 13 by 18 inches. That's a lot of pan. It barely fits in many small ovens, and it definitely won't fit flat in a shallow cabinet or a narrow gap next to the fridge. A quarter sheet pan, by comparison, is about 9 by 13 inches, roughly the size of a standard baking dish, and it fits almost everywhere a half sheet pan won't.
+A half sheet pan, the kind most recipes assume you own, is roughly 13 by 18 inches. That's a lot of pan. It barely fits in many small ovens, and it definitely won't fit flat in a shallow cabinet or a narrow gap next to the fridge. A [quarter sheet pan](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/), by comparison, is about 9 by 13 inches, roughly the size of a standard baking dish, and it fits almost everywhere a half sheet pan won't.
 
 This one swap, choosing compact bakeware sizes instead of standard restaurant-style sizes, solves more of the small-kitchen baking problem than any organizer or hack ever will.
 
@@ -71,7 +71,7 @@ It's worth saying plainly why the size swap works so well: most standard recipes
 
 Even the right-sized bakeware becomes a problem if it doesn't store well. Look for pans with straight sides rather than deep curves or flared rims, since straight-sided pans stack directly on top of each other without wobbling or sliding.
 
-Nesting bakeware sets are built specifically for this. Instead of a cake pan, a loaf pan, and a baking dish taking up three separate spots in your cabinet, a nesting set is designed so each piece slides inside the next, like mixing bowls. This can cut your bakeware footprint by more than half.
+Nesting bakeware sets are built specifically for this. Instead of a cake pan, a loaf pan, and a baking dish taking up three separate spots in your cabinet, a nesting set is designed so each piece slides inside the next, like mixing bowls. This can cut your bakeware footprint by more than half, and it's worth comparing to a [standard boxed bakeware set](/blog/best-bakeware-sets/) before you decide which style fits your kitchen better.
 
 **Renter-friendly:** yes.
 
@@ -100,7 +100,7 @@ This doesn't mean you can never own a specialty pan. It means you should own one
 
 ## Pick Materials That Are Light and Durable
 
-Weight matters more than people expect in a small kitchen. Heavy cast iron or thick ceramic bakeware is harder to store on a high shelf, harder to pull out one-handed, and more likely to chip other pieces when everything is stacked tightly together.
+Weight matters more than people expect in a small kitchen. Heavy [cast iron](/blog/lodge-cast-iron-skillet-review/) or thick [ceramic bakeware](/blog/best-ceramic-cookware-set/) is harder to store on a high shelf, harder to pull out one-handed, and more likely to chip other pieces when everything is stacked tightly together.
 
 Lightweight aluminized steel or aluminum bakeware is the better default for most small kitchens. It heats evenly, it's inexpensive, and it's light enough to store on a top shelf without risking your wrist, or your dishes.
 
@@ -132,7 +132,7 @@ A collapsible or stackable cooling rack solves this specific problem. Standard w
 ### What to get:
 
 * **A collapsible or nesting cooling rack**, usually $12 to $20.
-* **A roll of parchment paper**, stored flat behind a cabinet door or in a narrow vertical slot next to a baking sheet.
+* **A roll of parchment paper**, stored flat behind a cabinet door or in a narrow vertical slot next to a baking sheet, similar to how you'd handle [drawer storage](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) for other flat kitchen items.
 * **Nesting measuring cups and spoons**, usually $10 to $15, instead of a bulky bakeware set with its own storage tray.
 
 **Renter-friendly:** yes.
@@ -149,7 +149,7 @@ If you're starting from scratch, don't buy a full set on day one. Build your sma
 
 That's five pieces, and it covers cookies, cakes, quick breads, roasted sides, and reheating. Everything after that should be added only when you notice a genuine gap, not because a set happened to include it.
 
-If you already own a full set of standard-size bakeware and you're moving into a smaller space, you don't necessarily need to replace everything at once. Start by measuring your new oven and cabinets, then figure out which of your current pieces genuinely don't fit. It's common to find that only the half sheet pan and the 9x13 dish are the actual problem, while your cake pans and loaf pan are fine as they are. Replace the pieces that don't fit, and donate or store the rest rather than buying an entirely new collection out of caution.
+If you already own a full set of standard-size bakeware and you're moving into a smaller space, you don't necessarily need to replace everything at once. Start by measuring your new oven and [cabinets](/blog/small-kitchen-cabinet-organization-ideas/), then figure out which of your current pieces genuinely don't fit. It's common to find that only the half sheet pan and the 9x13 dish are the actual problem, while your cake pans and loaf pan are fine as they are. Replace the pieces that don't fit, and donate or store the rest rather than buying an entirely new collection out of caution.
 
 ## A Quick Note on Bakeware Sets vs. Buying Piece by Piece
 
@@ -167,10 +167,10 @@ Buying piece by piece costs a little more upfront but lets you choose sizes that
 
 **Related Guides**
 
-* How to Bake in a Small Kitchen Without Extra Counter Space
-* Compact Baking Sheet and Pan Sizes for Small Kitchens
-* Space-Saving Baking Tool Essentials
-* Best Small Ovens and Toaster Ovens for Baking in Small Kitchens
+* [How to Bake in a Small Kitchen Without Extra Counter Space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/)
+* [Compact Baking Sheet and Pan Sizes for Small Kitchens](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/)
+* [Space-Saving Baking Tool Essentials](/blog/space-saving-baking-tool-essentials/)
+* [Best Small Ovens and Toaster Ovens for Baking in Small Kitchens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/)
 
 ## The Bottom Line
 

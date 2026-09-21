@@ -57,13 +57,13 @@ The fix isn't a bigger kitchen. It's making every cabinet do more than one job, 
 
 Before adding a single organizer, empty one cabinet at a time and sort what comes out into three piles: keep, donate, and toss. Small kitchens can't afford to store duplicate mixing bowls, mismatched food storage lids, or appliances you haven't used in a year. This step alone typically frees up 20 to 30 percent of your cabinet space, and it costs nothing.
 
-While you're at it, group similar items together conceptually, baking supplies, everyday dishes, small appliances, so you know what needs a home before you start deciding where things go.
+While you're at it, group similar items together conceptually, baking supplies, everyday dishes, [small appliances](/blog/best-small-kitchen-appliances-for-cooking-for-one/), so you know what needs a home before you start deciding where things go.
 
 Work one cabinet at a time rather than emptying the whole kitchen onto the counter at once. Small kitchens don't have much surface area to spread things out on, and a half-finished project taking over your only counter for two days is its own kind of chaos. Set aside twenty or thirty minutes per cabinet instead, and you'll get through the whole kitchen over a weekend without ever losing access to your stove or sink.
 
 ## 1. Assign Cabinets by Frequency of Use
 
-Once you know what you're keeping, think about how often you actually reach for each item. Cabinets at eye level and around waist height should hold what you use daily: plates, glasses, everyday pots. Lower and higher cabinets, the ones that require bending or a step stool, are better suited for things you use weekly or less, like the roasting pan or the fondue set.
+Once you know what you're keeping, think about how often you actually reach for each item. Cabinets at eye level and around waist height should hold what you use daily: plates, glasses, everyday pots. Lower and higher cabinets, the ones that require bending or a step stool, are better suited for things you use weekly or less, like the roasting pan or the [fondue set](/blog/how-to-use-a-fondue-pot/).
 
 This single decision does more for your day-to-day experience than any organizer, since it means you're not constantly bending or reaching for the things you need most.
 
@@ -71,7 +71,7 @@ It helps to actually walk through your own routine here rather than guessing. St
 
 ## 2. Solve Corner Cabinets with a Lazy Susan
 
-Corner cabinets are famously the most wasted space in any kitchen, and in a small kitchen that waste matters even more. A rotating lazy susan turns that dead zone into genuinely usable storage, letting you spin items into reach instead of digging blind into the back corner. The reason corner cabinets end up wasted in the first place is simple geometry: the back third or so of the space is only reachable by crouching down and reaching around the door frame, so most people just stop putting anything back there after the first few frustrating tries. A turntable removes that dead zone entirely by bringing whatever's on it around to you instead.
+Corner cabinets are famously the most wasted space in any kitchen, and in a small kitchen that waste matters even more. A rotating [lazy susan](/blog/8-best-lazy-susan-organizers-for-your-kitchen/) turns that dead zone into genuinely usable storage, letting you spin items into reach instead of digging blind into the back corner. The reason corner cabinets end up wasted in the first place is simple geometry: the back third or so of the space is only reachable by crouching down and reaching around the door frame, so most people just stop putting anything back there after the first few frustrating tries. A turntable removes that dead zone entirely by bringing whatever's on it around to you instead.
 
 **What to get:** a two-tier lazy susan turntable, usually $15 to $35 depending on size and material. Measure your cabinet's interior width before buying, since these come in several diameters.
 
@@ -87,7 +87,7 @@ If a lazy susan still leaves you fishing for items, a pull-out swing shelf is th
 
 ## 4. Add Vertical Dividers for Bakeware and Trays
 
-Baking sheets, cutting boards, and trays are some of the hardest items to store because they don't stack with anything else. Left flat, they end up as one heavy, precarious stack you have to fully unload to get the one on the bottom. A vertical divider turns them into upright "files" you can pull out individually.
+[Baking sheets](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/), cutting boards, and trays are some of the hardest items to store because they don't stack with anything else. Left flat, they end up as one heavy, precarious stack you have to fully unload to get the one on the bottom. A vertical divider turns them into upright "files" you can pull out individually.
 
 **What to get:** an adjustable cabinet divider set, usually sold in packs of four to six, typically $15 to $25. Rubber-gripped dividers help keep the whole stack from sliding.
 
@@ -127,7 +127,7 @@ Deep base cabinets, especially the ones under the sink or next to the stove, ten
 
 ## 9. Separate Lids from Pots Completely
 
-Trying to store lids stacked with their matching pots is one of the most common causes of cabinet clutter. Lids are a different shape and never nest cleanly. Give them their own dedicated spot instead.
+Trying to store lids stacked with their matching [pots](/blog/how-to-organize-pots-and-pans/) is one of the most common causes of cabinet clutter. Lids are a different shape and never nest cleanly. Give them their own dedicated spot instead.
 
 **What to get:** a lid organizer rack or a simple tension rod mounted inside the cabinet door, both usually under $15.
 
@@ -171,10 +171,10 @@ Most of the fixes on this list are simple enough to do yourself in an afternoon,
 
 **Related Guides**
 
-* Vertical Storage Ideas for Small Kitchens
-* How to Organize Kitchen Drawers in a Small Kitchen
-* How to Store Pots and Pans in a Small Kitchen
-* How to Organize a Small Kitchen with No Pantry
+* [Vertical Storage Ideas for Small Kitchens](/blog/vertical-storage-ideas-for-small-kitchens/)
+* [How to Organize Kitchen Drawers in a Small Kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/)
+* [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
+* [How to Organize a Small Kitchen with No Pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/)
 
 ## **The Bottom Line**
 

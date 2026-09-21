@@ -91,7 +91,7 @@ A standard colander is bulky and awkward to store, especially in a small kitchen
 
 ## 5. Multi-Function Peeler
 
-Rather than a drawer full of single-purpose peelers, a multi-function version that handles regular peeling, julienning, and sometimes a zesting edge covers several jobs in one compact tool. For someone cooking for one, this kind of consolidation matters more than owning the "best" dedicated version of each individual tool.
+Rather than a drawer full of single-purpose peelers, a [multi-function version](/blog/best-electric-potato-peeler/) that handles regular peeling, julienning, and sometimes a zesting edge covers several jobs in one compact tool. For someone cooking for one, this kind of consolidation matters more than owning the "best" dedicated version of each individual tool.
 
 **Renter-friendly:** yes.
 
@@ -99,7 +99,7 @@ Rather than a drawer full of single-purpose peelers, a multi-function version th
 
 ## 6. Silicone Stretch Lids
 
-Storing small amounts of leftovers is a constant task when you're cooking for one, and mismatched container lids are a common source of drawer clutter. Silicone stretch lids fit over bowls, cups, and cans of any shape, cutting down on the number of dedicated containers you need to keep on hand.
+Storing small amounts of leftovers is a constant task when you're cooking for one, and mismatched container lids are a common source of drawer clutter. Silicone stretch lids fit over bowls, cups, and cans of any shape, cutting down on the number of [dedicated containers](/blog/best-airtight-food-storage-containers/) you need to keep on hand.
 
 **Renter-friendly:** yes.
 
@@ -107,7 +107,7 @@ Storing small amounts of leftovers is a constant task when you're cooking for on
 
 ## 7. A Sharp Paring Knife
 
-While not exactly a "gadget," a good paring knife deserves a mention because it handles the bulk of single-serving prep work, like trimming, peeling, and cutting small fruits and vegetables, more precisely than a large chef's knife. It's a small, low-storage-footprint tool that gets daily use.
+While not exactly a "gadget," a good [paring knife](/blog/best-knife-sharpener/) deserves a mention because it handles the bulk of single-serving prep work, like trimming, peeling, and cutting small fruits and vegetables, more precisely than a large chef's knife. It's a small, low-storage-footprint tool that gets daily use.
 
 **Renter-friendly:** yes.
 
@@ -115,7 +115,7 @@ While not exactly a "gadget," a good paring knife deserves a mention because it 
 
 ## 8. Immersion Blender
 
-Already covered as a small appliance in its own right, the immersion blender also functions like a gadget in terms of storage: it stores flat in a drawer rather than taking up counter or shelf space like a pitcher blender. For solo cooking, it blends soups directly in the pot and handles small batches of sauces or dressings without extra dishes.
+Already covered as a small appliance in its own right, the [immersion blender](/blog/how-to-use-an-immersion-blender/) also functions like a gadget in terms of storage: it stores flat in a drawer rather than taking up counter or shelf space like a pitcher blender. For solo cooking, it blends soups directly in the pot and handles small batches of sauces or dressings without extra dishes.
 
 **Renter-friendly:** yes.
 
@@ -131,7 +131,7 @@ If you cook with fresh herbs regularly, a multi-blade herb scissor or a small me
 
 ## 10. Magnetic Knife Strip
 
-For a small kitchen, a magnetic strip mounted on the wall or inside a cabinet door frees up an entire drawer that would otherwise hold a knife block, while also keeping your most-used knife (or two) in easy reach instead of buried under other utensils. It's a small change, but in a kitchen where every drawer counts, reclaiming one is a meaningful win.
+For a small kitchen, a [magnetic knife strip](/blog/best-magnetic-knife-strip/) mounted on the wall or inside a cabinet door frees up an entire drawer that would otherwise hold a knife block, while also keeping your most-used knife (or two) in easy reach instead of buried under other utensils. It's a small change, but in a kitchen where every drawer counts, reclaiming one is a meaningful win.
 
 **Renter-friendly:** check with your landlord before drilling, since this one does typically require a couple of small screws. A removable adhesive-mount version is a good workaround if drilling isn't an option, though it generally holds less weight, so it's better suited to one lighter knife than a full set.
 
@@ -154,7 +154,7 @@ Not every popular gadget earns a spot in a small, solo kitchen. A few to think t
 * **Banana slicers, strawberry hullers, and similarly narrow single-use tools.** These solve a problem a basic knife already solves, just slightly slower.
 * **Large salad spinners.** A collapsible or compact version, or simply drying greens with a clean towel, works nearly as well without the bulky storage footprint.
 * **Specialty appliances for rarely-made dishes**, like a dedicated waffle iron if you make waffles twice a year. Rent, borrow, or make do with a pan instead.
-* **Electric can openers.** A manual can opener is smaller, cheaper, doesn't need counter space or a plug, and opens a can just as fast once you're used to it.
+* **[Electric can openers](/blog/top-10-best-electric-can-opener/).** A manual can opener is smaller, cheaper, doesn't need counter space or a plug, and opens a can just as fast once you're used to it.
 * **Onion goggles and other one-trick novelty items.** These solve a minor annoyance at the cost of a drawer slot that a more versatile tool could use instead.
 
 ## How to Store Your Gadgets Without Clutter
@@ -175,10 +175,10 @@ Even a well-curated gadget collection can create clutter if it's not organized. 
 
 **Related Guides**
 
-* Best Small Kitchen Appliances for Cooking for One
-* Best Cookware Sizes for Cooking for One
-* How to Stock a Small Kitchen for Solo Cooking
-* How to Store Pots and Pans in a Small Kitchen
+* [Best Small Kitchen Appliances for Cooking for One](/blog/best-small-kitchen-appliances-for-cooking-for-one/)
+* [Best Cookware Sizes for Cooking for One](/blog/best-cookware-sizes-for-cooking-for-one/)
+* [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
+* [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
 
 ## The Bottom Line
 

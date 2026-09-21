@@ -45,7 +45,7 @@ smallSpacePillar: small-space-bakeware
 showTableOfContents: true
 source: decap
 ---
-If you've ever bought a baking sheet online, gotten it home, and discovered it doesn't fit in your oven, your cabinet, or both, you're not alone. Most bakeware sold in stores is sized for large kitchens with full-size ovens and deep cabinet storage. Small kitchens need something different, and most people don't realize compact sizes even exist until after the return shipping label.
+If you've ever bought a baking sheet online, gotten it home, and discovered it doesn't fit in your oven, your cabinet, or both, you're not alone. Most [bakeware sold in stores](/blog/best-bakeware-sets/) is sized for large kitchens with full-size ovens and deep cabinet storage. Small kitchens need something different, and most people don't realize compact sizes even exist until after the return shipping label.
 
 The good news is that bakeware sizing isn't a mystery once you know the standard measurements. Once you understand the sizes, you can shop with actual confidence instead of guessing.
 
@@ -67,7 +67,7 @@ Here's how standard sheet pan sizes compare, from largest to smallest:
 
 * **Full sheet pan:** approximately 18 x 26 inches. Designed for commercial ovens. Rarely fits a residential oven and almost never fits in a home kitchen's cabinet space.
 * **Half sheet pan:** approximately 13 x 18 inches. The standard size for most home baking recipes. Fits in most full-size home ovens but can be tight in compact or apartment-size ovens, and it's often too big to store flat in a shallow cabinet.
-* **Quarter sheet pan:** approximately 9 x 13 inches. The best default for small kitchens. Fits in almost every oven, including many countertop and toaster ovens, and stores easily alongside a baking dish or cutting board.
+* **Quarter sheet pan:** approximately 9 x 13 inches. The best default for small kitchens. Fits in almost every oven, including many [countertop and toaster ovens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/), and stores easily alongside a baking dish or cutting board.
 * **Eighth sheet pan:** approximately 6.5 x 9 inches. Useful for very small batches, reheating single portions, or toasting a small amount of nuts or spices, but too small to be your only sheet pan.
 
 For most small-kitchen bakers, the quarter sheet pan is the sweet spot. It's large enough to bake a full batch of cookies or roast a meal's worth of vegetables, but small enough to fit almost anywhere.
@@ -142,9 +142,9 @@ Vertical storage tends to favor loaf pans, sheet pans, and any bakeware with a f
 
 ### What to get:
 
-* **A vertical bakeware organizer or rack**, usually $15 to $25, if you're storing pans on their sides rather than stacking them.
+* **A [vertical bakeware organizer or rack](/blog/vertical-storage-ideas-for-small-kitchens/)**, usually $15 to $25, if you're storing pans on their sides rather than stacking them.
 
-Also check the depth of your storage space, not just the width and height. A cabinet that looks roomy from the front can be too shallow for a stack of pans plus a cooling rack, which means things end up sticking out and blocking the door from closing all the way. If you're not sure, measure with a pan you already own placed at the very back of the shelf before assuming a new size will fit.
+Also check the depth of your storage space, not just the width and height. A [cabinet](/blog/small-kitchen-cabinet-organization-ideas/) that looks roomy from the front can be too shallow for a stack of pans plus a cooling rack, which means things end up sticking out and blocking the door from closing all the way. If you're not sure, measure with a pan you already own placed at the very back of the shelf before assuming a new size will fit, the same way you would when you [store pots and pans](/blog/store-pots-and-pans-in-a-small-kitchen/) in a tight cabinet.
 
 ## A Note on Baking Times When You Size Down
 
@@ -160,10 +160,10 @@ It's worth repeating, since it comes up in nearly every category above: switchin
 
 **Related Guides**
 
-* Best Bakeware for Small Kitchens
-* Space-Saving Baking Tool Essentials
-* Best Small Ovens and Toaster Ovens for Baking in Small Kitchens
-* How to Bake in a Small Kitchen Without Extra Counter Space
+* [Best Bakeware for Small Kitchens](/blog/best-bakeware-for-small-kitchens/)
+* [Space-Saving Baking Tool Essentials](/blog/space-saving-baking-tool-essentials/)
+* [Best Small Ovens and Toaster Ovens for Baking in Small Kitchens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/)
+* [How to Bake in a Small Kitchen Without Extra Counter Space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/)
 
 ## The Bottom Line
 
