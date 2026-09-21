@@ -64,7 +64,6 @@ function formatDate(dateString: Date | undefined) {
               <a href={`/blog/${post.data.slug}/`} class="group">
                 <article class="bg-white rounded-xl overflow-hidden shadow-lg transform group-hover:scale-105 transition-all duration-300 h-full">
                   <div class="relative">
-                   { post.data.image && (
                    <img
                       src={post.data.image || "/images/blog/default-cover.jpg"}
                       width={1200}
@@ -72,7 +71,6 @@ function formatDate(dateString: Date | undefined) {
                       alt={post.data.title}
                       class="w-full h-48 object-cover"
                     />
-                   )}
                     <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-4">
                       <p class="text-white text-sm">{formatDate(post.data.modDate)}</p>
                     </div>
@@ -103,7 +101,7 @@ function formatDate(dateString: Date | undefined) {
             <Icon name="mdi:tag-off" class="w-16 h-16 mx-auto text-gray-400 mb-4" />
             <h2 class="text-2xl font-semibold mb-2">No Articles Found</h2>
             <p class="text-gray-600 mb-6">We couldn't find any articles tagged with "{tag}".</p>
-            <a
+            
               href="/blog"
               class="inline-block bg-teal-600 text-white px-6 py-3 rounded-full hover:bg-teal-700 transition-colors"
             >
@@ -118,7 +116,7 @@ function formatDate(dateString: Date | undefined) {
           <h2 class="text-xl font-semibold mb-4">Related Tags</h2>
           <div class="flex flex-wrap gap-2">
             {[...new Set(posts.flatMap(post => post.data.tags || []))].filter(t => t !== tag).map(relatedTag => (
-              <a
+              
                 href={`/blog/tag/${generateSlug(relatedTag)}/`}
                 class="inline-block bg-gray-100 hover:bg-teal-100 text-gray-700 hover:text-teal-800 px-3 py-1 rounded-full text-sm transition-colors"
               >
@@ -131,7 +129,7 @@ function formatDate(dateString: Date | undefined) {
             <h3 class="text-lg font-semibold mb-3">Popular Categories</h3>
             <div class="space-y-2">
               {[...new Set(posts.map(post => post.data.category))].filter(Boolean).map(category => (
-                <a
+                
                   href={`/blog/category/${generateSlug(category || '')}/`}
                   class="block text-gray-600 hover:text-teal-600 transition-colors"
                 >
