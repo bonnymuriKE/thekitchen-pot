@@ -9,6 +9,7 @@ import { slugify } from '@/utils/slugify';
 // import { Image } from 'astro:assets';
 // import ShareButtons from '../components/ShareButtons.astro';
 import AuthorBio from '../components/AuthorBio.astro';
+import TableOfContents from '../components/blog/TableOfContents.astro';
 import '../styles/blog-content.css';
 
 // authur import
@@ -37,7 +38,9 @@ interface Author {
 
 // End of Author Import
 
-const { frontmatter, entry } = Astro.props;
+const { frontmatter, entry, headings = [] } = Astro.props;
+const showToc = frontmatter.showTableOfContents !== false;
+const hasFaq = !!(frontmatter.faq && frontmatter.faq.length > 0);
 
 function getCurrentFormattedDate() {
     const currentDate = new Date();
@@ -141,7 +144,8 @@ const { tags } = frontmatter; // Assuming you're using frontmatter to get articl
       set:html={JSON.stringify(faqSchema)}
   />
 )}
-  <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+  <div id="top" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:grid lg:grid-cols-[minmax(0,1fr)_17rem] lg:gap-12 xl:gap-16">
+  <article class="min-w-0 max-w-4xl w-full mx-auto lg:mx-0">
   <p class="text-sm text-gray-500 italic mt-6 mb-4">
      We independently review and recommend products. If you buy through links on this page, we may earn a commission.
    </p>
@@ -179,10 +183,16 @@ const { tags } = frontmatter; // Assuming you're using frontmatter to get articl
   />
 )}
 
+    {showToc && (
+      <div class="lg:hidden">
+        <TableOfContents headings={headings} hasFaq={hasFaq} variant="mobile" />
+      </div>
+    )}
+
     <div class="blog-content prose dark:prose-invert">
       <slot />
 {frontmatter.faq && frontmatter.faq.length > 0 && (
-  <section class="faq-section mt-10 pt-8 border-t border-gray-200">
+  <section id="faq" class="faq-section mt-10 pt-8 border-t border-gray-200">
     <h2 class="text-2xl font-bold mb-4">Frequently Asked Questions</h2>
     <div class="space-y-4">
       {frontmatter.faq.map((item) => (
@@ -243,6 +253,12 @@ const { tags } = frontmatter; // Assuming you're using frontmatter to get articl
 />
 
   </article>
+  {showToc && (
+    <aside class="hidden lg:block">
+      <TableOfContents headings={headings} hasFaq={hasFaq} variant="sidebar" />
+    </aside>
+  )}
+  </div>
 </Layout>
 <style is:global>
   .cta-button {
