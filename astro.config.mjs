@@ -13,10 +13,11 @@ import react from "@astrojs/react";
 
 import rehypeStringify from 'rehype-stringify'
 import rehypeSlug from 'rehype-slug'
+import rehypeProductBlocks from './src/lib/rehypeProductBlocks.mjs'
    function rehypeLinksNewTab() {
      return (tree) => {
        function visit(node) {
-         if (node.type === 'element' && node.tagName === 'a') {
+         if (node.type === 'element' && node.tagName === 'a' && !String((node.properties || {}).href || '').startsWith('#')) {
            node.properties = node.properties || {};
            node.properties.target = '_blank';
            const href = node.properties.href || '';
@@ -73,7 +74,7 @@ export default defineConfig({
   markdown: {
 
     remarkPlugins: [ ],
-    rehypePlugins: [rehypeSlug, rehypeLinksNewTab, rehypeStringify],
+    rehypePlugins: [rehypeSlug, rehypeProductBlocks, rehypeLinksNewTab, rehypeStringify],
     shikiConfig: {
       // Choose from Shiki's built-in themes (or add your own)
       // https://shiki.style/themes
