@@ -1,158 +1,239 @@
 ---
-excerpt: Stop wasting money on special cleaners! These household items clean
-  stainless steel pans better than store-bought products. Cheap and effective!
+excerpt: "Burnt food, rainbow stains, white spots, sticky brown oil. Here's how to clean stainless steel pans for every kind of mess, using cheap things you probably already own."
 showTableOfContents: true
 authorId: kitchenpot1
-title: How to Clean Stainless Steel Pans - 5 Unique Methods
+title: "How to Clean Stainless Steel Pans (Burnt Food, Stains, Rainbow Marks and More)"
 source: wordpress
 slug: how-to-clean-stainless-steel-pans
 pubDate: 2020-09-09
-modDate: 2025-02-17
+modDate: 2026-09-22
 image: ""
 category: How To Guides
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: How to Clean Stainless Steel Pans - 5 Unique Methods
+coverAlt: A clean stainless steel frying pan next to a bottle of white vinegar and a box of baking soda
 tags:
-  - best-ceramic-cookware
-  - season-copper-pans
+  - how-to-clean-stainless-steel-pans
   - season-stainless-steel-pans
+  - stainless-steel-cookware
+  - cleaning-cookware
 authorImageAlt: kitchenpot1
-description: "Stop wasting money on special cleaners! These household items clean stainless steel pans better than store-bought products. Cheap and effective!"
-seo: How to clean stainless steel pans? Well, cleaning the pans is one of the
-  most important maintenance routine that you must muster. This guide offers
-  insights on how to care for your pans.
+description: "How to clean stainless steel pans the right way: burnt-on food, rainbow discoloration, white spots, brown stains and the bottom of the pan, with what to avoid."
+seo: "How to clean stainless steel pans, including burnt pans, rainbow discoloration, white calcium spots, brown oil stains and the bottom of the pan. Simple steps with baking soda, vinegar and Bar Keepers Friend."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "What is the best thing to clean stainless steel pans with?"
+    answer: "For everyday cleaning, warm water, dish soap and a soft sponge are enough. For stuck-on food, stains and discoloration, a powdered cleanser like Bar Keepers Friend works best. It contains oxalic acid, which breaks down burnt oil that soap can't touch. Baking soda and white vinegar are good cheaper options for lighter jobs."
+  - question: "How do you get burnt food off a stainless steel pan?"
+    answer: "Cover the burnt area with about an inch of water, add a tablespoon or two of baking soda, and let it simmer for 10 to 15 minutes. Let it cool a little, then scrape with a wooden spoon or spatula. Most of the burnt layer lifts off. Finish any leftover marks with a paste of Bar Keepers Friend and water."
+  - question: "Why does my stainless steel pan have rainbow stains?"
+    answer: "Rainbow stains are called heat tint. They form when the chromium in the steel reacts with air at high heat, creating a thin colored layer. They're harmless and don't affect cooking. Wipe the pan with plain white vinegar, rinse, and dry to remove them."
+  - question: "What are the white spots on my stainless steel pan?"
+    answer: "Chalky white spots or a cloudy film usually come from minerals in hard water, or from starch left behind when you boil pasta or rice. Boil a mix of equal parts white vinegar and water in the pan for a minute or two, let it cool, then wash as usual. Small white pits that don't wash off are usually salt pitting, which is permanent but only cosmetic."
+  - question: "Can you put stainless steel pans in the dishwasher?"
+    answer: "Most fully stainless pans are labeled dishwasher safe, but hand washing keeps them looking better. Dishwasher detergent is harsh and can dull the finish over time, and it won't remove burnt-on food anyway. Check your pan's care instructions, since some brands with aluminum or copper exteriors say hand wash only."
 ---
-Cleaning your stainless steel pans is an essential maintenance activity that enhances their durability and efficacy. 
+A stainless steel pan can look ruined and still be completely fine. That burnt black layer after a stir-fry, the rainbow sheen after searing a steak, the chalky white film after boiling pasta: all of it comes off. You just need to know which mess you're dealing with, because each one needs a slightly different fix.
 
-But how do you clean discolored stainless steel pans?
+This guide walks you through how to clean stainless steel pans for every common problem, from the quick wash after dinner to the pan you've been avoiding at the back of the cupboard. Almost everything here uses cheap things you probably already have: dish soap, baking soda, white vinegar, and maybe a can of Bar Keepers Friend.
 
-Well, if you have no idea how to clean stainless steel pans, then this guide is for you! We offer a step-by-step guide with easy-to-follow tips that will ensure that you get the best from your stainless steel cookware. 
+> **Quick answer:** For everyday cleaning, let the pan cool, then wash it with warm soapy water and a soft sponge. For burnt food, simmer water and baking soda in the pan, then scrape. For stains, rainbow marks and sticky brown oil, rub on a paste of Bar Keepers Friend and water. For white spots, boil equal parts vinegar and water. Skip steel wool, oven cleaner and bleach.
 
-## Why Stainless Steel Cookware Are Popular
+## What You Need to Clean Stainless Steel Pans
 
-If you ask any chef, they will tell you that they use stainless steel cookware during their daily chores. But why is stainless steel so popular?
+You don't need a special cleaning kit. Here's what actually does the work, and which job each item is good for.
 
-The pans are popular due to their versatility and durability. However, you should always invest in multi-ply cookware to get the best out of them.
+| Item | What it's best for | Rough cost |
+| --- | --- | --- |
+| Dish soap and a soft sponge | Everyday washing, grease, light food residue | Under $5 |
+| Non-scratch scrub sponge | Stuck-on bits that soap alone won't lift | Under $5 |
+| Baking soda | Burnt food, light brown stains, the outside of the pan | Under $2 |
+| White vinegar | Rainbow stains, white spots, cloudy film | Under $3 |
+| [Bar Keepers Friend](https://www.amazon.com/s?k=bar+keepers+friend+cleanser+powder&tag=kitchenpot-20) (powder or soft cleanser) | Stubborn stains, burnt oil, discoloration, making the pan look new | Under $5 |
+| Wooden spoon or flat silicone spatula | Scraping burnt food without scratching | You likely have one |
 
-Additionally, stainless cookware are relatively affordable. As such, many households can afford to buy them without a hassle. 
+If you only buy one thing, make it Bar Keepers Friend. The main cleaning ingredient is oxalic acid, which breaks down baked-on oil at a chemical level. That's why it works on marks that dish soap slides right over. Major cookware brands like All-Clad [list it by name](https://www.all-clad.com/care-use) as a safe cleaner for their stainless pans, alongside Bon Ami.
 
-## Are Stainless Steel Pans Nonstick?
+## How to Clean Stainless Steel Pans After Every Use
 
-Your stainless steel pans are not nonstick. However, the manufacturer may add a ceramic, Teflon, or any other nonstick coating on the surface. 
+This is the routine that keeps you from ever needing the heavy-duty methods further down.
 
-If you’re interested in a nonstick version of stainless steel pans or carbon steel pans, you can be sure that it will cost you more. 
+1. **Let the pan cool first.** Don't run a hot pan under cold water. The sudden temperature change can warp the metal, and a warped pan won't sit flat on the burner anymore. Five minutes on the stovetop is enough.
+2. **Scrape out loose food.** Use a wooden spoon or silicone spatula to push out any leftovers.
+3. **Wash with warm water and dish soap.** Use a soft sponge and work in circles. For most meals, this is all you need.
+4. **Use the scrubby side for stuck bits.** A non-scratch scrub pad handles most dried-on food. If something won't budge, fill the pan with warm soapy water and let it sit for 15 to 20 minutes, then try again.
+5. **Dry it right away.** Wipe the pan dry with a towel instead of letting it air dry. This one habit prevents most of the water spots people complain about.
 
-## Why You Should Clean Your Stainless Steel after Use
+**A quick trick for stuck food right after cooking:** while the pan is still warm (not smoking hot), pour in a splash of water. It will sizzle and loosen the browned bits stuck to the bottom. Scrape them with a wooden spoon and you've done half the cleaning already. This is the same move cooks use to make pan sauces, called deglazing, and it works just as well when all you want is a clean pan.
 
-Buying high-quality stainless steel cookware can be expensive! As such, it’s only right that you take optimal care to ensure that it serves you for long.
+## Match the Mess to the Fix
 
-Immediately after you buy it, you should clean and season it comprehensively.
+Before you start scrubbing, figure out what you're looking at. This table covers the most common problems and the fastest way to deal with each.
 
-***Here is a complete guide on* *[how to season stainless steel pans](https://thekitchenpot.com/blog/how-to-season-stainless-steel-pans/)***
+| What you see | What it is | Best fix | Time |
+| --- | --- | --- | --- |
+| Black, crusty layer | Burnt food | Simmer water and baking soda, then scrape | 15 to 20 min |
+| Rainbow, blue or gold sheen | Heat tint (harmless) | Wipe with white vinegar | 2 min |
+| Chalky white spots or cloudy film | Hard water minerals or starch | Boil equal parts vinegar and water | 5 min |
+| Sticky brown or yellow patches | Burnt, polymerized oil | Bar Keepers Friend paste | 5 to 10 min |
+| Brown ring around the outside | Grease baked on from the burner | Baking soda paste or Bar Keepers Friend | 10 min |
+| Tiny white pits that won't wash off | Salt pitting | Can't be removed, but it's cosmetic | n/a |
 
-These basic maintenance practices ensure that you avoid staining, discoloration, and scratching of the pans.
+## How to Clean a Burnt Stainless Steel Pan
 
-## Are Stainless Steel Pans Expensive?
+You forgot the rice on the stove, or the onions went from golden to charcoal while you answered a text. Here's how to clean a burnt stainless steel pan without scrubbing for half an hour.
 
-The price of stainless steel pans depends on quality and size. While you may get cheap brands, you should always be careful not to compromise on quality. Always insist on multi-ply stainless steel pans if you want the best functionality coupled with durability. 
+### The baking soda simmer method
 
-Besides the quality, other factors determine the pricing of the pans. For example, some pans will have brushed stainless steel material with an aluminum base. One such product is the **[Calphalon Stainless Steel Cookware Set](https://www.amazon.com/Calphalon-Classic-10-Piece-Cookware-Stainless/dp/B00HQWONBW?tag=kitchenpot-20)**. 
+1. Scrape out as much of the loose burnt food as you can.
+2. Add enough water to cover the burnt area by about an inch.
+3. Stir in 1 to 2 tablespoons of baking soda.
+4. Bring it to a simmer over medium heat and let it bubble gently for 10 to 15 minutes. You'll often see black flakes start to float up.
+5. Turn off the heat and let it cool until it's warm, not hot.
+6. Scrape the bottom with a wooden spoon or flat spatula. Most of the burnt layer should lift off in sheets.
+7. Pour it out, then wash with soap and a sponge.
 
-These modifications are meant to enhance your cooking experience and they will, most likely, lead to an increase in price.
+If there are still dark patches after that, move on to the Bar Keepers Friend method below. The two work well together: the simmer loosens the thick layer, and the cleanser takes care of the thin stain underneath.
 
-Overall, good quality stainless steel cookware can be more expensive than the aluminum ones. 
+### The Bar Keepers Friend method
 
-***See the [Prices of More Stainless Steel Cookware](https://www.amazon.com/s?k=Stainless+steel+pans%3Ftag%3Dkitchenpot-20) here. Sample different types of cookware with varying materials of construction***
+1. Wet the pan and pour out the extra water.
+2. Sprinkle a thin layer of Bar Keepers Friend over the stained area.
+3. Rub it with a damp soft sponge or cloth in small circles.
+4. Let the paste sit for a minute on tough spots.
+5. Rinse well and wash with dish soap to clear any leftover residue.
 
-## How to Clean Stainless Steel Pans: Step by Step Guide 
+America's Test Kitchen [found that dish soap is nearly useless](https://www.americastestkitchen.com/articles/3704-how-to-clean-a-stained-or-scorched-stainless-steel-skillet) against scorched oil, because the sticky layer repels water and soap can't get underneath it. Bar Keepers Friend combines the acid with a mild abrasive and a surfactant, so it attacks the residue three ways at once. The point is that you shouldn't need much elbow grease. If you're pressing hard, give the paste more time instead.
 
-If you want to achieve a shiny pan, you should follow the following stainless steel cleaning steps to the letter:
+**For a really bad burn:** repeat the simmer, then do a second round of the cleanser. Stubborn burns sometimes take two passes, but a stainless pan can almost always be saved.
 
-* **Let the Pan Cool.** You should always wait for the pan to cool before you start the cleaning process. If you throw it into cold water when hot, it will warp, thus reducing its longevity.
-* **Use Warm Water.** Always use warm and soapy water when cleaning your stainless steel pans. This will ensure that you remove all food materials stuck on the surface of the pan.
-* **Use Non-Abrasive Material.** If you must use a scouring pad, then you should ensure that it is soft to prevent creating marks and scratches. When using steel wool, you should ensure that you scrub gently. 
-* **Always Dry Your Stainless Steel Pans before Storage.** If you store your pan when wet, you risk the formation of water stains. As such, you should always use a soft and clean towel to wipe off all the water until the pan is entirely dry. 
-* In the case of **burnt spots**, you should always consider **using baking soda.** However, you should be careful to avoid over scrubbing since it would lead to damage. 
+## How to Remove Discoloration From Stainless Steel Pans
 
-## How to Clean Stainless Steel Pans with Vinegar
+Rainbow stains, blue patches and golden tints are some of the most common reasons people think they've damaged their pans. You haven't.
 
-If you want your pan to remain with the shiny appeal, you should always ensure that you get rid of all stains and water spots. 
+This discoloration is called **heat tint**. When stainless steel gets very hot, the chromium in the metal reacts with oxygen and forms a thin, colored layer on the surface. The color changes depending on how thick that layer gets, which is why you see a rainbow effect. Cookware maker Made In calls it [a purely aesthetic issue](https://madeincookware.com/blogs/the-dreaded-rainbow-stain-and-how-to-fix-it) that has no effect on cooking, and All-Clad's own care guide recommends a simple wipe with white vinegar to remove it.
 
-To achieve this, you should use vinegar solution to clean it regularly. There are two methods that you can use to achieve this. Follow the following guidelines for guaranteed results:
+To remove it:
 
-* **Method 1:** 
+1. Pour a little plain white vinegar onto a soft cloth or sponge. You can dilute it with some water if you like.
+2. Wipe the discolored area. The color usually fades within seconds.
+3. Rinse the pan and dry it well.
 
-Dilute vinegar using clean water in the ratio of 1:3. Add the diluted vinegar in your stainless steel pan. Place it on your stovetop and let the liquid boil. Once it starts boiling, switch off the stove, remove the pan, and rinse it. 
+For tints that won't fade with vinegar, a quick rub with Bar Keepers Friend will take them off.
 
-* **Method 2:** 
+**How to prevent it:** heat tint shows up most when a pan sits on high heat while empty, or when you cook on high for a long time. Most stainless steel cooking works best at medium or medium-high anyway, because the multi-layer base holds heat well. Save high heat for boiling water.
 
-If your pan has stubborn burnt marks, you should dry it completely then use a combination of vinegar and baking soda to scrub it. Sprinkle the baking soda on the bottom of the pan and then add vinegar (just a few drops). Scrub the pan until it achieves the glow then rinse it. 
+## How to Get White Spots Off Stainless Steel Pans
 
-Vinegar contains acetic acid which is instrumental in removing stains, burnt spots, and discoloration from your stainless steel pans. 
+If your pan has chalky white spots or a cloudy film, the cause is usually one of two things:
+
+- **Hard water.** Minerals like calcium are left behind when water evaporates. You'll see this most in pans you boil water in or leave to air dry.
+- **Starch.** Boiling pasta, rice or potatoes can leave a cloudy film.
+
+Both come off the same way:
+
+1. Mix equal parts white vinegar and water in the pan, enough to cover the spots.
+2. Bring it to a boil and let it bubble for a minute or two.
+3. Let it cool, pour it out, and wash with soap and water.
+4. Dry the pan with a towel.
+
+All-Clad recommends this same 1:1 vinegar and water boil for hard water spots on its cookware.
+
+### White pits that won't come off
+
+If the white marks are tiny dots that you can feel as little dents, that's **salt pitting**. It happens when salt sits on the bottom of the pan in cold water and slowly eats small holes into the surface. It can't be cleaned off, but it doesn't affect cooking or safety.
+
+The fix is to prevent more of it. Add salt only after the water is boiling, or once food is already cooking, so the salt dissolves right away instead of sitting on the metal.
+
+## How to Clean Brown Stains and Sticky Oil Off Stainless Steel
+
+That tacky, brownish-yellow film that feels almost like varnish is oil that has been heated past its smoke point and bonded to the pan. It's the same thing that builds up on sheet pans. Regular dish soap does very little here.
+
+Your best options, from gentlest to strongest:
+
+1. **Baking soda paste.** Mix 3 parts baking soda with 1 part water into a thick paste. Spread it on the stain, let it sit for 15 to 20 minutes, then scrub with a non-scratch pad and rinse. This works on lighter stains.
+2. **Bar Keepers Friend.** Use it the same way as for burnt food. This is the most reliable way to remove brown stains from stainless steel, and it's usually faster than baking soda.
+3. **Soak first, then scrub.** For thick buildup, fill the pan with hot water and a squeeze of dish soap, let it sit for an hour, then go in with the cleanser.
 
 ## How to Clean the Bottom of Stainless Steel Pans
 
-Cleaning the bottom of stainless steel pans can be tricky considering that the part is more prone to burning. This section will offer tips on how to clean burnt/scorched stainless steel pans. 
+The outside bottom of a pan collects grease splatter that gets baked on every time you cook. After a while you get a dark brown ring that's hard to shift.
 
-You should be careful not to let debris accumulate on the bottom of your pan since it will affect heat distribution and consequently impair your cooking process. 
+1. Flip the pan upside down in the sink or on a towel.
+2. Wet the bottom and sprinkle on Bar Keepers Friend, or spread a thick baking soda paste.
+3. Let it sit for a few minutes.
+4. Scrub in circles with a non-scratch scrub pad.
+5. Rinse, check your progress, and repeat on the darkest spots.
 
-If you want to remove the burnt debris instantly, then you can use any of these methods:
+Heavy, years-old buildup on the bottom may take a few sessions. That's normal. It's also worth knowing that a stained bottom doesn't hurt cooking performance on gas or electric coil burners. If you cook on a glass-top stove, though, keeping the base clean matters more, because baked-on residue can transfer to the glass and leave marks.
 
-**1. Use Baking Soda and Vinegar** 
+## Can You Put Stainless Steel Pans in the Dishwasher?
 
-As described above, this combination will certainly restore the shiny glow to your scorched stainless steel pans. 
+Usually yes, but it's not the best way to clean them.
 
-To achieve it, you should wet using water and add vinegar. Place it in your stovetop and let it boil. You should then add your baking soda and scrub gently until you see the shiny surface. 
+Most fully stainless steel pans are labeled dishwasher safe. The problem is that dishwasher detergent is harsh, and over months it can dull the shiny finish and leave spots. It also won't remove burnt-on food or heat tint, so you'll still need to scrub those by hand. Many brands, including All-Clad, say hand washing keeps the pans looking their best.
 
-If the marks are persistent, you should repeat this process until they disappear completely. Once you’re satisfied with the results, you should rinse the pan and dry it before storage. 
+Check your own pan's care instructions before you load it, especially if it has a copper or aluminum exterior. Those usually need hand washing. And if your dishwasher itself is leaving a film on everything, it might need a clean too. Here's [how to clean a dishwasher](/blog/how-to-clean-a-dishwasher/) step by step.
 
-**2. Use Lime and Salt**
+## What Not to Use on Stainless Steel Pans
 
-The acidity in the lime and the coarseness of the salt help you to achieve the best shiny stainless steel pan. 
+Some cleaning shortcuts do more harm than good. Here's what to keep away from your pans and why.
 
-To achieve this, you should cut your lime into two equal pieces and use a lemon squeezer to get the juice out of it. Sprinkle the juice on your pan’s bottom and add salt. Let it sit for approximately 10 minutes.
+| Avoid this | Why |
+| --- | --- |
+| Steel wool or steel scouring pads | Leaves scratches, and tiny steel fibers can get stuck in the surface and rust |
+| Oven cleaner | Too harsh for cookware and can damage the finish |
+| Bleach or cleaners with bleach or peroxide | Can stain and pit the steel |
+| Cold water on a hot pan | The sudden temperature change can warp the pan |
+| Leaving salt in cold water | Causes permanent white pitting |
+| Letting the pan air dry every time | Leads to water spots and mineral buildup |
 
-***Read more on* *[how to use a lemon squeezer](https://thekitchenpot.com/blog/how-to-use-a-lemon-juicer/)* *here***
+All-Clad's own [care guide](https://www.all-clad.com/care-use) specifically warns against oven cleaners, steel wool, steel scouring pads, and detergents containing bleach or peroxide.
 
-After the 10 minutes, you should use a non-abrasive pad to scrub the debris. Ensure that you consistently do it until you achieve the shiny steel surface. Rinse the pan and dry it using a clean towel. 
+## How to Keep Stainless Steel Pans From Getting Dirty in the First Place
 
-**3. Using a Dishwasher Detergent**
+Most of the heavy cleaning above comes from a few cooking habits. Change these and your pans will stay cleaner with much less work.
 
-If you choose to use commercial dishwasher detergent, you should ensure that you rinse your pots entirely to get rid of all the residual. 
+- **Preheat the pan before adding oil.** Heat the empty pan over medium for a couple of minutes, then add oil. A properly hot pan is the main reason food doesn't stick to stainless steel. A simple test: flick a few drops of water in. If they skitter around in little balls, the pan is ready.
+- **Use medium heat most of the time.** Stainless steel with an aluminum or copper core holds heat well. Cranking the burner to high usually just burns food and causes heat tint.
+- **Let meat release on its own.** When you sear chicken or steak, it sticks at first and then releases once a crust forms. If you pull it too early, it tears and leaves more behind.
+- **Salt your water after it boils.** This prevents pitting.
+- **Dry every time.** A towel dry takes 20 seconds and stops water spots.
 
-To get a shiny stainless steel pan bottom, you should fill your basin with warm water and add 100 ml of the dishwasher detergent. Soak your scorched stainless steel pan for several hours.
+If food keeps sticking even when you do all this, try seasoning the pan lightly. It's not required like it is with cast iron, but a thin layer of polymerized oil can help. Here's [how to season stainless steel pans](/blog/how-to-season-stainless-steel-pans/) if you want to try it.
 
-Afterward, you should scrub it gently using a non-abrasive material. Rinse it with warm water and dry it. 
+## Cleaning Tips When Your Kitchen Is Small
 
-## How to Keep Food from Sticking When Using Stainless Steel Pans
+If you're working with a tiny sink and not much counter space, cleaning big pans can feel like a wrestling match. A few things make it easier:
 
-There is nothing that can be as irritating as food sticking on your stainless steel pans when cooking. If you’ve experienced that, then you need to season your pan.
+- **Soak in the pan, not the sink.** Fill the pan itself with warm soapy water and leave it on the stove. Your sink stays free for everything else.
+- **Clean on the stove.** The baking soda and vinegar methods both happen right on the burner, so you don't need to fit a big pan in a small sink at all.
+- **Dry and put away right away.** A wet pan on a small counter takes up space you need. Towel dry it and hang it or stack it. If storage is tight, these ideas for [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) will help, and putting a soft cloth or pan protector between stacked pans stops the bottoms from scratching the insides.
+- **Keep one small tub of Bar Keepers Friend under the sink.** It handles almost every tough job on its own, so you don't need a cupboard full of different cleaners.
 
-Seasoning the stainless steel pans helps you to seal all the pores, thus achieving a smooth surface with reasonable nonstick properties. 
+## Is Your Pan Actually Stainless Steel?
 
-Additionally, the tips on how to clean stainless steel pans (as offered here) will help you significantly to ensure that your pan achieves best heat distribution.
+It's worth double-checking before you scrub. Methods like Bar Keepers Friend and baking soda are great for stainless steel but can damage nonstick coatings. If your pan has a dark, smooth coated surface inside, it's not bare stainless.
 
-## How to Care for Stainless Steel Pans
+- For ceramic-coated pans, follow this guide on [how to clean a ceramic pan](/blog/how-to-clean-ceramic-pan/) instead.
+- For dark gray, matte pans, see [how to clean hard anodized cookware](/blog/how-to-clean-hard-anodized-cookware/).
+- Not sure what you have? This explainer on [what stainless steel cookware is](/blog/what-is-stainless-steel-cookware/) shows how to tell the difference.
 
-Adequate maintenance of your stainless steel pans is necessary if you want them to remain in the best working condition for long. Here are take-home tips on how to care for the pans:
+## When It's Time to Replace a Stainless Steel Pan
 
-* Always remember to clean and season your pan after buying (do this even when the manufacturer has not recommended it)
-* Learn the basics of how to clean stainless steel pans. For example, you should never use abrasive materials
-* Always dry your pans completely to avoid water spots. Use soft towels to avoid scratches
-* Never clean a hot pan using cold water to prevent warping. Let your pan cool for approximately 5 minutes before cleaning
-* Use baking soda and vinegar to remove burnt spots on the bottom of the pan
-* Avoid adding dry salt directly to the pan 
+The good news is that stainless steel almost never needs replacing because of stains. Burns, discoloration, white spots and brown rings are all cosmetic and fixable. The only real reasons to replace one are:
 
-## How to Clean Stainless Steel Pans – The Bottom Line 
+- The pan is badly warped and wobbles on the burner.
+- The layers are separating at the rim or base.
+- A handle or rivet is loose and can't be tightened.
 
-While buying your best stainless steel pan is a step towards the right direction, it won’t help you much unless you learn how to clean stainless steel pans. 
+If your pan passes those checks, clean it and keep cooking. If it doesn't and you're shopping for a new one, our guide to the [best cookware sets under $200](/blog/best-cookware-set-under-200/) covers solid stainless options that don't cost a fortune. You can also compare [stainless steel vs ceramic cookware](/blog/stainless-steel-vs-ceramic-cookware/) if you're not sure which material fits the way you cook.
 
-This article will offer significant tips on how you can clean your pans to achieve optimum performance. You should follow the guide to the letter for the best results.
+## Related Guides
 
-When cleaning your pans, we advise that you avoid highly abrasive materials since they will lead to scratches. In this case, you’re likely to reduce the longevity of your pan.
-
-Additionally, seasoning your pan is instrumental! It eases your cleaning process since it eliminates the chances of food sticking on the surface when cooking. To achieve this, you’ll need to spread oil on the pan and heat it until you see smoke.
-
-With this guide on how to clean stainless steel pans, you’re assured of longevity. Enjoy cooking with your stainless steel pans and become a pro!
+- [How to Season Stainless Steel Pans](/blog/how-to-season-stainless-steel-pans/)
+- [Stainless Steel vs Ceramic Cookware: Which Is Best for You?](/blog/stainless-steel-vs-ceramic-cookware/)
+- [All-Clad D3 vs D5: Which Is Better?](/blog/all-clad-d3-vs-d5/)
+- [Best Cookware for Induction Cooktops](/blog/best-cookware-for-induction-cooktop/)
+- [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
+- [Best Cookware Sizes for Cooking for One](/blog/best-cookware-sizes-for-cooking-for-one/)
