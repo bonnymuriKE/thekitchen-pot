@@ -1,0 +1,210 @@
+---
+/**
+ * Article navigation.
+ * - Desktop (lg+): sticky sidebar that highlights the section you're reading.
+ * - Mobile: collapsible "In this article" box above the content.
+ * Uses the H2 headings Astro extracts from each article, plus the FAQ block.
+ */
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+interface Props {
+  headings: Heading[];
+  hasFaq?: boolean;
+  variant: 'sidebar' | 'mobile';
+}
+
+const { headings = [], hasFaq = false, variant } = Astro.props;
+
+// Clean labels: drop leading "1. " numbering and long subtitles after a colon
+// for product sections, so the list stays short and scannable.
+const items = headings
+  .filter((h) => h.depth === 2)
+  .map((h) => {
+    let label = h.text.trim();
+    const numbered = label.match(/^(\d+)\.\s+(.*)$/);
+    if (numbered) {
+      const rest = numbered[2];
+      const colon = rest.lastIndexOf(':');
+      label = colon > 0 ? rest.slice(0, colon).trim() : rest;
+      label = `${numbered[1]}. ${label}`;
+    }
+    return { slug: h.slug, label };
+  });
+
+if (hasFaq) items.push({ slug: 'faq', label: 'Frequently Asked Questions' });
+const show = items.length >= 3;
+---
+
+{show && variant === 'sidebar' && (
+  <nav class="toc-sidebar" aria-label="In this article">
+    <p class="toc-heading">In this article</p>
+    <ol class="toc-list">
+      {items.map((item) => (
+        <li>
+          <a href={`#${item.slug}`} data-toc-link={item.slug}>{item.label}</a>
+        </li>
+      ))}
+    </ol>
+    <a href="#top" class="toc-top">↑ Back to top</a>
+  </nav>
+)}
+
+{show && variant === 'mobile' && (
+  <details class="toc-mobile">
+    <summary>
+      <span>In this article</span>
+      <span class="toc-count">{items.length} sections</span>
+    </summary>
+    <ol class="toc-list">
+      {items.map((item) => (
+        <li>
+          <a href={`#${item.slug}`}>{item.label}</a>
+        </li>
+      ))}
+    </ol>
+  </details>
+)}
+
+<style>
+  .toc-sidebar {
+    position: sticky;
+    top: 96px;
+    max-height: calc(100vh - 120px);
+    overflow-y: auto;
+    padding: 1.25rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 1rem;
+    background: #fff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+    scrollbar-width: thin;
+  }
+  .toc-heading {
+    margin: 0 0 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #0f766e;
+  }
+  .toc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+  .toc-list a {
+    display: block;
+    padding: 0.4rem 0.6rem;
+    border-left: 3px solid transparent;
+    border-radius: 0 0.4rem 0.4rem 0;
+    font-size: 0.875rem;
+    line-height: 1.35;
+    color: #4b5563;
+    text-decoration: none;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+  }
+  .toc-list a:hover {
+    background: #f0fdfa;
+    color: #115e59;
+  }
+  .toc-list a.is-active {
+    border-left-color: #14b8a6;
+    background: #f0fdfa;
+    color: #134e4a;
+    font-weight: 600;
+  }
+  .toc-top {
+    display: inline-block;
+    margin-top: 0.9rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #0f766e;
+    text-decoration: none;
+  }
+  .toc-top:hover {
+    text-decoration: underline;
+  }
+
+  .toc-mobile {
+    margin: 0 0 2rem;
+    border: 1px solid #99f6e4;
+    border-radius: 1rem;
+    background: #f0fdfa;
+    overflow: hidden;
+  }
+  .toc-mobile summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.9rem 1.1rem;
+    cursor: pointer;
+    font-weight: 700;
+    color: #134e4a;
+    list-style: none;
+  }
+  .toc-mobile summary::-webkit-details-marker {
+    display: none;
+  }
+  .toc-mobile summary::after {
+    content: '▾';
+    margin-left: 0.25rem;
+    transition: transform 0.2s;
+  }
+  .toc-mobile[open] summary::after {
+    transform: rotate(180deg);
+  }
+  .toc-count {
+    margin-left: auto;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #0f766e;
+  }
+  .toc-mobile .toc-list {
+    padding: 0 0.6rem 0.8rem;
+    background: #fff;
+    border-top: 1px solid #ccfbf1;
+    padding-top: 0.5rem;
+  }
+</style>
+
+<script>
+    // Highlight the section currently on screen.
+    function initToc() {
+      const links = Array.from(document.querySelectorAll<HTMLAnchorElement>('[data-toc-link]'));
+      if (!links.length) return;
+      const byId = new Map(links.map((a) => [a.dataset.tocLink, a]));
+      const targets = links
+        .map((a) => document.getElementById(a.dataset.tocLink || ''))
+        .filter((el): el is HTMLElement => !!el);
+
+      const setActive = (id: string) => {
+        links.forEach((a) => a.classList.toggle('is-active', a.dataset.tocLink === id));
+        const active = byId.get(id);
+        const box = active?.closest('.toc-sidebar');
+        if (active && box) {
+          const r = active.getBoundingClientRect();
+          const b = box.getBoundingClientRect();
+          if (r.top < b.top) box.scrollTop -= b.top - r.top + 8;
+          else if (r.bottom > b.bottom) box.scrollTop += r.bottom - b.bottom + 8;
+        }
+      };
+
+      const onScroll = () => {
+        let current = targets[0]?.id;
+        for (const t of targets) {
+          if (t.getBoundingClientRect().top - 120 <= 0) current = t.id;
+          else break;
+        }
+        if (current) setActive(current);
+      };
+      window.addEventListener('scroll', onScroll, { passive: true });
+      onScroll();
+    }
+    initToc();
+</script>
