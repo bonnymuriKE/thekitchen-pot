@@ -84,4 +84,26 @@
   .blog-content img {
     @apply rounded-lg shadow-md my-6;
   }
+
+  /* Comparison tables: readable on desktop, scroll sideways on phones
+     instead of squashing columns or breaking the page layout. */
+  .blog-content table {
+    @apply block w-full overflow-x-auto my-8 text-base border-collapse rounded-lg border border-gray-200;
+  }
+
+  .blog-content thead th {
+    @apply bg-teal-50 text-gray-900 font-semibold text-left px-4 py-3 border-b-2 border-teal-200 whitespace-nowrap;
+  }
+
+  .blog-content tbody td {
+    @apply px-4 py-3 border-b border-gray-200 align-top text-gray-700;
+  }
+
+  .blog-content tbody tr:nth-child(even) {
+    @apply bg-gray-50;
+  }
+
+  .blog-content tbody td:first-child {
+    @apply font-medium text-gray-900;
+  }
 }
