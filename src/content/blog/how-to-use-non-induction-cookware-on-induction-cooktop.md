@@ -66,13 +66,13 @@ Also look for the induction symbol on the bottom of the pan or on the box. It us
 | Cookware material | Works on induction? | Notes |
 | --- | --- | --- |
 | Cast iron | Yes | Heats well; lift, don't slide, to avoid scratching the glass |
-| Enameled cast iron | Yes | Brands like Le Creuset work well |
+| Enameled cast iron | Yes | Brands like [Le Creuset](/blog/le-creuset-cast-iron-skillet/) work well |
 | Carbon steel | Yes | Common for woks and French-style skillets |
 | Magnetic stainless steel (18/0, 430) | Yes | Many tri-ply pans use a magnetic stainless exterior |
-| Clad stainless (like All-Clad D3) | Usually yes | Check with a magnet; the outer layer must be magnetic |
+| Clad stainless (like [All-Clad D3](/blog/all-clad-d3-cookware-set-review/)) | Usually yes | Check with a magnet; the outer layer must be magnetic |
 | Aluminum with a steel base plate | Yes | Look for a disc of steel pressed into the bottom |
 | Plain aluminum | No | Needs a converter disk |
-| Hard-anodized aluminum | Usually no | Unless it has a bonded steel base |
+| [Hard-anodized aluminum](/blog/how-to-clean-hard-anodized-cookware/) | Usually no | Unless it has a bonded steel base |
 | Copper | No | Unless it has a magnetic base layer |
 | Glass and ceramic | No | Needs a converter disk, and even then, check the maker's heat limits |
 
@@ -169,7 +169,7 @@ A converter disk isn't your only option. Depending on what you cook, one of thes
 
 - **Use a magnetic pot as a water bath.** For glass or ceramic bowls, or delicate jobs like melting chocolate, set the bowl over a magnetic stainless saucepan of simmering water. That's how a [double boiler](/blog/how-to-use-a-double-boiler/) works, and it never puts your glass bowl directly on the cooktop.
 - **Keep a small second burner.** If you have a gas stove elsewhere, a camping stove or a plug-in electric burner, save your non-magnetic pans for that. Our guide to [camping cookware](/blog/best-camping-cookware/) covers small stoves that work in a pinch.
-- **Use your electric kettle.** For boiling water for pasta, tea or instant noodles, an [electric kettle](/blog/how-do-electric-kettles-work/) is fast and needs no pan at all.
+- **Use your electric kettle.** For boiling water for pasta, [tea](/blog/best-tea-kettle-for-gas-stove/) or instant noodles, an [electric kettle](/blog/how-do-electric-kettles-work/) is fast and needs no pan at all.
 - **Bake instead.** Glass and ceramic dishes work perfectly well in the oven.
 - **Replace only what you use most.** Most people cook with two or three pans most of the time. Swap those for induction-ready versions, and keep the rest for the oven or another stove.
 
@@ -177,9 +177,9 @@ A converter disk isn't your only option. Depending on what you cook, one of thes
 
 If you're going to buy anything, start with the pieces you reach for every day. For most households, that's:
 
-1. **A 10-inch or 12-inch skillet.** Magnetic clad stainless, carbon steel, or a nonstick pan with a steel base all work. A [Lodge cast iron skillet](/blog/lodge-cast-iron-skillet-review/) is an inexpensive, induction-friendly choice.
+1. **A 10-inch or 12-inch skillet.** Magnetic clad stainless, carbon steel, or one of the [best nonstick pans](/blog/best-nonstick-pans-with-buying-guide/) with a steel base all work. A [Lodge cast iron skillet](/blog/lodge-cast-iron-skillet-review/) is an inexpensive, induction-friendly choice.
 2. **A 2 to 3-quart saucepan.** For sauces, grains and reheating.
-3. **A large pot.** For pasta, soup and stock. Many stockpots now have a magnetic base.
+3. **A large pot.** For pasta, soup and stock. Many [stockpots with a lid](/blog/best-stockpot-with-a-lid/) now have a magnetic base.
 
 When shopping, look for the induction symbol, check that the base is flat and heavy, and match the pan size to your burners. Our guide to the [best cookware for induction cooktops](/blog/best-cookware-for-induction-cooktop/) has specific picks, and the [best cookware sets under $200](/blog/best-cookware-set-under-200/) includes induction-ready stainless and nonstick options.
 
@@ -194,7 +194,7 @@ A few small-kitchen tips:
 - **Buy fewer, better pans.** With one burner and limited storage, two or three induction-ready pieces cover almost everything. Our guide to [cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) helps you pick the right sizes.
 - **Match pan size to a small burner.** Portable burners often have a smaller coil than full-size cooktops, so a huge stockpot may heat only in the center.
 - **Store the disk flat.** If you do keep a converter disk, slide it vertically beside your cutting boards or hang it by its handle. These ideas for [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) show how to fit it in.
-- **Think about energy.** Induction heats the pan directly, so less heat escapes into a small, hot apartment kitchen. A converter disk gives up much of that benefit. For more ideas, see our guide on [choosing energy-efficient cookware for a small kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/).
+- **Think about energy.** Induction heats the pan directly, so less heat escapes into a small, hot apartment kitchen. A converter disk gives up much of that benefit. For more ideas, see our guide on [choosing energy-efficient cookware for a small kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/) and our picks for the [best compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/).
 
 ## Caring for Induction Cookware and Your Cooktop
 
@@ -214,3 +214,5 @@ A few habits keep both your pans and the glass in good shape:
 - [How to Protect a Glass Top Stove from Cast Iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/)
 - [How to Reduce Kitchen Energy Use in a Small Apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/)
 - [Best Cookware Sizes for Cooking for One](/blog/best-cookware-sizes-for-cooking-for-one/)
+- [Most Energy-Efficient Small Kitchen Appliances](/blog/most-energy-efficient-small-kitchen-appliances/)
+- [Difference Between a Skillet and a Frying Pan](/blog/difference-between-skillet-and-frying-pan/)

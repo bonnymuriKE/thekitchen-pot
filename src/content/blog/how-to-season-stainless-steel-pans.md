@@ -35,7 +35,7 @@ faq:
 ---
 Stainless steel doesn't need seasoning. That's the first thing to know before you start wiping oil onto your new pan, and it surprises a lot of people who grew up with cast iron.
 
-Cast iron and carbon steel are seasoned because bare iron rusts and the baked-on oil protects it. Stainless steel has chromium in it that keeps it from rusting on its own, so there's nothing to protect. Made In, which sells a lot of stainless cookware, puts it plainly on its website: it doesn't recommend seasoning stainless steel.
+[Cast iron](/blog/stargazer-cast-iron-skillet/) and carbon steel are seasoned because bare iron rusts and the baked-on oil protects it. Stainless steel has chromium in it that keeps it from rusting on its own, so there's nothing to protect. Made In, which sells a lot of stainless cookware, puts it plainly on its website: it doesn't recommend seasoning stainless steel.
 
 So why does anyone do it? Because a thin film of heated oil can make a stainless pan release eggs, fish and pancakes a bit more easily, at least until you wash it. If you want to learn how to season stainless steel pans for that short-term boost, it takes about five minutes and one teaspoon of oil. This guide shows you the method, explains why it wears off, and covers the preheating habit that stops most sticking without any seasoning at all.
 
@@ -150,7 +150,7 @@ Because the film is so thin, lots of everyday things strip it. GreenPan lists di
 - **Dish soap and a sponge** wear it down, especially the scrubby side.
 - **Bar Keepers Friend or baking soda** remove it completely. That's their job.
 - **Tomato sauce, wine, vinegar and citrus** eat through it as they cook.
-- **The dishwasher** takes it all off in one cycle.
+- **The dishwasher** takes it all off in one cycle, and a machine that needs [its own clean](/blog/how-to-clean-a-dishwasher/) can leave a film of its own behind.
 
 Don't let that push you into skipping soap. Stainless steel is meant to be washed properly, and a pan with old oil left on it only gets stickier. Wash as normal, and just reseason before the next batch of eggs if you want to. GreenPan's suggestion is to repeat every few uses, especially after cooking acidic foods or deep cleaning.
 
@@ -181,7 +181,7 @@ It helps to see where stainless sits next to the other pans in your cupboard.
 | PTFE nonstick | No | Never; high heat damages the coating |
 | Ceramic nonstick | Usually not | Follow the maker's care guide |
 
-If you have a mix of pans, it's easy to confuse the care routines. Our guides on [seasoning a Red Copper pan](/blog/how-to-season-red-copper-pan/) and the [Lodge cast iron skillet](/blog/lodge-cast-iron-skillet-review/) cover those, and [what nonstick cookware is](/blog/what-is-nonstick-cookware/) explains why coated pans get handled differently. If you're not sure what material you own, this explainer on [what stainless steel cookware is](/blog/what-is-stainless-steel-cookware/) helps you tell.
+If you have a mix of pans, it's easy to confuse the care routines. Our guides on [seasoning a Red Copper pan](/blog/how-to-season-red-copper-pan/) and the [Lodge cast iron skillet](/blog/lodge-cast-iron-skillet-review/) cover those, and [what nonstick cookware is](/blog/what-is-nonstick-cookware/) explains why coated pans get handled differently, while [how to clean a ceramic pan](/blog/how-to-clean-ceramic-pan/) covers the ceramic routine. If you're not sure what material you own, this explainer on [what stainless steel cookware is](/blog/what-is-stainless-steel-cookware/) helps you tell.
 
 ## Does the Type of Stainless Pan Change Anything?
 
@@ -191,18 +191,18 @@ The method is the same, but how the pan heats affects how easily food releases.
 
 **Disc-bottom pans** only have the aluminum layer in a disc on the base. The sides heat more slowly, which is fine for soups but can make food stick near the edges of a frying pan.
 
-**Induction** doesn't change the seasoning method at all, though induction burners heat fast, so watch closely during the smoking step. If you're shopping, see our guide to [cookware for induction cooktops](/blog/best-cookware-for-induction-cooktop/).
+**Induction** doesn't change the seasoning method at all, though induction burners heat fast, so watch closely during the smoking step. If you're shopping, see our guide to [cookware for induction cooktops](/blog/best-cookware-for-induction-cooktop/) and our picks for the [best induction cooktop for the money](/blog/best-induction-cooktop-for-the-money/).
 
-And if you're choosing between a stainless pan and a coated one for daily eggs, [stainless steel vs ceramic cookware](/blog/stainless-steel-vs-ceramic-cookware/) lays out the trade-offs. Plenty of cooks keep one small nonstick pan for eggs and use stainless for everything else. That's a smart setup if you [cook for one](/blog/best-cookware-sizes-for-cooking-for-one/) and only have room for two or three pans.
+And if you're choosing between a stainless pan and a coated one for daily eggs, [stainless steel vs ceramic cookware](/blog/stainless-steel-vs-ceramic-cookware/) lays out the trade-offs. Plenty of cooks keep one of the [best nonstick pans](/blog/best-nonstick-pans-with-buying-guide/) in a small size for eggs and use stainless for everything else. That's a smart setup if you [cook for one](/blog/best-cookware-sizes-for-cooking-for-one/) and only have room for two or three pans.
 
 ## Caring for a Seasoned Pan in a Small Kitchen
 
 A few habits make stainless easier to live with when space is tight:
 
 - **Store it dry.** Towel dry right after washing. Water spots are more annoying than sticking.
-- **Protect the surface when stacking.** A paper towel or felt pan protector between stacked pans stops scratches, and it keeps any fresh oil film off the bottom of the next pan. These ideas for [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) help if your cabinet is crowded.
+- **Protect the surface when stacking.** A paper towel or felt pan protector between stacked pans stops scratches, and it keeps any fresh oil film off the bottom of the next pan. These ideas for [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) help if your cabinet is crowded, and [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) show how to hang pans instead of stacking them.
 - **Use the right tools.** Stainless steel handles metal utensils fine. A thin, flexible [metal spatula](/blog/best-metal-spatula-set/) slides under eggs and fish more cleanly than a thick plastic one.
-- **Keep one pan in rotation.** A single good 10- or 12-inch stainless skillet does most jobs. If you're building a smaller set, our guide to [choosing energy-efficient cookware for a small kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/) explains why a well-made clad pan also wastes less heat.
+- **Keep one pan in rotation.** A single good 10- or 12-inch stainless skillet does most jobs, which is why it sits near the top of our checklist on [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/). If you're building a smaller set, our guide to [choosing energy-efficient cookware for a small kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/) explains why a well-made clad pan also wastes less heat.
 
 ## Try It Tomorrow Morning
 

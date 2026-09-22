@@ -57,7 +57,7 @@ You'll run into two kinds.
 
 If your pan is slick and food slides around with little oil, it's the nonstick type. If the inside looks like dull gray metal and food browns and sticks the way it would in a [stainless steel pan](/blog/what-is-stainless-steel-cookware/), it's likely uncoated.
 
-For a primer on coatings themselves, see [what nonstick cookware is](/blog/what-is-nonstick-cookware/). The rest of this guide notes where the two types need different handling.
+For a primer on coatings themselves, see [what nonstick cookware is](/blog/what-is-nonstick-cookware/) and whether [ceramic-titanium cookware is safe](/blog/is-ceramic-titanium-cookware-safe/). The rest of this guide notes where the two types need different handling.
 
 ## The everyday wash
 
@@ -71,7 +71,7 @@ This takes two minutes and prevents nearly every problem further down the page. 
 
 That's the whole routine for most nights. If food is stuck, go to the problem-fix section below instead of reaching for a harder scrubber.
 
-A handy tool here is a [non-scratch scrub sponge](https://www.amazon.com/s?k=non+scratch+scrub+sponge&tag=kitchenpot-20), the kind labeled safe for nonstick. Keep the green scouring pads for other jobs.
+A handy tool here is a [non-scratch scrub sponge](https://www.amazon.com/s?k=non+scratch+scrub+sponge&tag=kitchenpot-20), the kind labeled safe for nonstick. Keep the green scouring pads for other jobs, and note that the same soft-sponge rule applies when you [clean an air fryer basket](/blog/how-to-clean-an-air-fryer-basket/).
 
 ## Can hard anodized cookware go in the dishwasher?
 
@@ -138,11 +138,11 @@ To clean it off:
 - Rub a baking soda paste over the tacky areas with a non-scratch sponge.
 - For residue that won't budge, use a small amount of Soft Scrub on the interior with a soft sponge, as Calphalon allows for Unison nonstick, then rinse very well and wash again with dish soap.
 
-After that, change the habit that caused it. Brush on a little oil with a paper towel or use a refillable oil mister, both of which Calphalon suggests. If you like cooking with oil, our guide to the [best oil for an air fryer](/blog/best-oil-for-air-fryer/) covers high-heat oils that also suit a frying pan.
+After that, change the habit that caused it. Brush on a little oil with a paper towel or use a refillable oil mister, both of which Calphalon suggests. If you like cooking with oil, our guide to the [best oil for an air fryer](/blog/best-oil-for-air-fryer/) covers high-heat oils that also suit a [frying pan](/blog/difference-between-skillet-and-frying-pan/).
 
 ### White or chalky spots inside the pan
 
-Chalky white patches that appear after boiling water or pasta are usually minerals from hard water or leftover starch. A normal soapy wash often removes them. If not, wipe the spot with a cloth dampened in a mix of equal parts white vinegar and water, rinse, and dry. Calphalon describes anodized aluminum as nonreactive with acidic foods, so a quick wipe is fine. Don't leave vinegar sitting in the pan for hours.
+Chalky white patches that appear after boiling water or pasta are usually minerals from hard water or leftover starch, the same deposits you deal with when you [clean an electric kettle](/blog/how-to-clean-an-electric-kettle/). A normal soapy wash often removes them. If not, wipe the spot with a cloth dampened in a mix of equal parts white vinegar and water, rinse, and dry. Calphalon describes anodized aluminum as nonreactive with acidic foods, so a quick wipe is fine. Don't leave vinegar sitting in the pan for hours.
 
 ### A dull, patchy or faded exterior
 
@@ -164,13 +164,13 @@ Most of the messes above come from how a pan is used rather than how it's washed
 - **Mind the oven limit.** Circulon lists both Symmetry and Premier Professional as oven safe to 400°F, and Calphalon lines vary between about 400°F and 500°F. Going past the limit can damage handles and coatings, which in turn makes food stick.
 - **Store with protection.** Calphalon suggests putting a paper towel, napkin or pan protector between stacked pans so the interiors don't get scratched.
 
-That last point matters in a small kitchen, where pans live stacked in one cabinet. Our guides on [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) and [organizing pots and pans](/blog/how-to-organize-pots-and-pans/) have more ideas, and a [pots and pans rack](/blog/pots-and-pans-rack-reviews/) or other [vertical storage](/blog/vertical-storage-ideas-for-small-kitchens/) keeps pans from grinding against each other.
+That last point matters in a small kitchen, where pans live stacked in one cabinet, so these [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) are worth a look too. Our guides on [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) and [organizing pots and pans](/blog/how-to-organize-pots-and-pans/) have more ideas, and a [pots and pans rack](/blog/pots-and-pans-rack-reviews/) or other [vertical storage](/blog/vertical-storage-ideas-for-small-kitchens/) keeps pans from grinding against each other.
 
 ## When cleaning isn't enough
 
 Sometimes a pan is simply worn out. A nonstick coating that is visibly peeling or flaking, or that sticks badly no matter how carefully you clean it, has reached the end of its life. Most nonstick coatings wear out eventually, however well they're treated.
 
-If you're shopping for a replacement, our [best nonstick pans buying guide](/blog/best-nonstick-pans-with-buying-guide/) and the [best cookware sets under $200](/blog/best-cookware-set-under-200/) are good starting points. If you want to skip coatings altogether, the trade-offs are laid out in [stainless steel vs ceramic cookware](/blog/stainless-steel-vs-ceramic-cookware/), and our guide to [choosing energy-efficient cookware for a small kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/) covers materials that heat well on less power.
+If you're shopping for a replacement, our [best nonstick pans buying guide](/blog/best-nonstick-pans-with-buying-guide/) and the [best cookware sets under $200](/blog/best-cookware-set-under-200/) are good starting points. If you want to skip coatings altogether, the trade-offs are laid out in [stainless steel vs ceramic cookware](/blog/stainless-steel-vs-ceramic-cookware/) and in our picks for the [best ceramic cookware sets](/blog/best-ceramic-cookware-set/). Our guide to [choosing energy-efficient cookware for a small kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/) covers materials that heat well on less power, and the [best cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) keep you from heating a pan bigger than the meal.
 
 Owners of ceramic-coated pans can find a similar routine in our guide to [cleaning a ceramic pan](/blog/how-to-clean-ceramic-pan/). The soft-sponge principle is the same.
 
@@ -187,3 +187,5 @@ If a cleaner or tool would scratch a car's paint, keep it away from your hard an
 - [Best Nonstick Pans With Buying Guide](/blog/best-nonstick-pans-with-buying-guide/)
 - [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
 - [How to Clean Electric Griddle](/blog/how-to-clean-electric-griddle/)
+- [HexClad Hybrid Cookware Review](/blog/hexclad-hybrid-cookware-review/)
+- [9 Best Sauté Pans With Lids](/blog/best-saute-pan/)

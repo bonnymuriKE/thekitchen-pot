@@ -36,7 +36,7 @@ faq:
   - question: "Why won't my vacuum sealer seal?"
     answer: "The usual causes are a wet, greasy or wrinkled bag opening, too little space at the top of the bag, a smooth chamber-style bag in an edge sealer, or an overheated machine. Wipe the bag mouth dry, flatten it across the seal bar, and wait about 20 seconds between seals so the heating element can cool, as FoodSaver's manual recommends."
 ---
-The most important fact about a vacuum sealer isn't printed on the box: it doesn't preserve food on its own. It removes air, which slows freezer burn, staleness and the mold and bacteria that need oxygen. Your fridge and freezer still do the actual preserving.
+The most important fact about a vacuum sealer isn't printed on the box: it doesn't preserve food on its own. It removes air, which slows freezer burn, staleness and the mold and bacteria that need oxygen. Your [fridge and freezer](/blog/best-side-by-side-refrigerator/) still do the actual preserving.
 
 **How to use a vacuum sealer, in short:** cut a bag with 3 inches of empty space above the food, keep the opening clean and dry, lay the open end flat across the sealing strip, pick the dry or moist setting, close the lid and press vacuum and seal. Freeze anything wet or soft for an hour or two first. Then label it and get it straight into the fridge or freezer.
 
@@ -48,7 +48,7 @@ These steps are written for the common countertop "edge" sealer, such as most Fo
 
 ### 1. Prepare the food
 
-Pat meat and fish dry with paper towels. Portion food the way you'll actually cook it: two chicken breasts per bag if you cook for two, one steak if you cook for one. America's Test Kitchen recommends sealing only what you'll use at one time, since a sealed bag can't be opened and resealed without cutting more off the top.
+Pat meat and fish dry with paper towels. Portion food the way you'll actually cook it: two chicken breasts per bag if you cook for two, one steak if you [cook for one](/blog/best-cookware-sizes-for-cooking-for-one/). America's Test Kitchen recommends sealing only what you'll use at one time, since a sealed bag can't be opened and resealed without cutting more off the top.
 
 Soft, juicy or wet foods need a trip to the freezer first. There's a whole section on pre-freezing below.
 
@@ -70,7 +70,7 @@ Fold the top 2 to 3 inches of the bag outward, like a sock cuff, before you load
 
 Spread the food into an even, flat layer. Flat packs freeze faster, thaw faster and stack neatly. Place the open end of the bag across the sealing strip and into the vacuum channel or drip tray, with no wrinkles.
 
-Most sealers have a **dry** and a **moist** setting. Use dry for things like cheese blocks, bread or nuts. Use moist for marinated meat or anything with surface moisture; it adjusts the seal so it can fuse through slightly damp plastic. Some models also have a gentle or pulse mode for crushable food like chips or berries, which lets you stop the vacuum before it flattens everything.
+Most sealers have a **dry** and a **moist** setting. Use dry for things like cheese blocks, [homemade bread](/blog/best-bread-proofing-basket-reviews/) or nuts. Use moist for marinated meat or anything with surface moisture; it adjusts the seal so it can fuse through slightly damp plastic. Some models also have a gentle or pulse mode for crushable food like chips or berries, which lets you stop the vacuum before it flattens everything.
 
 ### 6. Vacuum and seal
 
@@ -84,7 +84,7 @@ The heating strip gets hot. FoodSaver's manual says to **wait 20 seconds between
 
 ### 8. Store it right away
 
-Perishable food goes straight into the fridge or freezer. Freeze flat packs on a sheet pan first, then stand them up like files once they're solid. That trick alone saves a lot of freezer space.
+Perishable food goes straight into the fridge or freezer. Freeze flat packs on a [sheet pan](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) first, then stand them up like files once they're solid. That trick alone saves a lot of freezer space.
 
 ## Pre-Freezing: The Step That Fixes Most Problems
 
@@ -126,11 +126,11 @@ Chop bones, rib tips, T-bones and crab legs can poke straight through a bag when
 
 ### Powders, coffee and flour
 
-Fine powders can get pulled into the pump. FoodSaver recommends placing a coffee filter or folded paper towel inside the top of the bag, above the food, as a barrier. The other option is to leave powders in their original bag and seal that inside a vacuum bag.
+Fine powders can get pulled into the pump. FoodSaver recommends placing a [coffee filter](/blog/best-coffee-maker-with-a-grinder/) or folded paper towel inside the top of the bag, above the food, as a barrier. The other option is to leave powders in their original bag and seal that inside a vacuum bag.
 
 ### Crushable snacks
 
-Chips, crackers and cookies need the pulse or gentle setting, or a canister. Stop the vacuum as soon as the bag hugs the food.
+Chips, crackers and [home-baked cookies](/blog/how-to-bake-cookies-in-a-convection-oven/) need the pulse or gentle setting, or a canister. Stop the vacuum as soon as the bag hugs the food.
 
 ## Vacuum Sealing Does Not Make Food Shelf-Stable
 
@@ -148,7 +148,7 @@ So these rules apply to every sealed bag:
 - **Only dry foods at room temperature.** Crackers, rice, dried fruit, nuts and jerky can be vacuum sealed and kept in the pantry because they have too little moisture to support bacterial growth.
 - **It is not canning.** Vacuum sealing is not a substitute for the heat processing that home-canned foods need.
 
-The same food safety habits still apply before sealing: clean hands, clean boards and knives, and meat cooked to a safe internal temperature later. A good [meat thermometer](/blog/best-meat-thermometer-for-smoking/) takes the guesswork out, and here's [how to clean a meat thermometer](/blog/how-to-clean-a-meat-thermometer/) so it doesn't spread bacteria between foods.
+The same food safety habits still apply before sealing: clean hands, clean [cutting boards](/blog/best-over-the-sink-cutting-board/) and knives, and meat cooked to a safe internal temperature later. A good [meat thermometer](/blog/best-meat-thermometer-for-smoking/) takes the guesswork out, and here's [how to clean a meat thermometer](/blog/how-to-clean-a-meat-thermometer/) so it doesn't spread bacteria between foods.
 
 ## What Not to Vacuum Seal
 
@@ -214,10 +214,10 @@ Many owners also add a second seal a little above the first on bags going into l
 
 ## Getting the Most From It in a Small Kitchen
 
-A vacuum sealer is one more appliance on a crowded counter, so it should earn its place. It does that best when you buy in bulk, cook in batches or freeze a lot.
+A vacuum sealer is one more appliance on a [crowded counter](/blog/countertop-organization-ideas-for-a-small-kitchen/), so it should earn its place. It does that best when you buy in bulk, cook in batches or freeze a lot.
 
 - **Batch cook and freeze flat.** Cook once, portion, seal and freeze flat. These [easy meal prep ideas for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) pair well with a sealer.
-- **Slice and seal deli meat or roasts.** If you cook a big roast or buy whole salami, a [meat slicer](/blog/best-meat-slicer-for-home-use/) turns it into thin portions that seal flat and thaw in minutes.
+- **Slice and seal deli meat or roasts.** If you cook a [big roast](/blog/what-can-you-cook-in-a-roaster-oven/) or buy whole salami, a [meat slicer](/blog/best-meat-slicer-for-home-use/) turns it into thin portions that seal flat and thaw in minutes.
 - **Split family packs.** Buy the large pack of chicken, split it into single portions and freeze them. Our guide to [how much a chicken breast weighs](/blog/how-much-does-a-chicken-breast-weigh/) helps you portion evenly, and [how long chicken lasts in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/) tells you how fast to get it sealed.
 - **Store the sealer vertically.** Most slim edge sealers fit upright in a cabinet or on a shelf. These [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) and [vertical storage ideas](/blog/vertical-storage-ideas-for-small-kitchens/) can help you find a spot.
 - **Use it for your dry pantry.** In a kitchen with no pantry, sealed rice, nuts and coffee pack flatter than bulky boxes. Here's [how to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/).
@@ -227,7 +227,7 @@ If you're deciding whether it's worth the counter space at all, it features in o
 
 ## Your First Batch
 
-Pick one thing you already buy in bulk, like chicken breasts, ground beef or a big block of hard cheese. Portion it, pat it dry, freeze the meat on a tray for an hour, then seal each portion with 3 inches of headroom and a date on the bag. Once that goes smoothly, move on to soups in a loaf pan. By the third batch, the steps above will feel automatic.
+Pick one thing you already [buy in bulk](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/), like chicken breasts, ground beef or a big block of hard cheese. Portion it, pat it dry, freeze the meat on a tray for an hour, then seal each portion with 3 inches of headroom and a date on the bag. Once that goes smoothly, move on to soups in a loaf pan. By the third batch, the steps above will feel automatic.
 
 ## Related Guides
 

@@ -53,7 +53,7 @@ This guide covers how to use a lemon juicer of every common type, from the yello
 | Lever citrus press | Countertop press with a long handle | Big batches, lemonade, bars | [Zulay Kitchen Cast Iron Juicer](https://www.amazon.com/dp/B07D5KRQL7/?tag=kitchenpot-20) |
 | Electric citrus juicer | Motorized cone spins as you press | Lots of citrus, including oranges and grapefruit | [BLACK+DECKER CJ625](https://www.amazon.com/dp/B001EU9VSM/?tag=kitchenpot-20) |
 
-If you're thinking of a machine that juices carrots, apples and greens too, that's a different category. Our guides to the [best juicers](/blog/top-5-best-juicers/) and [commercial masticating juicers](/blog/best-commercial-masticating-juicer/) cover those.
+If you're thinking of a machine that juices carrots, apples and greens too, that's a different category. Our guides to the [best juicers](/blog/top-5-best-juicers/) and [commercial masticating juicers](/blog/best-commercial-masticating-juicer/) cover those, and pressed apples are their own story in our look at the [difference between apple juice and apple cider](/blog/difference-between-apple-juice-and-apple-cider/).
 
 ## How to Prep Lemons for Juicing
 
@@ -65,7 +65,7 @@ A few seconds of prep makes a real difference, no matter which juicer you use.
 4. **Zest first if you need zest.** Once a lemon is juiced, it's almost impossible to zest. Grate it while it's whole.
 5. **Cut it across the middle.** Slice the lemon in half through its "equator," not end to end. This exposes all the juice segments to the juicer.
 
-A sharp knife and a stable board help here. If your knives struggle with lemon peel, it might be time to look at a decent [knife set under $100](/blog/best-knife-set-under-100/). In a tight kitchen, an [over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) gives you a juicing station right where the drips can go straight down the drain.
+A sharp knife and a stable board help here. If your knives struggle with lemon peel, run them over a [knife sharpener](/blog/best-knife-sharpener/) or look at a decent [knife set under $100](/blog/best-knife-set-under-100/), and our comparison of [forged vs stamped knives](/blog/forged-vs-stamped-knives/) explains what you're paying for. In a tight kitchen, an [over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) gives you a juicing station right where the drips can go straight down the drain.
 
 ## How to Use a Handheld Lemon Squeezer
 
@@ -125,7 +125,7 @@ A lever press is a heavy countertop juicer with a long handle. It's the kind you
 4. Pull the handle down slowly and firmly. The top cup presses the fruit against the bottom.
 5. Lift the handle, remove the peel, and repeat.
 
-These are fast. ATK found its top countertop press, from Zulay Kitchen, juiced 10 lemons in under 3 minutes, the quickest of all the juicers it compared. The catch is size and weight. A cast iron press takes up real counter or cupboard space, so it makes the most sense if you juice a lot of citrus often.
+These are fast. ATK found its top countertop press, from Zulay Kitchen, juiced 10 lemons in under 3 minutes, the quickest of all the juicers it compared. The catch is size and weight. A cast iron press takes up real counter or cupboard space, so it makes the most sense if you juice a lot of citrus often, and these [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) help you find a shelf for it.
 
 ## How to Use an Electric Citrus Juicer
 
@@ -138,7 +138,7 @@ Electric citrus juicers do the twisting for you. Most start spinning when you pr
 5. Lift the fruit to stop the motor, remove the peel, and repeat.
 6. Pour the juice from the built-in spout.
 
-The CJ625 comes with two cones (a smaller one for lemons, limes and oranges and a larger one for grapefruit), an adjustable pulp control, and dishwasher-safe removable parts. An electric juicer is a good choice if you make fresh orange juice regularly or have trouble squeezing with your hands.
+The CJ625 comes with two cones (a smaller one for lemons, limes and oranges and a larger one for grapefruit), an adjustable pulp control, and dishwasher-safe removable parts. An electric juicer is a good choice if you make fresh orange juice regularly or have trouble squeezing with your hands, though it competes for outlet space with the other [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/).
 
 ## Which Lemon Juicer Should You Use?
 
@@ -165,7 +165,7 @@ Here's everything that helps, in one place:
 - **Turn and squeeze again.** A quarter turn and a second press gets the last bit.
 - **Pick heavy lemons.** A lemon that feels heavy for its size usually has more juice.
 
-For how much juice to expect, this table uses figures from A Couple Cooks. Our full guide on [how much juice is in one lemon](/blog/how-much-juice-is-in-one-lemon/) goes deeper.
+For how much juice to expect, this table uses figures from A Couple Cooks. Our full guide on [how much juice is in one lemon](/blog/how-much-juice-is-in-one-lemon/) goes deeper, and our [ounces and quarts conversion guide](/blog/how-many-ounces-in-a-quart/) handles the tablespoon-to-cup math.
 
 | Lemon size | Juice per lemon | Lemons for 1/2 cup | Lemons for 1 cup |
 | --- | --- | --- | --- |
@@ -209,8 +209,8 @@ Measured frozen portions make it easy to drop exactly what you need into a recip
 If your drawers are already full, you don't need a big citrus setup.
 
 - **One tool is enough.** A handheld squeezer or a wooden reamer handles almost every home cooking job. Skip the electric juicer unless you juice oranges often.
-- **Store it smartly.** Handheld squeezers are awkward in a drawer because the handles splay. Hang it on a hook or a utensil rail, or give it a spot in a drawer divider. These tips on [organizing kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) and [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) help find room for awkward tools.
-- **Buy lemons as you need them.** If you cook for one, a lemon or two a week is often plenty, and freezing extra juice means nothing goes to waste.
+- **Store it smartly.** Handheld squeezers are awkward in a drawer because the handles splay. Hang it on a hook or a utensil rail, or give it a spot in a drawer divider. These [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) cover the rail-and-hook approach. These tips on [organizing kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) and [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) help find room for awkward tools.
+- **Buy lemons as you need them.** If you cook for one, a lemon or two a week is often plenty, and freezing extra juice means nothing goes to waste, which fits the routines in our guide to [easy meal prep for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/).
 
 A good squeezer is one of the small tools that earns its spot. It shows up in our list of [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/), and it belongs on the checklist for [stocking a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 
@@ -219,8 +219,8 @@ A good squeezer is one of the small tools that earns its spot. It shows up in ou
 Once you've got a juicer you like, you'll find uses everywhere:
 
 - **Lemonade and iced tea.** Fresh juice makes a big difference. If you brew iced tea at home, see the [best iced tea makers](/blog/best-iced-tea-maker/) or learn [how to use a Mr. Coffee iced tea maker](/blog/how-to-use-mr-coffee-iced-tea-maker/).
-- **Dressings and marinades.** A quick lemon vinaigrette is just juice, oil, salt and a little mustard. An [immersion blender](/blog/how-to-use-an-immersion-blender/) makes it creamy and stable.
-- **Smoothies.** A squeeze of lemon brightens green smoothies. Our picks for the [best blenders for smoothies](/blog/best-blenders-for-smoothies/) can handle whole fruit and ice.
+- **Dressings and marinades.** A quick lemon vinaigrette is just juice, oil, salt and a little mustard. An [immersion blender](/blog/how-to-use-an-immersion-blender/) makes it creamy and stable, and our picks for the [best immersion blenders](/blog/8-best-immersion-blenders/) show what to look for.
+- **Smoothies.** A squeeze of lemon brightens green smoothies. Our picks for the [best blenders for smoothies](/blog/best-blenders-for-smoothies/) can handle whole fruit and ice, and our [NutriBullet vs Ninja blender comparison](/blog/nutribullet-vs-ninja-blender-reviews/) weighs two popular personal models.
 - **Cocktails and mocktails.** Measure fresh juice straight into the glass with a reamer and cup. Plenty of clear ice helps, and a [home ice maker](/blog/best-ice-maker-for-home-use/) keeps it coming.
 
 ## The Bottom Line on Using a Lemon Juicer
@@ -236,3 +236,5 @@ Using a lemon juicer comes down to a few simple moves. Warm and roll the lemon, 
 - [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
 - [Best Blenders for Smoothies](/blog/best-blenders-for-smoothies/)
 - [Difference Between Apple Juice and Apple Cider](/blog/difference-between-apple-juice-and-apple-cider/)
+- [7 Best Knife Sharpeners](/blog/best-knife-sharpener/)
+- [How Many Ounces in a Quart?](/blog/how-many-ounces-in-a-quart/)

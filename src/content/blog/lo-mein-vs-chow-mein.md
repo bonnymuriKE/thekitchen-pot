@@ -182,20 +182,20 @@ Induction cooks do well here too, since induction heats fast and recovers quickl
 
 ### Prep everything before the heat goes on
 
-Stir-frying moves fast. Slice the vegetables, mix the sauce, and cook the noodles before you turn on the burner. A sharp chef's knife makes thin, even slices easy (our pick of the [best knife sets under $100](/blog/best-knife-set-under-100/) is a good place to start), and a [vegetable chopper](/blog/best-vegetable-choppers/) speeds up onions and carrots if you're cooking in bulk.
+Stir-frying moves fast. Slice the vegetables, mix the sauce, and cook the noodles before you turn on the burner. A sharp chef's knife makes thin, even slices easy (our pick of the [best knife sets under $100](/blog/best-knife-set-under-100/) is a good place to start, and a [knife sharpener](/blog/best-knife-sharpener/) keeps it that way), and a [vegetable chopper](/blog/best-vegetable-choppers/) speeds up onions and carrots if you're cooking in bulk. For matchstick carrots and cabbage ribbons, [using a mandoline](/blog/how-to-use-a-mandoline/) is faster than a knife. Lining up all those bowls takes room, so these [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) help if your prep space is tight.
 
 ### For lo mein
 
 1. Boil the noodles until just tender, then drain and rinse them so they don't stick together.
 2. Stir-fry your protein in a little oil until cooked, then set it aside.
 3. Stir-fry the harder vegetables (carrots, cabbage) first and the soft ones (bean sprouts, scallions) last.
-4. Add the noodles, pour in the premixed sauce with a little hot stock, and toss with tongs or a scooping motion until every strand is coated.
+4. Add the noodles, pour in the premixed sauce with a little hot stock, and toss with tongs or a wide [metal spatula](/blog/best-metal-spatula-set/) in a scooping motion until every strand is coated.
 5. Return the protein, finish with sesame oil, and taste for salt.
 
 ### For soft chow mein
 
 1. Blanch thin egg noodles for about a minute, drain, and spread them out to dry for a few minutes.
-2. Heat a good film of oil until it shimmers but doesn't smoke. Made With Lau aims for a wok surface of about 350 to 400°F.
+2. Heat a good film of oil until it shimmers but doesn't smoke, using one of the [high-heat oils](/blog/best-oil-for-air-fryer/) that can take it. Made With Lau aims for a wok surface of about 350 to 400°F.
 3. Spread the noodles out and leave them alone for about 3 minutes, until the bottom is golden.
 4. Flip in sections, add onion, bean sprouts and scallions, then pour the soy sauce mix around the edges and toss.
 
@@ -207,11 +207,11 @@ Half a pack of noodles and a handful of vegetables is a quick dinner for one, an
 
 ## Leftovers and Reheating
 
-Lo mein reheats better than chow mein. Its soft noodles pick up a splash of water in a hot pan and come right back. Crispy chow mein loses its crunch once the sauce soaks in, so reheat it in a hot skillet without a lid to dry it out a little, rather than in the microwave.
+Lo mein reheats better than chow mein. Its soft noodles pick up a splash of water in a hot pan and come right back. Crispy chow mein loses its crunch once the sauce soaks in, so reheat it in a hot skillet without a lid to dry it out a little, rather than in the microwave. The same dry-heat trick is what makes [reheated chicken wings](/blog/how-to-reheat-chicken-wings/) crisp again.
 
 Get leftovers into the fridge within 2 hours of cooking and eat them within 3 to 4 days, the same window the USDA gives for most cooked leftovers. If your noodles include chicken, our guide to [how long chicken lasts in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/) has the details. Shallow [airtight food storage containers](/blog/best-airtight-food-storage-containers/) cool noodles faster and keep them from drying out. And if you like to cook a double batch and freeze portions, [vacuum sealing](/blog/how-to-use-a-vacuum-sealer/) keeps sauced noodles from getting freezer burn.
 
-Want rice on the side instead of more noodles? Here's [how to cook rice in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/) without watching the pot. You can also steam dumplings alongside in a [bamboo steamer](/blog/how-to-use-a-bamboo-steamer/) for a full takeout-style spread.
+Want rice on the side instead of more noodles? Here's [how to cook rice in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/) without watching the pot. You can also steam dumplings alongside in a [bamboo steamer](/blog/how-to-use-a-bamboo-steamer/), or in a [steamer basket for an Instant Pot](/blog/best-steamer-basket-for-instant-pot/), for a full takeout-style spread.
 
 ## The One-Line Rule
 
@@ -226,3 +226,5 @@ Order lo mein when you want soft noodles that carry a lot of sauce. Order chow m
 - [How to Use a Bamboo Steamer](/blog/how-to-use-a-bamboo-steamer/)
 - [Best Cookware Sizes for Cooking for One](/blog/best-cookware-sizes-for-cooking-for-one/)
 - [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
+- [Small Kitchen Gadgets Worth Buying When You Cook for One](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/)
+- [10 Best Mandoline Slicers](/blog/best-mandoline-slicers/)

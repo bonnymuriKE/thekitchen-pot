@@ -76,7 +76,7 @@ What that means in your kitchen is even heat. Aluminum spreads heat quickly, so 
 **What we like:**
 
 - The piece mix is practical. Two saucepans, a sauté pan, a big stockpot and two skillets cover almost every recipe.
-- The 8-quart stockpot is big enough for a full pound of pasta, a batch of soup, or stock.
+- The 8-quart [stockpot](/blog/best-stockpot-with-a-lid/) is big enough for a full pound of pasta, a batch of soup, or stock.
 - Tapered, drip-free rims make pouring sauces and soups much less messy.
 - It's dishwasher safe and broiler safe, and the stainless interior won't react with tomato sauce or wine.
 - Stainless steel doesn't wear out like nonstick does. With basic care, these pans can outlast your stove.
@@ -87,7 +87,7 @@ What that means in your kitchen is even heat. Aluminum spreads heat quickly, so 
 - The list price is around $300, which is over budget. But it's discounted often, and it regularly sells for around $200 or a bit less during sales. If it's well over $200 when you check, the Tramontina below is a great alternative.
 - Like all stainless steel, food will stick if you don't preheat the pan and add oil before the food goes in. There's a short learning curve.
 
-**Who should buy it:** Anyone who cooks most nights and wants a set they won't need to replace. It's also a great pick if you have an induction cooktop.
+**Who should buy it:** Anyone who cooks most nights and wants a set they won't need to replace. It's also a great pick if you have an [induction cooktop](/blog/best-induction-cooktop-for-the-money/).
 
 For a deeper look, read our full [Cuisinart MCP-12N MultiClad Pro review](/blog/cuisinart-mcp-12n-multiclad-pro-stainless-steel-12-piece-cookware-set/).
 
@@ -102,7 +102,7 @@ For a deeper look, read our full [Cuisinart MCP-12N MultiClad Pro review](/blog/
 
 Tramontina has a long-standing reputation as the budget brand that performs like a premium one, and this set is why. You get real tri-ply construction with an aluminum core running up the sides, an 18/10 stainless steel cooking surface, and a magnetic stainless base that works on induction. Tramontina lists this 8-piece set at under $200 on its own site, so you don't have to wait for a sale.
 
-Eight pieces sounds small next to the 16-piece boxes on store shelves, but look closer. This set gives you five real cooking vessels, and they're the five most people actually use. A 5-quart Dutch oven is also more useful day to day than a giant stockpot. It handles soups, chili, braises and pasta for two to four people.
+Eight pieces sounds small next to the 16-piece boxes on store shelves, but look closer. This set gives you five real cooking vessels, and they're the five most people actually use. A 5-quart [Dutch oven](/blog/milo-dutch-oven-review/) is also more useful day to day than a giant stockpot. It handles soups, chili, braises and pasta for two to four people.
 
 **What we like:**
 
@@ -129,7 +129,7 @@ Eight pieces sounds small next to the 16-piece boxes on store shelves, but look 
 - **Oven-safe:** 400°F (lids to 350°F)
 - **Works on:** Gas and electric (not induction)
 
-If your cooking is mostly eggs, pancakes, fish, quick weeknight stir-fries and reheating leftovers, you'll probably be happier with nonstick than stainless. And among budget nonstick sets, T-fal's Ultimate line is one of the most popular for a reason. The hard-anodized aluminum body is sturdy and heats quickly, and the nonstick surface lets food slide around with very little oil.
+If your cooking is mostly eggs, [pancakes](/blog/best-griddle-pan-for-pancakes/), fish, quick weeknight stir-fries and reheating leftovers, you'll probably be happier with nonstick than stainless. And among budget nonstick sets, T-fal's Ultimate line is one of the most popular for a reason. The hard-anodized aluminum body is sturdy and heats quickly, and the nonstick surface lets food slide around with very little oil.
 
 The feature people either love or ignore is T-fal's Thermo-Spot. It's a red circle in the middle of the fry pans that turns solid red when the pan has reached the right preheating temperature. It sounds like a gimmick, but it solves one of the most common cooking mistakes: putting food in a pan that isn't hot enough yet.
 
@@ -173,7 +173,7 @@ Reviewed picked this as its best ceramic nonstick set, noting it stays "consiste
 
 **What to know before you buy:**
 
-- There's no mid-size pot between the 2.5-quart saucepan and the 6-quart stockpot. Reviewed also mentioned wanting a larger mid-size pot, so if you make a lot of rice, grains or small soups, you may miss one.
+- There's no mid-size pot between the 2.5-quart saucepan and the 6-quart stockpot. Reviewed also mentioned wanting a larger mid-size pot, so if you make a lot of [rice](/blog/how-to-cook-rice-in-a-rice-cooker/), grains or small soups, you may miss one.
 - Testers noted the handles can get dirty easily.
 - Even the most durable ceramic coatings are gentler than stainless steel. Use wooden or silicone utensils and moderate heat.
 - It sits right at the top of the budget, around $200.
@@ -200,7 +200,7 @@ That design pays off in other ways too. With the handle off, pans go straight fr
 - The most space-saving set on this list by far.
 - The handle locks on firmly, and T-fal says it holds up to 22 pounds. It's backed by a 10-year warranty on its own.
 - Works on induction, unlike many budget nonstick sets.
-- Includes a wok pan, which is great for stir-fries and big vegetable sautés.
+- Includes a [wok pan](/blog/best-wok-for-electric-stove/), which is great for stir-fries and big vegetable sautés.
 - Storage lids turn the pans into leftover containers.
 
 **What to know before you buy:**
@@ -223,14 +223,14 @@ That design pays off in other ways too. With the handle off, pans go straight fr
 
 If you're setting up your first kitchen and just need everything at once without spending much, GreenLife is hard to argue with. It's one of the cheapest complete sets you'll find from a well-known brand, and it comes with enough pieces to cook almost any basic meal. The ceramic coating is free of PFAS, PFOA, lead and cadmium, according to GreenLife, and the soft Bakelite handles stay cool on the stovetop.
 
-The set also comes in a long list of bright colors, which is part of why it's so popular for first apartments and dorm moves.
+The set also comes in a long list of bright colors, which is part of why it's so popular for [first apartments](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) and dorm moves.
 
 **What we like:**
 
 - A complete kitchen for well under $150 in most cases.
 - PFAS-free ceramic nonstick.
 - Lightweight and easy to handle.
-- The tiny 4-inch pan is perfect for a single fried egg.
+- The tiny 4-inch pan is perfect for a single fried egg, much like the other [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 - Dishwasher safe, though most messes wipe right off.
 
 **What to know before you buy:**
@@ -275,17 +275,17 @@ The number on the box is one of the most misleading things in cookware shopping.
 
 Instead, look at what you'll really cook with. Most people use:
 
-- A 10-inch or 12-inch skillet
+- A 10-inch or 12-inch [skillet](/blog/difference-between-skillet-and-frying-pan/)
 - A small saucepan (1.5 to 2 quarts) for sauces, oatmeal and reheating
 - A larger saucepan (3 quarts) for rice, grains and vegetables
-- A sauté pan or Dutch oven for braises, one-pan meals and shallow frying
+- A [sauté pan](/blog/best-saute-pan/) or Dutch oven for braises, one-pan meals and shallow frying
 - A stockpot (6 to 8 quarts) for pasta, soups and stock
 
 If a set covers those five, it's a complete set, no matter what the box says. If you cook mostly for yourself, you need even less. Our guide to [cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) breaks down exactly what to look for.
 
 ### 4. Look at the construction, not the marketing
 
-For stainless steel, look for the words **tri-ply** or **fully clad**. That means an aluminum core runs up the sides of the pan, not just a disc stuck to the bottom. Fully clad pans heat much more evenly. Both stainless sets on this list are fully clad.
+For [stainless steel](/blog/what-is-stainless-steel-cookware/), look for the words **tri-ply** or **fully clad**. That means an aluminum core runs up the sides of the pan, not just a disc stuck to the bottom. Fully clad pans heat much more evenly. Both stainless sets on this list are fully clad.
 
 For nonstick, a thicker hard-anodized aluminum body resists warping better than thin, stamped aluminum. Heavier pans also tend to heat more evenly.
 
@@ -309,7 +309,7 @@ A big set is only a bargain if you have somewhere to put it. Before you buy, mea
 
 Cheap cookware doesn't have to feel cheap after six months. A few habits make a big difference:
 
-- **Use medium heat.** Most burnt food, warped pans and ruined nonstick coatings come from cooking on high.
+- **Use medium heat.** Most burnt food, warped pans and ruined [nonstick coatings](/blog/what-is-nonstick-cookware/) come from cooking on high.
 - **Let pans cool before washing.** Putting a hot pan under cold water can warp it.
 - **Hand wash nonstick.** Dishwasher detergent wears coatings down faster.
 - **Use wood or silicone utensils on nonstick and ceramic.** Save metal tools for stainless steel.

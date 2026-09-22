@@ -35,7 +35,7 @@ faq:
   - question: "Can you freeze cream cheese frosting?"
     answer: "Yes. Cream cheese frosting can be frozen, and it's easier to bring back than plain cream cheese because you re-whip it anyway. Freeze it in an airtight container, thaw it overnight in the fridge, then beat it again with a mixer to make it fluffy before using. The National Center for Home Food Preservation also notes cream cheese blended with heavy cream can be frozen for dips and icings."
 ---
-You bought the big pack of cream cheese because it was on sale, or you needed two tablespoons for a recipe and now the rest of the block is sitting in the fridge. A week later you're wondering if you can just throw it in the freezer before it goes bad.
+You bought the big pack of cream cheese because it was on sale, or you needed two tablespoons for a recipe and now the rest of the block is sitting in the [fridge](/blog/best-side-by-side-refrigerator/). A week later you're wondering if you can just throw it in the freezer before it goes bad.
 
 You can. But freezing cream cheese comes with one big catch, and knowing it ahead of time decides whether that frozen block ends up in a great dip or in the trash. This guide covers what actually happens when you freeze cream cheese, the right way to freeze and thaw it, how to smooth out the texture, and which recipes it still works well in.
 
@@ -95,14 +95,14 @@ The goal is to keep air and freezer odors out, and to freeze it in portions you'
 
 ### How to freeze cream cheese in portions
 
-This is the method that makes the most sense if you cook for one or two, or if you mostly use cream cheese a few tablespoons at a time.
+This is the method that makes the most sense if you [cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/) or two, or if you mostly use cream cheese a few tablespoons at a time.
 
 1. Cut the block into portions. Food Network suggests 2-ounce portions, which is a quarter of a standard 8-ounce block.
 2. Place the portions on a parchment-lined plate or small tray, not touching.
 3. Freeze until solid, about an hour or two.
 4. Wrap each portion individually, then put them all in one labeled freezer bag.
 
-Silicone freezer molds make this even easier. A [Souper Cubes 1/2 cup tray](https://www.amazon.com/dp/B08B514B5R/?tag=kitchenpot-20) holds half a block per section. Press the softened cream cheese in, freeze, pop out the blocks and bag them. Now you can pull out exactly half a cup for a recipe instead of thawing a whole brick.
+Silicone freezer molds make this even easier. A [Souper Cubes 1/2 cup tray](https://www.amazon.com/dp/B08B514B5R/?tag=kitchenpot-20) holds half a block per section. Press the softened cream cheese in, freeze, pop out the blocks and bag them. Now you can pull out exactly [half a cup](/blog/how-many-ounces-in-a-quart/) for a recipe instead of thawing a whole brick.
 
 **Vacuum sealing helps too.** Removing all the air cuts down on freezer burn. If you already own a sealer, here's [how to use a vacuum sealer](/blog/how-to-use-a-vacuum-sealer/) for small portions like this. If you're thinking about getting one, our guide to the [best vacuum sealers](/blog/best-vacuum-sealer-for-sous-vide/) compares options. A set of [airtight food storage containers](/blog/best-airtight-food-storage-containers/) works well for opened cream cheese in the fridge or freezer.
 
@@ -117,7 +117,7 @@ Silicone freezer molds make this even easier. A [Souper Cubes 1/2 cup tray](http
 
 **Refrigerator thawing** is the best option. Move the cream cheese from the freezer to the fridge the night before you need it. It will look wet and a little separated when it's thawed. That's normal.
 
-**Microwave thawing** is fine if you're cooking with it right away. Always take off the foil first, since foil can't go in the microwave. Put the cream cheese in a microwave-safe bowl, heat at half power for 30 seconds, stir, and repeat until soft.
+**Microwave thawing** is fine if you're cooking with it right away. Always take off the foil first, since foil can't go in the [microwave](/blog/7-best-over-the-range-microwaves/). Put the cream cheese in a microwave-safe bowl, heat at half power for 30 seconds, stir, and repeat until soft.
 
 **Skip the counter.** The USDA's general food safety rule is to [throw out perishable food](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety) left at room temperature for more than 2 hours, or 1 hour if it's above 90°F. A block thawing on the counter can spend hours in that range.
 
@@ -130,9 +130,9 @@ You can't make thawed cream cheese exactly like fresh, but you can get it much c
 3. **Beat it.** Use a hand mixer on medium, or a stand mixer, for a minute or two. A sturdy whisk and some effort also works for small amounts. Food Network notes that beating helps smooth it out, even if it won't make it perfect.
 4. **Add a splash of liquid if needed.** A teaspoon or two of milk or cream helps if it seems dry. Add it slowly.
 
-A good [hand mixer](/blog/best-hand-mixers/) is the easiest tool for this, and it takes up far less space than a stand mixer. An [immersion blender](/blog/how-to-use-an-immersion-blender/) with a whisk attachment works too, especially for small amounts.
+A good [hand mixer](/blog/best-hand-mixers/) is the easiest tool for this, and it takes up far less space than a stand mixer. An [immersion blender](/blog/how-to-use-an-immersion-blender/) with a whisk attachment works too, especially for small amounts, and our roundup of [immersion blenders](/blog/8-best-immersion-blenders/) covers the compact ones.
 
-For cooked dishes, you can skip most of this. Melting thawed cream cheese into a warm sauce, soup or casserole hides the graininess completely.
+For cooked dishes, you can skip most of this. Melting thawed cream cheese into a warm sauce, a [pot of soup](/blog/best-stockpot-with-a-lid/) or a casserole hides the graininess completely.
 
 ## What to Use Frozen Cream Cheese For
 
@@ -148,7 +148,7 @@ The rule of thumb: if the cream cheese gets heated, melted or mixed with other i
 | Muffins, pound cake, biscuits, brownies | Stuffed celery, pinwheels or cold spreads |
 | Scrambled eggs and omelets | Anything where it's served plain |
 
-For creamy mashed potatoes, a spoonful of thawed cream cheese adds richness. Store your potatoes right so they're ready when you are. Here's [how long potatoes last](/blog/how-long-do-potatoes-last/) and where to keep them. Thawed cream cheese also makes a quick pan sauce richer, and if a sauce needs thickening, these [cornstarch substitutes](/blog/what-to-use-instead-of-cornstarch/) cover options you probably have.
+For creamy mashed potatoes, a spoonful of thawed cream cheese adds richness. Store your potatoes right so they're ready when you are. Here's [how long potatoes last](/blog/how-long-do-potatoes-last/) and where to keep them. Thawed cream cheese also makes a quick [pan sauce](/blog/best-saute-pan/) richer, and if a sauce needs thickening, these [cornstarch substitutes](/blog/what-to-use-instead-of-cornstarch/) cover options you probably have.
 
 **Swapping dairy in recipes?** If you've run out of milk for a sauce, a little softened cream cheese thinned with water can stand in. Our guide to the [best substitutes for whole milk](/blog/best-substitutes-for-whole-milk/) lists more options, and the [best coconut milk substitutes](/blog/best-coconut-milk-substitute/) guide covers creamy swaps for curries and soups.
 
@@ -161,11 +161,11 @@ Often, finished dishes freeze better than plain cream cheese, because other ingr
 - **Cream cheese dips:** Dips mixed with other ingredients and meant to be served hot, like spinach dip, freeze reasonably well. Cold, smooth dips are more likely to separate.
 - **Stuffed pasta and casseroles:** Dishes like stuffed shells or chicken enchiladas with cream cheese in the filling usually freeze well, since they're reheated anyway.
 
-If you bake often in a small space, freezing finished desserts is a smart way to spread out the work. Our guide on [how to bake in a small kitchen without extra counter space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/) has more ideas, and the [best bakeware for small kitchens](/blog/best-bakeware-for-small-kitchens/) covers pans that don't hog the cupboard.
+If you bake often in a small space, freezing finished desserts is a smart way to spread out the work, especially with the [space-saving baking tools](/blog/space-saving-baking-tool-essentials/) you already have. Our guide on [how to bake in a small kitchen without extra counter space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/) has more ideas, and the [best bakeware for small kitchens](/blog/best-bakeware-for-small-kitchens/) covers pans that don't hog the cupboard.
 
 ## Freezing Cream Cheese in a Small Kitchen
 
-A small freezer, like the one in an apartment fridge or a mini fridge, fills up fast. A few habits keep frozen cream cheese from taking over.
+A small freezer, like the one in an apartment fridge or a [mini fridge](/blog/best-mini-fridge-for-beer/), fills up fast. A few habits keep frozen cream cheese from taking over.
 
 - **Freeze flat and small.** Portioned cream cheese in a flat freezer bag stacks easily and slides into gaps.
 - **Portion before freezing.** You'll only thaw what you need, and small pieces freeze and thaw faster.
@@ -197,7 +197,7 @@ A little liquid on the surface of fresh cream cheese is just whey, and you can p
 
 ## The Bottom Line on Freezing Cream Cheese
 
-Can you freeze cream cheese? Yes, and it's a good way to rescue a block you won't finish in time. Wrap it airtight, portion it if you can, and use it within about 2 months. Thaw it in the fridge, beat it smooth, and put it to work in dips, sauces, casseroles, soups and baked goods. Just don't expect it to spread on a bagel like it did the day you bought it.
+Can you freeze cream cheese? Yes, and it's a good way to rescue a block you won't finish in time. Wrap it airtight, portion it if you can, and use it within about 2 months. Thaw it in the fridge, beat it smooth, and put it to work in dips, sauces, casseroles, soups and [baked goods](/blog/best-bakeware-sets/). Just don't expect it to spread on a bagel like it did the day you bought it.
 
 ## Related Guides
 

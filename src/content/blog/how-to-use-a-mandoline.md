@@ -81,6 +81,8 @@ Gloves sold in the US are rated on the ANSI/ISEA 105 cut scale, from A1 to A9. T
 
 For a home mandoline, A4 to A5 is the practical range. Many gloves sold for kitchen use are labeled "level 5," which usually refers to the older EN 388 European scale, so check the packaging for the ANSI A-number if you want to compare fairly. The [NoCry cut-resistant gloves](https://www.amazon.com/dp/B06WGV2XP6/?tag=kitchenpot-20) are a common food-grade option, and they're machine washable.
 
+Cut resistance is a different rating from heat resistance, so a cut glove won't help with a hot pan; for that job see our roundup of [heat-resistant gloves for cooking](/blog/10-best-heat-resistant-gloves-for-cooking/).
+
 Two things a glove can't do. It won't stop a puncture from a pointed tip, and it doesn't make you immune to cuts. Think of it as the seat belt, not the brakes.
 
 ### Option 3: both
@@ -91,7 +93,7 @@ This is the safest setup and costs almost nothing extra. Wear the glove on your 
 
 A mandoline wants a stable base and some elbow room. Here's the setup that works on even a small counter:
 
-1. **Clear a flat, dry spot.** America's Test Kitchen puts this first: a mandoline that shifts mid-slice is how accidents happen. Wipe the counter dry so rubber feet grip.
+1. **Clear a flat, dry spot.** America's Test Kitchen puts this first: a mandoline that shifts mid-slice is how accidents happen. Wipe the counter dry so rubber feet grip, and if free counter is scarce, our [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) help you clear a working area.
 2. **Put a cutting board under a standing model.** Use one that doesn't slide. A damp paper towel under the board helps. If you're short on counter space, a board that spans the sink, like the ones in our [over-the-sink cutting board guide](/blog/best-over-the-sink-cutting-board/), gives you room without clearing the whole counter.
 3. **Don't balance it over a bowl** unless the manufacturer designed it for that. Handheld paddle types often have a notch that hooks onto a bowl rim; wide standing models don't, and a rounded bowl wobbles.
 4. **Set the thickness first.** Turn the dial or swap the plate before your hand goes anywhere near the blade.
@@ -152,7 +154,7 @@ Firm, dense produce is where a mandoline earns its drawer space. Reviewed lists 
 - **Works with a serrated blade or a light touch:** tomatoes, citrus, firm peaches.
 - **Skip it:** very ripe fruit, soft cheese, grapes, broccoli, and anything so small you can't hold it safely, like single garlic cloves.
 
-A mandoline also doesn't replace your knife. For dicing, mincing herbs and portioning meat, a good knife is still the tool. If yours is dull, that's worth fixing first; our [knife sharpener guide](/blog/best-knife-sharpener/) explains the options, and [forged vs stamped knives](/blog/forged-vs-stamped-knives/) is useful if you're shopping for a new one. If peeling big batches is the slow part, look at an [electric potato peeler](/blog/best-electric-potato-peeler/) or an [apple peeler corer slicer](/blog/best-electric-apple-peeler-corer-slicer/), since a mandoline doesn't peel.
+A mandoline also doesn't replace your knife. For dicing, mincing herbs and portioning meat, a good knife is still the tool, and for even slices of cooked meat a [meat slicer for home use](/blog/best-meat-slicer-for-home-use/) does what a mandoline can't. If yours is dull, that's worth fixing first; our [knife sharpener guide](/blog/best-knife-sharpener/) explains the options, and [forged vs stamped knives](/blog/forged-vs-stamped-knives/) plus our [Wusthof knives review](/blog/wusthof-knives-review/) are useful if you're shopping for a new one. If peeling big batches is the slow part, look at an [electric potato peeler](/blog/best-electric-potato-peeler/) or an [apple peeler corer slicer](/blog/best-electric-apple-peeler-corer-slicer/), since a mandoline doesn't peel.
 
 ## When the Slicing Goes Wrong
 
@@ -203,7 +205,7 @@ It depends on what you cook. A mandoline is thin, cheap and fast, and it makes c
 
 It's less useful if you mostly dice and chop. In that case a sharp chef's knife, and maybe a [food processor under $100](/blog/best-food-processor-under-100/) for big batches, will do more for you. Not sure where a processor fits? Here's the [difference between a food processor and a blender](/blog/what-is-the-difference-between-a-food-processor-and-a-blender/).
 
-If you cook for one, a mandoline is handy for batch-slicing vegetables on the weekend. Pair it with our [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/), and store sliced produce in [airtight food storage containers](/blog/best-airtight-food-storage-containers/). Cut potatoes brown quickly, so if you're prepping ahead, check our notes on [how long potatoes last](/blog/how-long-do-potatoes-last/). It also makes our list of [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
+If you cook for one, a mandoline is handy for batch-slicing vegetables on the weekend, and it's one of the tools we flag in our checklist on [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/). Pair it with our [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/), and store sliced produce in [airtight food storage containers](/blog/best-airtight-food-storage-containers/). Cut potatoes brown quickly, so if you're prepping ahead, check our notes on [how long potatoes last](/blog/how-long-do-potatoes-last/). It also makes our list of [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 
 One rule to take into the kitchen with you: if your fingers are closer to the blade than the food is, stop and reposition.
 

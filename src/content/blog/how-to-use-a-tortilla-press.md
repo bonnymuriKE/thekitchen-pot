@@ -70,7 +70,7 @@ Don't swap in regular cornmeal or corn flour. They haven't been nixtamalized (th
 
 ## How to Make Masa Dough for a Tortilla Press
 
-Good dough is most of the job. Recipes vary a little, but they all land in the same place: roughly equal volumes of masa harina and water, give or take.
+Good dough is most of the job. Recipes vary a little, but they all land in the same place: roughly equal volumes of masa harina and water, give or take, whether you measure in [cups or ounces](/blog/how-many-ounces-in-a-quart/).
 
 Here are three reliable starting ratios from trusted sources:
 
@@ -131,7 +131,7 @@ Open the press and lift out the tortilla in its plastic. Peel off the top sheet.
 Lay the tortilla flat on the hot pan. Then:
 
 1. **First side, about 30 seconds.** Cook until the edges look dry and the tortilla releases from the pan on its own. Don't let it go too long, or it dries out.
-2. **Flip and cook the second side, about 30 seconds**, until you see browned spots underneath.
+2. **Flip with your fingers or a thin [metal spatula](/blog/best-metal-spatula-set/) and cook the second side, about 30 seconds**, until you see browned spots underneath.
 3. **Flip back to the first side for another 30 seconds or so.** This is when it should puff. If you're lucky, it balloons up like pita bread.
 
 If it only puffs a little, gently press around the edge with a folded, damp towel or your fingertips. Masienda says pressing around the rim helps push the steam toward the center.
@@ -165,7 +165,7 @@ Almost every beginner runs into at least one of these. The fix is usually a smal
 | Tortilla is lopsided or oval | Ball placed in the center or on the handle side | Place the ball slightly toward the hinge, press, rotate, press again |
 | Tortilla doesn't puff | Pan not hot enough, dough dry, or overcooked first side | Heat the pan longer, rehydrate dough, shorten the first side |
 | Tortilla is stiff and dry | Cooked too long or left uncovered | Cook less, stack in a towel right away |
-| Tortilla sticks to the pan | Pan not hot enough or not seasoned | Preheat longer, use well-seasoned cast iron or nonstick |
+| Tortilla sticks to the pan | Pan not hot enough or not seasoned | Preheat longer, use well-seasoned cast iron or a [nonstick coated pan](/blog/what-is-nonstick-cookware/) |
 
 If you're getting more than one of these at once, start with the dough. Most issues vanish when the masa has the right moisture.
 
@@ -173,9 +173,9 @@ If you're getting more than one of these at once, start with the dough. Most iss
 
 Tortillas cook dry, with no oil, so you need a pan that holds steady, high heat. A traditional comal is a flat round griddle made for exactly this. If you don't have one, a cast iron skillet works just as well.
 
-A [Lodge cast iron skillet](/blog/lodge-cast-iron-skillet-review/) is a solid choice, since it's affordable, holds heat well and gets more nonstick the more you use it. If you want something with a flatter, wider surface for cooking two tortillas at once, a stovetop griddle helps. Our guide to the [best griddle pans for pancakes](/blog/best-griddle-pan-for-pancakes/) covers flat, double-burner options that work just as well for tortillas.
+A [Lodge cast iron skillet](/blog/lodge-cast-iron-skillet-review/) is a solid choice, since it's affordable, holds heat well and gets more nonstick the more you use it. Its handle gets hot at tortilla temperatures, so keep a folded towel or a pair of [heat resistant gloves](/blog/10-best-heat-resistant-gloves-for-cooking/) within reach. If you want something with a flatter, wider surface for cooking two tortillas at once, a stovetop griddle helps. Our guide to the [best griddle pans for pancakes](/blog/best-griddle-pan-for-pancakes/) covers flat, double-burner options that work just as well for tortillas.
 
-America's Test Kitchen cooks its tortillas in a 12-inch nonstick skillet, so nonstick works too, as long as you don't overheat an empty coated pan. If you're not sure what separates the two, here's the [difference between a skillet and a frying pan](/blog/difference-between-skillet-and-frying-pan/). Any heavy cast iron skillet works the same way. If you're shopping for one, our reviews of the [Stargazer cast iron skillet](/blog/stargazer-cast-iron-skillet/) and [Le Creuset's cast iron skillet](/blog/le-creuset-cast-iron-skillet/) look at two pricier alternatives to Lodge. Cast iron also works on induction, which our guide to the [best cookware for induction cooktops](/blog/best-cookware-for-induction-cooktop/) explains.
+America's Test Kitchen cooks its tortillas in a 12-inch nonstick skillet, so one of the [best nonstick pans](/blog/best-nonstick-pans-with-buying-guide/) works too, as long as you don't overheat an empty coated pan. If you're not sure what separates the two, here's the [difference between a skillet and a frying pan](/blog/difference-between-skillet-and-frying-pan/). Any heavy cast iron skillet works the same way. If you're shopping for one, our reviews of the [Stargazer cast iron skillet](/blog/stargazer-cast-iron-skillet/) and [Le Creuset's cast iron skillet](/blog/le-creuset-cast-iron-skillet/) look at two pricier alternatives to Lodge, and our [Griswold vintage cast iron review](/blog/griswold-cast-iron-skillet-review/) covers the older pans people inherit. Cast iron also works on induction, which our guide to the [best cookware for induction cooktops](/blog/best-cookware-for-induction-cooktop/) explains.
 
 Cooking on a glass-top stove? Heavy cast iron can scratch it if you slide it around. These tips on [protecting a glass top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/) will help.
 
@@ -189,7 +189,7 @@ A common compromise: press the flour dough to start the circle, then finish it w
 
 ### What about electric tortilla presses?
 
-Electric tortilla makers press and cook at the same time between two heated plates, a bit like a flat [panini press](/blog/best-panini-press-for-home-use/). They're mostly used for flour tortillas. They're quick, but the tortillas tend to come out flatter and less puffy than ones cooked on a comal. For corn tortillas, a manual press and a hot skillet give you more control.
+Electric tortilla makers press and cook at the same time between two heated plates, a bit like a flat [panini press](/blog/best-panini-press-for-home-use/). They're mostly used for flour tortillas. They're quick, but the tortillas tend to come out flatter and less puffy than ones cooked on a comal, and they take counter space you may want for other [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/). For corn tortillas, a manual press and a hot skillet give you more control.
 
 ## How to Clean and Care for a Tortilla Press
 
@@ -206,7 +206,7 @@ Wipe down your plastic liner between batches if dough builds up. You can reuse t
 A tortilla press isn't huge, but it's heavy and awkwardly shaped. Victoria's 8-inch cast iron press weighs 5.9 pounds, which is more than many skillets. That makes where you keep it matter, especially if counter space is tight.
 
 - **Store it low.** Keep a heavy cast iron press on a lower shelf or in a base cabinet rather than overhead, where it's awkward and risky to pull down. These [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) show how to make room at the right height.
-- **Stand it on its side.** Stored upright in a cabinet with a pan organizer, it takes up far less footprint than lying flat. If it has to live out, give it a permanent corner using these [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/).
+- **Stand it on its side.** Stored upright in a cabinet with a pan organizer, the same kind used to [store pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/), it takes up far less footprint than lying flat. If it has to live out, give it a permanent corner using these [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/), or free up the counter with these [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/).
 - **Pick the right size.** If space is tight or you cook for one or two, the [6.5-inch Victoria press](https://www.amazon.com/dp/B00HWF6L54/?tag=kitchenpot-20) is smaller and lighter. For more on deciding which single-use tools deserve room, see our list of [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/). Aluminum presses are lighter still, which makes them easier to lift in and out of a cupboard.
 - **Press next to the stove.** Set up a small press-and-cook station right beside the burner so you're not hauling hot tortillas across the kitchen. The tricks in this guide to [baking in a small kitchen without extra counter space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/) work just as well for tortilla night.
 
@@ -216,7 +216,7 @@ If you don't have a pantry, keep your bag of masa harina sealed in an airtight c
 
 You don't need to make 19 tortillas at a time. Half or quarter the recipe, and use the Masienda ratio by weight if you have a kitchen scale, since it scales down cleanly. One cup (120 grams) of masa harina with 200 grams of water makes about eight 40-gram balls, a comfortable batch for one or two people.
 
-Masienda says leftover dough keeps in an airtight container in the fridge for a day or two, so you can press a few fresh tortillas at breakfast and a few more at dinner. That fits nicely with a weekly prep routine like the ones in our guide to [easy meal prep for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/). A single 10-inch skillet is plenty for small batches, and our guide to the [best cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) explains which pans earn their space.
+Masienda says leftover dough keeps in an airtight container in the fridge for a day or two, so you can press a few fresh tortillas at breakfast and a few more at dinner. That fits nicely with a weekly prep routine like the ones in our guide to [easy meal prep for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/), and masa harina earns a spot on our [checklist for stocking a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/). A single 10-inch skillet is plenty for small batches, and our guide to the [best cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) explains which pans earn their space.
 
 ## The Bottom Line on Using a Tortilla Press
 
@@ -233,3 +233,5 @@ Once it clicks, a press turns a bag of masa harina into warm, fresh tortillas in
 - [How to Organize a Small Kitchen With No Pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/)
 - [Easy Meal Prep Ideas for One Person in a Small Kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/)
 - [Best Cookware Sizes for Cooking for One](/blog/best-cookware-sizes-for-cooking-for-one/)
+- [Top 9 Best Nonstick Pans](/blog/best-nonstick-pans-with-buying-guide/)
+- [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)

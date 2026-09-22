@@ -85,7 +85,7 @@ Clad stainless steel and induction are a natural match, and the Cuisinart MultiC
 
 That matters more on induction than you might think. Induction heats only where the coil sits under the glass, so a pan with poor heat spreading can develop a hot ring. A fully clad pan evens that out. Reviewed named this the best cookware set under $200 and said it "sears meat perfectly," which matches years of owner feedback.
 
-The piece mix is practical, too. Two saucepans, a sauté pan, two skillets and a big stockpot cover nearly every weeknight recipe, and the 8-quart pot handles a full pound of pasta or a batch of stock. Our full [Cuisinart MCP-12N MultiClad Pro review](/blog/cuisinart-mcp-12n-multiclad-pro-stainless-steel-12-piece-cookware-set/) goes deeper on each piece.
+The piece mix is practical, too. Two saucepans, a sauté pan, two skillets and a big stockpot cover nearly every weeknight recipe, and the 8-quart pot handles a full pound of pasta or a batch of stock, which is the job we cover in our roundup of the [best stockpots with lids](/blog/best-stockpot-with-a-lid/). Our full [Cuisinart MCP-12N MultiClad Pro review](/blog/cuisinart-mcp-12n-multiclad-pro-stainless-steel-12-piece-cookware-set/) goes deeper on each piece.
 
 **What we like:**
 
@@ -99,7 +99,7 @@ The piece mix is practical, too. Two saucepans, a sauté pan, two skillets and a
 
 - The largest skillet is 10 inches. Households of three or more may want a 12-inch skillet later.
 - List price is around $300, but it's often discounted to about $200.
-- Food sticks if you don't preheat and oil the pan first. Our guide on [how to clean stainless steel pans](/blog/how-to-clean-stainless-steel-pans/) covers the habits that help.
+- Food sticks if you don't preheat and oil the pan first. Our guides on [how to season stainless steel pans](/blog/how-to-season-stainless-steel-pans/) and [how to clean stainless steel pans](/blog/how-to-clean-stainless-steel-pans/) cover the habits that help.
 
 **Who should buy it:** Anyone who cooks most nights on induction and wants one set that will last for decades. If it's well over budget when you check, see our list of the [best cookware sets under $200](/blog/best-cookware-set-under-200/) for alternatives, including Tramontina's tri-ply set.
 
@@ -112,7 +112,7 @@ The piece mix is practical, too. Two saucepans, a sauté pan, two skillets and a
 - **Oven-safe:** Oven and broiler safe to 600°F
 - **Made in:** USA (Pennsylvania), per All-Clad
 
-All-Clad is the brand many cooks compare everything else to, and the D3 line is its classic three-layer design. Like the Cuisinart, it has a magnetic stainless exterior for induction and an aluminum core for even heating. Where it pulls ahead is the details: a 600°F oven and broiler rating, a 3-quart sauté pan with straight sides for shallow frying and braising, and a limited lifetime warranty.
+All-Clad is the brand many cooks compare everything else to, and the D3 line is its classic three-layer design. Like the Cuisinart, it has a magnetic stainless exterior for induction and an aluminum core for even heating. Where it pulls ahead is the details: a 600°F oven and broiler rating, a 3-quart [sauté pan](/blog/best-saute-pan/) with straight sides for shallow frying and braising, and a limited lifetime warranty.
 
 This is a buy-it-once set. It's also expensive. All-Clad's own site listed it at $799.99 on sale (down from $1,149.99) when we checked, and Amazon prices move around. If you already love cooking and want pans you'll hand down, it earns its price. If you're still figuring out how you cook, start with the Cuisinart and add pieces over time.
 

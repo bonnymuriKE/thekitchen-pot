@@ -158,7 +158,7 @@ Most recipes were written with a certain breast size in mind, even if they don't
 A thick breast has a fat end and a thin end, and the thin end dries out while the fat end catches up. Two easy fixes:
 
 - **Pound it.** Put the breast between two sheets of plastic wrap or in a zip-top bag and pound the thick end with a meat mallet or the bottom of a small pan until it's an even thickness. Here's more on [how a meat tenderizer works](/blog/how-does-a-meat-tenderizer-work/) if you want the right tool for it.
-- **Slice it into cutlets.** Lay the breast flat and cut it in half horizontally, like opening a book. One 10-ounce breast becomes two 5-ounce cutlets that cook in a few minutes. A sharp chef's knife makes this much easier, and our guide to the [best knife sets under $100](/blog/best-knife-set-under-100/) covers affordable options.
+- **Slice it into cutlets.** Lay the breast flat and cut it in half horizontally, like opening a book. One 10-ounce breast becomes two 5-ounce cutlets that cook in a few minutes. A sharp chef's knife makes this much easier, and our guide to the [best knife sets under $100](/blog/best-knife-set-under-100/) covers affordable options, while a [knife sharpener](/blog/best-knife-sharpener/) keeps the edge keen enough to split a breast cleanly. If counter space is short, an [over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) gives you a work surface for the job.
 
 ## Chicken Breast Cooking Times by Weight
 
@@ -179,8 +179,8 @@ If you cook often, clean the probe between uses. Here's [how to clean a meat the
 
 Some methods handle large, uneven breasts better than others:
 
-- **Air fryer.** Fast, and good for one or two breasts at a time. If you're shopping for one, see our picks for the [best air fryers under $100](/blog/best-air-fryers-under-100/) and the [best oils for air frying](/blog/best-oil-for-air-fryer/).
-- **Pressure cooker.** Great for shredding. If you're deciding between models, here's a breakdown of the [Instant Pot vs a traditional pressure cooker](/blog/instant-pot-vs-pressure-cooker/).
+- **Air fryer.** Fast, and good for one or two breasts at a time. If you're shopping for one, see our picks for the [best air fryers under $100](/blog/best-air-fryers-under-100/) and the [best oils for air frying](/blog/best-oil-for-air-fryer/), and the same basket handles [frozen french fries](/blog/how-to-cook-frozen-french-fries-in-an-air-fryer/) on the side.
+- **Pressure cooker.** Great for shredding. If you're deciding between models, here's a breakdown of the [Instant Pot vs a traditional pressure cooker](/blog/instant-pot-vs-pressure-cooker/), and an explainer on [what an Instant Pot is](/blog/what-is-an-instant-pot/) if you're new to them.
 - **Sous vide.** Cooks the whole breast to the same temperature edge to edge, so size matters less. Our [sous vide precision cooker guide](/blog/sous-vide-power-precision-cooker/) explains how it works.
 - **Skillet.** Works best with pounded breasts or cutlets. If you're not sure which pan to reach for, here's the [difference between a skillet and a frying pan](/blog/difference-between-skillet-and-frying-pan/).
 
@@ -202,11 +202,11 @@ Big breasts and big packs are a problem when you cook for yourself and your free
 
 - **Split the pack the day you buy it.** Cut large breasts into portions that match one meal, then wrap and freeze what you won't cook in the next day or two. Raw chicken only keeps 1 to 2 days in the fridge, so [how long chicken lasts in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/) should decide your plan, not the sell-by date.
 - **Freeze flat.** Lay portions flat in freezer bags and press out the air. Flat packs stack like books in a small freezer and thaw faster. A vacuum sealer does this even better. Here's [how to use a vacuum sealer](/blog/how-to-use-a-vacuum-sealer/) step by step.
-- **Cook once, eat three ways.** Roast or poach one big breast, then slice it for a salad, shred some for tacos, and chop the rest for fried rice. Our [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) has more plans built around this.
+- **Cook once, eat three ways.** [Roast](/blog/what-can-you-cook-in-a-roaster-oven/) or poach one big breast, then slice it for a salad, shred some for tacos, and chop the rest for fried rice. Our [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) has more plans built around this.
 - **Store cooked chicken in small containers.** Stackable, portion-sized [airtight food storage containers](/blog/best-airtight-food-storage-containers/) take less fridge space than one big dish and cool faster.
 - **Use a pan that fits.** One breast in a 12-inch skillet wastes heat and space. This guide to the [best cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) helps you pick the right size.
 
-If you're still setting up your kitchen, our checklist on [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) covers the scale, thermometer and basic pans that make portioning chicken simple.
+If you're still setting up your kitchen, our checklist on [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) covers the scale, thermometer and basic pans that make portioning chicken simple, and these [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) find room for them.
 
 ## Common Mistakes When Measuring Chicken
 
@@ -233,3 +233,5 @@ If you have leftovers, cooked chicken keeps 3 to 4 days in the fridge. Warm them
 - [Best Vacuum Sealers for Sous Vide](/blog/best-vacuum-sealer-for-sous-vide/)
 - [Best Meat Thermometers for Smoking](/blog/best-meat-thermometer-for-smoking/)
 - [How Many Ounces in a Quart?](/blog/how-many-ounces-in-a-quart/)
+- [How to Clean an Air Fryer Basket](/blog/how-to-clean-an-air-fryer-basket/)
+- [Instant Pot vs Ninja Foodi](/blog/instant-pot-vs-ninja-foodi/)

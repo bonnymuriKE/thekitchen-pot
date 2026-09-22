@@ -34,7 +34,7 @@ faq:
   - question: "Is it safe to use an air fryer basket with peeling coating?"
     answer: "It's best not to. Flakes can end up in your food, and bare metal under the coating makes food stick more, which leads to more scrubbing and more peeling. Small scratches that aren't flaking are usually just cosmetic. If the coating is chipping off, contact the manufacturer about a replacement basket, since many sell them as spare parts."
 ---
-If your air fryer smokes when you turn it on, smells like last week's fish, or makes fresh fries taste faintly burnt, the culprit is almost always old grease in and under the basket. Air fryers push hot air hard. Every bit of fat that drips through the crisper plate and bakes onto the drawer gets reheated each time you cook.
+If your air fryer smokes when you turn it on, smells like last week's fish, or makes fresh fries taste faintly burnt, the culprit is almost always old grease in and under the basket. Air fryers push hot air hard. Every bit of fat that drips through the crisper plate and bakes onto the drawer gets reheated each time you cook, and in a kitchen without much airflow that smoke lingers, which is one reason a [ductless range hood](/blog/6-best-ductless-range-hood/) earns its place over a counter appliance.
 
 Knowing how to clean an air fryer basket properly solves most of that. For everyday cleaning, let the basket cool a little, then wash the basket and crisper plate in warm, soapy water with a soft sponge and dry them fully. For stuck-on grease, soak first and then use a baking soda paste. Keep steel wool, metal scrapers and harsh degreasers away from the nonstick coating.
 
@@ -56,6 +56,7 @@ The method you use depends on the surface. Look at your basket before you grab a
 - **Nonstick coated (dark gray or black, smooth).** This is the most common type, used by brands like Ninja, Cosori and Instant. It's also the most delicate. Everything in this guide is aimed at keeping that coating intact. If you want the background, our explainer on [what nonstick cookware is](/blog/what-is-nonstick-cookware/) covers how these coatings work and why they scratch.
 - **Ceramic coated (often light gray, cream or colored).** Treat it the same way as nonstick, and be even gentler with abrasives. Our guide to [cleaning a ceramic pan](/blog/how-to-clean-ceramic-pan/) applies here too.
 - **Stainless steel mesh or basket.** Found on some oven-style and premium models. Stainless can handle firmer scrubbing and even a paste of Bar Keepers Friend, as described in our guide to [cleaning stainless steel pans](/blog/how-to-clean-stainless-steel-pans/).
+- **Hard-anodized aluminum.** A few baskets and oven trays use it, and it sits between the two for toughness. Our guide to [cleaning hard-anodized cookware](/blog/how-to-clean-hard-anodized-cookware/) has the method.
 
 If you own an oven-style air fryer with racks, or a NuWave-style countertop oven, the racks and drip tray clean the same way. Our comparison of [NuWave ovens vs air fryers](/blog/nuwave-oven-vs-air-fryers/) explains how those designs differ.
 
@@ -64,7 +65,7 @@ If you own an oven-style air fryer with racks, or a NuWave-style countertop oven
 Cosori's help center says to clean the basket and crisper plate after every use, and this is why: grease that's still soft wipes off, but grease that goes through another cooking cycle turns into varnish.
 
 1. **Unplug the air fryer and let it cool.** Pull the basket out of the unit; Cosori notes this helps it cool faster. Cosori's blog suggests about 10 to 15 minutes. You want it warm, not hot.
-2. **Tip out loose crumbs and fat.** Pour any rendered fat into a container or onto a paper towel, not down the drain.
+2. **Tip out loose crumbs and fat.** Pour any rendered fat into a container, such as one of the [airtight food storage containers](/blog/best-airtight-food-storage-containers/) you keep for leftovers, or onto a paper towel, not down the drain.
 3. **Take out the crisper plate or grate.** Most lift out. Some are held in by small rubber bumpers and need a firm, straight pull.
 4. **Wash with warm water, dish soap and a soft sponge.** Do the basket's inside walls and base, and both sides of the crisper plate.
 5. **Rinse and dry completely.** Towel dry or air dry. Cosori says every part should be dry before you put it back and use it.
@@ -195,7 +196,8 @@ An air fryer often lives on the counter in a small kitchen because it's easier t
 - **Clean in place.** Soak the basket on the counter as described above, instead of trying to fit it into a small sink with the dishes.
 - **Give it a home near an outlet with airflow around it.** Leave space at the back so hot air can vent. Our [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) cover how to fit appliances without crowding them.
 - **Consider whether you need other appliances.** An air fryer can take over jobs from a toaster oven. If you're cooking solo, our guide to the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) helps you decide what to keep.
-- **Using it often saves energy compared with the oven.** Air fryers heat a small space, which is one reason they show up on our list of the [most energy-efficient small kitchen appliances](/blog/most-energy-efficient-small-kitchen-appliances/).
+- **Using it often saves energy compared with the oven.** Air fryers heat a small space, which is one reason they show up on our list of the [most energy-efficient small kitchen appliances](/blog/most-energy-efficient-small-kitchen-appliances/), alongside our picks for [compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/) and our look at [eco-friendly alternatives to common kitchen appliances](/blog/eco-friendly-alternatives-to-common-kitchen-appliances/).
+- **Store the accessories together.** Liners, the spare crisper plate and the mister are easy to lose in a crowded cabinet; our ideas for [organizing a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) show where they can live.
 
 ## A Simple Weekly Routine
 

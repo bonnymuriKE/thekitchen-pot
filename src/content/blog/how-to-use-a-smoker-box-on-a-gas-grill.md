@@ -139,12 +139,12 @@ Smoked meat often shows a pink ring just under the surface. That's a normal reac
 
 If this is your first time using a smoker box, start with something forgiving and fairly quick.
 
-- **Chicken thighs or drumsticks.** Hard to dry out, and they take smoke well. Leftovers keep in the fridge for a few days; see [how long chicken lasts in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/). If you're working out portions, here's [how much a chicken breast weighs](/blog/how-much-does-a-chicken-breast-weigh/).
+- **Chicken thighs or drumsticks.** Hard to dry out, and they take smoke well. Leftovers keep in the fridge for a few days; see [how long chicken lasts in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/), and the same reheating tricks in our guide to [reheating chicken wings](/blog/how-to-reheat-chicken-wings/) work on smoked pieces. If you're working out portions, here's [how much a chicken breast weighs](/blog/how-much-does-a-chicken-breast-weigh/).
 - **Sausages.** Already fatty and flavorful, and they only need to reach 160°F. If the weather turns, you can finish them indoors; our guide to [cooking sausages in the oven](/blog/how-to-cook-sausages-in-the-oven/) has times.
-- **Salmon.** Pair it with alder or a fruit wood and cook it on the unlit side until it flakes.
+- **Salmon.** Pair it with alder or a fruit wood and cook it on the unlit side until it flakes. If you portion whole fish yourself, an [electric fillet knife](/blog/best-electric-fillet-knife/) makes even fillets that cook at the same rate.
 - **Vegetables.** Char-Broil notes that high-moisture vegetables such as tomatoes and onions take on smoke well. Put them in a tray to keep their juices.
 
-Save pork shoulder and brisket for when you're comfortable holding a steady temperature for several hours.
+Save pork shoulder and brisket for when you're comfortable holding a steady temperature for several hours. Those big cuts leave a lot of leftovers, so portion them into [airtight food storage containers](/blog/best-airtight-food-storage-containers/), or learn [how to use a vacuum sealer](/blog/how-to-use-a-vacuum-sealer/) if you want to freeze smoked meat without it drying out.
 
 ## Why Isn't My Smoker Box Smoking?
 
@@ -180,7 +180,7 @@ Some residue and discoloration on stainless is normal and doesn't affect how it 
 
 A smoker box produces more smoke than regular grilling, and it keeps producing it for longer. That matters if you live in an apartment or condo with neighbors close by.
 
-Before you smoke, check your lease, HOA rules and local fire code. Many buildings restrict or ban propane grills on balconies, as explained in our guide to [balcony grilling safety tips and rules](/blog/balcony-grilling-safety-tips-and-rules/). If your space allows it, keep the grill well away from walls, railings and anything that can burn, and never use a gas grill under a covered overhang or indoors.
+Before you smoke, check your lease, HOA rules and local fire code. Many buildings restrict or ban propane grills on balconies, as explained in our guide to [balcony grilling safety tips and rules](/blog/balcony-grilling-safety-tips-and-rules/). If your space allows it, keep the grill well away from walls, railings and anything that can burn, and never use a gas grill under a covered overhang or indoors. Where open flames are banned outright, an indoor electric grill is the fallback, and our [Gotham Steel smokeless grill review](/blog/gotham-steel-smokeless-grill-review/) explains how much of the char you actually get.
 
 For a small outdoor space, a compact grill with two burners is enough for smoker box cooking. Our guides to the [best small grills for balconies and patios](/blog/best-small-grills-for-balconies-and-patios/) and the [best portable grills for apartment living](/blog/best-portable-grills-for-apartment-living/) list models that fit. If you're arranging a new setup, our walkthrough on [how to set up a small patio for grilling](/blog/how-to-set-up-a-small-patio-for-grilling/) covers clearances and layout.
 

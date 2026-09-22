@@ -67,7 +67,7 @@ Flour has about half the thickening power of cornstarch, which is why you use tw
 Two rules keep it smooth:
 
 1. **Never sprinkle dry flour into hot liquid.** America's Test Kitchen warns it will clump. Whisk it into a few tablespoons of cold water or stock first, or cook it in butter or oil for a minute before adding liquid (a roux).
-2. **Simmer it.** Flour needs a few minutes at a gentle bubble to cook out its raw, pasty taste. ATK also notes that flour darkens and burns faster than pure starch, so keep the heat moderate.
+2. **Simmer it.** Flour needs a few minutes at a gentle bubble to cook out its raw, pasty taste. ATK also notes that flour darkens and burns faster than pure starch, so keep the heat moderate. If a roux does scorch, our guide to [cleaning stainless steel pans](/blog/how-to-clean-stainless-steel-pans/) gets the pan back.
 
 ### Wondra: flour that acts like starch
 
@@ -100,7 +100,7 @@ If you're avoiding corn entirely, **tapioca starch** and **arrowroot** are the b
 
 Flour works in a pinch, and King Arthur found every thickener it compared, flour included, produced a filling that held together when sliced. It's just a little cloudier and more starchy-tasting.
 
-If you bake often in a small space, our guide to the [best bakeware for small kitchens](/blog/best-bakeware-for-small-kitchens/) covers pie plates that don't hog a cabinet.
+If you bake often in a small space, our guide to the [best bakeware for small kitchens](/blog/best-bakeware-for-small-kitchens/) covers pie plates that don't hog a cabinet, and this rundown of [compact baking sheet and pan sizes](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) explains which dimensions still fit a small oven.
 
 ## Pudding, Custard and Anything With Dairy
 
@@ -120,7 +120,7 @@ Cornstarch is also used in batters and dredges because it fries up crisp and lig
 - **Potato starch** is a pure starch like cornstarch, so it can take cornstarch's place in a dredge for fried chicken or tofu.
 - **Rice flour** makes a thin, crackly crust. America's Test Kitchen says rice flour can stand in for cornstarch in equal amounts for breading.
 
-All-purpose flour works too, but the crust will be heavier and browner. For air-fried food, a light, even coating and a thin film of oil matter more than which starch you pick. Our guide to the [best oil for an air fryer](/blog/best-oil-for-air-fryer/) covers which oils handle the heat, and the same crisping ideas apply when you [reheat chicken wings](/blog/how-to-reheat-chicken-wings/).
+All-purpose flour works too, but the crust will be heavier and browner. For air-fried food, from wings to [frozen french fries in an air fryer](/blog/how-to-cook-frozen-french-fries-in-an-air-fryer/), a light, even coating and a thin film of oil matter more than which starch you pick. Our guide to the [best oil for an air fryer](/blog/best-oil-for-air-fryer/) covers which oils handle the heat, and the same crisping ideas apply when you [reheat chicken wings](/blog/how-to-reheat-chicken-wings/).
 
 ## Replacing Cornstarch in Baking
 
@@ -140,7 +140,7 @@ ATK says rice flour can replace cornstarch one for one in shortbread. You may no
 
 Tapioca starch is a common ingredient in gluten-free flour blends. ATK notes it's pure starch from cassava root and doesn't retrograde (firm up and stale) as quickly as cornstarch, which helps baked goods stay soft. Small amounts of xanthan gum add structure that gluten would normally provide.
 
-If you're setting up a baking corner with limited space, these [space-saving baking tool essentials](/blog/space-saving-baking-tool-essentials/) and tips on [baking in a small kitchen without extra counter space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/) can help.
+If you're setting up a baking corner with limited space, these [space-saving baking tool essentials](/blog/space-saving-baking-tool-essentials/) and tips on [baking in a small kitchen without extra counter space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/) can help, and our picks for the [best small ovens and toaster ovens for baking](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) suit a corner that can't hold a full range.
 
 ## Gluten-Free and Low-Carb Swaps
 
@@ -161,8 +161,8 @@ Gums thicken almost instantly and don't need heat, which makes them useful for c
 Sometimes you don't need a substitute at all.
 
 - **Reduce it.** Simmer a sauce uncovered and let the water evaporate. It concentrates flavor as it thickens. A wide [sauté pan](/blog/best-saute-pan/) reduces much faster than a deep pot because there's more surface area.
-- **Blend some of it.** For soups with beans, potatoes or vegetables, purée a cup or two and stir it back in.
-- **Use what's already there.** A spoonful of mashed potato, a handful of cooked rice blended into soup, or a little grated cheese in a cream sauce will all add body.
+- **Blend some of it.** For soups with beans, potatoes or vegetables, purée a cup or two and stir it back in. A blender does this better than a food processor, as our look at the [difference between a food processor and a blender](/blog/what-is-the-difference-between-a-food-processor-and-a-blender/) explains.
+- **Use what's already there.** A spoonful of mashed potato (our guide to [how long potatoes last](/blog/how-long-do-potatoes-last/) helps you keep some on hand), a handful of [rice cooked in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/) blended into soup, or a little grated cheese in a cream sauce will all add body.
 - **Add butter at the end.** Whisking cold butter into a pan sauce off the heat gives it a glossy, slightly thicker finish.
 
 ## How to Add Any Thickener Without Lumps
@@ -191,7 +191,7 @@ For a big batch of soup or stew, a sturdy [stockpot with a lid](/blog/best-stock
 
 Starches keep for a long time as long as they stay dry and sealed. Decant them into [airtight food storage containers](/blog/best-airtight-food-storage-containers/) so they don't pick up moisture or pantry pests. You don't need all of them: a bag of flour plus one pure starch, like potato starch, covers almost every recipe that calls for cornstarch.
 
-If shelf space is tight, see [how to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/). A shared container for all your baking starches fits neatly on one shelf.
+If shelf space is tight, see [how to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) and these [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/). A shared container for all your baking starches fits neatly on one shelf.
 
 ## Stock One Backup and You're Covered
 
@@ -206,3 +206,5 @@ Now that you know which thickener does what, the next useful skill is controllin
 - [Lo Mein vs Chow Mein](/blog/lo-mein-vs-chow-mein/)
 - [Space-Saving Baking Tool Essentials](/blog/space-saving-baking-tool-essentials/)
 - [How to Bake in a Small Kitchen Without Extra Counter Space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/)
+- [Compact Baking Sheet and Pan Sizes for Small Kitchens](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/)
+- [How to Bake Cookies in a Convection Oven](/blog/how-to-bake-cookies-in-a-convection-oven/)

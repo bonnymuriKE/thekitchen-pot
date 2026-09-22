@@ -35,7 +35,7 @@ faq:
   - question: "How do you reheat leftover fries in an air fryer?"
     answer: "Spread the cold fries in a single layer and heat them at 350°F for about 3 to 4 minutes, shaking once halfway. They come out much crispier than microwaved fries. Keep leftover fries in an airtight container in the fridge and eat them within a few days for the best texture."
 ---
-It's 9 p.m., you're hungry, and there's a half-finished bag of frozen fries in the freezer. You could heat the big oven for 20 minutes and still end up with fries that are pale on one side. Or you can pull out the air fryer and have hot, crispy fries in about the time it takes to make a burger.
+It's 9 p.m., you're hungry, and there's a half-finished bag of frozen fries in the freezer. You could heat the big [oven](/blog/best-slide-in-electric-range/) for 20 minutes and still end up with fries that are pale on one side. Or you can pull out the air fryer and have hot, crispy fries in about the time it takes to make a burger.
 
 This guide covers how to cook frozen french fries in an air fryer for every common cut, from skinny shoestrings to thick steak fries. You'll get real temperatures and times, the one mistake behind almost every batch of soggy fries, and a few tricks that help when your air fryer is small and you're only cooking for one or two.
 
@@ -65,7 +65,7 @@ This method works for any standard frozen fry. The times change by cut (see the 
 4. **Don't overfill the basket.** McCain suggests filling the basket only about halfway. For the crispiest fries, aim for one loose layer where fries can touch but don't pile on top of each other.
 5. **Cook and shake halfway.** Slide the basket out at the halfway point and shake it hard, or toss the fries with tongs. Philips explains that shaking lets air circulate around food that's stacked in more than one layer, which is how you avoid pale, soft spots.
 6. **Check a few minutes early.** Air fryers vary a lot. Pull one fry out a couple of minutes before the timer ends and bite it. It should be crisp on the outside and fluffy inside.
-7. **Season and serve right away.** Tip the fries into a bowl, add salt or seasoning while they're hot, and toss. Fries lose their crunch fast as they cool, so eat them soon.
+7. **Season and serve right away.** Tip the fries into a bowl, add [salt](/blog/best-salt-and-pepper-grinders/) or seasoning while they're hot, and toss. Fries lose their crunch fast as they cool, so eat them soon.
 
 **How done is done?** The FDA suggests cooking frozen french fries to a [golden yellow color rather than a brown color](https://www.fda.gov/food/process-contaminants-food/acrylamide-and-diet-food-storage-and-food-preparation), because deep browning increases acrylamide, a chemical that forms in starchy foods cooked at high heat. McCain's packaging says the same thing in plainer terms: cook to a light golden color and don't overcook. Golden and crisp is the target, not dark brown.
 
@@ -114,7 +114,7 @@ That said, a light mist can help in two cases:
 - **You want deeper color.** A little oil helps some brands brown more evenly.
 - **You're adding seasoning before cooking.** Garlic powder or paprika sticks better to a lightly oiled surface.
 
-If you do add oil, use a pump mister rather than an aerosol can. Many aerosol cooking sprays contain lecithin and propellants that build up as a sticky film on nonstick baskets. For which oils handle air fryer heat best, see our guide to the [best oil for air fryer cooking](/blog/best-oil-for-air-fryer/).
+If you do add oil, use a pump mister rather than an aerosol can. Many aerosol cooking sprays contain lecithin and propellants that build up as a sticky film on [nonstick](/blog/what-is-nonstick-cookware/) baskets. For which oils handle air fryer heat best, see our guide to the [best oil for air fryer cooking](/blog/best-oil-for-air-fryer/).
 
 ## Why Your Air Fryer Fries Are Soggy (and How to Fix It)
 
@@ -153,20 +153,20 @@ Plain salt is classic, but it's easy to change things up. Season fries in a bowl
 - **Cajun:** a store-bought Cajun blend, or paprika, garlic powder, onion powder and cayenne.
 - **Salt and vinegar:** a light spritz of malt vinegar and flaky salt.
 - **Everything bagel:** everything bagel seasoning straight from the jar.
-- **Smoked paprika and lime:** smoked paprika, salt and a squeeze of fresh lime.
+- **Smoked paprika and lime:** smoked paprika, salt and a [squeeze of fresh lime](/blog/how-to-use-a-lemon-juicer/).
 
 Add fresh herbs and grated cheese after cooking, not before. They burn in the air fryer's direct heat.
 
 ## How to Reheat Leftover Fries in the Air Fryer
 
-Microwaved fries turn soft and chewy. The air fryer brings them back much closer to fresh.
+Fries reheated in the [microwave](/blog/7-best-over-the-range-microwaves/) turn soft and chewy. The air fryer brings them back much closer to fresh.
 
 1. Spread the cold fries in a single layer in the basket.
 2. Heat at 350°F for about 3 to 4 minutes.
 3. Shake once halfway through.
 4. Check and add a minute if they need it.
 
-Store leftover fries in an airtight container in the fridge and eat them within about 4 days. A set of good [airtight food storage containers](/blog/best-airtight-food-storage-containers/) helps keep them from picking up fridge smells. The same reheating idea works for other fried leftovers too, like [reheating chicken wings](/blog/how-to-reheat-chicken-wings/) or [reheating pizza](/blog/how-to-reheat-pizza/) so the crust stays crisp.
+Store leftover fries in an airtight container in the [fridge](/blog/best-side-by-side-refrigerator/) and eat them within about 4 days. A set of good [airtight food storage containers](/blog/best-airtight-food-storage-containers/) helps keep them from picking up fridge smells. The same reheating idea works for other fried leftovers too, like [reheating chicken wings](/blog/how-to-reheat-chicken-wings/) or [reheating pizza](/blog/how-to-reheat-pizza/) so the crust stays crisp.
 
 ## Small Air Fryer Tips for Cooking for One
 
@@ -174,8 +174,8 @@ Small air fryers make a lot of sense in a small kitchen. They heat up fast, use 
 
 - **Cook one serving at a time.** Dash says its 2.6-quart Tasti-Crisp can fit about a pound of fries, but that's the limit, not the sweet spot. For crispy results, a single serving (roughly a generous handful) in a loose layer works best.
 - **Pair fries with something that shares the temperature.** Cook fries first, keep them warm on a plate, then cook chicken tenders or fish sticks at the same temperature. The machine stays hot, so the second item goes fast.
-- **Portion the bag when you open it.** Split a large bag into single-serving freezer bags. You won't have to wrestle a giant frozen block every time, and fries that stay sealed are less likely to get freezer burn.
-- **Keep it where you'll use it.** If counter space is tight, store the air fryer in a lower cupboard and pull it out when needed. These [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) can help you decide what earns a permanent spot.
+- **Portion the bag when you open it.** Split a large bag into single-serving freezer bags or [vacuum-sealed portions](/blog/how-to-use-a-vacuum-sealer/). You won't have to wrestle a giant frozen block every time, and fries that stay sealed are less likely to get freezer burn.
+- **Keep it where you'll use it.** If counter space is tight, store the air fryer in a [lower cupboard](/blog/small-kitchen-cabinet-organization-ideas/) and pull it out when needed. These [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) can help you decide what earns a permanent spot.
 
 If you cook for one most nights, an air fryer tends to earn its place fast. Our guide to the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) explains which machines are worth the counter space, and these [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) show how to build quick meals around a side like fries. Using a small air fryer instead of the full oven is also one of the simpler ways to [reduce kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/).
 
@@ -185,14 +185,14 @@ Both work. The difference is speed and space.
 
 - **Speed:** An air fryer usually preheats in a few minutes and cooks most fries in 10 to 20 minutes. A full oven takes longer to heat, and the bag directions often call for 20 minutes or more, plus a flip halfway through.
 - **Texture:** The air fryer's small space and strong fan tend to give crispier results for a single batch.
-- **Quantity:** The oven wins for a crowd. A sheet pan holds far more fries than a small air fryer basket.
+- **Quantity:** The oven wins for a crowd. A [sheet pan](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) holds far more fries than a small air fryer basket.
 - **Energy and heat:** A small air fryer heats a small space, so your kitchen stays cooler in summer. The [most energy-efficient small kitchen appliances](/blog/most-energy-efficient-small-kitchen-appliances/) guide goes into how countertop cookers compare.
 
-If you like the idea of a countertop cooker that does more than fries, a compact toaster oven with an air fry setting can cover both jobs. See our picks for the [best small ovens and toaster ovens for small kitchens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/). You can also compare [NuWave ovens vs air fryers](/blog/nuwave-oven-vs-air-fryers/) if you're deciding between countertop styles.
+If you like the idea of a countertop cooker that does more than fries, a compact toaster oven with an air fry setting can cover both jobs. See our picks for the [best small ovens and toaster ovens for small kitchens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/). You can also compare [NuWave ovens vs air fryers](/blog/nuwave-oven-vs-air-fryers/) if you're deciding between countertop styles, and our guide on [how to use a NuWave oven](/blog/how-to-use-a-nuwave-oven/) shows what cooking on one is like.
 
 ## Making Your Own Fries Instead?
 
-This guide is about frozen fries, but fresh-cut fries work in the air fryer too. They need more prep: cut them evenly, soak them in water, dry them well and toss them with a little oil. The FDA notes that soaking raw potato slices in water for 15 to 30 minutes before frying or roasting also helps reduce acrylamide.
+This guide is about frozen fries, but fresh-cut fries work in the air fryer too. They need more prep: cut them evenly with a [sharp knife](/blog/best-knife-set-under-100/), soak them in water, dry them well and toss them with a little oil. The FDA notes that soaking raw potato slices in water for 15 to 30 minutes before frying or roasting also helps reduce acrylamide.
 
 A [mandoline slicer](/blog/best-mandoline-slicers/) makes even fries fast. If you've never used one, read [how to use a mandoline](/blog/how-to-use-a-mandoline/) first, and always use the hand guard. Store your potatoes somewhere cool and dark, not the fridge. Our guide on [how long potatoes last](/blog/how-long-do-potatoes-last/) covers the best storage spots.
 

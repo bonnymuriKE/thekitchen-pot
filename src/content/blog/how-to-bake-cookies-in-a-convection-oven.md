@@ -118,7 +118,7 @@ Here's the full process, using any drop cookie recipe such as chocolate chip or 
 6. **Load the trays.** Slide them in quickly so you don't lose heat. If you're using two racks, try to keep them centered so air can move around the edges of each tray.
 7. **Rotate at the halfway point.** Turn each tray front to back, and if you're baking two, swap top and bottom. America's Test Kitchen found this step still mattered with a 25°F reduction.
 8. **Check early.** Look two to three minutes before the recipe's shortest time. Pull them when the edges are golden and the centers look barely set.
-9. **Cool on the pan briefly.** Leave the cookies on the sheet for 2 to 5 minutes so they firm up, then move them to a wire rack.
+9. **Cool on the pan briefly.** Leave the cookies on the sheet for 2 to 5 minutes so they firm up, then lift them onto a wire rack with a thin [metal spatula](/blog/best-metal-spatula-set/).
 10. **Let the pan cool between batches.** Putting dough on a hot pan starts it melting before it reaches the oven, which leads to flat, greasy cookies. Rotate between two or three pans, or run the pan under cool water and dry it.
 
 ### Baking two trays at once
@@ -146,9 +146,9 @@ Convection doesn't suit every cookie equally. Here's how common types tend to be
 | Thick, soft bakery-style cookies | Mixed: tops set before centers | Some bakers prefer regular bake for these |
 | Biscotti | Very good, especially the second bake | Convection helps dry them evenly |
 
-If a recipe produces thick, soft, underbaked-center cookies, try one tray on convection and one on regular bake. Some bakers prefer the regular setting for these because the slower heat gives the dough time to spread and stay tender. For crisp cookies and big holiday batches, convection is hard to beat.
+If a recipe produces thick, soft, underbaked-center cookies, try one tray on convection and one on regular bake. Some bakers prefer the regular setting for these because the slower heat gives the dough time to spread and stay tender. For crisp cookies and big holiday batches, convection is hard to beat. Shortbread and other tender cookies often lean on cornstarch to soften the crumb, so keep our list of [what to use instead of cornstarch](/blog/what-to-use-instead-of-cornstarch/) nearby if the box is empty.
 
-What about other baked goods? King Arthur Baking and The Kitchn both suggest skipping convection for cakes, quick breads, custards and wet batters, because the moving air can make them bake unevenly or rise less. Cookies, biscuits, scones, pizza and roasted vegetables are where convection shines. If you like baking pizza too, a [pizza stone](/blog/best-pizza-stone/) works well on convection.
+What about other baked goods? King Arthur Baking and The Kitchn both suggest skipping convection for cakes, quick breads, custards and wet batters, because the moving air can make them bake unevenly or rise less. Cookies, biscuits, scones, pizza and roasted vegetables are where convection shines. If you like baking pizza too, a [pizza stone](/blog/best-pizza-stone/) works well on convection, and so do crusty loaves shaped in a [bread proofing basket](/blog/best-bread-proofing-basket-reviews/).
 
 ## Troubleshooting Convection Cookies
 
@@ -168,7 +168,7 @@ If you still get odd results, check the real temperature. Hang an oven thermomet
 
 ## How to Bake Cookies in a Convection Toaster Oven
 
-In a small kitchen, a countertop convection oven is often the easiest way to bake. You don't have to heat a full-size oven for a dozen cookies, and many apartment kitchens have tiny ovens or none at all.
+In a small kitchen, a countertop convection oven is often the easiest way to bake. You don't have to heat the oven on a [full-size electric range](/blog/best-slide-in-electric-range/) for a dozen cookies, and many apartment kitchens have tiny ovens or none at all.
 
 Breville's Smart Oven Pro, for example, has a Cookies preset that defaults to 350°F (175°C) for 11 minutes, with convection turned on and the rack in the middle position. That's a useful starting point for most drop cookies. Here's how to get good results from any countertop model:
 
@@ -181,15 +181,15 @@ Breville's Smart Oven Pro, for example, has a Cookies preset that defaults to 35
 
 Freeze the rest of the dough in scoops, then bake a few at a time straight from the freezer, adding a minute or two. That's handy if you're cooking for one or two people.
 
-Not sure which small oven to get? We cover the best options in our guide to [small ovens and toaster ovens for baking in small kitchens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/). If you're comparing different styles, see [NuWave oven vs air fryers](/blog/nuwave-oven-vs-air-fryers/) as well. Many air fryer toaster ovens have a convection bake mode that works well for cookies.
+Not sure which small oven to get? We cover the best options in our guide to [small ovens and toaster ovens for baking in small kitchens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/). If you're comparing different styles, see [NuWave oven vs air fryers](/blog/nuwave-oven-vs-air-fryers/) as well. Many air fryer toaster ovens, including several of the [air fryers under $100](/blog/best-air-fryers-under-100/), have a convection bake mode that works well for cookies.
 
 ## Small Kitchen Tips for Baking Cookies
 
-Baking three dozen cookies with a foot of counter space takes a bit of planning. A few habits make it much easier:
+Baking three dozen cookies with a foot of counter space takes a bit of planning, starting with the [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) that clear a work zone. A few habits make it much easier:
 
-- **Mix in one bowl.** Many cookie doughs can be mixed in one large bowl with a [hand mixer](/blog/best-hand-mixers/), which stores in a drawer and saves space compared with a stand mixer.
-- **Cool vertically.** A stackable cooling rack lets three trays cool in the footprint of one.
-- **Use the stovetop as extra counter.** With burners off and cool, a large cutting board over the stove gives you room to scoop dough.
+- **Mix in one bowl.** Many cookie doughs can be mixed in one large bowl with a [hand mixer](/blog/best-hand-mixers/), which stores in a drawer and saves space compared with a stand mixer. These tips on [organizing kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) help it fit.
+- **Cool vertically.** A stackable cooling rack lets three trays cool in the footprint of one, and these [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) apply the same thinking to the rest of your gear.
+- **Use the stovetop as extra counter.** With burners off and cool, a large cutting board over the stove gives you room to scoop dough. On a glass cooktop, mind the surface the way you would when [protecting a glass top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/).
 - **Line pans in advance.** Keep two lined quarter sheets ready so you can rotate batches without waiting.
 - **Keep your tool kit small.** Our list of [space-saving baking tool essentials](/blog/space-saving-baking-tool-essentials/) covers what's worth keeping.
 
@@ -214,3 +214,5 @@ Always use oven mitts or [heat resistant gloves](/blog/10-best-heat-resistant-gl
 - [Space-Saving Baking Tool Essentials](/blog/space-saving-baking-tool-essentials/)
 - [Best Hand Mixers](/blog/best-hand-mixers/)
 - [How to Use a NuWave Oven](/blog/how-to-use-a-nuwave-oven/)
+- [What to Use Instead of Cornstarch](/blog/what-to-use-instead-of-cornstarch/)
+- [Vertical Storage Ideas for Small Kitchens](/blog/vertical-storage-ideas-for-small-kitchens/)

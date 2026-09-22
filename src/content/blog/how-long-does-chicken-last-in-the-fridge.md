@@ -97,7 +97,7 @@ Store-bought rotisserie chicken follows the same 3 to 4 day rule. The 2-hour clo
 
 ### Chicken salad and deli chicken
 
-Homemade or store-bought chicken salad lasts 3 to 4 days in the fridge but doesn't freeze well, because mayonnaise separates when it thaws. For packaged deli chicken, follow the date on the package before opening and use it within a few days once it's open.
+Homemade or store-bought chicken salad lasts 3 to 4 days in the fridge but doesn't freeze well, because mayonnaise separates when it thaws. For packaged deli chicken, or chicken you slice yourself with a [meat slicer](/blog/best-meat-slicer-for-home-use/), follow the date on the package before opening and use it within a few days once it's open.
 
 ## How to Tell If Chicken Has Gone Bad
 
@@ -132,7 +132,7 @@ Good storage won't stretch the 1 to 2 day window, but poor storage can shorten i
 5. **Don't wash raw chicken.** FSIS doesn't recommend it, because splashing spreads bacteria around your sink and counter. Cooking kills the bacteria. Rinsing doesn't.
 6. **Write the date on it.** A strip of masking tape with the purchase date takes two seconds and ends the "when did I buy this?" guessing game.
 
-After handling raw chicken, wash your hands, cutting board and knife in hot soapy water. If your counter space is tight, an [over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) keeps raw meat prep contained right next to the tap.
+After handling raw chicken, wash your hands, cutting board and [kitchen knives](/blog/best-knife-set-under-100/) in hot soapy water. If your counter space is tight, an [over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) keeps raw meat prep contained right next to the tap.
 
 ## How to Store Cooked Chicken So It Lasts the Full 3 to 4 Days
 
@@ -183,7 +183,7 @@ Use your microwave's defrost setting, then cook the chicken immediately. Some pa
 
 ### Cooking chicken from frozen
 
-You can safely cook chicken straight from the freezer in the oven, on the stovetop, or in a pressure cooker. It just takes about 50% longer than thawed chicken. Use a [meat thermometer](/blog/best-meat-thermometer-for-smoking/) to confirm 165°F in the thickest part, and clean it afterward with these steps for [how to clean a meat thermometer](/blog/how-to-clean-a-meat-thermometer/). Don't cook frozen chicken in a slow cooker, since it can sit in the danger zone too long while it heats up.
+You can safely cook chicken straight from the freezer [in the oven](/blog/how-to-cook-sausages-in-the-oven/), on the stovetop, or in a [pressure cooker](/blog/instant-pot-vs-pressure-cooker/). It just takes about 50% longer than thawed chicken. Use a [meat thermometer](/blog/best-meat-thermometer-for-smoking/) to confirm 165°F in the thickest part, and clean it afterward with these steps for [how to clean a meat thermometer](/blog/how-to-clean-a-meat-thermometer/). Don't cook frozen chicken in a slow cooker, since it can sit in the danger zone too long while it heats up.
 
 ## Can You Refreeze Thawed Chicken?
 
@@ -208,8 +208,8 @@ Short shelf life plus a small fridge is a tricky mix, especially when you cook f
 - **Freeze flat.** Lay portions flat in freezer bags, freeze them on a tray, then stand them up like files. They take a fraction of the space of a lumpy package.
 - **Cook once, eat twice, freeze the rest.** Roast a batch on Sunday, eat it Monday and Tuesday, and freeze the rest in portions. Our [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) plans meals around exactly this.
 - **Don't overpack the fridge.** Cold air has to circulate to keep everything at 40°F. A crammed fridge can have warm spots.
-- **Watch mini fridges closely.** Compact and dorm fridges can struggle to hold a steady 40°F, especially when the door opens a lot or the freezer compartment ices up. Keep a thermometer inside, and learn [how to defrost a mini fridge](/blog/how-to-defrost-a-mini-fridge/) so ice buildup doesn't hurt its cooling.
-- **Keep the right gear handy.** A thermometer, a few stackable containers and freezer bags cover almost everything. Our checklist on [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) lists the basics.
+- **Watch mini fridges closely.** Compact and dorm fridges, including the [mini fridges sold for drinks](/blog/best-mini-fridge-for-beer/), can struggle to hold a steady 40°F, especially when the door opens a lot or the freezer compartment ices up. Keep a thermometer inside, and learn [how to defrost a mini fridge](/blog/how-to-defrost-a-mini-fridge/) so ice buildup doesn't hurt its cooling.
+- **Keep the right gear handy.** A thermometer, a few stackable containers and freezer bags cover almost everything, and our note on [how many ounces are in a quart](/blog/how-many-ounces-in-a-quart/) helps you match container sizes to a batch of soup. Our checklist on [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) lists the basics, while these ideas for [organizing kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) keep the bags and clips together.
 
 If your fridge is simply too small or too old to hold temperature, it may be time for an upgrade. Our guide to the [best compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/) covers space-saving options, and our [side-by-side refrigerator guide](/blog/best-side-by-side-refrigerator/) helps if you have room for a full-size model.
 

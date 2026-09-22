@@ -56,7 +56,7 @@ If you have lost the manual, check the model number on the sticker underneath th
 
 ## What that measuring cup really holds
 
-Here's the part to get right before anything else. Oster's FAQ explains that its rice cooker instructions use rice-cooker (often called "Chinese") cup quantities, not American cup quantities. One older Oster manual lists the included cup at 160 ml. A standard US cup is about 240 ml.
+Here's the part to get right before anything else. Oster's FAQ explains that its rice cooker instructions use rice-cooker (often called "Chinese") cup quantities, not American cup quantities. One older Oster manual lists the included cup at 160 ml. A standard US cup is about 240 ml, one of the conversions covered in our guide to [cups, ounces and quarts](/blog/how-many-ounces-in-a-quart/).
 
 So when a recipe on the back of a rice bag says "1 cup rice, 2 cups water," and you pour that into your Oster using the rice cooker cup for the rice and a kitchen cup for the water, you have added roughly half again as much water as the rice needs. That is how you end up with soupy, gluey rice.
 
@@ -123,13 +123,13 @@ Oster's steaming times for a 6-cup model:
 | Brussels sprouts | 11 to 13 minutes |
 | Shredded cabbage | 6 to 8 minutes |
 
-Cut vegetables into even pieces so they finish together. If you like steaming and want more space, a [bamboo steamer](/blog/how-to-use-a-bamboo-steamer/) over a pot of water handles bigger batches, and a [steamer basket](/blog/best-steamer-basket-for-instant-pot/) does the same job in a pressure cooker.
+Cut vegetables into even pieces so they finish together, which is quick work for one of the [best vegetable choppers](/blog/best-vegetable-choppers/). If you like steaming and want more space, a [bamboo steamer](/blog/how-to-use-a-bamboo-steamer/) over a pot of water handles bigger batches, and a [steamer basket](/blog/best-steamer-basket-for-instant-pot/) does the same job in a pressure cooker.
 
 ## Keep warm: how long is too long?
 
 The warm setting is handy, but it's not storage. Oster's FAQ says not to keep rice on warm for more than 12 hours. After that, the rice dries out, yellows, and the bottom can form a hard crust.
 
-For leftovers, cool the rice and get it into the fridge within 2 hours of cooking. The USDA's general rule for cooked leftovers is to refrigerate within 2 hours (1 hour if the room is above 90°F) and eat within 3 to 4 days. Spread the rice in shallow [airtight containers](/blog/best-airtight-food-storage-containers/) so it cools quickly, and reheat it until it's steaming hot, 165°F if you check with a thermometer.
+For leftovers, cool the rice and get it into the fridge within 2 hours of cooking. The USDA's general rule for cooked leftovers is to refrigerate within 2 hours (1 hour if the room is above 90°F) and eat within 3 to 4 days, the same window that applies to [cooked chicken in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/). Spread the rice in shallow [airtight containers](/blog/best-airtight-food-storage-containers/) so it cools quickly, and reheat it until it's steaming hot, 165°F if you check with a thermometer.
 
 Oster also says not to use the cooker to reheat rice once it's been unplugged and cooled. Reheat leftovers in the microwave or a pan instead. Day-old cold rice is actually the better choice for fried rice, and it pairs well with noodle dishes like the ones in our [lo mein vs chow mein](/blog/lo-mein-vs-chow-mein/) guide.
 
@@ -163,7 +163,7 @@ Clean it after every use and the nonstick pot will last years. Let everything co
 
 Things Oster's manuals warn against:
 
-- **Bleach, vinegar and harsh chemicals.** The 6-cup manual lists all three as off limits for cleaning.
+- **Bleach, vinegar and harsh chemicals.** The 6-cup manual lists all three as off limits for cleaning. Save the vinegar for jobs like [descaling an electric kettle](/blog/how-to-clean-an-electric-kettle/).
 - **Abrasive cleaners and metal scouring pads.** They scratch the nonstick coating.
 - **Metal spoons in the pot.** Use the plastic ladle or a wooden or silicone spoon. If you want more on how coatings like this wear, see [what nonstick cookware is](/blog/what-is-nonstick-cookware/) and how to look after it.
 - **Using the inner pot on the stove.** It's made for the cooker's heating plate only.
@@ -172,18 +172,18 @@ A cooker that's used every day can start to smell like old rice. Washing the lid
 
 ## Small-kitchen notes
 
-A 6-cup Oster is about 10 inches wide and 10.6 inches tall, so it fits in most cabinets or on a corner of the counter. If counter space is tight, store it with the ladle and cup inside the pot and the cord wrapped, and use one of the [countertop organization ideas](/blog/countertop-organization-ideas-for-a-small-kitchen/) that keep daily-use appliances within reach without cluttering the prep area.
+A 6-cup Oster is about 10 inches wide and 10.6 inches tall, so it fits in most cabinets or on a corner of the counter. If counter space is tight, store it with the ladle and cup inside the pot and the cord wrapped, and use one of the [countertop organization ideas](/blog/countertop-organization-ideas-for-a-small-kitchen/) that keep daily-use appliances within reach without cluttering the prep area. A shelf riser from these [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) gives it a home inside a cupboard, and these [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) free up the counter around it. Keep the bag of rice sealed and off the floor, which our guide to [organizing a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) covers.
 
 For one or two people, the 6-cup size is plenty. It sits alongside a kettle and a small air fryer on most lists of the [best small appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/). The 20-cup digital model is better for families or batch cooking.
 
-Because it shuts itself down to a low warm setting as soon as the water is gone, a rice cooker never sits there boiling away on high the way a forgotten pot can. If you're trying to trim your power bill, see our list of [energy-efficient small kitchen appliances](/blog/most-energy-efficient-small-kitchen-appliances/) for other appliances that do one job with little waste.
+Because it shuts itself down to a low warm setting as soon as the water is gone, a rice cooker never sits there boiling away on high the way a forgotten pot can. If you're trying to trim your power bill, see our list of [energy-efficient small kitchen appliances](/blog/most-energy-efficient-small-kitchen-appliances/) for other appliances that do one job with little waste, plus these ways to [reduce kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/). For scale, a rice cooker draws a few hundred watts, well under [what an Instant Pot uses](/blog/how-many-watts-does-an-instant-pot-use/).
 
 ## Rice cooker, Instant Pot, or stovetop?
 
 If you're deciding whether to keep the Oster or replace it with something that does more, here's how the options compare in practice.
 
 - **Oster rice cooker:** the simplest option. One switch, no pressure, cheap to replace. It does rice and steaming well, and not much else.
-- **Multicooker or Instant Pot:** cooks rice faster under pressure and also does stews, beans and yogurt. Read [what an Instant Pot is](/blog/what-is-an-instant-pot/) and our [Instant Pot vs pressure cooker](/blog/instant-pot-vs-pressure-cooker/) comparison if you're weighing that.
+- **Multicooker or Instant Pot:** cooks rice faster under pressure and also does stews, beans and yogurt. Read [what an Instant Pot is](/blog/what-is-an-instant-pot/), our [Instant Pot vs pressure cooker](/blog/instant-pot-vs-pressure-cooker/) comparison and our [Instant Pot vs Ninja Foodi](/blog/instant-pot-vs-ninja-foodi/) matchup if you're weighing that.
 - **Stovetop pot:** no extra appliance, but you have to watch it. Our general guide to [cooking rice in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/) also explains why the cooker is more forgiving.
 
 For most people who cook rice a few times a week, the Oster is enough.
@@ -201,3 +201,5 @@ If you only remember three things, make them these: one Oster cup for everything
 - [Easy Meal Prep Ideas for One Person in a Small Kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/)
 - [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
 - [What Is an Instant Pot?](/blog/what-is-an-instant-pot/)
+- [Vertical Storage Ideas for Small Kitchens](/blog/vertical-storage-ideas-for-small-kitchens/)
+- [How to Reduce Kitchen Energy Use in a Small Apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/)

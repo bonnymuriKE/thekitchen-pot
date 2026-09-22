@@ -101,7 +101,7 @@ The FDA's list of people at higher risk includes children, older adults, pregnan
 
 ### How to make raw cider safer at home
 
-If you've already bought an unpasteurized jug, you can heat-treat it yourself. The University of Maine Cooperative Extension says commercial cider in Maine must be heated to 155°F for 10 seconds. At home, the simplest approach is to pour it into a pot and bring it just to a gentle simmer, which is well above that, then cool it and refrigerate it. A [candy thermometer](/blog/7-best-candy-thermometer/) clipped to the side takes the guesswork out if you want to hit a number. A heavy [stockpot with a lid](/blog/best-stockpot-with-a-lid/) is handy for a full gallon.
+If you've already bought an unpasteurized jug, you can heat-treat it yourself. The University of Maine Cooperative Extension says commercial cider in Maine must be heated to 155°F for 10 seconds. At home, the simplest approach is to pour it into a pot and bring it just to a gentle simmer, which is well above that, then cool it and refrigerate it. A [candy thermometer](/blog/7-best-candy-thermometer/) clipped to the side takes the guesswork out if you want to hit a number, and it gets washed the same way you would [clean a meat thermometer](/blog/how-to-clean-a-meat-thermometer/). A heavy [stockpot with a lid](/blog/best-stockpot-with-a-lid/) is handy for a full gallon.
 
 Heat does change the flavor a little, making it taste slightly cooked. For hot mulled cider that doesn't matter at all.
 
@@ -136,7 +136,7 @@ If you like fresh juice but want to keep the fiber, blending instead of juicing 
 
 Three other drinks borrow the word and cause a lot of confusion.
 
-**Hard cider** is apple juice that's been fermented so the sugar turns into alcohol. In the US it's always labeled "hard." In the UK, Ireland, Australia and much of Europe, plain "cider" means this alcoholic drink, and what Americans call cider would just be cloudy apple juice. If a British recipe calls for a cup of cider, it means hard cider. Keep a few cans cold in a small [beverage fridge](/blog/best-mini-fridge-for-beer/) if you cook with it often.
+**Hard cider** is apple juice that's been fermented so the sugar turns into alcohol. In the US it's always labeled "hard." In the UK, Ireland, Australia and much of Europe, plain "cider" means this alcoholic drink, and what Americans call cider would just be cloudy apple juice. If a British recipe calls for a cup of cider, it means hard cider. Keep a few cans cold in a small [beverage fridge](/blog/best-mini-fridge-for-beer/) if you cook with it often, or in one of the [compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/).
 
 **Sparkling cider** is non-alcoholic carbonated apple juice, the kind that comes in a champagne-style bottle for holidays. It's pasteurized and shelf-stable.
 
@@ -160,7 +160,7 @@ In most recipes, apple juice and apple cider are interchangeable one for one. Th
 
 A few tips for cooking with them:
 
-- **Reduce it for more flavor.** Simmering cider or juice until it's reduced by half or more concentrates the apple flavor and makes a syrupy base for glazes and donuts. A wide pan reduces faster than a tall pot.
+- **Reduce it for more flavor.** Simmering cider or juice until it's reduced by half or more concentrates the apple flavor and makes a syrupy base for glazes and donuts. A wide [sauté pan](/blog/best-saute-pan/) reduces faster than a tall pot.
 - **Pair it with pork.** Apple and pork are a classic match. A splash of cider in the pan after [oven-cooked sausages](/blog/how-to-cook-sausages-in-the-oven/) makes a quick sauce.
 - **Balance with acid.** If a recipe tastes flat after swapping juice for cider, a little lemon juice fixes it. Our guide on [how much juice is in one lemon](/blog/how-much-juice-is-in-one-lemon/) helps you measure without guessing, and a [handheld lemon squeezer](/blog/how-to-use-a-lemon-juicer/) keeps seeds out of your pot.
 - **Measure carefully when scaling.** Cider jugs are usually sold by the half gallon or gallon. If a batch recipe uses quarts, here's [how many ounces are in a quart](/blog/how-many-ounces-in-a-quart/).
@@ -181,10 +181,10 @@ These are general guides from producers and food writers; the date on your bottl
 Some storage habits that help:
 
 - **Keep cider cold.** The University of Maine extension says cider should be stored at 40°F or below and not left at room temperature for more than two hours.
-- **Freeze extra.** Cider freezes well. Leave room at the top of the container for expansion, since liquid grows as it freezes. Sturdy [airtight containers](/blog/best-airtight-food-storage-containers/) or freezer-safe jars work well.
+- **Freeze extra.** Cider freezes well, as do plenty of other staples people assume they can't freeze, like the cream cheese in our guide to [freezing cream cheese](/blog/can-you-freeze-cream-cheese/). Leave room at the top of the container for expansion, since liquid grows as it freezes. Sturdy [airtight containers](/blog/best-airtight-food-storage-containers/) or freezer-safe jars work well.
 - **Know the warning signs.** Darkening, foam, fizz or a sour, boozy smell means it has started fermenting. Toss it.
 
-If fridge space is tight, a gallon jug takes up a lot of room. Splitting it into smaller bottles and freezing half is easier than shuffling everything else around, and these tips for [organizing a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) help with the rest.
+If fridge space is tight, a gallon jug takes up a lot of room, even in a roomy [side-by-side refrigerator](/blog/best-side-by-side-refrigerator/). Splitting it into smaller bottles and freezing half is easier than shuffling everything else around, and these tips for [organizing a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) and these [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) help with the rest.
 
 ## Making Your Own Fresh Cider
 
@@ -192,7 +192,7 @@ Pressing cider at home is a fun fall project, and you don't need an orchard pres
 
 1. **Pick firm, fresh apples.** Skip bruised or rotting fruit, and never use apples picked up off the ground. The University of Maine lists using dropped apples as a clear "don't," because they're more likely to carry harmful bacteria.
 2. **Wash everything.** Scrub the apples under running water, and clean the juicer parts with hot soapy water before you start.
-3. **Core and cut the apples** to fit your machine. An [electric apple peeler and corer](/blog/best-electric-apple-peeler-corer-slicer/) speeds this up if you're doing a lot.
+3. **Core and cut the apples** to fit your machine. A sharp blade from a [knife set under $100](/blog/best-knife-set-under-100/) or one of the [best mandoline slicers](/blog/best-mandoline-slicers/) handles a few pounds, and an [electric apple peeler and corer](/blog/best-electric-apple-peeler-corer-slicer/) speeds this up if you're doing a lot.
 4. **Juice them** and pour the result straight into a clean container. Don't strain it if you want cider; strain it through a fine cloth if you want something closer to juice.
 5. **Heat it if anyone at higher risk will drink it,** following the simmer method above.
 6. **Refrigerate right away** and drink it within a few days.
@@ -214,3 +214,5 @@ Pick up a jug of pasteurized cider in the fall for mulling, braising and drinkin
 - [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
 - [How Long Does Chicken Last in the Fridge?](/blog/how-long-does-chicken-last-in-the-fridge/)
 - [Easy Meal Prep Ideas for One Person in a Small Kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/)
+- [How to Use a Lemon Juicer](/blog/how-to-use-a-lemon-juicer/)
+- [Small Kitchen Cabinet Organization Ideas](/blog/small-kitchen-cabinet-organization-ideas/)

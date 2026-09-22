@@ -98,7 +98,7 @@ This is where most kitchen measuring mix-ups happen. The word "ounce" is used fo
 - **Fluid ounces (fl oz)** measure **volume**, meaning how much space something takes up. Use them for water, milk, stock, oil and other liquids. A liquid measuring cup measures fluid ounces.
 - **Ounces (oz)** measure **weight**. A pound is 16 ounces. A kitchen scale measures ounces.
 
-When you ask how many ounces are in a quart, the answer of 32 is about **fluid ounces**. A quart of anything, whether it's water or popcorn, holds 32 fluid ounces of space. But a quart of flour and a quart of honey weigh very different amounts.
+When you ask how many ounces are in a quart, the answer of 32 is about **fluid ounces**. A quart of anything, whether it's water or [popcorn](/blog/best-hot-air-popcorn-popper/), holds 32 fluid ounces of space. But a quart of flour and a quart of honey weigh very different amounts.
 
 Water is the handy exception where the two line up closely. One cup of water (8 fluid ounces) weighs a little over 8 ounces. That's where the old saying "a pint's a pound the world around" comes from. It's close enough for water and milk, but it falls apart for most other ingredients.
 
@@ -116,7 +116,7 @@ Here's what a quart (4 cups) of common ingredients weighs, using the cup weights
 | Confectioners' sugar | About 16 oz (452 g) | About 1 lb |
 | Rolled oats | About 12.5 oz (356 g) | About 0.8 lb |
 
-Look at the flour and sugar rows. Same quart, but the sugar weighs more than 1.5 times as much. That's why bakers prefer a scale for dry ingredients. If you're short on space, a slim [digital kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=kitchenpot-20) takes up about as much room as a cutting board and fits in a drawer. Our guide to [space-saving baking tool essentials](/blog/space-saving-baking-tool-essentials/) explains why it's one of the most useful tools in a small kitchen.
+Look at the flour and sugar rows. Same quart, but the sugar weighs more than 1.5 times as much. That's why bakers prefer a scale for dry ingredients. If you're short on space, a slim [digital kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=kitchenpot-20) takes up about as much room as a cutting board and fits in a drawer. Our guide to [space-saving baking tool essentials](/blog/space-saving-baking-tool-essentials/) explains why it's one of the most useful tools in a small kitchen, and our rundown of [compact baking sheet and pan sizes](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) does the same for the pans those ingredients go into.
 
 ## US Liquid Quart vs US Dry Quart vs UK Quart
 
@@ -172,14 +172,14 @@ When you're scaling a recipe way down, you often need to go from quarts all the 
 
 So if you're dividing a 1-quart recipe by 8 to make a single serving, you'd use 1/2 cup, which is 8 tablespoons or 4 fluid ounces.
 
-Some small ingredients are easier to handle by the piece. For citrus, our guide to [how much juice is in one lemon](/blog/how-much-juice-is-in-one-lemon/) tells you how many lemons you need for a cup or a quart of lemonade.
+Some small ingredients are easier to handle by the piece. For citrus, our guide to [how much juice is in one lemon](/blog/how-much-juice-is-in-one-lemon/) tells you how many lemons you need for a cup or a quart of lemonade, and [using a lemon juicer](/blog/how-to-use-a-lemon-juicer/) gets more out of each one.
 
 ## Where You'll See Quarts in the Kitchen
 
 Quarts aren't just a recipe unit. They show up all over cookware and appliances, and knowing the size helps you buy the right gear.
 
 - **Pots and pans.** Saucepans, sauté pans and stockpots are sold by quart capacity. A 2-quart saucepan holds 8 cups, while an 8-quart stockpot holds 2 gallons. Our guides to the [best sauté pans with lids](/blog/best-saute-pan/) and [stockpots with lids](/blog/best-stockpot-with-a-lid/) list capacities for each pick.
-- **Pressure cookers and multicookers.** The Instant Pot comes in sizes like 3, 6 and 8 quarts. If you're new to them, start with [what an Instant Pot is](/blog/what-is-an-instant-pot/), then compare the [Instant Pot vs a regular pressure cooker](/blog/instant-pot-vs-pressure-cooker/).
+- **Pressure cookers and multicookers.** The Instant Pot comes in sizes like 3, 6 and 8 quarts. If you're new to them, start with [what an Instant Pot is](/blog/what-is-an-instant-pot/), then compare the [Instant Pot vs a regular pressure cooker](/blog/instant-pot-vs-pressure-cooker/). Bigger pots also draw more power, as our look at [how many watts an Instant Pot uses](/blog/how-many-watts-does-an-instant-pot-use/) shows.
 - **Air fryers.** Basket air fryers are also sized in quarts. See our picks for the [best air fryers under $100](/blog/best-air-fryers-under-100/).
 - **Pitchers and drink makers.** Iced tea makers, blender jars and pitchers often list quarts or ounces. Our reviews of the [best iced tea makers](/blog/best-iced-tea-maker/) and [best blenders for smoothies](/blog/best-blenders-for-smoothies/) cover capacity.
 - **Food storage.** Quart-size deli containers and freezer bags are a kitchen staple for soups, stock and leftovers. Our list of the [best airtight food storage containers](/blog/best-airtight-food-storage-containers/) includes sets in quart sizes.
@@ -196,7 +196,7 @@ A few ways to make quart-based recipes work:
 - **Use a small multicooker.** A 3-quart pressure cooker or rice cooker is plenty for one or two people and takes up much less counter space. Our list of the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) covers compact options.
 - **Plan your prep around quart batches.** One quart of cooked grains, beans or soup is about four meals. Our [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) show how to rotate them through the week.
 
-Measuring cups and spoons don't need a drawer of their own, either. Nesting sets and a single 4-cup jug cover every conversion in this guide. Here's [how to organize kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) so they're easy to grab.
+Measuring cups and spoons don't need a drawer of their own, either. Nesting sets and a single 4-cup jug cover every conversion in this guide. Here's [how to organize kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) so they're easy to grab, plus [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) for the quart containers and jugs themselves.
 
 ## Common Quart Conversion Mistakes
 
@@ -216,7 +216,7 @@ These come up constantly, especially with ingredients sold in quart cartons:
 - **Milk and cream:** A quart of milk is 4 cups. A pint of heavy cream is 2 cups. If you're out, our guide to the [best substitutes for whole milk](/blog/best-substitutes-for-whole-milk/) lists swaps that work cup for cup.
 - **Coconut milk:** Most cans are smaller than a pint, so a quart-based curry needs more than one can. Here are the [best coconut milk substitutes](/blog/best-coconut-milk-substitute/) if you run short.
 - **Oil for frying:** Deep-frying recipes often call for a quart or two of oil. That's 4 to 8 cups. For lighter cooking, see the [best oils for air frying](/blog/best-oil-for-air-fryer/).
-- **Water for rice:** Rice cookers use their own cups, which are smaller than a US cup. Our guide on [how to cook rice in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/) explains the difference.
+- **Water for rice:** Rice cookers use their own cups, which are smaller than a US cup. Our guide on [how to cook rice in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/) explains the difference, and our picks for the [best rice cooker for brown rice](/blog/best-rice-cooker-for-brown-rice/) list capacities in cups.
 
 ## The Bottom Line on Ounces in a Quart
 
@@ -233,3 +233,4 @@ Keep a 4-cup liquid measuring cup handy, remember that fluid ounces measure spac
 - [Best Substitutes for Whole Milk](/blog/best-substitutes-for-whole-milk/)
 - [How to Cook Rice in a Rice Cooker](/blog/how-to-cook-rice-in-a-rice-cooker/)
 - [Easy Meal Prep Ideas for One Person in a Small Kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/)
+- [How to Organize a Small Kitchen with No Pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/)

@@ -198,9 +198,9 @@ The bottom and sides of a griddle collect splatter too, and it bakes on the same
 - For immersible griddles, wash the underside at the same time as the top.
 - For non-immersible ones, wipe the base with a damp soapy cloth, then a clean damp cloth, then dry.
 - For painted or plastic exteriors, skip scouring powders. They can scratch or dull the finish.
-- For water spots, a cloth with a little diluted white vinegar works well. Dry right after.
+- For water spots, a cloth with a little diluted white vinegar works well, the same trick behind [cleaning an electric kettle](/blog/how-to-clean-an-electric-kettle/). Dry right after.
 
-Be careful with the dishwasher. Presto's 22-inch griddle manual says not to wash it in the dishwasher because the caustic detergent will likely discolor the bottom. Its Cool-Touch Griddle/Warmer Plus, on the other hand, is dishwasher safe once the control is removed, according to America's Test Kitchen. Same brand, different rules, which is why checking your own manual matters.
+Be careful with the dishwasher. Presto's 22-inch griddle manual says not to wash it in the dishwasher because the caustic detergent will likely discolor the bottom. Its Cool-Touch Griddle/Warmer Plus, on the other hand, is dishwasher safe once the control is removed, according to America's Test Kitchen. Same brand, different rules, which is why checking your own manual matters. And if the dishwasher itself is leaving a film on everything, start with [how to clean a dishwasher](/blog/how-to-clean-a-dishwasher/).
 
 ## Mistakes That Ruin an Electric Griddle
 
@@ -223,7 +223,7 @@ A [set of metal spatulas](/blog/best-metal-spatula-set/) is great for cast iron 
 
 A clean surface isn't just about looks. Grease buildup acts like a thin layer of insulation and glue at the same time. Food sticks, pancakes brown unevenly, and old oil starts to smoke and give food a stale taste.
 
-Nonstick coatings also last longer when you care for them. If you want to know more about how these coatings work and why abrasives hurt them, our explainer on [what nonstick cookware is](/blog/what-is-nonstick-cookware/) covers the basics. Newer griddles like Presto's 22-inch model use a ceramic nonstick surface, and the same gentle care applies. Here's more on [how to clean a ceramic pan](/blog/how-to-clean-ceramic-pan/) if you want to compare.
+Uncoated pans have their own routine, which our guides to [cleaning stainless steel pans](/blog/how-to-clean-stainless-steel-pans/) and [cleaning hard anodized cookware](/blog/how-to-clean-hard-anodized-cookware/) walk through. Nonstick coatings also last longer when you care for them. If you want to know more about how these coatings work and why abrasives hurt them, our explainer on [what nonstick cookware is](/blog/what-is-nonstick-cookware/) covers the basics. Newer griddles like Presto's 22-inch model use a ceramic nonstick surface, and the same gentle care applies. Here's more on [how to clean a ceramic pan](/blog/how-to-clean-ceramic-pan/) if you want to compare.
 
 ## Cleaning an Electric Griddle in a Small Kitchen
 
@@ -232,19 +232,19 @@ A 22-inch griddle is a big thing to wrangle in a small apartment kitchen, especi
 - **Clean it where it sits.** The paper-towel wipe, the soapy towel soak and Presto's detergent method all happen right on the counter. You don't need to fit the griddle in the sink at all.
 - **Remove the handles.** Some models, like Presto's 22-inch griddle, have handles that come off without tools. That makes the griddle easier to wash and slimmer to store.
 - **Use a sheet pan as a tray.** Set the griddle's drip tray on a rimmed sheet pan while you carry it to the trash so grease doesn't drip across the floor.
-- **Dry and store it standing up.** Once it's fully dry, slide the griddle upright into a cabinet or next to the fridge. These [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) show how to make room for flat, bulky appliances.
+- **Dry and store it standing up.** Once it's fully dry, slide the griddle upright into a cabinet or next to the fridge. These [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) show how to make room for flat, bulky appliances, and the racks used to [store pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) hold a griddle on edge just as well.
 - **Don't leave it on the counter.** A griddle you only use on weekends takes up prime prep space. Our guide to [countertop organization in a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) covers what's worth leaving out and what isn't.
 
-If you cook mostly for yourself, a big griddle may not be the best fit at all. A compact grill or a good skillet can do the same job in less space. See our picks for [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/), or check out a stovetop [griddle pan for pancakes](/blog/best-griddle-pan-for-pancakes/) that stores in a drawer.
+If you cook mostly for yourself, a big griddle may not be the best fit at all. A compact grill or a good skillet can do the same job in less space. See our picks for [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/), or check out a stovetop [griddle pan for pancakes](/blog/best-griddle-pan-for-pancakes/) that stores in a drawer, once you've made room with these tips on [organizing kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/).
 
 ## Cleaning Similar Countertop Appliances
 
-The same rules (unplug first, keep water out of the electrics, protect the nonstick) apply to most countertop cookers. If you have other appliances that need attention:
+The same rules (unplug first, keep water out of the electrics, protect the nonstick) apply to most countertop cookers, right down to a [2-slice toaster](/blog/best-2-slice-toaster/) and its crumb tray. If you have other appliances that need attention:
 
 - A [panini press](/blog/best-panini-press-for-home-use/) cleans much like a griddle, with the same paper-towel-while-warm trick.
 - A [waffle maker with removable plates](/blog/best-waffle-maker-with-removable-plates/) is easier to deep clean than one with fixed plates.
-- Air fryer baskets build up the same sticky oil film, and this guide on [how to clean an air fryer basket](/blog/how-to-clean-an-air-fryer-basket/) covers it.
-- An [electric skillet](/blog/what-can-i-cook-in-an-electric-skillet/) usually has a removable probe control too, so it's cleaned almost exactly like a griddle.
+- Air fryer baskets, including those on the [air fryers under $100](/blog/best-air-fryers-under-100/), build up the same sticky oil film, and this guide on [how to clean an air fryer basket](/blog/how-to-clean-an-air-fryer-basket/) covers it.
+- An [electric skillet](/blog/what-can-i-cook-in-an-electric-skillet/) usually has a removable probe control too, so it's cleaned almost exactly like a griddle. The stovetop versions are sorted out in our look at the [difference between a skillet and a frying pan](/blog/difference-between-skillet-and-frying-pan/).
 
 ## When to Replace Your Electric Griddle
 
@@ -255,7 +255,7 @@ Cleaning can fix grease, stains and stickiness. It can't fix damage. It's time f
 - The heat control no longer holds a steady temperature, or it sparks, smells burnt or has a damaged cord.
 - The surface stays sticky even after the detergent method and food sticks badly every time.
 
-If you're shopping for a replacement, look for a model with a removable heat control or removable plates. Either one makes cleaning far easier. If you'd rather cook on the stove, a good pan from our list of the [best nonstick pans](/blog/best-nonstick-pans-with-buying-guide/) can handle eggs and pancakes for two without taking up counter space.
+If you're shopping for a replacement, look for a model with a removable heat control or removable plates. Either one makes cleaning far easier, and our roundup of the [most energy-efficient small kitchen appliances](/blog/most-energy-efficient-small-kitchen-appliances/) is worth a look while you compare. If you'd rather cook on the stove, a good pan from our list of the [best nonstick pans](/blog/best-nonstick-pans-with-buying-guide/) can handle eggs and pancakes for two without taking up counter space.
 
 ## Related Guides
 
@@ -266,3 +266,5 @@ If you're shopping for a replacement, look for a model with a removable heat con
 - [How to Clean an Air Fryer Basket](/blog/how-to-clean-an-air-fryer-basket/)
 - [Small Kitchen Cabinet Organization Ideas](/blog/small-kitchen-cabinet-organization-ideas/)
 - [Best Small Kitchen Appliances for Cooking for One](/blog/best-small-kitchen-appliances-for-cooking-for-one/)
+- [How to Clean a Dishwasher](/blog/how-to-clean-a-dishwasher/)
+- [How to Organize Kitchen Drawers in a Small Kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/)

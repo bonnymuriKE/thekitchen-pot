@@ -67,7 +67,7 @@ You don't need special equipment. Most of this is already under your sink.
 | Unscented liquid chlorine bleach | Optional sanitizing solution (1 tablespoon per gallon of water) | Rinse well afterward |
 | Baking soda | Scrubbing off burnt-on grease from leave-in probes | Mix 3 parts soda to 1 part water |
 
-A small pack of alcohol prep pads is the most useful extra. They take up almost no room, and you can tear one open at the grill or on a camping trip when there's no sink nearby.
+A small pack of alcohol prep pads is the most useful extra. They take up almost no room, and you can tear one open at the grill or on a camping trip alongside your [camping cookware](/blog/best-camping-cookware/) when there's no sink nearby.
 
 ## How to Clean a Meat Thermometer Step by Step
 
@@ -135,7 +135,7 @@ ThermoWorks' care guide for its ChefAlarm and DOT probes is clear: don't put the
 Here's how to clean one safely:
 
 1. Unplug the probe from the base unit.
-2. Let it cool completely. After a long smoke, the cable can be hot for a while.
+2. Let it cool completely, or handle it with [heat-resistant gloves](/blog/10-best-heat-resistant-gloves-for-cooking/). After a long smoke, the cable can be hot for a while.
 3. Wipe the probe and cable with a damp cloth and a kitchen cleaner or a little dish soap.
 4. For stubborn, sticky smoke residue on the metal, rub it with a paste of baking soda and water, then wipe it off.
 5. Rinse the metal probe under the tap if you like, holding it tip-down so water runs away from the cable joint.
@@ -164,7 +164,7 @@ Analog dial thermometers are simple and don't have batteries, which makes them t
 3. Rinse the stem and dry the whole thing with a towel.
 4. Store it with its plastic sleeve on, if it came with one.
 
-Oven-safe dial thermometers are designed to stay in a roast while it cooks. Once they come out, grease on the stem hardens quickly, so wash them as soon as they're cool enough to handle.
+Oven-safe dial thermometers are designed to stay in a roast while it cooks, including the big cuts you'd [cook in a roaster oven](/blog/what-can-you-cook-in-a-roaster-oven/). Once they come out, grease on the stem hardens quickly, so wash them as soon as they're cool enough to handle.
 
 Dial thermometers also share a lot with candy thermometers. If you have both, the same care applies, and our list of the [best candy thermometers](/blog/7-best-candy-thermometer/) explains the difference between the two.
 
@@ -182,7 +182,7 @@ Most thermometers that die early are killed by the same few habits. Here's what 
 
 - **Soaking the whole thermometer.** Unless it's rated IP67, the body shouldn't sit in water. Even waterproof models only need a quick rinse.
 - **Leaving an instant-read in the oven.** Instant-read thermometers aren't built to stay in a hot oven or grill. ThermoWorks warns against leaving them in ovens, grills, smokers, or on hot surfaces, and lists 572°F as the top limit for the Thermapen probe.
-- **Laying a probe cable on the grill grate or oven rack.** The hot metal can melt or damage the cable and the joint.
+- **Laying a probe cable on the grill grate or oven rack.** The hot metal can melt or damage the cable and the joint, and it's an easy mistake when you're also juggling [a smoker box on a gas grill](/blog/how-to-use-a-smoker-box-on-a-gas-grill/).
 - **Using strong alcohol on the display.** Stick to a damp, soapy cloth for plastic parts. High-strength alcohol is fine on the metal probe but can cloud or damage plastic over time.
 - **Storing it wet.** Moisture trapped in a folding hinge or a case leads to corrosion and fogged screens.
 - **Scrubbing the tip with steel wool.** You don't need anything that harsh. A sponge and baking soda paste handle even smoky residue.
@@ -211,7 +211,7 @@ A clean thermometer is only useful if you're aiming for the right number. These 
 | Beef, pork, lamb and veal steaks, chops and roasts | 145°F | 3 minutes |
 | Egg dishes | 160°F | None needed |
 
-Chicken breasts vary a lot in size and thickness, which is exactly why checking the temperature beats trusting the recipe's timer. Our guide to [how much a chicken breast weighs](/blog/how-much-does-a-chicken-breast-weigh/) shows how big that range can be. And when you're warming up leftovers, a probe is just as handy. Our guide to [reheating chicken wings](/blog/how-to-reheat-chicken-wings/) covers getting them hot all the way through without drying them out, and [cooking sausages in the oven](/blog/how-to-cook-sausages-in-the-oven/) shows when to pull them.
+Chicken breasts vary a lot in size and thickness, which is exactly why checking the temperature beats trusting the recipe's timer. Our guide to [how much a chicken breast weighs](/blog/how-much-does-a-chicken-breast-weigh/) shows how big that range can be. And when you're warming up leftovers, from chicken to [reheated pizza](/blog/how-to-reheat-pizza/), a probe is just as handy. Our guide to [reheating chicken wings](/blog/how-to-reheat-chicken-wings/) covers getting them hot all the way through without drying them out, and [cooking sausages in the oven](/blog/how-to-cook-sausages-in-the-oven/) shows when to pull them.
 
 ## Storing a Meat Thermometer in a Small Kitchen
 
@@ -219,8 +219,8 @@ A thermometer is small, but it's also delicate. Tossed loose into a crowded uten
 
 A few small-kitchen habits keep it clean and ready:
 
-- **Give it a dedicated spot in a drawer.** A narrow tray or divider in your utensil drawer keeps the probe from rattling around with knives and whisks. These ideas for [organizing kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) show how to carve out a slot for small tools.
-- **Put it on the wall.** Many instant-read thermometers have a magnet on the back. Stick it on the fridge or a [magnetic knife strip](/blog/best-magnetic-knife-strip/) so it's off the counter and within reach. ThermoWorks also suggests a zip case or wall bracket to protect the probe.
+- **Give it a dedicated spot in a drawer.** A narrow tray or divider in your utensil drawer keeps the probe from rattling around with knives and whisks. These ideas for [organizing kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) show how to carve out a slot for small tools, and these [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) do the same for the cupboard above it.
+- **Put it on the wall.** Many instant-read thermometers have a magnet on the back. Stick it on the fridge or a [magnetic knife strip](/blog/best-magnetic-knife-strip/) so it's off the counter and within reach, which fits with these [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/). ThermoWorks also suggests a zip case or wall bracket to protect the probe.
 - **Use the case for probes.** Keep leave-in probes coiled loosely in their case rather than wound tight around the base.
 - **Store it clean and dry.** A small pack of alcohol pads stored right next to the thermometer makes cleaning the path of least resistance.
 
@@ -230,7 +230,7 @@ If you're setting up a small kitchen from scratch, a thermometer earns its drawe
 
 Grilling on a balcony or cooking at a campsite makes cleaning harder, because there's no sink right next to you. That's exactly when cross-contamination tends to happen, since it's tempting to use the same probe on raw burgers and then cooked ones.
 
-Keep a few alcohol pads and paper towels with your grill gear. Wipe the probe between raw and cooked checks, then give it a proper wash inside once you're done. Our guide to [balcony grilling safety](/blog/balcony-grilling-safety-tips-and-rules/) covers the other rules to follow when you're grilling in a tight space, and this list of [small-space grilling accessories you actually need](/blog/small-space-grilling-accessories-you-actually-need/) includes a thermometer for good reason.
+Keep a few alcohol pads and paper towels with your grill gear. Wipe the probe between raw and cooked checks, then give it a proper wash inside once you're done. Our guide to [balcony grilling safety](/blog/balcony-grilling-safety-tips-and-rules/) covers the other rules to follow when you're grilling in a tight space, this walkthrough on [setting up a small patio for grilling](/blog/how-to-set-up-a-small-patio-for-grilling/) shows where to put a prep surface, and this list of [small-space grilling accessories you actually need](/blog/small-space-grilling-accessories-you-actually-need/) includes a thermometer for good reason.
 
 ## When to Replace a Meat Thermometer
 
@@ -254,5 +254,7 @@ Knowing how to clean a meat thermometer comes down to one habit: wash the probe 
 - [How Long Does Chicken Last in the Fridge](/blog/how-long-does-chicken-last-in-the-fridge/)
 - [How to Clean Stainless Steel Pans](/blog/how-to-clean-stainless-steel-pans/)
 - [How to Clean an Air Fryer Basket](/blog/how-to-clean-an-air-fryer-basket/)
+- [How to Clean a Ceramic Pan](/blog/how-to-clean-ceramic-pan/)
+- [How to Clean an Electric Griddle](/blog/how-to-clean-electric-griddle/)
 - [Small Kitchen Gadgets Worth Buying When You Cook for One](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/)
 - [How to Organize Kitchen Drawers in a Small Kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/)

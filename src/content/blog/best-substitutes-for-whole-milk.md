@@ -151,7 +151,7 @@ These are the most forgiving. King Arthur found that in quick breads, muffins an
 - **Dairy-free:** any unsweetened plant milk, one for one.
 - **Tang welcome:** yogurt, sour cream or buttermilk.
 
-If you bake often in a cramped space, keeping a can of evaporated milk and a bag of dry milk means one fewer trip to the store. These [space-saving baking tools](/blog/space-saving-baking-tool-essentials/) and tips on [baking in a small kitchen without extra counter space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/) help with the rest. And if your cookies come out uneven after swapping ingredients, the oven might be the culprit; see [how to bake cookies in a convection oven](/blog/how-to-bake-cookies-in-a-convection-oven/).
+If you bake often in a cramped space, keeping a can of evaporated milk and a bag of dry milk means one fewer trip to the store. These [space-saving baking tools](/blog/space-saving-baking-tool-essentials/) and tips on [baking in a small kitchen without extra counter space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/) help with the rest. And if your cookies come out uneven after swapping ingredients, the oven might be the culprit; see [how to bake cookies in a convection oven](/blog/how-to-bake-cookies-in-a-convection-oven/) or our picks for the [best small ovens and toaster ovens for baking in small kitchens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/). A decent pan matters too, and our guide to [bakeware sets for beginners](/blog/best-bakeware-sets/) covers the basics.
 
 ### Yeast bread and rolls
 
@@ -181,15 +181,15 @@ For dairy-free sauces, choose unsweetened soy or oat milk and taste as you go, s
 
 ### Pancakes and waffles
 
-Any milk works, and so does buttermilk, yogurt thinned with water, or even water plus melted butter. If you're making buttermilk pancakes without buttermilk, Utah State University Extension suggests 1 tablespoon of vinegar or lemon juice plus enough milk to make 1 cup, left to stand for 5 minutes. King Arthur's comparison notes that non-dairy milks can be soured the same way when a recipe calls for buttermilk. Our guides to the [best griddle pan for pancakes](/blog/best-griddle-pan-for-pancakes/) and [waffle makers with removable plates](/blog/best-waffle-maker-with-removable-plates/) cover the gear.
+Any milk works, and so does buttermilk, yogurt thinned with water, or even water plus melted butter. If you're making buttermilk pancakes without buttermilk, Utah State University Extension suggests 1 tablespoon of vinegar or lemon juice plus enough milk to make 1 cup, left to stand for 5 minutes. One lemon usually covers it, as our note on [how much juice is in one lemon](/blog/how-much-juice-is-in-one-lemon/) explains. King Arthur's comparison notes that non-dairy milks can be soured the same way when a recipe calls for buttermilk. Our guides to the [best griddle pan for pancakes](/blog/best-griddle-pan-for-pancakes/) and [waffle makers with removable plates](/blog/best-waffle-maker-with-removable-plates/) cover the gear.
 
 ### Coffee and drinking
 
-For coffee, half-and-half on its own is the classic richer option. Among plant milks, oat milk is popular because it's creamy, and many brands sell "barista" versions made to steam and foam. If you pull shots at home, our guide to [home espresso machines](/blog/best-espresso-machines/) covers models with steam wands.
+For coffee, half-and-half on its own is the classic richer option. Among plant milks, oat milk is popular because it's creamy, and many brands sell "barista" versions made to steam and foam. If you pull shots at home, our guide to [home espresso machines](/blog/best-espresso-machines/) covers models with steam wands, and our picks for the [best coffee maker with a grinder](/blog/best-coffee-maker-with-a-grinder/) suit drip drinkers.
 
 For drinking straight or pouring over cereal, it's all about taste. Soy is closest nutritionally. Almond is lightest. Oat is creamiest. Our walkthrough of [bulletproof coffee without a blender](/blog/how-to-make-bulletproof-coffee-without-blender/) is another way to get creaminess from fat instead of milk.
 
-For protein shakes and smoothies, soy milk keeps the protein up. A good [blender for protein shakes](/blog/best-blender-for-protein-shakes/) handles thicker plant milks without trouble.
+For protein shakes and smoothies, soy milk keeps the protein up. A good [blender for protein shakes](/blog/best-blender-for-protein-shakes/) handles thicker plant milks without trouble, and our roundup of [blenders for smoothies](/blog/best-blenders-for-smoothies/) covers fruit-heavy blends.
 
 ## Swaps That Tend to Disappoint
 

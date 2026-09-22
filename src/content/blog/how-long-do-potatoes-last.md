@@ -33,7 +33,7 @@ faq:
   - question: "Can you freeze raw potatoes?"
     answer: "Not well. Penn State Extension explains that freezing separates the water from the starch in raw potatoes, so they turn watery when reheated. Blanching them first, or freezing them already cooked, works much better. Small waxy potatoes can be blanched whole, homemade fries can be par-cooked, and mashed potatoes freeze best with butter or cream mixed in."
 ---
-It depends on two things: whether the potato is raw or cooked, and how cool and dark you can keep it. A raw potato on a warm counter lasts days to a couple of weeks. The same potato in a cool cupboard can last months. Once it's cooked, the clock drops to a few days.
+It depends on two things: whether the potato is raw or cooked, and how cool and dark you can keep it. A raw potato on a warm [counter](/blog/countertop-organization-ideas-for-a-small-kitchen/) lasts days to a couple of weeks. The same potato in a cool cupboard can last months. Once it's cooked, the clock drops to a few days.
 
 Here's how long potatoes last in each situation, based on guidance from USDA, university extension services and the potato industry.
 
@@ -64,7 +64,7 @@ Each condition does its own job:
 - **Dry** prevents mold and rot. A damp potato spoils fast.
 - **Ventilated** lets moisture escape. Poison Control advises against sealed containers for potatoes.
 
-Few homes have a spot that sits at exactly 45 to 50°F. An unheated basement, a cool garage shelf in autumn, or a cupboard on an outside wall gets you closer than a cabinet next to the oven or dishwasher.
+Few homes have a spot that sits at exactly 45 to 50°F. An unheated basement, a cool garage shelf in autumn, or a cupboard on an outside wall gets you closer than a cabinet next to the oven or [dishwasher](/blog/how-to-clean-a-dishwasher/).
 
 ## Should you keep potatoes in the fridge?
 
@@ -89,7 +89,7 @@ Plenty of apartments have no pantry, no basement and a cabinet or two that sit r
 - **A lower cabinet on an outside wall.** It's usually the coolest cupboard you have. Keep potatoes away from the one under the sink if there are pipes that sweat.
 - **A paper bag or breathable basket.** A brown paper grocery bag with the top loosely folded blocks light and still lets moisture out. A lidded basket with gaps works too.
 - **Away from onions.** Poison Control lists storing potatoes apart from onions among its tips, and it's a common rule in kitchens. Keeping them in separate baskets is easy.
-- **Not on top of the fridge.** The top of a fridge is warm from the compressor, and it's often bright.
+- **Not on top of the fridge.** The top of a [fridge](/blog/best-side-by-side-refrigerator/) is warm from the compressor, and it's often bright.
 
 If you're short on space, our guides to [organizing a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) and [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) show where root vegetables can live without taking over the counter. [Vertical storage](/blog/vertical-storage-ideas-for-small-kitchens/) like stacking baskets can also give onions and potatoes their own tiers.
 
@@ -101,7 +101,7 @@ One more habit: don't wash potatoes before you store them. Brush off loose dirt 
 
 Once peeled or cut, a raw potato starts to turn gray or brown as it meets the air. The common fix is to keep it under water.
 
-The Idaho Potato Commission recommends no more than 24 hours for peeled potatoes held in water. Keep the water cold, in the fridge, and add ice if you like. To help stop discoloration, the commission suggests adding about 1 tablespoon of lemon juice or white wine vinegar per gallon of water.
+The Idaho Potato Commission recommends no more than 24 hours for peeled potatoes held in water. Keep the water cold, in the fridge, and add [ice](/blog/best-ice-maker-for-home-use/) if you like. To help stop discoloration, the commission suggests adding about 1 tablespoon of [lemon juice](/blog/how-much-juice-is-in-one-lemon/) or white wine vinegar per gallon of water.
 
 This is handy for holiday cooking: peel and cut the night before, cover them with cold water in a big bowl or [stockpot with a lid](/blog/best-stockpot-with-a-lid/), and refrigerate. Drain and cook the next day. If you peel a lot of potatoes, an [electric potato peeler](/blog/best-electric-potato-peeler/) or a [mandoline slicer](/blog/best-mandoline-slicers/) speeds up the prep, and our guide on [how to use a mandoline](/blog/how-to-use-a-mandoline/) covers doing it safely.
 
@@ -114,7 +114,7 @@ Cooked potatoes fall under the USDA's standard rules for leftovers:
 3. **Eat within 3 to 4 days.**
 4. **Reheat to 165°F.** A [meat thermometer](/blog/best-meat-thermometer-for-smoking/) works just as well on a bowl of mashed potatoes as on a roast.
 
-That covers mashed, boiled, roasted, baked and fried potatoes, as well as potato salad and casseroles. Potato salad served at a picnic or barbecue falls under the same 2-hour limit (1 hour in the heat), so don't pack the leftovers home after an afternoon in the sun.
+That covers mashed, boiled, roasted, baked and fried potatoes, as well as potato salad and casseroles. Potato salad served at a picnic or [balcony barbecue](/blog/best-small-grills-for-balconies-and-patios/) falls under the same 2-hour limit (1 hour in the heat), so don't pack the leftovers home after an afternoon in the sun.
 
 Shallow [airtight food storage containers](/blog/best-airtight-food-storage-containers/) are the best way to store them. The same 3-to-4-day window applies to most cooked foods, including [cooked chicken](/blog/how-long-does-chicken-last-in-the-fridge/).
 
@@ -122,7 +122,7 @@ Shallow [airtight food storage containers](/blog/best-airtight-food-storage-cont
 
 Baked potatoes left wrapped in foil at room temperature have caused botulism outbreaks. It's rare, but serious. The University of California's Master Food Preservers explain that foil holds in moisture and warmth and keeps the potato in the danger zone, which suits *Clostridium botulinum*.
 
-Their advice is to take the foil off as soon as the potatoes come out of the oven or off the grill. If you're not eating them right away, refrigerate them unwrapped so they cool quickly, and follow the 2-hour rule.
+Their advice is to take the foil off as soon as the potatoes come out of the oven or off the [grill](/blog/best-portable-grills-for-apartment-living/). If you're not eating them right away, refrigerate them unwrapped so they cool quickly, and follow the 2-hour rule.
 
 ## Can you freeze potatoes?
 
@@ -138,7 +138,7 @@ Yes, but not raw. Penn State Extension explains that when a raw potato freezes, 
 
 About timing: the USDA says food kept frozen at 0°F stays safe indefinitely, with the months on freezer charts (2 to 6 for most leftovers) being about quality. Penn State warns that cooked potatoes lose flavor quickly in the freezer and are best within a few weeks. Safety and taste are two different clocks.
 
-A [vacuum sealer](/blog/how-to-use-a-vacuum-sealer/) helps frozen potatoes keep better by cutting down on freezer burn. For crispy fries without a fryer, see our guide to [cooking frozen french fries in an air fryer](/blog/how-to-cook-frozen-french-fries-in-an-air-fryer/), which works just as well for your own par-cooked batch.
+A [vacuum sealer](/blog/how-to-use-a-vacuum-sealer/), including the [models built for sous vide](/blog/best-vacuum-sealer-for-sous-vide/), helps frozen potatoes keep better by cutting down on freezer burn. For crispy fries without a deep fryer, an [air fryer](/blog/best-air-fryers-under-100/) does the job; see our guide to [cooking frozen french fries in an air fryer](/blog/how-to-cook-frozen-french-fries-in-an-air-fryer/), which works just as well for your own par-cooked batch.
 
 ## How to tell if potatoes have gone bad
 
@@ -150,7 +150,7 @@ Most spoiled potatoes are easy to spot. Throw a raw potato out if it:
 - **Shows mold,** fuzzy spots of any color
 - **Is badly shriveled with long sprouts**, which Iowa State flags as a potato past saving
 
-A potato that is slightly wrinkled but still firm has lost some moisture and is usually fine to eat. Small dark spots or bruises can be cut out.
+A potato that is slightly wrinkled but still firm has lost some moisture and is usually fine to eat. Small dark spots or bruises can be cut out with a [paring knife](/blog/best-knife-set-under-100/).
 
 For cooked potatoes, the rule is simpler. Past 3 to 4 days in the fridge, throw them away, even if they look and smell fine. The bacteria that cause food poisoning don't always change how food looks or smells.
 
@@ -162,7 +162,7 @@ In large amounts, they cause real symptoms. Poison Control lists vomiting, abdom
 
 Two facts matter most in the kitchen:
 
-1. **Cooking doesn't make them safe.** Both Iowa State and Poison Control say baking, boiling, frying and microwaving don't destroy glycoalkaloids.
+1. **Cooking doesn't make them safe.** Both Iowa State and Poison Control say baking, boiling, frying and [microwaving](/blog/7-best-over-the-range-microwaves/) don't destroy glycoalkaloids.
 2. **Peeling and trimming help.** Poison Control notes that peeling reduces the amount, since so much sits in and just under the skin.
 
 Here's how to decide, based on Iowa State's guidance:

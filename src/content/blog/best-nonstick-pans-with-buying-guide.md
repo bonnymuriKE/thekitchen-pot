@@ -283,7 +283,7 @@ Neither is automatically better. If you want the longest-lasting slickness for e
 
 ### Check your stovetop
 
-Aluminum pans without a steel base won't work on induction. From this list, the All-Clad, T-fal Experience, Caraway, GreenPan and Le Creuset are all induction compatible; the Tramontina Professional is not. The quick test for any pan is a fridge magnet: if it sticks firmly to the bottom, the pan will work. If you already own a pan you love that isn't induction-ready, our guide on [using non-induction cookware on an induction cooktop](/blog/how-to-use-non-induction-cookware-on-induction-cooktop/) explains the workarounds.
+Aluminum pans without a steel base won't work on induction. From this list, the All-Clad, T-fal Experience, Caraway, GreenPan and Le Creuset are all induction compatible; the Tramontina Professional is not. The quick test for any pan is a fridge magnet: if it sticks firmly to the bottom, the pan will work. If you're still shopping for the cooktop itself, our roundup of the [best induction cooktops for the money](/blog/best-induction-cooktop-for-the-money/) is a good starting point. If you already own a pan you love that isn't induction-ready, our guide on [using non-induction cookware on an induction cooktop](/blog/how-to-use-non-induction-cookware-on-induction-cooktop/) explains the workarounds.
 
 ### Pick the right size
 
@@ -293,7 +293,7 @@ Keep in mind that the size on the box is usually measured rim to rim, so the fla
 
 ### Look at the body, not just the coating
 
-The coating does the releasing, but the body controls heat. Thin stamped aluminum heats fast but can warp and develop hot spots. Hard-anodized aluminum (GreenPan, Le Creuset) and tri-ply stainless (All-Clad) resist warping better. A warped pan wobbles on a glass or induction cooktop and heats unevenly, which wears the coating faster in the hot spots. Our guide to [cleaning hard-anodized cookware](/blog/how-to-clean-hard-anodized-cookware/) covers how to keep that type of pan looking good.
+The coating does the releasing, but the body controls heat. Thin stamped aluminum heats fast but can warp and develop hot spots. Hard-anodized aluminum (GreenPan, Le Creuset) and tri-ply stainless (All-Clad) resist warping better. A warped pan wobbles on a glass or induction cooktop and heats unevenly, which wears the coating faster in the hot spots, and heavy pans need care on glass, as our guide to [protecting a glass top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/) explains. Our guide to [cleaning hard-anodized cookware](/blog/how-to-clean-hard-anodized-cookware/) covers how to keep that type of pan looking good.
 
 ### Think about oven use
 
@@ -309,9 +309,9 @@ A few habits keep you well inside the safe zone:
 2. **Use low to medium heat.** All-Clad recommends preheating its nonstick on low to moderate heat, and GreenPan and Caraway recommend low to medium or medium heat for ceramic.
 3. **Add a little fat.** A teaspoon of oil or butter protects the coating and improves browning. Caraway and GreenPan both recommend it.
 4. **Skip the broiler with PTFE.** Use a stainless or cast iron pan for broiling instead. Our [Lodge cast iron skillet review](/blog/lodge-cast-iron-skillet-review/) covers a pan that loves high heat.
-5. **Ventilate.** Run your range hood when you cook, especially in a small apartment kitchen.
+5. **Ventilate.** Run your range hood when you cook, especially in a small apartment kitchen. Our guide to the [best under-cabinet range hoods](/blog/best-under-cabinet-range-hood/) covers the compact options.
 
-Ceramic pans have higher oven ratings, but high stovetop heat still breaks down their slickness. The rule of thumb is the same for both: nonstick pans are for low and medium heat, and searing at very high heat belongs to stainless steel or cast iron.
+Ceramic pans have higher oven ratings, but high stovetop heat still breaks down their slickness. The rule of thumb is the same for both: nonstick pans are for low and medium heat, and searing at very high heat belongs to [stainless steel cookware](/blog/what-is-stainless-steel-cookware/) or cast iron.
 
 ## How Long Do Nonstick Pans Last?
 
@@ -334,7 +334,7 @@ How you treat the pan matters more than what you paid for it. These are the sign
 - **Use silicone, wood or nylon tools.** Save metal spatulas for stainless and cast iron. If you do want metal tools for other pans, our roundup of the [best metal spatula sets](/blog/best-metal-spatula-set/) has good options.
 - **Cook with a little oil or butter.** Caraway and GreenPan both recommend a small amount of fat to protect the surface.
 - **Skip abrasive scrubbers.** Steel wool and harsh powders will scratch the coating. Soak stuck-on food for a few minutes instead.
-- **Protect the surface in storage.** Stacking pans directly on top of each other scratches coatings. Put a paper towel or felt protector between them, or hang them.
+- **Protect the surface in storage.** Stacking pans directly on top of each other scratches coatings. Put a paper towel or felt protector between them, or hang them, as our guide to [organizing pots and pans](/blog/how-to-organize-pots-and-pans/) shows.
 
 That last point matters most in small kitchens, where pans get stacked tight. Our guides on [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) and [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) have space-saving ways to keep coatings scratch-free.
 
@@ -347,7 +347,7 @@ That last point matters most in small kitchens, where pans get stacked tight. Ou
 - **You want ceramic that handles induction and a very hot oven:** [GreenPan Valencia Pro 10-Inch](https://www.amazon.com/dp/B00K6G9GI0/?tag=kitchenpot-20).
 - **You're rough on pans and want the toughest coating:** [Le Creuset Toughened Nonstick PRO](https://www.amazon.com/dp/B087SHPYZ4/?tag=kitchenpot-20).
 
-A smart setup for most kitchens is one nonstick pan for eggs and delicate foods, plus a stainless or cast iron pan for searing. If you're stocking a kitchen from scratch, our checklist on [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) shows how a nonstick pan fits into a short list of essentials, and our [best griddle pans for pancakes](/blog/best-griddle-pan-for-pancakes/) roundup is worth a look if weekend breakfasts are your main use.
+A smart setup for most kitchens is one nonstick pan for eggs and delicate foods, plus a stainless or cast iron pan for searing, and learning [how to season stainless steel pans](/blog/how-to-season-stainless-steel-pans/) makes that second pan release food far better. If you're stocking a kitchen from scratch, our checklist on [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) shows how a nonstick pan fits into a short list of essentials, and our [best griddle pans for pancakes](/blog/best-griddle-pan-for-pancakes/) roundup is worth a look if weekend breakfasts are your main use.
 
 ## Related Guides
 

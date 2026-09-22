@@ -33,7 +33,7 @@ faq:
   - question: "Can you put stainless steel pans in the dishwasher?"
     answer: "Most fully stainless pans are labeled dishwasher safe, but hand washing keeps them looking better. Dishwasher detergent is harsh and can dull the finish over time, and it won't remove burnt-on food anyway. Check your pan's care instructions, since some brands with aluminum or copper exteriors say hand wash only."
 ---
-A stainless steel pan can look ruined and still be completely fine. That burnt black layer after a stir-fry, the rainbow sheen after searing a steak, the chalky white film after boiling pasta: all of it comes off. You just need to know which mess you're dealing with, because each one needs a slightly different fix.
+A stainless steel pan can look ruined and still be completely fine. That burnt black layer after a stir-fry in a [wok](/blog/best-wok-for-electric-stove/), the rainbow sheen after searing a steak, the chalky white film after boiling pasta in a [stockpot](/blog/best-stockpot-with-a-lid/): all of it comes off. You just need to know which mess you're dealing with, because each one needs a slightly different fix.
 
 This guide walks you through how to clean stainless steel pans for every common problem, from the quick wash after dinner to the pan you've been avoiding at the back of the cupboard. Almost everything here uses cheap things you probably already have: dish soap, baking soda, white vinegar, and maybe a can of Bar Keepers Friend.
 
@@ -64,7 +64,7 @@ This is the routine that keeps you from ever needing the heavy-duty methods furt
 4. **Use the scrubby side for stuck bits.** A non-scratch scrub pad handles most dried-on food. If something won't budge, fill the pan with warm soapy water and let it sit for 15 to 20 minutes, then try again.
 5. **Dry it right away.** Wipe the pan dry with a towel instead of letting it air dry. This one habit prevents most of the water spots people complain about.
 
-**A quick trick for stuck food right after cooking:** while the pan is still warm (not smoking hot), pour in a splash of water. It will sizzle and loosen the browned bits stuck to the bottom. Scrape them with a wooden spoon and you've done half the cleaning already. This is the same move cooks use to make pan sauces, called deglazing, and it works just as well when all you want is a clean pan.
+**A quick trick for stuck food right after cooking:** while the pan is still warm (not smoking hot), pour in a splash of water. It will sizzle and loosen the browned bits stuck to the bottom. Scrape them with a wooden spoon and you've done half the cleaning already. This is the same move cooks use to make pan sauces in a [sauté pan](/blog/best-saute-pan/), called deglazing, and it works just as well when all you want is a clean pan.
 
 ## Match the Mess to the Fix
 
@@ -128,7 +128,7 @@ For tints that won't fade with vinegar, a quick rub with Bar Keepers Friend will
 If your pan has chalky white spots or a cloudy film, the cause is usually one of two things:
 
 - **Hard water.** Minerals like calcium are left behind when water evaporates. You'll see this most in pans you boil water in or leave to air dry.
-- **Starch.** Boiling pasta, rice or potatoes can leave a cloudy film.
+- **Starch.** Boiling pasta, rice or [starchy potatoes](/blog/how-long-do-potatoes-last/) can leave a cloudy film.
 
 Both come off the same way:
 
@@ -147,7 +147,7 @@ The fix is to prevent more of it. Add salt only after the water is boiling, or o
 
 ## How to Clean Brown Stains and Sticky Oil Off Stainless Steel
 
-That tacky, brownish-yellow film that feels almost like varnish is oil that has been heated past its smoke point and bonded to the pan. It's the same thing that builds up on sheet pans. Regular dish soap does very little here.
+That tacky, brownish-yellow film that feels almost like varnish is oil that has been heated past its smoke point and bonded to the pan. It's the same thing that builds up on [sheet pans](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/). Regular dish soap does very little here.
 
 Your best options, from gentlest to strongest:
 
@@ -195,25 +195,25 @@ All-Clad's own [care guide](https://www.all-clad.com/care-use) specifically warn
 Most of the heavy cleaning above comes from a few cooking habits. Change these and your pans will stay cleaner with much less work.
 
 - **Preheat the pan before adding oil.** Heat the empty pan over medium for a couple of minutes, then add oil. A properly hot pan is the main reason food doesn't stick to stainless steel. A simple test: flick a few drops of water in. If they skitter around in little balls, the pan is ready.
-- **Use medium heat most of the time.** Stainless steel with an aluminum or copper core holds heat well. Cranking the burner to high usually just burns food and causes heat tint.
+- **Use medium heat most of the time.** Stainless steel with an aluminum or [copper core](/blog/all-clad-copper-core-cookware-set/) holds heat well. Cranking the burner to high usually just burns food and causes heat tint.
 - **Let meat release on its own.** When you sear chicken or steak, it sticks at first and then releases once a crust forms. If you pull it too early, it tears and leaves more behind.
 - **Salt your water after it boils.** This prevents pitting.
 - **Dry every time.** A towel dry takes 20 seconds and stops water spots.
 
-If food keeps sticking even when you do all this, try seasoning the pan lightly. It's not required like it is with cast iron, but a thin layer of polymerized oil can help. Here's [how to season stainless steel pans](/blog/how-to-season-stainless-steel-pans/) if you want to try it.
+If food keeps sticking even when you do all this, try seasoning the pan lightly. It's not required like it is with a [cast iron skillet](/blog/lodge-cast-iron-skillet-review/), but a thin layer of polymerized oil can help. Here's [how to season stainless steel pans](/blog/how-to-season-stainless-steel-pans/) if you want to try it.
 
 ## Cleaning Tips When Your Kitchen Is Small
 
-If you're working with a tiny sink and not much counter space, cleaning big pans can feel like a wrestling match. A few things make it easier:
+If you're working with a tiny sink and not much [counter space](/blog/countertop-organization-ideas-for-a-small-kitchen/), cleaning big pans can feel like a wrestling match. A few things make it easier:
 
 - **Soak in the pan, not the sink.** Fill the pan itself with warm soapy water and leave it on the stove. Your sink stays free for everything else.
 - **Clean on the stove.** The baking soda and vinegar methods both happen right on the burner, so you don't need to fit a big pan in a small sink at all.
-- **Dry and put away right away.** A wet pan on a small counter takes up space you need. Towel dry it and hang it or stack it. If storage is tight, these ideas for [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) will help, and putting a soft cloth or pan protector between stacked pans stops the bottoms from scratching the insides.
+- **Dry and put away right away.** A wet pan on a small counter takes up space you need. Towel dry it and hang it on a [pot rack](/blog/pots-and-pans-rack-reviews/) or stack it. If storage is tight, these ideas for [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) will help, and putting a soft cloth or pan protector between stacked pans stops the bottoms from scratching the insides.
 - **Keep one small tub of Bar Keepers Friend under the sink.** It handles almost every tough job on its own, so you don't need a cupboard full of different cleaners. If that cabinet is already packed, these [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) can free up room.
 
 ## Is Your Pan Actually Stainless Steel?
 
-It's worth double-checking before you scrub. Methods like Bar Keepers Friend and baking soda are great for stainless steel but can damage nonstick coatings. If your pan has a dark, smooth coated surface inside, it's not bare stainless.
+It's worth double-checking before you scrub. Methods like Bar Keepers Friend and baking soda are great for stainless steel but can damage [nonstick coatings](/blog/what-is-nonstick-cookware/). If your pan has a dark, smooth coated surface inside, it's not bare stainless.
 
 - For ceramic-coated pans, follow this guide on [how to clean a ceramic pan](/blog/how-to-clean-ceramic-pan/) instead.
 - For traditional nonstick (Teflon-style) pans, skip abrasive cleaners entirely. Our [nonstick pan buying guide](/blog/best-nonstick-pans-with-buying-guide/) covers how to care for them.
