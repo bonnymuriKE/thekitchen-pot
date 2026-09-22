@@ -18,7 +18,7 @@ tags:
   - stainless-steel-cookware
   - cleaning-cookware
 authorImageAlt: kitchenpot1
-description: "How to clean stainless steel pans the right way: burnt-on food, rainbow discoloration, white spots, brown stains and the bottom of the pan, with what to avoid."
+description: "How to clean stainless steel pans the right way, from burnt food and rainbow stains to white spots and a greasy pan bottom, using simple things you already own."
 seo: "How to clean stainless steel pans, including burnt pans, rainbow discoloration, white calcium spots, brown oil stains and the bottom of the pan. Simple steps with baking soda, vinegar and Bar Keepers Friend."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
@@ -137,7 +137,7 @@ Both come off the same way:
 3. Let it cool, pour it out, and wash with soap and water.
 4. Dry the pan with a towel.
 
-All-Clad recommends this same 1:1 vinegar and water boil for hard water spots on its cookware.
+All-Clad recommends this same 1:1 vinegar and water boil for hard water spots on its cookware. It's the same trick that clears mineral scale out of a kettle, which we walk through in [how to clean an electric kettle](/blog/how-to-clean-an-electric-kettle/).
 
 ### White pits that won't come off
 
@@ -165,7 +165,7 @@ The outside bottom of a pan collects grease splatter that gets baked on every ti
 4. Scrub in circles with a non-scratch scrub pad.
 5. Rinse, check your progress, and repeat on the darkest spots.
 
-Heavy, years-old buildup on the bottom may take a few sessions. That's normal. It's also worth knowing that a stained bottom doesn't hurt cooking performance on gas or electric coil burners. If you cook on a glass-top stove, though, keeping the base clean matters more, because baked-on residue can transfer to the glass and leave marks.
+Heavy, years-old buildup on the bottom may take a few sessions. That's normal. A stained bottom doesn't hurt cooking performance on gas or electric coil burners. If you cook on a glass-top stove, though, keeping the base clean matters more, because baked-on residue can transfer to the glass and leave marks. The same goes for heavy pans in general, as covered in our guide to [protecting a glass-top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/).
 
 ## Can You Put Stainless Steel Pans in the Dishwasher?
 
@@ -209,13 +209,14 @@ If you're working with a tiny sink and not much counter space, cleaning big pans
 - **Soak in the pan, not the sink.** Fill the pan itself with warm soapy water and leave it on the stove. Your sink stays free for everything else.
 - **Clean on the stove.** The baking soda and vinegar methods both happen right on the burner, so you don't need to fit a big pan in a small sink at all.
 - **Dry and put away right away.** A wet pan on a small counter takes up space you need. Towel dry it and hang it or stack it. If storage is tight, these ideas for [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) will help, and putting a soft cloth or pan protector between stacked pans stops the bottoms from scratching the insides.
-- **Keep one small tub of Bar Keepers Friend under the sink.** It handles almost every tough job on its own, so you don't need a cupboard full of different cleaners.
+- **Keep one small tub of Bar Keepers Friend under the sink.** It handles almost every tough job on its own, so you don't need a cupboard full of different cleaners. If that cabinet is already packed, these [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) can free up room.
 
 ## Is Your Pan Actually Stainless Steel?
 
 It's worth double-checking before you scrub. Methods like Bar Keepers Friend and baking soda are great for stainless steel but can damage nonstick coatings. If your pan has a dark, smooth coated surface inside, it's not bare stainless.
 
 - For ceramic-coated pans, follow this guide on [how to clean a ceramic pan](/blog/how-to-clean-ceramic-pan/) instead.
+- For traditional nonstick (Teflon-style) pans, skip abrasive cleaners entirely. Our [nonstick pan buying guide](/blog/best-nonstick-pans-with-buying-guide/) covers how to care for them.
 - For dark gray, matte pans, see [how to clean hard anodized cookware](/blog/how-to-clean-hard-anodized-cookware/).
 - Not sure what you have? This explainer on [what stainless steel cookware is](/blog/what-is-stainless-steel-cookware/) shows how to tell the difference.
 
@@ -227,7 +228,7 @@ The good news is that stainless steel almost never needs replacing because of st
 - The layers are separating at the rim or base.
 - A handle or rivet is loose and can't be tightened.
 
-If your pan passes those checks, clean it and keep cooking. If it doesn't and you're shopping for a new one, our guide to the [best cookware sets under $200](/blog/best-cookware-set-under-200/) covers solid stainless options that don't cost a fortune. You can also compare [stainless steel vs ceramic cookware](/blog/stainless-steel-vs-ceramic-cookware/) if you're not sure which material fits the way you cook.
+If your pan passes those checks, clean it and keep cooking. If it doesn't and you're shopping for a new one, our guide to the [best cookware sets under $200](/blog/best-cookware-set-under-200/) covers solid stainless options that don't cost a fortune. If you want to go premium, our [All-Clad D3 review](/blog/all-clad-d3-cookware-set-review/) shows what the extra money buys. You can also compare [stainless steel vs ceramic cookware](/blog/stainless-steel-vs-ceramic-cookware/) if you're not sure which material fits the way you cook.
 
 ## Related Guides
 
