@@ -19,7 +19,7 @@ tags:
   - cast-iron
   - ceramic-cookware
 authorImageAlt: kitchenpot1
-description: "Find the best cookware for induction cooktops, from tri-ply stainless and enameled cast iron to ceramic nonstick, plus how the magnet test shows what will work."
+description: "The best cookware for induction cooktops, from tri-ply stainless and enameled cast iron to ceramic nonstick, plus how the magnet test shows what will work."
 seo: "Looking for the best cookware for an induction cooktop? We compare six induction-compatible sets and pans, including tri-ply stainless steel, cast iron, enameled cast iron and ceramic nonstick, and explain how induction works and how to test your pans with a magnet."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
@@ -90,7 +90,7 @@ The piece mix is practical, too. Two saucepans, a sauté pan, two skillets and a
 **What we like:**
 
 - Fully clad tri-ply construction at a mid-range price.
-- Heats evenly on induction burners, with fewer hot spots.
+- The aluminum core runs up the sides, which is what spreads heat evenly and reduces hot spots on induction.
 - Oven-safe to 500°F, dishwasher safe and broiler safe.
 - Stainless steel doesn't wear out the way nonstick coatings do.
 - Tapered rims make pouring sauces and soups less messy.
@@ -123,7 +123,7 @@ All-Clad lists the D3 set as hand wash only. That's worth knowing if you rely on
 - Made in the USA with a long track record and a limited lifetime warranty.
 - 600°F oven and broiler rating, the highest on this list.
 - Straight-sided 3-quart sauté pan is more useful than a third skillet.
-- Even, predictable heating on induction.
+- Fully bonded tri-ply construction, the design reviewers credit for even heating on induction.
 
 **What to know before you buy:**
 
@@ -160,7 +160,7 @@ One thing to keep in mind on induction: nonstick and ceramic coatings don't like
 
 - There's a big gap between the 2.5-quart saucepan and the 6-quart stockpot.
 - Even durable ceramic is gentler than stainless. Use wood or silicone utensils.
-- Reviewers noted the handles show grime easily.
+- Reviewed's testers noted the handles can get dirty easily.
 - It sits near $200, which is a lot for pans that will eventually lose their slickness.
 
 **Who should buy it:** Induction owners who want nonstick convenience without PTFE. For more options, see our roundup of the [best ceramic cookware sets](/blog/best-ceramic-cookware-set/), and read [how to clean a ceramic pan](/blog/how-to-clean-ceramic-pan/) to keep the coating working longer.

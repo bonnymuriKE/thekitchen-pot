@@ -19,7 +19,7 @@ tags:
   - freezing-chicken
   - meal-prep
 authorImageAlt: kitchenpot1
-description: "How long does chicken last in the fridge? Raw chicken keeps 1 to 2 days and cooked chicken 3 to 4 days. See the USDA chart, spoilage signs, and freezing tips."
+description: "How long does chicken last in the fridge? Raw chicken keeps 1 to 2 days and cooked 3 to 4 days. See the USDA chart, spoilage signs and smart freezing tips."
 seo: "How long does chicken last in the fridge, raw and cooked, based on USDA and FoodSafety.gov guidance. Covers sell-by dates, marinated and rotisserie chicken, signs chicken has gone bad, freezing times, safe thawing and refreezing."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:

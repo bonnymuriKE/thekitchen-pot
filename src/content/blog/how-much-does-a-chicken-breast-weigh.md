@@ -19,7 +19,7 @@ tags:
   - cooking-for-one
   - meal-prep
 authorImageAlt: kitchenpot1
-description: "How much does a chicken breast weigh? Most boneless breasts run 6 to 10 ounces raw today. See cooked weights, breasts per pound, and how to adjust any recipe."
+description: "How much does a chicken breast weigh? Most boneless breasts run 6 to 10 ounces raw today. See cooked weights, breasts per pound, and how to scale a recipe."
 seo: "How much does a chicken breast weigh raw and cooked, how many chicken breasts are in a pound, how much weight chicken loses when cooked, protein per breast, and how to adjust recipes and cooking times for big or small breasts."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:

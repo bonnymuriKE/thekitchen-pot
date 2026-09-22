@@ -18,7 +18,7 @@ tags:
   - induction-cooking
   - cookware-for-induction-cooktop
 authorImageAlt: kitchenpot1
-description: "How to use non-induction cookware on an induction cooktop with a converter disk, plus the magnet test, the real downsides of disks, and the DIY hacks to skip."
+description: "How to use non-induction cookware on an induction cooktop with a converter disk, plus the magnet test, the real downsides of disks, and DIY hacks to avoid."
 seo: "How to use non-induction cookware on an induction cooktop. Learn how induction works, how to test pans with a magnet, how to use an induction converter disk safely, its limitations, and better alternatives for aluminum, copper, glass and ceramic cookware."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:

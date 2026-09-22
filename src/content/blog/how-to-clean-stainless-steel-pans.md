@@ -18,7 +18,7 @@ tags:
   - stainless-steel-cookware
   - cleaning-cookware
 authorImageAlt: kitchenpot1
-description: "How to clean stainless steel pans the right way, from burnt food and rainbow stains to white spots and a greasy pan bottom, using simple things you already own."
+description: "How to clean stainless steel pans, from burnt food and rainbow stains to white spots and a greasy pan bottom, using simple things you probably already own."
 seo: "How to clean stainless steel pans, including burnt pans, rainbow discoloration, white calcium spots, brown oil stains and the bottom of the pan. Simple steps with baking soda, vinegar and Bar Keepers Friend."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:

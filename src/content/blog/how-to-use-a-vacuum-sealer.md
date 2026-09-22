@@ -1,141 +1,240 @@
 ---
-excerpt: Seal freshness like a pro! Learn how to use a vacuum sealer in 5 simple
-  steps for longer-lasting food. Save money, cut waste, and keep flavors locked
-  in for good.
+excerpt: "How to use a vacuum sealer step by step, plus the parts most manuals bury: pre-freezing wet food, sealing soup, protecting bags from bones, and which foods should never go in a sealed bag."
 showTableOfContents: true
 authorId: kitchenpot1
-title: How to Use a Vacuum Sealer in 5 Simple Steps
+title: "How to Use a Vacuum Sealer (Step by Step, Plus What Not to Seal)"
 source: wordpress
 slug: how-to-use-a-vacuum-sealer
 pubDate: 2021-05-16
-modDate: 2025-02-14
+modDate: 2026-09-22
 image: ""
 category: How To Guides
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: How to Use a Vacuum Sealer in 5 Simple Steps
+coverAlt: A countertop vacuum sealer closing a bag of raw chicken breasts, with labeled flat packs of frozen food stacked beside it
 tags:
-  - best-airtight-containers
-  - best-sous-vide-precision-cooker
-  - best-vacuum-sealer-for-sous-vide
+  - how-to-use-a-vacuum-sealer
+  - vacuum-sealing
+  - food-storage
+  - freezer-tips
   - sous-vide
 authorImageAlt: kitchenpot1
-description: "Seal freshness like a pro! Learn how to use a vacuum sealer in 5 simple steps for longer-lasting food. Save money, cut waste, and keep flavors locked in for good."
-seo: Wondering how to use a vacuum sealer to get the best results? Well, sealing
-  your food in a vacuum sealer shouldn't be a hassle. Here is how you do it in 5
-  steps
+description: "How to use a vacuum sealer the right way: bag prep, pre-freezing liquids, sealing and storing, plus the foods that carry botulism risk once they're sealed."
+seo: "How to use a vacuum sealer step by step: how much room to leave in the bag, dry vs moist settings, pre-freezing meat and soup, sealing powders and bony cuts, safe thawing, what not to vacuum seal, and fixes when the seal fails."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "How much space should you leave at the top of a vacuum sealer bag?"
+    answer: "FoodSaver's owner's manual says to leave 3 inches between the food and the top of the bag so the machine can pull air out and make a clean seal. If you plan to reuse the bag, add at least one more inch for each reuse, since every reseal cuts a strip off the top. Too little headroom is one of the most common reasons a seal fails."
+  - question: "Can you vacuum seal liquids like soup?"
+    answer: "Yes, but freeze them first. An edge-style vacuum sealer will pull liquid straight toward the pump and ruin the seal. America's Test Kitchen suggests setting a bag in a loaf pan, pouring in the soup or broth, freezing it until firm, then lifting it out and vacuum sealing the frozen block. Chamber sealers can handle liquids directly."
+  - question: "Is vacuum-sealed food safe at room temperature?"
+    answer: "Only dry, shelf-stable foods like crackers, rice, nuts, dried fruit and jerky. Perishable food still needs the fridge or freezer. Removing oxygen can actually help Clostridium botulinum, which grows in moist, low-acid food without air. FoodSaver's manual states that vacuum sealing is not a substitute for refrigeration or freezing, and perishable food should not sit above 40°F for more than 2 hours."
+  - question: "What foods should you not vacuum seal?"
+    answer: "FoodSaver's manual says soft cheeses, fresh mushrooms, fresh onions and fresh garlic should never be vacuum sealed, because they can support anaerobic bacteria. Raw vegetables should be blanched before sealing for the freezer. Home-canned food should never be vacuum sealed instead of being properly processed. Moist, low-acid dishes like chili or mushroom soup should be frozen, not kept sealed in the pantry."
+  - question: "How long does vacuum-sealed food last?"
+    answer: "FoodSaver claims its bags keep food fresh up to 5 times longer than ordinary storage, mainly by preventing freezer burn. Vacuum sealing doesn't change the food safety clock for refrigerated food much, so follow normal fridge times and treat the extra life as a quality benefit. Food frozen at 0°F stays safe indefinitely; sealing just keeps it tasting better for longer."
+  - question: "Why won't my vacuum sealer seal?"
+    answer: "The usual causes are a wet, greasy or wrinkled bag opening, too little space at the top of the bag, a smooth chamber-style bag in an edge sealer, or an overheated machine. Wipe the bag mouth dry, flatten it across the seal bar, and wait about 20 seconds between seals so the heating element can cool, as FoodSaver's manual recommends."
 ---
-You can use this important tool to seal and preserve your ingredients and other perishables when you buy in bulk. 
+The most important fact about a vacuum sealer isn't printed on the box: it doesn't preserve food on its own. It removes air, which slows freezer burn, staleness and the mold and bacteria that need oxygen. Your fridge and freezer still do the actual preserving.
 
-Besides owning **[airtight food storage containers](https://thekitchenpot.com/blog/best-airtight-food-storage-containers/)**, learning how to use a vacuum sealer will save you many storage hassles. 
+**How to use a vacuum sealer, in short:** cut a bag with 3 inches of empty space above the food, keep the opening clean and dry, lay the open end flat across the sealing strip, pick the dry or moist setting, close the lid and press vacuum and seal. Freeze anything wet or soft for an hour or two first. Then label it and get it straight into the fridge or freezer.
 
-Additionally, a vacuum sealer comes in handy when you’re using your **[sous vide precision cooker](https://thekitchenpot.com/blog/sous-vide-power-precision-cooker/)**. It eliminates all the air from the bag, thus allowing your food to cook entirely in vacuum, thus ensuring superbly well-cooked meals.
+That covers most of it. The rest of this guide explains the details that make the difference between a seal that holds for months and one that leaks in the freezer by Tuesday, and it covers the short list of foods that should never be sealed at all.
 
-## Why You Should Own a Vacuum Sealer 
+## How to Use a Vacuum Sealer, Step by Step
 
-There are a plethora of benefits that you get by owning a **[vacuum sealer](https://thekitchenpot.com/blog/best-vacuum-sealer-for-sous-vide/)**. It is the best investment when you need to reduce food wastage and enhance your cooking experiences.
+These steps are written for the common countertop "edge" sealer, such as most FoodSaver, Nesco and Anova models. The bag's open end sits outside the machine, a small pump pulls the air out, and a heated strip melts the bag closed. Your model's buttons may be labeled differently, so skim your manual once, but the process is the same.
 
-Here are three scenarios when a vacuum sealer will make life easy for you:
+### 1. Prepare the food
 
-**When Storing Food** 
+Pat meat and fish dry with paper towels. Portion food the way you'll actually cook it: two chicken breasts per bag if you cook for two, one steak if you cook for one. America's Test Kitchen recommends sealing only what you'll use at one time, since a sealed bag can't be opened and resealed without cutting more off the top.
 
-If you’re not careful with the method you use to store food leftovers, you’re likely to experience food poisoning. Storing the food on an open surface creates a perfect environment for harmful bacteria to multiply, which can cause severe health complications. 
+Soft, juicy or wet foods need a trip to the freezer first. There's a whole section on pre-freezing below.
 
-As such, you should ensure that you store the food in an environment that’s free of contamination. One of the surest ways to achieve that is by using a **[vacuum sealer](https://thekitchenpot.com/blog/best-vacuum-sealer-for-sous-vide/)**. 
+### 2. Label the bag before you fill it
 
-This appliance removes air from the storage bag, thus creating a vacuum. This process is crucial since it ensures that microbes do not multiply, thus protecting your food from going bad. 
+This seems minor until you try writing on a lumpy frozen bag. America's Test Kitchen suggests labeling bags while they're still empty and flat. Write what it is and the date. A permanent marker works on most textured bags.
 
-**When Using a Sous Vide Precision Cooker** 
+### 3. Cut a bag with enough headroom
 
-**[Sous Vide Precision Cooker machine](https://thekitchenpot.com/blog/sous-vide-power-precision-cooker/)** allows you to cook your meals in vacuum-sealed containers. This is a slow-cooking technique that enables you to get evenly cooked meals that are soft and tender. 
+If you're using a roll, pull out enough to fit the food plus extra length, then seal one end to make a pouch. FoodSaver's owner's manual for its FM5200 and FM5300 series says to leave **3 inches between the food and the top of the bag**. If you plan to wash and reuse the bag, add **at least 1 more inch per reuse**, because each seal trims a strip off.
 
-However, there is a catch!
+Pre-cut quart and gallon bags work the same way. Just don't overfill them.
 
-You must be able to seal the food containers without allowing any air in. This is very tricky if you’re doing it manually. 
+### 4. Fold a cuff to keep the opening clean
 
-To avoid the hassle, you should invest in a vacuum sealer. The machine will seal multiple bags within a short time. It guarantees efficacy and convenience. 
+Fold the top 2 to 3 inches of the bag outward, like a sock cuff, before you load the food. America's Test Kitchen calls this one of the three keys to better vacuum sealing: it keeps meat juice, marinade and grease off the part of the bag that needs to fuse. Unfold the cuff once the food is in.
 
-**You Buy Food in Bulk** 
+### 5. Lay the bag flat and choose your setting
 
-If you have a big family, buying food items in bulk is always a great idea. It saves you money and time.
+Spread the food into an even, flat layer. Flat packs freeze faster, thaw faster and stack neatly. Place the open end of the bag across the sealing strip and into the vacuum channel or drip tray, with no wrinkles.
 
-However, you should be careful to ensure that your supplies remain fresh for a long time. If you fail in this, then the benefits of buying in bulk will be eroded. 
+Most sealers have a **dry** and a **moist** setting. Use dry for things like cheese blocks, bread or nuts. Use moist for marinated meat or anything with surface moisture; it adjusts the seal so it can fuse through slightly damp plastic. Some models also have a gentle or pulse mode for crushable food like chips or berries, which lets you stop the vacuum before it flattens everything.
 
-One of the safest methods to store your food is by vacuum sealing it. The absence of air ensures that microbes do not survive on the food containers, thus preventing them from going bad. 
+### 6. Vacuum and seal
 
-## **How to Use a Vacuum Sealer** 
+Close and lock the lid, then press vacuum and seal. The pump runs until the bag pulls tight, then the heating strip seals it automatically. For delicate food, use pulse or press the seal button early to stop the vacuum at the right moment.
 
-What you Need
+Check the seal before you move on. It should be a clear, continuous line with no creases, bubbles or gaps.
 
-* Vacuum bags
-* Food item to preserve/ cook using sous vide machine
-* Vacuum sealer 
+### 7. Let the machine rest between bags
 
-### **Step-by-Step Guide on How to Use a Vacuum Sealer**
+The heating strip gets hot. FoodSaver's manual says to **wait 20 seconds between seals** so the appliance can cool. Sealing bag after bag without a pause is a common cause of weak, melted or wrinkled seals.
 
-1. **Get the Right Vacuum bags** 
+### 8. Store it right away
 
-If you want to get the best results, you should get the right vacuum bags. Always remember that the primary concept is to achieve a vacuum environment (free of air). 
+Perishable food goes straight into the fridge or freezer. Freeze flat packs on a sheet pan first, then stand them up like files once they're solid. That trick alone saves a lot of freezer space.
 
-As such, getting bags with large pores that can allow air in will neutralize all your efforts. We recommend **[FoodVacBags, FoodSaver, or WeVac](https://www.amazon.com/s?k=foodvacbags+vacuum+sealer+bags&crid=39BE9RFO0E83S%3Ftag%3Dkitchenpot-20)** vacuum bags. These bags do not let air in and can preserve your ingredients/food items for months – or even years! 
+## Pre-Freezing: The Step That Fixes Most Problems
 
-The right vacuum package/bags should be **textured on the open end.** This helps with grip and enhances chances of sealing success
+A vacuum sealer pulls hard. Anything soft gets crushed, and anything wet gets drawn toward the pump, which ruins the seal and can damage the machine. The fix is to firm things up in the freezer first.
 
-Additionally, you should always ensure that you use the right size of vacuum bags. When it is too big, it will be a waste. When too small, it will lead to a mess and you may not be able to entirely seal the bag. 
+FoodSaver's manual gives these pre-freeze times:
 
-**2. Prepare Your Food/ Ingredients**
+| Food | What to do first | Pre-freeze time |
+| --- | --- | --- |
+| Raw meat and fish | Pat dry, portion, freeze on a tray or in an open bag | 1 to 2 hours |
+| Soft fruit and berries | Spread on a tray so they don't clump | 1 to 2 hours, until solid |
+| Bread, cakes and muffins | Freeze if using bags, or use a canister instead | 1 to 2 hours |
+| Soup, stock, sauce, chili | Freeze in a bag set in a loaf pan or container | Until completely firm |
+| Raw vegetables | Blanch, chill in ice water, dry, then freeze | Until firm |
+| Dry goods (rice, nuts, crackers) | No pre-freezing needed | None |
 
-Preparing your ingredients is necessary since it helps you to preserve space. Ensure that you remove all the parts that you are not interested in. For example, if you do not like fat on your meat, then you can remove it before storage.
+America's Test Kitchen also recommends partially freezing fragile food like fish fillets and berries for a couple of hours before sealing so they keep their shape.
 
-Additionally, you should cut the meat/ other ingredients into small pieces that can fit in the vacuum bags available. 
+## How to Vacuum Seal Liquids and Soup
 
-Finally, you must ensure that you remove sharp edges on your food. Sharp bones or any other item that can pierce the vacuum bag will compromise the whole process. 
+This is where most people run into trouble with an edge sealer. Even a spoonful of broth will get sucked toward the sealing strip.
 
-If you’re unable to remove the sharp edges, we recommend that you wrap them with a kitchen towel to maintain the integrity of the bags. 
+The method America's Test Kitchen recommends:
 
-**3. Vacuum Sealing Liquids**
+1. Set an open vacuum bag inside a loaf pan or a straight-sided container and fold the top over the rim.
+2. Ladle in cooled soup, stock or sauce.
+3. Freeze until firm.
+4. Lift the frozen block out of the pan and vacuum seal it like any solid food.
 
-If you want to vacuum seal liquids, you will have to freeze them first. Ensure that you put them into a freezer a few hours before vacuum sealing. This suppresses all the microbes and makes it easy for you to seal the bag. 
+You end up with neat, brick-shaped portions that stack well. If you seal liquids often, a chamber vacuum sealer is worth a look, because it vacuums the whole bag inside a chamber and can seal liquids without freezing them first. It's larger and more expensive, though.
 
-**4. Fill the Bag**
+Marinades are a gray area. Some sealers come with a marinating canister, and FoodSaver models with an accessory port can vacuum a canister directly. That's the easier route for marinating than trying to vacuum a bag full of liquid.
 
-Once you’re through with preparing your meals/ingredients, you should fill the bag. Be careful not to overfill the bag since it will be difficult to seal it. Always leave some room between the top of the bag and your food. 
+## Bones, Sharp Edges and Crumbly Food
 
-**5. Vacuum Seal Your Bag** 
+### Bony cuts
 
-All vacuum sealers work under the same principle. They suck out the air from the bag and seal it without allowing air in. At the end of the process, you should have a sealed bag with no air. 
+Chop bones, rib tips, T-bones and crab legs can poke straight through a bag when it pulls tight, or later in the freezer. America's Test Kitchen suggests laying a piece of parchment paper over the bones and wrapping it in place with plastic wrap to blunt them. FoodSaver's manual gives similar advice: cushion sharp items with paper towels.
 
-If you still have your user’s manual, you may need to go through it. If not, then worry not. Using a vacuum sealer is not rocket science. Follow these simple steps:
+### Powders, coffee and flour
 
-* Ensure that your vacuum seal is plugged in/ charged
-* Lay the vacuum bag on your counter and open the vacuum sealer’s lid
-* Lift the bag slightly and place the opening on the vacuum sealer sealing strip
-* Close the lid tightly and click the “seal” button 
-* Once the sealing is done, the machine will notify you through a click sound or light on the done button
+Fine powders can get pulled into the pump. FoodSaver recommends placing a coffee filter or folded paper towel inside the top of the bag, above the food, as a barrier. The other option is to leave powders in their original bag and seal that inside a vacuum bag.
 
-You should note that different vacuum sealer models have different user interfaces. Some have more buttons and functionalities than others. As such, you should play around with your interface and learn how to use all the buttons. 
+### Crushable snacks
 
-Additionally, we have handheld vacuum sealers that work using the same concept. Unlike the countertop models, you will have to hold the sealers, insert the bag, and hand press to seal it. Such vacuum sealer machines are largely battery-operated and you must ensure that it is charged before using it. 
+Chips, crackers and cookies need the pulse or gentle setting, or a canister. Stop the vacuum as soon as the bag hugs the food.
 
-## Storing Vacuum Sealed Foods 
+## Vacuum Sealing Does Not Make Food Shelf-Stable
 
-Now that you’re through with vacuum sealing, you should store the food in a safe place. Such food will remain fresh since the vacuum environment does not favor the growth of microbes. 
+This part matters more than any technique.
 
-However, that does not mean that you can store the food for years! The vacuum sealing only helps to prolong the shelf life by around five times. For example, vacuum-sealed meat will be fresh for around a week, beyond that, I wouldn’t recommend that you cook it. 
+Taking the air out of a bag slows the bacteria and mold that need oxygen, which is why vacuum-sealed food keeps its quality longer. But some dangerous bacteria grow best **without** oxygen. The one food safety experts worry about most is *Clostridium botulinum*, which causes botulism.
 
-However, if you put the vacuum-sealed meat in a freezer, it can last for 2-3 years! Yes, even without vacuum sealing, frozen meat lasts for approximately 6 months. As such, storing your vacuum-sealed meals in a freezer is always a good idea. 
+The University of Connecticut's extension service explains the risk plainly: food with botulism toxin "can look, smell and taste perfectly fine." North Carolina State Extension adds that the organism grows best at room temperature in low-acid, moist foods in low-oxygen conditions, which describes a sealed bag of cooked chicken on the counter very well.
 
-## How to Clean a Vacuum Sealer after Use 
+So these rules apply to every sealed bag:
 
-After using the vacuum sealer, ensure that you clean it. This will help you get rid of juices that may have dripped on the machine during the sealing process. 
+- **Keep perishable food cold.** FoodSaver's manual says to keep vacuum-sealed perishables at 40°F or below and states that vacuum sealing "is NOT a substitute for refrigeration or freezing."
+- **Two hours, maximum.** NC State Extension says vacuum-packed perishable food should not be out of refrigeration for more than 2 hours total above 40°F.
+- **Freezer at 0°F or colder.** UConn's guidance for frozen vacuum-packed food is to store it at 0°F or below.
+- **Only dry foods at room temperature.** Crackers, rice, dried fruit, nuts and jerky can be vacuum sealed and kept in the pantry because they have too little moisture to support bacterial growth.
+- **It is not canning.** Vacuum sealing is not a substitute for the heat processing that home-canned foods need.
 
-All you need to achieve this is a clean, damp cloth. Ensure that you soak it using warm, soapy water. Use it to wipe the sealing strip, drip tray, vacuum chamber, and the outer surface of the machine. 
+The same food safety habits still apply before sealing: clean hands, clean boards and knives, and meat cooked to a safe internal temperature later. A good [meat thermometer](/blog/best-meat-thermometer-for-smoking/) takes the guesswork out, and here's [how to clean a meat thermometer](/blog/how-to-clean-a-meat-thermometer/) so it doesn't spread bacteria between foods.
 
-## How to Use a Vacuum Sealer – Wrap Up
+## What Not to Vacuum Seal
 
-A vacuum sealer is essential when you want to preserve your meals for a long time. If you’re a fan of bulk buying or you use sous vide machine frequently, then a vacuum sealer is a necessity. 
+Here is the short list, with the reason for each.
 
-However, many people struggle using the vacuum sealer. As a result, they do not get the expected results. 
+| Food | Why it's a problem | What to do instead |
+| --- | --- | --- |
+| Soft cheeses (brie, ricotta, fresh cheeses) | FoodSaver's manual lists them among foods that should never be vacuum sealed, due to anaerobic bacteria risk | Wrap in cheese paper or store in a container |
+| Fresh mushrooms | Listed as never-seal in FoodSaver's manual | Store loosely in a paper bag in the fridge |
+| Fresh onions and garlic | Listed as never-seal in FoodSaver's manual; low-acid and a known botulism concern | Keep whole in a cool, dry, airy spot |
+| Raw vegetables for the freezer | Enzymes keep working, which dulls color, flavor and texture | Blanch, chill, dry, then seal and freeze |
+| Moist, low-acid cooked dishes (chili, stews, mushroom soup) | Unsafe at room temperature in a sealed bag | Seal, then refrigerate or freeze only |
+| Home-canned food | Sealing doesn't replace heat processing | Follow tested canning instructions |
 
-If you’ve struggled with how to use a vacuum sealer, then this guide is for you. We offer 3 simple steps that will revolutionize your use of the machine. It will be fun and highly efficient.
+FoodSaver's manual gives blanching times of 1 to 11 minutes depending on the vegetable. FoodSaver also publishes a separate guide just for broccoli and other cruciferous vegetables, so give those extra care. Potatoes are another vegetable people often want to seal raw; our guide to [how long potatoes last](/blog/how-long-do-potatoes-last/) covers better ways to store them.
+
+A note on cream cheese: it's soft, so it falls into the risky group for sealing and fridge storage. If you're trying to stretch a block, freezing is the better approach, and our guide on whether [you can freeze cream cheese](/blog/can-you-freeze-cream-cheese/) covers what happens to the texture.
+
+## How to Thaw Vacuum-Sealed Food Safely
+
+Thaw in the fridge, not on the counter. UConn's extension guidance is to **open the package** when you take it out of the freezer, allowing some air in, and then thaw it in the refrigerator. NC State Extension says the same: thaw in the fridge and remove or open the vacuum bag while it thaws.
+
+This matters most for fish. Michigan State University Extension specifically advises opening vacuum-packed fish before thawing it. If you fillet your own catch before freezing, an [electric fillet knife](/blog/best-electric-fillet-knife/) makes quick work of it, and flat, boneless fillets seal far more reliably than whole fish.
+
+If you're cooking sous vide, you'll cook straight from the sealed bag instead, which is a different process with its own time and temperature rules. Our guide to the [best sous vide precision cookers](/blog/sous-vide-power-precision-cooker/) explains how that works.
+
+## Bags, Rolls and Types of Sealer
+
+### Textured bags vs smooth bags
+
+Edge sealers need **textured** (embossed or channeled) bags. The tiny ridges give air a path out while the pump runs. Packaging supplier JVR Industries notes that these bags are typically around 4 mil thick, while smooth chamber pouches are usually about 3 mil and cost much less per bag.
+
+Smooth chamber pouches won't evacuate properly in an edge sealer. If your seals keep failing and you bought bargain bags, check that they're textured.
+
+Rolls are cheaper per bag and let you size each pouch to the food. Pre-cut bags save time. You can find [FoodSaver-compatible bag rolls](https://www.amazon.com/s?k=vacuum+sealer+bag+rolls+textured&tag=kitchenpot-20) from many brands; just match the roll width to your machine.
+
+### Which kind of sealer do you have?
+
+| Type | How it works | Good at | Weak spots |
+| --- | --- | --- | --- |
+| Edge (external) sealer | Bag end sits outside; pump pulls air through the channels | Meat, cheese, dry goods, freezer prep | Liquids, needs textured bags |
+| Chamber sealer | Whole bag goes inside a sealed chamber | Liquids, marinades, heavy use, cheap bags | Big, heavy and expensive |
+| Handheld sealer | Small pump draws air through a valve on zipper bags | Quick jobs, small kitchens | Weaker vacuum, special bags only |
+
+If you're still choosing a machine, our roundup of the [best vacuum sealers for sous vide](/blog/best-vacuum-sealer-for-sous-vide/) compares popular edge and chamber models.
+
+### Reusing bags
+
+You can wash and reuse bags that held dry food, bread or produce, as long as you left extra length when you first cut them. Bags that held raw meat, fish or greasy food are hard to get properly clean, so many cooks simply throw those away.
+
+## When the Seal Fails: Quick Fixes
+
+| Problem | Likely cause | Fix |
+| --- | --- | --- |
+| Bag won't pull tight | Bag not flat in the vacuum channel, or a smooth bag | Reposition with no wrinkles; use textured bags |
+| Seal has gaps or creases | Wrinkled plastic across the strip | Flatten the bag mouth before closing the lid |
+| Seal looks fine but air creeps back in | Moisture or grease in the seal area, or a pinhole | Fold a cuff next time; check for bone punctures; reseal above the first seal |
+| Liquid gets sucked into the machine | Wet food not frozen | Pre-freeze; clean the drip tray |
+| Seal is melted or weak after several bags | Heating strip too hot | Wait 20 seconds between seals |
+| Food is crushed | Full vacuum on soft food | Use pulse or gentle mode, or pre-freeze |
+
+Many owners also add a second seal a little above the first on bags going into long-term freezer storage. It costs half an inch of plastic and gives you a backup if one seal has a weak spot.
+
+## Getting the Most From It in a Small Kitchen
+
+A vacuum sealer is one more appliance on a crowded counter, so it should earn its place. It does that best when you buy in bulk, cook in batches or freeze a lot.
+
+- **Batch cook and freeze flat.** Cook once, portion, seal and freeze flat. These [easy meal prep ideas for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) pair well with a sealer.
+- **Slice and seal deli meat or roasts.** If you cook a big roast or buy whole salami, a [meat slicer](/blog/best-meat-slicer-for-home-use/) turns it into thin portions that seal flat and thaw in minutes.
+- **Split family packs.** Buy the large pack of chicken, split it into single portions and freeze them. Our guide to [how much a chicken breast weighs](/blog/how-much-does-a-chicken-breast-weigh/) helps you portion evenly, and [how long chicken lasts in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/) tells you how fast to get it sealed.
+- **Store the sealer vertically.** Most slim edge sealers fit upright in a cabinet or on a shelf. These [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) and [vertical storage ideas](/blog/vertical-storage-ideas-for-small-kitchens/) can help you find a spot.
+- **Use it for your dry pantry.** In a kitchen with no pantry, sealed rice, nuts and coffee pack flatter than bulky boxes. Here's [how to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/).
+- **Keep containers for daily leftovers.** For food you'll eat in a day or two, [airtight food storage containers](/blog/best-airtight-food-storage-containers/) are faster and reusable. Save the sealer for longer storage.
+
+If you're deciding whether it's worth the counter space at all, it features in our list of [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
+
+## Your First Batch
+
+Pick one thing you already buy in bulk, like chicken breasts, ground beef or a big block of hard cheese. Portion it, pat it dry, freeze the meat on a tray for an hour, then seal each portion with 3 inches of headroom and a date on the bag. Once that goes smoothly, move on to soups in a loaf pan. By the third batch, the steps above will feel automatic.
+
+## Related Guides
+
+- [Best Vacuum Sealer for Sous Vide](/blog/best-vacuum-sealer-for-sous-vide/)
+- [Best Sous Vide Precision Cookers](/blog/sous-vide-power-precision-cooker/)
+- [Best Airtight Food Storage Containers](/blog/best-airtight-food-storage-containers/)
+- [How Long Does Chicken Last in the Fridge](/blog/how-long-does-chicken-last-in-the-fridge/)
+- [How Long Do Potatoes Last?](/blog/how-long-do-potatoes-last/)
+- [Easy Meal Prep Ideas for One Person in a Small Kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/)
+- [How to Organize a Small Kitchen with No Pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/)

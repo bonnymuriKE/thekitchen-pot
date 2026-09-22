@@ -18,7 +18,7 @@ tags:
   - air-fryer-tips
   - cooking-for-one
 authorImageAlt: kitchenpot1
-description: "How to cook frozen french fries in an air fryer: the right temperature, cook times for shoestring, crinkle, steak and waffle fries, and how to keep them crispy."
+description: "How to cook frozen french fries in an air fryer: the best heat, cook times for shoestring, crinkle, steak and waffle fries, and tips for extra-crisp fries."
 seo: "How to cook frozen french fries in an air fryer, with temperatures and cook times for shoestring, crinkle cut, straight cut, steak, waffle and sweet potato fries, plus how to fix soggy fries and reheat leftovers."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:

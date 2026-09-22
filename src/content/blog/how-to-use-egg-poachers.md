@@ -18,7 +18,7 @@ tags:
   - silicone-egg-poacher
   - poached-eggs
 authorImageAlt: kitchenpot1
-description: "How to use an egg poacher of any type: grease the cups, keep the water at a gentle simmer, cover the pan, and cook 3 to 6 minutes for yolks from runny to set."
+description: "How to use an egg poacher of any type: grease the cups, keep the water at a low simmer, cover the pan, and cook 3 to 6 minutes for yolks from runny to set."
 seo: "How to use an egg poacher step by step, covering stovetop poacher pans, silicone poaching cups, microwave egg poachers and electric egg cookers, with cooking times, fixes for sticking eggs, food safety and cleaning."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:

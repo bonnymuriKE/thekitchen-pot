@@ -19,7 +19,7 @@ tags:
   - convection-temperature-conversion
   - toaster-oven-baking
 authorImageAlt: kitchenpot1
-description: "How to bake cookies in a convection oven: lower the heat by 25°F, check early, use low-sided pans and bake two trays at once. It works in toaster ovens too."
+description: "How to bake cookies in a convection oven: drop the heat by 25°F, check early, use low-sided pans and bake two trays at once. It works in toaster ovens too."
 seo: "How to bake cookies in a convection oven, including the convection temperature conversion, how long to bake, rack placement for multiple trays, the best cookie sheets, and tips for countertop convection toaster ovens."
 faq:
   - question: "What temperature do you bake cookies in a convection oven?"

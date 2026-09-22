@@ -19,7 +19,7 @@ tags:
   - liquid-measurements
   - cooking-for-one
 authorImageAlt: kitchenpot1
-description: "How many ounces in a quart? A US quart holds 32 fluid ounces, or 4 cups. See quick conversion charts, dry vs liquid quarts, UK quarts, and what a quart weighs."
+description: "How many ounces in a quart? A US quart holds 32 fluid ounces, or 4 cups. Grab conversion charts, dry vs. liquid quarts, UK quarts, and what a quart weighs."
 seo: "How many ounces in a quart, with conversion charts for quarts to fluid ounces, cups, pints, gallons and milliliters, plus the difference between US liquid, US dry and UK imperial quarts, and how much a quart of water, flour or sugar weighs."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:

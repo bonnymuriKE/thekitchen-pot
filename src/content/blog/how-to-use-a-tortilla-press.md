@@ -18,7 +18,7 @@ tags:
   - tortilla-press
   - masa-harina
 authorImageAlt: kitchenpot1
-description: "How to use a tortilla press for soft corn tortillas: mix the masa, line the plates with plastic, press to 1/8 inch, and cook on a hot skillet until they puff."
+description: "How to use a tortilla press for soft corn tortillas: mix the masa, line the plates with plastic, press to 1/8 inch, then cook on a hot pan until they puff."
 seo: "How to use a tortilla press step by step: masa harina dough ratios, lining the press, dough ball size, pressing thickness, cooking on a comal, fixing cracks and sticking, flour tortillas, and cleaning a cast iron press."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:

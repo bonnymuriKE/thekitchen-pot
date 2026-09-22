@@ -18,7 +18,7 @@ tags:
   - meat-thermometer-care
   - kitchen-food-safety
 authorImageAlt: kitchenpot1
-description: "How to clean a meat thermometer after raw meat: wash the probe in hot soapy water, sanitize it, and keep water out of the housing on digital and dial models."
+description: "How to clean a meat thermometer after raw meat: wash the probe in hot, soapy water, sanitize it, and keep water out of the case on digital and dial models."
 seo: "How to clean a meat thermometer the right way: washing the probe, sanitizing with alcohol or bleach solution, cleaning leave-in and wireless probes, what not to put in the dishwasher, calibrating and storing it."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:

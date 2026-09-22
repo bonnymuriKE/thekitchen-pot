@@ -18,7 +18,7 @@ tags:
   - citrus-juicer
   - how-to-juice-lemons
 authorImageAlt: kitchenpot1
-description: "How to use a lemon juicer the right way: which way the lemon goes in a squeezer, how to use reamers, presses and electric juicers, and how to get more juice."
+description: "How to use a lemon juicer properly: which way the lemon goes in a squeezer, how to use reamers, presses and electric juicers, and tricks to get more juice."
 seo: "How to use a lemon juicer, including which way to put a lemon in a handheld squeezer, how to use a reamer, a lever citrus press and an electric citrus juicer, how to get more juice from lemons, and how to clean and store your juicer."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
