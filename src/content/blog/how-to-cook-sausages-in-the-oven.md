@@ -1,186 +1,230 @@
 ---
-excerpt: How to cook sausages in an oven instead of deep frying? Our tested
-  sausage oven cooking tricks (plus how to tell when they're safely done) for
-  crispier skins.
+excerpt: "Colour tells you nothing about whether a sausage is cooked. Here are oven times and temperatures for every type, plus why pricking them costs you flavour."
 showTableOfContents: true
 authorId: kitchenpot1
-title: How to Cook Sausages in the Oven
+title: "How to Cook Sausages in the Oven (Times and Temps by Type)"
 source: wordpress
 slug: how-to-cook-sausages-in-the-oven
 pubDate: 2021-02-02
-modDate: 2025-02-05
+modDate: 2026-09-22
 image: ""
 category: How To Guides
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: How to Cook Sausages in the Oven
+coverAlt: Italian sausage links browning on a wire rack set inside a rimmed sheet pan in the oven
 tags:
-  - air-fryers
-  - how-air-fryer-works
-  - how-to-bake-cookies-on-convection-oven
+  - oven-cooking
+  - sausages
+  - sheet-pan-cooking
+  - food-safety
+  - meat-thermometer
 authorImageAlt: kitchenpot1
-description: "How to cook sausages in an oven instead of deep frying? Our tested sausage oven cooking tricks (plus how to tell when they're safely done) for crispier skins."
-seo: Are you in a hurry and hungry? This article offers unique hacks on how to
-  cook sausages in the oven. You'll have your snack in 15 minutes!
+description: "How to cook sausages in the oven: temperatures and times by sausage type, why you should never prick them, rack or pan, and the internal temp that matters."
+seo: "How to cook sausages in the oven, with a temperature and time table by sausage type, rack versus sheet pan, why pricking sausages is a mistake, browning at the end, cooking from frozen, and USDA safe internal temperatures."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "How long do you cook sausages in the oven at 400 degrees?"
+    answer: "Breakfast links and patties take 12 to 15 minutes at 400°F. Italian sausage links need 25 to 30 minutes, and dinner-size chicken or turkey links take 20 to 25. Thickness matters more than brand, so treat these as starting points. Check the thickest sausage with an instant-read thermometer before you serve any of them."
+  - question: "What temperature should sausages be cooked to inside?"
+    answer: "The USDA says uncooked sausage made from beef, pork, lamb or veal should reach 160°F. Uncooked sausage made from chicken or turkey should reach 165°F. Fully cooked sausage such as kielbasa only needs heating through, and 165°F is a safe target there too. Push the probe in through the cut end and along the middle of the link."
+  - question: "Should you prick sausages before cooking them?"
+    answer: "No. Pricking opens a hole that lets melted fat run out, and that fat carries most of the flavour and keeps the texture tender. Casings split because of heat, not trapped pressure, so a vent hole does not prevent it. Cook at 400°F or below, take the chill off first, and give the links space on the pan instead."
+  - question: "Do you need to turn sausages in the oven?"
+    answer: "Only if they are sitting directly on the sheet pan, and then just once at the halfway point. On a wire rack, hot air already reaches every side, so no turning is needed at all. Use tongs rather than a fork, because a fork punctures the casing and does the same damage as pricking."
+  - question: "Can you cook sausages in the oven from frozen?"
+    answer: "Yes, with no thawing needed. Drop the oven to 375°F so the outside does not burn before the middle thaws, separate the frozen links on the pan, and bake for 40 to 50 minutes, turning twice. Raise the heat to 425°F for the last five minutes if they need colour, then confirm 160°F inside, or 165°F for poultry sausage."
+  - question: "Is it better to bake sausages on a rack or straight on the pan?"
+    answer: "A rack gives even colour all the way around and lets fat drip away, which suits thicker links like brats and Italian sausage. Straight on the pan gives one deeply browned face where the sausage touches metal, which many people prefer for breakfast links. Use a rimmed pan either way so rendered fat cannot run into the oven."
 ---
-Are you in a hurry and hungry? If so, then you should consider cooking sausages since they offer a quick fix. Within a few minutes, you’ll be enjoying your sausage delicacy – either plain or with your favorite dessert.
+Colour lies. A sausage can look beautifully browned at fifteen minutes and still be pink and raw in the middle.
 
-But how exactly do you prepare the sausages? Most people are used to cooking them in an **[air fryer](https://thekitchenpot.com/blog/how-to-cook-frozen-french-fries-in-an-air-fryer/)** or deep fry them in an ordinary **[nonstick pan](https://thekitchenpot.com/blog/best-nonstick-pans-with-buying-guide/)**. 
+The oven fixes that better than a pan does, because the heat comes at the sausage from every direction at once. No hot spot, no cold spot, no standing over a spitting skillet.
 
-However, you can also use an oven to obtain a unique taste of evenly baked sausages. This article elucidates how to cook sausages in the oven within a few minutes! Read on.
+Most links want 400°F. How long they stay there depends entirely on how thick they are, so start with the table below and finish with a thermometer.
 
-## Can I Cook Sausages In the Oven?
+## Oven Temperature and Time by Sausage Type
 
-Yes, cooking sausages in the oven is one of the fascinating ways to make your snacks. It gives your sausages a unique crunchy taste that will leave you asking for more. 
+Times assume the sausages are refrigerated, not frozen, and spaced apart on the pan. Thickness matters more than brand.
 
-Even better, cooking sausages in the oven is relatively straightforward. You can regulate the temperature and time to achieve your desired doneness.
+| Sausage type | Oven temp | Time | Pull it at |
+| --- | --- | --- | --- |
+| Breakfast links, fresh pork | 400°F | 12 to 15 min | 160°F |
+| Breakfast patties, fresh pork | 400°F | 12 to 15 min | 160°F |
+| Chicken or turkey links, dinner size | 400°F | 20 to 25 min | 165°F |
+| Italian sausage links | 400°F | 25 to 30 min | 160°F |
+| Fresh bratwurst | 425°F | 19 to 21 min | 160°F |
+| Fully cooked smoked sausage or kielbasa | 375°F | 12 to 15 min | 165°F, heated through |
+| Fresh sausage from frozen | 375°F | 40 to 50 min | 160°F, or 165°F for poultry |
 
-## Why Cook Sausages in the Oven?
+The bratwurst row comes straight off the packet. Johnsonville tells you to [bake its fresh brats at 425°F for 19 to 21 minutes](https://johnsonville.com/products/original-bratwurst/), turning the links once, until they read 160°F. Check your own packet before you trust a chart, since recipes vary and so do diameters.
 
-There are several reasons why you should make the oven your favorite sausage cooking technique. This unique technique offers the following benefits:
+Anything between 350°F and 425°F will cook a sausage properly. Lower means longer and paler. Higher means faster and browner, with more risk of a burst casing. 400°F sits in the middle for a reason.
 
-**It is Healthy**
+## Why the Oven Beats a Frying Pan
 
-While deep frying is a common technique of preparing sausages, it involves using a lot of oil. 
+A skillet heats a sausage from one narrow strip of contact. The rest of the sausage is sitting in air, so you have to keep rolling it to stop one side charring while another stays grey. Miss a turn and you get a stripe.
 
-Many cooks try to use parchment paper or serviette to drain the oil, but still, your lips will remain with a shiny, oily appearance. The use of too much oil can be unhealthy, mostly when you eat the sausages regularly.
+An oven surrounds the sausage with hot air instead. Every surface gets roughly the same heat at the same time, which is why a tray of links finishes together rather than one at a time. That evenness is the real reason to bake them.
 
-If you opt for baking the sausages in the oven, you will minimize the sausage’s oil. As such, you will have healthier yet tastier sausages that you can without the worry of accumulating too much fat in your body. 
+Three other things follow from it.
 
-**Highly Convenient**
+- **No splatter.** Sausage fat renders and jumps out of a pan. In the oven it drips down into the tray, so your stovetop and the wall behind it stay clean. If splatter is a regular problem in your kitchen, a working [range hood](/blog/6-best-ductless-range-hood/) matters more than the pan you choose.
+- **No babysitting.** Set a timer, turn them once, walk away. Compare that with the constant attention a [sauté pan](/blog/best-saute-pan/) needs.
+- **Volume.** A half sheet pan holds a full pack of links in one layer. Feeding six people from a skillet means cooking in shifts.
 
-Baking your sausages in an oven offers one of the easiest cooking methods. Unlike grilling, you can bake your sausages in the comfort of your house.
+The trade-off is honest enough. A pan gives you a deeper, faster crust on the side touching the metal, and it is quicker for two links. For anything more, the oven wins on evenness and on cleanup. Our guide to [cleaning stainless steel pans](/blog/how-to-clean-stainless-steel-pans/) exists mostly because of pan-fried food like this.
 
-***Read how you can use the [smokeless grill for baking sausages](https://thekitchenpot.com/blog/gotham-steel-smokeless-grill-review/) here.*** 
+## Do Not Prick Your Sausages
 
-Additionally, baking your sausages doesn’t require constant checking. All you need is to place your sausages in the oven, set the temperature & time, then wait. 
+This is the habit worth dropping today. Pricking a sausage opens a hole, and everything good runs out of it.
 
-**Reduced Clean Up** 
+Inside the casing is a mix of meat, seasoning and fat. As the sausage heats, that fat melts and moves through the meat, carrying flavour with it. A pricked casing lets the melted fat escape into the pan instead. What you get back is a drier, blander sausage with a slightly grainy bite.
 
-Using an oven to bake your sausages rarely results in any mess. Since you’ll use foil and parchment paper, very little, oil/grease will get to the oven surface/grates. 
+The usual defence is that pricking stops the casing bursting. It does not really work that way.
 
-As such, cleaning the oven will be a breeze. On the contrary, pan-frying, grilling, and deep frying will leave you with a lot of mess to clean up! 
+### What Actually Splits a Casing
 
-**Evenly Cooked Sausages** 
+Heat does. When the outside of a sausage climbs too fast, the water and fat inside expand quicker than the casing can stretch, and it tears at the weakest point. The culprit is the temperature, not a missing vent hole.
 
-Cooking sausages in the oven is almost foolproof. You will almost be sure that you’ll get the results you anticipated. Unlike when using a **[skillet](https://thekitchenpot.com/blog/what-can-i-cook-in-an-electric-skillet/),** you will not be required to turn over the sausages regularly. 
+So the fix is to cook more gently rather than to puncture the skin. Three habits handle almost every burst casing:
 
-Once you set your oven’s temperature, the sausages will cook evenly. If you want to quicken the cooking process, you’ll adjust the temperature to reduce the cooking time. 
+1. **Keep the oven at 400°F or below** for fresh links, unless the packet says otherwise.
+2. **Take the chill off first.** Ten minutes on the counter lets the outside and the middle start closer together.
+3. **Do not crowd the tray.** Sausages packed tight trap steam between them, and trapped steam raises surface pressure.
 
-To avoid overcooking your sausages, we recommend that you use a **[meat thermometer](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking/)**. This way, you’ll quickly tell when the sausages get to the right temperatures (approximately 160 degrees Fahrenheit) for eating. 
+A split casing is not dangerous, and the sausage is still good to eat. It just leaks the fat you were trying to keep.
 
-**Ideal for Cooking Many Sausages** 
+## Rack or Straight on the Sheet Pan?
 
-When you have many visitors, you may be required to serve many sausages. Pan-frying or deep frying them will surely be a hassle.
+Both work, and they give you different sausages. Pick the one that matches what you want.
 
-Fortunately, you can use your oven to make a large number of sausages simultaneously. 
+| Setup | What you get | Best for |
+| --- | --- | --- |
+| Directly on the sheet pan | One deeply browned side where it touches metal, fat pooling around it | Breakfast links, anything you want crisp on the bottom |
+| On a wire rack over the pan | Even colour all the way round, fat dripping away | Italian sausage, brats, thicker links |
+| On foil or parchment, on the pan | Easy cleanup, slightly less browning | Sticky glazed sausage, quick weeknights |
 
-## How to Cook Sausages in the Oven – Step-by-Step Guide
+The rack works the same way it does for [reheating chicken wings](/blog/how-to-reheat-chicken-wings/). Lifting the sausage half an inch lets hot air pass underneath it, so no part of the surface is sitting in its own grease. That gives you colour all the way around without turning the links at all.
 
-**What you Need**
+Going straight onto metal gives up that evenness and trades it for a harder sear on one face. Plenty of people prefer it for breakfast links, where a crisp flat side is the point.
 
-* An Oven 
-* Sausages (Your ideal number)
-* An aluminum foil or a parchment paper
-* **[Meat thermometer](https://www.amazon.com/ThermoPro-TP-17-Digital-Backlight-Thermometer/dp/B07477NMF4?tag=kitchenpot-20)** (optional but very helpful)
+Whichever you choose, use a rimmed pan. A flat cookie sheet lets rendered fat run off the edge and onto the oven floor, and burnt fat smells for days. A sturdy [Nordic Ware half sheet pan](https://www.amazon.com/dp/B000G0KJG4/?tag=kitchenpot-20) is the standard choice here. The most common note in owner reviews is that the bare aluminium discolours over time, without changing how it cooks. If your oven is smaller than standard, our guide to [compact baking sheets and pan sizes](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) explains which sizes still fit.
 
-**Method** 
+For a general upgrade, our picks for the [best bakeware for small kitchens](/blog/best-bakeware-for-small-kitchens/) and our [bakeware set roundup](/blog/best-bakeware-sets/) both cover rimmed pans that handle roasting as well as baking.
 
-* Remove your sausages from the refrigerator approximately 15 minutes before cooking them
-* Preheat your oven to 400 degrees Fahrenheit
-* Take out your baking pan and layer it with parchment paper or an aluminum foil
-* Place your sausages on the parchment paper/aluminum foil (ensure that they do not touch each other)
-* Place your baking pan (with sausages) in the heated oven
-* Cook the sausages for approximately 30 minutes (turning them halfway)
-* Remove them from the oven and serve with an accompaniment of your choice
+## The Method, Step by Step
 
-## What Temperature to Use When Cooking Sausages in the Oven
+1. **Take the sausages out of the fridge** about ten minutes before cooking, and heat the oven to 400°F.
+2. **Line a rimmed sheet pan** with foil or parchment if you want easy cleanup, or set a wire rack in it for even colour.
+3. **Space the links out.** Leave at least half an inch between them so air can move. Crowding steams them.
+4. **Bake for the time in the table above.** Turn them once at the halfway mark if they are sitting directly on the pan.
+5. **Check the thickest sausage** with an instant-read thermometer, pushing the probe in from the end and along the length.
+6. **Rest them for three minutes** before serving. The juices settle and the casing stops straining.
 
-You should bake your sausages at 400 degrees Fahrenheit for approximately 30 minutes. They start browning at 15 minutes when you should turn them. 
+No oil is needed. Fresh sausage carries enough fat to brown itself, and added oil mostly makes the pan harder to wash. Very lean chicken or turkey links are the exception, and a light brush of oil keeps those from drying at the surface.
 
-Always ensure that you avoid charring or blackening the sausages since it may change the taste and have an adverse health effect on the consumer. 
+A [thin metal spatula](/blog/best-metal-spatula-set/) turns links without tearing the casing, and a pair of [heat-resistant gloves](/blog/10-best-heat-resistant-gloves-for-cooking/) is safer than a tea towel when you are sliding out a tray of hot fat.
 
-## How to Know When Oven Baked Sausages are Cooked 
+## Turning: How Often and When It Matters
 
-While baking your sausage for 30 minutes at 400 degrees will almost always achieve even doneness, we recommend that you use a **[meat thermometer](https://www.amazon.com/ThermoPro-TP-17-Digital-Backlight-Thermometer/dp/B07477NMF4?tag=kitchenpot-20)**.
+Turning sausages is not about cooking them through. The oven already does that from all sides. Turning is about colour.
 
-The change of color and the timing can be quite misleading. You should always be keen to avoid undercooked sausages since they may cause adverse health effects.
+- **On a rack:** no turning needed. Air reaches every surface already.
+- **On a sheet pan:** turn once, halfway. The side that was down browns deeply, then the other side catches up.
+- **On foil or parchment:** turn once, and expect slightly softer colour on both sides.
 
-> **According to the** **[Center for Disease Control and Prevention (CDC)](https://www.cdc.gov/parasites/trichinellosis/), undercooked meat may introduce the Trichinella parasite to the body, which will result in a Trichinosis disease.**
+Turning more often does not help and costs you heat every time the door opens. Twice is the most any sausage needs.
 
-As such, you must ensure that your sausages are well done. To achieve this, ensure that you use your **[meat thermometer](https://www.amazon.com/ThermoPro-TP-17-Digital-Backlight-Thermometer/dp/B07477NMF4?tag=kitchenpot-20)** to ensure that your **sausages’ internal temperature is at least 165 degrees Fahrenheit.**
+Use tongs rather than a fork. A fork does exactly what pricking does, which is open a hole in the casing and let the fat out.
 
-## Alternative Methods of Cooking Sausages 
+## Browning at the End Without Overcooking
 
-Sausages offer high-level versatility, and there are a plethora of options that you can use to cook them. Besides baking them in the oven, you can also use the following methods to cook your sausages:
+Sometimes the sausage hits temperature while still looking pale. That happens most with poultry sausage and with anything cooked on a rack at a lower heat.
 
-**Boiling**
+The fix is two minutes under the broiler. Move the pan to the upper third of the oven, switch the broiler to high, and watch the whole time. Sausages go from golden to black quicker than you expect.
 
-Boiling your sausages is one of the easiest and healthiest methods to prepare your sausages at home. 
+A second option is to finish them in a hot pan. Thirty seconds per side in a [cast iron skillet](/blog/lodge-cast-iron-skillet-review/) gives a sear the oven cannot match. This is worth doing when the sausage is going into a bun, where the flat browned face is the part you taste first.
 
-To boil your sausages, you should place them into a pot of boiling water and let them simmer for a few minutes.
+Convection helps as well. If your oven has a fan, use it and drop the temperature by 25°F. The moving air dries the casing faster and browns it more evenly, the same effect our guide to [baking cookies in a convection oven](/blog/how-to-bake-cookies-in-a-convection-oven/) describes.
 
-If they are pre-cooked, your sausages will be ready after 10-15 minutes. If they are raw, you should boil them under low heat for approximately 30 minutes. 
+## The Number That Decides Doneness
 
-Boiling your sausages will not offer any browning or crispy appearance on the outside. If you need the crispness, we recommend you use a pan-frying method. You can only boil sausage links and not patties. 
+Browning tells you almost nothing about the inside. Sausages get their colour from surface sugars and proteins, and those react long before the middle is safe.
 
-**Grilling and Broiling** 
+The USDA is specific about this. Uncooked sausage made from [beef, pork, lamb or veal should reach 160°F](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/meat-catfish/sausages-and-food-safety), while uncooked sausage made from chicken or turkey should reach 165°F. Fully cooked sausage only needs heating through, and 165°F is the safe target for that too.
 
-These sausage cooking techniques use high-temperature to achieve an exceptional browning and irresistible crispness. 
+Where you put the probe decides whether the reading means anything. Slide it in through the cut end and push it along the middle of the link, not across it. A sideways probe passes through the thin part and reads high.
 
-The difference between grilling and broiling is primarily on the method of heating used. For grilling, the heat is below the sausages, while broiling involves heating the sausages from above. 
+An instant-read thermometer is the only tool that settles this. The [ThermoPro TP19H](https://www.amazon.com/dp/B07XXSYLL8/?tag=kitchenpot-20) is a common budget pick with a folding probe. Owner reviews praise how fast it reads, and they also mention that the probe is thin and bends if handled roughly. Our roundup of the [best meat thermometers](/blog/best-meat-thermometer-for-smoking/) covers leave-in probes too, which suit long roasts more than sausages.
 
-To achieve the unique flavor, ensure that you grill your sausages for approximately 10 minutes while turning them after every few minutes. 
+Clean the probe after every session, especially when it has touched raw sausage. Our guide to [cleaning a meat thermometer](/blog/how-to-clean-a-meat-thermometer/) covers that in four steps.
 
-If you use the broiling option, you should place the sausages on a broiler pan and place them in an oven for 10 minutes. Ensure that you turn them halfway to ensure even doneness and well-distributed browning. 
+## Fresh Sausage vs Pre-Cooked Sausage
 
-**Stir-Frying/ Pan-Frying**
+These two need completely different treatment, and mixing them up is the most common mistake people make with a sheet pan.
 
-Stir-frying involves cooking your sausages in a skillet, pan, or a wok. You will be required to flip the sausages regularly to achieve uniform doneness. 
+**Fresh sausage** is raw ground meat in a casing. Italian links, bratwurst, breakfast links and most butcher sausage fall here. They must be cooked through, and the USDA gives fresh sausage only one to two days in the fridge before cooking. Cooked, they keep three to four days.
 
-To pan-fry your sausages, you should add a few drops of oil into your pan and let it heat. Add your sausages and turn them regularly until they brown both sides. The entire cooking process may take 10-15 minutes. 
+**Pre-cooked sausage** has already been cooked at the plant. Kielbasa, smoked sausage, frankfurters and many chicken sausages are in this group. They are safe to eat cold, so the oven is only warming them and building colour. Give them 12 to 15 minutes at 375°F, or slice them lengthways first for more browned surface.
 
-The use of oil makes stir-frying is a relatively unhealthy sausage cooking method. However, you can use healthy/vegetable oil such as canola oil, avocado oil, olive oil, coconut oil, or butter.
+The label settles it. Anything marked "fully cooked" or "ready to eat" belongs in the second group. Anything that says "keep refrigerated, cook thoroughly" belongs in the first.
 
-Avoid frying your sausages for long since they may form undesirable compounds that may have adverse health effects. After cooking for 15 minutes, you can cut one sausage to check whether the inner is firm, in which case it will be ready. 
+Pre-cooked links dry out if you treat them like fresh ones, since there is no raw middle to protect them. That is why warmed frankfurters often taste tough, and why a [steamer and bun warmer](/blog/best-hot-dog-steamer-and-bun-warmer/) does a better job of them than a hot oven.
 
-**Deep Frying** 
+## Cooking Sausages From Frozen
 
-This is the unhealthiest method of cooking your sausages. It involves complete immersion of the sausages in fat. Consequently, the sausages will absorb quite a large amount of oil, which may not be drained entirely even with the use of serviettes. 
+You can bake fresh sausage straight from the freezer, and you do not need to thaw it first. The only adjustments are the temperature and the clock.
 
-To deep-fry your sausage, you should into a deep fryer containing heated oil (of up to 375°F). Cook the sausages until they are done (after approximately 5 minutes).
+1. Set the oven to 375°F rather than 400°F. A lower heat gives the middle time to catch up.
+2. Separate the frozen links on the pan. Frozen sausages stuck together will not cook evenly.
+3. Bake for 40 to 50 minutes, turning them twice.
+4. Raise the heat to 425°F for the final five minutes if they need colour.
+5. Confirm 160°F inside, or 165°F for chicken and turkey sausage.
 
-**To get the best results, use oils with a high smoke point. Viable options include coconut oil, olive oil, and avocado oil**.
+Freezing them in a single layer on a tray before bagging stops that welded-together block from forming. Storing cooked sausage well matters too, and a good [airtight container](/blog/best-airtight-food-storage-containers/) keeps it usable for the three to four days the USDA allows. The same batch logic runs through our [easy meal prep ideas for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/).
 
-Additionally, you can egg wash (eggs and cream/milk) and cover them with breadcrumb to make them even tastier.
+## Problems and What Caused Them
 
-While this method is widely used, the final product has higher calories and fat content than all other cooking methods. 
+| What happened | Why | What to change |
+| --- | --- | --- |
+| Casing split open | Oven too hot, or sausages went in fridge-cold | Drop to 375°F and rest them out 10 minutes |
+| Pale and soft after the full time | Crowded pan, or oven not preheated | Space them out, broil 2 minutes at the end |
+| Dry and crumbly inside | Pricked, or cooked well past 160°F | Stop pricking, pull at temperature |
+| Burnt bottom, raw middle | Sat in pooled fat on a dark pan | Use a wire rack, or turn at halfway |
+| Sausages stuck to the pan | No liner and a lean sausage | Use parchment, or brush the pan lightly |
+| Smoke in the kitchen | Rendered fat hit a bare oven floor | Use a rimmed pan, not a flat sheet |
 
-## Which is the Healthiest Method to Cook Sausages?
+## Cook the Sides on the Same Tray
 
-The two healthiest options that you should consider are baking and boiling. These methods offer sausages with low calories and fats, thus ensuring that you enjoy the delicacy without worrying about fat/bad cholesterol built up in the body. 
+Once the oven is on, the tray has room to spare. Sausages release fat as they cook, and that fat is very good at roasting vegetables.
 
-The most unhealthy option is deep frying. This method increases the calories and fat content of your sausage. As such, you should avoid them, especially if you’re dieting. 
+Toss halved baby potatoes, wedges of onion and chunks of pepper in a little oil, then spread them around the links. Thicker Italian sausage and potatoes finish at about the same time, so one tray at 400°F for 25 to 30 minutes gives you the whole meal. A [large cutting board](/blog/best-over-the-sink-cutting-board/) makes the prep quicker when counter space is short.
 
-## How to Cook Sausages in the Oven -The Bottom Line 
+Cook for one or two people and a smaller pan makes more sense than a half sheet. Our guide to [cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) covers the sizes that suit a single portion. A [countertop oven](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) does the same job without heating a full-size oven for four links.
 
-Cooking sausages in the oven is one of the healthiest cooking options you can have. It assures you of delicious meals with relatively low calories and fat levels.
+## Other Ways to Cook Sausages, Briefly
 
-If you’ve been wondering how to cook sausages in the oven to get the best results, then this article offers you a step-by-step guide. 
+The oven is not the only answer, and it is worth knowing when something else fits better.
 
-You will also get viable alternatives that you can use to cook your sausages and the best oil to use. 
+- **Air fryer.** Faster than the oven and very good on colour. Give fresh links 10 to 12 minutes at 380°F. Our picks for the [best air fryers under $100](/blog/best-air-fryers-under-100/) cover baskets big enough for a few links, and the technique mirrors [cooking frozen fries in an air fryer](/blog/how-to-cook-frozen-french-fries-in-an-air-fryer/).
+- **Grill.** Best flavour of any method, with medium indirect heat and a closed lid. A [gas and charcoal combo grill](/blog/best-gas-and-charcoal-grill-combo/) lets you sear at the end, and compact models in our [small grills for balconies and patios](/blog/best-small-grills-for-balconies-and-patios/) guide suit apartment cooks.
+- **Skillet.** Right for one or two links. Start in a cold pan over medium heat and roll them slowly, as described in our [nonstick pan buying guide](/blog/best-nonstick-pans-with-buying-guide/). If the terminology trips you up, the [difference between a skillet and a frying pan](/blog/difference-between-skillet-and-frying-pan/) clears it up.
+- **Electric griddle.** Handles a big breakfast batch flat and even, and our guide to [cleaning an electric griddle](/blog/how-to-clean-electric-griddle/) deals with the grease afterwards.
 
-## How to Cook Sausages in the Oven -FAQs
+Boiling deserves one honest word. It cooks a sausage safely and keeps it juicy, but it gives you no colour and no crust at all. Simmer first, then finish in the oven or a pan if you go that route.
 
-### How long should I cook sausages in the oven?
+## Start With the Packet, Finish With the Thermometer
 
-Bake your sausages for 30 minutes at 400 degrees Fahrenheit. Use your thermometer to ensure that the sausage’s internal temperature gets to at least 165 degrees Fahrenheit before you can eat them. 
+Sausage diameters vary far more than recipes admit, so any chart is a starting point rather than a rule. Read the packet, set the oven, then let a thermometer tell you when to stop.
 
-### Can I cook sausages in the oven?
+Do that once and you stop guessing. Every batch after it is just timing.
 
-Yes, cooking sausages in the oven yields some of the tastiest sausages ever. Even better, it makes cooking for many people a breeze. 
+## Related Guides
 
-### How can I cook deer sausages in the oven?
-
-Venison sausages require to be turned frequently yet gently to achieve even doneness without breaking them. Place the deer sausages in 375 degrees Fahrenheit oven and let them sizzle.u003cbru003eImmediately they start sizzling; you should reduce the heat and cook them gently for approximately 15 minutes.
+- [How to Reheat Chicken Wings So the Skin Gets Crispy Again](/blog/how-to-reheat-chicken-wings/)
+- [9 Best Meat Thermometers for Smoking](/blog/best-meat-thermometer-for-smoking/)
+- [How to Bake Cookies in a Convection Oven](/blog/how-to-bake-cookies-in-a-convection-oven/)
+- [Best Small Ovens and Toaster Ovens for Small Kitchens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/)
+- [What Can You Cook in a Roaster Oven?](/blog/what-can-you-cook-in-a-roaster-oven/)
+- [8 Best Slide-In Electric Ranges Under $1000](/blog/best-slide-in-electric-range/)
+- [What Can I Cook in an Electric Skillet?](/blog/what-can-i-cook-in-an-electric-skillet/)
