@@ -1,184 +1,269 @@
 ---
-excerpt: Wondering how to reheat pizza without the sogginess? Here are 3 best
-  methods to restore crispy crust & melty cheese. Skillet, oven & air fryer
-  tricks, and more!
+excerpt: "The microwave is why leftover pizza has a bad reputation. Here is how to reheat pizza in a skillet, an oven, an air fryer or a toaster oven, plus the food safety rules."
 showTableOfContents: true
 authorId: kitchenpot1
-title: How to Reheat Pizza - 3 Reliable Methods
+title: "How to Reheat Pizza (Skillet, Oven, Air Fryer and What to Skip)"
 source: wordpress
 slug: how-to-reheat-pizza
 pubDate: 2020-09-04
-modDate: 2025-02-18
+modDate: 2026-09-22
 image: ""
 category: How To Guides
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: How to Reheat Pizza - 3 Reliable Methods
+coverAlt: A slice of leftover pizza reheating in a covered cast iron skillet on a stovetop
 tags:
-  - air-fryer
-  - best-skillet
-  - how-to-bake-cookies-on-convection-oven
-  - how-to-reheat-chicken-wings
+  - reheating-leftovers
+  - pizza
+  - skillet-cooking
+  - food-safety
 authorImageAlt: kitchenpot1
-description: "Wondering how to reheat pizza without the sogginess? Here are 3 best methods to restore crispy crust & melty cheese. Skillet, oven & air fryer tricks, and more!"
-seo: How to reheat pizza pizza without imposing adverse health effects to your
-  loved ones is a priority. That is why we have included a comprehensive guide
-  on the topic.
+description: "How to reheat pizza so the crust crisps instead of flopping: the skillet steam trick, the oven and air fryer times, and why the microwave always fails you."
+seo: "How to reheat pizza in a skillet, oven, air fryer or toaster oven. Times, temperatures, the water-and-lid steam trick, the food science behind a soggy crust, and USDA food safety limits for leftover slices."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "What is the best way to reheat pizza?"
+    answer: "A skillet with a lid. Put the cold slice in a dry pan over medium-low heat and let the bottom crisp for about four minutes. Then add half a teaspoon of water to a bare spot in the pan, cover it, and give it two more minutes. The steam melts the cheese while the pan keeps the crust crisp."
+  - question: "How long can pizza sit out before it is unsafe?"
+    answer: "Two hours at normal room temperature, or one hour if the room is above 90°F. That is the USDA limit for any cooked food held between 40°F and 140°F. Pizza left on the counter overnight should be thrown away, even if it looks and smells fine. Bacteria that cause illness often leave no clue."
+  - question: "Why does reheated pizza get soggy?"
+    answer: "Two things happen in the fridge. The crust starch recrystallizes and pushes out water, and that water collects under the slice. When you heat it too fast, that trapped moisture turns to steam under the crust and cannot escape. Heating from the bottom on a hot dry surface drives the water off instead."
+  - question: "What temperature should I reheat pizza to?"
+    answer: "The USDA says reheat leftovers to an internal temperature of 165°F. Check the thickest part of the slice with an instant-read thermometer, not the tip. Most methods here get there easily. The skillet is the one to watch, so give it the full covered steam step rather than pulling it early."
+  - question: "Can you reheat pizza in an air fryer?"
+    answer: "Yes, and it is the fastest method after the skillet. Set the air fryer to 350°F and give a slice three to four minutes. Lay it flat in the basket with space around it, and do not stack slices. The fan pulls moisture off the surface fast, so the crust firms up while the cheese melts."
+  - question: "How many days is leftover pizza good for?"
+    answer: "Three to four days in the fridge at 40°F or below, which is the USDA guideline for cooked leftovers. Wrap the slices or put them in a sealed container rather than leaving the box open. For longer storage, freeze the slices with parchment between them and use them within about three months."
 ---
-If you love pizza, then you understand the pain of throwing away leftover pizza. However, it is an open secret that pizza will not taste as good as when it was hot!
+Cold pizza is not the problem. The reheat is. Most people reach for the microwave, and that one choice is why leftover slices get a bad name.
 
-If you’ve found yourself in such frustrations, then this article is for you! We’ve offered a comprehensive guide on how to reheat pizza without losing its original taste.
+A covered skillet beats it in about six minutes, using a pan you already own.
 
-You’ll never again worry about the risk of food poisoning and bacterial infections when munching your leftover pizza. Read on to get unmatched pizza heating tips. 
+> **Quick answer:** Put the cold slice in a dry skillet over medium-low heat for 4 minutes. Add half a teaspoon of water to an empty spot in the pan, cover it, and cook 2 minutes more. The bottom crisps, the steam melts the cheese, and the crust never goes limp. For four or more slices, use the oven instead.
 
-## Is It Safe to Reheat Pizza?
+## Every Pizza Reheating Method, Compared
 
-Yes, it is safe to reheat your pizza. However, you should be careful to store it in a refrigerator. If you forget to refrigerate it overnight, then you should never reheat it. 
+Here is how the common methods actually stack up. Times assume one or two slices straight from the fridge.
 
-Additionally, when refrigerating, you should ensure that you do so in a highly hygienic environment to prevent cross-contamination. Also, ensure that you achieve more than 165 degrees Fahrenheit. 
+| Method | Temperature | Time | Crust result | Effort |
+| --- | --- | --- | --- | --- |
+| Skillet with lid | Medium-low | 5 to 7 min | Crisp bottom, soft chew | Low, but you watch it |
+| Oven, cold start | 275°F to 375°F | 20 to 30 min | Evenly crisp all over | Low, mostly waiting |
+| Air fryer | 350°F | 3 to 4 min | Firm, slightly dry | Very low |
+| Toaster oven | 375°F | 6 to 10 min | Crisp top, decent bottom | Very low |
+| Grill | Medium, lid down | 5 to 8 min | Charred, crackly | High |
+| Microwave | 50% power | 45 to 60 sec | Limp, then tough | Lowest |
 
-## Important Points on Reheating Pizza
+The skillet wins on speed and texture together. The oven wins when you are feeding people. Everything else is a trade.
 
-If you’re wondering how to reheat pizza, then you can be certain that there are myriad ways you can use to achieve it. 
+## Why Cold Pizza Goes Soggy in the First Place
 
-However, you should always keep the following in mind for guaranteed safety:
+Understanding this makes every method below make sense.
 
-* Ensure that your leftover pizza gets to 165 degrees Fahrenheit
-* Only reheat your pizza once. If you fail to finish the second time, you should just throw it away
-* Never reheat a pizza that has stayed unrefrigerated (at room temperature) overnight
+When pizza bakes, the starch in the dough absorbs water and swells. Bakers call that gelatinization, and it starts around 150°F. It is what turns raw dough into a crust you can bite.
 
-Reheating your pizza to more than 165 degrees Fahrenheit ensures that you eliminate all disease-causing pathogens. 
+Then the slice cools. The starch molecules start to line back up into tight crystals, and as they do they squeeze out the water they were holding. That process is called **starch retrogradation**, and it is the real reason bread and pizza go stale. It is not simple drying out.
 
-While refrigerating the pizza minimizes the chance of pathogen growth, it is always an excellent idea to take precautionary measures by reheating it.
+Here is the part that catches people. Retrogradation runs fastest at fridge temperature, just above freezing. So the pizza box in your fridge is doing the most damage it possibly can, short of nothing at all.
 
-## Should I Store Pizza in a Refrigerator? 
+Meanwhile the water that the starch pushed out has to go somewhere. It sits on the surface of the crust and underneath the slice. That is the film of damp you feel when you pick up a cold piece.
 
-How to store leftover pizza? This is a question that bothers many pizza lovers. If you’re unable to finish off your pie, you can always store it to eat the following day.
+So a cold slice hands you two problems at once. The crust is stale, and it is wet in exactly the wrong place. Good reheating fixes both, and it fixes them in the right order.
 
-However, how you store your leftover pizza matters a lot. We recommend that you store it in a refrigerator. If you properly do it, you can be sure that it will retain its freshness for 2-3 days.
+Heat above about 140°F breaks those starch crystals apart again, so the starch can take water back in and the crust turns pliable. King Arthur Baking [explains this reversal](https://www.kingarthurbaking.com/blog/2024/08/07/how-to-reheat-pizza) in its own reheating guide. But you also have to drive off the free water sitting under the slice, and that only happens on a hot, dry surface.
 
-If you want prolonged preservation, you can store the pizza in a freezer. Using this technique, your leftover pizza can remain palatable for months. However, we do not recommend this storage method. 
+That is why reheating from the bottom up works and reheating from all sides at once does not. The same logic applies to other leftovers with a crust, which is why our guide to [reheating chicken wings](/blog/how-to-reheat-chicken-wings/) leans on dry heat too.
 
-### **How to Store your Leftover Pizza**
+## The Skillet Method, Step by Step
 
-While we have learned that it is fine to store your leftover pizzas in a fridge, how you store them is crucial.
+This is the method to learn. It takes one pan, one lid and about six minutes.
 
-Shoving your pizza in a fridge while still enclosed in its box is always a terrible idea. The excessive air circulation will harden the pizza, thus making it lose its original taste. 
+Use a heavy pan if you have one. [Cast iron](/blog/lodge-cast-iron-skillet-review/) holds steady heat and gives the crust a browner bottom than thin metal does. A good [nonstick skillet](/blog/best-nonstick-pans-with-buying-guide/) works almost as well and is easier to clean. If you are not sure what you own, our explainer on the [difference between a skillet and a frying pan](/blog/difference-between-skillet-and-frying-pan/) clears it up.
 
-To ensure that your pizza maintains its excellent texture and taste, you should stack the pieces and wrap them using a foil, sheet of wax, or parchment paper. 
+1. **Start with a dry, cold pan.** No oil. Lay the slice flat and turn the burner to medium-low.
+2. **Let the bottom crisp for about 4 minutes.** You will hear a faint sizzle as the trapped water leaves the crust. Lift a corner with a thin spatula and look for light browning.
+3. **Add half a teaspoon of water.** Pour it into a bare patch of the pan, never on the slice.
+4. **Cover the pan and cook 2 more minutes.** The water flashes to steam and melts the cheese from above.
+5. **Uncover and check.** If the cheese is glossy and the bottom is firm, it is done. If the crust still feels soft, give it 1 more minute uncovered.
 
-Every time you stack a piece of pizza, you should foil in an alternating fashion. Once you’re through, you can wrap it with plastic wrap and place it in your refrigerator. 
+A [wide spatula](/blog/best-metal-spatula-set/) makes step two much easier, because you can peek without dragging the toppings around.
 
-## How Long is Leftover Safe for Consumption?
+### Why the Splash of Water Works
 
-This will depend on how well you store your leftover pizza. Ideally, a pizza that has stayed overnight on your kitchen counter is not safe for eating.
+The lid turns your skillet into two cooking zones at once. Underneath, the pan surface stays well above boiling, so it keeps driving moisture out of the crust. Above the slice, the steam raises the air temperature fast and melts the cheese without a broiler.
 
-However, if you refrigerate it well, you can reheat the pizza even after 4 days. If the leftover pizza has been refrigerated for more than 4 days, you should consider discarding it.
+Without the water, the cheese takes so long to melt that the crust burns first. Without the lid, the steam escapes and does nothing. You need both.
 
-Alternatively, you can freeze your pizza if you’re sure that you’ll not finish it within the 4 days. A pizza left in the freezer can go for up to 2 months and still remain safe for reheating and eating. 
+Half a teaspoon is the right amount, and America's Test Kitchen calls for the same splash in its covered-skillet method. More water floods the pan and steams the crust soft, which is the exact result you are trying to avoid.
 
-## How to Reheat Pizza – A Comprehensive Guide
+If your skillet has no matching lid, a [sauté pan with a lid](/blog/best-saute-pan/) does the job, and so does any pot lid that roughly covers the pan. A sheet of foil pressed over the top works in a pinch.
 
-While reheating pizza is a straightforward exercise, you should be cautious to achieve more than 165 degrees Fahrenheit to avoid food poisoning.
+### The Cheese-Side-Down Variation
 
-Here are the top 3 methods that will exhaustively answer your “how to reheat pizza” question?
+Flip the slice and cook it cheese-down in a nonstick pan for a minute before turning it back over. The cheese browns into a thin crisp sheet, like the edges of a good pan pizza.
 
-### 1. **How to Reheat Pizza in an Oven** 
+It is a texture choice, not an upgrade. Try it once on a slice you were going to eat anyway.
 
-An oven offers one of the most reliable techniques for reheating your pizza. However, you must be careful to follow the following steps to the letter lest you get a dried crust:
+> **Watch your stovetop.** A heavy cast iron pan dragged across glass will scratch it. Lift, never slide. Our guide on [protecting a glass-top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/) covers the rest.
 
-* **Preheat Your Oven to 375 Degrees Fahrenheit**
+**Get a skillet that earns its place:** the [Lodge 10.25-inch cast iron skillet](https://www.amazon.com/dp/B00006JSUA/?tag=kitchenpot-20) fits two slices and costs less than most weeknight takeout orders. Owner reviews most often praise the heat retention and flag the weight, which is the honest trade with cast iron.
 
-This is one of the most critical steps. A miss here will result in relatively dried up pizza which will not be fun to eat. 
+[Check Price on Amazon](https://www.amazon.com/dp/B00006JSUA/?tag=kitchenpot-20) [Check Price at Lancaster Cast Iron](https://www.awin1.com/cread.php?awinmid=95395&awinaffid=1956629&clickref=how-to-reheat-pizza&ued=https%3A%2F%2Flancastercastiron.com%2Fproducts%2Flancaster-cast-iron-skillet)
 
-Ensure that your oven heats to 375 F to achieve the original pepperoni and gooey cheese taste. 
+## The Oven Method for Four or More Slices
 
-* **Line a Baking Tray with Paper Foil** 
+Once you are reheating half a pizza, the skillet stops making sense. The oven does every slice at the same time and needs no attention.
 
-You must always ensure that your tray is hot before you place your pizza. To achieve this, you can line it with a foil and slide it into your oven. Let it sit for a few minutes before allowing your pizza to touch it. 
+1. Put the slices on a rimmed baking sheet, straight on the metal.
+2. Slide the sheet into a **cold** oven.
+3. Set the oven to 375°F and start the timer when you turn it on.
+4. Pull the pizza after about 20 minutes, or when the cheese bubbles at the edges.
 
-Alternatively, you can wrap your leftover pizza in a foil and place it directly on the rack. This will achieve uniform heating, thus ensuring that even the deepest part of your pizza reheats well. 
+Skipping the preheat is the whole trick. The slices warm up as the oven does, so the crust dries out gradually instead of scorching before the middle is warm.
 
-* **Start the Reheating Process** 
+America's Test Kitchen goes further and uses a lower 275°F cold start for 25 to 30 minutes, with foil over the top. That version protects the toppings best. The higher 375°F version is faster and browns the crust more.
 
-Once your tray heats, you can place your pizza on top. Push the tray back into the oven and let it reheat for approximately 10 minutes. 
+### Should You Use Foil or a Pizza Stone?
 
-**Downside**
+Foil under the slices makes cleanup easy but softens the bottom, because moisture gets trapped between the foil and the crust. Bare metal gives you a better base. Put the foil over the top instead if the toppings look like they are drying.
 
-While this method is efficient, it takes some time to reheat the pizza entirely. Additionally, it may be uneconomical to heat the oven when warming a single piece of pizza.
+A [pizza stone](/blog/best-pizza-stone/) does give the crispest bottom of any oven method. It also needs a long preheat, so it only pays off if the stone is already living in your oven. For most leftovers, the sheet pan is the sensible call.
 
-### 2. **How to Reheat Pizza in the Stovetop**
+If your oven is a compact apartment model, the same cold-start method still works, though you may need a shorter [baking sheet](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) to fit the rack. Our guide to [baking in a small kitchen](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/) covers what fits where.
 
-This method entails reheating pizza in a skillet. When compared to an oven, using this technique is quicker. Here is a step-by-step guide: 
+## The Air Fryer Method
 
-* **Place Your Skillet On the Stovetop**
+An air fryer is a small convection oven with an aggressive fan. That fan strips moisture off the crust fast, which is exactly what a limp slice needs.
 
-We recommend that you use a nonstick skillet to ensure that your pizza does not stick on the surface. 
+1. Set the air fryer to **350°F**.
+2. Lay the slice flat in the basket with room around it.
+3. Cook for **3 to 4 minutes**.
+4. Check at 3 minutes, because small baskets run hot.
 
-Immediately after placing the skillet on fire, you should place your pieces of pizza directly.
+Do not stack or overlap slices. Air has to reach every surface or you get one crisp slice and one steamed one. That is the same rule that makes [frozen fries work in an air fryer](/blog/how-to-cook-frozen-french-fries-in-an-air-fryer/).
 
-* **Add a Few Drops of Water** 
+The honest limit is texture. The fan dries the top of the cheese along with the crust, so thin-crust slices can come out a little brittle. Dampening the crust edge with wet fingers first helps, and so does a few drops of water in the bottom of the basket.
 
-As you continue heating, you can add a few drops of water on the side. Ensure that you do not pour the water directly on top of your pizza.
+Cheese drips are the other cost. Reheating pizza is one of the messier jobs an air fryer does, so it pays to know [how to clean an air fryer basket](/blog/how-to-clean-an-air-fryer-basket/) before the grease sets. If you are still shopping, our roundup of [air fryers under $100](/blog/best-air-fryers-under-100/) covers models that handle a full slice.
 
-* **Cover the Skillet and Let the Pizza Reheat**
+## The Toaster Oven Method
 
-After adding the water, you should cover the skillet and let it reheat. The water will form steam that will melt the cheese, warm the crust, and give you a crispy texture. 
+A toaster oven splits the difference between the skillet and the full oven. It heats fast, it does two or three slices, and it does not warm your kitchen.
 
-**Downside**
+Set it to 375°F on the bake setting. Put the slice straight on the rack with a tray underneath to catch drips, and give it 6 to 10 minutes. Putting the slice on the rack rather than a pan lets the bottom heat directly, which is the whole point.
 
-Achieving the required 165 degrees Fahrenheit is not possible. As such, you should only do this if you enjoy a relatively warm pizza. 
+Skip the toast setting. It fires the top element hard and burns the cheese before the crust warms through.
 
-***[Learn more about saute pans and how to use them here](https://thekitchenpot.com/blog/best-saute-pan/)***
+This is often the best method in a small apartment, where running a full oven for two slices feels absurd. Our picks for [small ovens and toaster ovens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) cover the sizes that suit tight counters, and these [countertop organization ideas](/blog/countertop-organization-ideas-for-a-small-kitchen/) help you find a home for one. A [countertop convection oven](/blog/how-to-use-a-nuwave-oven/) handles the job the same way.
 
-### **3. How to Reheat Pizza in a Microwave**
+## Why the Microwave Ruins Pizza
 
-This is the least recommended “how to reheat pizza” technique. While microwave has been used traditionally for reheating purposes, it yields undesirable results when reheating pizza. 
+The microwave is not a weak version of an oven. It heats by a completely different route, and that route is wrong for crust.
 
-Microwaving the pizza makes the pizza lose its crunchy top as the flour, protein, and starch that makes it melt away. While it will be initially soft, it will start to become excessively hard as it cools!
+Microwaves excite water molecules, so they heat the wettest parts of the food first and fastest. In a slice of pizza, the wettest parts are the sauce, the cheese and that film of water sitting inside the stale crust. The crust does not brown, because browning needs dry surface heat that a microwave never supplies.
 
-However, you can always use this technique if you intend to eat the pizza instantly and won’t mind soft toppings. 
+Worse, the water inside the crust turns to steam and has nowhere to go. It soaks the dough on its way out. You get a hot, floppy slice in 45 seconds.
 
-Here are the steps to follow when microwaving your pizza:
+Then it cools, and the second problem arrives. All that heating and fast cooling speeds the starch back into its crystal structure, so a microwaved slice goes from limp to leathery within a couple of minutes on the plate. Independent side-by-side comparisons rank the microwave last for exactly this reason.
 
-* Place your pizza on a clean plate 
-* Set your microwave to 35% power
-* Heat the pizza for approximately 1 minute 
+### If the Microwave Is Truly Your Only Option
 
-Only use this method when you have no access to an oven (or even a toaster oven) and stovetop. 
+Sometimes it is the office kitchen or nothing. Two things make it less bad.
 
-Other options that you can explore include:
+- **Drop the power to 50%.** Lower power heats more gently and gives the middle time to catch up, so you avoid a molten center and a cold edge.
+- **Add a glass of water beside the plate.** The water absorbs some of the energy and slows everything down, which reduces the rubbery finish.
 
-### 4. How to Reheat Pizza in an Air Fryer
+Then eat it immediately. A microwaved slice has a very short window before it turns tough. If your microwave is due for replacement anyway, our guide to [over-the-range microwaves](/blog/7-best-over-the-range-microwaves/) covers the models worth the counter space they free up.
 
-* Preheat your air fryer to approximately 325 F
-* Place your pizza leftovers in an air fryer basket
-* Let the pizza reheat for 3-4 minutes. If warmed, then remove it and serve
+## Reheating Pizza on a Grill
 
-### 5. How to Reheat Pizza in a Grill
+If the grill is already lit, it makes a very good pizza oven. The crust picks up char that no indoor method can match.
 
-This is one of the most labor-intensive technique you can use to reheat your pizza. However, it yields crunchy pizza top, making the wait worth it. Here are steps you should follow:
+Set the burners to medium and let the grill come up to heat. Put the slices directly on the clean grate, close the lid, and check after 5 minutes. Thin crusts can scorch in under 4, so look early.
 
-* Set your grill to medium/high and let it heat for some minutes
-* Place your leftover pizza pieces on the grate
-* Let the pizza warm for 6-10 minutes
-* Check whether the crust is crispy. If satisfied, remove it from the grill and serve
+The catch is obvious. Nobody lights a [charcoal grill](/blog/best-gas-and-charcoal-grill-combo/) for two slices of pizza. Treat this as a bonus method for the day after a cookout rather than a plan. Renters with a balcony should also check the local rules first, which our guide to [balcony grilling safety](/blog/balcony-grilling-safety-tips-and-rules/) lays out. A small [portable grill for apartment living](/blog/best-portable-grills-for-apartment-living/) heats up fast enough to make this practical.
 
-While this method is yields impressive results, it has its downsides. First, it requires a lot of energy to start your [best gas and charcoal grill combo](https://thekitchenpot.com/blog/best-gas-and-charcoal-grill-combo/) (if you have an electric grill, the you’ll be lucky!).
+## How Long Can Pizza Sit Out?
 
-Also, using this technique may be limited by weather, especially if you’re into outdoor grilling activities.
+This is the part most reheating guides get wrong, so here is the actual rule.
 
-## Overall Recommendation
+Cooked food is unsafe after **two hours** between 40°F and 140°F. That range is what the USDA calls the danger zone, and bacteria multiply quickly inside it. If the room is above 90°F, the limit drops to **one hour**.
 
-After trying all the methods, we highly recommend the use of an oven. It yields an amazingly crunchy crust and tasty pizza.
+Pizza is not an exception. The cheese, the sauce and any meat topping are all perishable. A box left on the counter overnight has spent eight or more hours in the danger zone, and reheating it will not undo that. Some bacteria produce heat-stable toxins that survive a trip to 165°F.
 
-While the method may heat your house a bit, you can be sure that you’re enjoy the final results!
+So the pizza that sat out while you slept goes in the bin. It will look fine and smell fine. Spoilage bacteria and the bacteria that make you ill are different organisms, and the dangerous ones rarely announce themselves.
 
-## How to Reheat Pizza – The Bottom Line
+| Situation | Safe to eat? | What to do |
+| --- | --- | --- |
+| Out under 2 hours | Yes | Refrigerate or eat now |
+| Out 2 to 4 hours at room temp | No | Throw it away |
+| Out overnight | No | Throw it away |
+| Out over 1 hour above 90°F | No | Throw it away |
+| Refrigerated 1 to 4 days | Yes | Reheat to 165°F |
+| Refrigerated 5+ days | No | Throw it away |
 
-Wondering how to reheat pizza? Well, we understand the frustrations associated with throwing away your favorite leftover pie. 
+Once it is in the fridge at 40°F or below, the USDA gives cooked leftovers [three to four days](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety). Reheat to an internal 165°F. The same clock governs other proteins, which is why [chicken in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/) gets the same short window.
 
-As such, we’ve compiled a list of the best methods that you can use to reheat it. Ensure that you follow the process to the letter if you desire to restore its original taste. Most importantly, always ensure that you reheat the leftover pizza to 165 degree Fahrenheit. 
+### Checking the Temperature
 
-To answer the question “how to reheat pizza”, we favor the “how to reheat pizza with an oven” option. An oven offers a crunchy and enjoyable well-heated pizza for your enjoyment!
+You cannot judge 165°F by eye. Slide an instant-read probe into the thickest part of the slice, not the pointed tip, and hold it in the middle of the dough. The [ThermoPro TP19H](https://www.amazon.com/dp/B09FLTW388/?tag=kitchenpot-20) reads in a few seconds and folds flat for a drawer.
+
+Wipe and sanitize the probe afterwards. Our short guide on [cleaning a meat thermometer](/blog/how-to-clean-a-meat-thermometer/) covers doing it properly, and our [thermometer roundup](/blog/best-meat-thermometer-for-smoking/) has other models if you also grill.
+
+## How to Store Leftover Pizza So It Reheats Well
+
+Storage decides how good the reheat can be. A slice stored badly is already half ruined before it hits the pan.
+
+The cardboard box is the worst container in your kitchen. It is porous, it lets the slices dry on top while the bottoms sweat, and it takes up a whole shelf. Get the pizza out of it.
+
+Do this instead:
+
+1. **Let the slices cool for a few minutes**, but get them refrigerated inside the two-hour window.
+2. **Stack them with parchment or wax paper between each layer.** The paper stops the cheese from welding the slices together.
+3. **Seal the stack.** A [lidded container](/blog/best-airtight-food-storage-containers/) is better than plastic wrap, because it protects the toppings from getting squashed.
+4. **Store on a middle shelf**, not the door. The door is the warmest part of the fridge.
+
+Flat containers stack better than tall ones in a small fridge, which matters if you are working with a [compact or under-counter model](/blog/best-mini-fridge-for-beer/). These [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) help if the containers themselves are the problem.
+
+### Freezing Slices
+
+Freezing stops retrogradation almost completely, which is why frozen-then-reheated pizza often beats four-day-old fridge pizza.
+
+Wrap each slice tightly, then bag the wrapped slices together. Use them within about three months for the best texture. Reheat straight from frozen in the oven at 375°F for roughly 15 minutes, or in a covered skillet on low for 8 to 10.
+
+Do not thaw first. Thawing on the counter puts the slice right back in the danger zone, and it makes the crust wetter than it needs to be.
+
+## Reheating Problems and Quick Fixes
+
+| The problem | What caused it | The fix next time |
+| --- | --- | --- |
+| Crust soft after skillet | Heat too low, or water added too early | Give the dry pan a full 4 minutes first |
+| Bottom burnt, cheese cold | Heat too high, no lid | Medium-low plus the covered steam step |
+| Toppings dried and hard | Oven too hot, or too long | Cold start, and tent with foil |
+| Cheese not melted in air fryer | Basket crowded or too short a run | One slice at a time, check at 3 minutes |
+| Slice tough within minutes | Microwaved | Use any dry-heat method instead |
+| Greasy, soaked crust | Reheated on foil | Reheat on bare metal or a bare rack |
+
+## Which Method Should You Use Tonight?
+
+Count your slices, then pick.
+
+- **One or two slices, and you want the best result:** skillet with a lid.
+- **Three or more slices, or you want it unattended:** oven, cold start, 375°F.
+- **You are in a hurry and have the appliance:** air fryer at 350°F for 3 to 4 minutes.
+- **Small kitchen, small appetite:** toaster oven at 375°F on the rack.
+- **Office kitchen with nothing else:** microwave at 50% power, and eat it fast.
+
+The one rule that carries across all of them is heat the bottom first and last. Every good reheat in this guide is really the same move done with different equipment.
+
+If leftovers are a regular part of how you eat, it is worth setting the kitchen up for them. Our guides to [cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) and [easy meal prep for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) both start from the same idea. And when the skillet needs cleaning afterwards, [cleaning stainless steel pans](/blog/how-to-clean-stainless-steel-pans/) covers the burnt-cheese problem.
+
+## Related Guides
+
+- [How to Reheat Chicken Wings](/blog/how-to-reheat-chicken-wings/)
+- [Best Pizza Stones for Home Ovens](/blog/best-pizza-stone/)
+- [Best Air Fryers Under $100](/blog/best-air-fryers-under-100/)
+- [Best Small Ovens and Toaster Ovens for Small Kitchens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/)
+- [Lodge Cast Iron Skillet Review](/blog/lodge-cast-iron-skillet-review/)
+- [Best Airtight Food Storage Containers](/blog/best-airtight-food-storage-containers/)
+- [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
