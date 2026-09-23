@@ -1,304 +1,369 @@
 ---
-excerpt: "Chop, rinse, and prep with ease using the best over the sink cutting
-  board. They are creatively designed to maximize space and reduce kitchen
-  mess.  "
+excerpt: "Six over-the-sink cutting boards that fit real sinks, with a clear look at how the rails and colanders work, where they fail, and how to measure before you buy."
 showTableOfContents: true
 authorId: kitchenpot1
-title: 10 Best Over the Sink Cutting Board to Make Food Prep a Breeze
+title: "Best Over the Sink Cutting Board (6 Picks That Actually Fit)"
 source: wordpress
 slug: best-over-the-sink-cutting-board
 pubDate: 2020-06-27
-modDate: 2025-02-20
+modDate: 2026-09-22
 image: ""
 category: Cookware Equipment
 author: Boniface Muriuki
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 authorImage: ""
-coverAlt: 10 Best Over the Sink Cutting Board to Make Food Prep a Breeze
+coverAlt: A bamboo over the sink cutting board with a collapsible colander spanning a stainless steel kitchen sink
 tags:
+  - best-over-the-sink-cutting-board
   - cutting-boards
-  - knife-sets-under-100
-  - sinks
+  - small-kitchen-prep
+  - sink-accessories
 authorImageAlt: kitchenpot1
-description: "Chop, rinse, and prep with ease using the best over the sink cutting board. They are creatively designed to maximize space and reduce kitchen mess."
+description: "The best over the sink cutting board for extra prep space, compared by size, colander design and sink fit, with verified specs and practical buying advice."
+seo: "An over the sink cutting board turns your sink into counter space, but only if it fits. This guide explains how the rails and colanders work, where they fail, and compares six current boards in bamboo, poly and stainless steel."
+faq:
+  - question: "How do I measure my sink for an over the sink cutting board?"
+    answer: "Measure the outside width of the sink from the far edge of one rim to the far edge of the opposite rim, not the bowl opening. Fixed boards need rails that land outside that measurement; expandable boards need a range that covers it. Also measure from the rim to the base of your tap, since a tall board plus a low spout means you cannot fill a pot without moving the board."
+  - question: "Do over the sink cutting boards fit every sink?"
+    answer: "No, and fit is the single most common complaint owners have. Deep farmhouse sinks, wide double bowls and workstation sinks with a built-in ledge all cause trouble. Boards with sliding arms handle a much wider range than fixed boards. If you have a workstation sink, buy the accessory board made for that sink instead of a universal one."
+  - question: "Are bamboo or plastic over the sink boards better?"
+    answer: "Bamboo is kinder to knife edges and looks better on show, but it must be hand washed and oiled and it will warp if it sits wet. Plastic and poly boards can usually go in the dishwasher and shrug off standing water, which matters a lot on a board that lives over a sink. Many people keep bamboo for produce and a poly board for raw meat."
+  - question: "Can you put an over the sink cutting board in the dishwasher?"
+    answer: "Poly and plastic boards generally can. Bamboo and solid wood should not: university extension guidance notes that bamboo boards may warp or get damaged in a dishwasher, and glued boards can crack. Silicone colanders are usually dishwasher safe even when the board is not, so detach the colander and wash the board by hand."
+  - question: "What is the colander on an over the sink cutting board actually for?"
+    answer: "It catches whatever you sweep off the board. You chop, push the trimmings or the washed produce through the cut-out into the basket, then lift the whole basket out to drain or bin it. The catch is that the cut-out steals cutting area, and the basket has to sit over the bowl rather than over the divider or the counter, or it drips."
+  - question: "When should I replace an over the sink cutting board?"
+    answer: "When the surface develops deep grooves, cracks or heavy wear, since damaged surfaces can trap bacteria. On these boards also watch the underside rails: once bamboo rails swell and loosen, or plastic feet lose their grip, the board rocks under the knife and becomes unsafe long before the cutting surface wears out."
 ---
-Do you want more cutting space when preparing your meals? Well, buying the best over the sink cutting board is a brilliant way to expand your cutting space over your sink.
+Your sink is the largest unused work surface in the kitchen. A board that spans it can add 200 square inches of prep space for under $40.
 
-Most of these boards have colanders that are essential in draining excess liquid, this providing a conducive working environment. Even better, you can use these hollow parts to store your potatoes and other veggies as you cut them.
+The catch is fit. Owner reviews of these boards are full of people who bought one that rocks, overhangs, or blocks the tap.
 
-If your kitchen space is limited, then getting the best over the sink cutting board may just be the best decision you’ll ever make. It reduces your prep time and makes every step of the preparation fun.
+So this guide starts with the measuring, explains how the rails and colander actually work, then gets to six boards that are worth the money.
 
-However, you must choose the best over the sink cutting board to get the benefits. Ensure that it has perfect dimensions to fit over your sink.
+## Measure two things before you shop
 
-Also, you should be sure that you’ll have no problems using your best [set of knives](https://thekitchenpot.com/blog/best-knife-set-under-100/) on it. It should not be too light to be damaged by the knives.
+**Sink width, rim to rim.** Measure across the outside edges of the sink rim, not the bowl opening. A fixed board has to land its rails outside that number. An expandable board needs a range that covers it.
 
-This article enumerates the factors you should consider when shopping for the best over the sink cutting board. Also, it includes a comprehensive list of the best over the sink cutting boards in the market.
+**Tap clearance.** Measure from the rim up to the underside of your spout. A board sitting on the rim raises your working height by an inch or so, and a low-arc tap plus a thick board means you cannot swing the spout across or fill a pot without lifting everything off.
 
-## 10 Best Over the Sink Cutting Board
+Write both numbers down. Almost every disappointed review of these boards traces back to skipping one of them.
 
-### **1. [Cheff Buddy Cutting Board And A Wire Colander- 2 In 1 Chopping Board](https://www.amazon.com/Colander-Adjustable-Stainless-Chef-Buddy/dp/B00078WHME?tag=kitchenpot-20)**
+## Top Picks for Small Kitchens
 
-The chef buddy chopping board features expandable handles that can be adjusted to fit on many kitchen sinks. It’s an amazing accessory that adds an extra counter space for kitchen users with a small prepping space.
+- **Best overall:** [Dexas Over the Sink Poly Cutting Board with Collapsible Colander](https://www.amazon.com/dp/B07GZBFJ17/?tag=kitchenpot-20)
+- **Best expandable:** [Lipper International Bamboo Over-the-Sink Expandable Cutting Board](https://www.amazon.com/dp/B09ZQ98MKJ/?tag=kitchenpot-20)
+- **Best large bamboo board:** [Homevative Over the Sink Bamboo Cutting Board with Strainer](https://www.amazon.com/dp/B08L3VX6K6/?tag=kitchenpot-20)
+- **Best compact bamboo board:** [Island Bamboo Over the Sink Cutting Board with Collapsible Strainer](https://www.amazon.com/dp/B071YDN95T/?tag=kitchenpot-20)
+- **Best budget board:** [NiHome Over the Sink Cutting Board with Collapsible Colander](https://www.amazon.com/dp/B0BM798RYV/?tag=kitchenpot-20)
+- **Best for RVs and small sinks:** [Ximasim Stainless Steel Over the Sink Cutting Board](https://www.amazon.com/dp/B0DPZSSH42/?tag=kitchenpot-20)
 
-This over the sink durable chopping board is designed with a solid wood that eliminates the knives’ damage and dulling as you cut your veggies. Additionally, it comes with a stainless-steel wire straining basket that enhances durability for extended use.
+## How these boards actually work
 
-[Check Price on Amazon](https://www.amazon.com/Colander-Adjustable-Stainless-Chef-Buddy/dp/B00078WHME?tag=kitchenpot-20)
+There are only two mechanisms involved, and both have predictable weak points.
 
-The good news is, it comes with an in-built strainer that lays over the kitchen sink, thus allowing you to cut, wash, and then dry veggies, meats, fruits, and more. It’s a great model for messy tasks such as cutting tomatoes and maintains your counters tidy.
+### The rails
 
-This fantastic and solid wood chop board with a strainer has simple to install screws essential in holding the brackets in position. Simply drill the screws in position then set it over the sink. 
+Flip any of these boards over and you will find either two raised cleats running across the underside, or a pair of arms that slide in and out on tracks. Those rails straddle the sink rim. The board does not clamp to anything; it sits there, and the rails stop it sliding sideways when you press down with a knife.
 
-The Chef Buddy offers a 185 square inches, and the board measures 3.5 inches by 17.8 by 11.1 inches. The removable strainer weighs only 3.2 pounds.
+Fixed cleats are simpler and stiffer. They also only work if the gap between them is a little wider than your sink. Too narrow and the board perches on top of the rim and rocks. Too wide and the rails land on the counter instead, which is fine for stability but means the board is no longer over the sink at all.
 
-**Pros** 
+Sliding arms solve the range problem. The Lipper board, for example, runs from 23.75 inches closed to 34 inches fully extended, which covers almost any domestic sink. The trade is a little flex in the middle and more parts to keep clean.
 
-* It’s made of wood that’s non-toxic
-* A relatively stable model
-* It has a removable colander
-* It’s a lightweight cutting board.
+**Where rails fail:**
 
-**Cons**
+- **Rocking.** If the rail span does not match your rim, the board tips as you lean into a hard squash or a root vegetable.
+- **Levering.** Press hard on the far edge of an overhanging board and the near edge lifts. Always cut between the rails, not past them.
+- **Swelling.** Bamboo rails that sit in splash water swell and then loosen in their glue joints. A board that has started to rock at the rail is done.
+- **Workstation sinks.** Sinks with a built-in ledge already have their own accessory track. A universal board usually sits too high, or spans the ledge and blocks it.
 
-* Needs frequent oiling
-* The wood material can crack with time.
+### The colander
 
-### **2. [Good Cook Cutting Board](https://www.amazon.com/Good-Cook-Cutting-12-inch-16-inch/dp/B001CD1KCQ?tag=kitchenpot-20)** 
+The colander is a cut-out in the board with a basket underneath, usually collapsible silicone or a removable plastic basket. You chop, sweep the pieces through the hole, rinse them under the tap, then lift the basket out to drain.
 
-This kitchen sink chopping board is sturdy, and a handy tool convenient for every kitchen user. It comes with an extra-long size that perfectly fits in every kitchen. The cutting board measures 1 inch by 11 inches by 19.7 inches and weighs 3 pounds with a removable colander that features a durable stainless steel rim.
+It works well for exactly one workflow: washing and trimming produce. Hull strawberries and the tops go through the hole. Rinse a head of lettuce, chop it, push it into the basket, lift it out. No second bowl, no second trip to the bin.
 
-Furthermore, the board comes with a food-grade polypropylene and silicone material that’s 100% BPA free. Moreover, the silicone board can safely be used with any food.
+**Where colanders fail:**
 
-**[Check Price on Amazon](https://www.amazon.com/Colander-Adjustable-Stainless-Chef-Buddy/dp/B00078WHME?tag=kitchenpot-20)**
+- **Lost cutting area.** A 20-inch board with a colander gives you maybe 12 inches of usable surface. The board sounds bigger than it cuts.
+- **Positioning.** The basket has to hang over a bowl. On a double sink, sit it over the wrong side and the drips land on the divider or the counter.
+- **Sagging.** Collapsible silicone baskets flex under a load of wet greens. Lift from underneath, not by one edge.
+- **Seating.** Removable baskets that only rest in the cut-out can tip if you knock them. Baskets that clip in are steadier but slower to detach.
 
-More so, this board is dishwasher safe. In other words, you can chop pieces of fish and meat as cleaning is an easy task. Additionally, it comes with a colander that easily collapses to enhance easy storage. The board is extra-long and can easily fit in numerous kitchen sinks.
+If that trade-off does not appeal, buy a plain board with a juice groove instead and use a separate colander. Plenty of prep, like carving or slicing cooked meat, is better on an uninterrupted surface anyway, the same way a [meat slicer](/blog/best-meat-slicer-for-home-use/) wants a clear run.
 
-**Pros**
+## The six boards compared
 
-* It comes with sturdy construction to enhance longevity
-* Its dishwasher safe to make the cleaning task a breeze
-* The colander is collapsible to facilitate easy cleaning
-* An extra-long board that fits easily on many kitchen sinks.
+| Board | Material | Size | Colander | Fits |
+| --- | --- | --- | --- | --- |
+| Dexas Poly | Poly with grippy corners | 11.5 x 20 in | Collapsible, removable | Most standard single and double sinks |
+| Lipper International | Bamboo, sliding arms | 23.75 to 34 x 11.5 in | None, plain board | Widest range here |
+| Homevative | Bamboo | 24 x 12 in | Collapsible silicone, removable | Larger sinks |
+| Island Bamboo | Bamboo | 18 x 10 in | Collapsible, removable | Small and apartment sinks |
+| NiHome | PP plastic with TPR rubber | 11 x 17.7 in | Detachable basket with handle | Standard sinks |
+| Ximasim | Stainless steel, expandable | 15.75 x 12.8 in | Drains through the board | RV, camper and small sinks |
 
-**Cons**
+## How we chose
 
-* The colander is too small
-* It’s challenging to store the cutting board.
+Manufacturer specifications and care instructions, published dimensions, material behaviour around water, and recurring themes in verified owner reviews, particularly around fit. We have not used these boards ourselves; nothing here is presented as first-hand experience.
 
-### **3. [Dexas Over the Sink Board](https://www.amazon.com/Dexas-Over-Strainer-Board-Natural/dp/B00WHVANQ6?tag=kitchenpot-20)**
+## 1. Dexas Over the Sink Poly Cutting Board: Best Overall
 
-Dexas comes with a budget-friendly price that fits you when on a squeezed budget. This plastic tool features a compact size that measures 11.5 inches by 20 inches. Therefore, it can fit into many kitchen sinks.
+- **Material:** Poly cutting surface with grippy corner pads
+- **Size:** 11.5 by 20 inches
+- **Colander:** Collapsible, removable strainer basket
+- **Care:** Poly surface tolerates hot soapy water and does not absorb moisture
 
-It has two non-slip rubber edges that grip the surface to make the board remain securely stable. The board has a color that matches the collapsible strainer giving the cutting board a pretty look.
+This is the board that suits the most kitchens, mostly because poly is the right material for something that lives over a sink. Bamboo has to be kept dry and oiled. Poly does not care. Splash it, scrub it, leave it wet, and it stays flat.
 
-The product comes with a relatively concave shape to prevent liquids from chopped foods from spilling on you. 
+The layout is the other reason. The strainer sits at one end rather than in the middle, so the cutting surface stays in one continuous piece instead of being split by a hole. You prep along the length of the board and sweep everything sideways into the basket in one motion.
 
-Also, the cutting board features a convenient material that makes the product easy to be washed by a dishwasher. Therefore, chopping fish, raw meat, or other things with nasty smell will no longer be a concern.
+Owner feedback points at the same two things repeatedly. The praise is for the grippy corners and how easily chopped food moves from board to strainer. The complaint, and it is the one to take seriously, is that it may not fit every sink perfectly, leaving an uneven surface on non-standard sizes. Measure first, then skim the [customer review patterns](https://www.amazon.com/product-reviews/B07GZBFJ17/?tag=kitchenpot-20) to see whether your sink sounds like the ones people report trouble with.
 
-A big thanks to its innovative design and its lifetime warranty and comes with a2-1/2 quart strainer that can be easily collapsible and removable for easy storage. It’s an excellent pick for cleaning and chopping veggies and fruits.
+**What we like:**
 
-[Check Price on Amazon](https://www.amazon.com/Dexas-Over-Strainer-Board-Natural/dp/B00WHVANQ6?tag=kitchenpot-20)
+- Poly surface handles standing water without warping.
+- Grippy corner pads noticeably reduce sliding.
+- The strainer sits at one end, leaving a continuous cutting area.
+- The basket detaches for washing and for carrying scraps to the bin.
+- Easy to clean properly, which matters for raw meat prep.
+- Stores flat against a cabinet wall or behind a sink.
 
-**Pros**
+**What to know before you buy:**
 
-* It comes with a lifetime warranty
-* Features a concave shape to prevent unnecessary food spills
-* It comes with a budget-friendly price
-* Dishwasher safe to make the cleaning task easy.
+- It is a fixed width, so it will not suit unusually wide or narrow sinks.
+- Poly dulls knife edges faster than bamboo, so plan on [sharpening more often](/blog/best-knife-sharpener/).
+- It looks like a tool, not a serving board.
 
-**Cons**
+**Who should buy it:** Anyone who wants one board for everyday prep including raw meat, and who has a standard-sized sink. Pair it with a decent [knife set](/blog/best-knife-set-under-100/) and it covers most weeknight cooking.
 
-* The colander isn’t durable enough and can wear out easily.
+[Check Price on Amazon](https://www.amazon.com/dp/B07GZBFJ17/?tag=kitchenpot-20)
 
-### **4[. Prepworks by Progressive PCB-3510G](https://www.amazon.com/Prepworks-Progressive-PCB-3510G-Collapsible-Dishwasher/dp/B00364Q9DE?tag=kitchenpot-20)**
+## 2. Lipper International Bamboo Over-the-Sink Expandable Cutting Board: Best Expandable
 
-This over the sink cutting board from progressive is well-designed, practical, and a suitable model that’s designed to fit on many sinks. The price and the design make it a perfect over the sink cutting board.
+- **Material:** Bamboo with a natural vegetable oil finish
+- **Size closed:** 23.75 by 11.5 by 0.75 inches
+- **Size extended:** 34 by 11.5 by 0.75 inches
+- **Cutting area:** 20.5 by 9.25 inches
+- **Care:** Hand wash only, do not soak, oil occasionally
 
-Additionally, it measures 1.5 inches by 9.9 inches by 16.5 inches, and it’s constructed with a polypropylene material that makes it completely non-toxic. In other words, it’s safe to use the cutting board.
+If your sink is an awkward size, this is the one that will fit it. The centre board sits on two arms that slide out on tracks, giving a span from 23.75 inches all the way to 34 inches. That covers single bowls, wide double bowls, and even a run across a section of counter if you want an extra work surface somewhere else.
 
-**[Check Latest Price on Amazon](https://www.amazon.com/Dexas-Over-Strainer-Board-Natural/dp/B00WHVANQ6?tag=kitchenpot-20)**
+There is no colander, and for a lot of people that is the point. The cutting area is a solid 20.5 by 9.25 inches with nothing interrupting it, which is more truly usable space than a 24-inch board with a hole in the middle. Use it with a bowl or a separate colander in the sink below.
 
-This fantastic tool comes with an extendable handle that can further extend the board up to 24 inches. The colander is removable and collapsible, making it easy to store the unit on a squeezed kitchen drawer. It’s a lightweight tool that weighs only 2.5 pounds.
+Bamboo needs looking after. Lipper's instructions are hand wash with mild soap and cool water, never soak, dry thoroughly, and rub in food-safe mineral oil now and then. Skip the oiling and the surface dries out and starts to split, which is the usual fate of bamboo boards that live near water.
 
-Generally, this is a fantastic cutting board made from durable materials. its easy to clean as it can be tossed on a dishwasher to make the cleaning task easy. Also, it has a non-skid rubber foot that keeps the board stable while using it.
+**What we like:**
 
-**Pros**
+- The widest fit range of any board here, 23.75 to 34 inches.
+- An uninterrupted cutting surface with no colander cut-out.
+- Bamboo is gentler on knife edges than poly or steel.
+- Doubles as a serving or charcuterie board.
+- Slim at 0.75 inches, so it stores in a narrow gap.
+- Handsome enough to leave out, unlike most plastic boards.
 
-* A well-designed sink cutting board
-* Its dishwasher safe for easy cleaning
-* It comes with an extra-large colander
-* The colander is spacious, extendable, and removable for easy storage.
+**What to know before you buy:**
 
-**Cons**
+- No colander included.
+- Hand wash only, never the dishwasher, and it needs occasional oiling.
+- The sliding arms have a little flex when fully extended.
 
-* The rubber feet can get lost
-* The board slips easily.
+**Who should buy it:** Anyone with a non-standard sink, and cooks who would rather have a large clear board than a colander. It is also the best of these for doubling as a serving board when you are short on [counter space](/blog/countertop-organization-ideas-for-a-small-kitchen/).
 
-### **[5. The Grande Epicure Extending Over The Sink Cutting Board](https://www.amazon.com/Grande-Epicure-7C8320-Extendable-Handles/dp/B00OVLHO30?tag=kitchenpot-20)**
+[Check Price on Amazon](https://www.amazon.com/dp/B09ZQ98MKJ/?tag=kitchenpot-20)
 
-The Grande Epicure is a fantastic, light, and an excellent choice over-the-sink cutting board if you need some extra space in your kitchen. It comes with long handles that make it easy to carry when cleaning.
+## 3. Homevative Over the Sink Bamboo Cutting Board: Best Large Bamboo Board
 
-This handy tool comes with perfect measurements that many kitchen users love. It measures 12 by 11 by ¾ inch, and the material is made of premium wood that’s hand-finished to enhance quality. Furthermore, the wood comes with pull-out handles that are extendable to make the tool fit in many sinks.
+- **Material:** Natural bamboo
+- **Size:** 24 by 12 inches
+- **Colander:** Collapsible, removable silicone strainer
+- **Extra:** Slots that hold a phone or tablet upright
 
-[Check Price on Amazon](https://www.amazon.com/Grande-Epicure-7C8320-Extendable-Handles/dp/B00OVLHO30?tag=kitchenpot-20)
+Twenty-four inches by twelve is a lot of board. It spans most sinks with room to spare and still leaves a generous cutting area once the strainer cut-out is accounted for. If you batch-prep vegetables on a Sunday, the extra length is the difference between one pile at a time and three.
 
-Grande Epicure features an amazing design with proper functionality that prevents the wood board from unnecessary slipping as you cut the fruits. This cutting board is dishwasher safe making the cleaning task a less hassle, and it can be a perfect solution for squeezed kitchen countertops.
+The silicone strainer drops into the cut-out and collapses flat for storage, and it lifts out entirely for washing. Since silicone is dishwasher safe even though bamboo is not, you can wash the basket properly and hand wash the board.
 
-This over-the-sink cutting board has a large surface to allow you to chop different ingredients with ease without the mess in the kitchen.
+The phone slots sound like a novelty and turn out to be useful. A phone propped upright at the back of the board keeps a recipe at eye level and off a wet counter, which helps a lot when you are following a method rather than improvising. It is the sort of small fix that makes prep easier in the same way our [meal prep ideas for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) do.
 
-**Pros**
+**What we like:**
 
-* Extended handles to allot the tool fit on numerous kitchen sinks
-* It has a spacious surface that can be used for cutting different food types at once
-* Its dishwasher safe to make it easy to clean
-* It’s designed with a premium wood material to enhance durability.
+- Large 24 by 12 inch footprint for batch prep.
+- Collapsible silicone strainer stores flat and washes easily.
+- Phone slots hold a recipe upright and out of the water.
+- Bamboo is easier on knife edges than plastic.
+- Good-looking enough to use as a serving platter.
+- Spans wide sinks that shorter boards cannot reach across.
 
-**Cons**
+**What to know before you buy:**
 
-* The handles tend to slide after some time
-* It doesn’t have a colander.
+- Too long for small apartment sinks and awkward to store.
+- Bamboo needs hand washing, drying and occasional oiling.
+- The colander cut-out reduces the usable cutting area.
 
-### **6. [Catskill Craftsmen Over-the-Sink Board](https://www.amazon.com/Catskill-Craftsmen-Deluxe-Over-Cutting/dp/B01MRH4RZY?tag=kitchenpot-20)**
+**Who should buy it:** Cooks with a full-size sink who prep in batches, and anyone who props a phone up to follow recipes. If storage is the issue, the ideas in our guide to [vertical storage for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) will help you find a home for it.
 
-If you have a tiny kitchen counter, and still in need of extra space, then this fantastic tool from Catskill craftsmen is your pick. Many people love it as it’s made from a non-endangered and self-replenishing tree.
+[Check Price on Amazon](https://www.amazon.com/dp/B08L3VX6K6/?tag=kitchenpot-20)
 
-It features ¾ inch by 11 inches by 14 inches when not extended and comes with a plastic-covered and pull-out suspension wires that are great as you can adjust to extend it to fit in numerous sink sizes. What’s more, is that the board only weighs 3 pounds.
+## 4. Island Bamboo Over the Sink Cutting Board: Best Compact Bamboo Board
 
-Furthermore, the sink has hooks that keep it stable and steady as you cut the fruits and vegetables. The sink is easy to clean, and the board is well made with a durable material to serve you for long.
+- **Material:** Bamboo
+- **Size:** 18 inches long by 10 inches wide
+- **Colander:** Collapsible, removable strainer
+- **Best for:** Apartment sinks and narrow counters
 
-[Check Latest Price on Amazon](https://www.amazon.com/Catskill-Craftsmen-Deluxe-Over-Cutting/dp/B01MRH4RZY?tag=kitchenpot-20)
+Most over-sink boards are built for a full-size American kitchen sink. This one is not, and that is exactly why it is here. At 18 by 10 inches it fits the smaller single-bowl sinks you find in apartments, studios and older houses, and it stores in gaps that a 24-inch board will not go near.
 
-**Pros**
+The collapsible strainer is the same idea as the bigger boards: chop, sweep through, lift out. On a board this size the cut-out takes a bigger proportional bite out of the cutting surface, so treat it as a washing and trimming board rather than a place to break down a whole chicken.
 
-* It’s designed to fit on many sinks
-* Made of a hardwood
-* It has a broad surface
-* The parts are extendable.
+Bamboo care applies as usual: wash by hand, dry it standing on edge so air reaches both faces, and oil it when the surface starts to look pale and dry. Treat it like any other wooden board in a small kitchen and it will last years. It is a sensible companion to the rest of the gear in our [small kitchen stocking checklist](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 
-**Cons** 
+**What we like:**
 
-* It lacks a colander
-* The wood can easily crack.
+- Sized for apartment and studio sinks rather than full-size ones.
+- Easy to store in a narrow gap or a slim cabinet.
+- Collapsible strainer detaches for washing.
+- Bamboo surface is kind to knife edges.
+- Light enough to lift on and off one-handed.
+- Attractive enough to use for serving.
 
-### **[7. Island Bamboo Cutting Board](https://www.amazon.com/Island-Bamboo-40828-Cutting-Boards/dp/B006A5266K?tag=kitchenpot-20)** 
+**What to know before you buy:**
 
-This island bamboo cutting board is constructed with an environmentally friendly material. It comes with proper dimensions measuring ten by 18 inches that can easily fit on your standard kitchen sink.
+- Too small to span a wide double sink.
+- The cut-out takes a larger share of a smaller board.
+- Hand wash only, and it wants oiling now and then.
 
-Additionally, it comes with a bamboo material that provides you with a nice cutting surface and its bacteria resistant. Also, this product comes with a collapsible strainer that’s removable and can be used as a bowl to carry fruits.
+**Who should buy it:** Renters, studio cooks, and anyone whose sink is smaller than the boards they keep seeing online. It works well with the kind of compact tools in our [small kitchen gadgets](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/) list.
 
-**[Check Price on Amazon](https://www.amazon.com/Island-Bamboo-40828-Cutting-Boards/dp/B006A5266K?tag=kitchenpot-20)**
+[Check Price on Amazon](https://www.amazon.com/dp/B071YDN95T/?tag=kitchenpot-20)
 
-And what’s more, the colander is dishwasher safe and can sustain high heats of up to 450 degrees Celsius. In other words, it can be used for steaming vegetables. Also, the cutting board features a bamboo material that can be washed by hands for extended use.
+## 5. NiHome Over the Sink Cutting Board: Best Budget Board
 
-Nevertheless, you won’t regret buying this handy product as it comes with a 100% money-back guarantee.
+- **Material:** PP plastic board with TPR rubber non-slip elements
+- **Size:** 11 by 17.7 inches
+- **Colander:** Detachable draining basket with an ergonomic handle
+- **Design:** Two-in-one sink drainer board with an anti-slip surface
 
-**Pros**
+This is the cheapest sensible option and it does one thing better than any bamboo board: it can be washed properly. Plastic boards can generally go in the dishwasher, and that matters if you cut raw chicken on the same board you use for salad.
 
-* Its dishwasher safe to make it easy to clean
-* It’s backed up with a lifetime warranty
-* The strainer is collapsible and can be used as a bowl.
-* The bamboo material is environmentally friendly.
+The basket here is detachable and has a proper handle, so it works as a normal colander once it is out of the board. Drain pasta in it, rinse berries in it, then drop it back into the cut-out. That is one fewer object in a cupboard, which counts when you are already out of room and working through [cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/).
 
-**Cons**
+The rubber anti-slip elements are the detail that makes an inexpensive board usable. Plastic on a wet steel rim slides; rubber does not. Check the fit against your rim measurement before buying, because at 11 by 17.7 inches this is a standard-sink board rather than a universal one.
 
-* The quality can be improved.
+**What we like:**
 
-### **[8. Camco 43857 Sink-Mate chopping Board (White)](https://www.amazon.com/Camco-Sink-Mate-Cutting-Board/dp/B000EDUUGM?tag=kitchenpot-20)**
+- Lowest price of the six by a clear margin.
+- Dishwasher-friendly plastic, so it can be cleaned properly after raw meat.
+- The basket has a real handle and works as a standalone colander.
+- Rubber non-slip elements stop it sliding on a wet rim.
+- Light, so it is easy to lift on and off during cooking.
+- Unaffected by standing water, unlike bamboo.
 
-This small and all-white cutting board manufactured by Camco brand features perfect dimensions measuring 14,5 inches by 12,5 inches that can properly fit on your kitchen sink. Its polyethylene material is non-toxic, adding safety to your food as you prepare them.
+**What to know before you buy:**
 
-It comes with a highlighted point and a color on one corner where you can throw away scraps on the sink immediately after cutting the fish, fruits, or other veggies. Many thanks to the material and the plastic cutting board that can be tossed easily on a dishwasher for easy cleaning.
+- Plastic dulls knives faster than bamboo.
+- Fixed size, so it suits standard sinks only.
+- It will never look good enough to serve from.
 
-Furthermore, Camco is a lightweight chopping board that weighs only 1.1 pounds. It means that you can simply pack in your bag and go out for an adventure. Thanks to the manufacturer for backing the product with a lifetime warranty. 
+**Who should buy it:** Anyone who wants the function without spending much, and households that prep raw meat and want a board they can sanitise. It slots in next to the other easy-clean tools like a [vegetable chopper](/blog/best-vegetable-choppers/) or an [electric potato peeler](/blog/best-electric-potato-peeler/).
 
-Also, the chopping board has adjustable feet adapted to fit on your sink, and the top surface won’t dull or nick your knives. The tool comes with a juice groove.
+[Check Price on Amazon](https://www.amazon.com/dp/B0BM798RYV/?tag=kitchenpot-20)
 
-[Check Price on Amazon](https://www.amazon.com/Camco-Sink-Mate-Cutting-Board/dp/B000EDUUGM?tag=kitchenpot-20)
+## 6. Ximasim Stainless Steel Over the Sink Cutting Board: Best for RVs and Small Sinks
 
-**Pros**
+- **Material:** Stainless steel
+- **Size:** 15.75 by 12.8 inches
+- **Design:** Expandable, doubles as a sink cover and dish drain board
+- **Best for:** RVs, campers, tiny kitchens and boats
 
-* Non-toxic polyethylene material that promises food safety
-* A lightweight model that can be used for outdoor food preparation solutions
-* It comes with adjustable feet that fit easily on your sink
-* Its dishwasher safe.
+Steel is an unusual choice for a cutting board, and it is not meant to be one in the normal sense. Think of this as a sink cover that gives you back a flat working surface, with drainage built in, rather than a board you chop directly on. Most people put a thin flexible mat on top for knife work.
 
-**Cons**
+What it does better than anything else here is survive. Steel does not warp, does not absorb anything, does not need oiling, and can be wiped down in seconds. In an RV or a camper where the sink is tiny and everything gets moved constantly, that toughness is worth more than a pleasant cutting feel.
 
-* It’s an expensive model compared to other cutting boards.
+It expands to suit different sink widths and drains straight through, so it also works as a dish drainer over the bowl. For anyone cooking in a very small space, that double duty is the same logic behind choosing [cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/): every object should do at least two jobs.
 
-### **9. [Squish 41007 Cutting Board](https://www.amazon.com/Squish-41007-Cutting-Board-Green/dp/B008NPSIJE?tag=kitchenpot-20)**
+**What we like:**
 
-Do not hesitate to buy this plastic squish cutting board made of a BPA material that’s fully approved by the FDA to ensure that you are safe health-wise while using it. It features a perfect dimension and can easily fit on squeezed kitchen drawers as it measures 12.01 inches by 20.98 inches. The good news is that it can fit on any kitchen sink.
+- Stainless steel will not warp, stain or absorb odours.
+- Expandable, so it adapts to different sink widths.
+- Doubles as a dish drain board and a sink cover.
+- Wipes clean in seconds with no oiling or special care.
+- Compact 15.75 by 12.8 inch footprint suits tiny sinks.
+- Built for RV and camper use, where boards take a beating.
 
-It features a super durable and sturdy surface that promises to last long; additionally, you can cut the food heavily with no worry. Furthermore, it comes with a folding colander that allows you to store the tool on a squeezed kitchen drawer easily. In terms of cleaning, the tool is dishwasher safe to make its cleaning task a breeze!
+**What to know before you buy:**
 
-More so, it comes with gently curved rims, smooth sides, thoughtfully-placed pour spouts, and non-slip grips handle and bases making the product an essential addition to your kitchen.
+- Steel is hard on knife edges; use a mat on top for chopping.
+- No colander basket, just drainage through the board.
+- It is the least attractive option if the board stays on show.
 
-[Check Price on Amazon](https://www.amazon.com/Squish-41007-Cutting-Board-Green/dp/B008NPSIJE?tag=kitchenpot-20)
+**Who should buy it:** RV and camper cooks, boat galleys, and anyone whose sink area needs to become a counter several times a day. It pairs well with the rest of a portable setup, including a [compact grill for small outdoor spaces](/blog/best-portable-grills-for-apartment-living/).
 
-**Pros**
+[Check Price on Amazon](https://www.amazon.com/dp/B0DPZSSH42/?tag=kitchenpot-20)
 
-* It has a durable and sturdy surface that promises to serve you for long
-* The folding colander helps you store the tool easily
-* Perfect dimension to easily fit on any kitchen sink
-* Dishwasher safe for easy cleaning.
+## Choosing the material
 
-**Cons**
+| | Bamboo | Poly or plastic | Stainless steel |
+| --- | --- | --- | --- |
+| Knife friendliness | Best | Fair | Poor |
+| Water tolerance | Needs drying and oiling | Excellent | Excellent |
+| Dishwasher | No | Usually yes | Yes |
+| Raw meat | Use a second board | Good, can be sanitised | Good |
+| Looks on the counter | Best | Plain | Utilitarian |
+| Typical lifespan | Years with care | Years, until grooved | Longest |
 
-* Its strainer doesn’t lock-in.
+University extension guidance is clear on two points worth repeating. Bamboo and solid wood boards may warp or crack in a dishwasher, so they get hand washed and dried. And any board, whatever it is made of, should be replaced once it develops deep grooves, cracks or heavy wear, because damaged surfaces can trap bacteria. The [University of Maine Cooperative Extension bulletin on cutting boards](https://extension.umaine.edu/publications/3108e/) sets out sanitising solutions if you want the detail.
 
-### **10. [Cuisinart CTG-00-CBC](https://www.amazon.com/Cuisinart-CTG-00-CBC-Cutting-Board-Colander/dp/B06W537Q85?tag=kitchenpot-20)** 
+## Getting the fit right
 
-This is a flexible chopping board that kitchen users must grab in their lovely kitchens. It’s a plastic cutting board that measures 10.4 inches by 19.23 inches to fit in a standard kitchen sink. The good news is that this fantastic cutting board has an expandable length up to 28 inches that’s essential for dual sink set up.
+Come back to your two measurements and match them against what you are buying.
 
-Additionally, it comes with a searchable colander that’s essential in preserving and washing your food and draining items over the sink as they get trimmed. Furthermore, the strainer has a stainless steel rim and a nice board for cutting fruits, vegetables, fish, and meat. 
+1. **Rail span versus rim width.** Fixed boards list a single length. The usable rail span is always less than that length, since the rails sit inboard of the ends. If your rim measurement is close to the limit, choose an expandable board instead.
+2. **Board thickness versus tap clearance.** Add board thickness plus the rim height. If that number is close to your spout clearance, you will be lifting the board every time you need water.
+3. **Single bowl or double.** On a double sink, decide which bowl the colander will sit over before you buy, and check the cut-out is not going to land over the divider.
+4. **Workstation sinks.** If your sink has an integrated ledge, buy the manufacturer's own accessory board. A universal board sits on the outer rim and usually blocks the ledge.
+5. **Where it will live afterwards.** A 34-inch board needs a 34-inch gap somewhere. If that is a problem, the approaches in [organising a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) and [drawer organization](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) are worth reading before you order.
 
-**[Check Latest Price on Amazon](https://www.amazon.com/Cuisinart-CTG-00-CBC-Cutting-Board-Colander/dp/B06W537Q85?tag=kitchenpot-20)**
+## Using it without ruining it
 
-In terms of construction, this cutting board is made of plastic material, thus making it a sturdy and convenient over the sink cutting board to sustain fractures. Also, this woodcutter is dishwasher safe to make the cleaning task quite simple. You don’t have to worry during the purchase as it’s backed with an extended warranty.
+- **Cut between the rails.** Working out past the rails levers the board up. It is the most common way people knock one into the sink.
+- **Keep raw meat off bamboo.** Use the poly or plastic board for meat and sanitise it. Bamboo is for produce and bread.
+- **Never leave a wooden board lying wet.** Stand it on edge so both faces dry. A board that dries flat traps water underneath and warps.
+- **Oil bamboo every month or two.** Food-safe mineral oil, rubbed in and wiped off. It stops the surface drying and splitting.
+- **Detach and wash the colander separately.** Silicone is usually dishwasher safe even when the board is not.
+- **Check the rails every few months.** Swollen or loose rails mean the board will rock, and a rocking board under a sharp knife is the real hazard here.
 
-**Pros**
+Keeping your blades in good shape matters too, since a dull knife slips. If you are pressing harder than you used to, read our guide to [knife sharpeners](/blog/best-knife-sharpener/), or our comparison of [forged and stamped knives](/blog/forged-vs-stamped-knives/) if you are buying new ones. The same care thinking applies to keeping a [mandoline](/blog/how-to-use-a-mandoline/) safe on a board that moves.
 
-* Its dishwasher safe
-* It has a sturdy plastic material
-* Comes with an expandable length to fit in any kitchen
-* The colander is removable and collapsible to make it easy to store the tool.
+## What else to do with the space
 
-**Cons**
+Once the sink is a counter, a few jobs get much easier:
 
-* This sink cutting board can bend when you add more weight in the middle.
+- **Washing and trimming greens** in one pass, straight into the colander.
+- **Peeling root vegetables** with the peelings falling into the basket instead of the counter.
+- **Draining and rinsing tinned beans or pasta** without hunting for a separate colander.
+- **Resting a pot lid** somewhere that is not your worktop.
+- **Making room for a [mandoline](/blog/best-mandoline-slicers/) or a chopping tool** that normally has nowhere to sit.
 
-## Best Over The Sink Cutting Boards – A Comprehensive Buyers’ Guide
+It also frees the real counter for the things that need it, like rolling dough. If that is your problem, our guide to [baking in a small kitchen without extra counter space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/) covers more of the same trick.
 
-When selecting your best over the sink cutting board, you should consider the following factors to ensure that you enjoy optimal benefits:
+## Which over the sink cutting board should you buy?
 
-* **Quality**
+- **Standard sink, one board for everything:** [Dexas Poly](https://www.amazon.com/dp/B07GZBFJ17/?tag=kitchenpot-20).
+- **Awkward sink size, or you want a clear cutting surface:** [Lipper International expandable bamboo](https://www.amazon.com/dp/B09ZQ98MKJ/?tag=kitchenpot-20).
+- **Full-size sink and batch prep:** [Homevative bamboo](https://www.amazon.com/dp/B08L3VX6K6/?tag=kitchenpot-20).
+- **Apartment or studio sink:** [Island Bamboo](https://www.amazon.com/dp/B071YDN95T/?tag=kitchenpot-20).
+- **Cheapest option that still works:** [NiHome](https://www.amazon.com/dp/B0BM798RYV/?tag=kitchenpot-20).
+- **RV, camper or boat:** [Ximasim stainless steel](https://www.amazon.com/dp/B0DPZSSH42/?tag=kitchenpot-20).
 
-You should ensure that your over the sink cutting boards are made from sturdy materials. This way, you can be sure that you’ll use it for a prolonged time.
+Go and measure your sink rim right now, before you open another product page. That one number rules out more than half the boards on the market, and it is the difference between a board you use daily and one that ends up on top of the fridge.
 
-Always remember that you’ll be using a knife on the surface. As such, a board that’s resistant to the scratches will serve you best.
+## Related Guides
 
-* **Ease of Cleaning**
-
-An easy-to-clean over the sink board eliminates any chance of infectious disease. It guarantees a hygienic cooking environment.
-
-* **Health and Safety Measures**
-
-How easy is it for your over the sink board to leave undesired particles on your food? If this happens, it can easily expose your body to adverse effects.
-
-A board made of plastic should have relevant certification to ascertain their safety. This way, you’ll be confident when using such boards.
-
-* **Expandability of the Handles**
-
-If your best over the sink cutting board can change dimensions, then you can use it on any sink which guarantees flexibility.
-
-## Best Over The Sink Cutting Boards – The Bottom Line
-
-Investing on the best over the sink cutting board is an excellent idea for any homeowner. This is especially important for cooking enthusiasts with limited cooking areas.
-
-The small yet necessary cooking tools ensure that you get adequate space to prepare your meals devoid of any risk of cutting your skin. Even better, you can get expandable over the sink cutting boards.
-
-This way, you can be certain that you’ll ever enjoy your cooking escapades. The highly diverse colanders will ensure that all the water drains into the sink.
-
-If you want to purchase your best over the sink cutting board, you should save yourself the shopping hassle by reading through this article comprehensively.
-
-It offers a well-researched shopping guide that’ll guide your every shopping step. Additionally, it provides a list of 10 best over the sink cutting boards in the market for your consideration.
+- [What Gauge Stainless Steel Sink Is Best?](/blog/what-gauge-stainless-steel-sink-is-best/)
+- [Best White Undermount Kitchen Sink](/blog/best-white-undermount-kitchen-sink/)
+- [Best Porcelain Kitchen Sink With Drainboard](/blog/best-porcelain-kitchen-sink-with-drainboard/)
+- [Best Knife Set Under $100](/blog/best-knife-set-under-100/)
+- [Best Magnetic Knife Strips](/blog/best-magnetic-knife-strip/)
+- [Best Pepper Mill](/blog/best-pepper-mill/)
+- [Best Salt and Pepper Grinders](/blog/best-salt-and-pepper-grinders/)
+- [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
