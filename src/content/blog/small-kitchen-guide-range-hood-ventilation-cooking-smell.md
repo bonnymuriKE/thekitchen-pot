@@ -126,11 +126,15 @@ A **recirculating (ductless) range hood** pulls air through the same kind of gre
 
 ### The numbers that actually matter
 
-Two technical specs determine how well any hood, ducted or recirculating, performs: **airflow (CFM)** and **noise (sones)**. ENERGY STAR's own program requirements set a minimum exhaust airflow of 100 CFM for vented range hoods, with a maximum sound level of about 2.0 sones at that airflow, and require ducted installation to qualify for certification at all. Building codes based on ASHRAE 62.2 use similar minimums, generally landing around 100 CFM of intermittent exhaust for a typical residential kitchen. A recirculating hood isn't held to these standards in the same way, since there's no "exhaust" leaving the building to measure, which is a large part of why performance varies so wildly between models.
+Two technical specs determine how well any hood, ducted or recirculating, performs: **airflow (CFM)** and **noise (sones)**. ENERGY STAR's own program requirements set a minimum exhaust airflow of 100 CFM for vented range hoods, with a maximum sound level of about 2.0 sones at that airflow, and require ducted installation to qualify for certification at all. 
+
+Building codes based on ASHRAE 62.2 use similar minimums, generally landing around 100 CFM of intermittent exhaust for a typical residential kitchen. A recirculating hood isn't held to these standards in the same way, since there's no "exhaust" leaving the building to measure, which is a large part of why performance varies so wildly between models.
 
 ### The EPA's own guidance is blunt about the gap
 
-The [EPA's guidance on indoor air quality while cooking](https://www.epa.gov/indoor-air-quality-iaq/strategies-improving-indoor-air-quality-while-cooking) treats a hood without outdoor venting as, at best, one layer of a larger strategy. If you don't have a hood that vents outside, the agency's own recommendation is to open windows, run a separate exhaust fan, and use a properly sized portable air cleaner rated to not produce ozone, exactly the layered approach this guide walks through below. Building-science researchers who specifically study residential kitchen ventilation go further: their published analysis of recirculating hoods found the filtration alone doesn't reliably clear fine particulate matter (PM2.5) or nitrogen dioxide from gas cooking, which is why airflow, not filtration, does most of the real work.
+The [EPA's guidance on indoor air quality while cooking](https://www.epa.gov/indoor-air-quality-iaq/strategies-improving-indoor-air-quality-while-cooking) treats a hood without outdoor venting as, at best, one layer of a larger strategy. If you don't have a hood that vents outside, the agency's own recommendation is to open windows, run a separate exhaust fan, and use a properly sized portable air cleaner rated to not produce ozone, exactly the layered approach this guide walks through below.
+
+Building-science researchers who specifically study residential kitchen ventilation go further: their published analysis of recirculating hoods found the filtration alone doesn't reliably clear fine particulate matter (PM2.5) or nitrogen dioxide from gas cooking, which is why airflow, not filtration, does most of the real work.
 
 ## Diagnose Your Own Setup
 
@@ -214,7 +218,9 @@ Filtration alone will never match moving air. This is the layer most small kitch
 
 An air purifier won't out-perform a window fan for speed, but it works continuously between meals, which a fan you have to remember to set up doesn't.
 
-Look specifically for a unit with an **activated carbon layer**, not just a HEPA filter. HEPA captures particles; only activated carbon absorbs odor molecules the way a range hood's charcoal filter does. Size the unit to your kitchen's actual square footage, or slightly larger if your kitchen is open to a living area, since an undersized purifier simply can't cycle enough air to keep up.
+Look specifically for a unit with an **activated carbon layer**, not just a HEPA filter. HEPA captures particles; only activated carbon absorbs odor molecules the way a range hood's charcoal filter does.
+
+Size the unit to your kitchen's actual square footage, or slightly larger if your kitchen is open to a living area, since an undersized purifier simply can't cycle enough air to keep up.
 
 | Air purifier                                                                                                                               | Coverage                    | Best for                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- | -------------------------------------------------------------- |
@@ -255,7 +261,9 @@ If the layers above help but you want to go further, none of these require touch
 * **A second, smaller air purifier** for the bedroom specifically, if your kitchen is open to your sleeping area and the main unit can't keep up with both spaces.
 * **A cordless air quality monitor**, which won't remove smell on its own but helps you identify which meals and cooking methods are your worst offenders, so you know exactly when to lean harder on the fixes above.
 
-None of these fully match a hood that vents straight outside. The building-science consensus, including the analysis published by [Energy Vanguard on range hood performance](https://www.energyvanguard.com/blog/recirculating-range-hoods-as-effective-as-recirculating-toilets/), is consistent on this point: airflow, not filtration alone, is what actually clears a room. But stacked together, these upgrades close most of the practical gap for a renter who can't install ductwork.
+None of these fully match a hood that vents straight outside. The building-science consensus, including the analysis published by [Energy Vanguard on range hood performance](https://www.energyvanguard.com/blog/recirculating-range-hoods-as-effective-as-recirculating-toilets/), is consistent on this point: airflow, not filtration alone, is what actually clears a room. 
+
+But stacked together, these upgrades close most of the practical gap for a renter who can't install ductwork.
 
 ### Layer 8: A Permanent Ducted Conversion
 
@@ -265,7 +273,13 @@ If you own your kitchen, or your landlord is genuinely open to an upgrade, this 
 * You cook daily, fry often, or regularly prepare food that leaves a heavy, lasting smell.
 * Your existing hood's motor is old, weak, or noisy enough that even a fresh filter and good habits still aren't enough.
 
-**What it typically involves:** a licensed contractor cuts a duct path through the wall, ceiling, or an existing soffit to a wall or roof cap, installs a new or converted hood rated for at least 100 CFM (the ENERGY STAR and ASHRAE 62.2 baseline), and, for larger exhaust fans, may need to address makeup air so the kitchen doesn't depressurize the rest of the unit. This is meaningfully more involved and more expensive than anything else in this guide, but for a kitchen you'll be cooking in for years, it's worth budgeting for if the physical path exists. If new ventilation is on the table, it's often a good time to reassess your cookware too; our [best cookware sets under $200](/blog/best-cookware-set-under-200/) and [best cookware for induction cooktop](/blog/best-cookware-for-induction-cooktop/) guides are useful next stops, alongside our comparison of [All-Clad D3 vs. D5](/blog/all-clad-d3-vs-d5/) and our [HexClad review](/blog/hexclad-hybrid-cookware-review/) if you're weighing a full cookware refresh at the same time. If you already own good cast iron and just need to protect your cooktop's surface during the transition, our guide on [protecting a glass top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/) is worth a look too.
+**What it typically involves:** a licensed contractor cuts a duct path through the wall, ceiling, or an existing soffit to a wall or roof cap, installs a new or converted hood rated for at least 100 CFM (the ENERGY STAR and ASHRAE 62.2 baseline), and, for larger exhaust fans, may need to address makeup air so the kitchen doesn't depressurize the rest of the unit. 
+
+This is meaningfully more involved and more expensive than anything else in this guide, but for a kitchen you'll be cooking in for years, it's worth budgeting for if the physical path exists. 
+
+If new ventilation is on the table, it's often a good time to reassess your cookware too; our [best cookware sets under $200](/blog/best-cookware-set-under-200/) and [best cookware for induction cooktop](/blog/best-cookware-for-induction-cooktop/) guides are useful next stops, alongside our comparison of [All-Clad D3 vs. D5](/blog/all-clad-d3-vs-d5/) and our [HexClad review](/blog/hexclad-hybrid-cookware-review/) if you're weighing a full cookware refresh at the same time. 
+
+If you already own good cast iron and just need to protect your cooktop's surface during the transition, our guide on [protecting a glass top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/) is worth a look too.
 
 ## Room-by-Room Troubleshooting Checklist
 
@@ -303,7 +317,11 @@ A few ongoing habits make every fix above work better, with less effort each tim
 
 ## The Bottom Line
 
-A small kitchen that still smells like dinner hours later isn't a sign you're doing something wrong. It's almost always a recirculating range hood doing a partial job, made worse by a floor plan with nowhere for the smell to go and a filter nobody told you to replace. Start with what's free: an open window, a fan blowing out, lids on your pots, and a hood that keeps running after the food is off the burner. Layer in a fresh charcoal filter, a dedicated window fan, and a properly sized air purifier if you want an ongoing fix rather than a nightly one. Change a few cooking habits, and move the worst offenders to a grill or a different appliance entirely. None of it turns a ductless hood into a vented one, but together, it's the difference between a kitchen that smells like dinner all night and one that clears out in twenty minutes. And if you own your kitchen or your landlord is willing, a true ducted conversion is the one upgrade that closes the gap completely.
+A small kitchen that still smells like dinner hours later isn't a sign you're doing something wrong. It's almost always a recirculating range hood doing a partial job, made worse by a floor plan with nowhere for the smell to go and a filter nobody told you to replace. 
+
+Start with what's free: an open window, a fan blowing out, lids on your pots, and a hood that keeps running after the food is off the burner. Layer in a fresh charcoal filter, a dedicated window fan, and a properly sized air purifier if you want an ongoing fix rather than a nightly one. Change a few cooking habits, and move the worst offenders to a grill or a different appliance entirely. 
+
+None of it turns a ductless hood into a vented one, but together, it's the difference between a kitchen that smells like dinner all night and one that clears out in twenty minutes. And if you own your kitchen or your landlord is willing, a true ducted conversion is the one upgrade that closes the gap completely.
 
 ## Related Guides
 
