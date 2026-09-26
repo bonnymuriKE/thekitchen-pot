@@ -14,7 +14,7 @@ modDate: 2026-09-26
 image: ""
 description: The complete guide to cooking smell and range hood ventilation in a
   small kitchen, and every real fix, ranked by effort.
-category: Small Kitchens
+category: Range Hoods
 tags:
   - kitchen-ventilation-guide
   - cooking-smell-removal
