@@ -1,17 +1,20 @@
 ---
-excerpt: "Everything on why cooking smell lingers in a small kitchen and every real fix that exists, from free habits to filters, airflow, purifiers, cooking method changes, and when a permanent ducted upgrade is actually worth it. The single reference guide for this topic on the site."
+excerpt: Everything on why cooking smell lingers in a small kitchen and every
+  real fix that exists, from free habits to filters, airflow, purifiers, cooking
+  method changes, and when a permanent ducted upgrade is actually worth it. The
+  single reference guide for this topic on the site.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "The Complete Small-Kitchen Guide to Range Hoods, Ventilation, and Getting Rid of Cooking Smell"
-source: manual
+title: The Complete Small-Kitchen Guide to Range Hoods, Ventilation, and Getting
+  Rid of Cooking Smell
+source: wordpress
 slug: small-kitchen-guide-range-hood-ventilation-cooking-smell
 pubDate: 2026-09-26
 modDate: 2026-09-26
 image: ""
+description: The complete guide to cooking smell and range hood ventilation in a
+  small kitchen, and every real fix, ranked by effort.
 category: Small Kitchens
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A small apartment kitchen with a range hood, a window fan, and a countertop air purifier, illustrating a complete cooking-smell ventilation setup
 tags:
   - kitchen-ventilation-guide
   - cooking-smell-removal
@@ -19,29 +22,80 @@ tags:
   - apartment-kitchen-ventilation
   - small-kitchen-air-quality
   - renter-friendly-kitchen-fixes
-authorImageAlt: kitchenpot1
-description: "The complete guide to cooking smell and range hood ventilation in a small kitchen, and every real fix, ranked by effort."
-seo: "The definitive guide to getting rid of cooking smell in a small kitchen. Covers how ducted and recirculating range hoods work, what ASHRAE, ENERGY STAR, and EPA guidance actually require, how to diagnose your setup, and every fix worth trying, from free habits to filters, window fans, air purifiers, cooking method changes, and permanent ducted conversions, plus buying-guide comparisons and a troubleshooting checklist."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Why does my small kitchen smell like cooking for so long after I'm done?"
-    answer: "In a small or open-plan kitchen, there's less air volume to dilute cooking odor and often no door separating the kitchen from the rest of the room. If your range hood is a recirculating model, it's also only filtering a portion of the smell rather than removing it from the space entirely, so whatever the filter misses has nowhere to go and lingers for hours."
-  - question: "How do I know if my range hood is ducted or recirculating?"
-    answer: "Look above or behind the hood for visible metal ductwork running to an exterior wall, roof, or soffit. If you see ductwork, it's very likely vented. If the housing is sealed with no visible duct run, pull out the filter: a plain metal mesh filter with no charcoal pad usually means ducted, while a charcoal or carbon pad layered behind the mesh means recirculating. When in doubt, check the model number against the manufacturer's spec sheet."
-  - question: "Does closing the kitchen door help with cooking smell?"
-    answer: "It helps contain the smell to one room, which is useful before guests arrive or to keep a bedroom clear, but it doesn't remove the odor. Pair a closed door with an open window and a fan blowing outward in the kitchen itself, so the smell actually leaves rather than staying trapped in a smaller space."
-  - question: "What actually removes cooking smell fastest in an apartment?"
-    answer: "Airflow beats filtration for speed. A window cracked open with a small fan blowing outward, combined with your range hood running on high for 10 to 15 minutes after you finish cooking, clears a small kitchen faster than any air freshener or filter alone. Filters and purifiers work best as an ongoing supplement, not a fast fix for tonight's dinner."
-  - question: "How often should I replace the charcoal filter in a recirculating range hood?"
-    answer: "Most manufacturers recommend every 3 to 6 months with regular cooking, sooner if you fry often or cook a lot of strong-smelling food. A saturated filter does close to nothing no matter how new the hood looks, and it's the single most-skipped maintenance task in a rental kitchen."
-  - question: "Is it worth buying an air purifier just for cooking smell?"
-    answer: "If you cook daily, have no window near your stove, or live in a studio where kitchen odor spreads into your sleeping area, a properly sized air purifier with an activated carbon layer is a reasonable investment. It won't replace outdoor ventilation, but it keeps working between meals in a way a range hood, recirculating or vented, simply can't."
-  - question: "What CFM or sone rating should I look for in a range hood?"
-    answer: "ENERGY STAR's own specification calls for a minimum of 100 CFM of exhaust airflow for a vented range hood, with a maximum sound level around 2.0 sones at that airflow. Building codes based on ASHRAE 62.2 use similar minimums. If you're shopping for a replacement hood, those two numbers are the baseline to check before anything else."
-  - question: "Can a small kitchen ever fully get rid of cooking smell without professional ductwork?"
-    answer: "Mostly, yes, for everyday cooking. Stacking a few habits and a couple of inexpensive tools, a fresh charcoal filter, a window fan, cooking with lids on, handles the large majority of cases. Very strong, oily, or smoky cooking, like frying fish or searing at very high heat, is the exception where even a well-equipped small kitchen benefits from moving that specific dish outside or to a different appliance."
-  - question: "Is it worth converting a recirculating range hood to vent outside?"
-    answer: "If you own the unit, cook daily, or already have a duct path to an exterior wall or the roof, yes, it's the only upgrade that fully solves the problem rather than managing it. Renters should check their lease before any wall or ceiling modification, since it typically requires landlord approval and a licensed contractor."
+  - question: Why does my small kitchen smell like cooking for so long after I'm done?
+    answer: In a small or open-plan kitchen, there's less air volume to dilute
+      cooking odor and often no door separating the kitchen from the rest of the
+      room. If your range hood is a recirculating model, it's also only
+      filtering a portion of the smell rather than removing it from the space
+      entirely, so whatever the filter misses has nowhere to go and lingers for
+      hours.
+  - question: How do I know if my range hood is ducted or recirculating?
+    answer: "Look above or behind the hood for visible metal ductwork running to an
+      exterior wall, roof, or soffit. If you see ductwork, it's very likely
+      vented. If the housing is sealed with no visible duct run, pull out the
+      filter: a plain metal mesh filter with no charcoal pad usually means
+      ducted, while a charcoal or carbon pad layered behind the mesh means
+      recirculating. When in doubt, check the model number against the
+      manufacturer's spec sheet."
+  - question: Does closing the kitchen door help with cooking smell?
+    answer: It helps contain the smell to one room, which is useful before guests
+      arrive or to keep a bedroom clear, but it doesn't remove the odor. Pair a
+      closed door with an open window and a fan blowing outward in the kitchen
+      itself, so the smell actually leaves rather than staying trapped in a
+      smaller space.
+  - question: What actually removes cooking smell fastest in an apartment?
+    answer: Airflow beats filtration for speed. A window cracked open with a small
+      fan blowing outward, combined with your range hood running on high for 10
+      to 15 minutes after you finish cooking, clears a small kitchen faster than
+      any air freshener or filter alone. Filters and purifiers work best as an
+      ongoing supplement, not a fast fix for tonight's dinner.
+  - question: How often should I replace the charcoal filter in a recirculating
+      range hood?
+    answer: Most manufacturers recommend every 3 to 6 months with regular cooking,
+      sooner if you fry often or cook a lot of strong-smelling food. A saturated
+      filter does close to nothing no matter how new the hood looks, and it's
+      the single most-skipped maintenance task in a rental kitchen.
+  - question: Is it worth buying an air purifier just for cooking smell?
+    answer: If you cook daily, have no window near your stove, or live in a studio
+      where kitchen odor spreads into your sleeping area, a properly sized air
+      purifier with an activated carbon layer is a reasonable investment. It
+      won't replace outdoor ventilation, but it keeps working between meals in a
+      way a range hood, recirculating or vented, simply can't.
+  - question: What CFM or sone rating should I look for in a range hood?
+    answer: ENERGY STAR's own specification calls for a minimum of 100 CFM of
+      exhaust airflow for a vented range hood, with a maximum sound level around
+      2.0 sones at that airflow. Building codes based on ASHRAE 62.2 use similar
+      minimums. If you're shopping for a replacement hood, those two numbers are
+      the baseline to check before anything else.
+  - question: Can a small kitchen ever fully get rid of cooking smell without
+      professional ductwork?
+    answer: Mostly, yes, for everyday cooking. Stacking a few habits and a couple of
+      inexpensive tools, a fresh charcoal filter, a window fan, cooking with
+      lids on, handles the large majority of cases. Very strong, oily, or smoky
+      cooking, like frying fish or searing at very high heat, is the exception
+      where even a well-equipped small kitchen benefits from moving that
+      specific dish outside or to a different appliance.
+  - question: Is it worth converting a recirculating range hood to vent outside?
+    answer: If you own the unit, cook daily, or already have a duct path to an
+      exterior wall or the roof, yes, it's the only upgrade that fully solves
+      the problem rather than managing it. Renters should check their lease
+      before any wall or ceiling modification, since it typically requires
+      landlord approval and a licensed contractor.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A small apartment kitchen with a range hood, a window fan, and a
+  countertop air purifier, illustrating a complete cooking-smell ventilation
+  setup
+seo: The definitive guide to getting rid of cooking smell in a small kitchen.
+  Covers how ducted and recirculating range hoods work, what ASHRAE, ENERGY
+  STAR, and EPA guidance actually require, how to diagnose your setup, and every
+  fix worth trying, from free habits to filters, window fans, air purifiers,
+  cooking method changes, and permanent ducted conversions, plus buying-guide
+  comparisons and a troubleshooting checklist.
 ---
 There's a specific kind of frustration that comes with cooking a good meal in a small kitchen and still smelling it at 11 p.m. You ran the range hood. You feel like you did the responsible thing. And yet here you are, propping open a window in the cold because your studio smells like a restaurant kitchen at closing time.
 
