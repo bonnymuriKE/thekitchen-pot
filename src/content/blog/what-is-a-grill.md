@@ -142,14 +142,14 @@ Infrared is usually a feature on part of a larger gas grill, like a dedicated se
 
 ## Fuel Comparison at a Glance
 
-| Type | Flavor | Ease of use | Heat control | Best for |
-| --- | --- | --- | --- | --- |
-| Gas | Mild | Very easy | Precise | Weeknight cooking |
-| Charcoal | Strong, smoky | Moderate | Manual, via vents | Searing, weekend cookouts |
-| Electric | Mild | Very easy | Precise | Apartments, indoor use |
-| Pellet | Smoky | Easy | Automated | Long, low-and-slow cooks |
-| Kamado | Strong, smoky | Moderate | Manual, via vents | Searing and smoking in one |
-| Infrared | Mild, high heat | Easy | Precise | Fast, hard searing |
+| Type     | Flavor          | Ease of use | Heat control      | Best for                   |
+| -------- | --------------- | ----------- | ----------------- | -------------------------- |
+| Gas      | Mild            | Very easy   | Precise           | Weeknight cooking          |
+| Charcoal | Strong, smoky   | Moderate    | Manual, via vents | Searing, weekend cookouts  |
+| Electric | Mild            | Very easy   | Precise           | Apartments, indoor use     |
+| Pellet   | Smoky           | Easy        | Automated         | Long, low-and-slow cooks   |
+| Kamado   | Strong, smoky   | Moderate    | Manual, via vents | Searing and smoking in one |
+| Infrared | Mild, high heat | Easy        | Precise           | Fast, hard searing         |
 
 ## Combination and Hybrid Grills
 
@@ -233,7 +233,7 @@ If you're storing a charcoal grill, make sure all ash is fully cool and removed 
 
 A short list of tools covers most of what any grill setup actually needs.
 
-A stainless grill brush keeps grates clean with minimal effort, and a model with a scraper edge handles stuck-on residue faster than bristles alone. The [Weber 21-Inch 3-Sided Grill Brush](https://www.amazon.com/Weber-6493-21-Inch-3-Sided-Grill/dp/B009IH0C22/?tag=kitchenpot-20) covers wide grates and tight edges with the same tool.
+A stainless grill brush keeps grates clean with minimal effort, and a model with a scraper edge handles stuck-on residue faster than bristles alone. The [GrillArt](https://www.amazon.com/GRILLART-Extra-Strong-Handle-Cleaner-Scraper/dp/B07R2D4ZFL/?tag=kitchenpot-20)[21-Inch 3-Sided Grill Brush](https://www.amazon.com/GRILLART-Extra-Strong-Handle-Cleaner-Scraper/dp/B07R2D4ZFL/?tag=kitchenpot-20) covers wide grates and tight edges with the same tool.
 
 An instant-read thermometer takes the guesswork out of doneness on meat and poultry, regardless of which grill you're using. The [ThermoPro TP03 Digital Instant Read Thermometer](https://www.amazon.com/ThermoPro-Digital-Instant-Thermometer-Kitchen/dp/B01IHHLB3W/?tag=kitchenpot-20) is an inexpensive, reliable option many home cooks start with.
 
@@ -283,7 +283,6 @@ Most complete meals use both. Sear for color and flavor, then move to indirect h
 
 ## Common Mistakes to Avoid
 
-
 * **Choosing a grill type based on price alone.** Match the fuel type to how you actually want to cook, not just the sticker price.
 * **Skipping preheating.** This causes sticking and uneven cooking on every fuel type.
 * **Ignoring routine cleaning.** Buildup reduces performance and creates a real fire risk over time.
@@ -300,6 +299,3 @@ Most complete meals use both. Sear for color and flavor, then move to indirect h
 ## **The Bottom Line**
 
 A grill is defined by its heat source, not its shape or price. Gas is convenient. Charcoal adds smoke and searing power. Electric works where flame can't. Pellet and kamado grills handle long, slow cooks well. Pick the type that matches how you cook. Keep it clean and covered. It will serve you for years.
-
-    
-
