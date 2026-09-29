@@ -25,7 +25,7 @@ seo: How to season red copper pans? This crucial exercise is necessary if you
   seasoning guide
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
-Any cooking enthusiast values an elegant yet effective pan. If you’d want one that will heat fast and evenly, then you should consider buying a **[red copper pan](https://www.amazon.com/s?k=red+copper+pans%3Ftag%3Dkitchenpot-20).**
+Any cooking enthusiast values an elegant yet effective pan. If you’d want one that will heat fast and evenly, then you should consider buying a **[red copper pan](https://www.amazon.com/s?k=red+copper+pans&tag=kitchenpot-20).**
 
 These pans boast of superb heat-conducting ability and have unique sophistication that will enhance the design of your kitchen’s interior. 
 

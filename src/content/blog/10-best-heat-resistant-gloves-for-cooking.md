@@ -56,9 +56,9 @@ Homemaxs BBQ gloves are extremely thin to fit on your hands and follow their for
 
 * Only available in large size.
 
-### 2. [RAPICCA 16 Inches,932℉ Heat Resistant Gloves](https://www.amazon.com/RAPICCA-Leather-Resistant-Fireplace-handling/dp/B01N1VJDIQ?tag=)
+### 2. [RAPICCA 16 Inches,932℉ Heat Resistant Gloves](https://www.amazon.com/RAPICCA-Leather-Resistant-Fireplace-handling/dp/B01N1VJDIQ?tag=kitchenpot-20)
 
-[Check Price on Amazon](https://www.amazon.com/RAPICCA-Leather-Resistant-Fireplace-handling/dp/B01N1VJDIQ?tag=)
+[Check Price on Amazon](https://www.amazon.com/RAPICCA-Leather-Resistant-Fireplace-handling/dp/B01N1VJDIQ?tag=kitchenpot-20)
 
 RAPICCA BBQ gloves feature great functionality with comfort in mind. They are constructed with a cotton lining that makes them breathe while offering comfort at the same time. They are versatile and are great for smoking, baking, grilling, and cooking and can handle up to 500ºC (932ºF).
 

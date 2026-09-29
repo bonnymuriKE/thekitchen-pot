@@ -4,7 +4,7 @@ slug: best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: No full-size oven? No problem. A good countertop or toaster oven can
   bake cookies, cakes, and even bread just fine, once you know what features

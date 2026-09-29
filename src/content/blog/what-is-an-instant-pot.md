@@ -4,7 +4,7 @@ slug: what-is-an-instant-pot
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-03-05
 modDate: 2026-09-24
-author: boniface-muriuki
+author: Boniface Muriuki
 image: images/capture.png
 excerpt: "An Instant Pot is an electric pressure cooker with a microprocessor and a set of preset programs. Here is how the pressure works, what each button changes, how the model lines differ, and the jobs it does badly."
 description: "An Instant Pot is an electric pressure cooker running preset programs. Here is what every button really does, what it cooks well, and where it falls short."

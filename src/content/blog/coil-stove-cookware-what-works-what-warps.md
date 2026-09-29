@@ -4,7 +4,7 @@ slug: coil-stove-cookware-what-works-what-warps
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-28
 modDate: 2026-09-28
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: Electric coil burners are slow, uneven, and hard on thin pans. The right
   cookware fixes most of that. Here's how to choose pans for a coil stove, how

@@ -4,7 +4,7 @@ slug: how-to-set-up-a-small-patio-for-grilling
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: A small patio can absolutely handle real grilling, you just need a
   layout that respects the space instead of fighting it. Here's exactly how to

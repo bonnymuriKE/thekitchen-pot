@@ -4,7 +4,7 @@ slug: how-to-stock-a-small-kitchen-for-solo-cooking
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-24
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 coverAlt: A small kitchen counter with one skillet, one saucepan, a chef's knife and a few jars of pantry staples
 excerpt: "Recipes feed four. Grocery packs feed four. You are one. Here is how to stock a small kitchen for solo cooking, from the pans that earn their space to the staples that get used up before they spoil."

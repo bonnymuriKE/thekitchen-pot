@@ -4,7 +4,7 @@ slug: store-pots-and-pans-in-a-small-kitchen
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-05
 modDate: 2026-09-05
-author: boniface-muriuki
+author: Boniface Muriuki
 image: /images/blog/how-to-store-pots-and-pans.jpg
 excerpt: Cooking in a cramped kitchen can feel like a game of Tetris, especially
   when dealing with bulky cookware. If your cabinets are overflowing and your

@@ -4,7 +4,7 @@ slug: how-to-organize-a-small-kitchen-with-no-pantry
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-24
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 coverAlt: A narrow kitchen shelf holding labeled airtight containers of rice, pasta and flour beside stacked cans
 excerpt: "A pantry is a rule about where food lives, not a room. Here is how to organize a small kitchen with no pantry: find the space you already own, give every category one address, and keep it working."

@@ -92,7 +92,7 @@ Dry milk is the most useful pantry stand-in there is. It lasts for months, takes
 - **Dry whole milk:** King Arthur says to use 1 cup of water and add 1/4 cup of its Dried Whole Milk to the dry ingredients. Because it's a non-instant powder, dissolve it in a little hot water first if you're using it in something liquid.
 - **Instant nonfat dry milk:** Utah State University Extension lists 1/3 cup instant nonfat dry milk plus 1 cup minus 1 tablespoon water per cup of milk. That gives you skim milk, so stir in about 2 teaspoons of melted butter if you want whole milk richness.
 
-In bread recipes you can skip mixing entirely. Whisk the powder into the flour and use water for the liquid. You'll find a bag of [dry whole milk](https://www.amazon.com/s?k=king+arthur+dried+whole+milk&tag=kitchenpot-20) or [nonfat dry milk](https://www.amazon.com/s?k=nonfat+dry+milk+powder&tag=kitchenpot-20) in most grocery baking aisles. Keep it in a sealed container once opened; our list of [airtight food storage containers](/blog/best-airtight-food-storage-containers/) has good options for bulk dry goods.
+In bread recipes you can skip mixing entirely. Whisk the powder into the flour and use water for the liquid. You'll find a bag of [dry whole milk](https://www.amazon.com/dp/B0B4GN82NQ/?tag=kitchenpot-20) or [nonfat dry milk](https://www.amazon.com/dp/B08377X8JK/?tag=kitchenpot-20) in most grocery baking aisles. Keep it in a sealed container once opened; our list of [airtight food storage containers](/blog/best-airtight-food-storage-containers/) has good options for bulk dry goods.
 
 ### 2%, 1% or skim milk
 

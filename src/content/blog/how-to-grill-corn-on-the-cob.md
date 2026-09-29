@@ -4,7 +4,7 @@ slug: how-to-grill-corn-on-the-cob
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-28
 modDate: 2026-09-28
-author: boniface-muriuki
+author: Boniface Muriuki
 image: /images/blog/default-cover.jpg
 excerpt: There are three ways to grill corn on the cob, and each gives a
   different result. Here's how to grill it in the husk, in foil, or shucked,

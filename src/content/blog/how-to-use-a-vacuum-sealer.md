@@ -183,7 +183,7 @@ Edge sealers need **textured** (embossed or channeled) bags. The tiny ridges giv
 
 Smooth chamber pouches won't evacuate properly in an edge sealer. If your seals keep failing and you bought bargain bags, check that they're textured.
 
-Rolls are cheaper per bag and let you size each pouch to the food. Pre-cut bags save time. You can find [FoodSaver-compatible bag rolls](https://www.amazon.com/s?k=vacuum+sealer+bag+rolls+textured&tag=kitchenpot-20) from many brands; just match the roll width to your machine.
+Rolls are cheaper per bag and let you size each pouch to the food. Pre-cut bags save time. You can find [FoodSaver-compatible bag rolls](https://www.amazon.com/dp/B088W61T4H/?tag=kitchenpot-20) from many brands; just match the roll width to your machine.
 
 ### Which kind of sealer do you have?
 

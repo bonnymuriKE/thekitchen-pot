@@ -4,7 +4,7 @@ slug: how-to-organize-pot-lids-in-a-small-kitchen
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-27
 modDate: 2026-09-27
-author: boniface-muriuki
+author: Boniface Muriuki
 image: /images/blog/default-cover.jpg
 excerpt: Pots and pans stack just fine. Lids are what actually wreck a small
   kitchen cabinet. Here's how to store pot lids so they stop sliding, stacking

@@ -4,7 +4,7 @@ slug: small-space-grilling-accessories-you-actually-need
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: Grill accessory aisles are full of gadgets you'll use once and then
   store forever. If you're grilling on a balcony or small patio, space is the

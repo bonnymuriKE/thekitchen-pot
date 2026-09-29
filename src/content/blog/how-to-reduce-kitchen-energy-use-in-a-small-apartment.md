@@ -4,7 +4,7 @@ slug: how-to-reduce-kitchen-energy-use-in-a-small-apartment
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: Your kitchen is probably the biggest energy user in your apartment,
   even if it's tiny. The good news is that most of the fixes cost nothing and

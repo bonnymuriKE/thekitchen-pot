@@ -4,7 +4,7 @@ slug: what-is-nonstick-cookware
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-08-22
 modDate: 2026-09-24
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 coverAlt: A black nonstick frying pan on a stovetop with a fried egg sliding across the surface
 excerpt: "Nonstick cookware is a metal pan with a slippery coating baked onto it. Here is the chemistry behind PTFE and ceramic, what the safety warnings really mean, and when to replace a pan."

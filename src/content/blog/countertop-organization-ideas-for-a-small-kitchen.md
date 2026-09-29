@@ -4,7 +4,7 @@ slug: countertop-organization-ideas-for-a-small-kitchen
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-24
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 coverAlt: "A small kitchen counter with a clear prep area, a tray holding oil and salt, and a roll-up drying rack over the sink"
 excerpt: "Counter space is the most expensive surface in a small kitchen. Here is the test for what earns a permanent spot, how to win back the corner, the stove side and the sink surround, and how to keep it all clear."

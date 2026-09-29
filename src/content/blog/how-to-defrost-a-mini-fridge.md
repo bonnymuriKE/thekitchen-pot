@@ -120,7 +120,7 @@ Once you’re through with the defrosting process, you should clean and dry your
 
 Ensure that you wipe out the moisture from the interior of your mini-fridge. To clean it thoroughly, you will need warm and soapy water. Wipe the racks, shelves, trays, and all the surfaces to remove stains.
 
-You should only use [non-abrasive materials](https://www.amazon.com/s?k=non-abrasive+cleaning+agents%3Ftag%3Dkitchenpot-20) (such as a soft piece of cloth or a damp rag). When you’re through with the cleaning, you should rinse it and wait for it to dry completely.
+You should only use [non-abrasive materials](https://www.amazon.com/s?k=non-abrasive+cleaning+agents&tag=kitchenpot-20) (such as a soft piece of cloth or a damp rag). When you’re through with the cleaning, you should rinse it and wait for it to dry completely.
 
 **7. Plug-In the Mini Fridge**
 

@@ -4,7 +4,7 @@ slug: balcony-grilling-safety-tips-and-rules
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: Grilling on a balcony feels harmless until you learn how many apartment
   fires start exactly this way. Before you fire anything up, here's what you

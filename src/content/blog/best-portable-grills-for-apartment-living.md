@@ -4,7 +4,7 @@ slug: best-portable-grills-for-apartment-living
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: Apartment living means smaller balconies, stricter fire rules, and no
   patience for a grill you can't easily store. Here's how to pick a genuinely

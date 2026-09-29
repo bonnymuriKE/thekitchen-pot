@@ -4,7 +4,7 @@ slug: what-is-stainless-steel-cookware
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-08-22
 modDate: 2026-09-24
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 coverAlt: A tri-ply stainless steel frying pan with its layered edge visible next to a saucepan
 excerpt: "Stainless steel is a poor conductor of heat, and that one fact shapes every pan made from it. Here is what the alloy really is, why it comes in layers, and how to cook on it."

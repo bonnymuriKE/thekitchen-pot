@@ -4,7 +4,7 @@ slug: carbon-steel-on-induction-does-it-work-will-it-warp
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-28
 modDate: 2026-09-28
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: Carbon steel is magnetic, so it works on induction. The real question
   is whether it holds its shape. Here's why some pans warp, how to preheat

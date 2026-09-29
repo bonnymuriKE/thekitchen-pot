@@ -4,7 +4,7 @@ slug: why-does-stainless-steel-turn-rainbow
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-28
 modDate: 2026-09-28
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: A pan comes off the stove with a blue, gold, or rainbow sheen where
   it used to be plain silver. It looks alarming, but it isn't damage. Here's

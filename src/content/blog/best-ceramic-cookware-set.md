@@ -50,7 +50,7 @@ Seven sets are compared below on the specs their makers publish, with the failur
 - **Best cheap starter set:** [GreenLife Soft Grip 16-Piece Set](https://www.amazon.com/dp/B08CY4VVWH/?tag=kitchenpot-20)
 - **Best for metal utensils:** [Blue Diamond 14-Piece Induction Set](https://www.amazon.com/dp/B0CR21XR23/?tag=kitchenpot-20)
 - **Best for small kitchens:** [Our Place Essentials 8-Piece Cookware Set](https://www.amazon.com/dp/B0F743D12P/?tag=kitchenpot-20)
-- **Best coating-free ceramic:** [Xtrema 100% Ceramic Cookware](https://www.amazon.com/s?k=Xtrema+100+percent+ceramic+cookware+set&tag=kitchenpot-20)
+- **Best coating-free ceramic:** [Xtrema 100% Ceramic Cookware](https://www.amazon.com/dp/B00WZNV95U/?tag=kitchenpot-20)
 
 ## Ceramic Cookware Sets Compared
 
@@ -296,7 +296,7 @@ Where it makes sense is long, gentle cooking and anyone who wants cookware with 
 
 **Who should buy it:** Cooks whose main concern is coating chemistry, and people who simmer, braise and bake more than they fry. If you also want serving pieces in the same material, our explainer on [what ceramic dinnerware is](/blog/what-is-ceramic-dinnerware/) covers the difference.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Xtrema+100+percent+ceramic+cookware+set&tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B00WZNV95U/?tag=kitchenpot-20)
 
 ## What "Ceramic" Means on a Cookware Box
 

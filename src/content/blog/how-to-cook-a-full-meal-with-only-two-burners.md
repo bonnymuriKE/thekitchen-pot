@@ -4,7 +4,7 @@ slug: how-to-cook-a-full-meal-with-only-two-burners
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-27
 modDate: 2026-09-27
-author: boniface-muriuki
+author: Boniface Muriuki
 image: /images/blog/default-cover.jpg
 excerpt: A two-burner stove feels limiting until you learn to sequence your
   cooking instead of spreading it out. Here's how to plan, pick cookware, and

@@ -4,7 +4,7 @@ slug: how-to-fix-a-warped-pan
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-28
 modDate: 2026-09-28
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: A pan that spins on a glass cooktop or lets oil pool to one side is
   warped, and it's not always a lost cause. Here's how to tell which way it

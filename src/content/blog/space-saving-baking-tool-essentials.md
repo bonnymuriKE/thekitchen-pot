@@ -4,7 +4,7 @@ slug: space-saving-baking-tool-essentials
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: You don't need a drawer full of single-purpose gadgets to bake well.
   A small, well-chosen set of space-saving baking tools can cover almost

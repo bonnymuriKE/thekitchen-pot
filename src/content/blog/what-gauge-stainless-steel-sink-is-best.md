@@ -24,13 +24,13 @@ seo: What gauge stainless steel sink is best for you? What should you look out
   comprehensively.
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
-**[Stainless steel sinks](https://www.amazon.com/s?k=STAINLESS+STEEL+KITCHEN+SINK&crid=1432F670567VJ&sprefix=stainless+steel+kitchen+sink%2Caps%2C415&?tag=kitchenpot-20)** are a popular choice for many kitchens. They come in different sizes, and the two most common sizes are 16 inches and 18 inches. So, what stainless steel sink is best for you?
+**[Stainless steel sinks](https://www.amazon.com/s?k=STAINLESS+STEEL+KITCHEN+SINK&crid=1432F670567VJ&sprefix=stainless+steel+kitchen+sink%2Caps%2C415&tag=kitchenpot-20)** are a popular choice for many kitchens. They come in different sizes, and the two most common sizes are 16 inches and 18 inches. So, what stainless steel sink is best for you?
 
 In this complete guide, we’ll compare the two sizes and help you decide which one is right for your kitchen. Plus, we’ll give you some tips on how to care for your stainless steel [sink](https://en.wikipedia.org/wiki/Sink). Let’s get started!
 
 ## **What Gauge Stainless Steel Sink is Best and Why**
 
-Stainless steel is one of the **[best and most popular materials](https://www.amazon.com/s?k=STAINLESS+STEEL+KITCHEN+SINK&crid=1432F670567VJ&sprefix=stainless+steel+kitchen+sink%2Caps%2C415&?tag=kitchenpot-20)** for kitchen sinks. It’s easy to clean, corrosion-resistant, durable, and affordable. It’s also gaining popularity on bathroom sinks! 
+Stainless steel is one of the **[best and most popular materials](https://www.amazon.com/s?k=STAINLESS+STEEL+KITCHEN+SINK&crid=1432F670567VJ&sprefix=stainless+steel+kitchen+sink%2Caps%2C415&tag=kitchenpot-20)** for kitchen sinks. It’s easy to clean, corrosion-resistant, durable, and affordable. It’s also gaining popularity on bathroom sinks! 
 
 Stainless steel comes in different thicknesses and gauges starting from 16, 18, 20, 22 to 24 gauge. But do you know the meaning of this stainless steel gauge variation? Are you confused about what gauge stainless steel sink is best for your kitchen?
 
@@ -48,7 +48,7 @@ Additionally, stainless steel has other components such as titanium, nickel, cop
 
 As such, stainless steel sinks deliver a clean look that matches your **[best stainless steel cookware sets](https://thekitchenpot.com/blog/best-cookware-set-under-200/)**, thus giving your kitchen an unmatched elegance.
 
-Even better, these type of sinks are hardy compared to **[ceramic ones](https://www.amazon.com/s?k=Ceramic+Sinks&crid=23YD6RBANR4JL&sprefix=ceramic+sink%2Caps%2C547&?tag=kitchenpot-20)**. As such, you can use your **[over-the-sink chopping boards](https://thekitchenpot.com/blog/best-over-the-sink-cutting-board/)** or even place utensils on top without any worry!
+Even better, these type of sinks are hardy compared to **[ceramic ones](https://www.amazon.com/s?k=Ceramic+Sinks&crid=23YD6RBANR4JL&sprefix=ceramic+sink%2Caps%2C547&tag=kitchenpot-20)**. As such, you can use your **[over-the-sink chopping boards](https://thekitchenpot.com/blog/best-over-the-sink-cutting-board/)** or even place utensils on top without any worry!
 
 **What’s A Stainless Steel Gauge?**
 

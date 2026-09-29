@@ -52,7 +52,7 @@ The mode of operation will determine how convenient the appliance will be. If yo
 
 But what exactly is the difference between an electric and manual iced tea maker? Well, the electric one is largely automated, making it easy to use. On the contrary, the manual one requires more technical knowhow and patience to achieve that iced tea beverage.
 
-If you’re looking at portability and size, then most electric machines are bulkier than the manual ones. However, **[Mr. Coffee Ice Maker has small versions meant for single cup tea brewing.](https://www.amazon.com/s?k=MR+COFFEE+ICED+TEA+MAKER&rh=n%3A1055398%2Cp_89%3AMr.+Coffee&dc&qid=1620887181&rnid=2528832011%3Ftag%3Dkitchenpot-20)** 
+If you’re looking at portability and size, then most electric machines are bulkier than the manual ones. However, **[Mr. Coffee Ice Maker has small versions meant for single cup tea brewing.](https://www.amazon.com/s?k=MR+COFFEE+ICED+TEA+MAKER&rh=n%3A1055398%2Cp_89%3AMr.+Coffee&dc&qid=1620887181&rnid=2528832011&tag=kitchenpot-20)** 
 
 * **Size**
 

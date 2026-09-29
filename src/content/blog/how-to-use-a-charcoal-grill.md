@@ -4,7 +4,7 @@ slug: how-to-use-a-charcoal-grill
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-28
 modDate: 2026-09-28
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: Charcoal grilling looks harder than it is. Once you understand how much
   charcoal to use, how to light it without lighter fluid, and how to build a

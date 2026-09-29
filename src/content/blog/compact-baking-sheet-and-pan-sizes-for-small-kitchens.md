@@ -4,7 +4,7 @@ slug: compact-baking-sheet-and-pan-sizes-for-small-kitchens
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: Not sure why your baking sheet doesn't fit your oven, or your cabinet?
   You're probably using standard restaurant-size bakeware in a kitchen built

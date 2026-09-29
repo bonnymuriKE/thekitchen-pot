@@ -30,7 +30,7 @@ Are you thinking about **[remodeling your kitchen](https://thekitchenpot.com/blo
 
 An undermount kitchen sink has several benefits. It is easy to clean, and it fits under the countertop seamlessly. It also conceals unsightly stains and scratches that can occur on a surface-mounted sink.
 
-If that sounds like the sink for you, take a look at these best white undermount **[kitchen sink reviews](https://www.amazon.com/s?k=white+undermount+kitchen+sink&crid=31HD8072VP6ND&sprefix=white+undermount%2Caps%2C2240&?tag=kitchenpot-20)**.
+If that sounds like the sink for you, take a look at these best white undermount **[kitchen sink reviews](https://www.amazon.com/s?k=white+undermount+kitchen+sink&crid=31HD8072VP6ND&sprefix=white+undermount%2Caps%2C2240&tag=kitchenpot-20)**.
 
 ## **Why Upgrade Your Kitchen Sink?**
 
@@ -50,7 +50,7 @@ When you’re ready to upgrade your sink, check out our roundup of best white un
 
 Cast iron sinks are a popular choice among homeowners because of their appealing design and durability. However, they can be quite heavy, making them difficult to install and move.
 
-**[Kraus](https://www.amazon.com/s?k=kraus+sink&rh=n%3A228013%2Cp_89%3AKraus&dc&crid=1P46RLU9GIAU1&qid=1642344203&rnid=2528832011&sprefix=kraus+sinks%2Caps%2C712&?tag=kitchenpot-20)** has solved this problem with their pintura sink. Made from resilient 16-gauge stainless steel, and featuring a super-durable enamel finish, this sink is virtually indestructible. It’s also lightweight, making it easy to install. This sink is 65% lighter than cast iron. 
+**[Kraus](https://www.amazon.com/s?k=kraus+sink&rh=n%3A228013%2Cp_89%3AKraus&dc&crid=1P46RLU9GIAU1&qid=1642344203&rnid=2528832011&sprefix=kraus+sinks%2Caps%2C712&tag=kitchenpot-20)** has solved this problem with their pintura sink. Made from resilient 16-gauge stainless steel, and featuring a super-durable enamel finish, this sink is virtually indestructible. It’s also lightweight, making it easy to install. This sink is 65% lighter than cast iron. 
 
 The Noisedefend feature creates a noticeably quieter kitchen sink by absorbing noise and vibration. And the gently sloped bottom prevents standing water in the sink.
 

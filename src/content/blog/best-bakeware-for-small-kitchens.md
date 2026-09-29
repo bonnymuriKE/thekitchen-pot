@@ -4,7 +4,7 @@ slug: best-bakeware-for-small-kitchens
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: You don't need a full-size baking cabinet to bake well. If your kitchen
   is tiny, the trick is choosing bakeware that's sized right, stacks well, and

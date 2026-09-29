@@ -4,7 +4,7 @@ slug: easy-meal-prep-ideas-for-one-person-in-a-small-kitchen
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-24
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 coverAlt: "Three small containers of cooked rice, roasted vegetables and chicken thighs on a narrow apartment counter"
 excerpt: "Solo meal prep fails on day four, when the food is still safe and you still cannot face it. The fix is prepping parts instead of plates. Here is how to cook ahead for one person in a kitchen with almost no counter space, plus real USDA storage times."

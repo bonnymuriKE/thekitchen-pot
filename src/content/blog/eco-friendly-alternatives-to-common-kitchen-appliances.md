@@ -4,7 +4,7 @@ slug: eco-friendly-alternatives-to-common-kitchen-appliances
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: You don't need to replace every appliance in your kitchen to make it
   greener. From swapping a full-size oven for a countertop convection oven to

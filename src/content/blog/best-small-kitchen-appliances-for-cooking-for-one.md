@@ -4,7 +4,7 @@ slug: best-small-kitchen-appliances-for-cooking-for-one
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: Full-size appliances are built for families, not for one person and
   a small counter. If your kitchen is tiny and you're tired of hauling out a

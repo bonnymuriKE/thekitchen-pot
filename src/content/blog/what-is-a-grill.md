@@ -4,7 +4,7 @@ slug: what-is-a-grill
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-28
 modDate: 2026-09-28
-author: boniface-muriuki
+author: Boniface Muriuki
 image: /images/blog/default-cover.jpg
 excerpt: A grill is any appliance that cooks food with direct, high heat from
   below or beside it. Past that simple definition, gas, charcoal, electric,

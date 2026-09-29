@@ -48,7 +48,7 @@ This review covers how the hybrid surface works, the specs HexClad publishes, wh
 - **Best HexClad value:** [HexClad 6-Piece Hybrid Frying Pan Set](https://www.amazon.com/dp/B09ZBF3856/?tag=kitchenpot-20)
 - **Best full HexClad kitchen:** [HexClad Hybrid 12-Piece Cookware Set](https://www.amazon.com/dp/B0CVH8FXKB/?tag=kitchenpot-20)
 - **Best cheaper hybrid:** [Anolon X Hybrid 12-Inch Skillet](https://www.amazon.com/dp/B0BQ8YGC79/?tag=kitchenpot-20)
-- **Best coating-free alternative:** [Misen 10" Carbon Nonstick Frying Pan](https://www.amazon.com/s?k=misen+carbon+nonstick+frying+pan&tag=kitchenpot-20)
+- **Best coating-free alternative:** [Misen 10" Carbon Nonstick Frying Pan](https://www.amazon.com/dp/B0FKZZZBNT/?tag=kitchenpot-20)
 
 ## How the HexClad Surface Actually Works
 
@@ -248,7 +248,7 @@ Misen sells it directly, and the brand also shows up in our roundup of [energy-e
 
 **Who should buy it:** Cooks who are tired of replacing nonstick pans and are happy to maintain a surface instead. The technique overlaps heavily with what our guide to [cleaning stainless steel pans](/blog/how-to-clean-stainless-steel-pans/) teaches about heat control and stuck-on food.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=misen+carbon+nonstick+frying+pan&tag=kitchenpot-20) [Check Price at Misen](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=hexclad-hybrid-cookware-review&ued=https%3A%2F%2Fmisen.com%2Fproducts%2Fcarbon-nonstick-pan-10-inch)
+[Check Price on Amazon](https://www.amazon.com/dp/B0FKZZZBNT/?tag=kitchenpot-20) [Check Price at Misen](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=hexclad-hybrid-cookware-review&ued=https%3A%2F%2Fmisen.com%2Fproducts%2Fcarbon-nonstick-pan-10-inch)
 
 ## Is HexClad Worth the Money?
 
@@ -300,7 +300,7 @@ If you are comparing HexClad against other direct-to-consumer cookware brands, o
 - **Replacing all your skillets:** the [6-piece fry pan set](https://www.amazon.com/dp/B09ZBF3856/?tag=kitchenpot-20).
 - **Starting a kitchen from zero:** the [12-piece set](https://www.amazon.com/dp/B0CVH8FXKB/?tag=kitchenpot-20), if the storage space exists.
 - **Same idea, smaller bill:** the [Anolon X Hybrid 12-inch](https://www.amazon.com/dp/B0BQ8YGC79/?tag=kitchenpot-20).
-- **No coating at all:** the [Misen carbon nonstick pan](https://www.amazon.com/s?k=misen+carbon+nonstick+frying+pan&tag=kitchenpot-20).
+- **No coating at all:** the [Misen carbon nonstick pan](https://www.amazon.com/dp/B0FKZZZBNT/?tag=kitchenpot-20).
 
 If you are shopping for the cooktop as well as the pan, our roundup of the [best cookware for induction cooktops](/blog/best-cookware-for-induction-cooktop/) lists what works, and [how to use non-induction cookware on an induction cooktop](/blog/how-to-use-non-induction-cookware-on-induction-cooktop/) covers the adapter route if you already own pans that won't.
 

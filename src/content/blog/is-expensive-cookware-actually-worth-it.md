@@ -4,7 +4,7 @@ slug: is-expensive-cookware-actually-worth-it
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-27
 modDate: 2026-09-27
-author: boniface-muriuki
+author: Boniface Muriuki
 image: /images/blog/default-cover.jpg
 excerpt: >
   A $300 skillet and a $30 skillet can look nearly identical in a product photo.

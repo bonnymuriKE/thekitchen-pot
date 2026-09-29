@@ -4,7 +4,7 @@ slug: how-to-organize-kitchen-drawers-in-a-small-kitchen
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: Kitchen drawers have a way of turning into a junk drawer no matter
   how small your kitchen is. Utensils tangle, gadgets pile up, and the drawer

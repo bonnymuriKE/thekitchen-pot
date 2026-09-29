@@ -5,7 +5,7 @@ slug: how-to-keep-pests-out-of-a-small-kitchen
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-27
 modDate: 2026-09-27
-author: boniface-muriuki
+author: Boniface Muriuki
 image: /images/blog/default-cover.jpg
 excerpt: A small kitchen can pick up a pest problem faster than a full-size one,
   and once roaches or ants find a food source in a tight space, they're hard to

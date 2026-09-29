@@ -556,7 +556,7 @@ A good ductless range hood won’t just remove smoke—it’ll make your kitchen
 
 ## **Top 6 Best** **Ductless Range Hoods**
 
-### **[1. Broan Aluminum Power Pack Range Hood](https://www.amazon.com/s?k=Broan+Aluminum+Power+Pack+Range+Hood%3Ftag%3Dkitchenpot-20)**
+### **[1. Broan Aluminum Power Pack Range Hood](https://www.amazon.com/s?k=Broan+Aluminum+Power+Pack+Range+Hood&tag=kitchenpot-20)**
 
 ![Best Ductless Range Hood](images/portablegasgrill.jpg)
 
@@ -570,7 +570,7 @@ The ductless range hood consists of a centrifugal blower of **250CFM and 8 Sones
 
 The exterior is designed with flat polished surfaces for easier cleaning and detects excessive heat with an automatically adjustable blower for high speed. 
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Broan+Aluminum+Power+Pack+Range+Hood%3Ftag%3Dkitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=Broan+Aluminum+Power+Pack+Range+Hood&tag=kitchenpot-20)
 
 **Pro** 
 

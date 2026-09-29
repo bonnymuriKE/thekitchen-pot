@@ -4,7 +4,7 @@ slug: vertical-storage-ideas-for-small-kitchens
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-24
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 coverAlt: A magnetic knife bar, a utensil rail and a small spice shelf mounted on the wall between a kitchen counter and the upper cabinets
 excerpt: "Shelves and hooks are the easy part. The hard part is knowing which wall, door or panel can hold them. Here are the seven vertical surfaces in a small kitchen, what each one should carry, and what it should never carry."

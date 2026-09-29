@@ -4,7 +4,7 @@ slug: how-to-choose-energy-efficient-cookware-for-a-small-kitchen
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: The pots and pans you cook with matter almost as much as the stove
   you cook on. The right material, size, and shape can cut your cooking time

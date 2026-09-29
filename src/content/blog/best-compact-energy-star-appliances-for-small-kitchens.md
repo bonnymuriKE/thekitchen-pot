@@ -4,7 +4,7 @@ slug: best-compact-energy-star-appliances-for-small-kitchens
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: A tiny kitchen doesn't mean you have to skip appliances that save
   energy. Energy Star makes certified compact versions of most major kitchen

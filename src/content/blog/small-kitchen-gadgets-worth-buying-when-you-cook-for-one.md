@@ -4,7 +4,7 @@ slug: small-kitchen-gadgets-worth-buying-when-you-cook-for-one
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: Kitchen gadget aisles are full of tools that promise to save you
   time, but most of them just take up drawer space you don't have. If you're

@@ -4,7 +4,7 @@ slug: best-small-grills-for-balconies-and-patios
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: Living somewhere small doesn't mean giving up real backyard flavor. Whether
   you have a narrow balcony, a tiny concrete patio, or a shared courtyard, there's

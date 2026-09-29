@@ -4,7 +4,7 @@ slug: what-is-ceramic-dinnerware
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-08-22
 modDate: 2026-08-22
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: Ceramic dinnerware refers to plates, bowls, mugs, and serving pieces
   made from natural clay and minerals that are shaped, fired in a kiln, and

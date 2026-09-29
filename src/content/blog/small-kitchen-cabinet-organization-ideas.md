@@ -4,7 +4,7 @@ slug: small-kitchen-cabinet-organization-ideas
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: A small kitchen doesn't have less potential storage, it just has less
   forgiving cabinets. Every inch that's wasted on awkward stacking or dead
