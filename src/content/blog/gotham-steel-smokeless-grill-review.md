@@ -1,5 +1,5 @@
 ---
-excerpt: "The Gotham Steel Smokeless Grill pulls smoke down through the grates instead of letting it rise off your food. That mechanism is real. The problem is that Gotham Steel no longer sells the grill."
+excerpt: "The Gotham Steel Smokeless Grill pulls smoke down through the grates instead of letting it rise off your food. That mechanism is real. The catch is that Gotham Steel no longer lists the grill on its own website, though it is still sold on Amazon."
 showTableOfContents: true
 authorId: kitchenpot1
 title: "Gotham Steel Smokeless Grill Review: Is It Really Smokeless?"
@@ -16,7 +16,7 @@ tags:
   - gotham steel smokeless grill review
   - is the gotham steel grill really smokeless
   - indoor smokeless grill nonstick coating
-  - gotham steel grill discontinued
+  - gotham steel grill availability
   - best smokeless indoor grill
 description: "Gotham Steel Smokeless Grill review: how its downdraft fan actually works, where the smokeless claim fails, and three current indoor grills to buy instead."
 seo: "An honest look at the Gotham Steel Smokeless Grill: how the downdraft fan works, why the smokeless claim only half holds, and which indoor grills are still sold."
@@ -25,7 +25,7 @@ faq:
   - question: "Is the Gotham Steel Smokeless Grill actually smokeless?"
     answer: "Not completely. It cuts smoke a lot with lean foods like chicken breast, shrimp or vegetables, because the fan pulls rising vapour down and away. Fatty meats are different. Bacon, sausages and higher-fat burgers still smoke once grease drips and heats up, even with the fan running."
   - question: "Does Gotham Steel still sell the Smokeless Grill?"
-    answer: "Not on gothamsteel.com. The site now sells cookware, bakeware, crisper trays, a sandwich maker and a stovetop double grill plate, with no electric grill category at all. Third-party listings and leftover stock still exist, so the grill can be bought, but it is no longer a current product from the maker."
+    answer: "Not on gothamsteel.com. The site now sells cookware, bakeware, crisper trays, a sandwich maker and a stovetop double grill plate, with no electric grill category at all. The grill is still sold on Amazon, so you can buy it there, but the maker's own store no longer promotes it."
   - question: "How does a smokeless grill actually work?"
     answer: "A fan in the base pulls air down through slots in the cooking grate. That downdraft drags smoke and steam away from the food instead of letting it rise into the room. A drip tray underneath catches grease before it sits on hot metal long enough to smoke on its own."
   - question: "Does the ceramic nonstick coating on the Gotham Steel grill wear out?"
@@ -39,17 +39,17 @@ A fan under the grates pulls smoke downward instead of letting it drift up into 
 
 There is a catch that has nothing to do with smoke. Gotham Steel does not sell this grill any more.
 
-**The short version:** The smokeless claim half holds. The downdraft fan and drip tray cut smoke a lot with lean food and barely at all with bacon. The bigger issue is that Gotham Steel's own site no longer lists an electric grill, so buy the [Ninja Sizzle indoor grill and griddle](https://www.amazon.com/dp/B0C8VHBBZK/?tag=kitchenpot-20) instead. It hits 500F, swaps between grill and griddle plates, and Ninja still sells it at $149.99. The buying rule for any indoor grill: match the grill to the fat content of what you cook, because fat is what makes smoke, not the grill.
+**The short version:** The smokeless claim half holds. The downdraft fan and drip tray cut smoke a lot with lean food and barely at all with bacon. The Gotham Steel grill is still [sold on Amazon](https://www.amazon.com/dp/B08C6K45R7/?tag=kitchenpot-20), so it is not gone. But its maker's own site no longer lists it, so if you want a grill with a clearer future, pick the [Ninja Sizzle indoor grill and griddle](https://www.amazon.com/dp/B0C8VHBBZK/?tag=kitchenpot-20). It hits 500F, swaps between grill and griddle plates, and Ninja still sells it at $149.99. The buying rule for any indoor grill: match the grill to the fat content of what you cook, because fat is what makes smoke, not the grill.
 
 ## Is the Gotham Steel Smokeless Grill Still Sold?
 
-Not by Gotham Steel. The [Gotham Steel site](https://www.gothamsteel.com/) now sells cookware sets, skillets, saute pans, pasta pots, stock pots, bakeware and crisper trays. There is no electric grill category.
+Not on its own website. The [Gotham Steel site](https://www.gothamsteel.com/) now sells cookware sets, skillets, saute pans, pasta pots, stock pots, bakeware and crisper trays. There is no electric grill category. The grill is still [listed on Amazon](https://www.amazon.com/dp/B08C6K45R7/?tag=kitchenpot-20), and stock there can change, so check the listing before you decide.
 
-Search its store for "smokeless grill" and you get four results: a stovetop double grill plate at $49.99, a sandwich maker, a crisper tray set and a frying pan. The electric grill is gone from the catalogue.
+Search its store for "smokeless grill" and you get four results: a stovetop double grill plate at $49.99, a sandwich maker, a crisper tray set and a frying pan. The electric grill is not in the maker's catalogue now.
 
-That matters for two reasons. Replacement grill plates and drip pans get scarce once a line is retired, and a scratched plate is the part that usually fails first. Warranty support also thins out.
+That matters for two reasons. Replacement grill plates and drip pans can get scarce once a maker stops promoting a line, and a scratched plate is the part that usually fails first. Warranty support also thins out.
 
-You can still buy the grill from third-party sellers working through leftover stock. If you want to see what owners say, the [Amazon customer reviews page](https://www.amazon.com/product-reviews/B075X25LN2/?tag=kitchenpot-20) is worth ten minutes. Just know you are buying a product its maker has moved on from.
+You can still buy the grill on Amazon. If you want to see what owners say, the [Amazon customer reviews page](https://www.amazon.com/product-reviews/B075X25LN2/?tag=kitchenpot-20) is worth ten minutes. Just know the maker's own site no longer lists it, so support may be thinner.
 
 ## Our Picks at a Glance
 
@@ -99,7 +99,7 @@ Plates have high walls and grease channels, so drippings run off instead of pool
 - The mesh lid reduces smoke but does not vent it anywhere
 - Nonstick plates still need careful tools and moderate scrubbing
 
-**Who should buy it:** Anyone replacing a retired smokeless grill who also wants a flat top. It is the best all-round indoor grill of the three for a small kitchen, especially if you cook for two to four people.
+**Who should buy it:** Anyone replacing a smokeless grill who also wants a flat top. It is the best all-round indoor grill of the three for a small kitchen, especially if you cook for two to four people.
 
 [Check Price on Amazon](https://www.amazon.com/dp/B0C8VHBBZK/?tag=kitchenpot-20)
 
@@ -280,12 +280,12 @@ Renting with a balcony? [Portable grills for apartment living](/blog/best-portab
 * **Using metal tools on a coated plate.** Scratches shorten a coating's life faster than heat does.
 * **Submerging the base.** Only the plate and tray are washable. The base holds the fan and the element.
 * **Overloading the plate.** Cold food drops the surface temperature, and the food steams instead of searing.
-* **Buying a retired model on price alone.** Check the maker's site first, because spare plates vanish once a line ends.
+* **Buying on price alone.** Check the maker's site first, because spare plates vanish once a line ends.
 * **Grilling with no ventilation.** Open a window and start the extractor fan before the first piece of food goes on.
 
 ## Which One Should You Buy?
 
-The Gotham Steel Smokeless Grill did roughly what it claimed, and it is no longer a product you can buy from Gotham Steel. That alone settles it.
+The Gotham Steel Smokeless Grill did roughly what it claimed, and its maker no longer lists it on its own site. It is still on Amazon, so the choice is yours: buy it there if the price is right, or pick one of the alternatives below.
 
 Buy the Ninja Sizzle if you want one current machine that grills and griddles. Buy the Hamilton Beach searing grill if the budget is under $100 or the cupboard is short. Buy the Ninja Foodi grill only if you want it to replace an air fryer too.
 
