@@ -8,7 +8,7 @@ title: 7 Best Over-the-Range Microwaves (2026 Buying Guide)
 source: Wordpress
 slug: 7-best-over-the-range-microwaves
 pubDate: 2020-07-15
-modDate: 2026-09-29
+modDate: 2026-09-30
 image: ""
 category: Small Appliances
 author: Boniface Muriuki
@@ -64,7 +64,7 @@ That's how people end up with a microwave that's plenty powerful but barely move
 
 This guide covers 7 current models, what their CFM and cubic-foot numbers actually mean in your kitchen, and the install rules that decide whether one will even fit. If you're working with [limited cabinet space](/blog/vertical-storage-ideas-for-small-kitchens/), the fan and the footprint matter just as much as the price tag.
 
-**The short version:** the [GE JVM6175SKSS](https://www.amazon.com/GE-JVM6175SKSS-Range-Microwave-Stainless/dp/B01LM1V31A/?tag=kitchenpot-20) is the one to buy. It pairs a 400-CFM fan with 1.7 cubic feet and sensor cooking, which is the combination most kitchens actually need. The one rule worth remembering: buy for the fan first. Wattage is easy to find and airflow is not, so check the CFM number before anything else.
+**The short version:** the [LG MVEM1825F](https://www.amazon.com/LG-MVEM1825F-Over-the-Range-Microwave/dp/B0BJ7SXVDW/?tag=kitchenpot-20) is the one to buy. It pairs a 1.8 cubic foot cavity with sensor cooking, Wi-Fi and a 300 CFM fan, which is the mix most kitchens need. The one rule worth remembering: buy for the fan first. Wattage is easy to find and airflow is not, so check the CFM number before anything else.
 
 ## CFM: the Number That Actually Matters
 
@@ -84,225 +84,229 @@ If your cooktop is induction rather than gas or standard electric, the venting m
 
 ## Our Picks at a Glance
 
-- **Best overall:** [GE JVM6175SKSS](https://www.amazon.com/GE-JVM6175SKSS-Range-Microwave-Stainless/dp/B01LM1V31A/?tag=kitchenpot-20)
-- **Best budget:** [GE JVM3160RFSS](https://www.amazon.com/GE-JVM3160RFSS-Range-Microwave-Stainless/dp/B00F2QFX5O/?tag=kitchenpot-20)
-- **Best for everyday reliability:** [Whirlpool WMH31017HS](https://www.amazon.com/Whirlpool-WMH31017HS-Stainless-Range-Microwave/dp/B076BT7B3B/?tag=kitchenpot-20)
-- **Best large capacity:** [Samsung ME21R7051SG](https://www.amazon.com/Samsung-ME21R7051SG/dp/B07YP692JR/?tag=kitchenpot-20)
-- **Best with convection:** [Café CVM521P2MS1](https://www.amazon.com/CVM521P2MS1-Range-Capacity-Microwave-Stainless/dp/B07RHH9KT5/?tag=kitchenpot-20)
-- **Best value stainless:** [Frigidaire FFMV1846VS](https://www.amazon.com/Frigidaire-FFMV1846VS-Stainless-Microwave-Capacity/dp/B0873ZMKQT/?tag=kitchenpot-20)
-- **Best for narrow cabinets:** [Samsung ME11A7710DS](https://www.amazon.com/SAMSUNG-Microwave-ME11A7710DS-AA-Fingerprint/dp/B0B9GH2ZMW/?tag=kitchenpot-20)
+- **Best overall:** [LG MVEM1825F](https://www.amazon.com/LG-MVEM1825F-Over-the-Range-Microwave/dp/B0BJ7SXVDW/?tag=kitchenpot-20)
+- **Best budget:** [LG MVEM1721F](https://www.amazon.com/LG-MVEM1721F-Stainless-Range-Microwave/dp/B0D2S3N67Y/?tag=kitchenpot-20)
+- **Best large capacity:** [LG MVEL2033F](https://www.amazon.com/LG-MVEL2033F-Over-the-Range-Microwave/dp/B0BFJMZTKH/?tag=kitchenpot-20)
+- **Best with convection:** [Frigidaire Gallery GMOS1968AF](https://www.amazon.com/Frigidaire-Gallery-GMOS1968AF-Range-Microwave/dp/B0CMV75YXH/?tag=kitchenpot-20)
+- **Best for strong venting in a slim body:** [LG MVEF1337F](https://www.amazon.com/LG-MVEF1337F-Low-Profile-Range-Microwave/dp/B0DWJG7KTK/?tag=kitchenpot-20)
+- **Best slim value:** [LG MVEF1323F](https://www.amazon.com/LG-MVEF1323F-Low-Profile-Range-Microwave/dp/B0DWK1X77M/?tag=kitchenpot-20)
+- **Best premium smart pick:** [LG Studio MHES1738F](https://www.amazon.com/LG-Studio-MHES1738F-Convection-Microwave/dp/B0BFJPPDT7/?tag=kitchenpot-20)
 
 ## Quick Comparison
 
 | Model | Capacity | Venting | Wattage | Notable Feature |
 | --- | --- | --- | --- | --- |
-| GE JVM6175SKSS | 1.7 cu ft | 300 CFM | 1,000W | Sensor cooking |
-| GE JVM3160RFSS | 1.6 cu ft | 300 CFM | 1,000W | Lowest price on this list |
-| Whirlpool WMH31017HS | 1.7 cu ft | 300 CFM | 1,000W | Cooktop lighting |
-| Samsung ME21R7051SG | 2.1 cu ft | 400 CFM | 950W | Ceramic enamel interior |
-| Café CVM521P2MS1 | 2.1 cu ft | 400 CFM | 1,000W | Convection baking |
-| Frigidaire FFMV1846VS | 1.8 cu ft | 300 CFM | 1,000W | Dishwasher-safe filters |
-| Samsung ME11A7710DS | 1.1 cu ft | 550 CFM | 1,100W | Slim design, Wi-Fi |
+| LG MVEM1825F | 1.8 cu ft | 300 CFM | 1,000W | Sensor cook, Wi-Fi |
+| LG MVEM1721F | 1.7 cu ft | 300 CFM | 1,000W | Simple preset buttons |
+| LG MVEL2033F | 2.0 cu ft | 400 CFM | 1,050W | Largest standard cavity here |
+| Frigidaire Gallery GMOS1968AF | 1.9 cu ft | 400 CFM | 1,000W | Convection and air fry |
+| LG MVEF1337F | 1.3 cu ft | 550 CFM | 1,000W | Strongest fan, low profile |
+| LG MVEF1323F | 1.3 cu ft | 400 CFM | 1,000W | Low profile, Wi-Fi |
+| LG Studio MHES1738F | 1.7 cu ft | 300 CFM | 950W | Convection, air fry, steam |
 
 ## How We Chose
 
-These picks come from published manufacturer spec sheets, retailer listings, and independent lab reviews, cross-checked against real capacity, CFM, and wattage numbers. We looked for a spread of budgets and cavity sizes rather than one "best" size for every kitchen. Our [best food processors under $100](/blog/best-food-processor-under-100/) guide takes the same approach, spreading picks across price tiers instead of naming a single winner.
+These picks come from manufacturer product pages and spec sheets checked in late September 2026, plus retailer listings. We only kept models that the maker still lists as buyable, and we dropped several well-known names that are discontinued or out of stock. We also aimed for a spread of cavity sizes, fan strengths and budgets. Our [best food processors under $100](/blog/best-food-processor-under-100/) guide takes the same approach, spreading picks across price tiers instead of naming a single winner.
 
-## 1. [GE JVM6175SKSS](https://www.amazon.com/GE-JVM6175SKSS-Range-Microwave-Stainless/dp/B01LM1V31A/?tag=kitchenpot-20): Best Overall
+Stock changes fast with microwaves, so treat every listing as a snapshot. Click through to confirm the model number and finish before you order.
 
-- **Type:** Over-the-range, ducted or recirculating
+## 1. [LG MVEM1825F](https://www.amazon.com/LG-MVEM1825F-Over-the-Range-Microwave/dp/B0BJ7SXVDW/?tag=kitchenpot-20): Best Overall
+
+- **Type:** Smart over-the-range microwave with a convertible vent
+- **Key specs:** 1.8 cu ft, 1,000W, 300 CFM, 2 fan speeds, sensor cook
+- **Best for:** Most households that want sensor cooking and Wi-Fi without paying for a premium tier
+
+The MVEM1825F covers the basics well. Sensor cook reads the steam coming off your food and adjusts the time, so you pick a food type and press start. Three auto cook options and an Add 30 Seconds button handle the rest.
+
+The 1.8 cubic foot cavity sits between the small and large ends of this list. It takes a full dinner plate with room to spare. Our guide to [cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) covers the same kind of sizing call.
+
+It also connects to the LG ThinQ app. If you own a compatible LG range or cooktop, the microwave can turn its light and vent on when you start cooking. The fan is a middle-of-the-road 300 CFM, which handles everyday sautéing and simmering.
+
+**What we like:**
+
+- Sensor cook with three auto cook options
+- Wi-Fi and Scan-to-Cook through the ThinQ app
+- 1.8 cu ft cavity fits a full dinner plate comfortably
+- Two fan speeds and a convertible vent for ducted or recirculating installs
+- PrintProof finish resists fingerprints
+
+**What to know before you buy:**
+
+- 300 CFM is average for heavy cooks
+- Smart features only pay off if you actually use the app
+
+**Who should buy it:** Anyone who wants a dependable mid-size microwave with sensor cooking and does not need convection.
+
+[Check Price on Amazon](https://www.amazon.com/LG-MVEM1825F-Over-the-Range-Microwave/dp/B0BJ7SXVDW/?tag=kitchenpot-20)
+
+## 2. [LG MVEM1721F](https://www.amazon.com/LG-MVEM1721F-Stainless-Range-Microwave/dp/B0D2S3N67Y/?tag=kitchenpot-20): Best Budget
+
+- **Type:** Over-the-range microwave
 - **Key specs:** 1.7 cu ft, 1,000W, 300 CFM, 10 power levels
-- **Best for:** Households that want sensor cooking without paying for a smart-home tier
+- **Best for:** Renters and first apartments that need a plain, reliable microwave
 
-The JVM6175SKSS covers the basics well. It has sensor cooking that reads steam and adjusts time automatically, a charcoal filter for recirculating mode, and a cooktop light bright enough to actually cook by.
+This is the no-frills option on the list, and that is the appeal. You get a 1,000W microwave, a 300 CFM vent and a 1.7 cubic foot cavity. LG lists it at the lowest price of the LG models here.
 
-The 300 CFM fan sits right in the middle of the pack, which is enough for regular sautéing and simmering. It won't outperform a real range hood on high-heat frying, but few over-the-range microwaves do.
+Cooking is done with nine Auto Touch presets and an Add 30 Seconds key. LG's own page highlights those presets rather than sensor cooking, so plan on setting some times by hand. For daily reheating, that is a small loss.
 
-At 1.7 cubic feet, the cavity fits a dinner plate with room to spare. That's a comfortable middle ground if you're not sure whether you need the smaller or larger end of this list. Our guide to [cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) covers the same kind of sizing call.
-
-**What we like:**
-
-- Sensor cooking reads humidity and adjusts automatically
-- 300 CFM handles everyday cooking without trouble
-- Dishwasher-safe charcoal filter for recirculating installs
-- Simple control layout with no learning curve
-
-**What to know before you buy:**
-
-- No Wi-Fi or smart features
-- 300 CFM is average, not exceptional, for heavy cooks
-
-**Who should buy it:** Anyone who wants a dependable, mid-capacity microwave with real sensor cooking and doesn't need smart-home features.
-
-[Check Price on Amazon](https://www.amazon.com/GE-JVM6175SKSS-Range-Microwave-Stainless/dp/B01LM1V31A/?tag=kitchenpot-20)
-
-## 2. [GE JVM3160RFSS](https://www.amazon.com/GE-JVM3160RFSS-Range-Microwave-Stainless/dp/B00F2QFX5O/?tag=kitchenpot-20): Best Budget
-
-- **Type:** Over-the-range, ducted or recirculating
-- **Key specs:** 1.6 cu ft, 1,000W, 300 CFM, 2-speed fan
-- **Best for:** Renters and first apartments who need a reliable microwave without extra features
-
-This is the no-frills option on the list, and that's the appeal. You get a 1,000W microwave, a 300 CFM two-speed fan, and a 1.6 cubic foot cavity, all at the lowest price here.
-
-It skips sensor cooking and convection, so you're setting time and power manually. For most day-to-day reheating, that's not a real loss.
-
-The smaller 1.6 cubic foot cavity is the trade-off for the price. It handles a standard dinner plate fine but gets tight with a wide serving bowl, the same tradeoff you'll see in [compact energy-efficient appliances](/blog/most-energy-efficient-small-kitchen-appliances/) built for tight kitchens.
+The interior has LG's EasyClean coating, which resists stains. A WideView window and a child lock round out the basics. The fan matches the pricier LG mid-size models, so you give up little air movement. That is the same trade you see in [compact energy-efficient appliances](/blog/most-energy-efficient-small-kitchen-appliances/) built for tight kitchens.
 
 **What we like:**
 
-- Lowest price on this list
-- 300 CFM fan performs the same as pricier models
-- Simple controls with no unnecessary features
-- Stainless steel finish matches most kitchens
+- Lowest price of the LG models on this list
+- 300 CFM fan matches the pricier mid-size picks
+- Ten power levels and nine Auto Touch presets
+- EasyClean interior and child lock
 
 **What to know before you buy:**
 
-- No sensor cooking or convection
-- Smallest cavity on this list at 1.6 cu ft
+- No Wi-Fi or app control
+- LG's page highlights presets, not sensor cooking
 
-**Who should buy it:** Anyone who wants a simple, dependable microwave and doesn't need the largest cavity or smart features.
+**Who should buy it:** Buyers who want a simple, dependable microwave and do not need smart features or the largest cavity.
 
-[Check Price on Amazon](https://www.amazon.com/GE-JVM3160RFSS-Range-Microwave-Stainless/dp/B00F2QFX5O/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/LG-MVEM1721F-Stainless-Range-Microwave/dp/B0D2S3N67Y/?tag=kitchenpot-20)
 
-## 3. [Whirlpool WMH31017HS](https://www.amazon.com/Whirlpool-WMH31017HS-Stainless-Range-Microwave/dp/B076BT7B3B/?tag=kitchenpot-20): Best for Everyday Reliability
+## 3. [LG MVEL2033F](https://www.amazon.com/LG-MVEL2033F-Over-the-Range-Microwave/dp/B0BFJMZTKH/?tag=kitchenpot-20): Best Large Capacity
 
-- **Type:** Over-the-range, ducted or recirculating
-- **Key specs:** 1.7 cu ft, 1,000W, 300 CFM, cooktop lighting
-- **Best for:** Buyers who want a well-reviewed, mainstream brand at a mid-range price
+- **Type:** Smart over-the-range microwave
+- **Key specs:** 2.0 cu ft, 1,050W, 400 CFM, 4 fan speeds, sensor cook
+- **Best for:** Households that reheat casserole dishes and big bowls
 
-Whirlpool built this one around the fundamentals: a 1.7 cubic foot cavity, a 300 CFM two-speed vent, and cooktop lighting bright enough for evening cooking.
+At 2.0 cubic feet, this LG has the biggest cavity of the standard-height models here. The inside measures about 22 inches wide and 14.5 inches deep, so a 9-by-13 dish is likely to sit flat instead of tilting against the door.
 
-The turntable is a standard glass plate, and the door has a simple pull handle rather than a push-button release. That's a small thing, but it means one less part that can eventually fail.
+The 400 CFM fan is stronger than the 300 CFM units on this list. It also has four speeds, so you can run it low for light cooking. The 1,050W output is a touch above the usual 1,000W.
 
-It doesn't offer sensor cooking, so you'll set your own times. For most reheating tasks, that's a minor adjustment, similar to running a [manual rice cooker cycle](/blog/how-to-cook-rice-in-a-rice-cooker/) instead of a one-touch setting.
+Sensor cook, six auto cook options and Wi-Fi come as standard. A bigger cavity does take up more visual space above the range, the same logic behind choosing a larger [stockpot with a lid](/blog/best-stockpot-with-a-lid/) when you cook in bulk.
 
 **What we like:**
 
-- Reliable, mainstream brand with wide parts availability
-- 1.7 cu ft cavity fits most dinner plates comfortably
-- Bright cooktop lighting
-- Simple manual controls
+- 2.0 cu ft cavity with about 22 inches of interior width
+- 400 CFM fan with four speeds
+- Sensor cook, six auto cook options and Wi-Fi
+- 1,050W output
 
 **What to know before you buy:**
 
-- No sensor cooking
-- 300 CFM won't replace a dedicated range hood for heavy frying
+- Takes up more space above the range than the smaller models
+- Costs more than the 1.7 to 1.8 cu ft LG models
 
-**Who should buy it:** Buyers who want a dependable mid-range microwave from a well-known brand without paying for extra electronics.
+**Who should buy it:** Anyone who regularly reheats large dishes and wants a stronger fan than a standard 300 CFM model.
 
-[Check Price on Amazon](https://www.amazon.com/Whirlpool-WMH31017HS-Stainless-Range-Microwave/dp/B076BT7B3B/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/LG-MVEL2033F-Over-the-Range-Microwave/dp/B0BFJMZTKH/?tag=kitchenpot-20)
 
-## 4. [Samsung ME21R7051SG](https://www.amazon.com/Samsung-ME21R7051SG/dp/B07YP692JR/?tag=kitchenpot-20): Best Large Capacity
+## 4. [Frigidaire Gallery GMOS1968AF](https://www.amazon.com/Frigidaire-Gallery-GMOS1968AF-Range-Microwave/dp/B0CMV75YXH/?tag=kitchenpot-20): Best With Convection
 
-- **Type:** Over-the-range, ducted or recirculating
-- **Key specs:** 2.1 cu ft, 950W, 400 CFM, ceramic enamel interior
-- **Best for:** Households that regularly reheat casserole dishes or large bowls
-
-At 2.1 cubic feet, this Samsung has one of the largest cavities you'll find in an over-the-range microwave. A 9-by-13 casserole dish fits flat instead of tilting against the door.
-
-The 400 CFM fan is stronger than most models on this list, so it handles busier stovetop cooking better than a 300 CFM unit does. The ceramic enamel interior also resists staining better than plain painted metal.
-
-The 950W output is slightly lower than the 1,000W standard here, which means marginally longer cook times on dense foods. It's a small trade for the extra space and venting power, the same logic behind choosing a larger [stockpot with a lid](/blog/best-stockpot-with-a-lid/) over a smaller one when you regularly cook in bulk.
-
-**What we like:**
-
-- Largest cavity on this list at 2.1 cu ft
-- 400 CFM venting outperforms most competitors
-- Ceramic enamel interior resists stains
-- Sensor cook adjusts automatically for popcorn and reheating
-
-**What to know before you buy:**
-
-- 950W is slightly lower than the 1,000W standard elsewhere on this list
-- The larger cavity takes up more visual space above the range
-
-**Who should buy it:** Anyone who regularly reheats large dishes and wants stronger venting than a standard 300 CFM model.
-
-[Check Price on Amazon](https://www.amazon.com/Samsung-ME21R7051SG/dp/B07YP692JR/?tag=kitchenpot-20)
-
-## 5. [Café CVM521P2MS1](https://www.amazon.com/CVM521P2MS1-Range-Capacity-Microwave-Stainless/dp/B07RHH9KT5/?tag=kitchenpot-20): Best With Convection
-
-- **Type:** Over-the-range convection microwave, ducted or recirculating
-- **Key specs:** 2.1 cu ft, 1,000W, 400 CFM, true convection baking
+- **Type:** Over-the-range convection microwave with air fry
+- **Key specs:** 1.9 cu ft, 1,000W, 400 CFM, 3 fan speeds, convection up to 425°F
 - **Best for:** Small kitchens that want a second oven without adding an appliance
 
-This Café model adds true convection baking, so it can actually bake and roast, not just reheat. That's useful if your [small kitchen doesn't have room for a second oven or toaster oven](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/).
+This Frigidaire adds convection baking and air fry to a standard microwave. Convection uses a fan to move hot air around the food, so it can brown and crisp, not just reheat. That helps if your [small kitchen has no room for a toaster oven](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/).
 
-The 2.1 cubic foot cavity and 400 CFM fan match Samsung's large-capacity pick, so you're not giving up space or venting power to get convection. Wi-Fi connectivity and a steam-cook setting round out the feature list.
+The 1.9 cubic foot cavity and 400 CFM fan give you space and venting power in one unit. Sensor Cook and Sensor Reheat adjust the time for you. A removable shelf lets you cook on two levels.
 
-Convection microwaves cost more than standard models, and this one is priced accordingly. If you'll actually use the baking function, it can replace a second small appliance rather than add one.
-
-**What we like:**
-
-- True convection baking in addition to microwave cooking
-- 2.1 cu ft cavity with 400 CFM venting
-- Wi-Fi connectivity and steam-cook setting
-- Can replace a small second oven in a tight kitchen
-
-**What to know before you buy:**
-
-- Highest price on this list
-- More features mean more that can eventually need repair
-
-**Who should buy it:** Small-kitchen cooks who want real baking function from an appliance they already have room for.
-
-[Check Price on Amazon](https://www.amazon.com/CVM521P2MS1-Range-Capacity-Microwave-Stainless/dp/B07RHH9KT5/?tag=kitchenpot-20)
-
-## 6. [Frigidaire FFMV1846VS](https://www.amazon.com/Frigidaire-FFMV1846VS-Stainless-Microwave-Capacity/dp/B0873ZMKQT/?tag=kitchenpot-20): Best Value Stainless
-
-- **Type:** Over-the-range, ducted or recirculating
-- **Key specs:** 1.8 cu ft, 1,000W, 300 CFM, dishwasher-safe filters
-- **Best for:** Buyers who want a mid-size cavity without paying for smart features
-
-The FFMV1846VS splits the difference between the budget and large-capacity picks here. Its 1.8 cubic foot cavity is bigger than the standard 1.6 to 1.7, without stepping up to the 2.1 cubic foot tier.
-
-Its grease filters are dishwasher-safe, which is a small detail that saves real time over years of ownership, the same way [dishwasher-safe stainless cookware](/blog/what-is-stainless-steel-cookware/) cuts down on hand-scrubbing. A digital display and simple timer round out the controls.
-
-The 300 CFM fan is the same rating as the budget and mid-range picks on this list. It handles regular cooking fine, though heavy frying still calls for a stronger dedicated hood.
+Convection microwaves cost more than standard ones. If you will use the baking and air fry functions, the extra money can replace a second small appliance.
 
 **What we like:**
 
-- 1.8 cu ft cavity beats the standard 1.6 to 1.7 range
-- Dishwasher-safe grease filters
-- UL and cUL safety certification
-- Digital display and simple timer controls
+- Convection cooking up to 425°F plus air fry
+- 1.9 cu ft cavity with 400 CFM and three fan speeds
+- Sensor Cook and Sensor Reheat
+- Removable shelf for cooking on two levels
+- PureAir filter with a push-to-open door
 
 **What to know before you buy:**
 
-- No sensor cooking or convection
-- 300 CFM is standard, not exceptional
+- Costs more than the standard microwaves on this list
+- No Wi-Fi listed in the specs we found
 
-**Who should buy it:** Buyers who want more cavity space than the entry-level models without paying for convection or Wi-Fi.
+**Who should buy it:** Small-kitchen cooks who want real baking and air frying from an appliance they already have room for.
 
-[Check Price on Amazon](https://www.amazon.com/Frigidaire-FFMV1846VS-Stainless-Microwave-Capacity/dp/B0873ZMKQT/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Frigidaire-Gallery-GMOS1968AF-Range-Microwave/dp/B0CMV75YXH/?tag=kitchenpot-20)
 
-## 7. [Samsung ME11A7710DS](https://www.amazon.com/SAMSUNG-Microwave-ME11A7710DS-AA-Fingerprint/dp/B0B9GH2ZMW/?tag=kitchenpot-20): Best for Narrow Cabinets
+## 5. [LG MVEF1337F](https://www.amazon.com/LG-MVEF1337F-Low-Profile-Range-Microwave/dp/B0DWJG7KTK/?tag=kitchenpot-20): Best for Strong Venting in a Slim Body
 
-- **Type:** Slim over-the-range, ducted or recirculating
-- **Key specs:** 1.1 cu ft, 1,100W, 550 CFM, Wi-Fi and voice control
-- **Best for:** Kitchens with shallow cabinet space or renovations that want the strongest fan on this list
+- **Type:** Low-profile smart over-the-range microwave
+- **Key specs:** 1.3 cu ft, 1,000W, 550 CFM, 4 fan speeds, sensor cook
+- **Best for:** Kitchens with tight vertical space that still need a strong fan
 
-Samsung built this as a slim model, and the numbers show it. At 1.1 cubic feet it's the smallest cavity here, but its 550 CFM fan is the strongest on this list by a wide margin.
+LG built this as a low-profile model, and the numbers show it. It stands about 12 inches tall, and the cavity is 1.3 cubic feet. It has the strongest fan on this list at 550 CFM.
 
-That trade-off makes sense for a specific kitchen: one where cabinet depth or height is tight, but stovetop venting still needs to work hard. A [remodel with limited cabinet clearance](/blog/small-kitchen-cabinet-organization-ideas/) is exactly where this model earns its price.
+That mix makes sense for a kitchen where height is tight but the stovetop still works hard. A [remodel with limited cabinet clearance](/blog/small-kitchen-cabinet-organization-ideas/) is where this model earns its price. LG says the cavity fits items up to 7.7 inches tall.
 
-Wi-Fi connectivity lets you start, stop, or check on cooking from a phone app, and voice control works with compatible smart speakers. Those extras are actually useful here, not gimmicks, since the small cavity means you're often reheating rather than watching a longer cook.
+Sensor cook, Wi-Fi and Scan-to-Cook come with it. The ThinQ app can also sync the light and vent with a compatible LG range.
 
 **What we like:**
 
 - Strongest venting on this list at 550 CFM
-- Slim design fits shallow or tight cabinet spaces
-- Wi-Fi and voice control actually useful for quick reheating
-- LED light bar improves cooktop visibility
+- Low profile fits tight spaces
+- Sensor cook, Wi-Fi and Scan-to-Cook
+- Zero-clearance door design
 
 **What to know before you buy:**
 
-- Smallest cavity on this list at 1.1 cu ft
-- Not a fit if you regularly reheat large dishes
+- Smallest cavity on this list at 1.3 cu ft
+- Listed depth is about 19 inches, deeper than most over-the-range models
 
-**Who should buy it:** Kitchens with limited cabinet depth, or anyone who wants the strongest vent fan available in this category.
+**Who should buy it:** Kitchens with limited cabinet height, or anyone who wants the strongest vent fan in this category.
 
-[Check Price on Amazon](https://www.amazon.com/SAMSUNG-Microwave-ME11A7710DS-AA-Fingerprint/dp/B0B9GH2ZMW/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/LG-MVEF1337F-Low-Profile-Range-Microwave/dp/B0DWJG7KTK/?tag=kitchenpot-20)
+
+## 6. [LG MVEF1323F](https://www.amazon.com/LG-MVEF1323F-Low-Profile-Range-Microwave/dp/B0DWK1X77M/?tag=kitchenpot-20): Best Slim Value
+
+- **Type:** Low-profile smart over-the-range microwave
+- **Key specs:** 1.3 cu ft, 1,000W, 400 CFM, 4-speed fan
+- **Best for:** Buyers who want a slim microwave and a good fan for less
+
+The MVEF1323F shares its body with the MVEF1337F. It has the same 1.3 cubic feet, the same low height and the same zero-clearance door. The main difference is the fan, which is 400 CFM instead of 550.
+
+That is still stronger than the 300 CFM fan on most of this list. It also has four speeds, and Wi-Fi with the ThinQ app comes standard. For many cooks, it is the sweet spot between the slim body and the price.
+
+Like its sibling, it is deeper than a standard model. Measure your cabinet depth and your [compact appliance footprint](/blog/best-compact-energy-star-appliances-for-small-kitchens/) before you order.
+
+**What we like:**
+
+- 400 CFM fan with four speeds
+- Low profile with a zero-clearance door
+- Wi-Fi and Scan-to-Cook through ThinQ
+- SmoothTouch glass controls
+
+**What to know before you buy:**
+
+- 1.3 cu ft is a small cavity
+- Listed depth is about 19 inches
+
+**Who should buy it:** Shoppers who want the slim design and a stronger-than-average fan, and can live with a smaller cavity.
+
+[Check Price on Amazon](https://www.amazon.com/LG-MVEF1323F-Low-Profile-Range-Microwave/dp/B0DWK1X77M/?tag=kitchenpot-20)
+
+## 7. [LG Studio MHES1738F](https://www.amazon.com/LG-Studio-MHES1738F-Convection-Microwave/dp/B0BFJPPDT7/?tag=kitchenpot-20): Best Premium Smart Pick
+
+- **Type:** Over-the-range convection microwave with air fry and steam
+- **Key specs:** 1.7 cu ft, 950W, 300 CFM, 2 fan speeds, convection and air fry
+- **Best for:** Cooks who want one appliance to microwave, bake, air fry and steam
+
+This is the feature-packed model on the list. It adds convection, air fry and steam cooking to a microwave, plus sensor cooking and Wi-Fi through ThinQ. LG says air fry works without preheating.
+
+Air fry uses fast-moving hot air to crisp food, the same idea as a countertop unit. Our [best air fryers under $100](/blog/best-air-fryers-under-100/) guide explains how that works. Here you get it above the range, and our [NuWave oven vs air fryer](/blog/nuwave-oven-vs-air-fryers/) comparison shows how the two hot-air styles differ.
+
+The fan is a modest 300 CFM, and the microwave power is 950W. This is a pick for features, not for raw venting. It also costs the most on this list.
+
+**What we like:**
+
+- Convection, air fry and steam cooking in one unit
+- Sensor cook and Wi-Fi with the ThinQ app
+- 1.7 cu ft cavity
+- LED lighting and a two-speed fan
+
+**What to know before you buy:**
+
+- Highest price on this list
+- 300 CFM and 950W are average, not standout, numbers
+
+**Who should buy it:** Small-kitchen cooks who want the most functions from one appliance and will use them.
+
+[Check Price on Amazon](https://www.amazon.com/LG-Studio-MHES1738F-Convection-Microwave/dp/B0BFJPPDT7/?tag=kitchenpot-20)
 
 ## What an Over-the-Range Microwave Actually Replaces
 
@@ -372,9 +376,11 @@ If ducting isn't possible, recirculating mode is still better than no venting at
 
 ## Which One Should You Buy?
 
-If you're not sure where to start, the GE JVM6175SKSS covers the most ground. It has a 1.7 cubic foot cavity, sensor cooking, and a 300 CFM fan that handles regular cooking without fuss.
+If you are not sure where to start, the LG MVEM1825F covers the most ground. It has a 1.8 cubic foot cavity, sensor cooking and Wi-Fi, and a 300 CFM fan that handles regular cooking.
 
-Go bigger with the Samsung ME21R7051SG if casserole dishes and large bowls are part of your regular routine. Go slimmer with the Samsung ME11A7710DS if your cabinet space is tight but you still want strong venting. A [slim side-by-side refrigerator](/blog/best-side-by-side-refrigerator/) trades capacity for footprint the same way, in a narrow kitchen.
+Go bigger with the LG MVEL2033F if casserole dishes and large bowls are part of your routine. Go slimmer with the LG MVEF1337F if your cabinet height is tight but you still want a strong fan. A [slim side-by-side refrigerator](/blog/best-side-by-side-refrigerator/) trades capacity for footprint the same way, in a narrow kitchen.
+
+Want a second oven? The Frigidaire Gallery GMOS1968AF and the LG Studio MHES1738F both add convection and air fry. On a tight budget, the LG MVEM1721F keeps things simple.
 
 Whatever you pick, measure your cabinet opening and confirm the 30-inch clearance before you order. That single measurement decides whether installation is a quick swap or a full cutout job. The same careful measuring goes into fitting a [mini fridge into a tight spot](/blog/how-to-defrost-a-mini-fridge/) or planning [vertical storage for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) around fixed appliance dimensions.
 
