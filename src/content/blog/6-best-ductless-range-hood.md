@@ -1,782 +1,395 @@
 ---
-excerpt: "Banish cooking odors! Discover 6 top ductless range hoods that purify
-  air in style. Our buyer’s guide helps you choose the right model effortlessly.
-  "
+excerpt: "Six ductless and convertible range hoods that are still sold, plus the truth about charcoal filters, what CFM means when there is no duct, and when to duct instead."
 showTableOfContents: true
 authorId: kitchenpot1
-title: "6 Best Ductless Range Hoods – Your Complete Buying Guide "
+title: "6 Best Ductless Range Hoods (Honest Picks, Filters and Running Costs)"
 source: wordpress
 slug: 6-best-ductless-range-hood
 pubDate: 2020-07-14
-modDate: 2025-02-04
+modDate: 2026-09-30
 image: ""
-description: Banish cooking odors! Discover 6 top ductless range hoods that
-  purify air in style. Our buyer’s guide helps you choose the right model
-  effortlessly.
+description: "The best ductless range hood picks for a kitchen with no duct: six current models, charcoal filter costs, CFM, noise and sizing, plus when to duct instead."
 category: Range Hoods
 tags:
-  - ductless-range-hoods
-  - under-cabinet-range-hoods
-  - wall-mount-range-hoods
+  - ductless-range-hood
+  - recirculating-range-hood
+  - convertible-range-hood
+  - charcoal-filter
+  - small-kitchen-ventilation
 author: Boniface Muriuki
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 authorImage: /images/authors/chris-thompson.png
 authorImageAlt: kitchenpot1
-coverAlt: 6 Best Ductless Range Hood - With a Comprehensive Buyers Guide
-seo: Are you looking for a ductless range hood to improve the air quality in
-  your kitchen? This article will offer a well-researched list of the best
-  ductless range hoods.
+coverAlt: A stainless steel ductless range hood with charcoal filters mounted over a cooktop in a small apartment kitchen
+seo: "The best ductless range hoods for kitchens with no duct: six current picks, charcoal filter costs, CFM, sones, sizing, and when a ducted hood is the better buy."
+faq:
+  - question: "Do ductless range hoods actually work?"
+    answer: "Yes, for grease and odor. A ductless hood pulls cooking air through a metal grease filter and then a charcoal filter, and the charcoal holds on to many smell molecules. What it cannot do is remove heat, steam or the gases from a gas flame, because the air comes straight back into the room. It helps a lot in a small kitchen with no duct. It is not a substitute for venting outside when venting is possible."
+  - question: "How often should you replace the charcoal filter in a ductless range hood?"
+    answer: "Broan-NuTone and Cosmo both say every six months, or sooner if you cook a lot of greasy food. Charcoal cannot be washed back to life, because the odor molecules stay stuck inside it. Budget roughly $50 to $90 a year for genuine filters, depending on the brand. If the kitchen starts smelling after cooking even with the fan on, the charcoal is probably full, whatever the calendar says."
+  - question: "What CFM do I need for a ductless range hood?"
+    answer: "Less than most spec sheets suggest. For a recirculating hood, the rated CFM is a ducted number, and the charcoal filter adds resistance that cuts real airflow. A hood in the 300 to 400 CFM class is plenty for most 30-inch cooktops. What matters more is capture: a hood as wide as the cooktop or wider, mounted near the low end of its allowed height, running before the pan gets hot."
+  - question: "Can any range hood be converted to ductless?"
+    answer: "No. Only hoods the maker lists as convertible or non-ducted can run without a duct. They have a place to hold charcoal filters and a way to send air back into the room. Convertible hoods need the maker's charcoal kit, which is usually sold separately. A hood sold as ducted only has nowhere to put the charcoal, so the air would just blow out of the top of the hood unfiltered."
+  - question: "Is a ductless range hood OK over a gas stove?"
+    answer: "It will catch grease and odor, but it will not remove heat, moisture or combustion gases from the burners. The Home Ventilating Institute says high BTU gas cooking equipment should always be ducted outside. If you cook on gas and cannot duct, run the hood every time, crack a window when you can, and consider a convertible hood so you can switch to ducted later."
 ---
 ![Ductless Range Hood](/images/ductless-range-hood.jpg)
 
-If you have been considering getting a range hood, but you cannot vent it outdoors because of ductwork restrictions in your kitchen, then you might just have a new best friend: a ductless range
-hood. 
+A ductless range hood cleans grease and smell out of the air. It does not take away heat or steam.
 
-Also called recirculating hoods or non-vented hoods, they work by pulling in air, filtering out the grease, smoke, and odors and returning the filtered air back into your kitchen. 
+That one fact decides whether the best ductless range hood is right for you. If you rent, live in a condo with no outside wall, or simply cannot cut a duct, recirculating is a real improvement over nothing. If a duct is possible, a ducted hood is better every time.
 
-So, how do they really work?
+**The short version:** For most small kitchens, buy the [Broan-NuTone GLA2303SS](https://www.amazon.com/Broan-NuTone-GLA2303SS-30-Inch-Cabinet-Stainless/dp/B0DHF5CVQP/?tag=kitchenpot-20) and add its HPF30 charcoal filters. It is rated at just 1.5 sones, it runs ducted or ductless, and you can add a duct later if you move. The one buying rule: match the hood width to your cooktop, then budget for new charcoal every six months.
 
-Essentially, air is extracted into the hood by a fan located inside the hood. 
+## What a Ductless Hood Can and Can't Do
 
-Think of the extraction process as similar to the fan you may have in your bathroom. 
+A recirculating hood has a fan, a metal grease filter and a charcoal filter. The fan pulls the plume from your pan up through the grease filter first. Then the air passes through the charcoal, which holds on to odor molecules. Clean air blows back out into the room.
 
-The air passes through a **grease filter** (typically aluminum mesh or stainless steel baffles), that captures airborne particles of grease. The filtered air then continues through the **activated charcoal filters** that eliminate odors and smoke. Lastly, the filtered air is returned back to the kitchen space.
+So grease and most cooking smells drop out. Heat, steam and the gases from a gas burner stay in the kitchen, because there is nowhere else for them to go. A [pressure cooker's steam release](/blog/instant-pot-vs-pressure-cooker/) shows this fast: the hood catches the smell, but the window still fogs. The [Home Ventilating Institute](https://www.hvi.org/resources/faqs/) puts it plainly: range hoods should be ducted outside, and high BTU gas cooking should always be ducted.
 
-With ductless range hoods, there are no ducts. No outside venting. Just cleaner indoor air, making **installation very easy**. 
+That is not a reason to skip a hood. A ductless model still keeps grease off your cabinets and cuts the smell that drifts into a studio's bed and sofa. Our [small-kitchen guide to range hoods and cooking smells](/blog/small-kitchen-guide-range-hood-ventilation-cooking-smell/) covers the other half of the job, from window fans to lids on pans.
 
-You can mount it on your wall, **[under a cabinet](https://thekitchenpot.com/blog/best-under-cabinet-range-hood/)** or on your ceiling if you want to get fancy.  You can do it yourself, so it’s perfect for renters, for small homeowners or even for food truck operators.
+## Our Picks at a Glance
 
-Even though they do not fully remove moisture and heat (like the **ducted versions do**), the **latest models of ductless hoods** are quite effective, when equipped with **high capacity fans** and high quality filters. In fact, many of the newest models come with **multi-layer filtration** with **multiple, adjustable speeds**, which increase effectiveness.
+- **Best overall:** [Broan-NuTone GLA2303SS](https://www.amazon.com/Broan-NuTone-GLA2303SS-30-Inch-Cabinet-Stainless/dp/B0DHF5CVQP/?tag=kitchenpot-20)
+- **Best true ductless for renters:** [Broan-NuTone 413004](https://www.amazon.com/Broan-413004-Non-Ducted-Under-Cabinet-Stainless/dp/B0002YTM0I/?tag=kitchenpot-20)
+- **Best value wall-mount:** [Empava EMPV-30RH06](https://www.amazon.com/Empava-Wall-Mount-Range-Hood-Ducted-Ductless/dp/B0F6K2HFGT/?tag=kitchenpot-20)
+- **Best wall-mount with ARC-FLOW Filters:** [Cosmo COS-63175S](https://www.amazon.com/COSMO-COS-63175S-Collection-Controls-Stainless/dp/B01DN00K0S/?tag=kitchenpot-20)
+- **Best warranty and speed control:** [ZLINE KB-30](https://www.amazon.com/ZLINE-KB-30-Convertible-Wall-Mount-Range-Hood/dp/B00E4O0R10/?tag=kitchenpot-20)
+- **Best insert for custom cabinets:** [Cosmo COS-30IRHP](https://www.amazon.com/Cosmo-COS-30IRHP-Lumin-Insert-Range-Hood/dp/B09Y1284FQ/?tag=kitchenpot-20)
 
-What's the catch though? 
+| Hood | Mount | Rated Airflow | Noise (Maker Figure) | Charcoal Filter | Runs Ducted Too? |
+| --- | --- | --- | --- | --- | --- |
+| Broan-NuTone GLA2303SS | Under-cabinet | 350 max blower CFM | 1.5 sones (working speed) | HPF30, sold separately | Yes |
+| Broan-NuTone 413004 | Under-cabinet | Not listed | 3.5 sones | 41F, one included | No |
+| Empava EMPV-30RH06 | Wall | 400 CFM | Not published | ACC-YS22, sold separately | Yes |
+| Cosmo COS-63175S | Wall | 380 CFM | From 45 dB on low | CFK1-TM, sold separately | Yes |
+| ZLINE KB-30 | Wall | 400 CFM, 4 speeds | 51 to 61 dB | CF1, sold separately | Yes |
+| Cosmo COS-30IRHP | Insert | 380 CFM | From 45 dB on low | CFK1-TM, sold separately | Yes |
 
-Depending on your cooking frequency, you will need to replace the charcoal filters every 3 to 6 months, and they may not be as effective at removing smoke and odor from high-output cooking (such as frying) as ducted models are.  
+## 1. [Broan-NuTone GLA2303SS](https://www.amazon.com/Broan-NuTone-GLA2303SS-30-Inch-Cabinet-Stainless/dp/B0DHF5CVQP/?tag=kitchenpot-20): Best Overall
 
-But if you’re cooking in a condo, apartment, or a kitchen that doesn’t have access to an external vent, a ductless hood can be a huge solution.
+- **Type:** 30-inch under-cabinet, convertible (top, rear or non-ducted)
+- **Airflow:** 350 max blower CFM, three speeds
+- **Noise:** 1.5 sones at working speed, per Broan
+- **Size:** 30 inches wide, 19.68 deep, 5.9 tall
+- **Ductless filter:** HPF30 charcoal pack, sold separately
 
-## **Quick Guide - Our Top Picks** 
+This is the hood that suits the most people reading this. It runs ductless today, and it can be ducted through the top or the back if you ever get the chance. That matters in a rental, because the next kitchen may have a duct.
 
+The quiet rating is the headline. One sone is roughly a quiet refrigerator, and the scale is linear, so 1.5 sones is only a little louder than that. Hoods are easy to leave off when they drone. A quiet one gets switched on, and a hood that runs is the only kind that filters anything.
 
+Broan fits two dishwasher-safe micro mesh grease filters and three fan speeds with tap-touch controls. The LED lighting has two levels, and the hood is ENERGY STAR and HVI certified. For ductless use you add the HPF30 pack, which Broan lists at $44 for two filters and says to replace every six months.
 
-## **Do Ductless Range Hoods Actually Work?**
+At 5.9 inches tall, it also leaves room under the cabinet. That helps if you already [organize your small kitchen cabinets](/blog/small-kitchen-cabinet-organization-ideas/) right up to the hood line.
 
-When someone asks, "Do ductless range hoods really work?" there is usually a degree of skepticism. And it is no wonder why! You want to make sure you are not buying a pretty decoration for the kitchen, but something that will help clean the air.
+**What we like:**
 
-So here is the fact: yes, **ductless range hoods do work**, but a **few things influence the capabilities.**
+- Rated at 1.5 sones, so you will actually leave it running.
+- Converts between top, rear and non-ducted venting.
+- Slim 5.9-inch body in a 30-inch width.
+- Dishwasher-safe micro mesh grease filters.
+- ENERGY STAR certified, with two-level LED lighting.
 
-* **Filter Type.** Cheap charcoal filters will do little more than trap light odors. Higher quality activated carbon filters can reduce cooking smells heavily, even after cooking things like bacon and sautéed garlic. Always check the filter grade!
-* **Fan Power**. If you do regular cooking, look for hoods with a minimal engine power rating of around **200-400 CFM (cubic feet per minute).** Anything lower could be weak and perform little more than light duty chores. If you cook regularly as a stir fry master or grill indoors, you need higher, like 600+ CFM.
-* **Cooking Style.** While I find a ductless hood enough for light cooking, like boiling pasta or heating up leftovers, it can be severely ineffective if you sear, fry, or cook with bold spices regularly. In that case, I recommend that you get a ducted model, preferably one with multi-layer filtration and/or dual fan motors for more circulation.
+**What to know before you buy:**
 
-So, who benefits most from these hoods?
+- The HPF30 charcoal filters cost extra, twice a year.
+- The 1.5-sone figure is for working speed; high is louder.
+- At $319 list, it costs more than basic ductless-only hoods.
 
-* **Apartment dwellers**
-* **Tiny home owners**
-* **People with no exterior duct access**
-* **DIY kitchen renovators**
+**Who should buy it:** Renters and condo owners who want a quiet hood now and the option to duct it later. It is also the safest pick if you are not sure what is behind the wall yet.
 
-Still questioning? Think of it this way: brands like Hauslane, Cosmo and Broan are designing high-end recirculating hoods that rival their ducted version jam for jam. They're quiet, look nice, and have a mad amount of power when you use the proper filters.
+[Check Price on Amazon](https://www.amazon.com/Broan-NuTone-GLA2303SS-30-Inch-Cabinet-Stainless/dp/B0DHF5CVQP/?tag=kitchenpot-20)
 
-In short: they do work, but only if you select the appropriate unit and maintain it. Otherwise, it's like using a sieve with holes in the bottom - useless.
+## 2. [Broan-NuTone 413004](https://www.amazon.com/Broan-413004-Non-Ducted-Under-Cabinet-Stainless/dp/B0002YTM0I/?tag=kitchenpot-20): Best True Ductless for Renters
 
-## **What is a Good CFM for a Ductless Range Hood?**
+- **Type:** 30-inch under-cabinet, non-ducted only
+- **Noise:** 3.5 sones
+- **Size:** 30 inches wide, 17.5 deep, 6 tall
+- **Filter:** Replaceable charcoal filter (41F replacement)
+- **Controls:** Two-speed fan and a separate light rocker switch
 
-Now let's get into numbers—specifically, CFM. You've seen CFM listed in each range hood spec sheet, but what does it actually mean?  
+Broan built this one for kitchens with no duct at all. There is no damper, no vent collar and nothing to cut. It screws under the cabinet and runs on a 120-volt supply.
 
-CFM (Cubic Feet per Minute) is a measurement of the amount of air your hood can move. For ductless hoods, this measurement is very important since all filtering and circulation occur in the hood, internally. Higher CFM means more power from your fan, which in turn means your hood is able to pull in more grease, smoke, and odors.
+The charcoal filter does the heavy lifting here, so treat it as a running cost from day one. The 41F replacement fits Broan's 41000 series, and Broan lists it at $24. Its own advice is to replace it every six months, or sooner if your cooking is greasy.
 
-That said, more CFM isn't always better. Here is a quick guide:
+Keep expectations fair. At 3.5 sones it is louder than the GLA2303SS, and it only has two speeds. It is best over light cooking: pasta, eggs, a quick saute. For searing on a [wok on an electric stove](/blog/best-wok-for-electric-stove/), it will catch grease but not the heat.
 
-* Light cooking like boiling (150-250 CFM) 
-* Normal cooking like sautéing (300 - 400 CFM)
-* Heavy cooking with a lot of frying (500 - 700 )
-* Professional/commercial cooking (700+ CFM)
+Broan lists it at $129 with a one-year warranty. It is ADA compliant, and the bulbs are not included. Smoky tabletop gear such as a [smokeless indoor grill](/blog/gotham-steel-smokeless-grill-review/) will test it, so run it on high for those.
 
-The best ductless models will usually have a sweet spot of around 400 - 600 CFM, where you get the best performance without excessive energy consumption or excessive noise.
+**What we like:**
 
-Also, don’t forget to look at fan speeds. A good ductless range hood will have multiple speed settings, so you can switch between low and high power depending on what you’re cooking.
+- The cheapest way to get grease and odor control over a stove.
+- No duct, no hole in the wall, no landlord conversation.
+- Shallow 17.5-inch body suits a narrow galley.
+- Simple rocker switches that are easy to wipe clean.
 
-Pro Tip: CFM alone isn’t enough. Make sure the filters and air circulation paths are designed well. Some budget hoods boast high CFM but use inferior charcoal filters, which defeats the purpose.
+**What to know before you buy:**
 
-So, if you’re deep frying or grilling indoors, go for high suction ductless range hoods with advanced filtration. If you’re after a basic unit for light cooking, 250–300 CFM with replaceable charcoal filters should do the trick.
+- It can never be ducted, even if you move.
+- 3.5 sones and two speeds, so it is louder and less flexible.
+- Bulbs are sold separately.
 
-## **How Efficient is a Ductless Range Hood?**
+**Who should buy it:** Renters on a tight budget who cook lightly and just want the smell gone. If you mostly use an [air fryer under $100](/blog/best-air-fryers-under-100/) and a kettle, this is plenty.
 
-Efficiency is where the ductless hood really starts to earn its place. It may not vent hot air outside, but when designed properly, it can be surprisingly effective at cleaning your kitchen air.
+[Check Price on Amazon](https://www.amazon.com/Broan-413004-Non-Ducted-Under-Cabinet-Stainless/dp/B0002YTM0I/?tag=kitchenpot-20)
 
-Here's a breakdown of how to assess efficiency:
+## 3. [Empava EMPV-30RH06](https://www.amazon.com/Empava-Wall-Mount-Range-Hood-Ducted-Ductless/dp/B0F6K2HFGT/?tag=kitchenpot-20): Best Value Wall-Mount
 
-1. Replacement of filters – Regular maintenance = steady performance
-2. Fan strength vs. filter
-   strength – a strong fan + weak filter = bad performance.  Balance is key.
-3. Noise – lower noise (in sones) stronger noise/weight usually suggest a more efficient design. 
-4. Energy Used-ductless hoods generally use less energy than ducted hoods, and tend to be
-   cheaper and more environmentally friendly.
+- **Type:** 30-inch wall-mount chimney hood, convertible
+- **Airflow:** 400 CFM, three speeds, 200-watt motor
+- **Size:** 29.5 inches wide, 18.9 deep, 25.98 to 37.6 inches tall
+- **Filters:** Dishwasher-safe metal mesh; ACC-YS22 charcoal for ductless
+- **Warranty:** 3 years from Empava
 
-Modern designs now include features like:
+Not every kitchen has a cabinet over the stove. Open shelving, a tiled wall or a window can leave you with bare wall. If you have swapped cabinets for [vertical storage](/blog/vertical-storage-ideas-for-small-kitchens/), this is likely you. A chimney hood like this one fills that gap, and Empava prices it well under most wall-mount hoods.
 
-* Energy-efficient LED lighting
-* Auto shut-off timers
-* Touch controls with airflow sensors
+It comes set up for a 6-inch round duct, and it converts to ductless with the ACC-YS22 charcoal filter pair. That filter also fits Empava's 30RH05 and 30RH07, so replacements should stay easy to find. Empava's touch panel has a digital display and three airflow levels.
 
-Additionally, certain premium models include heat sensors, which automatically change the fan speed when a certain amount of steam or smoke is detected, here is where we can see true efficiency. 
+The curved canopy is more than a style choice. A wider, deeper canopy gives rising smoke a bigger target, which helps capture. For a ductless setup, capture is most of the job.
 
-If you mind energy use and air quality, the great news is you can avoid duct work by investing in a ductless hood, but it needs to be a strong filtration system with a compatible fan. 
+Empava does not publish a noise figure for this model. That makes it harder to compare with the Broan and Cosmo hoods, which do.
 
-A ductless hood can be seen as a hybrid car, without as much power as a performance model, but more efficient, less maintenance, and just easier to own.
+**What we like:**
 
-## **What to Look for in a Ductless Range Hood?**
+- 400 CFM wall-mount at a price near many under-cabinet hoods.
+- Converts to ductless with one Empava charcoal filter part.
+- Touch controls with a digital display.
+- Three-year warranty, longer than most budget hoods.
+- Adjustable chimney height for different ceilings.
 
-When it's time to shop for the best ductless range hood, not all range hoods are built the same. Just because it looks nice on the outside, doesn't mean it has what it takes on the inside (pun intended).
+**What to know before you buy:**
 
-So, here's a checklist to guide you:
+- No published noise rating.
+- Mesh filters, not baffles, so they need more frequent washing.
+- Charcoal filters are sold separately.
 
-### **Size and Fit**
+**Who should buy it:** Anyone with a bare wall over the range who wants a proper chimney hood on a modest budget. Empava sells it direct as well as on Amazon, and the price moves between the two.
 
-Always choose a hood that is at least as wide as your cooktop and ideally 3–6 inches wider. For example, when looking for a hood for a 30-inch range, you should choose a 36-inch hood, assuming you have the space.
+[Check Price on Amazon](https://www.amazon.com/Empava-Wall-Mount-Range-Hood-Ducted-Ductless/dp/B0F6K2HFGT/?tag=kitchenpot-20) [Check Price at Empava](https://www.awin1.com/cread.php?awinmid=114924&awinaffid=1956629&clickref=6-best-ductless-range-hood&ued=https%3A%2F%2Fempava.com%2Fproducts%2F30-inch-modern-kitchen-range-hood-30rh06)
 
-### **Mounting Type**
+## 4. [Cosmo COS-63175S](https://www.amazon.com/COSMO-COS-63175S-Collection-Controls-Stainless/dp/B01DN00K0S/?tag=kitchenpot-20): Best Wall-Mount With Stainless Filters
 
-You have choices:
+- **Type:** 30-inch wall-mount chimney hood, convertible
+- **Airflow:** 380 CFM, three speeds
+- **Noise:** As low as 45 dB on the lowest speed, per Cosmo
+- **Size:** 30 inches wide, 19.75 deep, chimney 25.6 to 39.4 inches
+- **Ductless filter:** CFK1-TM carbon kit, sold separately
 
-* Under-Cabinet (good option for small kitchens)
-* Wall-Mounted (a stylish and visible option)
-* Island/Ceiling Mount (good option for an open kitchen)
-* Insert Range Hoods (hides in the cabinetry)
+Cosmo's pyramid hood has been around for years, and Cosmo still lists it with retail links. The draw is the filters. It uses washable stainless steel stainless ARC-FLOW filters rather than aluminum mesh.
 
-Choose what best fits your kitchen layout.
+Stainless filters like these work by making the air turn sharp corners. Grease droplets are heavier than air, so they cannot make the turn and hit the metal instead. They also clean up well in a dishwasher and do not tear. In a ductless hood, that matters twice, because a better grease filter keeps the charcoal behind it from clogging early.
 
-### **Filter Type**
+The ductless kit is the [Cosmo CFK1-TM](https://cosmoappliances.com/product/carbon-filter-cfk1-tm/). Cosmo sells a set of two for $25 and says it lasts about six months with normal use. The same kit fits the COS-30IRHP insert further down this list.
 
-Look for:
+Cosmo quotes its 45 dB figure on the lowest speed with rigid ducting. Running ductless changes the airflow path, so treat that number as a best case.
 
-* Charcoal filters if you are interested in eliminating odors 
-* Mesh filters if you want to trap grease (and are easy to clean)
-* Baffle filters if you want durable filtration 
+**What we like:**
 
-Pro tip: You can look for all the above mentioned options in reusable filters, which are better for the environment and will save you money in the long run!
+- Stainless stainless ARC-FLOW filters that protect the charcoal behind them.
+- Digital touch controls and two LED lights.
+- Chimney fits a range of ceiling heights.
+- Low-cost carbon kit that Cosmo sells direct.
 
-### **Fan Speeds and Noise**
+**What to know before you buy:**
 
-* At least 3 fan speeds
-* Open kitchens will benefit from a noise level under 6 sones (~65 dB)
+- The low noise figure was measured ducted, not ductless.
+- Two-year warranty, shorter than Empava or ZLINE.
 
-### **Extras**
+**Who should buy it:** Cooks who fry or sear often and want stainless filters doing the grease work. It suits an open kitchen where the hood is on show.
 
-* Touch controls/remote
-* Auto shutoff timers
-* LED lighting to see the cooktop properly
-* Dishwasher-safe filters
+[Check Price on Amazon](https://www.amazon.com/COSMO-COS-63175S-Collection-Controls-Stainless/dp/B01DN00K0S/?tag=kitchenpot-20)
 
-Don't forget about looks. **Slim, low-profile ductless hoods**, are modern and don't take up much space; an excellent choice for small kitchens!
+## 5. [ZLINE KB-30](https://www.amazon.com/ZLINE-KB-30-Convertible-Wall-Mount-Range-Hood/dp/B00E4O0R10/?tag=kitchenpot-20): Best Warranty and Speed Control
 
-Lastly, be sure to check out the warranty and brand name. Names like Broan, Cosmo, Hauslane, and Winflo come highly recommended for reliability and performance!
+- **Type:** 30-inch wall-mount chimney hood, convertible
+- **Airflow:** 120, 240, 320 and 400 CFM across four speeds
+- **Noise:** 51, 55, 58 and 61 dB by speed, per ZLINE
+- **Size:** 30 inches wide, 17.875 deep, 12.375-inch hood body
+- **Warranty:** 3 years parts, lifetime motor
 
-## **How High Should a Ductless Range Hood Be Installed?**
+ZLINE publishes a noise figure for every speed, which is rare. That makes it easy to see what you are signing up for. The lowest speed moves 120 CFM at 51 dB, which suits a pot of simmering soup.
 
-It may not seem like a huge issue, but the mounting height is one of the most significant aspects of both efficiency and safety. It's important that a ductless range hood is installed at an appropriate height above your cooktop in order to optimize performance and avoid damage.
+Four speeds help more on a ductless hood than on a ducted one. You can run it on low for the whole meal without the noise wearing on you. Steady low airflow during cooking often captures more than a blast on high at the end.
 
-So what is an appropriate height? 
+It uses dishwasher-safe stainless stainless ARC-FLOW filters, a 3-minute delayed shutoff and two LED lights. For recirculating, you add ZLINE's CF1 charcoal filters. ZLINE lists the hood at $386.99, and its warranty is the longest here.
 
-The general recommendation is 24 to 30 inches above the cooking surface for electric cooktops and 25 to 30 inches for gas stoves. 
+**What we like:**
 
-If you install it too low, you might overheat the range hood or create a potential hazard. If you install it too high, the range hood will not be effective because it has lost its suction power, meaning the fumes, grease and smoke just escape before they are filtered. 
+- Four fan speeds with a noise figure for each one.
+- Stainless stainless ARC-FLOW filters, dishwasher safe.
+- Three years on parts and a lifetime motor warranty.
+- Delayed shutoff clears the last of the smoke for you.
 
-Some manufacturers will provide their own specific installation height recommendations for their models, particularly for wall-mounted or island-style hoods. Always reference the instruction manual, but also have the guide above in mind as a general rule of thumb.
+**What to know before you buy:**
 
-So what happens if the hood is too low or too high?
+- Push-button controls, not touch.
+- The CF1 charcoal filters are an extra purchase.
+- The highest price of the wall-mount picks.
 
-* **Too Low:** You could damage it by heat or splatter, and it could also get in the way of your eyesight.
-* **Too High:** It will not trap air as well. You might notice that smells linger longer and that more grease builds up on walls.
+**Who should buy it:** People who cook most nights and want a hood built to last. The fine speed control suits an open-plan flat where noise carries.
 
-Insider tip: For a wall-mounted or island ductless hood, use a laser level to ensure alignment and avoid uneven installation. An unevenly mounted hood can look off and performance can be hindered.
+[Check Price on Amazon](https://www.amazon.com/ZLINE-KB-30-Convertible-Wall-Mount-Range-Hood/dp/B00E4O0R10/?tag=kitchenpot-20)
 
-Mounting height also affects design continuity. You want the hood to match the height of your backsplash and cabinetry, not be a visual obstruction. For under-cabinet installations, use a slim ductless under-cabinet range hood to avoid visual clutter.
+## 6. [Cosmo COS-30IRHP](https://www.amazon.com/Cosmo-COS-30IRHP-Lumin-Insert-Range-Hood/dp/B09Y1284FQ/?tag=kitchenpot-20): Best Insert for Custom Cabinets
 
-Ultimately, the right mounting height will maximize suction, safety, aesthetics, and more. Don't eyeball it, measure it.
+- **Type:** Insert (built into a custom hood or cabinet), convertible
+- **Airflow:** 380 CFM, three speeds
+- **Noise:** As low as 45 dB on the lowest speed, per Cosmo
+- **Size:** 27.8 inches wide, 11.5 deep, 11.4 tall
+- **Ductless filter:** CFK1-TM carbon kit, sold separately
 
-### **Is a 30″ or 36″ Ductless Range Hood Better?**
+An insert is the fan and filter part of a hood with no outer shell. You build it into a wood or plaster hood, or a cabinet box, so the kitchen shows cabinetry rather than steel. It is the choice when looks matter as much as airflow.
 
-Let's address one of the biggest questions in kitchen design: 30-inch vs 36-inch ductless range hoods. Which size should you purchase?
+Cosmo's insert uses two stainless stainless ARC-FLOW filters, push-button controls and two LED lights. The body is 430-grade stainless at 26 gauge. If gauge numbers are new to you, lower means thicker, the same rule as in our guide to [which stainless steel sink gauge is best](/blog/what-gauge-stainless-steel-sink-is-best/).
 
-The correct answer? It depends on the width of your range and how you cook.
+For ductless use, the hood needs somewhere to send filtered air. In a custom hood, that means leaving a vent gap in the surround. Plan this with whoever builds the enclosure, before the finish goes on.
 
-As a general rule, your range hood should be the same width as your cooking surface, but ideally for optimum grease and smoke capture it should be 3-6 inches wider than the cooking surface.
+**What we like:**
 
-This allows the range hood to essentially capture as much smoke and steam as possible (even from your edge burners).
+- Hides inside cabinetry for a clean, built-in look.
+- Stainless stainless ARC-FLOW filters, dishwasher safe.
+- Shares the low-cost CFK1-TM carbon kit with Cosmo's wall hood.
+- Compact 11.5-inch depth fits shallow enclosures.
 
-So, if your stove is:
+**What to know before you buy:**
 
-* 30-inch wide → both a 30 or a 36-inch hood will suffice (36 is better and will provide full coverage)
-* 36-inch wide → always use a 36-inch hood or bigger
+- You need a custom hood or cabinet to put it in.
+- The enclosure must let recirculated air escape.
+- Two-year warranty.
 
-Now let's breakdown the reasons for purchasing a 30-inch or 36-inch hood.
+**Who should buy it:** Anyone doing a kitchen refit with a custom hood surround. It is not for a quick rental swap.
 
-**A 30-inch hood is adequate when:** 
+[Check Price on Amazon](https://www.amazon.com/Cosmo-COS-30IRHP-Lumin-Insert-Range-Hood/dp/B09Y1284FQ/?tag=kitchenpot-20)
 
-* You only cook a few times a week and are not heavy on frying or grilling.
-* You have space challenges like having cabinets that are too close to the burners or a very tight layout.
-* You are on a small budget.
+## Charcoal Filters: What They Cost and When to Change Them
 
-**A 36-inch hood is warranted at all times when:** 
+Charcoal is the part people forget. It works by holding odor molecules on its huge inner surface. Once that surface fills up, it stops working, and washing will not empty it.
 
-* You cook generally every day and are doing high heat cooking like searing, grilling, or stir-frying.
-* You want the best suction and the most coverage.
-* You use larger pans or your meal preparation requires pots and pans on every burner every time you cook. 
-* You are taking advantage of the long term capabilities of the appliance and want to limit any lingering smells within your home.
+Every maker on this list sells the charcoal separately, except Broan with the 413004. Here is what the genuine filters cost from the maker, and how often they say to change them.
 
-Another variable? **Aesthetic.** A 36” hood over a 30” range reinforces a bold, authoritative culinary statement and will also make it less likely to get grease stains on adjacent cabinetry or walls. 
+| Hood | Charcoal Part | Maker Price | Maker's Schedule | Rough Yearly Cost |
+| --- | --- | --- | --- | --- |
+| Broan-NuTone GLA2303SS | HPF30 (2-pack) | $44 | Every 6 months | About $88 |
+| Broan-NuTone 413004 | 41F | $24 | Every 6 months | About $48 |
+| Cosmo COS-63175S | CFK1-TM (set of 2) | $25 | About 6 months | About $50 |
+| Cosmo COS-30IRHP | CFK1-TM (set of 2) | $25 | About 6 months | About $50 |
+| Empava EMPV-30RH06 | ACC-YS22 (2-pack) | Varies by retailer | Check manual | Check before buying |
+| ZLINE KB-30 | CF1 | Varies by retailer | Check manual | Check before buying |
 
-So, what's the conclusion? 
+Broan's [41F filter page](https://broan-nutone.com/en-us/accessory/41f) says to replace it every six months, or more often if your cooking makes extra grease. Treat that as a ceiling, not a target. If the kitchen smells after cooking with the fan on, the charcoal is done.
 
-If space and budget allow, I would recommend a 36” ductless range hood for overall better coverage, cleaner air and a more high-end look. If you are tight on space or do not do heavy-duty cooking, a quality 30” range hood should still suffice- just be sure it has adequate airflow (400+ CFM) and adequate filters.
+Two habits stretch a filter's life. First, wash the metal grease filter often, because grease that gets past it coats the charcoal. Our guide on [how often to clean a range hood filter](/blog/how-often-to-clean-a-range-hood-filter/) has a schedule for mesh and baffle types. Second, cook with lids on where you can, since less vapor reaches the hood.
 
-## **How Much Wider Should a Range Hood Be Than the Range?**
+Many grease filters can go in the dishwasher. If yours leaves a film behind, it may be time to [clean the dishwasher filter](/blog/how-to-clean-a-dishwasher/) too.
 
-This one’s simple but super important: the range hood should be at least 3 inches wider than your range on either side—6 inches if you can. Why? Because cooking fumes do not rise directly up like a laser beam would—cooking fumes radiate, especially when frying, grilling, or boiling on side burners.
+## Why CFM Matters Less on a Ductless Hood
 
-Experts recommend you at least have:
+CFM means cubic feet per minute. It is how much air the fan can move. On a ducted hood, more CFM pulls more smoke out of the house.
 
-* Minimum: 3 inches of overhang on either side of your range
-* Ideal: 6 inches of overhang on either side of your range
+On a ductless hood, the story changes. Charcoal is dense, so it slows the air down. That means real airflow in recirculating mode is usually lower than the number on the box.
 
-What this means is that for a 30-inch cooktop you should be using a 36 to 42-inch range hood if available. 
+Higher CFM also has less to gain. The air is not leaving the room, so moving more of it faster just stirs the same warm air. What helps is capture: catching the plume before it spreads.
 
-**Advantages of having a wider hood:**
+Capture comes from three things:
 
-* Better coverage across the entire surface area of your stove, no smoke escapes from the sides
-* Less grease on walls or cabinets nearby
-* Improved air quality and less odors
-* More space for multi-pot cooking, larger pans, etc.
+1. **Width.** The hood should be at least as wide as the cooktop. A hood wider than the cooktop catches smoke from the front and edge burners.
+2. **Height.** Your manual lists a minimum and maximum mounting height. Mount near the low end, since a closer hood catches more.
+3. **Timing.** Switch the fan on before the pan gets hot. A plume that has already hit the ceiling is hard to pull back.
 
-If you are using a ductless model, this becomes even more important. Since ductless models recirculate air rather than doing a direct vent-exhaust, larger exhaust area is crucial to maintaining a clean kitchen. 
+So a 350 to 400 CFM hood like the ones above is plenty for a 30-inch cooktop in ductless mode. Paying for 900 CFM mostly buys noise.
 
-A wider hood will also help with more even air flow distribution, and minimize hot spots, making your hood more efficient overall. 
+## Under-Cabinet, Wall-Mount or Insert?
 
-Bottom line: go bigger, wider than your range if you can—especially if you are using a ductless hood where airflow is of utmost importance.
+Your kitchen usually makes this choice for you.
 
-## **Quiet Ductless Range Hoods: Which Is the Quietest?**
+| Mount Type | Where It Goes | Good For | Watch Out For |
+| --- | --- | --- | --- |
+| Under-cabinet | Beneath a wall cabinet over the stove | Most apartments and rentals | Cabinet depth and the gap above the cooktop |
+| Wall-mount | On bare wall, with a chimney cover | Kitchens with shelving or tile over the range | Ceiling height and chimney length |
+| Insert | Inside a custom hood or cabinet box | Refits and built-in looks | The enclosure must let air back out |
 
-Nobody wants to cook under a jet engine. Therefore, finding a quiet ductless range hood is a priority for many homeowners, especially open-concept kitchens, and noise-sensitive homes.
+Under-cabinet hoods are the most common, and the cheapest to fit. If your stove sits under a cabinet, start there. Our full roundup of the [best under-cabinet range hoods](/blog/best-under-cabinet-range-hood/) covers ducted models too.
 
-So, what makes a hood “quiet”?
+Wall-mount hoods need clear wall and enough ceiling height for the chimney cover. They usually have deeper canopies, which helps capture. They also pair well with a freestanding or [slide-in electric range](/blog/best-slide-in-electric-range/), since the range sits flush with the wall.
 
-It comes down to decibel ratings or sones—the unit used to measure sound in home appliances.
+An over-the-range microwave is a fourth option for tight kitchens. It doubles as a hood, but it usually captures less smoke than a real hood. We compare them in our guide to the [best over-the-range microwaves](/blog/7-best-over-the-range-microwaves/).
 
-Here’s a quick reference chart:
+## Convertible Hoods: Ductless Now, Ducted Later
 
-Sones	Sound Level
+A convertible hood can run either way. You buy it, fit the charcoal, and use it as a recirculating hood. If you later get a duct, you remove the charcoal and connect the pipe.
 
-1.0–2.0	Very Quiet (like a fridge)
+Five of our six picks are convertible. Only the Broan 413004 is ductless for life.
 
-2.5–3.0	Moderate (fan noise)
+For a renter, that flexibility is worth paying for. You can take a convertible hood to your next place and use whatever venting it has. For an owner, it means you can fit a hood now and duct it during a later refit.
 
-4.0+	Noticeable (vacuum cleaner)
+One caution: a convertible hood running ductless needs the charcoal fitted. Without it, the air just gets blown back out, and only the grease filter does any work.
 
-For ductless hoods, anything below 3 sones (~50 dB) is considered quiet. The best models come with brushless motors, sound insulation, and balanced airflow design to reduce noise.
+## How Loud Is Too Loud? Sones and Decibels
 
-Some top picks for quiet operation:
+Hood noise comes in two units. Sones measure loudness the way people hear it. Decibels measure sound pressure on a log scale.
 
-* Hauslane Chef Series WM-538 – Powerful yet whisper-quiet, even at high speed.
-  <a href="https://www.amazon.com/Hauslane-European-Stainless-Ventilation-Ductless/dp/B07GQWKJPM/?tag=kitchenpot-20" class="cta-button" class="btn-cta btn-primary btn-lg large btn-block" target="_blank" rel="nofollow noopener noreferrer">Check the Latest Price</a>
-* Cosmo 5U30 – Slim and quiet under-cabinet design with 3 fan speeds.
-* Broan-NuTone BCDF130SS – A budget option with low noise and strong filtration.
+The Home Ventilating Institute says one sone is about as loud as a quiet refrigerator. Two sones is twice as loud. That makes sones the easier number to compare.
 
-Also, look for soft-touch controls and quiet start motors—these features make operation smoother and less jarring.
+| Maker Figure | What It Means in Practice |
+| --- | --- |
+| 1 to 1.5 sones | Close to a quiet fridge; easy to leave on |
+| 3 to 4 sones | Noticeable, but you can talk over it |
+| 5 sones and up | Loud; most people turn it off early |
+| 45 to 55 dB | Quiet low-speed range on many hoods |
+| 60 dB and up | Normal conversation level or louder |
 
-Remember: higher CFM typically means more noise. So it’s about finding the right balance between power and peace.
+Noise matters more on a ductless hood. You need to run it through the whole meal, and a noisy fan gets switched off. In a studio, the hood may be a few feet from where you sit and eat.
 
-If your kitchen is connected to your living room or you cook during baby’s nap time, investing in a quiet range hood is 100% worth it. It's like switching from a noisy window AC to a central air system—still does the job, but without the racket.
+Check the speed each figure belongs to. Makers often quote the quietest speed. ZLINE is one of the few that lists every speed.
 
-## **Convertible Ductless-to-Ducted Models**
+## Match the Hood Width to Your Cooktop
 
-Feeling stuck between ducted and ductless options? Don’t worry—you don’t have to choose. Enter: the convertible range hood.
+Measure the cooktop, not the cabinet. Then pick a hood at least that wide.
 
-A convertible hood can operate in both ducted and ductless modes. That means you can install it ductless now and switch to ducted later if your kitchen setup changes.
+Many apartments have a 30-inch range, and all six picks here come in a 30-inch size. A 24-inch cooktop, common in compact flats, needs a 24-inch hood or a 30-inch one if the cabinet allows. Pairing a wider hood with a narrow cooktop helps capture, as long as it fits.
 
-Here’s why they’re a fantastic middle-ground:
+If your kitchen runs on a portable burner or a small induction plate, the same rule applies. Center the hood over where the pan actually sits. Our reviews of the [best induction cooktop for the money](/blog/best-induction-cooktop-for-the-money/) and the [NuWave induction cooktop](/blog/nuwave-induction-cooktop-review/) cover those burners.
 
-**Flexibility**
+## Ways to Help a Ductless Hood Do Its Job
 
-* Renting now but planning a reno later? No problem.
-* Moving homes? Take it with you and adapt it to the new space.
+A hood is one tool. Small habits make it work better. Clear counter space near the stove helps too, and our [countertop organization ideas](/blog/countertop-organization-ideas-for-a-small-kitchen/) show what to move.
 
-**Cost-Effective**
+- Put lids on simmering pots. Less steam and grease reach the air, and a [stockpot with a good lid](/blog/best-stockpot-with-a-lid/) makes this easy.
+- Cook on the back burners. The hood covers them better than the front ones.
+- Use less smoky methods where you can. An air fryer with the right oil makes far less smoke; see our guide to the [best oil for an air fryer](/blog/best-oil-for-air-fryer/).
+- Keep the air fryer clean. Old grease in the basket smokes, so [clean the air fryer basket](/blog/how-to-clean-an-air-fryer-basket/) after oily foods.
+- Run the fan for a few minutes after cooking. Many hoods, like the ZLINE, have a delayed shutoff for this.
+- Wipe the hood and wall behind the stove weekly. Our guide on [how to clean stainless steel pans](/blog/how-to-clean-stainless-steel-pans/) works for hood shells too.
+- Open a window when you sear or fry. The hood cannot remove heat, but a window can.
 
-* Avoid spending extra on a full ducted setup unless necessary.
-* Start ductless and upgrade when you’re ready.
+Cooking style matters as much as hardware. If you often [cook a full meal on only two burners](/blog/how-to-cook-a-full-meal-with-only-two-burners/), you already make less steam than a busy four-burner setup.
 
-**Same Features, Same Quality**
+Energy use is small either way. A hood fan and LED lights use little power compared with the stove itself. ENERGY STAR hoods like the GLA2303SS fit well alongside other [compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/). If you want to trim more, our tips on how to [reduce kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/) go further, and the [most energy-efficient small kitchen appliances](/blog/most-energy-efficient-small-kitchen-appliances/) list helps too.
 
-Many convertible hoods, like the Cosmo COS-63175S or Hauslane WM-739, include:
+Grease buildup also draws pests. Clean filters and a clean hood are part of [keeping pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/).
 
-* 3–6 fan speeds
-* LED lighting
-* High-CFM airflow (400–900 CFM)
-* Optional charcoal filter kits for ductless use
+## Which One Should You Buy?
 
-**Great for DIY Installs**
+Start with the duct question. If you can vent outside, buy a ducted hood and use it that way.
 
-Most models come with both ducted and ductless components, including a rear or top vent option, plus a charcoal filter conversion kit.
+If you cannot, pick by your kitchen:
 
-If you're building your forever kitchen or want future-proof flexibility, a convertible hood is a smart, safe investment.
+- **Cabinet over the stove, and you might move:** the Broan-NuTone GLA2303SS. It is among the quietest here and converts later.
+- **Tight budget, light cooking, no duct ever:** the Broan-NuTone 413004.
+- **Bare wall and a modest budget:** the Empava EMPV-30RH06.
+- **Lots of frying or searing:** the Cosmo COS-63175S or ZLINE KB-30, for their stainless ARC-FLOW filters.
+- **Custom hood in a kitchen refit:** the Cosmo COS-30IRHP insert.
 
-## **Best Ductless Range Hood with Charcoal Filter**
+Whatever you buy, order the charcoal filter at the same time. A ductless hood without fresh charcoal is only a grease screen with a light.
 
-When it comes to clean air and odor elimination, the real MVP in ductless range hoods is the charcoal filter. Without a high-quality charcoal filter, even the best ductless hood becomes nothing more than a decorative fan.
+## Related Guides
 
-So, what should you look for in the best ductless range hood with a charcoal filter?
-
-**Filtration Performance**
-
-The charcoal filter should be dense, well-fitted, and ideally multi-layered. Some premium models even include dual filters or additional mesh grease traps that protect the charcoal layer—improving its lifespan and efficiency.
-
-**Easy Replacement**
-
-Check if the filter can be replaced without tools. Bonus points for models with filter replacement indicators so you’re never guessing when it's time to swap.
-
-**Top Picks:**
-
-### **1.[Cosmo 5U30 Under-Cabinet Hood](https://www.amazon.com/COS-5MU30-Ductless-Convertible-Reusable-Stainless/dp/B0DC21QMN9/?tag=kitchenpot-20)**
-
-* **Airflow:** 110 CFM
-* **Highlights:** Dual fan motors, slim profile, aluminum mesh + charcoal filter
-* **Why It’s Great:** Budget-friendly, easy to install, and comes with a reliable charcoal filtration system. **Not ideal for a busy kitchen.**
-
-### **2.[Hauslane Chef Series WM-538](https://www.amazon.com/Hauslane-European-Stainless-Ventilation-Ductless/dp/B0G6GF4MT7/?tag=kitchenpot-20)**
-
-* **Airflow:** 400 CFM - best for a busy kitchen.
-* **Highlights:** Heavy-duty charcoal filters, washable stainless-steel baffle filters
-* **Why It’s Great:** Designed for heavy cooking; filters both smoke and smell effectively.
-
-### **3. [Broan-NuTone BCSQ130SS](https://www.amazon.com/BCSQ130SS-Three-Speed-Glacier-Under-Cabinet-Stainless/dp/B00NHJMHPC/?tag=kitchenpot-20)**
-
-* **Airflow:** 375 CFM
-* **Highlights:** High-efficiency hybrid charcoal filters
-* **Why It’s Great:** Affordable and extremely efficient at removing kitchen odors.
-
-**Maintenance Tip:**
-
-Replace your charcoal filter every 3–6 months depending on your cooking frequency. If you cook daily, opt for a filter with a higher odor absorption rating and better coverage.
-
-So, if you fry, grill, or just hate lingering odors in your kitchen, investing in the best ductless range hood with a powerful charcoal filter is non-negotiable.
-
-## **Best Ductless Range Hood Under Cabinet**
-
-Under-cabinet ductless hoods are perfect for compact kitchens where every inch of space matters.
-
-Tucked neatly beneath your cabinetry, these hoods combine function with a minimalist look—and installation is typically a breeze.
-
-### **What Makes a Good Under-Cabinet Ductless Hood?**
-
-* Slim profile that doesn’t eat up cabinet space
-* Strong airflow (minimum 250–400 CFM)
-* High-quality mesh or baffle filters + charcoal kit
-* Quiet operation under 3 sones
-
-Top Recommendations
-
-**1. Cosmo 5MU30 30-Inch Under-Cabinet Hood**
-
-* **CFM:** 250
-* **Features:** Aluminum mesh filters, LED lighting, charcoal-ready
-* W**hy It’s a Favorite:** Budget price, sleek stainless steel, very easy to install—ideal for small apartments and rental kitchens
-
-**2. Broan-NuTone 413004 Non-Ducted Hood**
-
-* **CFM:** ~210 (low range)
-* **Features:** Charcoal filter only, simple fan/light controls
-* **Best for:** Light-duty cooking and tight budgets.
-
-**3. CIARRA CAS75918B Under-Cabinet Ductless Hood**
-
-* **CFM:** 450
-* **Features:** Quiet operation, touch control, dual charcoal filters
-* **Why It’s Great:** Excellent suction in a compact form—great for heavier cooking in tight spaces.
-
-Whether you live in a city condo, a student apartment, or a tiny home, a slim under-cabinet ductless hood gives you a clutter-free solution to greasy air without sacrificing performance.
-
-## **Best Wall Mounted Ductless Range Hood**
-
-When you're aiming for that high-end, open kitchen look, wall-mounted ductless range hoods are the way to go. They’re stylish, powerful, and make a strong design statement. Even better, the right wall-mount model offers commercial-grade suction with recirculating efficiency.
-
-### **What Makes a Wall-Mount Hood Great?**
-
-* High airflow (at least 400+ CFM)
-* Modern design (glass + stainless steel)
-* Advanced charcoal filtration
-* Easy DIY conversion from ducted to ductless
-
-**Top Picks:**
-
-**1. Hauslane WM-630 Wall Mount**
-
-* **Airflow:** 750 CFM
-* **Why It Stands Out:** This one is a beast. Dual motor system, dishwasher-safe baffle filters, and a professional look. Comes with a charcoal kit for ductless use.
-
-**2. Cosmo COS-63175S Wall Mount Hood**
-
-* **Airflow:** 380 CFM
-* **Features:** Glass canopy, LED lighting, carbon filter kit
-* **Perfect for:** Medium-sized kitchens with modern décor.
-
-**3. IKTCH IKP02-30 Range Hood**
-
-* **Airflow:** 900 CFM
-* **Why It’s Awesome:** Commercial-grade airflow, gesture controls, dual filter system. A tech-savvy option that doesn’t compromise power.
-
-Wall-mount hoods don’t just clean your air—they upgrade your entire kitchen aesthetic. Just make sure to mount it at the right height and keep those charcoal filters clean.
-
-## **Best Ductless Range Hood Insert**
-
-Got custom cabinetry or building a dream kitchen from scratch? Then a ductless range hood insert is your best bet. These units fit seamlessly into a cabinet or hood enclosure, giving your kitchen a clean, integrated look.
-
-**Must-Have Features:**
-
-* Powerful motor (400+ CFM)
-* Multi-layer filters (mesh + charcoal)
-* Compact dimensions for hidden installation
-* Remote or digital control panel
-
-**Top Picks:**
-
-**1. KOBE INX2936SQBF-500-1 Insert Hood**
-
-* **CFM:** 500
-* **Best for:** Deep cabinets and heavy-duty cooking
-* **Why It’s Great:** High suction, sleek and quiet, can be converted for ductless use with a charcoal kit.
-
-**2. Cosmo QS75 Ductless Insert Hood**
-
-* **CFM:** 500
-* **Features:** Digital touch panel, 4-speed fan, dishwasher-safe filters
-* **Why People Love It:** Quiet, strong, and fits into nearly any custom cabinetry.
-
-**3. Awoco RH-R06 Insert Range Hood**
-
-* **CFM:** 900
-* **Bonus:** Comes with a recirculating kit
-* **Why It Wins:** Insanely strong airflow in a minimalist design—perfect for custom high-end kitchens.
-
-Range hood inserts are ideal for homeowners who want function without sacrificing design. Just don’t forget the charcoal filter kit if you’re going ductless!
-
-## **How to Clean and Maintain a Ductless Range Hood**
-
-Let’s face it—nobody loves cleaning their range hood. But if you own a ductless one, maintenance isn’t optional—it’s essential. Because you’re not venting air outside, those filters are your only line of defense against lingering smells, grease, and airborne grime.
-
-Here’s how to keep your ductless range hood running at full power:
-
-### **Step-by-Step Cleaning Routine:**
-
-1. Unplug the hood or switch off power.
-2. Remove the filters.
-
-* **Grease filters** (mesh or baffle) should be soaked in hot soapy water or run through the dishwasher.
-* **Charcoal filters** should be replaced, not washed. Look for the replacement interval in your manual—typically every 3–6 months.
-
-3. Wipe the hood’s exterior and interior with a non-abrasive cleaner. Stainless steel polish helps maintain shine.
-4. Clean the fan blades if accessible (with a soft cloth—no water on electrical components).
-5. Check the lights and switches for buildup. Use a soft brush or vacuum if needed.
-
-### **When to Perform Maintenance:**
-
-* Clean grease filters	Every 2–4 weeks
-* Replace charcoal filter	Every 3–6 months
-* Wipe hood exterior	Weekly
-* Deep clean internal fan	Every 6–12 months
-
-A well-maintained ductless hood doesn’t just perform better—it lasts longer, smells fresher, and keeps your kitchen looking clean and modern.
-
-## **Can You Install a Ductless Range Hood Yourself?**
-
-Short answer? Yes, you can—and many people do. Ductless range hoods are one of the most DIY-friendly appliances in your kitchen. They don’t require vent installation, which means no drilling through walls or hiring HVAC pros.
-
-**What You’ll Need:**
-
-* Power drill
-* Screwdriver set
-* Tape measure
-* Pencil/marker
-* Level
-* Mounting screws & brackets (usually included)
-* Charcoal filter (if not pre-installed)
-
-### **Installation Steps (Wall or Cabinet Mount):**
-
-Measure and mark mounting height. Usually 24–30 inches above your cooktop.
-
-1. **Locate wall studs or cabinet base.** Use a stud finder or pre-installed bracket.
-2. **Drill pilot holes.** Ensure they're level.
-3. **Mount the hood securely.** Secure brackets to studs or support beams.
-4. **Connect power. Plug-in models are easiest.** If it’s hardwired, turn off the breaker first.
-5. **Install charcoal filters.** Slot them behind or above the fan system depending on model.
-
-Most models include easy-to-follow templates and detailed instruction manuals. If you're comfortable hanging a shelf or curtain rod, you can likely install a ductless hood.
-
-Just make sure to have a helper if your hood is over 25 lbs—some units are bulky and need two hands for steady placement.
-
-## **Ductless vs Ducted Range Hood – Which Should You Choose?**
-
-Let’s break this down. If you're stuck deciding between a ductless or ducted range hood, here’s the pros and cons straight up.
-
-**Choose Ductless if:**
-
-* You rent or live in an apartment/condo
-* Your kitchen has no external vent access
-* You want a quick, affordable upgrade
-
-**Choose Ducted if:**
-
-* You’re remodeling and want pro-grade performance
-* You cook heavy, oily meals frequently
-* Your home allows external duct installation
-
-At the end of the day, a ductless range hood is more than capable for most home kitchens—especially with modern high-CFM fans and advanced charcoal filters.
-
-## **Conclusion: What’s the Best Ductless Range Hood for You?**
-
-Choosing the best ductless range hood in 2025 doesn’t have to be overwhelming. The key is knowing your kitchen’s needs and your cooking habits.
-
-* Want power and versatility? Go for the Hauslane Chef Series.
-* On a budget? Cosmo 5MU30 won’t disappoint.
-* Looking to upgrade your kitchen’s look? IKTCH or Cosmo wall-mounts bring style and strength.
-
-Whatever your situation—apartment living, small kitchen, or a major renovation—there’s a ductless hood that fits perfectly.
-
-Just remember:
-
-* Look for 400+ CFM if you cook often
-* Choose quality charcoal filters
-* Measure your range and install height
-* Keep up with regular maintenance
-
-A good ductless range hood won’t just remove smoke—it’ll make your kitchen fresher, cleaner, and more enjoyable to be in.
-
-
-
-## **Top 6 Best** **Ductless Range Hoods**
-
-### **[1. Broan Aluminum Power Pack Range Hood](https://www.amazon.com/s?k=Broan+Aluminum+Power+Pack+Range+Hood&tag=kitchenpot-20)**
-
-![Best Ductless Range Hood](images/portablegasgrill.jpg)
-
-Broan is well known for its high-quality kitchen appliances, with splendid aesthetic finishes that add a fine touch to your home. The Broan Aluminum Power Pack Range Hood is a combined entity with both ventilation and illumination required for your daily needs.
-
-It has a **fully integrated range hood system** to properly fit with the bottom cabinet or can be applied with a customized hood installation suitable for your space. This makes it ideal for any space, especially apartments and homes with problems of creating ventilation, for some reason or another. 
-
-Broan Aluminum Range Hood is equipped with two-speed rocker controls that guarantee noiseless operations, dazzling lighting, efficiency, and efficacy. This is accompanied by an enclosed bottom, equipped with filters that are dishwasher-friendly for easier cleaning. 
-
-The ductless range hood consists of a centrifugal blower of **250CFM and 8 Sones** for maintaining a normal performance. Furthermore, it comes with a **7-inch round duct** which comprises a damper and adapter that allows you to accurately install the appliance to your home. 
-
-The exterior is designed with flat polished surfaces for easier cleaning and detects excessive heat with an automatically adjustable blower for high speed. 
-
-[Check Price on Amazon](https://www.amazon.com/s?k=Broan+Aluminum+Power+Pack+Range+Hood&tag=kitchenpot-20)
-
-**Pro** 
-
-* Combined entity for both ventilation and illumination
-* Quiet operation
-* Easier and accurate installation
-* Effective performance
-* Easier cleaning 
-
-**Con** 
-
-* Small in size
-* Wearing out of Aluminum degreasers 
-* Illumination bulbs sold separately
-
-### **2. [Cosmo 63175 Ducted/Ductless Range Hood](https://www.amazon.com/Cosmo-Controls-Lighting-Permanent-Filters/dp/B01DN00K0S/?tag=kitchenpot-20)**
-
-![Wall Mount Ductless Range Hood](images/portablegasgrill.jpg)
-
-Cosmo is famously known for its sleek vibrant looks, sturdy performance, and quality built. The Cosmo appliance is equipped with features such as **ultra-quiet design, highly efficient airflow made out of stainless steel, and stocked with dual LED lights**.
-
-The **stainless-steel mounted wall covers a length of 30 inches** and a chimney attachment which hides the air pipe running from the back of the ceiling. 
-
-[Check Price on Amazon](https://www.amazon.com/Cosmo-Controls-Lighting-Permanent-Filters/dp/B01DN00K0S/?tag=kitchenpot-20)
-
-The Cosmo Ductless Range Hood is designed in a well-built blower of of **760 cubic feet per minute (CFM)** which removes odors with ease when cooking. It also maintains a **65dB noise level**, despite the presence of a powerful fan, sustaining a discreet operation. 
-
-Cosmo Range Hood contains two stainless steel degreasing filter baffles which last for a longer duration, as compared to aluminum meshes which tend to wear out faster. The filter baffles are dishwasher-safe which provides easier maintenance and reduces cost expense. 
-
-The ductless range hood has modernized styling aesthetics compatible with kitchen decors with a **430 grade and 20-gauge thickness** for easier brushing. Interestingly, it’s built with an adjustable telescopic chimney **perfect for high footing ceilings of up-to 8.5**. 
-
-**Pro**
-
-*  Sturdy performance
-* Ultra-quiet designs 
-* High airflow efficiency
-* Reusable degreasing filter baffles
-
-**Con** 
-
-* Space consuming 
-
-### **3. [Broan 413004 Series Ductless Range Hood](https://www.amazon.com/Broan-Stainless-Ductless-Exhaust-30-Inches/dp/B00573M42C/?tag=kitchenpot-20)**
-
-![Best Ductless Range Hood](images/portablegasgrill.jpg)
-
-Broan is a brand known for its muscle when it comes to home appliances and warranty protection. You can never go wrong with Broan Ductless Range Hood, as it’s well-known for **LED lighting proficiency and practical exhaust**. This improves lighting and ventilation over the stove, with the use of a non-ducted filtration system installed to remove odor and smoke.
-
-Broan Ductless Range Hood’s performance is justified by the efficiency to match ventilation with every cooking stove beneath it and adapt to the cooking style. The fit of the Range Hood is intended to tidily occupy the space beneath the overhead cabinet, to ensure **exceptional airflow in tight kitchen spaces**. 
-
-[Check Price on Amazon](https://www.amazon.com/Broan-Stainless-Ductless-Exhaust-30-Inches/dp/B00573M42C/?tag=kitchenpot-20)
-
-The Range Hood uses **aluminum mesh and charcoal carbon filters** to degrease cooking odors emitted, smoke, and fine particles. The aluminum mesh filters can be r**emoved, cleaned, and reused**, eventually will need to be replaced as they tend to wear out.
-
-Nonetheless, not unless the manufacturer states that the filters are dish-washer friendly, you are supposed to hand clean them using warm water, mild soap, and baking soda. 
-
-The unit comes with a **two-speed duct-free range hood** with an exclusive Microtek system for purifying airborne cooling impurities. The interior of the ductless range hood is removable, which makes it easy to clean the interior of the exhaust re-circulation, and an installed fan that is maintenance-free. It is also equipped with an enclosed damper and adapter when ducting the hood. 
-
-**Pro**
-
-* Quiet operation and airflow 
-* Powerful performance 
-* LED lighting and practical exhaust
-* Occupies minimal space
-* Purification of airborne cooling impurities
-
-**Con**
-
-* Aluminum filters tend to wear out
-* Buying of the bulbs to fit the hood
-* Constant maintenance
-
-### **4. [Cosmo 5MU30 Under Cabinet Range Hood](https://www.amazon.com/Cosmo-Under-Cabinet-Range-Stainless/dp/B074PBLJVY/?tag=kitchenpot-20)**
-
-![Best Range Hood for Home Use](images/portablegasgrill.jpg)
-
-In recent years, the Cosmo brand has gained popularity as one of the best appliances in the market, and Cosmo 5MU30 is among some of the best-selling brands. The Cosmo 5MU30 is made in a **recirculating-optional or convertible hood with stainless steel finishes** which will match your kitchen’s aesthetics. 
-
-If you are looking for a chic modern look, Cosmo 5MU30 is the take, with **push-buttons controls and speedy fans that can draw air up-to 200CFM for re-circulation**. As for the exhaustion, it takes about 20,000 BTU. However, since one burner takes up 15,000-17,000 BTU, this isn’t sufficient when it comes to drawing emissions from multiple burners. 
-
-**[Check Price on Amazon](https://www.amazon.com/Cosmo-Under-Cabinet-Range-Stainless/dp/B074PBLJVY/?tag=kitchenpot-20)**
-
-The range hood comes with **in-built LED lighting** for clear visibility while cooking and **dishwasher-safe aluminum mesh filters which degrease odors and smokes**. However, to maximize the lifespan, manual wash-up is efficient for any aluminum wares. Additionally, it has **charcoal filters** which makes it non-vented, even so, one should readily change them once every 6-12 months. 
-
-The Cosmo 5MU30 range hood features three exhaust fan speeds of suction making it super quiet. The cabinet wall mount makes installation super easy and quicker. Additionally, it comes with a damper, also known as a back draft regulator, which prevents air from entering the duct work. In case of a switch up from top-venting to the rear or vice versa, seal caps are included to close up the openings. 
-
-**Pro** 
-
-* Convertible design 
-* Quiet operation
-* LED lighting for visibility 
-* Quick and easier installation
-* Stainless steel aluminum
-
-**Con** 
-
-* Aluminum mesh filters wear out
-
-### **5.** **[Cosmo QS75 Ducted/Ductless Range Hood](https://www.amazon.com/Cosmo-COS-QS75-Wireless-Reusable-Stainless/dp/B013JVO1U6/?tag=kitchenpot-20)**
-
-![Best Under Cabinet Range Hood](images/portablegasgrill.jpg)
-
-Looking for the best high-tech ductless range hood? Cosmo QS75 is the Range Hood for you. With a **high-end capacity, ultra-quiet, heavy-duty convertible, and contemporary and polished design, it claims a stainless-steel touch to your kitchen décor**.
-
-More so, it is intended to fit adequately into small spaces beneath the kitchen cabinets and align with the gas stove circumference beneath it. 
-
-Cosmo QS75 makes up some of the most powerful range hood with **900CFM**, to suck in all the cooking emissions and odors in the kitchen. It is also accompanied by **touch-screen, remote controls, and soft-touch buttons** for easier navigation of the range hood. This makes it a reliable machine that ventilates your house quicker, yet quieter and still maintains its durability. 
-
-The Cosmo range hood features **twin-fan whose suction purifies the emissions, LED lighting for visibility, automatic close off function, and a timer**.
-
-Interestingly, it is improvised with a **gas sensor** which turns the range hood on, once the gas has been detected. It is constructed with a **430-grade stainless steel gauge with aggravated steel baffle filters and charcoal filters** for ductless hoods.
-
-As compared to the Aluminum filters, the Cosmo QS75 is permanently installed with steel baffle filters which are 100% dishwasher-friendly. The steel baffle filters have high durability, easier to remove, and little maintenance for up-keep. However, the initial cost might be high compared to aluminum filters, but the up-keep is minimal and doesn’t require any replacement. 
-
-[Check Price on Amazon](https://www.amazon.com/Cosmo-COS-QS75-Wireless-Reusable-Stainless/dp/B013JVO1U6/?tag=kitchenpot-20)
-
-**Pro**
-
-* Quiet operation 
-* Powerful performance
-* Convertible 
-* Easier control
-* High-tech
-* Durable 
-
-**Con**
-
-* Expensive 
-
-### **6. [Cosmo UMC30 Ductless Range Hood](https://www.amazon.com/Cosmo-UMC30-Under-Cabinet-Range-Hood-Convertible/dp/B00NS1PANA/?tag=kitchenpot-20)**
-
-![Best Ductless Range Hood](images/portablegasgrill.jpg)
-
-Cosmo UMC30 ductless range hood is designed in **slim stainless steel** which beautifully suits the kitchen’s aesthetics. The slim design allows it to fit suitably underneath the cabinets or can be mounted on the wall as a range hood.
-
-In consequence, you can either mount from the back or top venting which will be dependent on your choices or what works best for your space. 
-
-Fascinating right? That’s not all.
-
-It has a **multi-layer filtration that recirculates air by purifying the produced emissions and odors before discharging it**. The emissions will pass through aluminum mesh filters where the smoke, odors, and steam will degrease the air. Conveniently, the **aluminum mesh filters are removable and dishwasher-safe**, hence you can be able to remove the trapped grease with ease. 
-
-**[Check Price on Amazon](https://www.amazon.com/Cosmo-UMC30-Under-Cabinet-Range-Hood-Convertible/dp/B00NS1PANA/?tag=kitchenpot-20)**
-
-Cosmo ductless range hood has **soft-touch controls on its headline with backlit LED lighting** built-in under the range hood. With a 3-speed motor, it’s impressive how the range hood can manage the **quiet operation of 65dB** with such a hefty motor. Also, you can manage to vary the ventilation depending on your activities. 
-
-The Cosmo UMC30 has a powerful suction of about **760CFM airflow capacity** and is paired by charcoal filters that come separately but appropriate for durability. These charcoal filters neutralize emissions and odors, as the ductless range hood continuously recycles the air within the kitchen. The Cosmo UMC30 is a high-end brand, it comes with a premium **430-grade stainless steel and a 20 gauge of thickness**. 
-
-**Pro**
-
-* Longevity guaranteed
-* Quiet operation
-* LED lighting 
-* Exceptional performance 
-* Easy and quick installation
-
-**Con**
-
-* Expensive
-* LED lighting is quite dim
-
-## **Best** **Ductless Range Hoods –** **Buyer’s Guide**
-
-There are several types of range hoods in the market. The key categories include [under cabinet hoods](https://thekitchenpot.com/blog/best-under-cabinet-range-hood/), wall mount hoods, island hoods, ductless hoods, and downdraft hoods. This article analyzes the best ductless range hoods that you can consider when shopping.
-
-When picking the best ductless range hood to either remodel, for a newly built, or replace the existing, you need to be decisive by looking at several factors. Enough research is required for the proper maintenance, and [installation](https://www.wikihow.com/Install-a-Range-Hood), as they fundamentally need more attention, compared to vented hoods. 
-
-To ease your process, we’ve compiled some of the best factors to consider when it comes to selecting the best ductless range hood for your kitchen.  
-
-### Factors to Consider When Shopping for the Best Ductless Range Hood
-
-* **Budget**
-
-With the numerous available ductless range hoods in the market, the only way to create a shortlist for the items chosen is the budget.
-
-The best ductless range hood can be a large investment, but by looking at its potential durability which might go for years, it happens to be the best choice.
-
-One ought to be generous with the investments to be included for the purchase. **If you’re short of funds and resources, it’s wiser to take a few months to financially save to cover for the amount remaining**. I’m sure you won’t be disappointed.
-
-* **Filters Efficacy**
-
-As read throughout the article, filters are an important aspect for the best ductless range hoods to effectively and efficiently perform. For that reason, one should closely look at the three kinds of filters required for use. These include; **charcoal filters, baffle filters, and mesh filters**. 
-
-Charcoal filters are essential for the re-circulation and filtration of odors, smoke, and absorption of fumes emitted in the kitchen. This is the compulsory equipment needed for the operation of the machine effectively. However, they need replacement every once in a while.
-
-Baffle filters are important in collecting hazardous material through greased baffles by quickly collecting the trickled down materials in a tray. Hence, thorough cleaning is required every few months to increase its durability.
-
-Mesh filters are a significant aspect of the range hoods as well. Fitted behind one another, the greasy air passing through the meshes are trapped and collected in a tray. Hence, they require regular cleaning for better operation. 
-
-* **Suction**
-
-The best ductless range hoods require an efficient CFM (Cubic Feet per Meter), which is the measure of power in a range hood, depending on the workload required. Before purchasing, be sure to ideally look at the size of the kitchen, food cooked, the volume of cooked food, number of burners, length of ducting and so much more. In as much as the suction is low to some appliances, the importance remains on the filtration system’s effectiveness. 
-
-* **Size and Power**
-
-Large stoves require larger ventilation systems, thus, it is important to look for a ventilation system that matches the size of your stove and the food being cooked. The range hood should be able to have enough coverage to catch all the emissions. 
-
-* **Aesthetics** 
-
-If you are aiming for particular aesthetics to match your décor, you need to find a range hood with the same style as per your expectations. Given the hundreds of ductless range hoods available, it’s easier to find models that suit your particular taste. 
-
-![Best Ductless Range Hood](images/portablegasgrill.jpg)
-
-## **Best** **Ductless Range Hoods – Bottom Line**
-
-With changing times, it is only convenient that we adapt to new modernized techniques that work efficiently to simplify our lives. Furthermore, cooking spaces sometimes tend to get unnecessary smoke, fumes, airborne particulates, and moistness which infiltrate the house. Hence, to solve this problematic concern, you need to equip yourself with the best ductless range hood.  
-
-Whether you’re looking to improve the current space or a new build, the best ductless range hood is highly recommended to any kitchen. Conveniently, they come in all sizes, materials, colors, and price ranges. They are equipped with re-circulation features, providing a better and hazardous-free environment as it assures quality air. 
-
-Our best pick was the Cosmo appliances, the ductless range hood seems to uphold powerful performance, high-tech, little maintenance, and durability. However, if you’re within a strict budget, it might not be suitable for you. Even so, our list might not include your favorite but be assured it is supported by in-depth research. We are hoping this will serve you with a good reference when deciding to purchase.
+- [Best Under-Cabinet Range Hoods](/blog/best-under-cabinet-range-hood/)
+- [Small-Kitchen Guide to Range Hoods, Ventilation and Cooking Smells](/blog/small-kitchen-guide-range-hood-ventilation-cooking-smell/)
+- [How Often to Clean a Range Hood Filter](/blog/how-often-to-clean-a-range-hood-filter/)
+- [Best Over-the-Range Microwaves](/blog/7-best-over-the-range-microwaves/)
+- [Best Compact Energy Star Appliances for Small Kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/)
+- [Vertical Storage Ideas for Small Kitchens](/blog/vertical-storage-ideas-for-small-kitchens/)
+- [Best Slide-In Electric Range](/blog/best-slide-in-electric-range/)
