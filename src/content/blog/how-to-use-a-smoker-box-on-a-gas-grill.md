@@ -57,7 +57,7 @@ Gas grills aren't airtight, so some smoke always escapes. That's why a smoker bo
 | Built-in smoker drawer | Its own dedicated burner | Easy control with a separate knob | Only on certain higher-end grills |
 | DIY foil pouch or foil pan | On the flame tamers over a burner | Trying it out for almost no cost | Can't refill; single use |
 
-A popular all-rounder is the [Weber Universal Stainless Steel Smoker Box](https://www.amazon.com/dp/B005LRKF7U/?tag=kitchenpot-20), which fits on the grate of most gas grills. For more options by style and size, see our roundup of the [best smoker boxes for gas grills](/blog/best-smoker-box-for-gas-grills/).
+A popular all-rounder is the [Weber Universal Stainless Steel Smoker Box](https://www.amazon.com/Weber-Universal-Stainless-Steel-Smoker-Box/dp/B005LRKF7U/?tag=kitchenpot-20), which fits on the grate of most gas grills. For more options by style and size, see our roundup of the [best smoker boxes for gas grills](/blog/best-smoker-box-for-gas-grills/).
 
 ## The Soaking Question
 

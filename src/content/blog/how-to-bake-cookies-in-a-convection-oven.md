@@ -59,8 +59,8 @@ You don't need special equipment, but a few choices make a big difference.
 
 | Item | Why it helps | What to look for |
 | --- | --- | --- |
-| Rimless or low-rimmed cookie sheets | Air flows across the whole tray instead of being blocked by tall sides | Light-colored aluminum, like a [Nordic Ware Naturals half sheet](https://www.amazon.com/dp/B0049C2S32/?tag=kitchenpot-20) |
-| Quarter sheet pans | Fit countertop ovens and small full-size ovens | The [Nordic Ware quarter sheet](https://www.amazon.com/dp/B078NJRJ7T/?tag=kitchenpot-20) measures about 13 x 9.6 inches |
+| Rimless or low-rimmed cookie sheets | Air flows across the whole tray instead of being blocked by tall sides | Light-colored aluminum, like a [Nordic Ware Naturals half sheet](https://www.amazon.com/Nordic-Ware-Naturals-half-sheet/dp/B0049C2S32/?tag=kitchenpot-20) |
+| Quarter sheet pans | Fit countertop ovens and small full-size ovens | The [Nordic Ware quarter sheet](https://www.amazon.com/Nordic-Ware-quarter-sheet/dp/B078NJRJ7T/?tag=kitchenpot-20) measures about 13 x 9.6 inches |
 | Silicone baking mat or parchment | Stops sticking and holds cookies in place when the fan runs | Mats are reusable; clip or weight parchment in strong ovens |
 | [Oven thermometer](https://www.amazon.com/s?k=oven+thermometer&tag=kitchenpot-20) | Shows whether your oven runs hot or cold | Hang it on the middle rack |
 | Cookie scoop | Makes every cookie the same size so they bake at the same rate | A 1.5 tablespoon scoop suits most drop cookies |

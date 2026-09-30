@@ -74,9 +74,9 @@ Bulletproof coffee is found in different stores in the United States. It has spr
 
 Here are some of the common bulletproof coffee packages you can consider:
 
-* [Bulletproof The Original Medium Roast Ground Coffee, Brain Octane C8 MCT Oil and Grass-Fed Ghee, Keto Diet Friendly, Bundle](https://www.amazon.com/Bulletproof-Starter-Original-Ketogenic-Grass-Fed/dp/B07JG9ZZG8?tag=kitchenpot-20)
-* [BULLETPROOF Cold Brew Coffee with Collagen Protein, 11.1 FZBulletproof](https://www.amazon.com/BULLETPROOF-Original-Cold-Collagen-Protein/dp/B0788JNJ11?tag=kitchenpot-20) 
-* [The Mentalist Ground Coffee, Medium Dark Roast, Keto Friendly, Certified Clean Coffee, Rainforest Alliance, Ground, 12 Ounces](https://www.amazon.com/Bulletproof-Mentalist-Medium-Ground-Coffee/dp/B01HRB7J12?tag=kitchenpot-20)
+* [Bulletproof The Original Medium Roast Ground Coffee, Brain Octane C8 MCT Oil and Grass-Fed Ghee, Keto Diet Friendly, Bundle](https://www.amazon.com/Bulletproof-Starter-Original-Ketogenic-Grass-Fed/dp/B07JG9ZZG8/?tag=kitchenpot-20)
+* [BULLETPROOF Cold Brew Coffee with Collagen Protein, 11.1 FZBulletproof](https://www.amazon.com/BULLETPROOF-Original-Cold-Collagen-Protein/dp/B0788JNJ11/?tag=kitchenpot-20) 
+* [The Mentalist Ground Coffee, Medium Dark Roast, Keto Friendly, Certified Clean Coffee, Rainforest Alliance, Ground, 12 Ounces](https://www.amazon.com/Bulletproof-Mentalist-Medium-Ground-Coffee/dp/B01HRB7J12/?tag=kitchenpot-20)
 
 All these bulletproof packages are ideal for both pour-over and drip coffee makers, thus guaranteeing versatility. 
 
@@ -86,18 +86,18 @@ Besides the bulletproof coffee, you will need to have the following:
 
 Here are some of the best MCT Oils to consider:
 
-* [Premium MCT Oil derived only from Non-GMO Coconuts](https://www.amazon.com/Premium-derived-only-Non-GMO-Coconuts/dp/B00XM0Y9SE?tag=kitchenpot-20)
-* [Nature’s Way 100% Potency Pure Source MCT Oil from Coconut – Certified Paleo, Certified Vegan, Non-GMO Project Verified, Vegetarian, Gluten-Free, 30 FL Ounce (Packaging May Vary)](https://www.amazon.com/Natures-Way-Coconut-Source-Packaging/dp/B0747B7X2Z?tag=kitchenpot-20)
-* [Garden of Life Dr. Formulated Brain Health 100% Organic Coconut MCT Oil 32 fl oz Unflavored, 13g MCTs, Keto & Paleo Diet Friendly Body & Brain Fuel, Certified Non-GMO Vegan & Gluten-Free, Hexane-Free](https://www.amazon.com/Garden-Life-Formulated-Unflavored-Hexane-Free/dp/B076ZK9N3V?tag=kitchenpot-20)
+* [Premium MCT Oil derived only from Non-GMO Coconuts](https://www.amazon.com/Premium-derived-only-Non-GMO-Coconuts/dp/B00XM0Y9SE/?tag=kitchenpot-20)
+* [Nature’s Way 100% Potency Pure Source MCT Oil from Coconut – Certified Paleo, Certified Vegan, Non-GMO Project Verified, Vegetarian, Gluten-Free, 30 FL Ounce (Packaging May Vary)](https://www.amazon.com/Natures-Way-Coconut-Source-Packaging/dp/B0747B7X2Z/?tag=kitchenpot-20)
+* [Garden of Life Dr. Formulated Brain Health 100% Organic Coconut MCT Oil 32 fl oz Unflavored, 13g MCTs, Keto & Paleo Diet Friendly Body & Brain Fuel, Certified Non-GMO Vegan & Gluten-Free, Hexane-Free](https://www.amazon.com/Garden-Life-Formulated-Unflavored-Hexane-Free/dp/B076ZK9N3V/?tag=kitchenpot-20)
 
 ### Grass-Fed Butter
 
 Here are some of the best grass-fed butter brands to consider:
 
-* [Original Grass-Fed Ghee by 4th & Heart, 16 Ounce, Keto, Pasture Raised, Non-GMO, Lactose-Free, Certified Paleo](https://www.amazon.com/Grass-Fed-4th-Heart-Certified-Keto-Friendly/dp/B01M19Z219?tag=kitchenpot-20)
-* [Himalayan Pink Salt Grass-Fed Ghee Butter by 4th & Heart, 16 Ounce, Keto, Pasture Raised, Non-GMO, Lactose-Free, Certified Paleo](https://www.amazon.com/Himalayan-Grass-Fed-4th-Heart-Keto-Friendly/dp/B07H8Y4B1T?tag=kitchenpot-20)
-* [Original Grass-Fed Ghee Butter by 4th & Heart, 32 Ounce (2 x 16oz Jars), Keto, Pasture Raised, Non-GMO, Lactose and Casein Free, Certified Paleo](https://www.amazon.com/Original-4th-Heart-Certified-Keto-Friendly/dp/B01N20YNMT?tag=kitchenpot-20)
-* [Organic Original Grass-fed Ghee, Butter by ANCIENT ORGANICS, 32 oz., Pasture Raised, Non-GMO, Lactose – Casein – Gluten FREE, Certified KOSHER – 100% Organic Certified – USDA Approved (In Gift Box)](https://www.amazon.com/ANCIENT-ORGANICS-100-Organic-Grass-fed/dp/B00E0WB292?tag=kitchenpot-20)
+* [Original Grass-Fed Ghee by 4th & Heart, 16 Ounce, Keto, Pasture Raised, Non-GMO, Lactose-Free, Certified Paleo](https://www.amazon.com/Grass-Fed-4th-Heart-Certified-Keto-Friendly/dp/B01M19Z219/?tag=kitchenpot-20)
+* [Himalayan Pink Salt Grass-Fed Ghee Butter by 4th & Heart, 16 Ounce, Keto, Pasture Raised, Non-GMO, Lactose-Free, Certified Paleo](https://www.amazon.com/Himalayan-Grass-Fed-4th-Heart-Keto-Friendly/dp/B07H8Y4B1T/?tag=kitchenpot-20)
+* [Original Grass-Fed Ghee Butter by 4th & Heart, 32 Ounce (2 x 16oz Jars), Keto, Pasture Raised, Non-GMO, Lactose and Casein Free, Certified Paleo](https://www.amazon.com/Original-4th-Heart-Certified-Keto-Friendly/dp/B01N20YNMT/?tag=kitchenpot-20)
+* [Organic Original Grass-fed Ghee, Butter by ANCIENT ORGANICS, 32 oz., Pasture Raised, Non-GMO, Lactose – Casein – Gluten FREE, Certified KOSHER – 100% Organic Certified – USDA Approved (In Gift Box)](https://www.amazon.com/ANCIENT-ORGANICS-100-Organic-Grass-fed/dp/B00E0WB292/?tag=kitchenpot-20)
 
 ## How to Make Bulletproof Coffee Without Blender 
 

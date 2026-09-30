@@ -64,7 +64,7 @@ Do this first, every time. The water is the best part of the fruit, and once the
 
 Strain the water through a fine sieve before you drink it. Small shell chips almost always come along for the ride. If you are measuring it for a recipe, our guide to [how many ounces are in a quart](/blog/how-many-ounces-in-a-quart/) saves you a conversion.
 
-A screwdriver works, but it is blunt and it tears the pore. A dedicated [coconut punch tool](https://www.amazon.com/dp/B008HA4F60/?tag=kitchenpot-20) is a spike with a handle designed for exactly this, and it leaves a clean hole that fits a straw. Owner reviews for these punches praise the clean hole. They also warn that mature shells still take real force. Buy one for young coconuts first, then treat mature ones as a bonus.
+A screwdriver works, but it is blunt and it tears the pore. A dedicated [coconut punch tool](https://www.amazon.com/coconut-punch-tool/dp/B008HA4F60/?tag=kitchenpot-20) is a spike with a handle designed for exactly this, and it leaves a clean hole that fits a straw. Owner reviews for these punches praise the clean hole. They also warn that mature shells still take real force. Buy one for young coconuts first, then treat mature ones as a bonus.
 
 **Do not use a chef's knife tip for this.** Levering a fine blade against a curved shell is how tips snap. If you want a blade you can lean on, use the corner of a cleaver or an old paring knife you do not care about. Our notes on [forged versus stamped knives](/blog/forged-vs-stamped-knives/) explain why thicker forged blades take this kind of abuse better.
 
@@ -89,7 +89,7 @@ Cold makes the shell brittle, so the shell does more of the work than your arm d
 4. Tap firmly along that ridge with a rubber mallet, turning the coconut a little after every tap.
 5. Keep going around. After one or two laps a crack opens along the line, and the shell falls into two clean halves.
 
-A [rubber mallet](https://www.amazon.com/dp/B00DPL0ZLA/?tag=kitchenpot-20) is the right tool here because the soft head does not chip the shell into splinters. A claw hammer works too, but it concentrates force on a small point and tends to punch a hole instead of opening a seam.
+A [rubber mallet](https://www.amazon.com/rubber-mallet/dp/B00DPL0ZLA/?tag=kitchenpot-20) is the right tool here because the soft head does not chip the shell into splinters. A claw hammer works too, but it concentrates force on a small point and tends to punch a hole instead of opening a seam.
 
 ### The Oven Method
 

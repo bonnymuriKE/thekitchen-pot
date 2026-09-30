@@ -116,7 +116,7 @@ Three rules make decanting pay off:
 2. **Buy for your shelf height, not for a matching set.** Two 10-inch containers are useless on a 9-inch shelf.
 3. **Label the lid with the food and the date you opened the bag.** Flour, powdered sugar and cornstarch are identical once the bag is gone.
 
-Airtight matters for more than freshness. A sealed container also keeps out the insects covered further down, so it is doing two jobs. The [OXO Good Grips 10-Piece POP Container Set](https://www.amazon.com/dp/B07TBBL1C2/?tag=kitchenpot-20) is the common pick here because the lids push flat and the containers stack square. Owner reviews for airtight sets like this one raise the same two themes again and again: people like the clear sides, and they wish they had measured their shelves first. You can read the [owner reviews](https://www.amazon.com/product-reviews/B07TBBL1C2/?tag=kitchenpot-20) and judge the sizing for yourself.
+Airtight matters for more than freshness. A sealed container also keeps out the insects covered further down, so it is doing two jobs. The [OXO Good Grips 10-Piece POP Container Set](https://www.amazon.com/OXO-Good-Grips-POP-10-Piece-Container-Set/dp/B07TBBL1C2/?tag=kitchenpot-20) is the common pick here because the lids push flat and the containers stack square. Owner reviews for airtight sets like this one raise the same two themes again and again: people like the clear sides, and they wish they had measured their shelves first. You can read the [owner reviews](https://www.amazon.com/OXO-Good-Grips-POP-10-Piece-Container-Set/product-reviews/B07TBBL1C2/?tag=kitchenpot-20) and judge the sizing for yourself.
 
 If you would rather compare glass, plastic and clip-lid designs before committing, our roundup of [airtight food storage containers](/blog/best-airtight-food-storage-containers/) breaks down which seal types hold up.
 
@@ -126,9 +126,9 @@ One warning. Do not buy one giant matched set and decant everything. Keep a few 
 
 Once the kitchen is thinned out and measured, you will usually still need one piece of furniture. Three shapes cover nearly every layout.
 
-**A wire shelving unit.** Open, cheap, and adjustable, which matters when your containers are different heights. A standard [Amazon Basics 4-Shelf Storage Unit](https://www.amazon.com/dp/B00NUS53CY/?tag=kitchenpot-20) measures 36 by 14 by 54 inches and is rated for 350 pounds per shelf, so it takes cans and bulk bags without sagging. Fourteen inches deep is the useful number there, because a deeper unit eats walking room.
+**A wire shelving unit.** Open, cheap, and adjustable, which matters when your containers are different heights. A standard [Amazon Basics 4-Shelf Storage Unit](https://www.amazon.com/Build-the-Cupboard-the-Kitchen-Never-Came-With/dp/B00NUS53CY/?tag=kitchenpot-20) measures 36 by 14 by 54 inches and is rated for 350 pounds per shelf, so it takes cans and bulk bags without sagging. Fourteen inches deep is the useful number there, because a deeper unit eats walking room.
 
-**A slim rolling cart.** For the gap beside the fridge or the end of a counter run. Something like this [3-tier slim rolling cart](https://www.amazon.com/dp/B07QRH2PZS/?tag=kitchenpot-20) slides out for access and back in when you are done. It is the best answer to a gap you cannot use any other way.
+**A slim rolling cart.** For the gap beside the fridge or the end of a counter run. Something like this [3-tier slim rolling cart](https://www.amazon.com/3-tier-slim-rolling-cart/dp/B07QRH2PZS/?tag=kitchenpot-20) slides out for access and back in when you are done. It is the best answer to a gap you cannot use any other way.
 
 **A closed cabinet or a repurposed bookshelf.** Doors hide the mess, which helps if the unit sits in a studio where the kitchen is also the living room. A bookshelf you already own works, as long as the shelves adjust.
 
@@ -140,7 +140,7 @@ The last of your storage is hiding in shapes nobody sells furniture for. These a
 
 **Above the wall cabinets.** Most kitchens leave a foot or more of dead air up there. Matching baskets keep it from looking like an attic. Store light, rarely used things, since you need a stool to reach it.
 
-**The back of every door.** Cabinet doors, closet doors and the pantry-substitute cabinet you just added all have a flat panel doing nothing. An over-the-door rack such as this [5-tier pantry door organizer](https://www.amazon.com/dp/B078XK7GC2/?tag=kitchenpot-20) holds spice jars, packets and small cans. Check the clearance behind the door first, because a rack that stops the door closing is worse than no rack.
+**The back of every door.** Cabinet doors, closet doors and the pantry-substitute cabinet you just added all have a flat panel doing nothing. An over-the-door rack such as this [5-tier pantry door organizer](https://www.amazon.com/5-tier-pantry-door-organizer/dp/B078XK7GC2/?tag=kitchenpot-20) holds spice jars, packets and small cans. Check the clearance behind the door first, because a rack that stops the door closing is worse than no rack.
 
 **The wall above a doorway.** A single shelf over a door holds a surprising amount and crosses no walking space at all. More ideas like it live in our guide to [vertical storage for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/).
 

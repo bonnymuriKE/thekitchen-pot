@@ -39,23 +39,23 @@ A fan under the grates pulls smoke downward instead of letting it drift up into 
 
 There is a catch that has nothing to do with smoke. Gotham Steel does not sell this grill any more.
 
-**The short version:** The smokeless claim half holds. The downdraft fan and drip tray cut smoke a lot with lean food and barely at all with bacon. The Gotham Steel grill is still [sold on Amazon](https://www.amazon.com/dp/B08C6K45R7/?tag=kitchenpot-20), so it is not gone. But its maker's own site no longer lists it, so if you want a grill with a clearer future, pick the [Ninja Sizzle indoor grill and griddle](https://www.amazon.com/dp/B0C8VHBBZK/?tag=kitchenpot-20). It hits 500F, swaps between grill and griddle plates, and Ninja still sells it at $149.99. The buying rule for any indoor grill: match the grill to the fat content of what you cook, because fat is what makes smoke, not the grill.
+**The short version:** The smokeless claim half holds. The downdraft fan and drip tray cut smoke a lot with lean food and barely at all with bacon. The Gotham Steel grill is still [sold on Amazon](https://www.amazon.com/GOTHAM-STEEL-Smokeless-Nonstick-Electric-Grill/dp/B08C6K45R7/?tag=kitchenpot-20), so it is not gone. But its maker's own site no longer lists it, so if you want a grill with a clearer future, pick the [Ninja Sizzle indoor grill and griddle](https://www.amazon.com/Ninja-Sizzle-Indoor-Grill-and-Griddle/dp/B0C8VHBBZK/?tag=kitchenpot-20). It hits 500F, swaps between grill and griddle plates, and Ninja still sells it at $149.99. The buying rule for any indoor grill: match the grill to the fat content of what you cook, because fat is what makes smoke, not the grill.
 
 ## Is the Gotham Steel Smokeless Grill Still Sold?
 
-Not on its own website. The [Gotham Steel site](https://www.gothamsteel.com/) now sells cookware sets, skillets, saute pans, pasta pots, stock pots, bakeware and crisper trays. There is no electric grill category. The grill is still [listed on Amazon](https://www.amazon.com/dp/B08C6K45R7/?tag=kitchenpot-20), and stock there can change, so check the listing before you decide.
+Not on its own website. The [Gotham Steel site](https://www.gothamsteel.com/) now sells cookware sets, skillets, saute pans, pasta pots, stock pots, bakeware and crisper trays. There is no electric grill category. The grill is still [listed on Amazon](https://www.amazon.com/GOTHAM-STEEL-Smokeless-Nonstick-Electric-Grill/dp/B08C6K45R7/?tag=kitchenpot-20), and stock there can change, so check the listing before you decide.
 
 Search its store for "smokeless grill" and you get four results: a stovetop double grill plate at $49.99, a sandwich maker, a crisper tray set and a frying pan. The electric grill is not in the maker's catalogue now.
 
 That matters for two reasons. Replacement grill plates and drip pans can get scarce once a maker stops promoting a line, and a scratched plate is the part that usually fails first. Warranty support also thins out.
 
-You can still buy the grill on Amazon. If you want to see what owners say, the [Amazon customer reviews page](https://www.amazon.com/product-reviews/B075X25LN2/?tag=kitchenpot-20) is worth ten minutes. Just know the maker's own site no longer lists it, so support may be thinner.
+You can still buy the grill on Amazon. If you want to see what owners say, the [Amazon customer reviews page](https://www.amazon.com/Is-the-Gotham-Steel-Smokeless-Grill-Still-Sold/product-reviews/B075X25LN2/?tag=kitchenpot-20) is worth ten minutes. Just know the maker's own site no longer lists it, so support may be thinner.
 
 ## Our Picks at a Glance
 
-- **Best overall replacement:** [Ninja Sizzle Indoor Grill and Griddle](https://www.amazon.com/dp/B0C8VHBBZK/?tag=kitchenpot-20)
-- **Best budget pick:** [Hamilton Beach Electric Indoor Searing Grill](https://www.amazon.com/dp/B00F0RBF3E/?tag=kitchenpot-20)
-- **Best for grill marks plus air frying:** [Ninja Foodi Smart XL Indoor Grill and Air Fryer](https://www.amazon.com/dp/B0B3S5GWX7/?tag=kitchenpot-20)
+- **Best overall replacement:** [Ninja Sizzle Indoor Grill and Griddle](https://www.amazon.com/Ninja-Sizzle-Indoor-Grill-and-Griddle/dp/B0C8VHBBZK/?tag=kitchenpot-20)
+- **Best budget pick:** [Hamilton Beach Electric Indoor Searing Grill](https://www.amazon.com/Hamilton-Beach-Electric-Indoor-Searing-Grill/dp/B00F0RBF3E/?tag=kitchenpot-20)
+- **Best for grill marks plus air frying:** [Ninja Foodi Smart XL Indoor Grill and Air Fryer](https://www.amazon.com/Ninja-Foodi-Smart-XL-Indoor-Grill-and-Air-Fryer/dp/B0B3S5GWX7/?tag=kitchenpot-20)
 
 ## How the Three Current Grills Compare
 
@@ -70,7 +70,7 @@ You can still buy the grill on Amazon. If you want to see what owners say, the [
 
 None of these is truly smokeless either. They handle smoke differently, and that is the honest way to compare them. Cooking outdoors is still the clean answer, and [our guide to small grills for balconies and patios](/blog/best-small-grills-for-balconies-and-patios/) covers that route.
 
-## 1. [Ninja Sizzle Indoor Grill and Griddle](https://www.amazon.com/dp/B0C8VHBBZK/?tag=kitchenpot-20): Best Overall Replacement
+## 1. [Ninja Sizzle Indoor Grill and Griddle](https://www.amazon.com/Ninja-Sizzle-Indoor-Grill-and-Griddle/dp/B0C8VHBBZK/?tag=kitchenpot-20): Best Overall Replacement
 
 - **Type:** Countertop electric grill with interchangeable plates
 - **Key specs:** 1,450 watts, heat to 500F, 14-inch by 9-inch plates
@@ -101,9 +101,9 @@ Plates have high walls and grease channels, so drippings run off instead of pool
 
 **Who should buy it:** Anyone replacing a smokeless grill who also wants a flat top. It is the best all-round indoor grill of the three for a small kitchen, especially if you cook for two to four people.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0C8VHBBZK/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Sizzle-Indoor-Grill-and-Griddle/dp/B0C8VHBBZK/?tag=kitchenpot-20)
 
-## 2. [Hamilton Beach Electric Indoor Searing Grill](https://www.amazon.com/dp/B00F0RBF3E/?tag=kitchenpot-20): Best Budget Pick
+## 2. [Hamilton Beach Electric Indoor Searing Grill](https://www.amazon.com/Hamilton-Beach-Electric-Indoor-Searing-Grill/dp/B00F0RBF3E/?tag=kitchenpot-20): Best Budget Pick
 
 - **Type:** Closed-lid electric searing grill
 - **Key specs:** Adjustable 200F to 450F, 118 square inches of surface
@@ -134,9 +134,9 @@ Cleanup is the quiet strength. The grill plate, the lid and the extra-large drip
 
 **Who should buy it:** Cooks who want indoor steaks and chops for under $100 and have nowhere to keep a tall appliance. Pair it with [a good metal spatula set](/blog/best-metal-spatula-set/) for the flat foods and [heat-resistant gloves](/blog/10-best-heat-resistant-gloves-for-cooking/) for lifting the hot plate out.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00F0RBF3E/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Hamilton-Beach-Electric-Indoor-Searing-Grill/dp/B00F0RBF3E/?tag=kitchenpot-20)
 
-## 3. [Ninja Foodi Smart XL Indoor Grill and Air Fryer](https://www.amazon.com/dp/B0B3S5GWX7/?tag=kitchenpot-20): Best for Grill Marks Plus Air Frying
+## 3. [Ninja Foodi Smart XL Indoor Grill and Air Fryer](https://www.amazon.com/Ninja-Foodi-Smart-XL-Indoor-Grill-and-Air-Fryer/dp/B0B3S5GWX7/?tag=kitchenpot-20): Best for Grill Marks Plus Air Frying
 
 - **Type:** Enclosed electric grill with an air fryer basket
 - **Key specs:** 1,760 watts, 500F grate and 500F cyclonic air, six functions
@@ -168,7 +168,7 @@ The built-in thermometer is the feature people keep. You pick the protein and th
 
 **Who should buy it:** Anyone happy to give up real counter space for one machine that grills and air fries. If you already own an air fryer, the Sizzle is the better value.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0B3S5GWX7/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Foodi-Smart-XL-Indoor-Grill-and-Air-Fryer/dp/B0B3S5GWX7/?tag=kitchenpot-20)
 
 ## How a Smokeless Grill Actually Works
 

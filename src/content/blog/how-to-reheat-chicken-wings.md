@@ -98,7 +98,7 @@ A wire rack lifts the wing about half an inch. Hot air now circles all the way a
 
 A rack also lets you skip foil. Foil traps grease against the skin and cancels out the whole point of the rack.
 
-For hardware, a half sheet pan and matching rack sold as a set fits most home ovens and saves you guessing at sizes. The [Checkered Chef baking sheet with wire rack](https://www.amazon.com/dp/B07Z4PHW4V/?tag=kitchenpot-20) is a common pick for this. Owner reviews mostly flag the same trade-off, which is that the rack cleans up best by hand. If your oven is on the small side, start with our sizing guide to [compact baking sheets and pan sizes](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/). Our picks for the [best bakeware for small kitchens](/blog/best-bakeware-for-small-kitchens/) help if nothing you own fits.
+For hardware, a half sheet pan and matching rack sold as a set fits most home ovens and saves you guessing at sizes. The [Checkered Chef baking sheet with wire rack](https://www.amazon.com/Why-Air-Underneath-Matters/dp/B07Z4PHW4V/?tag=kitchenpot-20) is a common pick for this. Owner reviews mostly flag the same trade-off, which is that the rack cleans up best by hand. If your oven is on the small side, start with our sizing guide to [compact baking sheets and pan sizes](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/). Our picks for the [best bakeware for small kitchens](/blog/best-bakeware-for-small-kitchens/) help if nothing you own fits.
 
 Counter ovens work too, and a good one reheats a batch of wings without heating the whole kitchen. Our guide to the [best small ovens and toaster ovens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) covers models with a real convection fan.
 
@@ -160,7 +160,7 @@ Wings you plan to save are worth keeping separate from their sauce in the first 
 
 The USDA says leftovers should [reach an internal temperature of 165°F](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety) when reheated, measured with a food thermometer. Wings are small, so they get there quickly. The risk is not undercooking them, it is leaving them in so long that the meat turns stringy.
 
-A cheap instant-read thermometer removes the guesswork. The [ThermoPro TP19H](https://www.amazon.com/dp/B07XXSYLL8/?tag=kitchenpot-20) is a widely sold option with a folding probe. Owner reviews praise the speed, and they also note that the thin probe will bend if you force it. Slide it into the thickest part of the drumette, angled alongside the bone rather than against it. Bone reads hotter than the meat around it and will fool you.
+A cheap instant-read thermometer removes the guesswork. The [ThermoPro TP19H](https://www.amazon.com/ThermoPro-TP19H/dp/B07XXSYLL8/?tag=kitchenpot-20) is a widely sold option with a folding probe. Owner reviews praise the speed, and they also note that the thin probe will bend if you force it. Slide it into the thickest part of the drumette, angled alongside the bone rather than against it. Bone reads hotter than the meat around it and will fool you.
 
 For more options, see our roundup of the [best meat thermometers](/blog/best-meat-thermometer-for-smoking/). Whichever one you own, wipe the probe between wings and give it a proper wash afterwards, which our guide to [cleaning a meat thermometer](/blog/how-to-clean-a-meat-thermometer/) walks through in four steps.
 

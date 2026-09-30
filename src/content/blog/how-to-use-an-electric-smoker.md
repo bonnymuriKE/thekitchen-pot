@@ -169,9 +169,9 @@ The reasons are all physical. Thickness matters more than weight. Fat content ch
 
 So the thermometer is the real instrument here, not the timer. A dual-probe unit lets you watch the meat and the cabinet at the same time. That second reading matters. The built-in display on most smokers measures air near the element, not air near your food.
 
-The [ThermoPro TP20B wireless meat thermometer](https://www.amazon.com/dp/B085KZXS6N/?tag=kitchenpot-20) is the version most first-time smokers end up with. It runs two probes to a handheld receiver, so you can set an alarm and go back indoors. Owner reviews on it center on the range holding up across a yard, with the usual caveat that the probe wires do not like being bent sharply.
+The [ThermoPro TP20B wireless meat thermometer](https://www.amazon.com/ThermoPro-TP20B-wireless-meat-thermometer/dp/B085KZXS6N/?tag=kitchenpot-20) is the version most first-time smokers end up with. It runs two probes to a handheld receiver, so you can set an alarm and go back indoors. Owner reviews on it center on the range holding up across a yard, with the usual caveat that the probe wires do not like being bent sharply.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B085KZXS6N/?tag=kitchenpot-20) [Read Owner Reviews](https://www.amazon.com/product-reviews/B085KZXS6N/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/ThermoPro-TP20B-wireless-meat-thermometer/dp/B085KZXS6N/?tag=kitchenpot-20) [Read Owner Reviews](https://www.amazon.com/ThermoPro-TP20B-wireless-meat-thermometer/product-reviews/B085KZXS6N/?tag=kitchenpot-20)
 
 Our roundup of the [best meat thermometers for smoking](/blog/best-meat-thermometer-for-smoking/) covers instant-read and leave-in options side by side. Whichever you buy, clean the probes properly between cooks, since they go into raw meat. Here is [how to clean a meat thermometer](/blog/how-to-clean-a-meat-thermometer/) without wrecking it.
 
@@ -194,12 +194,12 @@ This is the most common complaint about electric smokers, and it is a fair one. 
 Five fixes actually work.
 
 1. **Start with cold meat.** Smoke sticks to cold, damp surfaces. Take the meat from the fridge to the smoker instead of letting it warm on the counter.
-2. **Add a pellet tube.** A perforated steel tube filled with smoking pellets sits on the bottom rack and smolders for hours alongside the chip tray. The [A-MAZE-N 12-inch pellet tube smoker](https://www.amazon.com/dp/B00CS6YFIC/?tag=kitchenpot-20) is the one most electric smoker owners reach for, and it works cold or hot.
+2. **Add a pellet tube.** A perforated steel tube filled with smoking pellets sits on the bottom rack and smolders for hours alongside the chip tray. The [A-MAZE-N 12-inch pellet tube smoker](https://www.amazon.com/A-MAZE-N-12-inch-pellet-tube-smoker/dp/B00CS6YFIC/?tag=kitchenpot-20) is the one most electric smoker owners reach for, and it works cold or hot.
 3. **Open the top vent.** A closed vent traps stale smoke, and stale smoke tastes acrid rather than strong. Smoke needs to move across the meat and leave.
 4. **Delay the wrap.** Every hour the meat spends unwrapped is an hour it can take on smoke. Wrapping at 165°F instead of 150°F buys you flavor.
 5. **Lean on the rub.** A heavier, coarser rub carries flavor that reads as barbecue even when the smoke is subtle.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00CS6YFIC/?tag=kitchenpot-20) [Shop Rubs at Grill Masters Club](https://www.awin1.com/cread.php?awinmid=81261&awinaffid=1956629&clickref=how-to-use-an-electric-smoker&ued=https%3A%2F%2Fgrillmastersclub.com%2Fcollections%2Fbbq-sauces-rubs)
+[Check Price on Amazon](https://www.amazon.com/A-MAZE-N-12-inch-pellet-tube-smoker/dp/B00CS6YFIC/?tag=kitchenpot-20) [Shop Rubs at Grill Masters Club](https://www.awin1.com/cread.php?awinmid=81261&awinaffid=1956629&clickref=how-to-use-an-electric-smoker&ued=https%3A%2F%2Fgrillmastersclub.com%2Fcollections%2Fbbq-sauces-rubs)
 
 One thing that does not work is more chips. Past a certain point extra wood just lowers the chamber temperature and turns the smoke bitter.
 
@@ -244,7 +244,7 @@ They still make smoke, so they still belong outdoors. Most leases and fire codes
 
 A few practical points for tight outdoor space:
 
-- **Measure the footprint before you buy.** A 30-inch cabinet like the [Masterbuilt digital electric smoker](https://www.amazon.com/dp/B07CN38M23/?tag=kitchenpot-20) needs clearance on all sides plus room to open the door fully.
+- **Measure the footprint before you buy.** A 30-inch cabinet like the [Masterbuilt digital electric smoker](https://www.amazon.com/Masterbuilt-digital-electric-smoker/dp/B07CN38M23/?tag=kitchenpot-20) needs clearance on all sides plus room to open the door fully.
 - **Plan the power.** These units draw real current and want a proper outdoor outlet, not a thin indoor extension lead.
 - **Protect the surface underneath.** Grease finds concrete and stays there. Setting up [a small patio for grilling](/blog/how-to-set-up-a-small-patio-for-grilling/) walks through mats, clearances and layout.
 - **Store it under cover.** Electric elements and control panels do not like rain.

@@ -55,7 +55,7 @@ Sets are sold for families. A 12-piece set leaves a solo cook with three pieces 
 
 Buy pieces instead, in these three sizes:
 
-**An 8-inch skillet.** This is the workhorse. It fits two eggs, one chicken thigh, a single portion of vegetables, or a grilled cheese. Anything bigger spreads a small amount of food too thin, so the food steams instead of browning. A nonstick 8-inch like the [Tramontina Professional 8-Inch Fry Pan](https://www.amazon.com/dp/B009HBKPD0/?tag=kitchenpot-20) is the cheap, sturdy default. Owner reviews of restaurant-style aluminum pans repeat one theme. The coating lasts well on low and medium heat, then fails fast on high, which matches how nonstick works. You can scan the [owner reviews](https://www.amazon.com/product-reviews/B009HBKPD0/?tag=kitchenpot-20) before deciding.
+**An 8-inch skillet.** This is the workhorse. It fits two eggs, one chicken thigh, a single portion of vegetables, or a grilled cheese. Anything bigger spreads a small amount of food too thin, so the food steams instead of browning. A nonstick 8-inch like the [Tramontina Professional 8-Inch Fry Pan](https://www.amazon.com/Tramontina-Professional-8-Inch-Fry-Pan/dp/B009HBKPD0/?tag=kitchenpot-20) is the cheap, sturdy default. Owner reviews of restaurant-style aluminum pans repeat one theme. The coating lasts well on low and medium heat, then fails fast on high, which matches how nonstick works. You can scan the [owner reviews](https://www.amazon.com/Tramontina-Professional-8-Inch-Fry-Pan/product-reviews/B009HBKPD0/?tag=kitchenpot-20) before deciding.
 
 **A 1.5 to 2-quart saucepan.** Rice, oatmeal, a single portion of sauce, reheating soup. Two quarts is the upper limit for one person. Anything larger and your food sits in a thin layer at the bottom and scorches.
 
@@ -84,7 +84,7 @@ You need a chef's knife. You do not need a block of fifteen.
 
 An 8-inch chef's knife handles chopping, slicing and most butchery a home cook ever does. A small paring knife covers the rest. A serrated bread knife is the only real third, and only if you buy whole loaves.
 
-The [Victorinox Fibrox Pro 8-Inch Chef's Knife](https://www.amazon.com/dp/B008M5U1C2/?tag=kitchenpot-20) is the usual answer for a first knife. It is stamped rather than forged, which keeps it light and cheap, and our comparison of [forged and stamped knives](/blog/forged-vs-stamped-knives/) explains what that changes. A light knife suits a small kitchen where you are chopping on a board balanced over the sink.
+The [Victorinox Fibrox Pro 8-Inch Chef's Knife](https://www.amazon.com/Victorinox-Fibrox-Pro-8-Inch-Chefs-Knife/dp/B008M5U1C2/?tag=kitchenpot-20) is the usual answer for a first knife. It is stamped rather than forged, which keeps it light and cheap, and our comparison of [forged and stamped knives](/blog/forged-vs-stamped-knives/) explains what that changes. A light knife suits a small kitchen where you are chopping on a board balanced over the sink.
 
 Whatever you buy, keep it sharp. A dull knife slips and crushes herbs rather than cutting them. A simple pull-through sharpener is enough for most people, and our [knife sharpener guide](/blog/best-knife-sharpener/) covers the styles. If you would still rather buy a small matched set, the [knife sets under $100](/blog/best-knife-set-under-100/) roundup has ones that skip the filler pieces.
 
@@ -115,7 +115,7 @@ This is the one tool most solo cooks skip and then wish they had.
 
 Cooking for one means constantly halving and quartering recipes. A scale makes that exact instead of approximate, so you cook the amount you will eat. It also makes portioning meat for the freezer quick, which is the single biggest waste fix below.
 
-The [Escali Primo Digital Kitchen Scale](https://www.amazon.com/dp/B0007GAWNW/?tag=kitchenpot-20) is a common pick here. At 8.5 by 6 by 1.5 inches it slides into a drawer, and it weighs up to 11 pounds. Any scale with a tare button does the job.
+The [Escali Primo Digital Kitchen Scale](https://www.amazon.com/Escali-Primo-Digital-Kitchen-Scale/dp/B0007GAWNW/?tag=kitchenpot-20) is a common pick here. At 8.5 by 6 by 1.5 inches it slides into a drawer, and it weighs up to 11 pounds. Any scale with a tare button does the job.
 
 Weighing also settles the guesswork the internet argues about. If you have ever wondered [how much a chicken breast weighs](/blog/how-much-does-a-chicken-breast-weigh/) or [how much juice is in one lemon](/blog/how-much-juice-is-in-one-lemon/), a scale answers it in your own kitchen.
 
@@ -199,7 +199,7 @@ Containers matter too. Square, stackable and airtight wins over round tubs every
 
 A small kitchen can hold maybe two countertop appliances before the counter stops being usable. Choose them by what they take off your plate.
 
-**A small rice cooker,** if grains are a regular part of your week. The [Zojirushi NS-LGC05 3-Cup Micom Rice Cooker](https://www.amazon.com/dp/B07VN6HYR8/?tag=kitchenpot-20) is the popular compact option. It holds up to 3 cups uncooked, draws 450 watts, and measures 9-1/8 by 11-7/8 by 7-1/2 inches, so it takes about the footprint of a cereal box. It also frees a burner, which matters on a two-burner apartment stove. If you would rather compare models first, see our [rice cooker picks](/blog/best-rice-cooker-for-brown-rice/) and the walkthrough on [how to cook rice in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/).
+**A small rice cooker,** if grains are a regular part of your week. The [Zojirushi NS-LGC05 3-Cup Micom Rice Cooker](https://www.amazon.com/Zojirushi-NS-LGC05-3-Cup-Micom-Rice-Cooker/dp/B07VN6HYR8/?tag=kitchenpot-20) is the popular compact option. It holds up to 3 cups uncooked, draws 450 watts, and measures 9-1/8 by 11-7/8 by 7-1/2 inches, so it takes about the footprint of a cereal box. It also frees a burner, which matters on a two-burner apartment stove. If you would rather compare models first, see our [rice cooker picks](/blog/best-rice-cooker-for-brown-rice/) and the walkthrough on [how to cook rice in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/).
 
 **A compact air fryer,** if you reheat and roast often. Heating a full oven for one chicken thigh wastes both time and electricity, and our [air fryers under $100](/blog/best-air-fryers-under-100/) list covers the small end.
 

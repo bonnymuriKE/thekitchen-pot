@@ -176,9 +176,9 @@ What to do:
 - **Expect 45 to 60 minutes** of cooking, against 20 to 30 for white.
 - **Rest for the full 15 minutes.** Brown rice evens out more slowly.
 
-A dedicated brown rice setting is worth having if you eat it often, because it runs a longer soak at low heat before the boil. Our guide to the [best rice cookers for brown rice](/blog/best-rice-cooker-for-brown-rice/) covers the models that do it properly, and the [Zojirushi Neuro Fuzzy](https://www.amazon.com/dp/B00007J5U7/?tag=kitchenpot-20) is the one most often named for this. Owner reviews for it repeatedly mention brown rice and porridge coming out evenly, with the price and the long cycle times as the usual complaints. You can read through the [customer reviews](https://www.amazon.com/product-reviews/B00007J5U7/?tag=kitchenpot-20) and judge the pattern yourself.
+A dedicated brown rice setting is worth having if you eat it often, because it runs a longer soak at low heat before the boil. Our guide to the [best rice cookers for brown rice](/blog/best-rice-cooker-for-brown-rice/) covers the models that do it properly, and the [Zojirushi Neuro Fuzzy](https://www.amazon.com/Zojirushi-Neuro-Fuzzy/dp/B00007J5U7/?tag=kitchenpot-20) is the one most often named for this. Owner reviews for it repeatedly mention brown rice and porridge coming out evenly, with the price and the long cycle times as the usual complaints. You can read through the [customer reviews](https://www.amazon.com/Zojirushi-Neuro-Fuzzy/product-reviews/B00007J5U7/?tag=kitchenpot-20) and judge the pattern yourself.
 
-If you want the function without the price, the [Aroma ARC-954SBD](https://www.amazon.com/dp/B077NMPKBL/?tag=kitchenpot-20) has separate white and brown rice programs and a stainless exterior. It is a 4-cup uncooked model, so check the capacity against how you actually eat.
+If you want the function without the price, the [Aroma ARC-954SBD](https://www.amazon.com/Aroma-ARC-954SBD-Professional-4-Cup/dp/B077NMPKBL/?tag=kitchenpot-20) has separate white and brown rice programs and a stainless exterior. It is a 4-cup uncooked model, so check the capacity against how you actually eat.
 
 ## Troubleshooting: Gummy, Crunchy, Scorched or Wet
 

@@ -69,7 +69,7 @@ Notice what is missing. There is no cheap fix and no clever kitchen trick. Sandp
 
 A diamond bench stone is the most controllable method at home. It is also the slowest, which is a feature rather than a flaw. Slow means you can stop before you have taken off too much.
 
-A double-sided plate such as the [SHARPAL 162N diamond stone](https://www.amazon.com/dp/B07GRWN1PV/?tag=kitchenpot-20) gives you a coarse 325-grit side and an extra-fine 1200-grit side. Owner reviews for this style of plate point to the same two strengths: it stays flat, and it cuts without needing to be soaked like a water stone. Coarse grit is for reshaping. Fine grit is for the edge you actually cut with.
+A double-sided plate such as the [SHARPAL 162N diamond stone](https://www.amazon.com/SHARPAL-162N-diamond-stone/dp/B07GRWN1PV/?tag=kitchenpot-20) gives you a coarse 325-grit side and an extra-fine 1200-grit side. Owner reviews for this style of plate point to the same two strengths: it stays flat, and it cuts without needing to be soaked like a water stone. Coarse grit is for reshaping. Fine grit is for the edge you actually cut with.
 
 Here is the sequence.
 
@@ -85,7 +85,7 @@ Pressure is the part people get wrong. On steel you lean in. On ceramic you bare
 
 ## Using a Manual Diamond Wheel Sharpener
 
-If holding an angle by hand sounds like a gamble, a guided sharpener removes the guesswork. Kyocera's own [manual diamond wheel sharpener](https://www.amazon.com/dp/B071P6DN5J/?tag=kitchenpot-20) uses a #1000-grade industrial diamond wheel and works on ceramic and steel blades alike. It sells for about $28 direct from the brand, and it is made in Japan.
+If holding an angle by hand sounds like a gamble, a guided sharpener removes the guesswork. Kyocera's own [manual diamond wheel sharpener](https://www.amazon.com/manual-diamond-wheel-sharpener/dp/B071P6DN5J/?tag=kitchenpot-20) uses a #1000-grade industrial diamond wheel and works on ceramic and steel blades alike. It sells for about $28 direct from the brand, and it is made in Japan.
 
 The design is simple. You drop the blade into a slot that sets the angle, then draw it back through the wheel. Because the slot fixes the geometry, your hand cannot wander.
 
@@ -95,7 +95,7 @@ This is the tool most people should start with. It costs less than a decent [pep
 
 ## Electric Diamond Sharpeners, and Their Limits
 
-Kyocera also makes a battery-powered version, the [DS-38 electric diamond sharpener](https://www.amazon.com/dp/B00BKSDT5Y/?tag=kitchenpot-20). The brand states that it removes ceramic chips up to 0.5 mm deep, which is the useful line to remember. It takes four AA batteries and it is built for right-handed use only, so check that before you buy.
+Kyocera also makes a battery-powered version, the [DS-38 electric diamond sharpener](https://www.amazon.com/DS-38-electric-diamond-sharpener/dp/B00BKSDT5Y/?tag=kitchenpot-20). The brand states that it removes ceramic chips up to 0.5 mm deep, which is the useful line to remember. It takes four AA batteries and it is built for right-handed use only, so check that before you buy.
 
 The motor makes it fast, and fast cuts both ways. A powered diamond wheel takes off ceramic quickly, so two seconds too long grinds away edge you did not need to lose. Treat the trigger like a timer.
 

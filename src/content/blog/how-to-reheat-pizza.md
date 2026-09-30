@@ -106,9 +106,9 @@ It is a texture choice, not an upgrade. Try it once on a slice you were going to
 
 > **Watch your stovetop.** A heavy cast iron pan dragged across glass will scratch it. Lift, never slide. Our guide on [protecting a glass-top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/) covers the rest.
 
-**Get a skillet that earns its place:** the [Lodge 10.25-inch cast iron skillet](https://www.amazon.com/dp/B00006JSUA/?tag=kitchenpot-20) fits two slices and costs less than most weeknight takeout orders. Owner reviews most often praise the heat retention and flag the weight, which is the honest trade with cast iron.
+**Get a skillet that earns its place:** the [Lodge 10.25-inch cast iron skillet](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-10-25-Inches/dp/B00006JSUA/?tag=kitchenpot-20) fits two slices and costs less than most weeknight takeout orders. Owner reviews most often praise the heat retention and flag the weight, which is the honest trade with cast iron.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00006JSUA/?tag=kitchenpot-20) [Check Price at Lancaster Cast Iron](https://www.awin1.com/cread.php?awinmid=95395&awinaffid=1956629&clickref=how-to-reheat-pizza&ued=https%3A%2F%2Flancastercastiron.com%2Fproducts%2Flancaster-cast-iron-skillet)
+[Check Price on Amazon](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-10-25-Inches/dp/B00006JSUA/?tag=kitchenpot-20) [Check Price at Lancaster Cast Iron](https://www.awin1.com/cread.php?awinmid=95395&awinaffid=1956629&clickref=how-to-reheat-pizza&ued=https%3A%2F%2Flancastercastiron.com%2Fproducts%2Flancaster-cast-iron-skillet)
 
 ## The Oven Method for Four or More Slices
 
@@ -206,7 +206,7 @@ Once it is in the fridge at 40°F or below, the USDA gives cooked leftovers [thr
 
 ### Checking the Temperature
 
-You cannot judge 165°F by eye. Slide an instant-read probe into the thickest part of the slice, not the pointed tip, and hold it in the middle of the dough. The [ThermoPro TP19H](https://www.amazon.com/dp/B09FLTW388/?tag=kitchenpot-20) reads in a few seconds and folds flat for a drawer.
+You cannot judge 165°F by eye. Slide an instant-read probe into the thickest part of the slice, not the pointed tip, and hold it in the middle of the dough. The [ThermoPro TP19H](https://www.amazon.com/ThermoPro-TP19H/dp/B09FLTW388/?tag=kitchenpot-20) reads in a few seconds and folds flat for a drawer.
 
 Wipe and sanitize the probe afterwards. Our short guide on [cleaning a meat thermometer](/blog/how-to-clean-a-meat-thermometer/) covers doing it properly, and our [thermometer roundup](/blog/best-meat-thermometer-for-smoking/) has other models if you also grill.
 

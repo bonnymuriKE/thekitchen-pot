@@ -123,7 +123,7 @@ The dish rack is the single biggest thief of counter space in most small kitchen
 
 There are three ways out of it.
 
-**Use a rack that stores flat.** A roll-up rack sits across the sink while dishes drain, then rolls up and goes in a drawer. The [Seropy roll-up dish drying rack](https://www.amazon.com/dp/B091P5ND9C/?tag=kitchenpot-20) measures 17.5 by 13.7 inches and rests on the sink rim. Measure your rim before you order. Racks in this style need a flat edge on both sides, and fit on sinks with a raised or rounded lip is the complaint that comes up most in [owner reviews](https://www.amazon.com/product-reviews/B091P5ND9C/?tag=kitchenpot-20).
+**Use a rack that stores flat.** A roll-up rack sits across the sink while dishes drain, then rolls up and goes in a drawer. The [Seropy roll-up dish drying rack](https://www.amazon.com/Seropy-roll-up-dish-drying-rack/dp/B091P5ND9C/?tag=kitchenpot-20) measures 17.5 by 13.7 inches and rests on the sink rim. Measure your rim before you order. Racks in this style need a flat edge on both sides, and fit on sinks with a raised or rounded lip is the complaint that comes up most in [owner reviews](https://www.amazon.com/Seropy-roll-up-dish-drying-rack/product-reviews/B091P5ND9C/?tag=kitchenpot-20).
 
 **Dry on a mat you can fold.** A thick absorbent mat does the same job and disappears into a drawer afterwards. It suits a [drainboard sink](/blog/best-porcelain-kitchen-sink-with-drainboard/) especially well, since the board already handles the dripping.
 
@@ -143,7 +143,7 @@ Three rules keep zoning honest:
 2. **Size the tray to the space you can afford to lose.** A 13-inch tray costs you roughly a square foot. Measure the run before you buy.
 3. **Nothing sits beside the tray.** The moment something does, the edge stops meaning anything and the creep starts again.
 
-A pair of [bamboo trays with handles](https://www.amazon.com/dp/B08VHKTR9Z/?tag=kitchenpot-20) in 16-inch and 13-inch sizes covers most kitchens. Handles matter more than looks here. A tray you can lift with one hand gets moved when you need the counter, and one you cannot stays put forever.
+A pair of [bamboo trays with handles](https://www.amazon.com/bamboo-trays-with-handles/dp/B08VHKTR9Z/?tag=kitchenpot-20) in 16-inch and 13-inch sizes covers most kitchens. Handles matter more than looks here. A tray you can lift with one hand gets moved when you need the counter, and one you cannot stays put forever.
 
 Zoning also fixes the snack pile. Bags and boxes are all different shapes, so they never stack and never sit flush. Decant them into [airtight containers](/blog/best-airtight-food-storage-containers/) and the same food takes about half the footprint. The lids keep crackers crisp as well, which is fair payment for ten minutes of pouring.
 
@@ -167,7 +167,7 @@ Some items pass the rent test and still bother you. The blender you use every mo
 
 **An appliance garage.** This is a cabinet or recess with a roll-up tambour door, sitting at counter level. The machine stays plugged in and ready, then hides behind the door. Freestanding versions work for renters. Built-in conversions usually do not.
 
-**A slider mat plus the cabinet above.** Cheaper, and often better. [Appliance glide mats](https://www.amazon.com/dp/B0993RS1GD/?tag=kitchenpot-20) sit under a machine and cut the drag, so you slide it forward to use it and push it back after. One four-pack covers a coffee maker, a mixer and two more machines.
+**A slider mat plus the cabinet above.** Cheaper, and often better. [Appliance glide mats](https://www.amazon.com/Appliance-glide-mats/dp/B0993RS1GD/?tag=kitchenpot-20) sit under a machine and cut the drag, so you slide it forward to use it and push it back after. One four-pack covers a coffee maker, a mixer and two more machines.
 
 **The one-motion test.** If getting the machine out takes a single motion, a cabinet works fine. Two motions and you will leave it on the counter, whatever you promise yourself. So choose the cabinet at counter height with a clear shelf, not the high one behind the cereal.
 

@@ -44,11 +44,11 @@ This review covers how the hybrid surface works, the specs HexClad publishes, wh
 
 ## Our Picks at a Glance
 
-- **Best HexClad to start with:** [HexClad 12" Hybrid Frying Pan with Lid](https://www.amazon.com/dp/B09ZV37WC6/?tag=kitchenpot-20)
-- **Best HexClad value:** [HexClad 6-Piece Hybrid Frying Pan Set](https://www.amazon.com/dp/B09ZBF3856/?tag=kitchenpot-20)
-- **Best full HexClad kitchen:** [HexClad Hybrid 12-Piece Cookware Set](https://www.amazon.com/dp/B0CVH8FXKB/?tag=kitchenpot-20)
-- **Best cheaper hybrid:** [Anolon X Hybrid 12-Inch Skillet](https://www.amazon.com/dp/B0BQ8YGC79/?tag=kitchenpot-20)
-- **Best coating-free alternative:** [Misen 10" Carbon Nonstick Frying Pan](https://www.amazon.com/dp/B0FKZZZBNT/?tag=kitchenpot-20)
+- **Best HexClad to start with:** [HexClad 12" Hybrid Frying Pan with Lid](https://www.amazon.com/HexClad-12-Hybrid-Frying-Pan-with-Lid/dp/B09ZV37WC6/?tag=kitchenpot-20)
+- **Best HexClad value:** [HexClad 6-Piece Hybrid Frying Pan Set](https://www.amazon.com/HexClad-6-Piece-Hybrid-Frying-Pan-Set/dp/B09ZBF3856/?tag=kitchenpot-20)
+- **Best full HexClad kitchen:** [HexClad Hybrid 12-Piece Cookware Set](https://www.amazon.com/HexClad-Hybrid-12-Piece-Cookware-Set/dp/B0CVH8FXKB/?tag=kitchenpot-20)
+- **Best cheaper hybrid:** [Anolon X Hybrid 12-Inch Skillet](https://www.amazon.com/Anolon-X-Hybrid-12-Inch-Skillet/dp/B0BQ8YGC79/?tag=kitchenpot-20)
+- **Best coating-free alternative:** [Misen 10" Carbon Nonstick Frying Pan](https://www.amazon.com/Misen-10-Carbon-Nonstick-Frying-Pan/dp/B0FKZZZBNT/?tag=kitchenpot-20)
 
 ## How the HexClad Surface Actually Works
 
@@ -122,9 +122,9 @@ The handle is round stainless and stays cool on the stovetop, though it has no t
 
 **Who should buy it:** Anyone who wants one pan for searing and one-pan dinners and is willing to cook with oil or butter. It also suits renters with an [induction cooktop](/blog/best-induction-cooktop-for-the-money/), since it needs no adapter.
 
-Before you commit, skim the [owner reviews for this pan on Amazon](https://www.amazon.com/product-reviews/B09ZV37WC6/?tag=kitchenpot-20). The split is consistent: buyers who came looking for a searing pan rate it highly and mention browning and durability, while the low ratings cluster around eggs sticking and food catching in the ridges. Both groups are describing the same surface doing what it is designed to do.
+Before you commit, skim the [owner reviews for this pan on Amazon](https://www.amazon.com/HexClad-12-Hybrid-Frying-Pan-with-Lid/product-reviews/B09ZV37WC6/?tag=kitchenpot-20). The split is consistent: buyers who came looking for a searing pan rate it highly and mention browning and durability, while the low ratings cluster around eggs sticking and food catching in the ridges. Both groups are describing the same surface doing what it is designed to do.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09ZV37WC6/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/HexClad-12-Hybrid-Frying-Pan-with-Lid/dp/B09ZV37WC6/?tag=kitchenpot-20)
 
 ## 2. HexClad 6-Piece Hybrid Frying Pan Set: Best Value in the Range
 
@@ -155,7 +155,7 @@ One caution that applies to every pan in the range: the steel ridges are harder 
 
 **Who should buy it:** Cooks replacing a tired run of nonstick skillets who want the replacement to last longer than the last set did.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09ZBF3856/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/HexClad-6-Piece-Hybrid-Frying-Pan-Set/dp/B09ZBF3856/?tag=kitchenpot-20)
 
 ## 3. HexClad Hybrid 12-Piece Cookware Set: Best for a Full Kitchen
 
@@ -186,7 +186,7 @@ The 8-quart pot is big, so measure your cabinet first. It is close in size to a 
 
 **Who should buy it:** Someone furnishing a kitchen from scratch, or a cook who has decided the hybrid surface suits them and wants it everywhere. If you are not sure yet, start with a single pan. For a cheaper full-kitchen route, our roundup of [stackable pots and pans](/blog/7-best-stackable-pots-and-pans/) and the [Ninja Foodi NeverStick set review](/blog/ninja-foodi-cookware-set-reviews/) are better first stops.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CVH8FXKB/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/HexClad-Hybrid-12-Piece-Cookware-Set/dp/B0CVH8FXKB/?tag=kitchenpot-20)
 
 ## 4. Anolon X Hybrid 12-Inch Skillet: The Cheaper Hybrid
 
@@ -217,7 +217,7 @@ The helper handle on the 12-inch is a real advantage. A full 12-inch pan of brai
 
 **Who should buy it:** Anyone who likes the hybrid concept but not the price. It is also the sensible first hybrid pan if you are not yet sure you will get on with a surface that needs oil. For plain coated options, compare it against our picks in the [best nonstick pans guide](/blog/best-nonstick-pans-with-buying-guide/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BQ8YGC79/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Anolon-X-Hybrid-12-Inch-Skillet/dp/B0BQ8YGC79/?tag=kitchenpot-20)
 
 ## 5. Misen 10" Carbon Nonstick Frying Pan: Skip the Coating Entirely
 
@@ -248,7 +248,7 @@ Misen sells it directly, and the brand also shows up in our roundup of [energy-e
 
 **Who should buy it:** Cooks who are tired of replacing nonstick pans and are happy to maintain a surface instead. The technique overlaps heavily with what our guide to [cleaning stainless steel pans](/blog/how-to-clean-stainless-steel-pans/) teaches about heat control and stuck-on food.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0FKZZZBNT/?tag=kitchenpot-20) [Check Price at Misen](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=hexclad-hybrid-cookware-review&ued=https%3A%2F%2Fmisen.com%2Fproducts%2Fcarbon-nonstick-pan-10-inch)
+[Check Price on Amazon](https://www.amazon.com/Misen-10-Carbon-Nonstick-Frying-Pan/dp/B0FKZZZBNT/?tag=kitchenpot-20) [Check Price at Misen](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=hexclad-hybrid-cookware-review&ued=https%3A%2F%2Fmisen.com%2Fproducts%2Fcarbon-nonstick-pan-10-inch)
 
 ## Is HexClad Worth the Money?
 
@@ -296,11 +296,11 @@ If you are comparing HexClad against other direct-to-consumer cookware brands, o
 
 ## Which HexClad Should You Buy?
 
-- **Testing the water:** the [12-inch pan with lid](https://www.amazon.com/dp/B09ZV37WC6/?tag=kitchenpot-20). One pan tells you everything.
-- **Replacing all your skillets:** the [6-piece fry pan set](https://www.amazon.com/dp/B09ZBF3856/?tag=kitchenpot-20).
-- **Starting a kitchen from zero:** the [12-piece set](https://www.amazon.com/dp/B0CVH8FXKB/?tag=kitchenpot-20), if the storage space exists.
-- **Same idea, smaller bill:** the [Anolon X Hybrid 12-inch](https://www.amazon.com/dp/B0BQ8YGC79/?tag=kitchenpot-20).
-- **No coating at all:** the [Misen carbon nonstick pan](https://www.amazon.com/dp/B0FKZZZBNT/?tag=kitchenpot-20).
+- **Testing the water:** the [12-inch pan with lid](https://www.amazon.com/HexClad-12-Hybrid-Frying-Pan-with-Lid/dp/B09ZV37WC6/?tag=kitchenpot-20). One pan tells you everything.
+- **Replacing all your skillets:** the [6-piece fry pan set](https://www.amazon.com/HexClad-6-Piece-Hybrid-Frying-Pan-Set/dp/B09ZBF3856/?tag=kitchenpot-20).
+- **Starting a kitchen from zero:** the [12-piece set](https://www.amazon.com/HexClad-Hybrid-12-Piece-Cookware-Set/dp/B0CVH8FXKB/?tag=kitchenpot-20), if the storage space exists.
+- **Same idea, smaller bill:** the [Anolon X Hybrid 12-inch](https://www.amazon.com/Anolon-X-Hybrid-12-Inch-Skillet/dp/B0BQ8YGC79/?tag=kitchenpot-20).
+- **No coating at all:** the [Misen carbon nonstick pan](https://www.amazon.com/Misen-10-Carbon-Nonstick-Frying-Pan/dp/B0FKZZZBNT/?tag=kitchenpot-20).
 
 If you are shopping for the cooktop as well as the pan, our roundup of the [best cookware for induction cooktops](/blog/best-cookware-for-induction-cooktop/) lists what works, and [how to use non-induction cookware on an induction cooktop](/blog/how-to-use-non-induction-cookware-on-induction-cooktop/) covers the adapter route if you already own pans that won't.
 

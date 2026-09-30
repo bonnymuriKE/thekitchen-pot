@@ -60,7 +60,7 @@ If you cook on the griddle often, keep a pair of [heat resistant gloves](/blog/1
 
 Before you fill the sink, flip the griddle over and look at the label or the manual. How you clean it depends on two things.
 
-**Does the heat control come off?** Many classic griddles, including Presto's, use a removable probe-style heat control that plugs into the side. Once that's out, the griddle body is often fully immersible. Presto's product page for its [22-inch griddle](https://www.amazon.com/dp/B005FYF3OY/?tag=kitchenpot-20) says it's fully immersible with the heat control detached. If the cord and controls are built into the base, the griddle can't go in water at all.
+**Does the heat control come off?** Many classic griddles, including Presto's, use a removable probe-style heat control that plugs into the side. Once that's out, the griddle body is often fully immersible. Presto's product page for its [22-inch griddle](https://www.amazon.com/Presto-07061-22-Inch-Electric-Ceramic-Griddle/dp/B005FYF3OY/?tag=kitchenpot-20) says it's fully immersible with the heat control detached. If the cord and controls are built into the base, the griddle can't go in water at all.
 
 **Is the cooking plate removable?** Grill-and-griddle combos like the Cuisinart Griddler have plates that pop out. Cuisinart's manual says the plates, drip tray and scraping tool can be washed by hand or on the top rack of the dishwasher. America's Test Kitchen's top-rated griddle, the Ninja Sizzle Pro XL, also has a removable plate, though the base itself is not submersible.
 

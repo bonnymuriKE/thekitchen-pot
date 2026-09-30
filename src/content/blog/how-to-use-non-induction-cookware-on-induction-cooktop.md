@@ -92,8 +92,8 @@ In other words, you're turning one induction burner into a small electric hot pl
 
 ### Converter disks worth knowing about
 
-- **[Max Burton 6010 Induction Interface Disk](https://www.amazon.com/dp/B00213L3PK/?tag=kitchenpot-20):** America's Test Kitchen's winner, at about $30. It's 8 inches across with a stainless steel body, an aluminum core and a heat-proof handle. It suits small saucepans, moka pots and small skillets.
-- **[Upromax 11-inch Induction Converter Disk](https://www.amazon.com/dp/B07D7FPYV1/?tag=kitchenpot-20):** A larger stainless steel disk for bigger pans and larger burners. Listings also sell it as a heat diffuser for gas and glass-top stoves.
+- **[Max Burton 6010 Induction Interface Disk](https://www.amazon.com/Max-Burton-6010-Induction-Interface-Disk/dp/B00213L3PK/?tag=kitchenpot-20):** America's Test Kitchen's winner, at about $30. It's 8 inches across with a stainless steel body, an aluminum core and a heat-proof handle. It suits small saucepans, moka pots and small skillets.
+- **[Upromax 11-inch Induction Converter Disk](https://www.amazon.com/Upromax-11-inch-Induction-Converter-Disk/dp/B07D7FPYV1/?tag=kitchenpot-20):** A larger stainless steel disk for bigger pans and larger burners. Listings also sell it as a heat diffuser for gas and glass-top stoves.
 
 You'll find many other disks online, most in 8-inch and 11-inch sizes. Look for a thick, heavy disk with a flat base, since thin disks are more likely to warp.
 
@@ -187,7 +187,7 @@ If you love the nonstick feel of ceramic pans, many ceramic-coated pans now come
 
 ## Induction in a Small Kitchen
 
-Induction is especially handy in small apartments. A single [portable induction burner](/blog/best-induction-cooktop-for-the-money/) sits on the counter, plugs into a standard outlet, and stores in a cupboard when you're done. Popular models like the [Duxtop 9600LS](https://www.amazon.com/dp/B01FLR0ET8/?tag=kitchenpot-20) run at up to 1,800 watts, which is plenty for one or two people. Our [NuWave induction cooktop review](/blog/nuwave-induction-cooktop-review/) covers another common option.
+Induction is especially handy in small apartments. A single [portable induction burner](/blog/best-induction-cooktop-for-the-money/) sits on the counter, plugs into a standard outlet, and stores in a cupboard when you're done. Popular models like the [Duxtop 9600LS](https://www.amazon.com/Duxtop-9600LS-portable-induction-burner/dp/B01FLR0ET8/?tag=kitchenpot-20) run at up to 1,800 watts, which is plenty for one or two people. Our [NuWave induction cooktop review](/blog/nuwave-induction-cooktop-review/) covers another common option.
 
 A few small-kitchen tips:
 

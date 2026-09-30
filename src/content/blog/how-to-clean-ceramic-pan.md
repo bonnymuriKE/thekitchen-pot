@@ -109,7 +109,7 @@ GreenPan suggests this exact sequence for stuck food: part-fill with warm water,
 
 ### The Melamine Sponge
 
-A melamine sponge, sold as a "magic eraser" type pad, is the one mild abrasive most ceramic makers do allow. GreenPan names it for tough residue and sells its own version. [Melamine sponges](https://www.amazon.com/dp/B07M6R4LPN/?tag=kitchenpot-20) cost a few dollars for a pack and work best on a warm, wet surface. Use them flat and gently. They are still an abrasive, so treat them as the step you take when the paste alone did not finish the job, not as your weekly sponge. Owner reviews for these pads consistently note that they crumble as you use them, which is normal and not a fault.
+A melamine sponge, sold as a "magic eraser" type pad, is the one mild abrasive most ceramic makers do allow. GreenPan names it for tough residue and sells its own version. [Melamine sponges](https://www.amazon.com/Melamine-sponges/dp/B07M6R4LPN/?tag=kitchenpot-20) cost a few dollars for a pack and work best on a warm, wet surface. Use them flat and gently. They are still an abrasive, so treat them as the step you take when the paste alone did not finish the job, not as your weekly sponge. Owner reviews for these pads consistently note that they crumble as you use them, which is normal and not a fault.
 
 ## Should You Use Bar Keepers Friend on a Ceramic Pan?
 
@@ -117,7 +117,7 @@ Not on the cooking surface. This comes up constantly, so it is worth being clear
 
 Bar Keepers Friend works through oxalic acid plus a mild abrasive. On bare stainless steel that combination is brilliant. On a coating it is a problem, and the company says so itself. Its own guidance lists [non-stick cookware](https://barkeepersfriend.com/dont-ruin-your-bkf-experience/) among the surfaces to avoid, warning that the coating can be worn away. A ceramic coating is a nonstick coating, so the warning covers it.
 
-There is one place it earns its keep. The outside bottom and the bare steel rim of a ceramic pan are not coated, and those parts collect baked-on grease like any other pan. A little [Bar Keepers Friend Cookware Cleanser](https://www.amazon.com/dp/B000V6YLNA/?tag=kitchenpot-20) on the underside, kept out of the interior and rinsed off properly, is fine.
+There is one place it earns its keep. The outside bottom and the bare steel rim of a ceramic pan are not coated, and those parts collect baked-on grease like any other pan. A little [Bar Keepers Friend Cookware Cleanser](https://www.amazon.com/Bar-Keepers-Friend-Cookware-Cleanser/dp/B000V6YLNA/?tag=kitchenpot-20) on the underside, kept out of the interior and rinsed off properly, is fine.
 
 The same rule sorts out a lot of confusion between pan types. Dark grey matte pans are a different material again, and our guide to [cleaning hard anodized cookware](/blog/how-to-clean-hard-anodized-cookware/) covers what those can take. If you are not sure which pan you own, the comparison of [stainless steel and ceramic cookware](/blog/stainless-steel-vs-ceramic-cookware/) spells out how to tell them apart by look and feel.
 
@@ -129,7 +129,7 @@ Cleaning gets blamed for a lot of damage that happened at the stove. These are t
 
 **Cooking spray.** This one surprises people. Aerosol sprays carry lecithin and propellants along with the oil, and those extras burn on at a lower temperature than plain oil. GreenPan tells owners not to use oil sprays of any kind, warning that the fine particles heat quickly and burn into a layer of carbonisation. Pour oil from a bottle or wipe it on with a paper towel instead. Picking a fat with a higher smoke point helps too, and our guide to the [best oils for high-heat cooking](/blog/best-oil-for-air-fryer/) breaks down which ones hold up.
 
-**Metal utensils.** Ceramic is hard but thin, and a metal edge cuts through thin. Keep your [metal spatulas](/blog/best-metal-spatula-set/) for stainless and cast iron. A basic [silicone utensil set](https://www.amazon.com/dp/B07HGCJB1F/?tag=kitchenpot-20) rated to 446°F costs less than one decent pan and removes the risk entirely. Wood works just as well if you prefer it.
+**Metal utensils.** Ceramic is hard but thin, and a metal edge cuts through thin. Keep your [metal spatulas](/blog/best-metal-spatula-set/) for stainless and cast iron. A basic [silicone utensil set](https://www.amazon.com/silicone-utensil-set/dp/B07HGCJB1F/?tag=kitchenpot-20) rated to 446°F costs less than one decent pan and removes the risk entirely. Wood works just as well if you prefer it.
 
 **Stacking without protection.** The pan above yours has a hard steel rim, and that rim sits on your coating in the cupboard. A felt pan protector or a folded tea towel between pans stops the scratching. If your cabinet is a pile, our [pots and pans storage guide for small kitchens](/blog/store-pots-and-pans-in-a-small-kitchen/) has fixes that do not need a bigger kitchen.
 

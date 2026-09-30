@@ -195,7 +195,7 @@ Renters get stuck with whatever wiring exists, so planning around it beats fight
 
 Every number above is arithmetic on a rated figure. If you want the real one for your kitchen, measure it. It takes one cheap gadget and one meal.
 
-A plug-in energy meter sits between the outlet and the appliance and totals kilowatt-hours as they are used. The [P3 Kill A Watt](https://www.amazon.com/dp/B00009MDBU/?tag=kitchenpot-20) is the one most people buy, and [owner reviews](https://www.amazon.com/product-reviews/B00009MDBU/?tag=kitchenpot-20) show it is popular for precisely this kind of question.
+A plug-in energy meter sits between the outlet and the appliance and totals kilowatt-hours as they are used. The [P3 Kill A Watt](https://www.amazon.com/P3-Kill-A-Watt/dp/B00009MDBU/?tag=kitchenpot-20) is the one most people buy, and [owner reviews](https://www.amazon.com/P3-Kill-A-Watt/product-reviews/B00009MDBU/?tag=kitchenpot-20) show it is popular for precisely this kind of question.
 
 How to use it:
 
@@ -232,7 +232,7 @@ If you are choosing a pot and the wattage figure is part of the decision, size i
 | Five or more, or batch cooking | 8 quart | 1,200 W | Heavy, and takes real cupboard space |
 | Anyone who wants crisping too | 6 or 8 quart Duo Crisp | 1,500 W | Two lids to store, highest draw |
 
-The 6-quart is the default for good reason. Nearly every recipe online is written for it, and 1,000 watts is modest for what it does. The [Duo 6-quart](https://www.amazon.com/dp/B00FLYWNYQ/?tag=kitchenpot-20) remains the plain version of that, and the newer [Rio 6-quart](https://www.amazon.com/dp/B0B4PQDFCL/?tag=kitchenpot-20) carries the same 1,000-watt rating with an updated panel.
+The 6-quart is the default for good reason. Nearly every recipe online is written for it, and 1,000 watts is modest for what it does. The [Duo 6-quart](https://www.amazon.com/Instant-Pot-Duo-6-Qt-7-in-1/dp/B00FLYWNYQ/?tag=kitchenpot-20) remains the plain version of that, and the newer [Rio 6-quart](https://www.amazon.com/Instant-Pot-Rio-6-Qt-7-in-1/dp/B0B4PQDFCL/?tag=kitchenpot-20) carries the same 1,000-watt rating with an updated panel.
 
 Solo cooks are the real exception. If most meals are for one, the 3-quart at 700 watts heats faster and stores easier. It earns a spot in our guide to the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) for both reasons. Just check that your recipes scale down, since minimum liquid rules still apply. A small pot also frees a shelf, which helps if you are working through [a kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/).
 

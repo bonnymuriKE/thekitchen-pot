@@ -28,7 +28,7 @@ authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where 
 ---
 The joy that comes with fall/autumn is unrivaled. The warm weather and the spectacular sight of sunrise are incredibly refreshing. Considering that you’ve endured the long winter days, too much heat can lead to a little discomfort. 
 
-To enable you to enjoy your fall to the fullest, you should have cold refreshing tea! We recommend that you buy [Mr. **Coffee Iced Tea Maker**](https://www.amazon.com/Mr-Coffee-2-Quart-Iced-Maker/dp/B00005OTXI?tag=kitchenpot-20) for all your iced tea needs. 
+To enable you to enjoy your fall to the fullest, you should have cold refreshing tea! We recommend that you buy [Mr. **Coffee Iced Tea Maker**](https://www.amazon.com/Mr-Coffee-2-Quart-Iced-Maker/dp/B00005OTXI/?tag=kitchenpot-20) for all your iced tea needs. 
 
 If you’re wondering how to use **[Mr. Coffee Iced Tea Maker](https://www.amazon.com/Mr-Coffee-2-Quart-Maker-Black/dp/B07QKFZBLJ/?tag=kitchenpot-20)**, then this guide is for you. We’ve detailed everything that you need to know about this appliance before buying it. 
 

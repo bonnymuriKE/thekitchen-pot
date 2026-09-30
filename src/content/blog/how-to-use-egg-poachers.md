@@ -62,10 +62,10 @@ Beyond the poacher, you only need a few basics.
 
 | Item | Why you need it | Example |
 | --- | --- | --- |
-| Stovetop poacher pan | Poaching 2 to 6 eggs at once on the stove | [Eggssentials stainless steel poacher pan](https://www.amazon.com/dp/B078GXJQNN/?tag=kitchenpot-20) |
-| Silicone poaching cups | Turning any pan with a lid into a poacher | [Fusionbrands PoachPod](https://www.amazon.com/dp/B000P6FD3I/?tag=kitchenpot-20) |
-| Microwave egg poacher | One or two eggs with no stove | [Nordic Ware 2-cavity microwave egg poacher](https://www.amazon.com/dp/B00004W4UR/?tag=kitchenpot-20) |
-| Electric egg cooker | Hands-free poaching with auto shut-off | [Dash Rapid Egg Cooker](https://www.amazon.com/dp/B00DDXYC6O/?tag=kitchenpot-20) |
+| Stovetop poacher pan | Poaching 2 to 6 eggs at once on the stove | [Eggssentials stainless steel poacher pan](https://www.amazon.com/Eggssentials-stainless-steel-poacher-pan/dp/B078GXJQNN/?tag=kitchenpot-20) |
+| Silicone poaching cups | Turning any pan with a lid into a poacher | [Fusionbrands PoachPod](https://www.amazon.com/Fusionbrands-PoachPod/dp/B000P6FD3I/?tag=kitchenpot-20) |
+| Microwave egg poacher | One or two eggs with no stove | [Nordic Ware 2-cavity microwave egg poacher](https://www.amazon.com/Nordic-Ware-2-cavity-microwave-egg-poacher/dp/B00004W4UR/?tag=kitchenpot-20) |
+| Electric egg cooker | Hands-free poaching with auto shut-off | [Dash Rapid Egg Cooker](https://www.amazon.com/Dash-Rapid-Egg-Cooker/dp/B00DDXYC6O/?tag=kitchenpot-20) |
 | Butter, oil or nonstick spray | Greasing the cups so eggs release | Any neutral oil works |
 | Small silicone spatula or spoon | Loosening and sliding out eggs | A thin one fits the cup edge best |
 | Timer | Consistent yolks every time | Your phone is fine |

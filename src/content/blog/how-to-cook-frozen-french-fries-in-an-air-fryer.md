@@ -47,13 +47,13 @@ You don't need much. Frozen fries are already par-fried at the factory, so the a
 
 | Item | Why you need it | Notes |
 | --- | --- | --- |
-| Basket air fryer | Circulates hot air around the fries | A small one like the [Dash Tasti-Crisp 2.6 qt](https://www.amazon.com/dp/B0815KJCM1/?tag=kitchenpot-20) handles one or two servings |
+| Basket air fryer | Circulates hot air around the fries | A small one like the [Dash Tasti-Crisp 2.6 qt](https://www.amazon.com/Dash-Tasti-Crisp-2-6-quart/dp/B0815KJCM1/?tag=kitchenpot-20) handles one or two servings |
 | Bag of frozen fries | The main event | Any brand or cut works; check the bag for its own air fryer directions |
 | Tongs or a heat-safe spatula | Tossing fries or checking doneness | Metal tongs can scratch nonstick baskets, so use silicone-tipped ones |
-| Oil mister (optional) | A light coat for extra color or to help seasoning stick | A refillable pump like the [Evo mini oil sprayer](https://www.amazon.com/dp/B082DJLZG1/?tag=kitchenpot-20) avoids the residue of aerosol sprays |
+| Oil mister (optional) | A light coat for extra color or to help seasoning stick | A refillable pump like the [Evo mini oil sprayer](https://www.amazon.com/Evo-mini-oil-sprayer/dp/B082DJLZG1/?tag=kitchenpot-20) avoids the residue of aerosol sprays |
 | Salt and seasonings | Flavor right after cooking | Season while the fries are hot so it sticks |
 
-If you're still shopping for an air fryer, our guide to the [best air fryers under $100](/blog/best-air-fryers-under-100/) covers solid basket models at every size. A 4-quart model like the [Ninja AF101](https://www.amazon.com/dp/B07FDJMC9Q/?tag=kitchenpot-20) is a common middle ground: big enough for fries for two or three, small enough to live on a crowded counter.
+If you're still shopping for an air fryer, our guide to the [best air fryers under $100](/blog/best-air-fryers-under-100/) covers solid basket models at every size. A 4-quart model like the [Ninja AF101](https://www.amazon.com/Ninja-Air-Fryer-AF101-4-quart/dp/B07FDJMC9Q/?tag=kitchenpot-20) is a common middle ground: big enough for fries for two or three, small enough to live on a crowded counter.
 
 ## How to Cook Frozen French Fries in an Air Fryer, Step by Step
 

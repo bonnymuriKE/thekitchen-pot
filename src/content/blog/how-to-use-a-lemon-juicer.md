@@ -47,11 +47,11 @@ This guide covers how to use a lemon juicer of every common type, from the yello
 
 | Type | How it works | Best for | Example |
 | --- | --- | --- | --- |
-| Handheld squeezer (press) | Two hinged cups crush a lemon half | Everyday lemons and limes, cocktails | [Chef'n FreshForce](https://www.amazon.com/dp/B002XOB0P0/?tag=kitchenpot-20) |
-| Handheld wooden reamer | Ridged cone you twist into the fruit | A lemon or two, small drawers | [OXO Good Grips Wooden Reamer](https://www.amazon.com/dp/B0007VO0DA/?tag=kitchenpot-20) |
-| Reamer with cup | Ridged cone over a strainer and measuring cup | Measuring juice for recipes | [OXO Good Grips Small Citrus Juicer](https://www.amazon.com/dp/B01B7HSI76/?tag=kitchenpot-20) |
-| Lever citrus press | Countertop press with a long handle | Big batches, lemonade, bars | [Zulay Kitchen Cast Iron Juicer](https://www.amazon.com/dp/B07D5KRQL7/?tag=kitchenpot-20) |
-| Electric citrus juicer | Motorized cone spins as you press | Lots of citrus, including oranges and grapefruit | [BLACK+DECKER CJ625](https://www.amazon.com/dp/B001EU9VSM/?tag=kitchenpot-20) |
+| Handheld squeezer (press) | Two hinged cups crush a lemon half | Everyday lemons and limes, cocktails | [Chef'n FreshForce](https://www.amazon.com/Chefn-FreshForce/dp/B002XOB0P0/?tag=kitchenpot-20) |
+| Handheld wooden reamer | Ridged cone you twist into the fruit | A lemon or two, small drawers | [OXO Good Grips Wooden Reamer](https://www.amazon.com/OXO-Good-Grips-Wooden-Reamer/dp/B0007VO0DA/?tag=kitchenpot-20) |
+| Reamer with cup | Ridged cone over a strainer and measuring cup | Measuring juice for recipes | [OXO Good Grips Small Citrus Juicer](https://www.amazon.com/OXO-Good-Grips-Small-Citrus-Juicer/dp/B01B7HSI76/?tag=kitchenpot-20) |
+| Lever citrus press | Countertop press with a long handle | Big batches, lemonade, bars | [Zulay Kitchen Cast Iron Juicer](https://www.amazon.com/Zulay-Kitchen-Cast-Iron-Juicer/dp/B07D5KRQL7/?tag=kitchenpot-20) |
+| Electric citrus juicer | Motorized cone spins as you press | Lots of citrus, including oranges and grapefruit | [BLACK+DECKER CJ625](https://www.amazon.com/BLACK-DECKER-CJ625/dp/B001EU9VSM/?tag=kitchenpot-20) |
 
 If you're thinking of a machine that juices carrots, apples and greens too, that's a different category. Our guides to the [best juicers](/blog/top-5-best-juicers/) and [commercial masticating juicers](/blog/best-commercial-masticating-juicer/) cover those, and pressed apples are their own story in our look at the [difference between apple juice and apple cider](/blog/difference-between-apple-juice-and-apple-cider/).
 
@@ -113,7 +113,7 @@ This is the smallest and cheapest option, and it lives happily in a utensil draw
 3. Twist the fruit back and forth while pressing down. The strainer catches seeds and the cup below collects the juice.
 4. Check the measurement marks on the cup, then pour.
 
-Juicers like the [OXO Good Grips 2-in-1 Citrus Juicer](https://www.amazon.com/dp/B07PY5HP46/?tag=kitchenpot-20) come with two cones, one for lemons and limes and one for oranges. Consumer Reports picked it as the most versatile squeezer and found it produced the most juice of the models it tested. The small OXO version has a 2.5-ounce cup that's handy for measuring juice straight into cocktails or dressings.
+Juicers like the [OXO Good Grips 2-in-1 Citrus Juicer](https://www.amazon.com/OXO-Good-Grips-2-in-1-Citrus-Juicer/dp/B07PY5HP46/?tag=kitchenpot-20) come with two cones, one for lemons and limes and one for oranges. Consumer Reports picked it as the most versatile squeezer and found it produced the most juice of the models it tested. The small OXO version has a 2.5-ounce cup that's handy for measuring juice straight into cocktails or dressings.
 
 ## How to Use a Lever Citrus Press
 
@@ -200,7 +200,7 @@ Electric juicers usually have dishwasher-safe removable parts, but the motor bas
 Squeezed more than you need? It keeps.
 
 - **Fridge:** About 2 to 3 days in a sealed glass or plastic container, according to StillTasty.
-- **Freezer:** Pour juice into an ice cube tray or a small silicone mold, like [Souper Cubes 2 Tbsp trays](https://www.amazon.com/dp/B0C3GV3QFX/?tag=kitchenpot-20), freeze, then move the cubes to a freezer bag. It keeps its best quality for about 3 to 4 months. Leave a little headspace in any container, since liquid expands as it freezes.
+- **Freezer:** Pour juice into an ice cube tray or a small silicone mold, like [Souper Cubes 2 Tbsp trays](https://www.amazon.com/Souper-Cubes-2-Tbsp-trays/dp/B0C3GV3QFX/?tag=kitchenpot-20), freeze, then move the cubes to a freezer bag. It keeps its best quality for about 3 to 4 months. Leave a little headspace in any container, since liquid expands as it freezes.
 
 Measured frozen portions make it easy to drop exactly what you need into a recipe. A set of [airtight food storage containers](/blog/best-airtight-food-storage-containers/) is handy for keeping the fridge juice fresh and the frozen cubes from picking up odors.
 

@@ -34,7 +34,7 @@ However, you’ve unlikely experienced the goodness of cast iron cooking until y
 
 This skillet is special, but very expensive! A used one will set you back more than $600! But, it will be worth it. Here is a comprehensive Griswold cast iron skillet review. Is it better than modern cast iron skillets? Let’s find out. 
 
-## [Griswold Cast Iron Skillet Review](https://www.amazon.com/Vintage-Griswold-Cast-Skillet-description/dp/B000NG5KLK?tag=kitchenpot-20) Overview
+## [Griswold Cast Iron Skillet Review](https://www.amazon.com/Vintage-Griswold-Cast-Skillet-description/dp/B000NG5KLK/?tag=kitchenpot-20) Overview
 
 Features
 
@@ -43,7 +43,7 @@ Features
 * Quite smooth
 * Classy construction
 
-[Check Latest Price Here](https://www.amazon.com/Vintage-Griswold-Cast-Skillet-description/dp/B000NG5KLK?tag=kitchenpot-20)
+[Check Latest Price Here](https://www.amazon.com/Vintage-Griswold-Cast-Skillet-description/dp/B000NG5KLK/?tag=kitchenpot-20)
 
 ## Griswold History
 
@@ -96,7 +96,7 @@ Griswold cast iron skillets were completed to perfection. They have fewer rough 
 
 However, cast iron is generally a poor conductor of heat. As such, thicker cast iron skillets will retain heat and enhance your cooking experience.
 
-If I’m to compare **[Lodge](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Skillet-Silicone/dp/B00G2XGC88?tag=kitchenpot-20)** and Griswold skillets’ performance, I will go with the Lodge. It is thicker than the Griswold skillet, thus improving heat retention and reducing hot spots.
+If I’m to compare **[Lodge](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Skillet-Silicone/dp/B00G2XGC88/?tag=kitchenpot-20)** and Griswold skillets’ performance, I will go with the Lodge. It is thicker than the Griswold skillet, thus improving heat retention and reducing hot spots.
 
 Investing in Griswold is still an excellent idea since it has a sense of nobility due to its rarity. Before you splash the thousands of dollars into the skillet, make sure that you understand the benefits and the disadvantages (as detailed herein).
 

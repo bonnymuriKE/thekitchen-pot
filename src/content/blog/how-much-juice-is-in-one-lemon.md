@@ -121,7 +121,7 @@ The lemon juicers can either be electric or manual. While electric ones are more
 * 2 reamers with nested storage for large and small citrus fruit with pulp control dial
 * Dishwasher safe parts
 
-[Check Latest Price on Amazon](https://www.amazon.com/Proctor-Silex-66331-Lemonade-Citrus/dp/B008BBCZ3K?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Proctor-Silex-66331-Lemonade-Citrus/dp/B008BBCZ3K/?tag=kitchenpot-20)
 
 **4. BLACK+DECKER 32oz Citrus Juicer, White, CJ650W,Small**
 
@@ -133,7 +133,7 @@ The lemon juicers can either be electric or manual. While electric ones are more
 * Easy-to-Read Measurement – Markings on the juice container makes juicing for recipes easy
 * Drip-Free Pour Spout – The container doubles as a pitcher, complete with handle and spout
 
-[Check Latest Price on Amazon](https://www.amazon.com/BLACK-DECKER-Citrus-Juicer-CJ650W/dp/B01M9J34LL?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/BLACK-DECKER-Citrus-Juicer-CJ650W/dp/B01M9J34LL/?tag=kitchenpot-20)
 
 ## **How to Use Lemon Juice**
 

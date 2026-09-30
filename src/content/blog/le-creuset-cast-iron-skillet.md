@@ -52,11 +52,11 @@ That table is the whole argument in miniature. What follows is the detail behind
 
 ## Our Picks at a Glance
 
-- **The size most people should buy:** [Le Creuset Signature Round Skillet, 10.25 Inch](https://www.amazon.com/dp/B01N0Z8AIZ/?tag=kitchenpot-20)
-- **Best for feeding four:** [Le Creuset Signature Round Skillet, 11.75 Inch](https://www.amazon.com/dp/B00B4UOTBQ/?tag=kitchenpot-20)
-- **Best matte-enamel alternative:** [Staub 10-Inch Cast Iron Fry Pan](https://www.amazon.com/dp/B007ZIGOYG/?tag=kitchenpot-20)
-- **Best budget enameled skillet:** [Tramontina Bestow 10-Inch Enameled Cast Iron Skillet](https://www.amazon.com/dp/B009HBJRJ8/?tag=kitchenpot-20)
-- **Best bare-iron alternative:** [Lancaster No. 10 Cast Iron Skillet](https://www.amazon.com/dp/B0BDMZYXMW/?tag=kitchenpot-20)
+- **The size most people should buy:** [Le Creuset Signature Round Skillet, 10.25 Inch](https://www.amazon.com/Le-Creuset-Signature-Round-Skillet-10-25-Inch/dp/B01N0Z8AIZ/?tag=kitchenpot-20)
+- **Best for feeding four:** [Le Creuset Signature Round Skillet, 11.75 Inch](https://www.amazon.com/Le-Creuset-Signature-Round-Skillet-11-75-Inch/dp/B00B4UOTBQ/?tag=kitchenpot-20)
+- **Best matte-enamel alternative:** [Staub 10-Inch Cast Iron Fry Pan](https://www.amazon.com/Staub-10-Inch-Cast-Iron-Fry-Pan/dp/B007ZIGOYG/?tag=kitchenpot-20)
+- **Best budget enameled skillet:** [Tramontina Bestow 10-Inch Enameled Cast Iron Skillet](https://www.amazon.com/Tramontina-Bestow-10-Inch-Enameled-Cast-Iron-Skillet/dp/B009HBJRJ8/?tag=kitchenpot-20)
+- **Best bare-iron alternative:** [Lancaster No. 10 Cast Iron Skillet](https://www.amazon.com/Lancaster-No-10-Cast-Iron-Skillet/dp/B0BDMZYXMW/?tag=kitchenpot-20)
 
 ## How These Skillets Compare
 
@@ -105,7 +105,7 @@ Where it earns the money is everything bare iron makes awkward. Deglaze with win
 
 **Who should buy it:** Cooks who want cast iron heat retention with none of the upkeep, people who braise and make pan sauces more than they hard-sear, and anyone who wants cookware that goes to the table. If you are furnishing a compact kitchen and this will be one of very few pans, check it against the sizing advice in [cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01N0Z8AIZ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Le-Creuset-Signature-Round-Skillet-10-25-Inch/dp/B01N0Z8AIZ/?tag=kitchenpot-20)
 
 ## 2. Le Creuset Signature Round Skillet, 11.75 Inch: Best for Feeding Four
 
@@ -134,7 +134,7 @@ It is also the size that struggles on apartment ranges. A 12-inch base on a smal
 
 **Who should buy it:** Families of four or more, cooks who already own a 10-inch pan, and anyone who hates cooking in batches.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00B4UOTBQ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Le-Creuset-Signature-Round-Skillet-11-75-Inch/dp/B00B4UOTBQ/?tag=kitchenpot-20)
 
 ## 3. Staub 10-Inch Cast Iron Fry Pan: Best Matte Enamel Alternative
 
@@ -164,7 +164,7 @@ The trade-off is cleaning. Textured matte enamel holds residue in a way glossy e
 
 **Who should buy it:** Cooks who bought cast iron for searing and do not want to maintain seasoning. Pair it with a proper thin-edged turner from our [metal spatula set roundup](/blog/best-metal-spatula-set/) and treat the enamel gently.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B007ZIGOYG/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Staub-10-Inch-Cast-Iron-Fry-Pan/dp/B007ZIGOYG/?tag=kitchenpot-20)
 
 ## 4. Tramontina Bestow 10-Inch Enameled Cast Iron Skillet: Best Budget Enameled Pan
 
@@ -194,7 +194,7 @@ Treat this as the sensible way to find out whether you actually like cooking on 
 
 **Who should buy it:** Anyone curious about enameled cast iron who does not want to spend $200 to find out. Also a reasonable pick for a first apartment, alongside the basics in [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B009HBJRJ8/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Tramontina-Bestow-10-Inch-Enameled-Cast-Iron-Skillet/dp/B009HBJRJ8/?tag=kitchenpot-20)
 
 ## 5. Lancaster No. 10 Cast Iron Skillet: Best Bare Iron Alternative
 
@@ -226,7 +226,7 @@ What you take on is maintenance. Grapeseed seasoning still needs feeding, the pa
 
 **Who should buy it:** Cooks who sear hard, cook outdoors, or want a pan with no real failure mode beyond neglect. If cast iron is heading onto a glass cooktop, read [how to protect a glass top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/) first.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BDMZYXMW/?tag=kitchenpot-20) [Check Price at Lancaster Cast Iron](https://www.awin1.com/cread.php?awinmid=95395&awinaffid=1956629&clickref=le-creuset-cast-iron-skillet&ued=https%3A%2F%2Flancastercastiron.com%2Fproducts%2Flancaster-no-10-cast-iron-skillet)
+[Check Price on Amazon](https://www.amazon.com/Lancaster-No-10-Cast-Iron-Skillet/dp/B0BDMZYXMW/?tag=kitchenpot-20) [Check Price at Lancaster Cast Iron](https://www.awin1.com/cread.php?awinmid=95395&awinaffid=1956629&clickref=le-creuset-cast-iron-skillet&ued=https%3A%2F%2Flancastercastiron.com%2Fproducts%2Flancaster-no-10-cast-iron-skillet)
 
 ## What Le Creuset Enamel Actually Is
 
@@ -292,7 +292,7 @@ There is no wrong answer in that table, only a wrong reason. Buying Le Creuset t
 
 For most kitchens, a Le Creuset skillet is a second cast iron pan rather than a first one. Start with cheap seasoned iron, find out whether you reach for it, and buy the enamel later for the jobs bare iron does badly: pan sauces, braises, anything with tomatoes or wine, and anything going to the table.
 
-If you already know you will never keep up with seasoning, skip that step and buy the [10.25-inch Signature skillet](https://www.amazon.com/dp/B01N0Z8AIZ/?tag=kitchenpot-20) now. It is the size that fits the most stoves and the most households, and it will still be in your kitchen in thirty years.
+If you already know you will never keep up with seasoning, skip that step and buy the [10.25-inch Signature skillet](https://www.amazon.com/Le-Creuset-Signature-Round-Skillet-10-25-Inch/dp/B01N0Z8AIZ/?tag=kitchenpot-20) now. It is the size that fits the most stoves and the most households, and it will still be in your kitchen in thirty years.
 
 And if the honest answer is that you mostly cook eggs and reheat leftovers, neither pan is the right purchase. A lighter coated pan from our [nonstick pan buying guide](/blog/best-nonstick-pans-with-buying-guide/) will make you happier for a fifth of the money, and the space savings help in the kinds of kitchens covered by [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 

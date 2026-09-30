@@ -177,7 +177,7 @@ Bad cleaning creates more scratches than bad cooking does.
 
 The routine is short. Wait for the glass to cool. Squeeze a little cream cooktop cleaner on, spread it with a paper towel or the soft pad made for it, then buff off the residue with a dry cloth. Never heat the cooktop while cream cleaner is still on it.
 
-For baked-on rings, a cooktop razor scraper held at a shallow angle lifts residue the cleaner cannot. Keep the blade flat, keep it moving, and stop as soon as the residue is gone. A [Cerama Bryte cooktop cleaning kit](https://www.amazon.com/dp/B000MIWRTM/?tag=kitchenpot-20) pairs the cream with a scraper and pads in one box, which is the combination cooktop manuals usually describe. Owner reviews for these kits consistently note that the scraper does more work than the cream on burnt rings, so do not skip it. You can browse [what buyers say](https://www.amazon.com/product-reviews/B000MIWRTM/?tag=kitchenpot-20) before choosing a size.
+For baked-on rings, a cooktop razor scraper held at a shallow angle lifts residue the cleaner cannot. Keep the blade flat, keep it moving, and stop as soon as the residue is gone. A [Cerama Bryte cooktop cleaning kit](https://www.amazon.com/Cerama-Bryte-cooktop-cleaning-kit/dp/B000MIWRTM/?tag=kitchenpot-20) pairs the cream with a scraper and pads in one box, which is the combination cooktop manuals usually describe. Owner reviews for these kits consistently note that the scraper does more work than the cream on burnt rings, so do not skip it. You can browse [what buyers say](https://www.amazon.com/Cerama-Bryte-cooktop-cleaning-kit/product-reviews/B000MIWRTM/?tag=kitchenpot-20) before choosing a size.
 
 Keep these away from the glass:
 
@@ -207,9 +207,9 @@ If you cook on glass often, the single best purchase is not an accessory. It is 
 
 Thin-wall cast iron has come back in a serious way. Less mass means less force in a slip, less time to preheat and an easier lift with one hand. The heat retention you lose matters mostly for searing steak, and most weeknight cooking does not need it.
 
-The [Lancaster No. 8 skillet](https://www.amazon.com/dp/B097QC2WBY/?tag=kitchenpot-20) is one example. It measures 10.5 inches across the top and weighs about 4 pounds, with a polished smooth cooking surface rather than a sand-cast one. Lodge's Blacklock line works the same way. Its [10.25-inch lightweight skillet](https://www.amazon.com/dp/B085VZPR2Y/?tag=kitchenpot-20) is cast thin on purpose, and the 7-inch version in the same range is listed at 1.82 pounds.
+The [Lancaster No. 8 skillet](https://www.amazon.com/Lancaster-No-8-Cast-Iron-Skillet/dp/B097QC2WBY/?tag=kitchenpot-20) is one example. It measures 10.5 inches across the top and weighs about 4 pounds, with a polished smooth cooking surface rather than a sand-cast one. Lodge's Blacklock line works the same way. Its [10.25-inch lightweight skillet](https://www.amazon.com/10-25-inch-lightweight-skillet/dp/B085VZPR2Y/?tag=kitchenpot-20) is cast thin on purpose, and the 7-inch version in the same range is listed at 1.82 pounds.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B097QC2WBY/?tag=kitchenpot-20) [Check Price at Lancaster Cast Iron](https://www.awin1.com/cread.php?awinmid=95395&awinaffid=1956629&clickref=how-to-protect-glass-top-stove-from-cast-iron&ued=https%3A%2F%2Flancastercastiron.com%2Fproducts%2Flancaster-cast-iron-skillet)
+[Check Price on Amazon](https://www.amazon.com/Lancaster-No-8-Cast-Iron-Skillet/dp/B097QC2WBY/?tag=kitchenpot-20) [Check Price at Lancaster Cast Iron](https://www.awin1.com/cread.php?awinmid=95395&awinaffid=1956629&clickref=how-to-protect-glass-top-stove-from-cast-iron&ued=https%3A%2F%2Flancastercastiron.com%2Fproducts%2Flancaster-cast-iron-skillet)
 
 A heavy pan is still fine on glass if you handle it well. Our [Lodge skillet review](/blog/lodge-cast-iron-skillet-review/) covers the classic version, which is thicker and rougher out of the box. Just plan on the fingernail test and a little sanding before it meets your cooktop.
 

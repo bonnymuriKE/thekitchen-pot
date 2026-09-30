@@ -91,7 +91,7 @@ Any of the three works. What you need is a stable seat that holds the basket cle
 
 A wok is the traditional answer because its curve grips the basket and its thin walls heat fast. If you cook on a flat electric or induction hob, a flat-bottomed wok is the version you want, and our [guide to woks for electric stoves](/blog/best-wok-for-electric-stove/) covers the shapes that sit flat.
 
-No wok? A [deep sauté pan](/blog/best-saute-pan/) with straight sides does the job for a 10-inch basket. If the fit is loose, a steamer ring solves it. Kits like the [Prime Home Direct 10-inch steamer with a stainless steel ring adapter](https://www.amazon.com/dp/B0DTJHWFPF/?tag=kitchenpot-20) include that collar in the box. It is the cheapest way to make a bamboo basket work over a pot you already own.
+No wok? A [deep sauté pan](/blog/best-saute-pan/) with straight sides does the job for a 10-inch basket. If the fit is loose, a steamer ring solves it. Kits like the [Prime Home Direct 10-inch steamer with a stainless steel ring adapter](https://www.amazon.com/Prime-Home-Direct-10-inch-steamer-with-a-stainless/dp/B0DTJHWFPF/?tag=kitchenpot-20) include that collar in the box. It is the cheapest way to make a bamboo basket work over a pot you already own.
 
 One more option people forget: a pressure cooker insert. If you already steam with a [steamer basket in an Instant Pot](/blog/best-steamer-basket-for-instant-pot/), bamboo gives you the gentler, drier result that metal cannot.
 
@@ -109,7 +109,7 @@ Lining fixes that, but only if the liner lets steam through. This is where a lot
 | Solid parchment or foil | No | No | Not recommended on its own |
 | Heatproof plate or shallow bowl | Around the edges only | Yes | Saucy dishes, whole fish |
 
-**Perforated parchment is the default for a reason.** The holes keep steam moving up into the food while the paper keeps the wrapper off the wood. Solid parchment blocks that airflow, so the bottom of a dumpling ends up pale and gummy while the top is done. Pre-cut rounds like these [perforated bamboo steamer liners](https://www.amazon.com/dp/B0BNL46S1T/?tag=kitchenpot-20) cost a few cents each and save you cutting circles out of a roll.
+**Perforated parchment is the default for a reason.** The holes keep steam moving up into the food while the paper keeps the wrapper off the wood. Solid parchment blocks that airflow, so the bottom of a dumpling ends up pale and gummy while the top is done. Pre-cut rounds like these [perforated bamboo steamer liners](https://www.amazon.com/perforated-bamboo-steamer-liners/dp/B0BNL46S1T/?tag=kitchenpot-20) cost a few cents each and save you cutting circles out of a roll.
 
 **Cabbage leaves are the free version, and they are better for fish.** A leaf sits between the fillet and the bamboo, so the oils never reach the wood. That is the single best thing you can do to stop your steamer smelling of last week's salmon.
 
@@ -224,7 +224,7 @@ Try it for reheating. Steamed leftover rice comes back soft instead of dried out
 
 Glutinous rice is the slowest thing on the list, and it needs a long soak before it ever meets steam. If plain rice is what you want, a [rice cooker handles brown rice](/blog/how-to-cook-rice-in-a-rice-cooker/) with far less watching. It handles eggs well too. Set them in a shallow dish and you get silky steamed custard, or steam them in the shell for a result close to what you get from [egg poachers](/blog/how-to-use-egg-poachers/). Sticky rice, corn on the cob, tofu, and delicate fish like sole all suit it. Steamed greens and noodles also make a good side for a stir-fried main, which is where the difference between [lo mein and chow mein](/blog/lo-mein-vs-chow-mein/) starts to matter. A [sushi making kit](/blog/best-sushi-making-kit/) pairs with it well, since both lean on the same short-grain rice.
 
-Because it needs no oil, steaming is also one of the gentler cooking methods on your energy bill. The pan only has to hold a simmer, not a hard boil, which lines up with the advice in [how to choose energy-efficient cookware for a small kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/). A classic two-tier basket like the [Joyce Chen 10-inch bamboo steamer](https://www.amazon.com/dp/B0001VQIYU/?tag=kitchenpot-20) stores flat and costs less than most single pans.
+Because it needs no oil, steaming is also one of the gentler cooking methods on your energy bill. The pan only has to hold a simmer, not a hard boil, which lines up with the advice in [how to choose energy-efficient cookware for a small kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/). A classic two-tier basket like the [Joyce Chen 10-inch bamboo steamer](https://www.amazon.com/Joyce-Chen-10-inch-bamboo-steamer/dp/B0001VQIYU/?tag=kitchenpot-20) stores flat and costs less than most single pans.
 
 And if you are building out a small kitchen from scratch, it belongs on the shortlist alongside the basics in [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 

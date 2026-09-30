@@ -39,13 +39,13 @@ Ninja no longer sells the Foodi multicooker that made this comparison famous. In
 
 So the real choice has shifted. It is no longer hinged lid versus two loose lids. It is now pressure cooking with crisping, or pressure cooking without it.
 
-**The short version:** Buy the [Instant Pot Duo Crisp Ultimate 6.5QT](https://www.amazon.com/dp/B0B1G5M31V/?tag=kitchenpot-20) if you want one pot that pressure cooks and air fries. One lid handles both jobs, and Instant Pot still lists it for sale at $219.99. If you only ever pressure cook, the [Ninja HyperHeat PC201](https://www.amazon.com/dp/B0FJ9YL548/?tag=kitchenpot-20) is cheaper, smaller and does that job well, but it does not crisp at all. The buying rule: decide whether you truly want browning in the same pot, because that single question now splits these two brands cleanly.
+**The short version:** Buy the [Instant Pot Duo Crisp Ultimate 6.5QT](https://www.amazon.com/Instant-Pot-Duo-Crisp-Ultimate-6-5QT/dp/B0B1G5M31V/?tag=kitchenpot-20) if you want one pot that pressure cooks and air fries. One lid handles both jobs, and Instant Pot still lists it for sale at $219.99. If you only ever pressure cook, the [Ninja HyperHeat PC201](https://www.amazon.com/Ninja-HyperHeat-9-in-1-6-5QT/dp/B0FJ9YL548/?tag=kitchenpot-20) is cheaper, smaller and does that job well, but it does not crisp at all. The buying rule: decide whether you truly want browning in the same pot, because that single question now splits these two brands cleanly.
 
 ## Our Picks at a Glance
 
-- **Best overall for pressure cooking and air frying:** [Instant Pot Duo Crisp Ultimate 6.5QT](https://www.amazon.com/dp/B0B1G5M31V/?tag=kitchenpot-20)
-- **Best for big batches:** [Instant Pot Duo Crisp + Air Fryer 8QT](https://www.amazon.com/dp/B07VT23JDM/?tag=kitchenpot-20)
-- **Best current Ninja pressure cooker:** [Ninja HyperHeat 9-in-1 6.5QT](https://www.amazon.com/dp/B0FJ9YL548/?tag=kitchenpot-20)
+- **Best overall for pressure cooking and air frying:** [Instant Pot Duo Crisp Ultimate 6.5QT](https://www.amazon.com/Instant-Pot-Duo-Crisp-Ultimate-6-5QT/dp/B0B1G5M31V/?tag=kitchenpot-20)
+- **Best for big batches:** [Instant Pot Duo Crisp + Air Fryer 8QT](https://www.amazon.com/Instant-Pot-Duo-Crisp-Air-Fryer-8QT/dp/B07VT23JDM/?tag=kitchenpot-20)
+- **Best current Ninja pressure cooker:** [Ninja HyperHeat 9-in-1 6.5QT](https://www.amazon.com/Ninja-HyperHeat-9-in-1-6-5QT/dp/B0FJ9YL548/?tag=kitchenpot-20)
 
 ## How the Three Compare
 
@@ -60,7 +60,7 @@ So the real choice has shifted. It is no longer hinged lid versus two loose lids
 
 Prices move with sales, so treat those as list prices rather than what you will pay. The rest of this guide explains why each one lands where it does. New to this whole category? Start with [our explainer on what an Instant Pot is](/blog/what-is-an-instant-pot/), then come back.
 
-## 1. [Instant Pot Duo Crisp Ultimate 6.5QT](https://www.amazon.com/dp/B0B1G5M31V/?tag=kitchenpot-20): Best One-Lid Multicooker
+## 1. [Instant Pot Duo Crisp Ultimate 6.5QT](https://www.amazon.com/Instant-Pot-Duo-Crisp-Ultimate-6-5QT/dp/B0B1G5M31V/?tag=kitchenpot-20): Best One-Lid Multicooker
 
 - **Type:** Electric pressure cooker with built-in air frying
 - **Key specs:** 6.5 quarts, 1,500 watts, 13 functions
@@ -91,9 +91,9 @@ At 6.5 quarts it suits one to four people. That is the size most solo cooks land
 
 **Who should buy it:** Anyone who wants one appliance to replace a pressure cooker and an air fryer, and who has the counter height for it. It is also the safer long-term buy of the three, since it is the model Instant Pot is actively selling.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0B1G5M31V/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Instant-Pot-Duo-Crisp-Ultimate-6-5QT/dp/B0B1G5M31V/?tag=kitchenpot-20)
 
-## 2. [Instant Pot Duo Crisp + Air Fryer 8QT](https://www.amazon.com/dp/B07VT23JDM/?tag=kitchenpot-20): Best for Big Batches
+## 2. [Instant Pot Duo Crisp + Air Fryer 8QT](https://www.amazon.com/Instant-Pot-Duo-Crisp-Air-Fryer-8QT/dp/B07VT23JDM/?tag=kitchenpot-20): Best for Big Batches
 
 - **Type:** Electric pressure cooker with a separate air fryer lid
 - **Key specs:** 8 quarts, 1,500 watts, 11 functions
@@ -124,9 +124,9 @@ Eight quarts is a lot of pot. It fits a whole chicken, a full batch of chili or 
 
 **Who should buy it:** Cooks feeding a family or filling a freezer. Skip it if your counter is already crowded, because the spare lid is the part people regret.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07VT23JDM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Instant-Pot-Duo-Crisp-Air-Fryer-8QT/dp/B07VT23JDM/?tag=kitchenpot-20)
 
-## 3. [Ninja HyperHeat 9-in-1 6.5QT](https://www.amazon.com/dp/B0FJ9YL548/?tag=kitchenpot-20): Best Current Ninja Pressure Cooker
+## 3. [Ninja HyperHeat 9-in-1 6.5QT](https://www.amazon.com/Ninja-HyperHeat-9-in-1-6-5QT/dp/B0FJ9YL548/?tag=kitchenpot-20): Best Current Ninja Pressure Cooker
 
 - **Type:** Electric pressure cooker, no air frying
 - **Key specs:** 6.5 quarts, 1,200 watts, 9 functions
@@ -157,7 +157,7 @@ At 1,200 watts it is the least powerful of the three. In practice that shows up 
 
 **Who should buy it:** Anyone who wanted a pressure cooker and never cared about the crisping lid. It is the best value here if browning happens in a [saute pan](/blog/best-saute-pan/) anyway.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0FJ9YL548/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-HyperHeat-9-in-1-6-5QT/dp/B0FJ9YL548/?tag=kitchenpot-20)
 
 ## What Happened to the Ninja Foodi Crisping Lid?
 

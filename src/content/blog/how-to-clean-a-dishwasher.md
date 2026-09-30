@@ -148,7 +148,7 @@ Bleach has a second problem. Samsung's [dishwasher cleaning guidance](https://ww
 
 A purpose-made dishwasher cleaner is stronger than vinegar because it carries several active ingredients at once. Affresh tablets, for example, combine sodium carbonate to cut grease, plus citric acid and sodium bisulfate to attack limescale. That covers both jobs in one cycle.
 
-You drop one in the empty tub and run a hot cycle, so there is nothing to measure or balance. A six-tablet box works out to six months of monthly cleaning. [Affresh dishwasher cleaner tablets](https://www.amazon.com/dp/B002R0DXQE/?tag=kitchenpot-20) are the version appliance brands name most often. A pattern in owner reviews is that they help most with odor and hard water buildup. They do less for visible food debris, which is the filter's job. You can read [what buyers report](https://www.amazon.com/product-reviews/B002R0DXQE/?tag=kitchenpot-20) and decide for yourself.
+You drop one in the empty tub and run a hot cycle, so there is nothing to measure or balance. A six-tablet box works out to six months of monthly cleaning. [Affresh dishwasher cleaner tablets](https://www.amazon.com/Affresh-dishwasher-cleaner-tablets/dp/B002R0DXQE/?tag=kitchenpot-20) are the version appliance brands name most often. A pattern in owner reviews is that they help most with odor and hard water buildup. They do less for visible food debris, which is the filter's job. You can read [what buyers report](https://www.amazon.com/Affresh-dishwasher-cleaner-tablets/product-reviews/B002R0DXQE/?tag=kitchenpot-20) and decide for yourself.
 
 If your water is soft and your filter is clean, vinegar is enough. If you have hard water, a tablet does more per cycle.
 
@@ -169,8 +169,8 @@ Your local water utility publishes an annual report with your hardness number. L
 
 Here is what actually helps, in the order worth trying:
 
-- **Fill the rinse aid reservoir.** Rinse aid lowers the surface tension of water so it sheets off instead of sitting in droplets. Fewer droplets means fewer spots. This is the cheapest fix and the most overlooked. A bottle of [Finish Jet-Dry rinse aid](https://www.amazon.com/dp/B00824TD86/?tag=kitchenpot-20) lasts months.
-- **Add a citric acid booster.** [Lemi Shine detergent booster](https://www.amazon.com/dp/B00KOC6KEE/?tag=kitchenpot-20) goes in the pre-wash cup alongside your normal detergent. Citric acid grabs the calcium before it can deposit.
+- **Fill the rinse aid reservoir.** Rinse aid lowers the surface tension of water so it sheets off instead of sitting in droplets. Fewer droplets means fewer spots. This is the cheapest fix and the most overlooked. A bottle of [Finish Jet-Dry rinse aid](https://www.amazon.com/Finish-Jet-Dry-rinse-aid/dp/B00824TD86/?tag=kitchenpot-20) lasts months.
+- **Add a citric acid booster.** [Lemi Shine detergent booster](https://www.amazon.com/Lemi-Shine-detergent-booster/dp/B00KOC6KEE/?tag=kitchenpot-20) goes in the pre-wash cup alongside your normal detergent. Citric acid grabs the calcium before it can deposit.
 - **Run a monthly descaling cycle.** Vinegar or a cleaner tablet, as above.
 - **Raise your water heater a little.** Detergent enzymes work best in hot water. Most manufacturers want water arriving at about 120°F.
 

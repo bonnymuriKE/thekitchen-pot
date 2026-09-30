@@ -72,7 +72,7 @@ Check the survivors while they are out. Wobbly bases, loose handles and flaking 
 
 A standard base cabinet is about two feet deep, and the back foot of it is effectively a black hole. You cannot see into it, so you stop using it. A pull-out shelf turns that foot back into storage.
 
-The fix is a sliding tray that rides on drawer runners inside the existing cabinet. Pull it and the back comes to the front. Expandable models like this [pull-out cabinet organizer](https://www.amazon.com/dp/B0CDPTB6F5/?tag=kitchenpot-20) adjust to fit different cabinet widths, which matters because cabinet openings vary more than you would expect.
+The fix is a sliding tray that rides on drawer runners inside the existing cabinet. Pull it and the back comes to the front. Expandable models like this [pull-out cabinet organizer](https://www.amazon.com/pull-out-cabinet-organizer/dp/B0CDPTB6F5/?tag=kitchenpot-20) adjust to fit different cabinet widths, which matters because cabinet openings vary more than you would expect.
 
 Two things to check before you buy. Measure the opening, not the cabinet, because the frame and hinges eat an inch or more on each side. Then check the mounting method. Most screw into the cabinet floor, and a few use adhesive pads instead, which is the version renters want. Owner reviews for adhesive models tend to split on whether the pads hold heavy loads over time, so keep cast iron out of those.
 
@@ -86,7 +86,7 @@ Standing pans on edge fixes it. A vertical divider holds each pan in its own slo
 
 A few ways to do it:
 
-- **An adjustable wire rack.** An [expandable pan and lid rack](https://www.amazon.com/dp/B09LRHJ6XW/?tag=kitchenpot-20) widens to fit your cabinet and has movable dividers, so you can set the slot widths to your own pans. This is the flexible option.
+- **An adjustable wire rack.** An [expandable pan and lid rack](https://www.amazon.com/expandable-pan-and-lid-rack/dp/B09LRHJ6XW/?tag=kitchenpot-20) widens to fit your cabinet and has movable dividers, so you can set the slot widths to your own pans. This is the flexible option.
 - **A bakeware rack.** Built for sheet pans and cutting boards, and it works for skillets too. Our guide to [compact baking sheet sizes](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) covers which pans actually fit a small oven in the first place.
 - **Tension rods.** Two spring-loaded rods wedged upright in a cabinet make free dividers. This costs almost nothing and leaves no marks.
 - **A deep drawer.** If you have one, stand the pans in it on edge with dividers between them. Our walkthrough on [organizing kitchen drawers](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) has the layout details.
@@ -97,7 +97,7 @@ Vertical thinking works everywhere in a tight kitchen, not just for pans. There 
 
 Back to the real problem. Lids are flat, round and slippery, and they belong nowhere by default.
 
-**Option one: the cabinet door.** The inside of a cabinet door is dead space in every kitchen. A [door-mounted lid rack](https://www.amazon.com/dp/B01K07N018/?tag=kitchenpot-20) clips or screws on and holds four to six lids on edge. Adhesive versions exist for renters. Check the door closes with the lids in place, since deep shelves and fat handles sometimes collide.
+**Option one: the cabinet door.** The inside of a cabinet door is dead space in every kitchen. A [door-mounted lid rack](https://www.amazon.com/door-mounted-lid-rack/dp/B01K07N018/?tag=kitchenpot-20) clips or screws on and holds four to six lids on edge. Adhesive versions exist for renters. Check the door closes with the lids in place, since deep shelves and fat handles sometimes collide.
 
 **Option two: a lid file.** These sit in a drawer or on a shelf and hold lids upright in slots. They suit kitchens where the cabinet doors are glass or too thin to mount anything on.
 
@@ -137,7 +137,7 @@ Sometimes the answer is the cookware itself. A nesting set is built so the piece
 
 The trade-off is real. Removable handles add a step to every meal, and some cooks find the locking mechanism annoying over time. Owner reviews of detachable-handle sets often mention the handle grip loosening with heavy pots. If that bothers you, our guide to [stackable pots and pans](/blog/7-best-stackable-pots-and-pans/) compares the styles, including sets that simply nest without any handle tricks.
 
-If you keep the pans you already own, protect them while they stack. Slide a [felt pan protector](https://www.amazon.com/dp/B0998B1R5B/?tag=kitchenpot-20) between each piece. A folded tea towel or a paper plate does the same job for free.
+If you keep the pans you already own, protect them while they stack. Slide a [felt pan protector](https://www.amazon.com/felt-pan-protector/dp/B0998B1R5B/?tag=kitchenpot-20) between each piece. A folded tea towel or a paper plate does the same job for free.
 
 This matters most for coated pans, where one scraped rim starts the flaking that ends the pan. It matters less for bare steel, though even stainless picks up scuffs. Cast iron is the one material that really does not care, as long as the stack is stable.
 

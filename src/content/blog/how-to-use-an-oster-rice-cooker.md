@@ -47,8 +47,8 @@ Oster has sold a lot of rice cookers over the years, but most sitting in kitchen
 
 | Type | Examples | How you start it | What it does on its own |
 | --- | --- | --- | --- |
-| One-switch cooker | [Oster 6-Cup Rice Cooker with Steamer (model 4722)](https://www.amazon.com/dp/B001KBY9M8/?tag=kitchenpot-20), older 4715 and 4721 models, the DiamondForce 6-cup | Push the lever or switch down | Cooks, then flips to keep warm when the water is gone |
-| Digital cooker | [Oster 20-Cup Digital Rice Cooker (003071)](https://www.amazon.com/dp/B002LVUG1Y/?tag=kitchenpot-20) and similar multi-button models | Choose a setting on the panel and press start | Runs the chosen program, then holds on warm |
+| One-switch cooker | [Oster 6-Cup Rice Cooker with Steamer (model 4722)](https://www.amazon.com/Oster-6-Cup-Rice-Cooker-with-Steamer/dp/B001KBY9M8/?tag=kitchenpot-20), older 4715 and 4721 models, the DiamondForce 6-cup | Push the lever or switch down | Cooks, then flips to keep warm when the water is gone |
+| Digital cooker | [Oster 20-Cup Digital Rice Cooker (003071)](https://www.amazon.com/Oster-20-Cup-Digital-Rice-Cooker/dp/B002LVUG1Y/?tag=kitchenpot-20) and similar multi-button models | Choose a setting on the panel and press start | Runs the chosen program, then holds on warm |
 
 The 6-cup Oster, which is the one Oster itself still lists on its site, makes about 6 cups of cooked rice from roughly 3 cups of uncooked. It comes with a removable nonstick inner pot, a tempered glass lid with a steam vent, a steaming tray, a plastic ladle and that special measuring cup.
 

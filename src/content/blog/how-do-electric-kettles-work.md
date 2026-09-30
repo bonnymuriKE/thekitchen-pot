@@ -221,7 +221,7 @@ You can fake it by boiling and waiting, but the wait is long and inconsistent. A
 
 The **COSORI Electric Gooseneck Kettle** is the easiest way into this. It runs 1,200 watts, holds 0.8 liters, and has five presets that map to the table above: 170, 180, 195, 205 and 212°F. It will also hold the temperature for up to 60 minutes. Owner reviews often mention the stainless interior, which matters if you dislike hot water sitting against plastic.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07T1CH2HH/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Variable-Temperature-Kettles-and-Who-Needs-One/dp/B07T1CH2HH/?tag=kitchenpot-20)
 
 If you mostly make black tea or run an [espresso machine](/blog/best-espresso-machines/) with its own boiler, you can skip the feature entirely. Precision matters when the water is the brewing method, which is why it shows up on pour-over kettles and not on a [drip coffee maker with a grinder](/blog/best-coffee-maker-with-a-grinder/). It is also irrelevant for cold brewing, where an [iced tea maker](/blog/best-iced-tea-maker/) or a [Mr. Coffee iced tea maker](/blog/how-to-use-mr-coffee-iced-tea-maker/) does the work at room temperature.
 
@@ -237,7 +237,7 @@ Gooseneck kettles also help with anything you pour into a narrow opening: a Fren
 
 The **Fellow Stagg EKG** is the reference model here. Fellow lists it at 1,000 to 1,200 watts with a 0.9-liter capacity and a temperature range of 104 to 212°F, adjustable to the degree. It also has a hold mode you can set for 15, 30, 45 or 60 minutes. The counterweighted handle and balanced body are what owners tend to praise, and pour control is a matter of balance as much as spout shape.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B077JBQZPX/?tag=kitchenpot-20) [Check Price at BUYDEEM](https://www.awin1.com/cread.php?awinmid=101781&awinaffid=1956629&clickref=how-do-electric-kettles-work&ued=https%3A%2F%2Fus.buydeem.com%2Fproducts%2Fbuydeem-stainless-steel-electric-kettle-k640)
+[Check Price on Amazon](https://www.amazon.com/Gooseneck-Spouts-and-Pour-Control/dp/B077JBQZPX/?tag=kitchenpot-20) [Check Price at BUYDEEM](https://www.awin1.com/cread.php?awinmid=101781&awinaffid=1956629&clickref=how-do-electric-kettles-work&ued=https%3A%2F%2Fus.buydeem.com%2Fproducts%2Fbuydeem-stainless-steel-electric-kettle-k640)
 
 One honest warning about size. A gooseneck kettle is a specialist tool with a small capacity, so it is a poor only-kettle for a household that drinks a lot of tea. In a tight kitchen it also takes up permanent counter space, and counter space is the scarcest thing there is. If yours is already crowded, the [countertop organization ideas](/blog/countertop-organization-ideas-for-a-small-kitchen/) worth trying come before the purchase. Pod machines like a [Keurig](/blog/top-5-keurig-coffee-maker/) solve the same morning problem with one footprint instead of two.
 

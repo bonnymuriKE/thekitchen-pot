@@ -67,9 +67,9 @@ You’ll also be interested to know that, air fryers heat up very quickly and th
 
 In this section we’ve reviewed some of the best four air fryers to help you make mouthwatering and healthiest fried food.
 
-### **1. [Phillips Premium Air fryer XXL](https://www.amazon.com/Philips-HD9630-98-Turbostar-Airfryer/dp/B079L2ZQGB?tag=kitchenpot-20)**
+### **1. [Phillips Premium Air fryer XXL](https://www.amazon.com/Philips-HD9630-98-Turbostar-Airfryer/dp/B079L2ZQGB/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Philips-HD9630-98-Turbostar-Airfryer/dp/B079L2ZQGB?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Philips-HD9630-98-Turbostar-Airfryer/dp/B079L2ZQGB/?tag=kitchenpot-20)
 
 The Philips premium air fryer produces the most reliable crisps on both chicken tenders and French fries.
 
@@ -79,9 +79,9 @@ Although the appliance is quite costly, it’s also one of the most effective ai
 
 The Philips premium air fryer is hefty to move from cabinet to counter, so it’s best if it would live on the counter full time. The air fryer is suitable for families with larger kitchens.
 
-### **2. [Cosori Premium 5.8-Quart Air Fryer](https://www.amazon.com/COSORI-Electric-Reminder-Touchscreen-Certified/dp/B07GJBBGHG?tag=kitchenpot-20)**
+### **2. [Cosori Premium 5.8-Quart Air Fryer](https://www.amazon.com/COSORI-Electric-Reminder-Touchscreen-Certified/dp/B07GJBBGHG/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/COSORI-Electric-Reminder-Touchscreen-Certified/dp/B07GJBBGHG?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/COSORI-Electric-Reminder-Touchscreen-Certified/dp/B07GJBBGHG/?tag=kitchenpot-20)
 
 If you love crispy and evenly cooked meals, then this is your ideal air fryer. This appliance from cosori makes for efficient evenly cooked meals every time. 
 
@@ -95,9 +95,9 @@ The basket of this model is notably deeper than other air fryers. This takes it 
 
 The basket and the drawer of this appliance are both dishwasher safe. The only snag about the unit is the condensation collected at the bottom of the basket and spilled on the counter when opened.
 
-### **3. [Phillips Compact Air fryer HD9641/96](https://www.amazon.com/Philips-HD9641-96-Turbostar-Airfryer/dp/B06Y39KPZ4?tag=kitchenpot-20)**
+### **3. [Phillips Compact Air fryer HD9641/96](https://www.amazon.com/Philips-HD9641-96-Turbostar-Airfryer/dp/B06Y39KPZ4/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Philips-HD9641-96-Turbostar-Airfryer/dp/B06Y39KPZ4?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Philips-HD9641-96-Turbostar-Airfryer/dp/B06Y39KPZ4/?tag=kitchenpot-20)
 
 If you have a small kitchen with limited space, then this is the best fit for you. This model is small enough to fit on nearly any countertop. 
 
@@ -109,9 +109,9 @@ The Philips compact air fryer comes with either a digital or analog temperature 
 
 The dishwasher-friendly pieces are easy to clean. A non-stick removable base and a quick-clean basket takes just a few minutes to wipe off.
 
-### **4. [Go WISE Electric Air Fryer](https://www.amazon.com/GoWISE-USA-5-8-Quarts-Electric-Recipes/dp/B0777RJG6D?tag=kitchenpot-20)** 
+### **4. [Go WISE Electric Air Fryer](https://www.amazon.com/GoWISE-USA-5-8-Quarts-Electric-Recipes/dp/B0777RJG6D/?tag=kitchenpot-20)** 
 
-[Check Price on Amazon](https://www.amazon.com/GoWISE-USA-5-8-Quarts-Electric-Recipes/dp/B0777RJG6D?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/GoWISE-USA-5-8-Quarts-Electric-Recipes/dp/B0777RJG6D/?tag=kitchenpot-20)
 
 The Go Wise electric fryer comes with adjustable temperature range of 175 to 400 degrees Fahrenheit and can cook variety of foods within 30 minutes.
 
@@ -143,9 +143,9 @@ With the NuWave oven you can make your meals up to 70% faster and use less consu
 
 ## **NuWave Ovens- We’ve Chosen The Best 4** 
 
-### **1. [NuWave PRIMO Grill Oven](https://www.amazon.com/Integrated-Digital-Convection-Surround-Dehydrate/dp/B00IXC5228?tag=kitchenpot-20)**
+### **1. [NuWave PRIMO Grill Oven](https://www.amazon.com/Integrated-Digital-Convection-Surround-Dehydrate/dp/B00IXC5228/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Integrated-Digital-Convection-Surround-Dehydrate/dp/B00IXC5228?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Integrated-Digital-Convection-Surround-Dehydrate/dp/B00IXC5228/?tag=kitchenpot-20)
 
 The nuwave oven pro comes with unique features, it’s one of the most manageable and accepted design of NuWave ovens.
 
@@ -157,9 +157,9 @@ All the parts of the nuwave oven pro are dishwasher safe. However, you need to c
 
 You can also buy an extender ring which is sold separately from the oven. This increases the oven’s capacity by 50%.
 
-### **2. [NuWave Oven Pro Plus](https://www.amazon.com/NuWave-Oven-Stainless-Steel-Extender/dp/B0147CLARS?tag=kitchenpot-20)**
+### **2. [NuWave Oven Pro Plus](https://www.amazon.com/NuWave-Oven-Stainless-Steel-Extender/dp/B0147CLARS/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/NuWave-Oven-Stainless-Steel-Extender/dp/B0147CLARS?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/NuWave-Oven-Stainless-Steel-Extender/dp/B0147CLARS/?tag=kitchenpot-20)
 
 NuWave oven pro plus comes fitted with a power dome which is stronger than the standard dome that comes with the pro edition. 
 
@@ -171,9 +171,9 @@ With this oven, you can buy an extender ring to increase the capacity. 
 
 The device will decrease your cooking time by up to 70% and uses 75% less consumption of energy over the traditional ovens.
 
-### **3. [NuWave 20633 Pro Plus Oven](https://www.amazon.com/NuWave-20633-Stainless-Steel-Extender/dp/B00IXC1ZMY?tag=kitchenpot-20)** 
+### **3. [NuWave 20633 Pro Plus Oven](https://www.amazon.com/NuWave-20633-Stainless-Steel-Extender/dp/B00IXC1ZMY/?tag=kitchenpot-20)** 
 
-[Check Price on Amazon](https://www.amazon.com/NuWave-20633-Stainless-Steel-Extender/dp/B00IXC1ZMY?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/NuWave-20633-Stainless-Steel-Extender/dp/B00IXC1ZMY/?tag=kitchenpot-20)
 
 The nuwave oven 20633 pro plus oven is a contemporary countertop oven that features convection, conduction, and infrared cooking technologies.
 
@@ -187,9 +187,9 @@ Additionally, cooking in this amazing appliance does away with the need to prehe
 
 The nuwave 20633 pro plus oven comes fitted with unique features including: an upgraded polyetherimide dome, a black base and a digital panel, with two cooking racks, a porcelain enamel liner pan and a stainless steel extender ring for effective use and maintenance.
 
-### **4. [Nuwave Oven Pro Plus 20601 Upgraded Shatter Resistant Dome (Black)](https://www.amazon.com/Nuwave-20601-Upgraded-Shatter-Resistant/dp/B011MQ9KOM?tag=kitchenpot-20)** 
+### **4. [Nuwave Oven Pro Plus 20601 Upgraded Shatter Resistant Dome (Black)](https://www.amazon.com/Nuwave-20601-Upgraded-Shatter-Resistant/dp/B011MQ9KOM/?tag=kitchenpot-20)** 
 
-[Check Price on Amazon](https://www.amazon.com/Nuwave-20601-Upgraded-Shatter-Resistant/dp/B011MQ9KOM?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nuwave-20601-Upgraded-Shatter-Resistant/dp/B011MQ9KOM/?tag=kitchenpot-20)
 
 The nuwave oven pro plus 20601 comes with amazing heating systems. The oven uses conduction heat like a conventional oven.
 

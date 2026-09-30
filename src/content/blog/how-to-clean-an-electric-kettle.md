@@ -111,7 +111,7 @@ This is the method to use if you only learn one. Citric acid is a white powder s
 
 Anything still clinging on gets a second round rather than a scrubbing. Acid and time do this job better than pressure does.
 
-A one-pound bag of [food-grade citric acid](https://www.amazon.com/dp/B00EYFKKZC/?tag=kitchenpot-20) costs a few dollars and will descale a kettle for a year or two. It also cleans a coffee maker, a [dishwasher](/blog/how-to-clean-a-dishwasher/) and a shower head, so it earns its shelf space. Store it somewhere dry, because it clumps in humid air. If your cupboards are already tight, these [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) will help you find room.
+A one-pound bag of [food-grade citric acid](https://www.amazon.com/food-grade-citric-acid/dp/B00EYFKKZC/?tag=kitchenpot-20) costs a few dollars and will descale a kettle for a year or two. It also cleans a coffee maker, a [dishwasher](/blog/how-to-clean-a-dishwasher/) and a shower head, so it earns its shelf space. Store it somewhere dry, because it clumps in humid air. If your cupboards are already tight, these [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) will help you find room.
 
 ## How to Descale an Electric Kettle With Vinegar
 
@@ -152,7 +152,7 @@ Pull it out by hand. Cuisinart's manual says to grasp the scale filter and lift 
 
 If the mesh is white and stiff, drop it into a cup of the same citric acid solution for 10 minutes. It will come out clear. Push it back into its slot until it seats.
 
-A clogged filter is a common reason a kettle pours slowly, and people often blame the spout design instead. Rinse the filter every time you descale and the problem disappears. Kettles like the [Cuisinart PerfecTemp CPK-17P1](https://www.amazon.com/dp/B08CYBHW8K/?tag=kitchenpot-20) make this easy because the filter lifts out in one piece, which is worth looking for when you shop.
+A clogged filter is a common reason a kettle pours slowly, and people often blame the spout design instead. Rinse the filter every time you descale and the problem disappears. Kettles like the [Cuisinart PerfecTemp CPK-17P1](https://www.amazon.com/Cuisinart-PerfecTemp-CPK-17P1/dp/B08CYBHW8K/?tag=kitchenpot-20) make this easy because the filter lifts out in one piece, which is worth looking for when you shop.
 
 ## How to Clean the Outside of an Electric Kettle
 
@@ -225,9 +225,9 @@ Descaling fixes almost every kettle complaint, but not all of them. Replace your
 - The base or cord is scorched, cracked or warm to the touch
 - Water leaks from the seam at the bottom
 
-Any of those means it is time to shop rather than scrub. A 1.7-liter model is the standard size and suits most households. The [BUYDEEM K640](https://www.amazon.com/dp/B0BZHQFWJX/?tag=kitchenpot-20) is a stainless steel option with a wide lid. That matters more than it sounds. A wide opening is what lets you reach in and wipe the element each week.
+Any of those means it is time to shop rather than scrub. A 1.7-liter model is the standard size and suits most households. The [BUYDEEM K640](https://www.amazon.com/When-a-Kettle-Is-Past-Saving/dp/B0BZHQFWJX/?tag=kitchenpot-20) is a stainless steel option with a wide lid. That matters more than it sounds. A wide opening is what lets you reach in and wipe the element each week.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BZHQFWJX/?tag=kitchenpot-20) [Check Price at BUYDEEM](https://www.awin1.com/cread.php?awinmid=101781&awinaffid=1956629&clickref=how-to-clean-an-electric-kettle&ued=https%3A%2F%2Fus.buydeem.com%2Fproducts%2Fbuydeem-stainless-steel-electric-kettle-k640)
+[Check Price on Amazon](https://www.amazon.com/When-a-Kettle-Is-Past-Saving/dp/B0BZHQFWJX/?tag=kitchenpot-20) [Check Price at BUYDEEM](https://www.awin1.com/cread.php?awinmid=101781&awinaffid=1956629&clickref=how-to-clean-an-electric-kettle&ued=https%3A%2F%2Fus.buydeem.com%2Fproducts%2Fbuydeem-stainless-steel-electric-kettle-k640)
 
 If counter space is the real constraint, look at a 1-liter kettle instead. Our guide to the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) covers the sizes that fit. These [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) show how to keep your prep area free. Compact models also tend to earn an [Energy Star rating](/blog/best-compact-energy-star-appliances-for-small-kitchens/) more easily.
 

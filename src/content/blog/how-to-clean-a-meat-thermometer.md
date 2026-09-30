@@ -120,7 +120,7 @@ Instant-read thermometers are the ones you check with and pull out. They're the 
 
 **Know your water rating.** Many thermometers list an IP (ingress protection) rating. The second number is the water part. IP67 means the housing is sealed well enough to be dunked briefly, while IP65 means it can handle water jets and running water but isn't meant to be submerged. ThermoWorks rates the [Thermapen ONE](https://www.thermoworks.com/products/thermapen-one) at IP67, but notes it stays waterproof only as long as you don't rotate the probe hub under water. Its older Classic Thermapen is splash-proof and should never be immersed.
 
-Budget models vary. The [ThermoPro TP19H](https://www.amazon.com/dp/B09FLTW388/?tag=kitchenpot-20) is sold as a waterproof instant-read thermometer, and the [Lavatools Javelin PRO Duo](https://www.amazon.com/dp/B07D3MBSZV/?tag=kitchenpot-20) is listed as IP65 water resistant. Even with a good rating, a quick rinse beats a long soak.
+Budget models vary. The [ThermoPro TP19H](https://www.amazon.com/ThermoPro-TP19H/dp/B09FLTW388/?tag=kitchenpot-20) is sold as a waterproof instant-read thermometer, and the [Lavatools Javelin PRO Duo](https://www.amazon.com/Lavatools-Javelin-PRO-Duo/dp/B07D3MBSZV/?tag=kitchenpot-20) is listed as IP65 water resistant. Even with a good rating, a quick rinse beats a long soak.
 
 **Keep the hinge clean.** On folding models, the pivot point is where flour, oil and moisture can slowly work their way past the seal. ThermoWorks specifically warns against getting moisture, flour or oil on the rotating hub. Wipe that area with the edge of a cloth after cooking.
 

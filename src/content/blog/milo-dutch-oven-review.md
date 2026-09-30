@@ -29,7 +29,7 @@ Dutch ovens are versatile. These cast-iron cookware can braise your meat, boil w
 
 But there is a catch! High-quality cast iron Dutch ovens are not cheap.
 
-Some of the high-end brands such as **[Le Creuset](https://www.amazon.com/Creuset-Signature-Enameled-Cast-Iron-2-Quart/dp/B0076NOGPY/?tag=kitchenpot-20)** and **[Staub Dutch Ovens](https://www.amazon.com/Staub-Round-Cocotte-4-Quart-Cherry/dp/B003G65YQ0?tag=kitchenpot-20)** will demand that you sacrifice more than $200. While there are other affordable brands such as **[Lodge Dutch Oven](https://www.amazon.com/Lodge-Enameled-Classic-Enamel-Island/dp/B000N501BK/?tag=kitchenpot-20)**, their longevity cannot be compared to these high-end brands!
+Some of the high-end brands such as **[Le Creuset](https://www.amazon.com/Creuset-Signature-Enameled-Cast-Iron-2-Quart/dp/B0076NOGPY/?tag=kitchenpot-20)** and **[Staub Dutch Ovens](https://www.amazon.com/Staub-Round-Cocotte-4-Quart-Cherry/dp/B003G65YQ0/?tag=kitchenpot-20)** will demand that you sacrifice more than $200. While there are other affordable brands such as **[Lodge Dutch Oven](https://www.amazon.com/Lodge-Enameled-Classic-Enamel-Island/dp/B000N501BK/?tag=kitchenpot-20)**, their longevity cannot be compared to these high-end brands!
 
 If that sounds too much to spend, then worry not. We’ve got your back.
 

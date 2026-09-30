@@ -167,10 +167,10 @@ That last point matters for food safety as much as for mess. Meat that comes out
 
 ## Our Picks at a Glance
 
-- **Best electric pressure cooker overall:** [Instant Pot Duo 6 Qt 7-in-1](https://www.amazon.com/dp/B00FLYWNYQ/?tag=kitchenpot-20)
-- **Best value electric:** [Instant Pot Rio 6 Qt 7-in-1](https://www.amazon.com/dp/B0B4PQDFCL/?tag=kitchenpot-20)
-- **Best for one or two people:** [Instant Pot Duo Mini 3 Qt](https://www.amazon.com/dp/B06Y1YD5W7/?tag=kitchenpot-20)
-- **Best stovetop pressure cooker:** [Presto 01362 6-Quart Stainless Steel Pressure Cooker](https://www.amazon.com/dp/B00006ISG6/?tag=kitchenpot-20)
+- **Best electric pressure cooker overall:** [Instant Pot Duo 6 Qt 7-in-1](https://www.amazon.com/Instant-Pot-Duo-6-Qt-7-in-1/dp/B00FLYWNYQ/?tag=kitchenpot-20)
+- **Best value electric:** [Instant Pot Rio 6 Qt 7-in-1](https://www.amazon.com/Instant-Pot-Rio-6-Qt-7-in-1/dp/B0B4PQDFCL/?tag=kitchenpot-20)
+- **Best for one or two people:** [Instant Pot Duo Mini 3 Qt](https://www.amazon.com/Instant-Pot-Duo-Mini-3-Qt/dp/B06Y1YD5W7/?tag=kitchenpot-20)
+- **Best stovetop pressure cooker:** [Presto 01362 6-Quart Stainless Steel Pressure Cooker](https://www.amazon.com/Presto-01362-6-Quart-Stainless-Steel-Pressure-Cooker/dp/B00006ISG6/?tag=kitchenpot-20)
 
 ## 1. Instant Pot Duo 6 Qt 7-in-1: Best Electric Overall
 
@@ -201,7 +201,7 @@ Where it falls short is the display, which is basic, and the lid, which has nowh
 
 **Who should buy it:** Anyone cooking for a family who wants to start dinner and leave the room. A [steamer basket for an Instant Pot](/blog/best-steamer-basket-for-instant-pot/) is the one accessory worth adding straight away.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00FLYWNYQ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Instant-Pot-Duo-6-Qt-7-in-1/dp/B00FLYWNYQ/?tag=kitchenpot-20)
 
 ## 2. Instant Pot Rio 6 Qt 7-in-1: Best Value Electric
 
@@ -230,7 +230,7 @@ If you have never used a pressure cooker, the simpler panel is an advantage rath
 
 **Who should buy it:** Someone buying their first electric pressure cooker who does not want to pay for programs they will never press. If you are furnishing a kitchen more broadly, our roundup of the [best compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/) pairs well with it.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0B4PQDFCL/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Instant-Pot-Rio-6-Qt-7-in-1/dp/B0B4PQDFCL/?tag=kitchenpot-20)
 
 ## 3. Instant Pot Duo Mini 3 Qt: Best for One or Two
 
@@ -259,7 +259,7 @@ It is also the model that makes sense on a crowded counter. It stands about the 
 
 **Who should buy it:** Anyone cooking for one or two, especially in a studio. Our list of [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/) covers what else earns a place next to it.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B06Y1YD5W7/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Instant-Pot-Duo-Mini-3-Qt/dp/B06Y1YD5W7/?tag=kitchenpot-20)
 
 ## 4. Presto 01362 6-Quart Stainless Steel Pressure Cooker: Best Stovetop
 
@@ -291,7 +291,7 @@ With the lid off and the sealing ring out, it is also a perfectly good 6-quart p
 
 **Who should buy it:** Cooks who value speed and longevity, anyone with a good stove, and people who would rather own one simple pot than one complicated appliance. For the electric side of the same job, our roundup of the [best waterless cookware sets](/blog/best-waterless-cookware-reviews/) covers another sealed-pot approach worth knowing about.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00006ISG6/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Presto-01362-6-Quart-Stainless-Steel-Pressure-Cooker/dp/B00006ISG6/?tag=kitchenpot-20)
 
 ## Times and Temperatures Worth Knowing
 
@@ -319,10 +319,10 @@ For anything you would otherwise slow-roast, a countertop oven is the other comp
 
 ## Which One Should You Buy?
 
-- **You want to set it and walk away:** the [Instant Pot Duo 6 Qt](https://www.amazon.com/dp/B00FLYWNYQ/?tag=kitchenpot-20).
-- **You want the cheapest way in:** the [Instant Pot Rio 6 Qt](https://www.amazon.com/dp/B0B4PQDFCL/?tag=kitchenpot-20).
-- **You cook for one or two:** the [Instant Pot Duo Mini 3 Qt](https://www.amazon.com/dp/B06Y1YD5W7/?tag=kitchenpot-20).
-- **You want speed, simplicity and a pot that lasts:** the [Presto 01362](https://www.amazon.com/dp/B00006ISG6/?tag=kitchenpot-20).
+- **You want to set it and walk away:** the [Instant Pot Duo 6 Qt](https://www.amazon.com/Instant-Pot-Duo-6-Qt-7-in-1/dp/B00FLYWNYQ/?tag=kitchenpot-20).
+- **You want the cheapest way in:** the [Instant Pot Rio 6 Qt](https://www.amazon.com/Instant-Pot-Rio-6-Qt-7-in-1/dp/B0B4PQDFCL/?tag=kitchenpot-20).
+- **You cook for one or two:** the [Instant Pot Duo Mini 3 Qt](https://www.amazon.com/Instant-Pot-Duo-Mini-3-Qt/dp/B06Y1YD5W7/?tag=kitchenpot-20).
+- **You want speed, simplicity and a pot that lasts:** the [Presto 01362](https://www.amazon.com/Presto-01362-6-Quart-Stainless-Steel-Pressure-Cooker/dp/B00006ISG6/?tag=kitchenpot-20).
 - **You want to can at home:** a rated stovetop pressure canner, never an electric multi-cooker.
 
 One decision rule if you are still stuck: count your working burners. If you have four, buy the stovetop pot. If you have two, or one, or a hotplate, buy the electric one and give it a permanent home on the counter. Our guide to [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) will help you find the space either way.

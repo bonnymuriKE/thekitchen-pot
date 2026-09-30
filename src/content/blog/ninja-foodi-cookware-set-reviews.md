@@ -49,7 +49,7 @@ Ninja Foodi cookware set is marketed as having been optimized to offer unmatched
 * Oven safe to 500°F
 * Free of PFOA, cadmium, and lead
 
-[Check Latest Price on Amazon](https://www.amazon.com/Ninja-C39900-NeverStick-Hard-Anodized-16-Piece/dp/B08C1K2XF8?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Ninja-C39900-NeverStick-Hard-Anodized-16-Piece/dp/B08C1K2XF8/?tag=kitchenpot-20)
 
 **While these pans are marked dishwasher safe, we recommend that you hand-wash them. We noticed that they discolor after using a dishwasher several times. To maintain the aesthetics, use warm, soapy water and a sponge to clean them.** 
 
@@ -67,8 +67,8 @@ The set offers diversity. It comes with differently-sized pans and pots to enabl
 
 Additionally, the Ninja Foodi cookware set is available for bigger families. You can buy the following variations if you need more cooking capacities:
 
-* [Ninja Foodi NeverStick Premium Hard-Anodized 12-Piece Cookware Set](https://www.amazon.com/Ninja-C39800-NeverStick-Hard-Anodized-12-Piece/dp/B08C1FSS7D?tag=kitchenpot-20)
-* [Ninja Foodi NeverStick Premium Hard-Anodized 16-Piece Cookware Set](https://www.amazon.com/Ninja-C39900-NeverStick-Hard-Anodized-16-Piece/dp/B08C1K2XF8?tag=kitchenpot-20)
+* [Ninja Foodi NeverStick Premium Hard-Anodized 12-Piece Cookware Set](https://www.amazon.com/Ninja-C39800-NeverStick-Hard-Anodized-12-Piece/dp/B08C1FSS7D/?tag=kitchenpot-20)
+* [Ninja Foodi NeverStick Premium Hard-Anodized 16-Piece Cookware Set](https://www.amazon.com/Ninja-C39900-NeverStick-Hard-Anodized-16-Piece/dp/B08C1K2XF8/?tag=kitchenpot-20)
 
 However, you should only buy the 12-piece and 16-piece if you have a big family. The pans and pots are too many for a small family, and it would be a waste. You wouldn’t want to invest in pans that will be destined to your pantry – with little or no use. 
 
@@ -132,7 +132,7 @@ Ninja Foodi Non-Stick pans are oven safe up to 500 degrees F. The handles and li
 
 The pans are designed to withstand high-heat cooking. You can also scrub the pans without the fear of losing the nonstick coating. Even better, the pans are PTFE, PFOA, and cadmium-free.
 
-[Buy Ninja Foodi Set from Amazon](https://www.amazon.com/Ninja-C38000-NeverStick-Hard-Anodized-Cookware/dp/B08C1FFSBD?tag=kitchenpot-20)
+[Buy Ninja Foodi Set from Amazon](https://www.amazon.com/Ninja-C38000-NeverStick-Hard-Anodized-Cookware/dp/B08C1FFSBD/?tag=kitchenpot-20)
 
 ## Ninja Foodi Cookware Set Review – Warranty Information 
 
@@ -148,4 +148,4 @@ Additionally, the pan is heavy and durable. You’ll be guaranteed exciting cook
 
 However, the pans may take a relatively longer pre-heating time due to their heavy construction. Also, they are not stackable and storage can be a hassle. 
 
-Overall, the Ninja Foodi Cookware Set is worth every coin you spend on it. **[Buy it today](https://www.amazon.com/Ninja-C38000-NeverStick-Hard-Anodized-Cookware/dp/B08C1FFSBD?tag=kitchenpot-20)** and enjoy every minute of nonstick cooking!
+Overall, the Ninja Foodi Cookware Set is worth every coin you spend on it. **[Buy it today](https://www.amazon.com/Ninja-C38000-NeverStick-Hard-Anodized-Cookware/dp/B08C1FFSBD/?tag=kitchenpot-20)** and enjoy every minute of nonstick cooking!

@@ -108,7 +108,7 @@ The rack works the same way it does for [reheating chicken wings](/blog/how-to-r
 
 Going straight onto metal gives up that evenness and trades it for a harder sear on one face. Plenty of people prefer it for breakfast links, where a crisp flat side is the point.
 
-Whichever you choose, use a rimmed pan. A flat cookie sheet lets rendered fat run off the edge and onto the oven floor, and burnt fat smells for days. A sturdy [Nordic Ware half sheet pan](https://www.amazon.com/dp/B000G0KJG4/?tag=kitchenpot-20) is the standard choice here. The most common note in owner reviews is that the bare aluminium discolours over time, without changing how it cooks. If your oven is smaller than standard, our guide to [compact baking sheets and pan sizes](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) explains which sizes still fit.
+Whichever you choose, use a rimmed pan. A flat cookie sheet lets rendered fat run off the edge and onto the oven floor, and burnt fat smells for days. A sturdy [Nordic Ware half sheet pan](https://www.amazon.com/Nordic-Ware-half-sheet-pan/dp/B000G0KJG4/?tag=kitchenpot-20) is the standard choice here. The most common note in owner reviews is that the bare aluminium discolours over time, without changing how it cooks. If your oven is smaller than standard, our guide to [compact baking sheets and pan sizes](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) explains which sizes still fit.
 
 For a general upgrade, our picks for the [best bakeware for small kitchens](/blog/best-bakeware-for-small-kitchens/) and our [bakeware set roundup](/blog/best-bakeware-sets/) both cover rimmed pans that handle roasting as well as baking.
 
@@ -155,7 +155,7 @@ The USDA is specific about this. Uncooked sausage made from [beef, pork, lamb or
 
 Where you put the probe decides whether the reading means anything. Slide it in through the cut end and push it along the middle of the link, not across it. A sideways probe passes through the thin part and reads high.
 
-An instant-read thermometer is the only tool that settles this. The [ThermoPro TP19H](https://www.amazon.com/dp/B07XXSYLL8/?tag=kitchenpot-20) is a common budget pick with a folding probe. Owner reviews praise how fast it reads, and they also mention that the probe is thin and bends if handled roughly. Our roundup of the [best meat thermometers](/blog/best-meat-thermometer-for-smoking/) covers leave-in probes too, which suit long roasts more than sausages.
+An instant-read thermometer is the only tool that settles this. The [ThermoPro TP19H](https://www.amazon.com/ThermoPro-TP19H/dp/B07XXSYLL8/?tag=kitchenpot-20) is a common budget pick with a folding probe. Owner reviews praise how fast it reads, and they also mention that the probe is thin and bends if handled roughly. Our roundup of the [best meat thermometers](/blog/best-meat-thermometer-for-smoking/) covers leave-in probes too, which suit long roasts more than sausages.
 
 Clean the probe after every session, especially when it has touched raw sausage. Our guide to [cleaning a meat thermometer](/blog/how-to-clean-a-meat-thermometer/) covers that in four steps.
 

@@ -29,7 +29,7 @@ authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where 
 ---
 If grilling and smoking meat is your forte, then you’ll opine that the Masterbuilt electric smoker is a game-changer. The dynamic appliance is, by far, the most convenient and efficient smoker you’ll find in the market today.
 
-If you’ve recently acquired the **[Masterbuilt smoker](https://www.amazon.com/Masterbuilt-130B-Digital-Electric-Smoker/dp/B07CN38M23?tag=kitchenpot-20)**, you may have realized that it appears complicated at first. It is easy for a beginner to freak out thinking that operating the smoker is a complicated maze. 
+If you’ve recently acquired the **[Masterbuilt smoker](https://www.amazon.com/Masterbuilt-130B-Digital-Electric-Smoker/dp/B07CN38M23/?tag=kitchenpot-20)**, you may have realized that it appears complicated at first. It is easy for a beginner to freak out thinking that operating the smoker is a complicated maze. 
 
 Before you regret buying the smoker, read this guide on how to use Masterbuilt electric smoker, and you’ll realize how easy it is to use it. Once you have the tips, you’ll appreciate the day you decided to purchase one!
 
@@ -37,7 +37,7 @@ It will offer exceptional convenience and unmatched efficacy that will enable yo
 
 ## Masterbuilt Electric Smoker Review -Overview
 
-1. **[Masterbuilt MB20071117 Digital Electric Smoker, 30 inch, Black](https://www.amazon.com/Masterbuilt-130B-Digital-Electric-Smoker/dp/B07CN38M23?tag=kitchenpot-20) – Best Overall**
+1. **[Masterbuilt MB20071117 Digital Electric Smoker, 30 inch, Black](https://www.amazon.com/Masterbuilt-130B-Digital-Electric-Smoker/dp/B07CN38M23/?tag=kitchenpot-20) – Best Overall**
 
 Features
 
@@ -73,7 +73,7 @@ Steel
 
 Electric
 
-[Check Latest Price on Amazon](https://www.amazon.com/Masterbuilt-130B-Digital-Electric-Smoker/dp/B07CN38M23?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Masterbuilt-130B-Digital-Electric-Smoker/dp/B07CN38M23/?tag=kitchenpot-20)
 
 2. **[Masterbuilt MB20070210 Analog Electric Smoker with 3 Smoking Racks, 30 inch, Black](https://www.amazon.com/Masterbuilt-MES-35B-Electric-Smoker/dp/B07NQLF9WD/?tag=kitchenpot-20)**
 
@@ -113,7 +113,7 @@ Electric
 
 [Check Latest Price on Amazon](https://www.amazon.com/Masterbuilt-MES-35B-Electric-Smoker/dp/B07NQLF9WD/?tag=kitchenpot-20)
 
-3. **[Masterbuilt MB20073519 Bluetooth Digital Electric Smoker with Broiler, 30 inch, Black](https://www.amazon.com/Masterbuilt-MB20073519-Bluetooth-Digital-Electric/dp/B07NQTTPGY?tag=kitchenpot-20)**
+3. **[Masterbuilt MB20073519 Bluetooth Digital Electric Smoker with Broiler, 30 inch, Black](https://www.amazon.com/Masterbuilt-MB20073519-Bluetooth-Digital-Electric/dp/B07NQTTPGY/?tag=kitchenpot-20)**
 
 Features
 
@@ -149,7 +149,7 @@ Stainless Steel
 
 Electric
 
-[Check Latest Price on Amazon](https://www.amazon.com/Masterbuilt-MB20073519-Bluetooth-Digital-Electric/dp/B07NQTTPGY?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Masterbuilt-MB20073519-Bluetooth-Digital-Electric/dp/B07NQTTPGY/?tag=kitchenpot-20)
 
 ## Why Smoking Meat is Important
 
@@ -221,7 +221,7 @@ Once in a while, you should check whether the wood chips are yielding the requir
 
 Also, ensure that you top up the water in case it’s running too low. This way, you will get a moist meal. 
 
-If you want to **[raise your smoker](https://www.amazon.com/Masterbuilt-MB20101114-Smoker-Wheels-Black/dp/B07G5C61LG?tag=kitchenpot-20)** for ease of use, then you can consider buying a **[Masterbuilt stand](https://www.amazon.com/Masterbuilt-20101113-Digital-Electric-30-Inch/dp/B00BJ28G36?tag=kitchenpot-20)**.
+If you want to **[raise your smoker](https://www.amazon.com/Masterbuilt-MB20101114-Smoker-Wheels-Black/dp/B07G5C61LG/?tag=kitchenpot-20)** for ease of use, then you can consider buying a **[Masterbuilt stand](https://www.amazon.com/Masterbuilt-20101113-Digital-Electric-30-Inch/dp/B00BJ28G36/?tag=kitchenpot-20)**.
 
 ## How To Know Your Meat is Cooked
 

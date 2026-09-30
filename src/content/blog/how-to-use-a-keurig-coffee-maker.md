@@ -132,7 +132,7 @@ The light is a timer on most models, not a sensor. It counts brews since the las
 
 Keurig's official use and care guide breaks it into three stages that take about 45 minutes in total.
 
-1. **Empty the reservoir and remove any water filter cartridge.** Pour a full bottle of [Keurig descaling solution](https://www.amazon.com/dp/B085112R85/?tag=kitchenpot-20) into the empty tank, then add the same amount of fresh water.
+1. **Empty the reservoir and remove any water filter cartridge.** Pour a full bottle of [Keurig descaling solution](https://www.amazon.com/Keurig-descaling-solution/dp/B085112R85/?tag=kitchenpot-20) into the empty tank, then add the same amount of fresh water.
 2. **Run large brews with no pod into a ceramic mug.** Keurig says not to use a paper cup. Keep going until the machine asks for more water.
 3. **Let it stand for at least 30 minutes with the power on.** This soak is where the work happens. Do not cut it short.
 4. **Tip out what is left and rinse the reservoir well.**
@@ -165,7 +165,7 @@ To clear the exit needle:
 3. Work the paper clip through it, then rinse the whole holder under hot running water.
 4. Dry it and click it back into place.
 
-A purpose-made [needle cleaning tool](https://www.amazon.com/dp/B01MXFTW88/?tag=kitchenpot-20) does the same job with less risk of stabbing yourself. It is a small plastic pod with a stub of needle on top that you close the handle onto. Either way, do this every month or two and your cups stay full.
+A purpose-made [needle cleaning tool](https://www.amazon.com/needle-cleaning-tool/dp/B01MXFTW88/?tag=kitchenpot-20) does the same job with less risk of stabbing yourself. It is a small plastic pod with a stub of needle on top that you close the handle onto. Either way, do this every month or two and your cups stay full.
 
 ## When a Keurig Stops Pumping Water
 
@@ -188,7 +188,7 @@ If none of that works, the pump itself may have failed. At that point the repair
 
 Pods are the expensive part of Keurig ownership and the part people feel worst about throwing away. A reusable filter fixes both.
 
-The [Keurig My K-Cup Universal Reusable Filter](https://www.amazon.com/dp/B07TKGJMJT/?tag=kitchenpot-20) is a small mesh basket that sits in the pod holder in place of a K-Cup. You fill it with your own grounds and brew as normal.
+The [Keurig My K-Cup Universal Reusable Filter](https://www.amazon.com/Keurig-My-K-Cup-Universal-Reusable-Filter/dp/B07TKGJMJT/?tag=kitchenpot-20) is a small mesh basket that sits in the pod holder in place of a K-Cup. You fill it with your own grounds and brew as normal.
 
 A few things make the difference between a good cup and a muddy one:
 
@@ -199,7 +199,7 @@ A few things make the difference between a good cup and a muddy one:
 
 Grinding your own beans is the bigger upgrade, since ground coffee goes stale within a couple of weeks of opening. A machine with a built-in grinder handles that automatically, and our roundup of the [best coffee maker with a grinder](/blog/best-coffee-maker-with-a-grinder/) covers the options. Keep whatever you buy in a sealed container, not the bag it came in, and these [airtight food storage containers](/blog/best-airtight-food-storage-containers/) work well for beans.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07TKGJMJT/?tag=kitchenpot-20) [Shop Coffee at Equator Coffees](https://www.awin1.com/cread.php?awinmid=86055&awinaffid=1956629&clickref=how-to-use-a-keurig-coffee-maker&ued=https%3A%2F%2Fwww.equatorcoffees.com%2Fcollections%2Fcoffees)
+[Check Price on Amazon](https://www.amazon.com/Keurig-My-K-Cup-Universal-Reusable-Filter/dp/B07TKGJMJT/?tag=kitchenpot-20) [Shop Coffee at Equator Coffees](https://www.awin1.com/cread.php?awinmid=86055&awinaffid=1956629&clickref=how-to-use-a-keurig-coffee-maker&ued=https%3A%2F%2Fwww.equatorcoffees.com%2Fcollections%2Fcoffees)
 
 ## What a Keurig Cannot Do
 

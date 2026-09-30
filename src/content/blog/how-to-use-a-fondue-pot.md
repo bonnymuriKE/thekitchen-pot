@@ -95,7 +95,7 @@ Features
 
 These pots heat slower than the cast iron ones. However, they retain heat for a longer time. If you want to prepare fondue with ingredients with low melting point (such as cheese and chocolate), then these pots are ideal.
 
-**[Oster Fondue Pot | Titanium Infused DuraCeramic Fondue Maker](https://www.amazon.com/Oster-FPSTFN7700W-TECO-Titanium-Infused-DuraCeramic/dp/B0778251K9?tag=kitchenpot-20)**
+**[Oster Fondue Pot | Titanium Infused DuraCeramic Fondue Maker](https://www.amazon.com/Oster-FPSTFN7700W-TECO-Titanium-Infused-DuraCeramic/dp/B0778251K9/?tag=kitchenpot-20)**
 
 Features
 
@@ -105,7 +105,7 @@ Features
 * Magnetic breakaway cord for added safety
 * Includes 8 fondue forks & Fork holder ring
 
-[Check Latest Price on Amazon](https://www.amazon.com/Oster-FPSTFN7700W-TECO-Titanium-Infused-DuraCeramic/dp/B0778251K9?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Oster-FPSTFN7700W-TECO-Titanium-Infused-DuraCeramic/dp/B0778251K9/?tag=kitchenpot-20)
 
 **Stainless Steel Fondue**
 

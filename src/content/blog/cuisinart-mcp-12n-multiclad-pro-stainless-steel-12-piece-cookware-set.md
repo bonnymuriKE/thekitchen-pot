@@ -37,7 +37,7 @@ The Cuisinart MCP-12n Cookware Set includes:
 * 8-quart covered stockpot
 * steamer insert with lid 
 
-**[Check Latest Price on Amazon](https://www.amazon.com/Cuisinart-MCP-12N-Multiclad-Stainless-12-Piece/dp/B009JXPS6U?tag=kitchenpot-20)**
+**[Check Latest Price on Amazon](https://www.amazon.com/Cuisinart-MCP-12N-Multiclad-Stainless-12-Piece/dp/B009JXPS6U/?tag=kitchenpot-20)**
 
 ## Features of Cuisinart MCP-12n Multiclad Pro Stainless Steel 12-Piece Cookware Set
 
@@ -97,7 +97,7 @@ You’ll likely experience buzz sounds when you’re cooking on an induction coo
 
 Besides the MCP-12n Multiclad Pro cookware set, several other Cuisinart pans and pots can consider. This section gives you the three most popular and efficient Cuisinart pans to buy:
 
-### **1. [Cuisinart 77-17N 17 Piece Chef’s Classic Set, Stainless Steel](https://www.amazon.com/Cuisinart-77-17N-Piece-Classic-Stainless/dp/B01LHG4EES?tag=kitchenpot-20)**
+### **1. [Cuisinart 77-17N 17 Piece Chef’s Classic Set, Stainless Steel](https://www.amazon.com/Cuisinart-77-17N-Piece-Classic-Stainless/dp/B01LHG4EES/?tag=kitchenpot-20)**
 
 This Cuisinart line is made of stainless steel and has an aluminum encapsulated base. The base has a unique ability to heat fast and evenly, thus eliminating any chance of hot spots. 
 
@@ -119,7 +119,7 @@ This set comprises of:
 
 For all these pieces, Cuisinart has priced this set quite affordably. You’ll get all these at a price that’s below $300!
 
-[Check Latest Price on Amazon](https://www.amazon.com/Cuisinart-77-17N-Piece-Classic-Stainless/dp/B01LHG4EES?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Cuisinart-77-17N-Piece-Classic-Stainless/dp/B01LHG4EES/?tag=kitchenpot-20)
 
 ### **2. Cuisinart 11-Piece Professional Stainless Cookware Set**
 
@@ -146,7 +146,7 @@ Other features that make this set ideal include:
 * Dishwasher safe
 * Lifetime warranty 
 
-[Check Latest Price on Amazon](https://www.amazon.com/Cuisinart-89-11-11-Piece-Professional-Stainless/dp/B00NAU8VS0?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Cuisinart-89-11-11-Piece-Professional-Stainless/dp/B00NAU8VS0/?tag=kitchenpot-20)
 
 ### **3. Cuisinart 719-18 Chef’s Classic Stainless 2-Quart Saucepan with Cover**
 
@@ -158,13 +158,13 @@ Additionally, the set comes with a cool grip handle with solid stainless steel r
 
 Its rims are tapered for drip-free pouring, and you can use a dishwasher to clean them without altering their elegant shiny appearance. 
 
-If you want a relatively smaller saucepan, you should consider the [**719-16 Chef’s Classic Stainless Saucepan with Cover, 1 1/2 Quart**.](https://www.amazon.com/Cuisinart-719-16-Classic-Stainless-Saucepan/dp/B00008CM69?tag=kitchenpot-20) It has similar features as the 2 quarts and is the best for an average family. 
+If you want a relatively smaller saucepan, you should consider the [**719-16 Chef’s Classic Stainless Saucepan with Cover, 1 1/2 Quart**.](https://www.amazon.com/Cuisinart-719-16-Classic-Stainless-Saucepan/dp/B00008CM69/?tag=kitchenpot-20) It has similar features as the 2 quarts and is the best for an average family. 
 
-[Check Latest Price on Amazon](https://www.amazon.com/Cuisinart-719-18-Classic-Stainless-Saucepan/dp/B00008CM6C?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Cuisinart-719-18-Classic-Stainless-Saucepan/dp/B00008CM6C/?tag=kitchenpot-20)
 
 ## Alternative to Cuisinart Stainless Steel Cookware
 
-### 1. [HOMI CHEF 10-Piece Nickel Free Stainless Steel Cookware Set Copper Band](https://www.amazon.com/dp/B07BS646K9?tag=kitchenpot-20)
+### 1. [HOMI CHEF 10-Piece Nickel Free Stainless Steel Cookware Set Copper Band](https://www.amazon.com/HOMI-CHEF-10-Piece-Nickel-Free-Stainless-Steel-Cookware/dp/B07BS646K9/?tag=kitchenpot-20)
 
 **Features**
 
@@ -174,9 +174,9 @@ If you want a relatively smaller saucepan, you should consider the [**719-16 Che
 * Riveted handle stays cool on the cooktop – Flared rims ensure drip free pouring – See-through TEMPERED GLASS lid circulates heat and moisture
 * Compatible with gas, electric, induction, ceramic, glass and halogen stovetops; Oven & Dishwasher safe.
 
-[Check Latest Price on Amazon](https://www.amazon.com/dp/B07BS646K9?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/HOMI-CHEF-10-Piece-Nickel-Free-Stainless-Steel-Cookware/dp/B07BS646K9/?tag=kitchenpot-20)
 
-### **2. [All-Clad 4203 Sauce Pan with Lid, 3-Quart, Silver](https://www.amazon.com/All-Clad-Stainless-Tri-Ply-Dishwasher-Cookware/dp/B004T6PS80?tag=kitchenpot-20)**
+### **2. [All-Clad 4203 Sauce Pan with Lid, 3-Quart, Silver](https://www.amazon.com/All-Clad-Stainless-Tri-Ply-Dishwasher-Cookware/dp/B004T6PS80/?tag=kitchenpot-20)**
 
 **Features**
 
@@ -186,7 +186,7 @@ If you want a relatively smaller saucepan, you should consider the [**719-16 Che
 * Compatible with all cooktops , and oven and broiler-safe up to 600°F
 * Handcrafted in the USA
 
-[Check Latest Price on Amazon](https://www.amazon.com/All-Clad-Stainless-Tri-Ply-Dishwasher-Cookware/dp/B004T6PS80?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/All-Clad-Stainless-Tri-Ply-Dishwasher-Cookware/dp/B004T6PS80/?tag=kitchenpot-20)
 
 ## Cuisinart MCP-12n Multiclad Pro Stainless Steel 12-Piece Cookware Set Review – The Verdict
 

@@ -267,7 +267,7 @@ Higher wattage is not automatically better. Blade design, bell shape and speed c
 - **Detachable shaft.** It makes the soapy-water clean much easier.
 - **Weight.** You hold this at arm's length over a hot pot.
 
-Our full roundup of the [best immersion blenders](/blog/8-best-immersion-blenders/) compares these models side by side, including the Braun [MultiQuick 7 MQ7035X](https://www.amazon.com/dp/B07YZWRC8F/?tag=kitchenpot-20) and the [Breville Control Grip BSB510XL](https://www.amazon.com/dp/B004RF7QJW/?tag=kitchenpot-20). Owner reviews for the Breville are [worth a scan](https://www.amazon.com/product-reviews/B004RF7QJW/?tag=kitchenpot-20) if you mostly make soup, since grip and balance come up a lot in hand blender feedback.
+Our full roundup of the [best immersion blenders](/blog/8-best-immersion-blenders/) compares these models side by side, including the Braun [MultiQuick 7 MQ7035X](https://www.amazon.com/MultiQuick-7-MQ7035X/dp/B07YZWRC8F/?tag=kitchenpot-20) and the [Breville Control Grip BSB510XL](https://www.amazon.com/Breville-Control-Grip-BSB510XL/dp/B004RF7QJW/?tag=kitchenpot-20). Owner reviews for the Breville are [worth a scan](https://www.amazon.com/Breville-Control-Grip-BSB510XL/product-reviews/B004RF7QJW/?tag=kitchenpot-20) if you mostly make soup, since grip and balance come up a lot in hand blender feedback.
 
 ## Where It Fits in a Small Kitchen
 

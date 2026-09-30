@@ -131,13 +131,13 @@ Burner size is the other limit. A pan much wider than the burner heats in a bull
 
 You do not need a set. Two pans of the same shape, in different materials, cover almost everything.
 
-The first is a **cast iron skillet**. A [10.25-inch Lodge](https://www.amazon.com/dp/B00006JSUA/?tag=kitchenpot-20) is the standard answer because it costs little, lasts for decades and comes pre-seasoned. Owner reviews for it consistently split along one line: people who keep it dry and oiled love it, and people who leave it in the sink complain about rust. That is the whole learning curve. The surface is rougher than a machined pan, so it takes a few cooks before it releases eggs cleanly.
+The first is a **cast iron skillet**. A [10.25-inch Lodge](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-10-25-Inches/dp/B00006JSUA/?tag=kitchenpot-20) is the standard answer because it costs little, lasts for decades and comes pre-seasoned. Owner reviews for it consistently split along one line: people who keep it dry and oiled love it, and people who leave it in the sink complain about rust. That is the whole learning curve. The surface is rougher than a machined pan, so it takes a few cooks before it releases eggs cleanly.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00006JSUA/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-10-25-Inches/dp/B00006JSUA/?tag=kitchenpot-20)
 
-The second is a **tri-ply stainless fry pan**. A [Tramontina 10-inch tri-ply clad pan](https://www.amazon.com/dp/B00JAP2IPQ/?tag=kitchenpot-20) gives you the aluminum core and the even heating without All-Clad money. Note how the listing calls it a frying pan and a skillet in the same breath, which tells you everything this article has been saying. Stainless takes practice, since food sticks until the pan is properly preheated. Our guides to [cleaning stainless steel pans](/blog/how-to-clean-stainless-steel-pans/) and [seasoning stainless steel pans](/blog/how-to-season-stainless-steel-pans/) smooth that out.
+The second is a **tri-ply stainless fry pan**. A [Tramontina 10-inch tri-ply clad pan](https://www.amazon.com/Tramontina-10-inch-tri-ply-clad-pan/dp/B00JAP2IPQ/?tag=kitchenpot-20) gives you the aluminum core and the even heating without All-Clad money. Note how the listing calls it a frying pan and a skillet in the same breath, which tells you everything this article has been saying. Stainless takes practice, since food sticks until the pan is properly preheated. Our guides to [cleaning stainless steel pans](/blog/how-to-clean-stainless-steel-pans/) and [seasoning stainless steel pans](/blog/how-to-season-stainless-steel-pans/) smooth that out.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00JAP2IPQ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Tramontina-10-inch-tri-ply-clad-pan/dp/B00JAP2IPQ/?tag=kitchenpot-20)
 
 Add a cheap nonstick pan for eggs if you like, and replace it when it wears. If you would rather buy everything at once, our [best cookware sets under $200](/blog/best-cookware-set-under-200/) picks cover stainless, nonstick and ceramic options.
 

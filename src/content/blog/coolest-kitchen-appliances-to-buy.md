@@ -61,7 +61,7 @@ Even better, using sous vide to cook uses less salts and oils, which results in 
 
 When shopping, you should always ensure that the sous vide has a low water alert feature, long enough power cord, water circulator pump, and removable skirt for ease of cleaning.
 
-On this, we recommend that you buy the **[Anova Culinary AN500-US00 Sous Vide Precision Cooker (WiFi), 1000 Watts | Anova App Included, Black and Silver](https://www.amazon.com/Anova-Culinary-AN500-US00-Precision-Included/dp/B07WQ4M5TS?tag=kitchenpot-20)**
+On this, we recommend that you buy the **[Anova Culinary AN500-US00 Sous Vide Precision Cooker (WiFi), 1000 Watts | Anova App Included, Black and Silver](https://www.amazon.com/Anova-Culinary-AN500-US00-Precision-Included/dp/B07WQ4M5TS/?tag=kitchenpot-20)**
 
 **Why We Like Anova Sous Vide Cooker**
 
@@ -83,7 +83,7 @@ Even better, the smart device comes with an LCD with simple push menu options to
 
 It has sensors that help in regulating temperature and pressure. Once the cooking is complete, the instant pot will auto shut, thus eliminating any risk of burning the food. 
 
-To get the best results when using an instant pot, we recommend that you purchase **[Instant Pot Duo Nova Pressure Cooker 7 in 1, 6 Qt](https://www.amazon.com/Instant-One-Touch-Multi-Use-Programmable-Pressure/dp/B07RCNHTLS?tag=kitchenpot-20).**
+To get the best results when using an instant pot, we recommend that you purchase **[Instant Pot Duo Nova Pressure Cooker 7 in 1, 6 Qt](https://www.amazon.com/Instant-One-Touch-Multi-Use-Programmable-Pressure/dp/B07RCNHTLS/?tag=kitchenpot-20).**
 
 **Why We Like Duo Nova Instant Pot**
 
@@ -110,8 +110,8 @@ Points to note when shopping for the best-iced tea maker include:
 
 Based on these factors, we recommend two main brands: 
 
-* **[Mr. Coffee TM75 Iced Tea Maker](https://www.amazon.com/Mr-Coffee-2-Quart-Iced-Maker/dp/B00005OTXI?tag=kitchenpot-20)**
-* **[Takeya Iced Tea Maker with Patented Flash Chill Technology](https://www.amazon.com/Takeya-Maker-Patented-Flash-Technology/dp/B0095ZBJT2?tag=kitchenpot-20)**
+* **[Mr. Coffee TM75 Iced Tea Maker](https://www.amazon.com/Mr-Coffee-2-Quart-Iced-Maker/dp/B00005OTXI/?tag=kitchenpot-20)**
+* **[Takeya Iced Tea Maker with Patented Flash Chill Technology](https://www.amazon.com/Takeya-Maker-Patented-Flash-Technology/dp/B0095ZBJT2/?tag=kitchenpot-20)**
 
 Both of these appliances are BPA-free and highly efficient. If you choose a different brand, ensure that you check that it is BPA-free for guaranteed safety. 
 
@@ -127,7 +127,7 @@ There are several types of espresso makers in the market today. You can choose t
 
 If you’re not an expert in making coffee, we advise that you avoid the manual espresso makers since they are a bit technical. 
 
-We recommend that you shop for **[Breville BES870XL Barista Express Espresso Machine, Brushed Stainless Steel.](https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU?tag=kitchenpot-20)**
+We recommend that you shop for **[Breville BES870XL Barista Express Espresso Machine, Brushed Stainless Steel.](https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU/?tag=kitchenpot-20)**
 
 **Why We Like Breville Espresso Machine**
 
@@ -146,7 +146,7 @@ Since you’ll be required to hold the mixer for long when mixing, you should ch
 
 Additionally, you should always consider the attachments that come along with the mixer. An ideal hand mixer should have a flat beater, dough hook, balloon whisk, and flex edge beater. 
 
-We recommend that you get **[Hamilton Beach 6-Speed Electric Hand Mixer](https://www.amazon.com/Hamilton-Beach-62682RZ-Mixer-Snap/dp/B001CH0ZLE?tag=kitchenpot-20)** to enjoy the best mixing results. 
+We recommend that you get **[Hamilton Beach 6-Speed Electric Hand Mixer](https://www.amazon.com/Hamilton-Beach-62682RZ-Mixer-Snap/dp/B001CH0ZLE/?tag=kitchenpot-20)** to enjoy the best mixing results. 
 
 **Why We Like Hamilton Beach Hand Mixer**
 
@@ -165,7 +165,7 @@ Even more interesting, immersion blenders come with varying strengths. If you ge
 
 Our top pick for this category is **Mueller Austria Ultra-Stick 500 Watt 9-Speed Immersion Multi-Purpose Hand Blender Heavy Duty Copper Motor Brushed 304 Stainless Steel With Whisk, Milk Frother Attachments.**
 
-**Why We Like** **[Mueller Immersion Blender](https://www.amazon.com/Mueller-Austria-Ultra-Stick-Multi-Purpose-Attachment/dp/B075X1KPLZ?tag=kitchenpot-20)**
+**Why We Like** **[Mueller Immersion Blender](https://www.amazon.com/Mueller-Austria-Ultra-Stick-Multi-Purpose-Attachment/dp/B075X1KPLZ/?tag=kitchenpot-20)**
 
 * It has an ergonomic handle for a comfortable non-slip grip
 * Powerful and durable copper motor
@@ -179,7 +179,7 @@ If you want to enjoy cooking your rice – whether brown or white – you should
 
 A rice cooker helps you to boil or steam rice with much precision than when using an ordinary pot. It has a thermostat that measures and controls temperature to ensure that your rice does not overheat/overcook.
 
-We recommend that you buy **[BLACK+DECKER RC506 6-Cup Cooked/3-Cup Uncooked Rice Cooker and Food Steamer](https://www.amazon.com/DECKER-RC506-Cooked-Uncooked-Steamer/dp/B016Y8JSK4?tag=kitchenpot-20)** for guaranteed results.
+We recommend that you buy **[BLACK+DECKER RC506 6-Cup Cooked/3-Cup Uncooked Rice Cooker and Food Steamer](https://www.amazon.com/DECKER-RC506-Cooked-Uncooked-Steamer/dp/B016Y8JSK4/?tag=kitchenpot-20)** for guaranteed results.
 
 This Amazon best seller is lightweight, effective, and highly versatile. It includes a food steaming basket and an automatic keep warm feature.
 
@@ -197,7 +197,7 @@ However, you must be keen to ensure that you only choose a can opener that does 
 
 On this, we recommend that you get yourself a **Hamilton Beach Smooth Touch Electric Automatic Can Opener.**
 
-**Why We Recommend** **[Hamilton Beach Smooth Electric Can Opener](https://www.amazon.com/Hamilton-Beach-76607-Smooth-Opener/dp/B000SAS5GI?tag=kitchenpot-20)**
+**Why We Recommend** **[Hamilton Beach Smooth Electric Can Opener](https://www.amazon.com/Hamilton-Beach-76607-Smooth-Opener/dp/B000SAS5GI/?tag=kitchenpot-20)**
 
 * Unlike other can openers, the Hamilton Beach cuts along the side of the container as opposed to the top. This reduces contact with the food and eliminates spillage.
 * It has an easy touch opening lever making it the best fit for the elderly and arthritis patients
@@ -212,7 +212,7 @@ However, you must always ensure that your knives remain sharp to avoid injuries 
 
 Any ideal knife set should contain different types of knives including a chef’s knife, utility knife, serrated knife, santoku knife, slicing knife, carving knife, steak knife, and a paring knife. 
 
-On this, we have 2 equally good knives: The **[Home Hero Stainless Steel Knife Set](https://www.amazon.com/Stainless-Steel-Knife-Set-Block/dp/B075MD55N1?tag=kitchenpot-20)** and the **[Master Maison 19-Piece Premium Kitchen Knife Set With Wooden Block](https://www.amazon.com/Premium-Knife-Block-Master-Maison/dp/B082VPG997?tag=kitchenpot-20)**. 
+On this, we have 2 equally good knives: The **[Home Hero Stainless Steel Knife Set](https://www.amazon.com/Stainless-Steel-Knife-Set-Block/dp/B075MD55N1/?tag=kitchenpot-20)** and the **[Master Maison 19-Piece Premium Kitchen Knife Set With Wooden Block](https://www.amazon.com/Premium-Knife-Block-Master-Maison/dp/B082VPG997/?tag=kitchenpot-20)**. 
 
 I had difficulties defining the winner after using both. But I like the ergonomic handles of the Master Maison brand coupled with its highly aesthetic wooden block.
 
@@ -241,7 +241,7 @@ However, electric vs. manual knife sharpener analysis shows that you’ll have t
 
 We recommend that you consider **Chef’sChoice 130 Professional Electric Knife Sharpening Station for Straight and Serrated Knives Diamond Abrasives and Precision Angle Guides Made in the USA, 3-Stages, Platinum.**
 
-**Why We Love** **[Chef’sChoice 130 Professional Knife Sharpener](https://www.amazon.com/ChefsChoice-Professional-Sharpening-Abrasives-Precision/dp/B000CSK0DM?tag=kitchenpot-20)** 
+**Why We Love** **[Chef’sChoice 130 Professional Knife Sharpener](https://www.amazon.com/ChefsChoice-Professional-Sharpening-Abrasives-Precision/dp/B000CSK0DM/?tag=kitchenpot-20)** 
 
 * Can sharpen many types of knives, including the stubborn ceramic knives! It has a 100-percent diamond in stage one 
 * Ideal for sharpening serrated knives 
@@ -261,7 +261,7 @@ The appliance consists of two parallel working surfaces that make it highly vers
 
 When buying the best mandoline slicer for your kitchen, you must ensure that the blades are arranged in a way that can achieve unique slices, crinkle cuts, firm dices, and waffle cuts. 
 
-On this, we recommend **[Mueller Austria Premium Quality V-Pro Multi Blade Adjustable Mandolin](https://www.amazon.com/Mueller-Austria-Adjustable-Mandoline-Slicer/dp/B01CT63964?tag=kitchenpot-20)**e Slicer
+On this, we recommend **[Mueller Austria Premium Quality V-Pro Multi Blade Adjustable Mandolin](https://www.amazon.com/Mueller-Austria-Adjustable-Mandoline-Slicer/dp/B01CT63964/?tag=kitchenpot-20)**e Slicer
 
 Why we Love Mueller Austria Mandoline Slicer 
 
@@ -282,7 +282,7 @@ If you want thick fluffy waffles, then you should choose the Belgium one. It has
 
 On the contrary, the classic ones result in thinner and crispier waffles. 
 
-To get the best results, we recommend that you buy the [Cuisinart WAF-F20 Double Belgian Maker Waffle Iron, Silver](https://www.amazon.com/Cuisinart-WAF-F20-Double-Belgian-Stainless/dp/B01IA3HJGG?tag=kitchenpot-20).
+To get the best results, we recommend that you buy the [Cuisinart WAF-F20 Double Belgian Maker Waffle Iron, Silver](https://www.amazon.com/Cuisinart-WAF-F20-Double-Belgian-Stainless/dp/B01IA3HJGG/?tag=kitchenpot-20).
 
 Why We Love Cuisinart Waffle Maker
 

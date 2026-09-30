@@ -126,7 +126,7 @@ Additionally, forged knives are thicker than the stamped ones. The thickness is 
 
 Many manufacturers make forged knives. However, the three main brands with tremendously positive user reviews include:
 
-* **[Wusthof Classic Knives](https://www.amazon.com/Wusthof-Classic-6-Inch-Chefs-Knife/dp/B00009ZK07?tag=kitchenpot-20).** These are German-manufactured knives that have been in the market for more than 200 years. They are associated with stability, durability, and high edge retention capacity.
+* **[Wusthof Classic Knives](https://www.amazon.com/Wusthof-Classic-6-Inch-Chefs-Knife/dp/B00009ZK07/?tag=kitchenpot-20).** These are German-manufactured knives that have been in the market for more than 200 years. They are associated with stability, durability, and high edge retention capacity.
 * **[Henckels Forged Knives](https://www.amazon.com/J-Henckels-International-13550-005-Statement/dp/B00GHX5HGG/?tag=kitchenpot-20).** Henckels is also a German company founded in 1731. The long-term experience in the manufacturing field guarantees formidable knives that can withstand immense pressure. These knives are closely related to Zwilling, and they are manufactured by the same company. 
 * **[XYJ Knives](https://www.amazon.com/stores/XYJ/page/491492C7-10F5-404F-9394-D1570E92AA16?tag=kitchenpot-20).** This brand is associated with heavy-duty santoku & Damascus knives. The knives have unique designs and exceptional stability to enable you to undertake tough duties without a hassle. 
 

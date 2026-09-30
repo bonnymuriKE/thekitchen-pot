@@ -42,7 +42,7 @@ So learning how to use a mandoline is really two skills. One is the slicing moti
 
 ## What Each Part of a Mandoline Does
 
-Mandolines come in two main styles. Handheld and paddle types (like the Japanese Benriner) are narrow, light and rest on a bowl lip or board. Standing types (like the [OXO Good Grips V-Blade](https://www.amazon.com/dp/B001THGPDO/?tag=kitchenpot-20)) have fold-out legs and a wider platform. The parts are the same on both.
+Mandolines come in two main styles. Handheld and paddle types (like the Japanese Benriner) are narrow, light and rest on a bowl lip or board. Standing types (like the [OXO Good Grips V-Blade](https://www.amazon.com/OXO-Good-Grips-V-Blade/dp/B001THGPDO/?tag=kitchenpot-20)) have fold-out legs and a wider platform. The parts are the same on both.
 
 | Part | What it does | What to watch for |
 | --- | --- | --- |
@@ -79,7 +79,7 @@ Gloves sold in the US are rated on the ANSI/ISEA 105 cut scale, from A1 to A9. T
 | A5 | About 2,200 grams | Mandolines, graters, entry-level butchery |
 | A6 to A7 | 3,000 to 4,999 grams | Boning, oyster shucking |
 
-For a home mandoline, A4 to A5 is the practical range. Many gloves sold for kitchen use are labeled "level 5," which usually refers to the older EN 388 European scale, so check the packaging for the ANSI A-number if you want to compare fairly. The [NoCry cut-resistant gloves](https://www.amazon.com/dp/B06WGV2XP6/?tag=kitchenpot-20) are a common food-grade option, and they're machine washable.
+For a home mandoline, A4 to A5 is the practical range. Many gloves sold for kitchen use are labeled "level 5," which usually refers to the older EN 388 European scale, so check the packaging for the ANSI A-number if you want to compare fairly. The [NoCry cut-resistant gloves](https://www.amazon.com/NoCry-cut-resistant-gloves/dp/B06WGV2XP6/?tag=kitchenpot-20) are a common food-grade option, and they're machine washable.
 
 Cut resistance is a different rating from heat resistance, so a cut glove won't help with a hot pan; for that job see our roundup of [heat-resistant gloves for cooking](/blog/10-best-heat-resistant-gloves-for-cooking/).
 

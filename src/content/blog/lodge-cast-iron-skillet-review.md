@@ -46,11 +46,11 @@ This review works through the specs Lodge publishes, the things the brand is not
 
 ## Quick Picks
 
-- **Best first cast iron pan:** [Lodge 10.25-Inch Seasoned Cast Iron Skillet](https://www.amazon.com/dp/B00006JSUA/?tag=kitchenpot-20)
-- **Best for bigger batches:** [Lodge 12-Inch Seasoned Cast Iron Skillet](https://www.amazon.com/dp/B00006JSUB/?tag=kitchenpot-20)
-- **Best Lodge for comfort and searing:** [Lodge Chef Collection 12-Inch Skillet](https://www.amazon.com/dp/B07Z6TV9Y7/?tag=kitchenpot-20)
-- **Best lightweight upgrade:** [Lancaster No. 8 Cast Iron Skillet](https://www.amazon.com/dp/B097QC2WBY/?tag=kitchenpot-20)
-- **Best if you never want to season anything:** [Le Creuset Signature 10.25-Inch Skillet](https://www.amazon.com/dp/B01N0Z8AIZ/?tag=kitchenpot-20)
+- **Best first cast iron pan:** [Lodge 10.25-Inch Seasoned Cast Iron Skillet](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-10-25-Inches/dp/B00006JSUA/?tag=kitchenpot-20)
+- **Best for bigger batches:** [Lodge 12-Inch Seasoned Cast Iron Skillet](https://www.amazon.com/Lodge-12-Inch-Pre-Seasoned-Cast-Iron-Skillet/dp/B00006JSUB/?tag=kitchenpot-20)
+- **Best Lodge for comfort and searing:** [Lodge Chef Collection 12-Inch Skillet](https://www.amazon.com/Lodge-Chef-Collection-12-Inch-Skillet/dp/B07Z6TV9Y7/?tag=kitchenpot-20)
+- **Best lightweight upgrade:** [Lancaster No. 8 Cast Iron Skillet](https://www.amazon.com/Lancaster-No-8-Cast-Iron-Skillet/dp/B097QC2WBY/?tag=kitchenpot-20)
+- **Best if you never want to season anything:** [Le Creuset Signature 10.25-Inch Skillet](https://www.amazon.com/Le-Creuset-Signature-Round-Skillet-10-25-Inch/dp/B01N0Z8AIZ/?tag=kitchenpot-20)
 
 ## Lodge Skillet Specs and the Alternatives: Comparison Table
 
@@ -102,7 +102,7 @@ Heat behaviour is the other thing worth setting expectations on. Cast iron condu
 
 **Who should buy it:** Anyone buying their first cast iron pan, anyone cooking for one to three people, and anyone who wants a searing pan that will outlive their stove. It is also the sensible pick if you are [stocking a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) and want one pan that covers stovetop, oven and grill.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00006JSUA/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-10-25-Inches/dp/B00006JSUA/?tag=kitchenpot-20)
 
 ## 2. Lodge 12-Inch Seasoned Cast Iron Skillet: Best for Bigger Batches
 
@@ -130,7 +130,7 @@ The cost is weight and burner fit. Around eight pounds is a lot of pan to lift o
 
 **Who should buy it:** Households of four or more, anyone who does big weekend breakfasts, and cooks who already own a smaller skillet and want to stop batching.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00006JSUB/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Lodge-12-Inch-Pre-Seasoned-Cast-Iron-Skillet/dp/B00006JSUB/?tag=kitchenpot-20)
 
 ## 3. Lodge Chef Collection 12-Inch Skillet: Best Lodge for Comfort and Searing
 
@@ -158,7 +158,7 @@ It is also cast a little thinner than the standard 12-inch, which takes roughly 
 
 **Who should buy it:** Anyone who has used a classic Lodge and disliked the handle, and cooks who do more sautéing than searing. It pairs well with a decent turner, which is covered in our [metal spatula set roundup](/blog/best-metal-spatula-set/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07Z6TV9Y7/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Lodge-Chef-Collection-12-Inch-Skillet/dp/B07Z6TV9Y7/?tag=kitchenpot-20)
 
 ## 4. Lancaster No. 8 Cast Iron Skillet: Best Lightweight Upgrade
 
@@ -189,7 +189,7 @@ The catch is money. You are paying somewhere between six and eight times a Lodge
 
 **Who should buy it:** Daily cast iron cooks, anyone with wrist or grip problems, and people buying a pan meant to be handed down. If you are furnishing a compact kitchen where every item has to earn its shelf, the weight saving also helps with the storage problems covered in [how to store pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B097QC2WBY/?tag=kitchenpot-20) [Check Price at Lancaster Cast Iron](https://www.awin1.com/cread.php?awinmid=95395&awinaffid=1956629&clickref=lodge-cast-iron-skillet-review&ued=https%3A%2F%2Flancastercastiron.com%2Fproducts%2Flancaster-cast-iron-skillet)
+[Check Price on Amazon](https://www.amazon.com/Lancaster-No-8-Cast-Iron-Skillet/dp/B097QC2WBY/?tag=kitchenpot-20) [Check Price at Lancaster Cast Iron](https://www.awin1.com/cread.php?awinmid=95395&awinaffid=1956629&clickref=lodge-cast-iron-skillet-review&ued=https%3A%2F%2Flancastercastiron.com%2Fproducts%2Flancaster-cast-iron-skillet)
 
 ## 5. Le Creuset Signature 10.25-Inch Skillet: Best If You Never Want to Season Anything
 
@@ -220,7 +220,7 @@ At six pounds it is no lighter than a Lodge, and at roughly seven to ten times t
 
 **Who should buy it:** Cooks who want cast iron heat retention with none of the upkeep, and anyone who braises more than they sear. If you are weighing it against a covered pot instead, our [Milo Dutch oven review](/blog/milo-dutch-oven-review/) covers the enameled alternative at a lower price.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01N0Z8AIZ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Le-Creuset-Signature-Round-Skillet-10-25-Inch/dp/B01N0Z8AIZ/?tag=kitchenpot-20)
 
 ## Six Reasons the Lodge Skillet Stays Popular
 
@@ -313,11 +313,11 @@ Skip acidic braises, long tomato simmers and anything with a lot of wine until t
 
 ## Which Lodge Skillet Should You Buy?
 
-- **Buying your first cast iron pan:** the [10.25-inch Lodge](https://www.amazon.com/dp/B00006JSUA/?tag=kitchenpot-20). It is the size that fits the most stoves, ovens and households.
-- **Cooking for four or more:** the [12-inch Lodge](https://www.amazon.com/dp/B00006JSUB/?tag=kitchenpot-20), as long as you have a full-size burner.
-- **You want cast iron but hate the handle:** the [Chef Collection 12-inch](https://www.amazon.com/dp/B07Z6TV9Y7/?tag=kitchenpot-20).
-- **Weight is the dealbreaker:** the [Lancaster No. 8](https://www.amazon.com/dp/B097QC2WBY/?tag=kitchenpot-20), if the price makes sense for how often you cook.
-- **You want zero maintenance:** the [Le Creuset Signature skillet](https://www.amazon.com/dp/B01N0Z8AIZ/?tag=kitchenpot-20).
+- **Buying your first cast iron pan:** the [10.25-inch Lodge](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-10-25-Inches/dp/B00006JSUA/?tag=kitchenpot-20). It is the size that fits the most stoves, ovens and households.
+- **Cooking for four or more:** the [12-inch Lodge](https://www.amazon.com/Lodge-12-Inch-Pre-Seasoned-Cast-Iron-Skillet/dp/B00006JSUB/?tag=kitchenpot-20), as long as you have a full-size burner.
+- **You want cast iron but hate the handle:** the [Chef Collection 12-inch](https://www.amazon.com/Lodge-Chef-Collection-12-Inch-Skillet/dp/B07Z6TV9Y7/?tag=kitchenpot-20).
+- **Weight is the dealbreaker:** the [Lancaster No. 8](https://www.amazon.com/Lancaster-No-8-Cast-Iron-Skillet/dp/B097QC2WBY/?tag=kitchenpot-20), if the price makes sense for how often you cook.
+- **You want zero maintenance:** the [Le Creuset Signature skillet](https://www.amazon.com/Le-Creuset-Signature-Round-Skillet-10-25-Inch/dp/B01N0Z8AIZ/?tag=kitchenpot-20).
 
 One last practical note: buy the pan and a decent pair of gloves at the same time. More people give up on cast iron because of a burnt hand in week one than because of anything to do with seasoning. If you would rather avoid iron entirely, the coated options in our [best cookware set under $200](/blog/best-cookware-set-under-200/) roundup cover lighter alternatives at similar money.
 

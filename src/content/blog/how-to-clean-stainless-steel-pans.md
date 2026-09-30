@@ -49,7 +49,7 @@ You don't need a special cleaning kit. Here's what actually does the work, and w
 | Non-scratch scrub sponge | Stuck-on bits that soap alone won't lift | Under $5 |
 | Baking soda | Burnt food, light brown stains, the outside of the pan | Under $2 |
 | White vinegar | Rainbow stains, white spots, cloudy film | Under $3 |
-| [Bar Keepers Friend](https://www.amazon.com/dp/B000QYLEBE/?tag=kitchenpot-20) (powder or soft cleanser) | Stubborn stains, burnt oil, discoloration, making the pan look new | Under $5 |
+| [Bar Keepers Friend](https://www.amazon.com/Bar-Keepers-Friend/dp/B000QYLEBE/?tag=kitchenpot-20) (powder or soft cleanser) | Stubborn stains, burnt oil, discoloration, making the pan look new | Under $5 |
 | Wooden spoon or flat silicone spatula | Scraping burnt food without scratching | You likely have one |
 
 If you only buy one thing, make it Bar Keepers Friend. The main cleaning ingredient is oxalic acid, which breaks down baked-on oil at a chemical level. That's why it works on marks that dish soap slides right over. Major cookware brands like All-Clad [list it by name](https://www.all-clad.com/care-use) as a safe cleaner for their stainless pans, alongside Bon Ami.
