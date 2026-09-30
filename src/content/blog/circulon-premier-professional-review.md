@@ -59,8 +59,6 @@ One more fact matters for some buyers. Circulon's own product disclosure says th
 
 ## Our Picks at a Glance
 
-These are the Premier Professional set and four other current Circulon lines, each for a different kind of cook. Every one showed "Add to cart" on Circulon's own site when we checked.
-
 - **Best Premier Professional set:** [Circulon Premier Professional 10-Piece Set](https://www.amazon.com/Circulon-Premier-Professional-Hard-Anodized-Nonstick-Induction-Cookware-Set-10-Piece-Bronze/dp/B0BS548DQK/?tag=kitchenpot-20)
 - **Best for metal utensils:** [Circulon A1 Series ScratchDefense 10-Piece Set](https://www.amazon.com/Circulon-A1-Series-ScratchDefense-Nonstick-Induction-Cookware-Set-10-Piece-Graphite/dp/B0C6YMN1J6/?tag=kitchenpot-20)
 - **Best stainless and nonstick hybrid:** [Circulon SteelShield Tri-Ply Clad 8.5" and 10" Frying Pan Set](https://www.amazon.com/Circulon-SteelShield-Tri-Ply-Clad-Nonstick-Frying-Pan-Set-8-5-10-Inch/dp/B08YGVY2B2/?tag=kitchenpot-20)
@@ -324,3 +322,5 @@ Still weighing Circulon against other brands? Our picks for the [best cookware s
 - [Best Sauté Pan With a Lid](/blog/best-saute-pan/)
 - [Best Stockpot With a Lid](/blog/best-stockpot-with-a-lid/)
 - [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
+
+These are the Premier Professional set and four other current Circulon lines, each for a different kind of cook. Every one showed "Add to cart" on Circulon's own site when we checked.

@@ -1,12 +1,12 @@
 ---
-excerpt: "Six panini presses worth buying, sorted by what they actually are. We cover floating hinges, plate coatings, which models let you pull the plates out for washing, and which open flat into a griddle."
+excerpt: "Five panini presses worth buying, sorted by what they actually are. We cover floating hinges, plate coatings, which models let you pull the plates out for washing, and which open flat into a griddle."
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Panini Press for Home Use (6 Picks Compared on Specs)"
+title: "Best Panini Press for Home Use (5 Picks Compared on Specs)"
 source: wordpress
 slug: best-panini-press-for-home-use
 pubDate: 2020-10-05
-modDate: 2026-09-22
+modDate: 2026-09-30
 image: ""
 category: Bakeware
 author: Boniface Muriuki
@@ -19,8 +19,8 @@ tags:
   - contact-grill
   - small-kitchen-appliances
 authorImageAlt: kitchenpot1
-description: "The best panini press for home use, compared on hinge type, plate coating and whether the plates lift out. Six real picks, from under $50 to a big splurge."
-seo: "Looking for the best panini press for home use? We compare six current models on floating hinge design, removable plates, plate coating and griddle modes, with a full spec table and a plain-English buying guide."
+description: "The best panini press for home use, compared on hinge type, plate coating and whether the plates lift out. Five current picks, from under $50 to a splurge."
+seo: "Looking for the best panini press for home use? We compare five current models on floating hinge design, removable plates, plate coating and griddle modes, with a full spec table and a plain-English buying guide."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
   - question: "What is a floating hinge on a panini press?"
@@ -34,35 +34,33 @@ faq:
   - question: "Do you butter the bread before using a panini press?"
     answer: "Brush the outside of the bread with a thin layer of butter, mayonnaise or olive oil. Fat carries heat into the crust and gives you a crisp, even brown instead of a dry, toasted surface. Leave the inside dry. Never pour oil onto the plates, since it pools in the ridges and burns."
   - question: "Are panini press plates dishwasher safe?"
-    answer: "Removable plates from Cuisinart, Chefman, Breville and George Foreman are listed as dishwasher safe by the manufacturers. Fixed plates never are, because the whole unit is electric. Even when the dishwasher is allowed, hand washing is gentler on a nonstick surface. Hot water, dish soap and a soft sponge will do the job in about a minute."
+    answer: "Removable plates from Cuisinart and Breville are listed as dishwasher safe by the manufacturers. Fixed plates never are, because the whole unit is electric. Even when the dishwasher is allowed, hand washing is gentler on a nonstick surface. Hot water, dish soap and a soft sponge will do the job in about a minute."
 ---
 A panini press is one hinge and two hot plates. Get the hinge right and the sandwich browns edge to edge. Get it wrong and one end comes out pale.
 
 Most shoppers skip past the hinge and buy on wattage or looks. That is why two presses at the same price can turn out such different sandwiches.
 
-**The short version:** the [Cuisinart Griddler GR-4NP1](https://www.amazon.com/Cuisinart-Griddler-GR-4NP1-5-in-1/dp/B002YD99Y4/?tag=kitchenpot-20) is the best pick for most kitchens, because its plates lift out for washing and it opens flat into a griddle. If you only want sandwiches, the Breville Panini Duo presses them better and costs less.
+**The short version:** the [Cuisinart Griddler GR-4NNAS](https://www.amazon.com/Cuisinart-Griddler-5-in-1-Panini-Press-GR-4NNAS/dp/B0FFTRHTNP/?tag=kitchenpot-20) is the best pick for most kitchens. Its plates lift out for washing and it opens flat into a griddle. If you only want sandwiches, the Breville Panini Duo presses them better for the same money.
 
 One more thing before the list. Half the machines sold as "panini presses" are really grill and griddle combos that happen to close. Each pick below says plainly which kind it is.
 
 ## Quick Picks for Every Kitchen
 
-- **Best overall:** [Cuisinart Griddler GR-4NP1 5-in-1](https://www.amazon.com/Cuisinart-Griddler-GR-4NP1-5-in-1/dp/B002YD99Y4/?tag=kitchenpot-20)
+- **Best overall:** [Cuisinart Griddler GR-4NNAS 5-in-1](https://www.amazon.com/Cuisinart-Griddler-5-in-1-Panini-Press-GR-4NNAS/dp/B0FFTRHTNP/?tag=kitchenpot-20)
 - **Best dedicated sandwich press:** [Breville BSG520XL Panini Duo](https://www.amazon.com/Breville-BSG520XL-Panini-Duo/dp/B002PY6X1E/?tag=kitchenpot-20)
-- **Best under $50:** [Hamilton Beach 25460A Panini Press](https://www.amazon.com/Hamilton-Beach-25460A-Panini-Press/dp/B00IWOJRSM/?tag=kitchenpot-20)
-- **Best removable plates for the price:** [Chefman 5-in-1 Digital Panini Press Grill](https://www.amazon.com/Chefman-5-in-1-Digital-Panini-Press-Grill/dp/B0B7CHWYFD/?tag=kitchenpot-20)
+- **Best under $50:** [Chefman 180° Grill and Panini Press, 4-Slice](https://www.amazon.com/Chefman-Panini-Press-Grill-Gourmet-Sandwich-Maker-4-Slice/dp/B077YR9FFG/?tag=kitchenpot-20)
+- **Best removable plates with digital controls:** [Chefman 5-in-1 Digital Panini Press Grill](https://www.amazon.com/Chefman-5-in-1-Digital-Panini-Press-Grill/dp/B0B7CHWYFD/?tag=kitchenpot-20)
 - **Best if you also want an indoor grill:** [Breville BGR820XL Smart Grill](https://www.amazon.com/Breville-BGR820XL-Smart-Grill/dp/B003SIN0BC/?tag=kitchenpot-20)
-- **Best cheap pick with plates that come out:** [George Foreman GRP1060B 4-Serving Grill](https://www.amazon.com/George-Foreman-GRP1060B-4-Serving-Grill/dp/B00KDVJLJW/?tag=kitchenpot-20)
 
-## How the Six Compare
+## How the Five Compare
 
 | Model | What it really is | Plates come out | Opens flat | Power |
 | --- | --- | --- | --- | --- |
-| Cuisinart Griddler GR-4NP1 | 5-in-1 grill, griddle and press | Yes, dishwasher safe | Yes | 1,500W |
+| Cuisinart Griddler GR-4NNAS | 5-in-1 grill, griddle and press | Yes, dishwasher safe | Yes | 1,500W |
 | Breville Panini Duo BSG520XL | Dedicated sandwich press | No | No | 1,500W |
-| Hamilton Beach 25460A | Dedicated sandwich press | No | Lid locks upright only | 1,400W |
+| Chefman 180° Press, 4-Slice | Press that opens flat | No, drip tray only | Yes, 180° | 1,000W |
 | Chefman 5-in-1 Digital | Press, grill and griddle combo | Yes, reversible | Yes, 180° | Not published |
 | Breville Smart Grill BGR820XL | Contact grill that presses | Yes, dishwasher safe | Yes, 180° | 1,800W |
-| George Foreman GRP1060B | Sloped contact grill | Yes, dishwasher safe | No | Not published |
 
 Wattage is not a quality score. It tells you how fast the plates recover heat after cold food lands on them, and little else.
 
@@ -72,48 +70,49 @@ A press cooks by contact. Heat moves from the metal into the bread wherever the 
 
 A basic hinge pivots from one fixed pin at the back. Close it on a two-inch ciabatta roll and the lid sits at an angle. The back of the sandwich gets crushed while the front barely touches metal.
 
-A floating hinge fixes that. The top plate can rise straight up on its mount and stay parallel to the bottom plate. Cuisinart calls it a floating cover on the Griddler, Breville calls it a floating hinge, and Hamilton Beach calls it a floating lid. Same idea, same result.
+A floating hinge fixes that. The top plate can rise straight up on its mount and stay parallel to the bottom plate. Cuisinart calls it a floating cover on the Griddler. Breville and Chefman call it a floating hinge. Same idea, same result.
 
 Breville goes one step further on the Panini Duo with a height lock. You set the top plate at a chosen gap so it toasts the bread without squashing the filling. That matters for a soft sandwich with tomato in it.
 
 Ridges are the other half of the look. Ridged plates give you the dark bar marks people associate with a café sandwich, but they only touch part of the crust. Smooth plates brown the whole surface instead, more like a [griddle pan](/blog/best-griddle-pan-for-pancakes/). Neither is better; they just make different sandwiches.
 
-## 1. Cuisinart Griddler GR-4NP1: Best Overall
+## 1. [Cuisinart Griddler GR-4NNAS](https://www.amazon.com/Cuisinart-Griddler-5-in-1-Panini-Press-GR-4NNAS/dp/B0FFTRHTNP/?tag=kitchenpot-20): Best Overall
 
 - **Type:** 5-in-1 contact grill, griddle and panini press
-- **Plates:** Removable and reversible, 11 by 9 inches, nonstick, dishwasher safe
-- **Power:** 1,500 watts
+- **Plates:** Removable and reversible, ceramic nonstick, dishwasher safe
+- **Controls:** Warm to sear in grill and panini mode, 200°F to 425°F in griddle mode
 - **Hinge:** Floating cover that adjusts to food thickness
 - **Warranty:** 3-year limited
 
 The Griddler is the machine most people should buy, and the reason is the plates. They clip out, flip over and go in the dishwasher. One side is ridged for panini and steak, the other is smooth for eggs and pancakes.
 
-Open it flat and the two plates sit side by side as one long cooking surface. That turns a sandwich press into a small griddle, which is useful if your stove is tiny. It is a real alternative to buying a separate [electric griddle](/blog/how-to-clean-electric-griddle/) you have nowhere to store.
+GR-4NNAS is the current version. Cuisinart has moved the older GR-4NP1 to its discontinued list. The new model listed at $99.95 with "Add to Cart" on Cuisinart's site, and its plates now use a ceramic nonstick coating.
 
-Two dials run the two plates separately. Cuisinart lists a warm-to-sear range in grill mode and 200°F to 425°F in griddle mode. Independent control matters more than it sounds. You can brown the top of a sandwich hard while keeping the bottom gentle, so the cheese melts before the base burns.
+Open it flat and the two plates sit side by side as one long cooking surface. Cuisinart says that fits up to eight burgers. It turns a sandwich press into a small griddle, which is useful if your stove is tiny. It is a real alternative to buying a separate [electric griddle](/blog/how-to-clean-electric-griddle/) you have nowhere to store.
 
-Owner reviews keep circling one complaint: the plates can pop loose if you lift the unit by the top handle. Grab the base instead and it is a non-issue. You can read the [owner feedback on Amazon](https://www.amazon.com/Cuisinart-Griddler-GR-4NP1-5-in-1/product-reviews/B002YD99Y4/?tag=kitchenpot-20) and judge the pattern yourself.
+The temperature controls matter more than they sound. Grill mode runs from warm to sear, and griddle mode runs from 200°F to 425°F. Gentle heat lets the cheese melt before the bread burns.
+
+Ceramic coatings release food well but usually lose slickness sooner than classic nonstick. So keep the heat moderate and skip metal tools. Our guide to [what nonstick cookware actually is](/blog/what-is-nonstick-cookware/) explains the difference.
 
 **What we like:**
 
 - Plates lift out, so cleaning takes a minute instead of ten.
 - Reversible plates cover ridged panini and smooth griddle work.
 - Opens flat for double the cooking area.
-- Two separate temperature dials, one per plate.
 - Floating cover keeps thick rolls level.
 - Three-year warranty, which is long for this price.
 
 **What to know before you buy:**
 
 - The drip tray is small, so fatty meat can overfill it.
-- Waffle plates cost extra if you want that mode.
-- The stainless housing shows fingerprints.
+- Waffle plates cost extra, at $49.95 from Cuisinart.
+- Ceramic plates need gentle care to stay slick.
 
 **Who should buy it:** Anyone who wants one appliance to cover sandwiches, burgers and breakfast. It is the pick we would also hand to a reader building out a first kitchen, alongside the basics in our guide to [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/Cuisinart-Griddler-GR-4NP1-5-in-1/dp/B002YD99Y4/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-Griddler-5-in-1-Panini-Press-GR-4NNAS/dp/B0FFTRHTNP/?tag=kitchenpot-20)
 
-## 2. Breville BSG520XL Panini Duo: Best Dedicated Sandwich Press
+## 2. [Breville BSG520XL Panini Duo](https://www.amazon.com/Breville-BSG520XL-Panini-Duo/dp/B002PY6X1E/?tag=kitchenpot-20): Best Dedicated Sandwich Press
 
 - **Type:** Dedicated panini press, two sandwiches at a time
 - **Plates:** Fixed, aluminum with nonstick coating, ridged top and flat bottom
@@ -121,7 +120,7 @@ Owner reviews keep circling one complaint: the plates can pop loose if you lift 
 - **Hinge:** Floating hinge with adjustable height lock
 - **Size:** 12.6 by 14.1 by 3.7 inches
 
-This one does not pretend to be a grill. It presses sandwiches, and that focus shows in the plate layout. The top plate is ridged for bar marks and the bottom is flat, so the base of the bread browns all over.
+This one does not pretend to be a grill. Breville listed it at $99.95 with "Add to cart." It presses sandwiches, and that focus shows in the plate layout. The top plate is ridged for bar marks and the bottom is flat, so the base of the bread browns all over.
 
 Breville's height control is the feature worth paying for. Instead of letting the lid rest with its full weight on the bread, you lock it at a set gap. Soft fillings stay where you put them, and a delicate brioche roll comes out toasted rather than flattened.
 
@@ -147,41 +146,40 @@ It also stores on its side. The lid clips shut and the cord wraps into the base,
 
 [Check Price on Amazon](https://www.amazon.com/Breville-BSG520XL-Panini-Duo/dp/B002PY6X1E/?tag=kitchenpot-20)
 
-## 3. Hamilton Beach 25460A: Best Under $50
+## 3. [Chefman 180° Grill and Panini Press, 4-Slice](https://www.amazon.com/Chefman-Panini-Press-Grill-Gourmet-Sandwich-Maker-4-Slice/dp/B077YR9FFG/?tag=kitchenpot-20): Best Under $50
 
-- **Type:** Dedicated panini press and sandwich maker
-- **Plates:** Fixed, 10 by 8 inch nonstick grids, listed as PFAS-free
-- **Power:** 1,400 watts
-- **Hinge:** Floating lid, locks upright for open-face melts
-- **Size:** 12.64 by 11.61 by 4.53 inches
+- **Type:** Panini press and contact grill that opens flat
+- **Model:** RJ02-180-4-R
+- **Power:** 1,000 watts
+- **Hinge:** Floating 180° hinge
+- **Capacity:** Four slices of bread
 
-Most presses under $50 use a plain pivot hinge. This one does not, and that is why it keeps showing up on lists like this. Hamilton Beach calls it a café-style floating lid, and it presses down level on a thick roll.
+Most presses under $50 use a plain pivot hinge. This one does not. Chefman lists a floating hinge that also swings open to 180 degrees, so the press can lie flat as a small grill.
 
-The lid also locks in the upright position. That sounds minor until you want an open-face tuna melt or a single slice of garlic bread. With the lid held open, the bottom grid works as a small [contact griddle](/blog/what-can-i-cook-in-an-electric-skillet/).
+Chefman listed it at $49.99 with "In stock, ready to ship." It fits four slices of bread, which means two full sandwiches at once.
 
-Hamilton Beach lists the nonstick grids as PFAS-free, which is worth knowing if you are working chemicals out of your kitchen. Our explainer on [what nonstick cookware actually is](/blog/what-is-nonstick-cookware/) covers what those labels do and do not promise.
+Opened flat, the bottom plate works as a small [contact griddle](/blog/what-can-i-cook-in-an-electric-skillet/) for an open-face melt or a single slice of garlic bread. The top plate becomes a second cooking surface beside it.
 
-There is no temperature dial. It heats to one setting, shows a ready light, and that is the whole interface. For a weekday grilled cheese that is fine. For anything that needs gentle heat, you are timing it yourself.
+The plates are fixed. Only the drip tray comes out, so you clean the plates with a damp cloth while they are still warm. At 1,000 watts it is also the least powerful press here. It recovers heat more slowly when you cook several rounds back to back.
 
 **What we like:**
 
-- A floating lid at a price where nobody expects one.
-- Big 10 by 8 inch cooking area for one press.
-- Lid locks open for melts and toasted single slices.
-- PFAS-free nonstick, per Hamilton Beach.
-- Stores upright and weighs little.
+- A floating hinge at a price where few presses have one.
+- Opens flat to 180 degrees for a second cooking surface.
+- Fits two sandwiches at once.
+- Removable drip tray.
 
 **What to know before you buy:**
 
-- No temperature control, only on and off.
 - Plates are fixed, so cleaning is by cloth.
-- The chrome finish marks easily.
+- 1,000 watts is slow to recover between batches.
+- Chefman's warranty is one year.
 
-**Who should buy it:** Students, renters and anyone buying a first press. It costs about what a week of café sandwiches costs, and it fits in the kind of cupboard we talk about in our [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/).
+**Who should buy it:** Students, renters and anyone buying a first press. It costs about what a week of café sandwiches costs, and it fits in the kind of cupboard we talk about in our [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/). It also pairs well with the cheap wins in our list of [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/Hamilton-Beach-25460A-Panini-Press/dp/B00IWOJRSM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Chefman-Panini-Press-Grill-Gourmet-Sandwich-Maker-4-Slice/dp/B077YR9FFG/?tag=kitchenpot-20)
 
-## 4. Chefman 5-in-1 Digital Panini Press Grill: Best Removable Plates for the Price
+## 4. [Chefman 5-in-1 Digital Panini Press Grill](https://www.amazon.com/Chefman-5-in-1-Digital-Panini-Press-Grill/dp/B0B7CHWYFD/?tag=kitchenpot-20): Best Removable Plates With Digital Controls
 
 - **Type:** Press, contact grill and flat griddle combo
 - **Plates:** Removable and reversible, nonstick, smooth on one side and ridged on the other
@@ -189,7 +187,7 @@ There is no temperature dial. It heats to one setting, shows a ready light, and 
 - **Hinge:** Adjustable hinge for different sandwich heights
 - **Opens flat:** Yes, to 180 degrees
 
-Chefman's answer to the Griddler costs a little more and swaps the dials for a screen. You set a number and a time, and the press holds it. If you have ever guessed at a preheat, the digital read-out is the nicer way to work.
+Chefman's answer to the Griddler costs a little more, at $119.99 with "Add to cart" on Chefman's site. It swaps the dials for a screen. You set a number and a time, and the press holds it. If you have ever guessed at a preheat, the digital read-out is the nicer way to work.
 
 The plates are the reason it is here. They come out, they flip, and Chefman lists the drip tray as dishwasher safe. Reversible plates mean one machine gives you bar-marked panini on Saturday and a flat top for eggs on Sunday.
 
@@ -215,7 +213,7 @@ One caution that applies to every combo unit: more parts means more to fail. Own
 
 [Check Price on Amazon](https://www.amazon.com/Chefman-5-in-1-Digital-Panini-Press-Grill/dp/B0B7CHWYFD/?tag=kitchenpot-20)
 
-## 5. Breville BGR820XL Smart Grill: Best If You Also Want an Indoor Grill
+## 5. [Breville BGR820XL Smart Grill](https://www.amazon.com/Breville-BGR820XL-Smart-Grill/dp/B003SIN0BC/?tag=kitchenpot-20): Best If You Also Want an Indoor Grill
 
 - **Type:** Contact grill that presses sandwiches, opens flat for BBQ mode
 - **Plates:** Removable cast aluminum, PFOA-free nonstick, dishwasher safe
@@ -223,7 +221,7 @@ One caution that applies to every combo unit: more parts means more to fail. Own
 - **Cooking area:** 260 square inches opened flat
 - **Controls:** LCD display, electronic thermostat, heating elements inside the plates
 
-This is the splurge, and it earns the price in one specific way. The heating elements sit inside the plates rather than under them. Heat reaches the food faster, and the plates recover quickly when cold bread lands on them.
+This is the splurge, at $349.95 with "Add to cart" on Breville's site. It earns the price in one specific way. The heating elements sit inside the plates rather than under them. Heat reaches the food faster, and the plates recover quickly when cold bread lands on them.
 
 That recovery is what separates a grill from a press. Put four sandwiches on a weak machine and the plates stall, so the last two steam instead of toast. At 1,800 watts with embedded elements, this one holds its temperature.
 
@@ -242,47 +240,13 @@ The plates are removable and dishwasher safe, which you will appreciate after a 
 
 **What to know before you buy:**
 
-- It costs about three times the Griddler.
+- It costs about three and a half times the Griddler.
 - Large footprint at roughly 14 by 16.7 inches.
 - More grill than sandwich press, so the hinge is built for burgers.
 
 **Who should buy it:** Anyone who wants indoor grilling and treats panini as a bonus. If you are weighing it against other smokeless options, our [Gotham Steel smokeless grill review](/blog/gotham-steel-smokeless-grill-review/) covers the cheaper end of that shelf.
 
 [Check Price on Amazon](https://www.amazon.com/Breville-BGR820XL-Smart-Grill/dp/B003SIN0BC/?tag=kitchenpot-20)
-
-## 6. George Foreman GRP1060B 4-Serving Grill: Best Cheap Pick With Plates That Come Out
-
-- **Type:** Sloped contact grill that presses sandwiches
-- **Plates:** Removable, nonstick, dishwasher safe
-- **Capacity:** Four servings, per George Foreman
-- **Design:** Sloped plates drain fat into a tray
-- **Hinge:** Standard pivot lid
-
-The Foreman is the odd one on this list, and it is here for one reason. Very few presses this cheap let you pull the plates out, and these lift straight off and go in the dishwasher.
-
-The trade is the tilt. Foreman grills slope on purpose so fat runs off the meat into a tray at the front. For burgers that is the selling point. For a sandwich it means anything loose inside can slide toward the low edge.
-
-So pack it tight and it works fine. Grilled cheese, ham and cheese, a pressed leftover slice of [reheated pizza](/blog/how-to-reheat-pizza/): all good. A loosely stacked sub with sliced tomato is where the slope starts to annoy you.
-
-The lid is a plain pivot, not a floating hinge, so very thick rolls will cook unevenly. Keep sandwiches under about an inch and a half and you will not notice.
-
-**What we like:**
-
-- Removable dishwasher-safe plates for well under $50.
-- Sloped design drains fat, which is the brand's whole point.
-- Heats fast and cooks four servings at once.
-- Simple, with almost nothing to break.
-- Small enough to live in a cupboard.
-
-**What to know before you buy:**
-
-- Plain pivot hinge, so thick rolls press unevenly.
-- The slope can shift loose fillings.
-- No temperature control.
-
-**Who should buy it:** Budget shoppers who care more about easy washing than café bar marks. It sits comfortably beside the other cheap wins in our list of [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
-
-[Check Price on Amazon](https://www.amazon.com/George-Foreman-GRP1060B-4-Serving-Grill/dp/B00KDVJLJW/?tag=kitchenpot-20)
 
 ## What to Look For in a Panini Press
 
@@ -341,7 +305,7 @@ The machine matters less than four small habits.
 3. **Keep the filling dry.** Wet tomato and loose dressing turn the inside of the bread to paste. Pat tomato slices dry and put cheese against both slices so it seals the rest in.
 4. **Close the lid and leave it.** Every peek drops the plate temperature. Four to seven minutes covers most sandwiches on a hot press.
 
-Bread choice does more than any setting. Ciabatta, focaccia and sourdough have a tight crumb that holds up under pressure. Soft supermarket sandwich bread collapses into a wafer, so save it for the [toaster](/blog/best-2-slice-toaster/).
+Bread choice does more than any setting. Ciabatta, focaccia and sourdough have a tight crumb that holds up under pressure. Soft supermarket sandwich bread collapses into a wafer, so save it for the [toaster](/blog/best-2-slice-toaster/). A press also crisps a leftover slice when you [reheat pizza](/blog/how-to-reheat-pizza/).
 
 Your press is not limited to sandwiches either. Quesadillas, halloumi, sliced courgette, bacon and chicken breast all cook well on ridged plates. A press also flattens and reheats leftovers fast, much like a [roaster oven handles odd jobs](/blog/what-can-you-cook-in-a-roaster-oven/) that the main oven makes no sense for.
 
@@ -349,12 +313,11 @@ Clean it while it is warm every time, whatever type you bought. A press that get
 
 ## Which Panini Press Should You Buy?
 
-- **You want one machine to do the most jobs:** [Cuisinart Griddler GR-4NP1](https://www.amazon.com/Cuisinart-Griddler-GR-4NP1-5-in-1/dp/B002YD99Y4/?tag=kitchenpot-20).
+- **You want one machine to do the most jobs:** [Cuisinart Griddler GR-4NNAS](https://www.amazon.com/Cuisinart-Griddler-5-in-1-Panini-Press-GR-4NNAS/dp/B0FFTRHTNP/?tag=kitchenpot-20).
 - **You only care about sandwiches:** [Breville Panini Duo](https://www.amazon.com/Breville-BSG520XL-Panini-Duo/dp/B002PY6X1E/?tag=kitchenpot-20).
-- **You want a floating hinge for under $50:** [Hamilton Beach 25460A](https://www.amazon.com/Hamilton-Beach-25460A-Panini-Press/dp/B00IWOJRSM/?tag=kitchenpot-20).
+- **You want a floating hinge for under $50:** [Chefman 180° Grill and Panini Press](https://www.amazon.com/Chefman-Panini-Press-Grill-Gourmet-Sandwich-Maker-4-Slice/dp/B077YR9FFG/?tag=kitchenpot-20).
 - **You want removable plates and a digital display:** [Chefman 5-in-1](https://www.amazon.com/Chefman-5-in-1-Digital-Panini-Press-Grill/dp/B0B7CHWYFD/?tag=kitchenpot-20).
 - **You want an indoor grill first, a press second:** [Breville Smart Grill](https://www.amazon.com/Breville-BGR820XL-Smart-Grill/dp/B003SIN0BC/?tag=kitchenpot-20).
-- **You want dishwasher-safe plates as cheaply as possible:** [George Foreman GRP1060B](https://www.amazon.com/George-Foreman-GRP1060B-4-Serving-Grill/dp/B00KDVJLJW/?tag=kitchenpot-20).
 
 If none of these fit, ask yourself one question. Do you want a sandwich machine, or a small grill that also makes sandwiches? Answer that and the list above cuts itself in half.
 
