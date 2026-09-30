@@ -1,8 +1,8 @@
 ---
-excerpt: "The Ninja Foodi's crisping lid stays attached to the base. The Instant Pot Duo Crisp's lid comes off completely. That one design choice shapes almost every other difference between them."
+excerpt: "Ninja has stopped selling the Foodi multicooker with the hinged crisping lid. Instant Pot still sells a pot that pressure cooks and air fries. That single change decides this comparison."
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Instant Pot vs Ninja Foodi: The Lid Design Changes Everything"
+title: "Instant Pot vs Ninja Foodi: Which One Still Makes Sense?"
 source: wordpress
 slug: instant-pot-vs-ninja-foodi
 pubDate: 2020-08-11
@@ -11,162 +11,273 @@ image: ""
 category: Small Appliances
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: An Instant Pot Duo Crisp and a Ninja Foodi side by side on a kitchen counter
+coverAlt: An Instant Pot Duo Crisp and a Ninja pressure cooker side by side on a kitchen counter
 tags:
   - instant pot vs ninja foodi
   - ninja foodi vs instant pot duo crisp
   - does ninja foodi pressure cook and air fry
-  - instant pot duo crisp lid
-description: "Instant Pot Duo Crisp vs Ninja Foodi, compared head to head on lid design, pressure release, footprint, cleanup, and which one suits your own kitchen best."
-seo: "A plain-English comparison of the Instant Pot Duo Crisp and the Ninja Foodi, focused on the lid design, pressure release, size, and which cook each one actually fits."
+  - ninja foodi discontinued
+  - best multicooker that air fries
+description: "Instant Pot vs Ninja Foodi compared: Ninja dropped its crisping-lid multicooker, so here is what each brand sells now and which one fits your kitchen best."
+seo: "A plain-English comparison of Instant Pot and Ninja pressure cookers, covering the retired Foodi crisping lid, the 2025 recall, and what each brand sells today."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What's the biggest difference between an Instant Pot Duo Crisp and a Ninja Foodi?"
-    answer: The lid. The Ninja Foodi's crisping lid is hinged to the base and flips up out of the way, so it never leaves the counter. The Instant Pot Duo Crisp uses two fully separate lids, and you lift one off and set the other on top to switch functions.
-  - question: "Can a Ninja Foodi pressure cook and air fry without swapping parts?"
-    answer: Mostly, yes. The crisping lid stays attached and simply flips down when you want to air fry. You do still lift off the separate pressure lid first and set it aside, so it isn't entirely hands-free, but there's one less loose lid to store than with the Instant Pot Duo Crisp.
-  - question: "Is the Ninja Foodi pressure cooker recall from 2025 still something to worry about?"
-    answer: Only if you own one of the specific recalled models. SharkNinja recalled roughly 1.8 million older Foodi pressure cookers in May 2025 over a lid that could open under pressure. If your model number matches the recall, stop using the pressure function and request a free replacement lid from SharkNinja.
-  - question: "Which one takes up less counter space?"
-    answer: Neither one is small, but they take up space differently. The Foodi's hinged lid needs headroom above the unit to flip open. The Duo Crisp's footprint stays the same either way, but you need a spot to store whichever lid isn't currently on the pot.
-  - question: "Do the Instant Pot Duo Crisp and Ninja Foodi use the same size pot?"
-    answer: Both are sold in several sizes, and the 6-quart and 8-quart versions are the most common on each side. Match the size to how many people you cook for rather than assuming bigger is automatically better, since a bigger pot also means a bigger appliance to store.
-  - question: "Which is the better choice for someone cooking for one or two people?"
-    answer: The 6-quart version of either one works well for one or two people, and both handle frozen meat and one-pot meals easily at that size. If counter space is tight, weigh the Duo Crisp's smaller single footprint against the Foodi's need for lid clearance above it.
+  - question: "Does Ninja still sell a Foodi pressure cooker that air fries?"
+    answer: "Not on its own site. Ninja's current pressure and multicooker lineup is the HyperHeat pressure cooker, the PossibleCooker range, the MultiPot and the Combi. None of them is a Foodi pressure cooker with a hinged crisping lid. If you want pressure cooking and air frying in one pot today, Instant Pot's Duo Crisp line is the option that is still listed for sale."
+  - question: "What was the biggest difference between an Instant Pot Duo Crisp and a Ninja Foodi?"
+    answer: "The lid. The Foodi's crisping lid was hinged to the base and flipped up out of the way, so it never left the counter. The Duo Crisp used two fully separate lids, or on newer models one lid that switches modes. You lifted a lid off and set another on to change what the pot did."
+  - question: "Is the 2025 Ninja Foodi pressure cooker recall still a problem?"
+    answer: "Only if you own one of the listed models. SharkNinja recalled about 1.8 million older Foodi pressure cookers in May 2025 over a lid that could open while the pot was still pressurized. The models are OP300, OP301, OP301A, OP302 and its color variants, OP305, OP305CO and OP350CO. Stop using the pressure function and ask SharkNinja for a free replacement lid."
+  - question: "Which multicooker takes up less counter space?"
+    answer: "The 6.5-quart Instant Pot Duo Crisp Ultimate measures 15.5 inches long, 15.4 inches wide and 13.4 inches tall. Ninja's HyperHeat is 14.57 inches long and 12.36 inches tall, so it is the smaller of the two. Measure your cabinet height before you buy either one, because both are taller than a basic pressure cooker."
+  - question: "Can you air fry frozen food in a multicooker without pressure cooking first?"
+    answer: "Yes, on any Instant Pot with a crisping lid. The air fry setting runs on its own, so frozen fries or wings go straight into the basket with no pressure step. Cooking times run a little longer than in a dedicated air fryer, since the pot is deeper and the fan sits further from the food."
+  - question: "Is a pressure cooker cheaper to run than an oven?"
+    answer: "Usually, yes, for the same dish. A sealed pot traps steam instead of losing heat to the room, so the food reaches temperature faster and the element runs for less time. A 1,200-watt to 1,500-watt multicooker also draws less power than most full-size ovens. The saving comes from the shorter cook, not from a certified efficiency rating."
 ---
-The Ninja Foodi's crisping lid never comes off. The Instant Pot Duo Crisp's air fryer lid does. That's the real difference between these two multicookers, and it explains most of what people like and dislike about each one.
+Ninja no longer sells the Foodi multicooker that made this comparison famous. Instant Pot still sells a pot that pressure cooks and air fries. That one change decides most of the question.
 
-Both pressure cook. Both air fry. Both replace a slow cooker, a steamer and a [sauté pan](/blog/best-saute-pan/). The way they get you between pressure cooking and air frying is where they stop acting alike.
+So the real choice has shifted. It is no longer hinged lid versus two loose lids. It is now pressure cooking with crisping, or pressure cooking without it.
 
-**If you want a lid that stays put and simply flips out of the way, the Ninja Foodi fits better. If you'd rather have two lighter, fully separate lids and don't mind storing one, the Instant Pot Duo Crisp is the better match.** The rest of this guide walks through why.
+**The short version:** Buy the [Instant Pot Duo Crisp Ultimate 6.5QT](https://www.amazon.com/dp/B0B1G5M31V/?tag=kitchenpot-20) if you want one pot that pressure cooks and air fries. One lid handles both jobs, and Instant Pot still lists it for sale at $219.99. If you only ever pressure cook, the [Ninja HyperHeat PC201](https://www.amazon.com/dp/B0FJ9YL548/?tag=kitchenpot-20) is cheaper, smaller and does that job well, but it does not crisp at all. The buying rule: decide whether you truly want browning in the same pot, because that single question now splits these two brands cleanly.
 
-This isn't a ranked list with a winner. It's a comparison, and which one is "better" depends on your counter space and how you cook.
+## Our Picks at a Glance
 
-## What Each One Actually Is
+- **Best overall for pressure cooking and air frying:** [Instant Pot Duo Crisp Ultimate 6.5QT](https://www.amazon.com/dp/B0B1G5M31V/?tag=kitchenpot-20)
+- **Best for big batches:** [Instant Pot Duo Crisp + Air Fryer 8QT](https://www.amazon.com/dp/B07VT23JDM/?tag=kitchenpot-20)
+- **Best current Ninja pressure cooker:** [Ninja HyperHeat 9-in-1 6.5QT](https://www.amazon.com/dp/B0FJ9YL548/?tag=kitchenpot-20)
 
-An Instant Pot is an electric pressure cooker that also handles slow cooking, steaming, sautéing and more, all in one pot. If you haven't used one before, [our explainer on what an Instant Pot is](/blog/what-is-an-instant-pot/) covers the basics. And [our guide to Instant Pot vs. a stovetop pressure cooker](/blog/instant-pot-vs-pressure-cooker/) covers how it differs from the pot your grandmother used.
+## How the Three Compare
 
-The Duo Crisp is a specific Instant Pot line built around a second lid: an air fryer lid that swaps in for the pressure lid. Ninja's Foodi line does something similar but builds the air fryer function into a lid that's permanently attached to the base.
+| | Duo Crisp Ultimate 6.5QT | Duo Crisp + Air Fryer 8QT | Ninja HyperHeat PC201 |
+| --- | --- | --- | --- |
+| Air fries | Yes, same lid | Yes, second lid | No |
+| Functions | 13 | 11 | 9 |
+| Wattage | 1,500 W | 1,500 W | 1,200 W |
+| Size | 15.5 x 15.4 x 13.4 in | 8-quart body | 14.57 in long, 12.36 in tall |
+| Inner pot | Stainless steel | Stainless steel | PFAS-free ceramic nonstick |
+| Maker's price | $219.99 | $219.99 | $139.99 |
 
-Both brands sell several sizes and versions. This guide focuses on the two most people compare: the [Instant Pot Duo Crisp 8-quart](https://www.amazon.com/dp/B07VT23JDM/?tag=kitchenpot-20) and the Ninja Foodi 8-quart pressure cooker and air fryer, currently sold as the [Ninja Foodi OS401](https://www.amazon.com/dp/B09PRVJTMC/?tag=kitchenpot-20). If you already own Ninja cookware, our [Ninja Foodi cookware set review](/blog/ninja-foodi-cookware-set-reviews/) covers the nonstick pans the brand sells alongside its multicookers.
+Prices move with sales, so treat those as list prices rather than what you will pay. The rest of this guide explains why each one lands where it does. New to this whole category? Start with [our explainer on what an Instant Pot is](/blog/what-is-an-instant-pot/), then come back.
 
-## The Real Difference: One Lid vs Two
+## 1. [Instant Pot Duo Crisp Ultimate 6.5QT](https://www.amazon.com/dp/B0B1G5M31V/?tag=kitchenpot-20): Best One-Lid Multicooker
 
-Open the box on a Ninja Foodi and you'll find one unit with a lid hinged to the back. Flip that lid down, and it's a pressure cooker. Flip it up, set the separate pressure lid aside, and lower the hinged lid back down, and it crisps.
+- **Type:** Electric pressure cooker with built-in air frying
+- **Key specs:** 6.5 quarts, 1,500 watts, 13 functions
+- **Size:** 15.5 in long, 15.4 in wide, 13.4 in tall
+- **Best for:** Cooks who want pressure and crisping without juggling lids
 
-That hinged lid is called TenderCrisp Technology, and it's the "built-in" design the Foodi is known for. It never leaves the base, so there's nothing extra to find a home for on your counter or in a cabinet.
+This is the model that fixes the old two-lid problem. One lid stays on the pot and switches between pressure cooking and air frying. You turn a dial instead of lifting a heavy lid off and hunting for the other one.
 
-The Instant Pot Duo Crisp works differently. It ships with two complete lids: a pressure cooking lid and an air fryer lid with its own heating element and fan built in. Neither is attached to anything. To switch functions, you lift one off entirely and set the other on top.
+That matters more than it sounds. The single biggest complaint about earlier crisping multicookers was storage for the spare lid. A lid with a heating element inside cannot go in a drawer with your [pots and pans](/blog/how-to-organize-pots-and-pans/), so it tended to live on the counter forever.
 
-That gives the Duo Crisp more flexibility in one sense. Both lids are fully self-contained, and the air fryer lid comes with its own basket, so it works more like a standalone air fryer bolted onto a pressure cooker base. The tradeoff is storage. You need a spot for whichever lid isn't currently in use, plus its basket and trays.
+Thirteen functions covers the usual list plus sous vide, yogurt and bread proofing. The sous vide setting is the interesting one, since it turns the pot into a water bath. If that is a feature you would actually use, compare it against [a dedicated sous vide precision cooker](/blog/sous-vide-power-precision-cooker/) first. A standalone circulator holds temperature more tightly.
 
-Neither approach is wrong. It comes down to whether you'd rather have one hinge to deal with or two lids to store, which is the same tradeoff behind [organizing pots and pans](/blog/how-to-organize-pots-and-pans/) in general.
+At 6.5 quarts it suits one to four people. That is the size most solo cooks land on too, and [our cookware sizing guide for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) explains why bigger is not automatically better.
 
-## Pressure Release: A Similar Job, A Different Feel
+**What we like:**
 
-Both machines use a quick-release valve on top of the pressure lid, and both also support a slower, natural release where the pressure drops on its own as the pot cools.
+- One lid does both jobs, so there is nothing extra to store
+- 1,500 watts brings the pot to pressure quickly
+- Stainless steel inner pot, so no coating to wear out
+- Sous vide, yogurt and proofing settings are included
+- Instant Pot still lists it at $219.99, so parts and support are current
 
-The Duo Crisp's pressure lid is a separate, lighter piece, which some cooks find easier to lift off and set down one-handed. The Foodi's pressure lid also detaches, but because the hinged crisping lid is right behind it, there's a second part swinging near your hand while you work.
+**What to know before you buy:**
 
-Neither design is dangerous when used as directed. But the Foodi asks you to manage two lids at once during a swap. The Duo Crisp only ever has one lid on the counter at a time.
+- At 15.5 inches tall with the lid, it will not fit under a low cabinet
+- The attached lid is heavier than a plain pressure lid
+- 6.5 quarts is tight if you batch cook for five or more
 
-## A Safety Note Worth Knowing
+**Who should buy it:** Anyone who wants one appliance to replace a pressure cooker and an air fryer, and who has the counter height for it. It is also the safer long-term buy of the three, since it is the model Instant Pot is actively selling.
 
-In May 2025, SharkNinja recalled about 1.8 million Foodi multi-function pressure cookers sold between January 2019 and March 2025, according to the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2025/SharkNinja-Recalls-1-8-Million-Foodi-Multi-Function-Pressure-Cookers-Due-to-Burn-Hazard-Serious-Burn-Injuries-Reported). The affected models are the OP300, OP301, OP301A, OP302 and its color variants, OP305, OP305CO, and OP350CO.
+[Check Price on Amazon](https://www.amazon.com/dp/B0B1G5M31V/?tag=kitchenpot-20)
 
-The recall covers a pressure lid that could be forced open while the pot was still pressurized, which led to burn injuries. If you own one of those exact model numbers, stop using the pressure-cooking function and contact SharkNinja for a free replacement lid. The air fryer and other functions are not affected.
+## 2. [Instant Pot Duo Crisp + Air Fryer 8QT](https://www.amazon.com/dp/B07VT23JDM/?tag=kitchenpot-20): Best for Big Batches
 
-This recall doesn't cover every Foodi ever sold, and the current OS401 and similar current models aren't on the list. But it's exactly the kind of thing worth checking before you buy a used Foodi or dig an older one out of storage.
+- **Type:** Electric pressure cooker with a separate air fryer lid
+- **Key specs:** 8 quarts, 1,500 watts, 11 functions
+- **In the box:** Pressure lid, air fryer lid, crisping basket, dehydrating tray
+- **Best for:** Batch cooking, meal prep and cooking for five or more
 
-## Footprint And Storage
+The 8-quart Duo Crisp is the older design, and it is still on Instant Pot's site at $219.99. It ships with two complete lids. One seals for pressure, and the other holds its own heating element and fan for air frying.
 
-Measure your cabinet or counter space before either purchase, because both units are bulkier than a basic pressure cooker.
+Two lids sounds like a step backwards, and for storage it is. For cooking it has one real advantage. The air fryer lid comes with its own basket, so it behaves like a proper air fryer bolted onto a pressure cooker.
 
-Instant Pot lists the Duo Crisp 8-quart at about 14.8 inches long and 13.6 inches wide. With the air fryer lid on, it stands about 15.3 inches tall. Swap to the pressure lid and the height drops a little, since that lid sits lower.
+That means you can crisp food that never touched the pressure function. Frozen fries go straight into the basket. Our guide to [cooking frozen french fries in an air fryer](/blog/how-to-cook-frozen-french-fries-in-an-air-fryer/) applies here without changes, and [the right oil for air frying](/blog/best-oil-for-air-fryer/) matters just as much in a multicooker.
 
-Ninja doesn't publish the same exact figures for every Foodi version, but the hinged crisping lid needs clearance above the unit to flip all the way open. If your Foodi will live under a cabinet, measure the gap before you buy rather than after.
+Eight quarts is a lot of pot. It fits a whole chicken, a full batch of chili or a double recipe of beans. If [meal prep for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) is your main use, though, that extra capacity mostly costs you counter space.
 
-Small-kitchen shoppers should weigh this against what else is competing for space. Our guide to [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) and our checklist for [stocking a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) both cover how to prioritize when counter space is limited.
+**What we like:**
 
-## What Each One Actually Cooks Well
+- 8 quarts handles batch cooking and whole birds
+- The air fryer lid works as a standalone air fryer
+- Basket and dehydrating tray are included
+- Still current on Instant Pot's site, so lids and seals are easy to replace
+- Frequently discounted below the 6.5-quart model
 
-Both machines pressure cook rice, beans, stews, and frozen meat in a fraction of the time a stovetop takes. Both crisp up chicken wings, fries and roasted vegetables after pressure cooking, so you get a browned finish without a separate [skillet](/blog/difference-between-skillet-and-frying-pan/).
+**What to know before you buy:**
 
-The Foodi's TenderCrisp method is built around going straight from pressure cooking to crisping in the same pot, no lid swap needed beyond flipping the crisping lid down. That makes it a strong pick if your go-to move is pressure-cook-then-crisp on the same piece of meat, like a whole chicken or a rack of ribs.
+- Two lids means you need a home for the one you are not using
+- The air fryer lid cannot be submerged, so the housing gets wiped by hand
+- An 8-quart body is a big footprint for a small kitchen
 
-The Duo Crisp's separate air fryer lid, with its own basket, behaves more like a real air fryer sitting on top of the pressure cooker base. That makes it a better fit if you often want to air fry something that never touched the pressure function, like frozen fries straight from the freezer. It plays a similar role to a [small oven or toaster oven](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) in a tight kitchen.
+**Who should buy it:** Cooks feeding a family or filling a freezer. Skip it if your counter is already crowded, because the spare lid is the part people regret.
 
-Weighing air fryers against other countertop options too? Our [comparison of a NuWave oven and air fryers](/blog/nuwave-oven-vs-air-fryers/) covers a related version of this tradeoff. And our [roundup of air fryers under $100](/blog/best-air-fryers-under-100/) is worth a look if you'd rather have air frying as its own dedicated appliance.
+[Check Price on Amazon](https://www.amazon.com/dp/B07VT23JDM/?tag=kitchenpot-20)
 
-## Specs Side by Side
+## 3. [Ninja HyperHeat 9-in-1 6.5QT](https://www.amazon.com/dp/B0FJ9YL548/?tag=kitchenpot-20): Best Current Ninja Pressure Cooker
 
-| | Instant Pot Duo Crisp (8-quart) | Ninja Foodi OS401 (8-quart) |
-| --- | --- | --- |
-| Lid design | Two separate lids, fully interchangeable | Hinged crisping lid stays attached; separate pressure lid |
-| Wattage | 1,500 watts | Not published for this model |
-| Cooking functions | 11, including air fry, sous vide, sterilize, rice cook | Around a dozen, including pressure cook, air crisp, slow cook, sear/sauté, steam, dehydrate |
-| Crisping capacity | Air fryer basket included with the lid | 5.6-quart Cook & Crisp plate, fits up to a 7-pound chicken |
-| Cleanup | Pressure lid and pot are dishwasher-safe | Pot and crisping plate are dishwasher-safe |
-| Safety mechanisms | Over 10, per Instant Pot | Standard pressure-lock lid, redesigned after the 2025 recall on affected models |
+- **Type:** Electric pressure cooker, no air frying
+- **Key specs:** 6.5 quarts, 1,200 watts, 9 functions
+- **Pot:** Removable aluminum pot with PFAS-free ceramic nonstick
+- **Best for:** Cooks who pressure cook and never wanted the crisping lid
 
-## Cleanup Compares About Evenly
+This is what Ninja sells now in place of the Foodi pressure cookers. It pressure cooks, slow cooks, steams, sears, holds a sous vide bath, makes yogurt and cooks rice. It does not air fry, and Ninja does not pretend it does.
 
-Both brands say the main cooking pot and the removable crisping surface are dishwasher-safe, so day-to-day cleanup is close to a wash between them.
+The pot itself is the interesting part. Ninja calls it the SimpliServe pot, and it lifts out so you can carry it to the table. The coating is a PFAS-free ceramic nonstick over aluminum, which releases food well and cleans easily.
 
-Where they differ is the number of parts. The Duo Crisp's separate air fryer lid and basket are one more full assembly to hand-wash the housing on, since the lid's heating element and fan can't go in water. The Foodi's hinged lid has fewer loose pieces, but reaching every corner of a curved, attached lid can be trickier than wiping an [electric griddle](/blog/how-to-clean-electric-griddle/) you've set flat on the counter.
+That coating is also the tradeoff. Ceramic nonstick loses slickness over years of use, which is why the Instant Pots use bare stainless. Our explainer on [what nonstick cookware actually is](/blog/what-is-nonstick-cookware/) covers why these surfaces fade, and [our guide to cleaning a ceramic pan](/blog/how-to-clean-ceramic-pan/) covers the habits that slow it down.
 
-Worried about sticking more than the pressure function itself? Our page on [what nonstick cookware actually is](/blog/what-is-nonstick-cookware/) explains how these ceramic and nonstick-coated inner pots hold up over time. Our guide on [what stainless steel cookware is](/blog/what-is-stainless-steel-cookware/) explains why some pots skip coatings altogether and go with bare stainless instead.
+At 1,200 watts it is the least powerful of the three. In practice that shows up as a slightly longer time to reach pressure, not as worse cooking. It is also the smallest and cheapest, at $139.99 on Ninja's own site.
 
-## Energy Use And Everyday Cost
+**What we like:**
 
-Pressure cooking uses less energy than a slow cooker or an oven for the same meal, since the sealed pot traps heat instead of losing it. Tracking energy use in a small apartment? Our guide on [reducing kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/) covers how a pressure cooker fits into that picture. Our roundup of [the most energy-efficient small kitchen appliances](/blog/most-energy-efficient-small-kitchen-appliances/) and our list of [compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/) are both good next stops if efficiency is your main filter.
+- $139.99 list price, well under both Instant Pots
+- Smallest footprint of the three at 14.57 inches long
+- Removable pot doubles as a serving dish
+- PFAS-free ceramic coating with easy cleanup
+- Nine functions cover everything except crisping
 
-Neither the Duo Crisp nor the Foodi carries an Energy Star rating, since that program doesn't currently cover multicookers. What you save comes from shorter cook times, not a certified efficiency number.
+**What to know before you buy:**
 
-## Which One Suits Which Cook
+- No air frying, so browning still needs a pan or an oven
+- Ceramic nonstick will fade before bare stainless would
+- 1,200 watts reaches pressure a little slower
 
-Pick the **Ninja Foodi** if you like one hinge instead of two full lids. It also fits if you often pressure-cook and then crisp the same food, or you'd rather skip finding a shelf for a spare lid.
+**Who should buy it:** Anyone who wanted a pressure cooker and never cared about the crisping lid. It is the best value here if browning happens in a [saute pan](/blog/best-saute-pan/) anyway.
 
-Pick the **Instant Pot Duo Crisp** if you want an air fryer that behaves like a real, separate air fryer. It also suits you if you like two fully independent lids, or you already trust the Instant Pot brand and want to add air frying without switching brands.
+[Check Price on Amazon](https://www.amazon.com/dp/B0FJ9YL548/?tag=kitchenpot-20)
 
-Neither one is the wrong answer for most home cooks. The difference is closer to a preference about hardware than a gap in cooking ability.
+## What Happened to the Ninja Foodi Crisping Lid?
 
-## Storing The Spare Lid Or Basket
+Ninja's pressure and multicooker page no longer lists a Foodi pressure cooker with a crisping lid. The current lineup is the HyperHeat pressure cooker, three PossibleCooker models, the MultiPot and the Combi. Not one of them has the hinged lid the Foodi was known for.
 
-Whichever one you choose, plan for where the parts you're not using right now will live. A [countertop organization idea](/blog/countertop-organization-ideas-for-a-small-kitchen/) or two can keep a spare lid from becoming clutter. If cabinet space is the real constraint, our guide to [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) covers layouts that work for bulky countertop appliances too.
+Older Foodi model numbers still show up on retailer sites and in warehouse stock. That is not the same as a current product. A listing can outlive a product by years, which is why the maker's own catalogue is the better test.
 
-Outfitting a kitchen from scratch and deciding what earns a spot on the counter? [Our sizing guide for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) is a good next read. It applies the same space-versus-usefulness thinking to pots and pans.
+It matters for parts. Gaskets, sealing rings and crisping baskets wear out on any pressure cooker. When a line is retired, those parts get harder to find, and a $200 appliance becomes scrap over a $12 seal.
 
-## A Few Things Both Do That Might Surprise You
+If you already own a working Foodi, keep using it. Just check your model number against the recall list in the next section first.
 
-Both machines can cook rice as one of their built-in programs, and both handle frozen chicken breasts and ground meat safely from frozen, no thawing required. If rice is a big part of your cooking, compare the multicooker's rice setting against [a dedicated rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/). A dedicated rice cooker sometimes does a more consistent job at that one task.
+## The 2025 Ninja Foodi Recall Worth Knowing About
 
-Higher-end versions of the Instant Pot line, including some Duo Crisp variants, add a sous vide setting. If that's a feature you want, see our [sous vide precision cooker roundup](/blog/sous-vide-power-precision-cooker/). Our guide to [vacuum sealers for sous vide](/blog/best-vacuum-sealer-for-sous-vide/) covers the one accessory that makes sous vide actually useful.
+In May 2025, SharkNinja recalled about 1.8 million Foodi multi-function pressure cookers sold between January 2019 and March 2025, according to the [Consumer Product Safety Commission](https://www.cpsc.gov/Recalls/2025/SharkNinja-Recalls-1-8-Million-Foodi-Multi-Function-Pressure-Cookers-Due-to-Burn-Hazard-Serious-Burn-Injuries-Reported). The affected models are the OP300, OP301, OP301A, OP302 and its color variants, OP305, OP305CO and OP350CO.
 
-## Common Mistakes When Choosing Between Them
+The fault was in the pressure lid. It could be forced open while the pot was still pressurized, and burn injuries were reported. If your model number is on that list, stop pressure cooking with it and contact SharkNinja for a free replacement lid.
 
-* **Buying based on price alone.** Prices swing with sales on both brands, so check current pricing before deciding, rather than assuming one is always cheaper.
-* **Ignoring lid clearance.** Measure the space above where the Foodi will sit before you buy it, since the hinged lid needs room to flip open.
-* **Forgetting the spare lid problem.** If you go with the Duo Crisp, decide where the unused lid will live before it ends up on the counter permanently.
-* **Assuming a recalled model is representative of the whole line.** The 2025 Foodi recall covered specific model numbers, not every Foodi ever made.
-* **Buying the largest size "to be safe."** A bigger pot takes up more space every single day, not just on the days you cook for a crowd.
-* **Not checking what else is already on the counter.** A [food processor](/blog/best-food-processor-under-100/) or a [hand mixer](/blog/best-hand-mixers/) competing for the same outlet strip can make either multicooker feel bigger than it is.
+The air fryer and other functions on those units are not affected. The recall also does not cover every Foodi ever made, and the current HyperHeat is not on the list.
+
+Still, it is the first thing to check before you buy a used Foodi or pull an old one out of a cupboard. A cheap secondhand multicooker stops being cheap the moment you need a replacement lid.
+
+## How a Crisping Lid Actually Browns Food
+
+A crisping lid is a small convection oven pointed down at your food. A heating element sits in the lid, and a fan above it pushes hot air over the surface of whatever is in the pot.
+
+Browning needs dry heat. Pressure cooking is the opposite, since it works by trapping steam. So a crisping lid has one real job: drive moisture off the surface fast enough for it to brown.
+
+That is why the order matters. You pressure cook first to make the inside tender, then crisp to dry and brown the outside. Reverse the order and the steam from the pressure stage undoes the crust you just made.
+
+It also explains why a crisping lid never quite matches a basket air fryer. The pot is deep, so the fan sits further from the food and the air has more room to slow down. If crisping is your main goal, [a dedicated air fryer under $100](/blog/best-air-fryers-under-100/) does it better for less. [The NuWave oven versus air fryer comparison](/blog/nuwave-oven-vs-air-fryers/) covers a third way to do the same job.
+
+## One Lid or Two: What It Changes Day to Day
+
+The Duo Crisp Ultimate keeps one lid on the pot and switches modes electronically. The 8-quart Duo Crisp makes you swap lids by hand. Both work, and the difference shows up in small ways.
+
+Swapping lids adds about fifteen seconds and one hot object to your counter. That is fine once. It gets old on a Tuesday when the pressure lid is dripping condensation and there is nowhere clean to set it.
+
+The single-lid design trades that away for weight. The lid is heavier because the element and fan live inside it, and it stays on the pot whether you need it or not.
+
+Storage is the tiebreaker for most small kitchens. Two lids means two things to put somewhere, and a spare lid is an awkward shape. Our [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) and [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) both help, but the easiest fix is owning one fewer lid.
+
+## Pressure Release: Quick vs Natural
+
+All three of these use the same two release methods. Quick release opens a valve and vents steam in a jet. Natural release means you walk away and let pressure fall as the pot cools.
+
+Quick release is for food you do not want overcooked, like vegetables, fish or rice. Natural release suits tough cuts, beans and anything with a lot of liquid, since a sudden vent can spray starchy foam out of the valve.
+
+Neither design here is risky when used as directed. What changed after the 2025 recall is how seriously makers treat lid interlocks, and current lids on all three brands will not open while pressure remains.
+
+One habit is worth keeping whatever you buy. Keep your hand and face out of the steam path, and never lean over the valve. [Heat-resistant gloves](/blog/10-best-heat-resistant-gloves-for-cooking/) are cheap protection when you are lifting a hot inner pot out.
+
+## Footprint and Storage, Measured
+
+Measure before you buy. Both Instant Pots are taller than people expect, and a crisping lid needs clearance above it.
+
+| Model | Length | Height | Notes |
+| --- | --- | --- | --- |
+| Duo Crisp Ultimate 6.5QT | 15.5 in | 13.4 in | Lid stays attached, no spare to store |
+| Duo Crisp + Air Fryer 8QT | 8-quart body | Taller with air fryer lid | Second lid and basket need shelf space |
+| Ninja HyperHeat PC201 | 14.57 in | 12.36 in | Smallest of the three |
+
+A standard upper cabinet sits about 18 inches above the counter. All three fit under that, but only just, and you still need room to lift the lid. Counter space the real problem? [Storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) covers layouts that free up a corner. [How to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) helps when the cupboards are already full.
+
+## What Each One Cooks Well
+
+All three pressure cook the same things: beans, stews, tough cuts, stock and rice. Pressure cooking shines on food that normally needs hours of simmering, because the sealed pot raises the boiling point and speeds the whole reaction up.
+
+Rice is the one job worth questioning. Every one of these has a rice setting, and all of them work. A [dedicated rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/) is still more consistent, especially for brown rice, and [our brown rice cooker roundup](/blog/best-rice-cooker-for-brown-rice/) explains why.
+
+Frozen meat is where pressure cookers earn their keep. All three cook chicken breasts or ground beef from frozen with no thawing. Check the internal temperature rather than the timer, and [clean the meat thermometer](/blog/how-to-clean-a-meat-thermometer/) between checks.
+
+Steaming is the quiet strength. Vegetables, dumplings and eggs all cook well on a rack above water. A [steamer basket made for an Instant Pot](/blog/best-steamer-basket-for-instant-pot/) makes it easier, and [a bamboo steamer](/blog/how-to-use-a-bamboo-steamer/) does the same job on the stove for a few dollars.
+
+## Cleanup Compared
+
+The inner pot is the part you wash every time. Stainless steel pots on both Instant Pots go in the dishwasher and tolerate a scrub. Ninja's ceramic-coated pot also goes in the dishwasher, but it wants a soft sponge rather than an abrasive pad.
+
+The lid is where the work differs. A pressure lid comes apart: the sealing ring pulls out and the anti-block shield lifts off, and both need a wash. Skip that and the ring holds onto the smell of last week's curry.
+
+A crisping lid cannot be submerged at all, because the element and fan sit inside it. You wipe the inside with a damp cloth once it cools and wash the basket separately. The habits are close to what [cleaning an air fryer basket](/blog/how-to-clean-an-air-fryer-basket/) takes, and [cleaning an electric griddle](/blog/how-to-clean-electric-griddle/) covers the same care for a heated surface you cannot dunk.
+
+Bare stainless steel has one advantage here that coatings never will. It does not degrade when you scrub it. Our guide to [what stainless steel cookware is](/blog/what-is-stainless-steel-cookware/) explains why, and [is ceramic-titanium cookware safe](/blog/is-ceramic-titanium-cookware-safe/) covers the coating side of the question.
+
+## Energy Use and Running Cost
+
+A pressure cooker uses less energy than an oven for the same dish. The sealed pot holds its steam instead of dumping heat into the room, so the element cycles on less often.
+
+Wattage tells you the draw, not the total cost. A 1,500-watt Instant Pot pulls more power per minute than the 1,200-watt Ninja, but it also reaches pressure sooner. Our explainer on [how many watts an Instant Pot uses](/blog/how-many-watts-does-an-instant-pot-use/) does that arithmetic properly.
+
+None of these carries an Energy Star rating, because that program does not cover multicookers. Savings come from the shorter cook time and from not heating a full oven for one tray of food.
+
+If efficiency is your main filter, [the most energy-efficient small kitchen appliances](/blog/most-energy-efficient-small-kitchen-appliances/) and [compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/) are the next reads. [Reducing kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/) covers where a multicooker fits in a whole-kitchen picture.
+
+## Mistakes People Make Choosing Between These
+
+* **Buying a retired model because the listing looks active.** Check the maker's own site. A retailer page can outlast the product by years.
+* **Assuming every Foodi was recalled.** The 2025 recall named specific model numbers, not the whole line.
+* **Buying 8 quarts to be safe.** A bigger pot takes up space every day, not only on the days you cook for a crowd.
+* **Ignoring lid clearance.** Measure the gap above the counter before you buy, not after.
+* **Expecting air fryer results from a crisping lid.** It browns well. It will not match a basket fryer with the fan close to the food.
+* **Forgetting the other appliances.** A [food processor](/blog/best-food-processor-under-100/) and a [hand mixer](/blog/best-hand-mixers/) on the same outlet strip make any multicooker feel bigger than it is.
+* **Skipping the sealing ring wash.** It holds smells, and a stretched ring stops the pot reaching pressure.
 
 ## Which One Should You Buy?
 
-If you had to pick one feature to decide on, make it the lid. Everything else, from cleanup to capacity to price, is close enough between these two that your daily habits should be the tiebreaker.
+Ask one question: do you want browning in the same pot? If yes, the Duo Crisp Ultimate is the buy, and the 8-quart Duo Crisp is the one to get if you cook in big batches.
 
-Cook mostly one-pot meals that go from pressure to crisp without much fuss? The Foodi's hinged lid saves you a step. Want an air fryer that also happens to pressure cook, with two lids you can treat as separate tools? The Duo Crisp gives you that.
+If no, the Ninja HyperHeat saves you about $80 and a few inches of counter. It is the honest pick for anyone who was only ever going to press the pressure button.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07VT23JDM/?tag=kitchenpot-20) for the Instant Pot Duo Crisp, or [Check Price on Amazon](https://www.amazon.com/dp/B09PRVJTMC/?tag=kitchenpot-20) for the Ninja Foodi OS401.
+There is no wrong answer between the two brands now, just a narrower one. Ninja builds a good pressure cooker. Instant Pot builds the only current pot of the two that also crisps.
+
+Setting up a kitchen from scratch? [Our checklist for stocking a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) and [our roundup of small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) are the right next stops. If you already own Ninja pans, our [Ninja Foodi cookware set review](/blog/ninja-foodi-cookware-set-reviews/) covers what the brand sells alongside its cookers.
 
 ## Related Guides
 
 * [What Is an Instant Pot?](/blog/what-is-an-instant-pot/)
 * [Instant Pot vs Pressure Cooker](/blog/instant-pot-vs-pressure-cooker/)
 * [How Many Watts Does an Instant Pot Use?](/blog/how-many-watts-does-an-instant-pot-use/)
-* [Best Steamer Basket for Instant Pot and How to Use It](/blog/best-steamer-basket-for-instant-pot/)
-* [Ninja Foodi NeverStick Cookware Set Review](/blog/ninja-foodi-cookware-set-reviews/)
-* [NuWave Oven vs Air Fryers](/blog/nuwave-oven-vs-air-fryers/)
-* [Best Small Kitchen Appliances for Cooking for One](/blog/best-small-kitchen-appliances-for-cooking-for-one/)
+* [Best Steamer Basket for Instant Pot](/blog/best-steamer-basket-for-instant-pot/)
+* [Best Air Fryers Under $100](/blog/best-air-fryers-under-100/)
+* [Small Kitchen Gadgets Worth Buying When You Cook for One](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/)
+* [Best Cookware Sizes for Cooking for One](/blog/best-cookware-sizes-for-cooking-for-one/)
 * [Most Energy-Efficient Small Kitchen Appliances](/blog/most-energy-efficient-small-kitchen-appliances/)

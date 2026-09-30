@@ -1,5 +1,5 @@
 ---
-excerpt: "The Gotham Steel Smokeless Grill pulls smoke down through the grates with a fan instead of letting it rise off your food. That works, up to a point. Here's where it holds and where it doesn't."
+excerpt: "The Gotham Steel Smokeless Grill pulls smoke down through the grates instead of letting it rise off your food. That mechanism is real. The problem is that Gotham Steel no longer sells the grill."
 showTableOfContents: true
 authorId: kitchenpot1
 title: "Gotham Steel Smokeless Grill Review: Is It Really Smokeless?"
@@ -16,142 +16,280 @@ tags:
   - gotham steel smokeless grill review
   - is the gotham steel grill really smokeless
   - indoor smokeless grill nonstick coating
-  - gotham steel grill temperature control
-description: "A review of the Gotham Steel Smokeless Grill: how its fan works, real nonstick coating durability, temperature control, cleanup, and its honest limits now."
-seo: "An honest look at the Gotham Steel Smokeless Grill, covering how the smokeless fan actually works, what owner reviews say about the nonstick coating, and where the smokeless claim falls short."
+  - gotham steel grill discontinued
+  - best smokeless indoor grill
+description: "Gotham Steel Smokeless Grill review: how its downdraft fan actually works, where the smokeless claim fails, and three current indoor grills to buy instead."
+seo: "An honest look at the Gotham Steel Smokeless Grill: how the downdraft fan works, why the smokeless claim only half holds, and which indoor grills are still sold."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
   - question: "Is the Gotham Steel Smokeless Grill actually smokeless?"
-    answer: Not completely. It cuts down smoke a lot with lean foods like chicken breast or vegetables, since the fan pulls rising heat and vapor down and away from the food. Fatty meats like bacon or burgers still produce some visible smoke, especially once grease starts to drip and heat up.
+    answer: "Not completely. It cuts smoke a lot with lean foods like chicken breast, shrimp or vegetables, because the fan pulls rising vapour down and away. Fatty meats are different. Bacon, sausages and higher-fat burgers still smoke once grease drips and heats up, even with the fan running."
+  - question: "Does Gotham Steel still sell the Smokeless Grill?"
+    answer: "Not on gothamsteel.com. The site now sells cookware, bakeware, crisper trays, a sandwich maker and a stovetop double grill plate, with no electric grill category at all. Third-party listings and leftover stock still exist, so the grill can be bought, but it is no longer a current product from the maker."
   - question: "How does a smokeless grill actually work?"
-    answer: A fan built into the base pulls air down through slots in the cooking grate, drawing smoke and steam away from the food instead of letting it rise into the room. A drip tray underneath collects grease before it can heat up and smoke on its own.
-  - question: "Does the nonstick coating on the Gotham Steel Grill wear out?"
-    answer: Yes, over time, which is the most common complaint in owner reviews of this kind of ceramic-titanium nonstick coating. It performs well when new, but expect it to lose some slickness after months of regular use, especially if metal utensils or high heat are used often.
-  - question: "Can you put the Gotham Steel Smokeless Grill in the dishwasher?"
-    answer: The drip tray and some removable parts are dishwasher-safe, but the cooking grate itself is better hand-washed with warm water and a soft sponge. Submerging the heating base isn't safe, since it houses the electrical components and fan.
-  - question: "What temperature does the Gotham Steel Smokeless Grill reach?"
-    answer: It has four settings, warm, low, medium, and high, controlled by a removable dial rather than a numbered thermostat. Independent testing has found some models swing in temperature between heating cycles, so it runs more like a griddle you adjust by feel than a precise thermostat-controlled appliance.
+    answer: "A fan in the base pulls air down through slots in the cooking grate. That downdraft drags smoke and steam away from the food instead of letting it rise into the room. A drip tray underneath catches grease before it sits on hot metal long enough to smoke on its own."
+  - question: "Does the ceramic nonstick coating on the Gotham Steel grill wear out?"
+    answer: "Yes, over time. Loss of slickness is the most common complaint in owner reviews of ceramic nonstick surfaces generally. The coating performs best when new and needs more oil after months of regular use. Metal tools and very high heat both speed that up, so wooden or silicone tools help."
+  - question: "What is the best smokeless indoor grill you can buy now?"
+    answer: "The Ninja Sizzle indoor grill and griddle is the closest current replacement. Ninja lists it at $149.99 with 14-inch by 9-inch interchangeable grill and griddle plates, 1,450 watts and heat to 500F. A perforated mesh lid cuts smoke and splatter, and that lid is removable and dishwasher safe."
+  - question: "Can you put an indoor electric grill in the dishwasher?"
+    answer: "Only the removable parts. On the Gotham Steel grill, the grill plate and drip pan are dishwasher safe while the base and the temperature probe are not. The base holds the heating element, the fan and the wiring, so it gets wiped with a damp cloth and never submerged."
 ---
-A fan pulls smoke down through the grates instead of letting it rise off your food. That's the entire idea behind the Gotham Steel Smokeless Grill, and it's a real mechanism, not just marketing.
+A fan under the grates pulls smoke downward instead of letting it drift up into your face. That is the whole idea behind the Gotham Steel Smokeless Grill, and it is a real mechanism.
 
-It also isn't magic. This review covers how that fan actually works, what happens with fatty foods, how the nonstick coating holds up, and whether the "smokeless" name oversells what you get.
+There is a catch that has nothing to do with smoke. Gotham Steel does not sell this grill any more.
 
-Short answer: it cuts smoke noticeably with lean foods, but fatty meats like bacon or burgers still produce some. If you want zero smoke under any circumstance, no indoor electric grill delivers that.
+**The short version:** The smokeless claim half holds. The downdraft fan and drip tray cut smoke a lot with lean food and barely at all with bacon. The bigger issue is that Gotham Steel's own site no longer lists an electric grill, so buy the [Ninja Sizzle indoor grill and griddle](https://www.amazon.com/dp/B0C8VHBBZK/?tag=kitchenpot-20) instead. It hits 500F, swaps between grill and griddle plates, and Ninja still sells it at $149.99. The buying rule for any indoor grill: match the grill to the fat content of what you cook, because fat is what makes smoke, not the grill.
 
-## What The Gotham Steel Smokeless Grill Is
+## Is the Gotham Steel Smokeless Grill Still Sold?
 
-The [Gotham Steel Smokeless Grill](https://www.amazon.com/dp/B075X25LN2/?tag=kitchenpot-20) is a countertop electric indoor grill with a ceramic-titanium nonstick cooking grate, a removable temperature dial, and a drip tray underneath. It's sold under Gotham Steel's "As Seen on TV" line and has been on the market for several years.
+Not by Gotham Steel. The [Gotham Steel site](https://www.gothamsteel.com/) now sells cookware sets, skillets, saute pans, pasta pots, stock pots, bakeware and crisper trays. There is no electric grill category.
 
-The cooking surface measures roughly 14 by 9 inches on the version most retailers list, and the unit runs on a standard 120-volt outlet at about 1,000 watts. That's modest power for an electric grill, which matters once you get to the temperature control section below.
+Search its store for "smokeless grill" and you get four results: a stovetop double grill plate at $49.99, a sandwich maker, a crisper tray set and a frying pan. The electric grill is gone from the catalogue.
 
-## How The Smokeless Claim Actually Works
+That matters for two reasons. Replacement grill plates and drip pans get scarce once a line is retired, and a scratched plate is the part that usually fails first. Warranty support also thins out.
 
-Grease and drippings are what cause most smoke when you grill. Once fat hits a hot surface directly, it burns and smokes almost immediately.
+You can still buy the grill from third-party sellers working through leftover stock. If you want to see what owners say, the [Amazon customer reviews page](https://www.amazon.com/product-reviews/B075X25LN2/?tag=kitchenpot-20) is worth ten minutes. Just know you are buying a product its maker has moved on from.
 
-The Gotham Steel grill tries to get ahead of that in two ways. First, a fan inside the base pulls air down through slots built into the cooking grate. That downward airflow carries rising heat and steam away from the food instead of letting it drift up into your kitchen.
+## Our Picks at a Glance
 
-Second, a removable drip tray sits below the grate and catches grease as it runs off. Adding a little water to that tray, as the manufacturer suggests, keeps the collected fat from getting hot enough to smoke on its own.
+- **Best overall replacement:** [Ninja Sizzle Indoor Grill and Griddle](https://www.amazon.com/dp/B0C8VHBBZK/?tag=kitchenpot-20)
+- **Best budget pick:** [Hamilton Beach Electric Indoor Searing Grill](https://www.amazon.com/dp/B00F0RBF3E/?tag=kitchenpot-20)
+- **Best for grill marks plus air frying:** [Ninja Foodi Smart XL Indoor Grill and Air Fryer](https://www.amazon.com/dp/B0B3S5GWX7/?tag=kitchenpot-20)
 
-Together, those two features do meaningfully cut down smoke compared to a grill with no fan and no separate drip tray. That's a real difference, not just a label on the box.
+## How the Three Current Grills Compare
 
-## Where "Smokeless" Falls Short
-
-Here's the honest limit: a fan pulling air down can't stop fat from smoking the instant it touches a hot metal surface. It can only move that smoke away from your face faster than it would otherwise rise.
-
-Lean foods like chicken breast, shrimp, or vegetables produce very little grease to begin with, so the grill performs closest to its "smokeless" name with those. Fatty foods are a different story. Bacon, sausages, and higher-fat burgers still release visible smoke once the grease starts dripping and heating up, even with the fan running and water in the drip tray.
-
-If you're cooking mostly lean proteins and vegetables, the smokeless claim holds up reasonably well. If bacon and burgers are a regular part of your routine, expect some smoke no matter what tray you use underneath.
-
-This distinction matters for anyone comparing indoor grills to their outdoor options. If you have any outdoor space at all, our guide to [small grills for balconies and patios](/blog/best-small-grills-for-balconies-and-patios/) covers gas and charcoal alternatives that vent smoke outside entirely, which sidesteps the whole problem.
-
-## Nonstick Coating: The Real Durability Question
-
-The cooking grate uses what Gotham Steel calls Ti-Ceramic technology, which infuses titanium into a ceramic nonstick coating. When new, that surface releases food cleanly and needs little to no oil.
-
-The most common complaint in owner reviews of this kind of coating, and of ceramic-titanium nonstick surfaces generally, is that the slickness fades with regular use. Expect the coating to perform best in its first several months and gradually need more oil or careful heat management after that. You can read real buyer feedback for yourself on the [Amazon customer reviews page](https://www.amazon.com/product-reviews/B075X25LN2/?tag=kitchenpot-20).
-
-A few habits slow that wear down. Stick to wood, silicone, or plastic tools rather than metal, since scratches shorten a coating's life faster than heat alone. Our explainer on [what nonstick cookware actually is](/blog/what-is-nonstick-cookware/) covers why coatings like this one degrade with high heat and metal contact. That same logic applies here, even though this is a grill grate rather than a pan.
-
-If coating safety itself is a concern, our guide to [whether ceramic-titanium cookware is safe](/blog/is-ceramic-titanium-cookware-safe/) walks through what's actually in these coatings and what independent testing has found.
-
-## Temperature Control: Four Settings, Not A Thermostat
-
-The Gotham Steel grill controls heat through a removable dial with four settings: warm, low, medium, and high. There's no digital readout and no exact temperature number attached to any setting.
-
-Independent testing of this style of grill has found real swings in surface temperature between heating cycles. That's because the heating element cycles on and off, rather than holding one constant temperature the way a thermostat does. In practice, food near the edges of the grate can cook a little slower than food in the center. The surface also cools noticeably right after you add a full load of food.
-
-That's a normal tradeoff for a grill at this price and power level, but it's worth knowing going in. If you want more predictable heat, a grill with a numbered thermostat display, like some panini presses and griddles, will hold a set temperature more consistently. Our [panini press roundup](/blog/best-panini-press-for-home-use/) covers a few options in that category if precise heat control matters more to you than grill marks.
-
-## Cleanup: Mostly Easy, With One Caveat
-
-The grate, once cooled, wipes clean fairly easily thanks to the nonstick surface, and the drip tray is designed to be removable for its own separate wash. Both of those parts are generally dishwasher-safe.
-
-The caveat is the base itself. It houses the heating element, the fan motor, and the electrical connections, so it should never be submerged in water or run through a dishwasher. A damp cloth on the outside housing is the right approach there.
-
-For the grate and tray specifically, warm soapy water and a soft sponge work well between uses. Avoid steel wool or other harsh abrasives, since scratching the coating speeds up the wear covered in the section above. Our guide to [cleaning an electric griddle](/blog/how-to-clean-electric-griddle/) covers similar habits that extend the life of a nonstick cooking surface, and the same principles apply here.
-
-## What Buyers Say In Practice
-
-Beyond the specs, real owner reviews give a useful sense of how this grill performs over time, not just out of the box. You can browse the full set of reviews on [Amazon](https://www.amazon.com/product-reviews/B075X25LN2/?tag=kitchenpot-20) to judge the pattern for yourself.
-
-The recurring themes match what's covered above. Reviewers praise easy cleanup and fast heat-up when the grill is new, but also report coating wear and some sticking after months of regular use. Smoke performance gets mixed reviews too, largely tracking what people are cooking. Reviewers grilling mostly chicken and vegetables report little smoke, while those cooking bacon or fattier cuts more often mention noticeable smoke despite the fan.
-
-## Who This Grill Actually Fits
-
-This grill makes sense for apartment or dorm cooks who want indoor grill marks on lean proteins and vegetables without setting off a smoke alarm every time. It's compact enough to store in a cabinet between uses and doesn't need a dedicated spot on the counter.
-
-It's a weaker fit if bacon, sausage, or fatty burgers are a weekly habit, since that's exactly where the smokeless claim is weakest. It's also not built for cooking large volumes at once. The modest cooking surface handles a couple of servings at a time rather than a full family meal.
-
-If your kitchen has no outdoor access at all, our guide to [balcony grilling safety and rules](/blog/balcony-grilling-safety-tips-and-rules/) is worth a read anyway, since some buildings allow more outdoor grilling than renters assume. And if you do have a balcony or small patio, [setting up a small patio for grilling](/blog/how-to-set-up-a-small-patio-for-grilling/) covers options that skip the smoke question entirely.
-
-## How It Compares To Other Indoor Options
-
-Other indoor electric grills take different approaches to the same smoke problem, and it's worth knowing the tradeoffs before you settle on one style.
-
-| Feature | Gotham Steel Smokeless Grill | Typical Panini Press | Countertop Electric Smoker |
+| | Ninja Sizzle GR101 | Hamilton Beach 25360 | Ninja Foodi DG551 |
 | --- | --- | --- | --- |
-| Smoke reduction method | Downdraft fan plus drip tray | Enclosed cooking, less airborne grease | Ventilated, meant to produce smoke flavor |
-| Best for | Lean proteins, vegetables, quick meals | Sandwiches, flattened proteins | Slow-smoked flavor, not smoke-free cooking |
-| Temperature control | Four-setting dial | Often a thermostat dial | Digital, precise |
-| Typical footprint | Compact, flat | Compact, flat | Larger, often outdoor-only |
+| Smoke control | Perforated mesh lid | Closed lid, large drip tray | Cyclonic hot air, closed hood |
+| Max heat | 500F | 450F | 500F grate and air |
+| Power | 1,450 W | Not published | 1,760 W |
+| Cook surface | 14 x 9 in plates | 118 sq in | Grate plus 4-quart basket |
+| Also does | Griddle plate included | Searing only | Air fry, roast, bake, broil, dehydrate |
+| Maker's price | $149.99 | $84.99 | $199.99 |
 
-Drawn to indoor grilling because you actually like smoke flavor? That's the opposite goal from this grill. An [electric smoker](/blog/how-to-use-an-electric-smoker/) or a [smoker box on a gas grill](/blog/how-to-use-a-smoker-box-on-a-gas-grill/) will get you there instead.
+None of these is truly smokeless either. They handle smoke differently, and that is the honest way to compare them. Cooking outdoors is still the clean answer, and [our guide to small grills for balconies and patios](/blog/best-small-grills-for-balconies-and-patios/) covers that route.
 
-## Safety Basics Worth Knowing
+## 1. [Ninja Sizzle Indoor Grill and Griddle](https://www.amazon.com/dp/B0C8VHBBZK/?tag=kitchenpot-20): Best Overall Replacement
 
-Cool-touch handles and a heat-resistant housing are standard on this grill, which matters for a countertop appliance that sits close to hands and kids in a small kitchen. Even so, a pair of [heat-resistant gloves](/blog/10-best-heat-resistant-gloves-for-cooking/) is a cheap way to avoid a burn when you're lifting a hot grate off the base to clean it.
+- **Type:** Countertop electric grill with interchangeable plates
+- **Key specs:** 1,450 watts, heat to 500F, 14-inch by 9-inch plates
+- **Size:** 16.54 in long, 9.13 in wide, 15.47 in tall
+- **Best for:** Apartment cooks who want grill marks and a flat griddle in one machine
 
-Keep the unit's cord and vents clear of towels or paper while it's running, the same basic rule that applies to any electric countertop appliance, from a [griddle](/blog/best-griddle-pan-for-pancakes/) to a toaster.
+This is the closest thing to a direct replacement, and it is the one Ninja is actively selling at $149.99. Two plates come in the box. One is ribbed for grill marks and one is flat for eggs, pancakes and smash burgers.
 
-## Making It Work In A Small Kitchen
+Smoke is handled by a perforated mesh lid rather than a downdraft fan. The mesh traps splatter and slows the plume, then lets steam escape so food does not stew. It is a different approach from Gotham Steel's, and it leans on containment instead of airflow.
 
-A grill like this earns its keep in a small kitchen by doing double duty. You get grill marks and a hot cooking surface without needing outdoor space or a range hood built for smoke. Our roundup of [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/) covers other compact appliances that earn their storage space the same way.
+Heat is the real upgrade. 500F is well above what most nonstick indoor grills reach, and Ninja specifies even heat edge to edge. Hot edges matter, because uneven plates are the usual reason indoor grill marks look patchy.
 
-If storage is the real constraint, [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) can help. So can [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/), which covers keeping a grill like this from permanently hogging counter space.
+Plates have high walls and grease channels, so drippings run off instead of pooling under the food. That helps with smoke for the same reason a drip tray does. Wash the plates with a soft sponge the way you would [clean an electric griddle](/blog/how-to-clean-electric-griddle/), and skip metal tools.
 
-At around 1,000 watts, it also draws less power than a full-size range burner running for the same stretch of time. Our guide to [reducing kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/) covers how a lower-wattage appliance like this fits into that picture. Our list of [compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/) is a good next stop too.
+**What we like:**
 
-## A Few Alternatives Worth Knowing About
+- Grill and griddle plates both included, so one machine covers two jobs
+- 500F is hotter than most nonstick indoor grills
+- Mesh lid is removable and dishwasher safe
+- Even heat across the whole plate, per Ninja's specs
+- Currently sold by Ninja at $149.99, so plates and parts stay available
 
-If the smoke limitation with fatty foods is a dealbreaker, a handful of other indoor electric grills use similar downdraft designs. Comparing a few before you buy is worth the extra ten minutes. Our roundups of [gas and charcoal grill combos](/blog/best-gas-and-charcoal-grill-combo/), [gas grills under $500](/blog/best-gas-grills-under-500/), and [infrared grills for the money](/blog/best-infrared-grills-for-the-money/) all cover outdoor alternatives. Any of them sidesteps indoor smoke management entirely.
+**What to know before you buy:**
 
-Chasing smoked flavor instead of trying to avoid smoke? Our guides to [propane smokers](/blog/best-propane-smoker/), [offset smokers for beginners](/blog/best-offset-smoker-for-beginners/), and [using a Masterbuilt electric smoker](/blog/how-to-use-masterbuilt-electric-smoker/) point toward equipment built for that goal.
+- 15.47 inches tall, so it will not slide under a low cabinet
+- The mesh lid reduces smoke but does not vent it anywhere
+- Nonstick plates still need careful tools and moderate scrubbing
 
-## Common Mistakes People Make With This Grill
+**Who should buy it:** Anyone replacing a retired smokeless grill who also wants a flat top. It is the best all-round indoor grill of the three for a small kitchen, especially if you cook for two to four people.
 
-* **Expecting zero smoke with fatty meats.** The fan reduces smoke; it doesn't eliminate what fat produces the instant it hits a hot surface.
-* **Skipping the water in the drip tray.** That water keeps collected grease cooler, so skipping it makes smoke worse, not just messier.
-* **Using metal utensils on the coating.** Wood, silicone, or plastic tools protect the nonstick surface and slow the wear covered earlier.
-* **Submerging the base in water.** Only the grate and tray are safe to wash that way. The base with the fan and heating element is not.
-* **Overloading the grate.** A full load of cold food drops the surface temperature fast on a grill this size, leading to uneven cooking.
+[Check Price on Amazon](https://www.amazon.com/dp/B0C8VHBBZK/?tag=kitchenpot-20)
 
-## The Bottom Line On This Grill
+## 2. [Hamilton Beach Electric Indoor Searing Grill](https://www.amazon.com/dp/B00F0RBF3E/?tag=kitchenpot-20): Best Budget Pick
 
-The Gotham Steel Smokeless Grill does what its fan and drip tray are designed to do: it cuts down smoke meaningfully, especially with lean proteins and vegetables. It does not make fatty meats smoke-free, and no indoor grill at this price point does either.
+- **Type:** Closed-lid electric searing grill
+- **Key specs:** Adjustable 200F to 450F, 118 square inches of surface
+- **Size:** 16.73 in wide, 12.4 in deep, 6.81 in tall
+- **Best for:** Tight budgets, low cabinets and steaks cooked with the lid down
 
-Buy it if you mostly grill chicken, fish, or vegetables and want a compact, easy-to-store option for a small kitchen. Look elsewhere, or plan for some smoke, if bacon and burgers are your regular menu.
+Hamilton Beach lists this one at $84.99, and it is the cheapest current grill here by a wide margin. It takes the opposite approach to smoke: keep the lid closed and let the hood hold vapour in rather than moving it around.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B075X25LN2/?tag=kitchenpot-20)
+That closed lid does something a downdraft fan cannot. It reflects heat back onto the top of the food, so a steak cooks from both sides and a thicker cut finishes without drying out. Grill marks come from the plate below.
+
+The temperature dial runs from 200F to 450F, which is a real range rather than four vague steps. Low settings are useful for sausages and chicken thighs, where high heat burns the outside before the middle is safe. Check the centre with a thermometer instead of guessing, and [clean the meat thermometer](/blog/how-to-clean-a-meat-thermometer/) between checks.
+
+Cleanup is the quiet strength. The grill plate, the lid and the extra-large drip tray all come off and go in the dishwasher, and the nonstick coating is PFAS-free. At 6.81 inches tall it is the only one of the three that stores easily on a shelf.
+
+**What we like:**
+
+- $84.99 list price on Hamilton Beach's own site
+- Plate, lid and drip tray are all removable and dishwasher safe
+- PFAS-free nonstick coating
+- Real temperature dial from 200F to 450F
+- Only 6.81 inches tall, so it stores flat in a cupboard
+
+**What to know before you buy:**
+
+- 450F is lower than the Ninja grills, so searing is gentler
+- Closed-lid design means no downdraft and no vent
+- 118 square inches feeds about six, not a crowd
+
+**Who should buy it:** Cooks who want indoor steaks and chops for under $100 and have nowhere to keep a tall appliance. Pair it with [a good metal spatula set](/blog/best-metal-spatula-set/) for the flat foods and [heat-resistant gloves](/blog/10-best-heat-resistant-gloves-for-cooking/) for lifting the hot plate out.
+
+[Check Price on Amazon](https://www.amazon.com/dp/B00F0RBF3E/?tag=kitchenpot-20)
+
+## 3. [Ninja Foodi Smart XL Indoor Grill and Air Fryer](https://www.amazon.com/dp/B0B3S5GWX7/?tag=kitchenpot-20): Best for Grill Marks Plus Air Frying
+
+- **Type:** Enclosed electric grill with an air fryer basket
+- **Key specs:** 1,760 watts, 500F grate and 500F cyclonic air, six functions
+- **Extras:** Built-in thermometer with four protein settings and nine doneness levels
+- **Best for:** Cooks who want one appliance for grilling, air frying and roasting
+
+Ninja lists this at $199.99, down from $299.99. It is the most capable machine here and the largest, at 18.74 inches long and 14.45 inches tall.
+
+The mechanism is worth understanding. A 500F grate does the searing from below while a fan drives 500F air down over the top. Ninja calls that cyclonic grilling, and the practical effect is that food browns on both sides without being flipped constantly.
+
+That same fan and element run the air fry mode. So this replaces a countertop grill and a [dedicated air fryer](/blog/best-air-fryers-under-100/) at once, which is the argument for its price. It also roasts, bakes, broils and dehydrates.
+
+The built-in thermometer is the feature people keep. You pick the protein and the doneness, and the grill stops when the centre hits temperature. That removes the guesswork that ruins most indoor steaks. The basket cleans up much like [an air fryer basket](/blog/how-to-clean-an-air-fryer-basket/), and the parts are dishwasher safe.
+
+**What we like:**
+
+- 500F grate plus 500F cyclonic air browns food from both sides
+- Built-in thermometer with nine doneness levels
+- Six functions, so it doubles as an air fryer and small oven
+- 1,760 watts, the most power of the three
+- Dishwasher-safe parts and a current $199.99 listing from Ninja
+
+**What to know before you buy:**
+
+- The biggest footprint here at 18.74 by 17.95 inches
+- Closed hood, so smoke is contained rather than vented
+- The most expensive of the three
+- More parts to wash than a simple plate and tray
+
+**Who should buy it:** Anyone happy to give up real counter space for one machine that grills and air fries. If you already own an air fryer, the Sizzle is the better value.
+
+[Check Price on Amazon](https://www.amazon.com/dp/B0B3S5GWX7/?tag=kitchenpot-20)
+
+## How a Smokeless Grill Actually Works
+
+Smoke from grilling is mostly burning fat. Drippings hit hot metal, break down and turn into visible particles within seconds.
+
+A smokeless grill attacks that in two places. First, a fan in the base pulls air down through slots in the cooking grate. The airflow carries rising vapour downward instead of letting it drift up past your face.
+
+Second, a drip tray sits under the grate and collects grease before it can bake onto hot metal. Keeping that fat cool is half the job. Many owners add a little water to the tray for exactly that reason. It is a common technique for grills of this type, not a printed instruction in the Gotham Steel manual.
+
+Put together, a fan and a tray do cut smoke compared with a bare grill plate over an element. That part of the marketing is fair.
+
+## Where the Word Smokeless Falls Apart
+
+A fan cannot stop fat from smoking the instant it lands on a 400F surface. It can only move the smoke somewhere else, faster than it would rise on its own.
+
+Lean food barely tests the system. Chicken breast, shrimp, fish and vegetables release very little fat, so the grill runs close to its name. That is where the claim holds.
+
+Fatty food breaks it. Bacon, sausages and 80/20 burgers all release grease onto a hot plate, and some of that smokes before the fan can move it. Expect a haze and, in a small kitchen with no hood, a smoke alarm that eventually notices.
+
+The honest framing is smoke-reduced, not smokeless. Any indoor grill that browns food has to get the surface hot enough to burn fat, and burning fat makes smoke. Venting outside is the only way around the physics, which is why [balcony grilling rules](/blog/balcony-grilling-safety-tips-and-rules/) and [setting up a small patio for grilling](/blog/how-to-set-up-a-small-patio-for-grilling/) are worth reading first.
+
+## What the Gotham Steel Grill Got Right
+
+Credit where it is due. The downdraft design was the right idea, and it was cheap enough that a lot of apartment cooks got their first indoor grill because of it.
+
+The grate was the good part. A ceramic nonstick surface over a ribbed plate released food with almost no oil, and the Amazon listing describes it as metal-utensil safe. The manual puts the grill plate and drip pan in the dishwasher-safe column.
+
+Power was respectable too. The manual for the 1618 model lists 1,500 watts and 120.75 square inches of cooking area. That is more surface than the Hamilton Beach grill and the same order of power as the Ninja Sizzle.
+
+It also stored flat, which is more than you can say for the Ninja Foodi grill. In a kitchen where every appliance competes for a cupboard, that counted. [Small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/) covers the same trade between capability and storage.
+
+## The Ceramic Nonstick Coating Question
+
+Ceramic nonstick is a thin, glass-like layer applied over metal. It is slick when new and it does not need oil to release food, which is why so many indoor grills use it.
+
+It also wears out. The layer is thin, and both heat cycling and scratching thin it further. Loss of slickness over months of use is the most common complaint in owner reviews of ceramic nonstick surfaces. That applies to a grill grate just as much as to a pan.
+
+Three habits slow it down. Use wood or silicone tools rather than metal, even on a plate marked metal-safe. Keep the dial below maximum for everyday cooking. Let the plate cool before washing, because cold water on a hot coating causes micro-cracks.
+
+Our explainer on [what nonstick cookware is](/blog/what-is-nonstick-cookware/) covers the chemistry in plain words. If safety is what bothers you, [is ceramic-titanium cookware safe](/blog/is-ceramic-titanium-cookware-safe/) goes through what these coatings contain.
+
+## Four Dial Settings Are Not a Thermostat
+
+The Gotham Steel grill used a removable probe dial with Warm, Low, Medium, High and OFF. There was no numbered readout, so you cooked by feel.
+
+A dial like that switches the element on and off rather than holding a set temperature. Surface heat rises and falls between cycles, and that swing gets wider once you load the plate with cold food.
+
+Two things follow. Food near the edges cooks slower than food in the middle, and a full plate drops the surface temperature fast. Cooking in two batches beats crowding one.
+
+Compare that with the Hamilton Beach dial, which runs 200F to 450F in a continuous range. The Ninja Foodi goes further and measures the food itself with a probe. Numbered control is the biggest upgrade in indoor grills since the Gotham Steel launched. A [panini press](/blog/best-panini-press-for-home-use/) or [a griddle pan](/blog/best-griddle-pan-for-pancakes/) is another route to steadier heat.
+
+## Cleanup: What Goes in Water and What Never Does
+
+Split any electric grill into two halves. The removable half is the grill plate and the drip tray, and both go in the dishwasher on the Gotham Steel grill.
+
+The other half is the base, and it never touches water. It holds the element, the fan motor and the wiring, so it gets a damp cloth on the outside only. The temperature probe is in the same category.
+
+Skip abrasives entirely. The manual warns against steel wool and harsh scouring pads, because scratching the coating shortens its life faster than heat alone does. Warm soapy water and a soft sponge are enough if you wash it before grease hardens.
+
+Let the plate cool first. The same rule applies to [hard-anodized cookware](/blog/how-to-clean-hard-anodized-cookware/) and to any [ceramic pan](/blog/how-to-clean-ceramic-pan/): thermal shock does more damage than dirt.
+
+## What Owners Report Over Time
+
+Owner reviews of this grill fall into a clear pattern, and it matches the mechanism. Easy cleanup and fast heating get praised while the grill is new. Coating wear and sticking come up once a grill has some age on it.
+
+Smoke feedback splits by menu. People grilling chicken and vegetables report very little smoke. People cooking bacon and fattier cuts report plenty, fan or no fan.
+
+That split is the most useful thing in those reviews. It tells you the grill is not broken when it smokes with bacon. It is doing what physics allows.
+
+None of that is a reason to avoid indoor grilling. It is a reason to buy for the food you actually cook, and to keep a window open.
+
+## What to Look For in an Indoor Grill
+
+| Feature | Why it matters | What to look for |
+| --- | --- | --- |
+| Temperature control | Steady heat means even cooking | A numbered range, not four labels |
+| Max heat | Browning needs real heat | 450F at minimum, 500F is better |
+| Removable plate | Cleanup and replacement | Dishwasher safe, sold as a spare part |
+| Drip tray size | Grease that sits on metal smokes | Large, removable, easy to empty |
+| Height | Cabinet clearance and storage | Measure before you buy |
+| Still in production | Parts and warranty | Listed on the maker's own site |
+
+That last row is the one people skip. A retailer listing can stay live for years after a product stops being made, which is exactly what happened here.
+
+## Making an Indoor Grill Work in a Small Kitchen
+
+Run the extractor fan before you turn the grill on, not after the smoke appears. Airflow that is already moving carries vapour out instead of letting it settle into fabric.
+
+Pat food dry and trim heavy fat caps. Surface moisture steams instead of browning, and trimmed fat is smoke you never make. Lean cuts indoors and fatty cuts outdoors is a sensible split.
+
+Storage is the other half of the problem. [Countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) helps keep a grill from becoming permanent counter furniture. [Storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) covers the cupboard side, and [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) is the next step when the cupboards are full.
+
+Power draw is modest. A 1,450-watt to 1,760-watt grill pulls less than most full-size ovens running for the same stretch. Our guide to [reducing kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/) covers where that sits, and [compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/) covers the bigger items.
+
+## If You Actually Want Smoke Flavour
+
+Some people buy an indoor grill hoping for barbecue flavour. That is the opposite goal, and no smokeless grill delivers it. Smoke flavour comes from wood smoke touching food, which is exactly what these machines remove.
+
+If flavour is the point, go the other way. [A smoker box on a gas grill](/blog/how-to-use-a-smoker-box-on-a-gas-grill/) is the cheapest entry, and [our smoker box roundup](/blog/best-smoker-box-for-gas-grills/) covers which ones hold up. [Using an electric smoker](/blog/how-to-use-an-electric-smoker/) and [using a Masterbuilt electric smoker](/blog/how-to-use-masterbuilt-electric-smoker/) both cover the set-and-forget route.
+
+Bigger outdoor options are a different budget. [Propane smokers](/blog/best-propane-smoker/) and [offset smokers for beginners](/blog/best-offset-smoker-for-beginners/) are the two paths worth comparing. For plain grilling, [gas and charcoal combos](/blog/best-gas-and-charcoal-grill-combo/) and [gas grills under $500](/blog/best-gas-grills-under-500/) cover most needs. [Infrared grills](/blog/best-infrared-grills-for-the-money/) get closest to indoor searing heat.
+
+Renting with a balcony? [Portable grills for apartment living](/blog/best-portable-grills-for-apartment-living/) and [small-space grilling accessories you actually need](/blog/small-space-grilling-accessories-you-actually-need/) are the practical pair.
+
+## Mistakes People Make With Indoor Grills
+
+* **Expecting zero smoke from fatty meat.** The fan moves smoke. It cannot stop fat from burning on hot metal.
+* **Leaving the drip tray dry.** Grease sitting on hot metal smokes. A little water keeps it cooler.
+* **Using metal tools on a coated plate.** Scratches shorten a coating's life faster than heat does.
+* **Submerging the base.** Only the plate and tray are washable. The base holds the fan and the element.
+* **Overloading the plate.** Cold food drops the surface temperature, and the food steams instead of searing.
+* **Buying a retired model on price alone.** Check the maker's site first, because spare plates vanish once a line ends.
+* **Grilling with no ventilation.** Open a window and start the extractor fan before the first piece of food goes on.
+
+## Which One Should You Buy?
+
+The Gotham Steel Smokeless Grill did roughly what it claimed, and it is no longer a product you can buy from Gotham Steel. That alone settles it.
+
+Buy the Ninja Sizzle if you want one current machine that grills and griddles. Buy the Hamilton Beach searing grill if the budget is under $100 or the cupboard is short. Buy the Ninja Foodi grill only if you want it to replace an air fryer too.
+
+Whichever you pick, buy for the food you cook most. Lean proteins and vegetables suit any of the three. Bacon and fatty burgers belong outside, and [small grills for balconies and patios](/blog/best-small-grills-for-balconies-and-patios/) is the right next read for that.
 
 ## Related Guides
 

@@ -64,13 +64,7 @@ That's how people end up with a microwave that's plenty powerful but barely move
 
 This guide covers 7 current models, what their CFM and cubic-foot numbers actually mean in your kitchen, and the install rules that decide whether one will even fit. If you're working with [limited cabinet space](/blog/vertical-storage-ideas-for-small-kitchens/), the fan and the footprint matter just as much as the price tag.
 
-## What an Over-the-Range Microwave Actually Replaces
-
-A countertop microwave sits on your counter and does one thing: it heats food. An over-the-range model mounts above your cooktop and takes over a second job too, since it also works as your range hood.
-
-That second job is the whole point of buying one. If you already have a strong range hood and just want a microwave, a [countertop model](/blog/best-small-kitchen-appliances-for-cooking-for-one/) is cheaper and easier to install. If you're combining both into one appliance, the vent fan deserves as much attention as the cooking specs.
-
-Most kitchens with a 30-inch range use an over-the-range microwave for exactly this reason. It frees up counter space, which matters even more if you're working in one of our [small kitchen layouts](/blog/small-kitchen-cabinet-organization-ideas/).
+**The short version:** the [GE JVM6175SKSS](https://www.amazon.com/GE-JVM6175SKSS-Range-Microwave-Stainless/dp/B01LM1V31A/?tag=kitchenpot-20) is the one to buy. It pairs a 400-CFM fan with 1.7 cubic feet and sensor cooking, which is the combination most kitchens actually need. The one rule worth remembering: buy for the fan first. Wattage is easy to find and airflow is not, so check the CFM number before anything else.
 
 ## CFM: the Number That Actually Matters
 
@@ -87,28 +81,6 @@ Ducted wins for actual air quality. A Lawrence Berkeley National Laboratory stud
 Recirculating mode still helps, and it's the only option in some apartments and older homes. Just don't expect it to clear a kitchen the way ducted venting does, and pair it with a charcoal filter you actually replace on schedule. This same ducted-vs-recirculating tradeoff comes up in [eco-friendly kitchen appliance swaps](/blog/eco-friendly-alternatives-to-common-kitchen-appliances/) more broadly, since venting efficiency affects both air quality and energy use.
 
 If your cooktop is induction rather than gas or standard electric, the venting math doesn't change, but your [cookware for induction](/blog/best-cookware-for-induction-cooktop/) does need to be magnetic. That's a separate decision from the microwave above it, but it's worth sorting out at the same time if you're remodeling.
-
-## Cubic Feet: What Capacity Really Means
-
-Cubic feet measures the inside of the microwave, not the outside. It tells you what will physically fit on the turntable.
-
-A 1.5 to 1.6 cubic foot cavity handles a dinner plate and most mugs without a problem. It gets tight with a wide serving bowl or a plate with a raised rim.
-
-A 1.7 to 1.8 cubic foot model gives you enough headroom for a large dinner plate plus most travel mugs. This size fits the way most households actually reheat food.
-
-A 2.0 to 2.1 cubic foot model is the one to pick if you regularly heat a 9-by-13 casserole dish or a big mixing bowl. That extra depth and width is the difference between a dish fitting flat and tilting against the door.
-
-Bigger isn't automatically better here. A larger cavity takes up more of your cabinet space above and can crowd a small kitchen. Match the capacity to what you actually reheat, not the biggest number on the shelf. The same sizing logic applies to [bakeware in a small kitchen](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/): buy for what you actually cook, not the largest option available.
-
-If you're already thinking hard about what fits where, our guide to [organizing kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) covers the same fit-first approach for everything below the counter.
-
-## Sensor Cooking, in Plain Terms
-
-Sensor cooking uses a humidity sensor inside the cavity to detect steam coming off your food. It adjusts the time and power automatically instead of making you guess a cook time.
-
-This matters most for popcorn, potatoes, and reheating leftovers, since those are the foods people most often overcook by guessing. You just pick the food category and press start, similar to how a [rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/) or an [electric egg cooker](/blog/best-hard-boiled-egg-cooker/) automates a task people usually eyeball.
-
-It's not magic, and it won't replace real judgment on delicate items like [reheating pizza](/blog/how-to-reheat-pizza/) or [reheating chicken wings](/blog/how-to-reheat-chicken-wings/), where a lower manual power setting still gives better results.
 
 ## Our Picks at a Glance
 
@@ -331,6 +303,36 @@ Wi-Fi connectivity lets you start, stop, or check on cooking from a phone app, a
 **Who should buy it:** Kitchens with limited cabinet depth, or anyone who wants the strongest vent fan available in this category.
 
 [Check Price on Amazon](https://www.amazon.com/SAMSUNG-Microwave-ME11A7710DS-AA-Fingerprint/dp/B0B9GH2ZMW/?tag=kitchenpot-20)
+
+## What an Over-the-Range Microwave Actually Replaces
+
+A countertop microwave sits on your counter and does one thing: it heats food. An over-the-range model mounts above your cooktop and takes over a second job too, since it also works as your range hood.
+
+That second job is the whole point of buying one. If you already have a strong range hood and just want a microwave, a [countertop model](/blog/best-small-kitchen-appliances-for-cooking-for-one/) is cheaper and easier to install. If you're combining both into one appliance, the vent fan deserves as much attention as the cooking specs.
+
+Most kitchens with a 30-inch range use an over-the-range microwave for exactly this reason. It frees up counter space, which matters even more if you're working in one of our [small kitchen layouts](/blog/small-kitchen-cabinet-organization-ideas/).
+
+## Cubic Feet: What Capacity Really Means
+
+Cubic feet measures the inside of the microwave, not the outside. It tells you what will physically fit on the turntable.
+
+A 1.5 to 1.6 cubic foot cavity handles a dinner plate and most mugs without a problem. It gets tight with a wide serving bowl or a plate with a raised rim.
+
+A 1.7 to 1.8 cubic foot model gives you enough headroom for a large dinner plate plus most travel mugs. This size fits the way most households actually reheat food.
+
+A 2.0 to 2.1 cubic foot model is the one to pick if you regularly heat a 9-by-13 casserole dish or a big mixing bowl. That extra depth and width is the difference between a dish fitting flat and tilting against the door.
+
+Bigger isn't automatically better here. A larger cavity takes up more of your cabinet space above and can crowd a small kitchen. Match the capacity to what you actually reheat, not the biggest number on the shelf. The same sizing logic applies to [bakeware in a small kitchen](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/): buy for what you actually cook, not the largest option available.
+
+If you're already thinking hard about what fits where, our guide to [organizing kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) covers the same fit-first approach for everything below the counter.
+
+## Sensor Cooking, in Plain Terms
+
+Sensor cooking uses a humidity sensor inside the cavity to detect steam coming off your food. It adjusts the time and power automatically instead of making you guess a cook time.
+
+This matters most for popcorn, potatoes, and reheating leftovers, since those are the foods people most often overcook by guessing. You just pick the food category and press start, similar to how a [rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/) or an [electric egg cooker](/blog/best-hard-boiled-egg-cooker/) automates a task people usually eyeball.
+
+It's not magic, and it won't replace real judgment on delicate items like [reheating pizza](/blog/how-to-reheat-pizza/) or [reheating chicken wings](/blog/how-to-reheat-chicken-wings/), where a lower manual power setting still gives better results.
 
 ## The 30-Inch Rule: Why Mounting Height Matters
 
