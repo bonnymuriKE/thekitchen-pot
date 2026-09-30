@@ -1,152 +1,263 @@
 ---
-excerpt: Out of coconut milk? Get the best substitutes that bring creamy texture
-  and bold flavor to your recipes—smooth, flavorful, and perfect for
-  allergy-friendly cooking.
+excerpt: "Out of coconut milk? The best swap depends on the dish. Ratios for curry, soup, baking, smoothies and desserts, with dairy, coconut-based and nut-free options."
 showTableOfContents: true
 authorId: kitchenpot1
-title: 12 Best Coconut Milk Substitute for Unique Recipes
+title: "Best Coconut Milk Substitutes (Ratios for Curry, Baking and Smoothies)"
 source: wordpress
 slug: best-coconut-milk-substitute
 pubDate: 2021-01-30
-modDate: 2025-01-29
+modDate: 2026-09-30
 image: ""
 category: How To Guides
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: 12 Best Coconut Milk Substitute for Unique Recipes
+coverAlt: "A can of coconut milk beside a carton of heavy cream, a jar of cashews, a bowl of shredded coconut and a carton of oat milk"
 tags:
-  - best-blenders-for-protein-shakes
-  - blenders-for-smoothies
-  - how-to-use-an-immersion-blender
+  - coconut-milk-substitute
+  - dairy-free-cooking
+  - ingredient-substitutions
+  - curry
+  - coconut-cream
 authorImageAlt: kitchenpot1
-description: "Out of coconut milk? Get the best substitutes that bring creamy texture and bold flavor to your recipes—smooth, flavorful, and perfect for allergy-friendly cooking."
-seo: Are you looking for the best coconut milk substitute to try out your
-  favorite recipe? You will get a myriad options, which can be confusing. This
-  article offers well-researched list that you can rely on.
+description: "The best coconut milk substitutes for curry, soup, baking and smoothies, with ratios for heavy cream, cashew cream, coconut cream and nut-free plant milks."
+seo: "The best coconut milk substitutes for curry, soup, baking, rice, smoothies and desserts, with ratios for heavy cream, evaporated milk, cashew cream, coconut cream and plant milks."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "What is the best substitute for coconut milk in curry?"
+    answer: "If you can have dairy, heavy cream is the easiest swap, one for one. It gives the same rich body, though you lose the coconut flavor. For a dairy-free curry, blended cashew cream is the closest match in texture. If you have coconut cream or unsweetened shredded coconut, use those first, because they keep the coconut taste."
+  - question: "Can I use regular milk instead of coconut milk?"
+    answer: "Yes, but expect a thinner result. Whole milk has much less fat than canned coconut milk. It works in baking, oatmeal and smoothies. In a curry or soup, simmer it gently, since milk can split at a hard boil, and add a teaspoon of cornstarch slurry if the sauce needs more body."
+  - question: "Is carton coconut milk the same as canned coconut milk?"
+    answer: "No. Carton coconut milk is a drink. It is mostly water and is made to pour over cereal or into coffee. Canned coconut milk is much thicker and richer, and it is made for cooking. Use carton coconut milk only where a thin milk works, such as smoothies and cereal. Check the fat per serving on both labels to see the gap."
+  - question: "How do I turn coconut cream into coconut milk?"
+    answer: "Thin it with water. Start with equal parts coconut cream and warm water, stir until smooth, and add more water until it pours like canned coconut milk. Brands differ in how thick their cream is, so adjust by eye rather than by a fixed ratio."
+  - question: "What can I use instead of coconut milk if I have a tree nut allergy?"
+    answer: "Skip cashew and almond options. Oat milk, soy milk, silken tofu blended with water, and heavy cream if dairy is fine, are the usual nut-free swaps. Some people who react to tree nuts also react to coconut, so check with your doctor or allergist if you are unsure."
 ---
-You’ve found a unique recipe that you want to try out, and coconut milk is one of the main ingredients you require. You’ve run out of it or you are allergic to coconut. 
+Coconut milk does two jobs in most recipes. It adds rich, creamy body, and it adds a mild coconut flavor. A good substitute replaces the body first. The flavor is often easier to live without.
 
-So, what do you use instead of coconut milk?
+So pick your swap by the dish in the pan. A smoothie forgives almost anything. A Thai curry needs something with real fat, or the sauce comes out thin.
 
-This article suggests a coconut milk substitute that will enable you to try your best recipes even when you’ve run out of the ingredient. 
+**The short version:** For curries, soups and sauces, use heavy cream one for one if dairy is fine, or blended cashew cream if it is not. If you have coconut cream, shredded coconut or coconut milk powder in the pantry, use those first, because they keep the coconut flavor. For smoothies, baking and oatmeal, any unsweetened milk works one for one.
 
-## What is Coconut Milk, and How Is It Used?
+| Substitute | To replace 1 cup canned coconut milk | Best for |
+| --- | --- | --- |
+| Coconut cream | About 1/2 cup cream + 1/2 cup warm water, adjusted to pour | Everything; keeps the coconut flavor |
+| Coconut milk powder | Mix with water as the package directs | Curries, soups, rice, baking |
+| Unsweetened shredded coconut | 1 cup coconut + 1 to 2 cups hot water, blended and strained | Curries, rice, desserts |
+| Heavy cream | 1 cup | Curries, soups, sauces, desserts |
+| Evaporated milk | 1 cup | Curries, soups, baking, desserts |
+| Half-and-half | 1 cup | Soups, lighter sauces, coffee |
+| Cashew cream | 1 cup (soaked cashews blended with water) | Dairy-free curries, soups, desserts |
+| Plain Greek yogurt | 3/4 cup yogurt + 1/4 cup water, stirred in off the heat | Marinades, mild curries, dips |
+| Silken tofu | 1/2 cup tofu + 1/2 cup water or plant milk, blended | Dairy-free and nut-free sauces, smoothies |
+| Oat or soy milk | 1 cup, thickened if needed | Baking, smoothies, oatmeal, lighter soups |
+| Carton coconut milk drink | 1 cup | Smoothies, cereal, coffee |
 
-Coconut milk is a milky-white liquid obtained from the grated pulp of coconut. The puree is rich in taste, oil content, and fat. 
+These are starting ratios. Brands differ in thickness, so adjust with a splash of water or a little more of the substitute until the texture looks right.
 
-Due to its unique taste and nutritional benefits, coconut milk is used in many recipes. It is handy when making smoothies, baked goods, tofu, meat, among many other meals. 
+## What Coconut Milk Brings to a Recipe
 
-## How is Coconut Milk Made?
+Canned coconut milk is made by blending grated coconut flesh with water and pressing out the liquid. The result is thick, white and high in fat. Some cans separate into a firm layer of cream on top and thinner liquid below. That is normal. Shake or stir the can before you measure.
 
-Coconut milk is extracted from mature coconuts. To get the puree, you will be required to grate the coconut’s white flesh or slice it into small pieces using your **[mandoline slicers](https://thekitchenpot.com/blog/best-mandoline-slicers/)**.
+Each part of it does a job in the pan:
 
-When you’re through with the grating process, you’ll **[press the grated meat to extract the coconut cream](https://thekitchenpot.com/blog/how-to-use-a-mandoline/)**. This cream is then soaked in hot water and passed through a sieve/ a cheesecloth to achieve the coconut milk. 
+- **Fat** gives curries and soups their rich, coating body. It also carries the flavor of spices, which is why a Thai curry paste tastes fuller in coconut milk than in water.
+- **Water** thins the sauce and helps cook rice and grains.
+- **Coconut flavor** adds a light, nutty sweetness.
+- **Natural sugars** are low but present, so coconut milk browns a little when reduced.
 
-If you want high-quality coconut milk, you should ensure that it contains both coconut cream and milk. The cream will appear as a fatty layer sitting on top of the milky substance. 
+A good substitute gets close on fat first. That is why heavy cream and cashew cream work well in curry, and why thin plant milks need help.
 
-## 12 Best Coconut Milk Substitutes
+Canned coconut milk also comes in "light" versions. Light coconut milk is thinner. If your recipe calls for light, a thinner swap like half-and-half or evaporated milk is a closer match.
 
-1. **Evaporated Milk**
+## Coconut Swaps When You Just Ran Out of the Can
 
-If you’ve been wondering whether you can use evaporated milk as a substitute for coconut milk, then worry no more!
+If you still want the coconut flavor, look in the pantry first. These three options keep the taste of the dish unchanged.
 
-Evaporated milk is an excellent alternative for coconut milk, especially when you’re making soups and creamy dishes. To achieve the best, you should strive to use a ratio of 1:1 in your meals.
+### Coconut Cream
 
-### **How to Make Evaporated Milk**
+Coconut cream is the thick layer that rises to the top of coconut milk, sold on its own in cans or cartons. It is richer than coconut milk, so thin it.
 
-Making evaporated milk is a straightforward process. It involves heating cow’s milk for a few minutes to remove more than 50% of its water content. The water removal makes it thick.
+Start with equal parts cream and warm water. Stir until smooth. Add more water until it pours like coconut milk. Brands vary a lot in thickness, so go by eye.
 
-Heat approximately 2 ½ cups of regular cow milk until it gently boils. Ensure that you only remain with one cup of boiled milk. This process will have removed the water content in the milk to yield high-quality evaporated milk.
+Do not confuse coconut cream with "cream of coconut." Cream of coconut is heavily sweetened and made for cocktails and desserts. It will turn a curry sweet.
 
-2. **Greek Yogurt**
+### Coconut Milk Powder
 
-Yogurt is a healthy substitute for coconut milk. It is thick and has unmatched probiotic properties, which enhances the health of your gut.
+Coconut milk powder is dried coconut milk. It keeps for months in the pantry and takes up far less room than a stack of cans. That makes it a good backup in a small kitchen. Our guide on [how to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) has ideas for fitting dry goods like this into tight spaces.
 
-However, you should avoid this option if you are to boil the mixture. In excessive heat, yogurt may lump and splatter, thus creating a mess.
+Mix it with warm water as the package directs. Ratios differ by brand. You can also stir the powder straight into a simmering curry to thicken it.
 
-If you want to replace one cup of coconut milk, you should mix one cup of **[Greek yogurt](https://www.amazon.com/EasiYo-Yogurt-Mix-Greek-Style/dp/B01LYK8I89/?tag=kitchenpot-20)** with one tablespoon of water. This option is particularly significant when making smoothies. 
+### Unsweetened Shredded Coconut
 
-**3. Canned Tomatoes**
+You can make coconut milk from dried, unsweetened shredded coconut. It takes about ten minutes.
 
-If you want to use coconut milk to make your curry or soup, you shouldn’t have a problem when you substitute it with canned potatoes. 
+1. Put 1 cup of unsweetened shredded coconut in a blender.
+2. Add 1 cup of hot water for thick milk, or 2 cups for thinner milk.
+3. Let it sit for a few minutes to soften.
+4. Blend on high for 1 to 2 minutes.
+5. Strain through a fine sieve or a nut milk bag. Squeeze hard to get all the liquid.
 
-You can also mix it with cream to get the best results. For example, use one cup of passata with ¼ of cream. The mixing thickens the paste, giving a tasty curry.
+The result is thinner than a good canned brand, but the flavor is fresh. Use sweetened coconut only for desserts.
 
-**4. Soy Milk**
+A strong blender makes this faster and gets more milk out. Our picks for the [best blenders for smoothies](/blog/best-blenders-for-smoothies/) all handle it. An [immersion blender](/blog/8-best-immersion-blenders/) works too, in a tall jar. See our guide on [how to use an immersion blender](/blog/how-to-use-an-immersion-blender/) for the technique.
 
-Soy is one of the most effective plant-based coconut milk substitutes. It has a lower fat content, and you can use it just like you’d have used your coconut milk – including the quantities. 
+If you have a whole coconut, fresh grated flesh makes even better milk. Our guide on [how to crack open a coconut](/blog/how-to-crack-open-a-coconut/) shows the safest way in.
 
-Additionally, soy sauce is an excellent protein source that makes it one of the most outstanding options. One cup will provide more than 7 g of protein instead of 0.5 g that an equal amount of coconut oil would provide. 
+## Dairy Swaps for Coconut Milk
 
-**5. Heavy Cream**
+If dairy is fine, these are the easiest swaps. You lose the coconut flavor, but the texture holds up.
 
-Heavy cream is your best choice if you want thick soups and curries. It enriches your soup with a unique taste that will leave you yearning for more.
+### Heavy Cream
 
-To achieve the best results, you should use two parts of the heavy cream with 1 part of water. It is ideal for sauces, icecreams, and creamy sauces. 
+Heavy cream is the closest dairy match for body. Use it one for one in curries, soups and cream sauces. It is richer than most canned coconut milk, so you can thin it with a splash of water if you like.
 
-**6. Almond Milk**
+To bring back a hint of coconut, add a few drops of coconut extract or a spoonful of toasted shredded coconut.
 
-**[Almond milk](https://www.amazon.com/Silk-Unsweetened-Flavored-Non-Dairy-Dairy-free/dp/B00PGXQ68Q/?tag=kitchenpot-20)** is low in calories, making it the best coconut milk alternative, especially if you are dieting. 
+### Evaporated Milk
 
-Its unsweetened version has a relatively neutral flavor, making it an excellent option when making smoothies, eating cereals, or baking. 
+Evaporated milk is milk with much of its water cooked off. It is thick, shelf stable and hard to curdle. That makes it a good swap in curries and soups that simmer for a while.
 
-Since almond milk is lower in fat content than coconut milk, you’re unlikely the creaminess that characterizes the latter. If you want to thicken it, you can add 15 ml of lemon juice to each almond milk cup. 
+Use it one for one. It has a light cooked-milk taste that suits baking and creamy soups. For more uses, see our guide to the [best substitutes for whole milk](/blog/best-substitutes-for-whole-milk/), which covers evaporated milk in detail.
 
-If you like creamy dishes, it would be best to avoid using almond milk as a substitute for coconut milk. 
+### Half-and-Half
 
-**7. Sour Cream** 
+Half-and-half is thinner than coconut milk. It works in lighter soups, coffee and recipes that call for light coconut milk. In a curry, simmer it gently and do not boil hard, or it may split.
 
-This dairy product is best when you want thick curries. It has a distinctive taste that almost equals that of Greek yogurt. 
+### Greek Yogurt
 
-It is rich in probiotics, which guarantees a healthy gut. However, the sour cream is relatively sweeter, and you should use it sparingly if you don’t like sweetened curries and smoothies.
+Plain Greek yogurt adds tang and body. It works well in marinades, mild curries like korma, and dips. It does not suit sweet desserts or Thai curries, where the sour note clashes.
 
-**8. Cashew Milk**
+Thin 3/4 cup of yogurt with 1/4 cup of water. Stir it in at the end, off the heat. Yogurt curdles if it boils.
 
-This is a milky substance obtained from cashew nuts. It works best in soup, sauces, and smoothies. It is low in calories and proteins but relatively high in fat.
+## Dairy-Free and Plant-Based Swaps
 
-You swap it with coconut oil in a ratio of 1:1 to achieve the best results. You’ll be guaranteed of smoother and creamier texture in your smoothies and sauces. 
+These keep a dish dairy-free. Some need a little help to match the richness of canned coconut milk.
 
-**9. Coconut Cream**
+### Cashew Cream
 
-The main difference between coconut milk and coconut cream is the thickness. The cream is more than four times thicker and has a richer taste. Additionally, coconut cream has a higher fat and calorie content than coconut milk. 
+Cashew cream is the best dairy-free match for texture. Cashews are soft and fatty, so they blend into a smooth, thick cream.
 
-You can dilute it with water or use it without dilution. Whichever option you choose, you will get creamy smoothies and curries!
+Soak 1 cup of raw cashews in hot water for 30 minutes, or in cold water for a few hours. Drain. Blend with about 1 cup of fresh water until completely smooth. Add more water to thin it.
 
-**10. Oat Milk**
+It has a mild, nutty taste that suits curries, soups and pasta sauces. It is not safe for anyone with a tree nut allergy.
 
-This is your ideal option if you want to make coffees and latte. It has an excellent foaming ability and only contains moderate fat. The beta-glucan fiber is responsible for foaming, and you can be sure that it will provide better peristalsis and overall gut health. 
+### Silken Tofu
 
-Even better, **[oat milk](https://www.amazon.com/Califia-Farms-Unsweetened-Oatmilk-Gluten-Free/dp/B07PBFNYXV/?tag=kitchenpot-20)** is ideal when you’re cooking high-heat meals since it does not curdle. It is sweet and has more carb than coconut oil. Always substitute the coconut milk in the ratio of 1:1.
+Silken tofu blends into a smooth, pale cream with a neutral taste. It is nut-free, so it works where cashews cannot.
 
-**11. Silken Tofu**
+Blend 1/2 cup of silken tofu with 1/2 cup of water or plant milk. Use it in creamy soups, sauces and smoothies. It is a good choice for a nut-free, dairy-free household.
 
-Tofu is made by hard-pressing condensed soy milk to form blocks. It is ideal for making desserts and smoothies.
+### Oat Milk and Soy Milk
 
-Tofu is high in proteins, and you can use it to replace coconut oil in the ratio of 1:1. If you use your **[best blender for smoothies](https://thekitchenpot.com/blog/best-blenders-for-smoothies/)**, you should get consistent and smooth soup and curry. 
+Oat and soy milk are the most useful plant milks for cooking. Oat milk is naturally creamy. Soy milk has more protein, so it holds up better in sauces and baking.
 
-**12. Hemp Milk**
+Both are thinner than canned coconut milk. For a curry or soup, thicken them. Stir 1 tablespoon of cornstarch into a little cold milk, then whisk it into the simmering pot. Our guide on [what to use instead of cornstarch](/blog/what-to-use-instead-of-cornstarch/) covers other thickeners if you are out.
 
-This is sweet plant milk derived from the seeds of the hemp plant (Cannabis Sativa). However, it does not contain THC, which is the addictive component of marijuana. 
+Adding a spoonful of neutral oil or vegan butter also helps. It brings back some of the fat that coconut milk would have added.
 
-It is rich in protein and fat and is ideal for baking. Additionally, it can act as a leavening agent if paired with certain fruit acids, such as lemon juice.
+### Almond and Rice Milk
 
-## Coconut Milk Substitute – The Bottom Line 
+Almond and rice milk are thin and low in fat. They work in smoothies, cereal and some baking. They are poor choices for curry, because the sauce stays watery even when thickened.
 
-Coconut milk is a common ingredient when making soups, curries, and smoothies. It is also used when baking.
+### Carton Coconut Milk
 
-However, it is possible that you do not have coconut milk in your house or you are allergic to it. In such a case, you should never hesitate to use a coconut milk substitute since they offer similar or better taste in your smoothies.
+The coconut milk sold in cartons next to the almond milk is a drink, not a cooking ingredient. It is mostly water. It works one for one in smoothies, cereal and coffee. In a curry it gives flavor but little body.
 
-If you’re wondering which coconut milk substitute to choose, then this article will guide you through. It enumerates 12 of the best coconut milk substitutes to consider. 
+## Which Substitute for Which Dish
 
-## Coconut Milk Substitute – Frequently Asked Questions
+The right choice depends on the recipe. Here is a quick guide by dish.
 
-1. ### What can I use instead of coconut milk when preparing Thai curry?
+### Thai and Indian Curries
 
-   You can use many coconut milk substitutes, including hemp milk, Greek yogurt, cashew cream, almond milk, and oat milk. If you want to cook the curry under high temperature, we advise that you use the oat milk since it does not curdle when heated. 
-2. ### What is the difference between evaporated milk and coconut milk?
+Use coconut cream, coconut milk powder or homemade coconut milk first. Next best is heavy cream or cashew cream. Evaporated milk also works well.
 
-   Evaporated milk is high protein and top-notch creamy milk that produces thicker curries and smoothies than coconut milk. It is prepared by heating milk to remove up to 60% of its water content, resulting in creamy and sweeter milk.
-3. ### Can you substitute regular milk for coconut?
+Add the swap after you fry the curry paste, then simmer gently. Dairy splits more easily than coconut milk, so keep the heat low. If the sauce is too thin, simmer it longer with the lid off.
 
-   Yes, you can use coconut milk substitute to make any meal of your choice—the substitute range from hemp milk to silken tofu.
+A wide pan helps the sauce reduce faster. Our guide to the [best wok for an electric stove](/blog/best-wok-for-electric-stove/) covers pans that suit stir-fries and curries.
+
+### Soups
+
+Creamy soups like pumpkin or sweet potato take almost any swap. Heavy cream, evaporated milk, cashew cream and oat milk all work. Stir the swap in near the end and heat through without boiling.
+
+Blend the soup smooth first. An immersion blender does it right in the pot. If you make big batches, a [stockpot with a lid](/blog/best-stockpot-with-a-lid/) gives you room to blend without splashing.
+
+### Rice
+
+Coconut rice uses coconut milk in place of some of the water. The easiest swap is homemade coconut milk from shredded coconut, or coconut milk powder mixed with water. Heavy cream makes the rice too rich. Plain water with a spoonful of toasted coconut stirred in at the end also works.
+
+If you cook rice often, see our guide on [how to cook rice in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/). Rich liquids can foam, so fill the cooker a little less than usual.
+
+### Baking
+
+In cakes, muffins and quick breads, coconut milk mainly adds moisture and fat. Whole milk, oat milk and soy milk work one for one. For a richer crumb, use evaporated milk or half-and-half.
+
+Vegan baking works best with soy milk, because its protein helps the crumb hold together. A [hand mixer](/blog/best-hand-mixers/) is all you need to mix most batters, and our guide to the [best bakeware sets](/blog/best-bakeware-sets/) covers the pans.
+
+### Smoothies and Drinks
+
+This is the easiest place to substitute. Any milk works, including carton coconut milk, almond, oat and dairy. For a thicker smoothie, add a spoonful of Greek yogurt or some silken tofu.
+
+Our guide to the [best blender for protein shakes](/blog/best-blender-for-protein-shakes/) covers compact models that suit one or two servings. If you want creamy coffee, see our guide on [how to make bulletproof coffee without a blender](/blog/how-to-make-bulletproof-coffee-without-blender/).
+
+### Desserts
+
+Puddings, panna cotta and ice cream rely on fat to set and feel smooth. Use heavy cream, coconut cream or cashew cream. Thin plant milks make icy or watery desserts.
+
+For custards that cook on the stove, a [double boiler](/blog/how-to-use-a-double-boiler/) keeps the heat gentle so the mixture does not scorch.
+
+## Swaps That Tend to Disappoint
+
+A few common swaps rarely work as well as people hope.
+
+- **Cream of coconut.** It is a sweetened syrup for cocktails. It turns savory food sweet.
+- **Carton coconut milk in curry.** It has flavor but almost no body.
+- **Almond milk in a sauce.** It stays thin and can taste flat.
+- **Yogurt in a boiling curry.** It splits into grainy curds.
+- **Skim milk.** It has almost no fat, so the dish tastes thin.
+
+If a sauce ends up too thin, simmer it uncovered to reduce it. A cornstarch slurry also rescues most sauces.
+
+## How to Store Leftover Coconut Milk
+
+Most recipes use part of a can. Do not store the rest in the open can. Tip it into a clean jar or container, cover it, and refrigerate it.
+
+Use it within a few days, and check the label for the maker's advice. If it smells sour or looks moldy, throw it out.
+
+Coconut milk also freezes well. Freeze it in an ice cube tray, then move the cubes to a freezer bag. Each cube is about 2 tablespoons, handy for curries and smoothies. The texture may turn grainy after thawing. Whisk or blend it smooth.
+
+Our guide to the [best airtight food storage containers](/blog/best-airtight-food-storage-containers/) covers containers that seal well in the fridge and freezer. Freezing works for other dairy too. See [whether you can freeze cream cheese](/blog/can-you-freeze-cream-cheese/) for how thawing changes texture.
+
+## Keep One Backup in the Pantry
+
+The easiest fix is to never run out. Pick one shelf-stable backup and keep it in the cupboard.
+
+Coconut milk powder takes the least room and lasts the longest. A can of evaporated milk is a good all-round backup that also covers dairy swaps. A bag of unsweetened shredded coconut works for baking and for homemade milk.
+
+If you cook for one, a smaller backup makes more sense. Our guide on [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) covers pantry staples that do not go to waste. For weekly planning, see our [easy meal prep ideas for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/).
+
+Curries and soups also cook well in a pressure cooker. Our guide to [what an Instant Pot is](/blog/what-is-an-instant-pot/) explains how it handles creamy sauces. Add dairy swaps after pressure cooking, not before, so they do not split.
+
+## Which Coconut Milk Substitute Should You Use?
+
+Use **coconut cream, coconut milk powder or shredded coconut** if you want to keep the coconut flavor.
+
+Use **heavy cream or evaporated milk** for curries and soups when dairy is fine.
+
+Use **cashew cream** for the richest dairy-free result.
+
+Use **silken tofu, oat milk or soy milk** for a nut-free, dairy-free swap.
+
+Use **any milk** in smoothies, baking and oatmeal.
+
+## Related Guides
+
+- [Best Substitutes for Whole Milk](/blog/best-substitutes-for-whole-milk/)
+- [How to Crack Open a Coconut](/blog/how-to-crack-open-a-coconut/)
+- [What Is the Difference Between a Food Processor and a Blender](/blog/what-is-the-difference-between-a-food-processor-and-a-blender/)
+- [Best Rice Cooker for Brown Rice](/blog/best-rice-cooker-for-brown-rice/)
+- [Lo Mein vs Chow Mein](/blog/lo-mein-vs-chow-mein/)
+- [How Much Juice Is in One Lemon](/blog/how-much-juice-is-in-one-lemon/)
+- [How Many Ounces in a Quart](/blog/how-many-ounces-in-a-quart/)
+- [Small Kitchen Gadgets Worth Buying When You Cook for One](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/)

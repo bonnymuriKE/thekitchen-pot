@@ -1,267 +1,335 @@
 ---
-excerpt: Perfect your bread baking with the best proofing baskets! Durable,
-  affordable, and designed to give your dough the ideal rise and texture every
-  time.
+excerpt: "The best bread proofing baskets for home bakers. Four in-stock Frieling brotforms compared by shape and size, plus how bannetons work, liners, care and a King Arthur option."
 showTableOfContents: true
 authorId: kitchenpot1
-title: 5 Best Bread Proofing Basket Reviews
+title: "Best Bread Proofing Baskets (4 Brotforms Compared by Shape and Size)"
 source: wordpress
 slug: best-bread-proofing-basket-reviews
 pubDate: 2020-09-13
-modDate: 2025-02-02
+modDate: 2026-09-30
 image: ""
 category: Bakeware
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: 5 Best Bread Proofing Basket Reviews
+coverAlt: "A round cane bread proofing basket dusted with flour next to a shaped loaf of sourdough"
 tags:
-  - best-bakeware-sets
-  - best-blender
-  - best-hand-mixers
+  - bread-proofing-basket
+  - banneton
+  - brotform
+  - sourdough-tools
+  - bread-baking
 authorImageAlt: kitchenpot1
-description: "Perfect your bread baking with the best proofing baskets! Durable, affordable, and designed to give your dough the ideal rise and texture every time."
-seo: Are you a baker? If yes, then you need the best bread proofing basket! This
-  guide offers tips on what you should consider when shopping. Read on
+description: "The best bread proofing baskets for sourdough and yeast bread: four in-stock Frieling brotforms by shape and size, plus liners, care and a King Arthur set."
+seo: "Compare the best bread proofing baskets by shape and size, with in-stock Frieling brotforms, liner advice, dough capacity tips and how to clean a banneton."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "What size proofing basket do I need?"
+    answer: "Match the basket to your dough weight. As a rough guide, an 8.5-inch round suits about 1 to 1.5 pounds of dough, and a 10-inch round suits about 1.5 to 2 pounds. Most home sourdough recipes that use 500 grams of flour make a loaf that fits a 10-inch round or a 10x7-inch oval. If the dough rises well above the rim, the basket is too small."
+  - question: "Do I need a liner for my banneton?"
+    answer: "No. A bare cane basket gives the loaf its floury spiral or ribbed pattern. A cloth liner gives a smooth top and helps with wet, sticky dough. Many bakers start with the liner and switch to the bare basket once they learn how much flour their dough needs. Frieling sells its liners separately, while many Amazon listings bundle one in."
+  - question: "How do you stop dough sticking to a proofing basket?"
+    answer: "Dust the basket with rice flour, or a mix of rice flour and wheat flour. Rice flour has no gluten, so it does not turn gummy when it touches wet dough. Dust more heavily for the first few bakes, until the cane builds up a light coating. A cloth liner also helps with very wet dough."
+  - question: "How do you clean a bread proofing basket?"
+    answer: "Let the basket dry completely, then knock out the loose flour and brush the rest away with a dry, stiff brush. Frieling says its brotforms clean up by dusting off the flour. Avoid soaking a cane basket, because trapped moisture can lead to mold. If you must rinse it, dry it fast in a warm, low oven or in the sun."
+  - question: "Can I use a bowl instead of a proofing basket?"
+    answer: "Yes. A mixing bowl or colander lined with a well-floured kitchen towel works for most loaves. The towel holds the shape and releases the dough when you tip it out. You lose the ribbed pattern, and cloth wicks less moisture than cane, so the crust can be a little softer."
 ---
-Being a baker can be quite an interesting career and hobby. As a professional baker, I can confidently say that baking bread is a fascinating task.
+A proofing basket holds shaped dough during its final rise. It keeps a soft, wet loaf from spreading flat before it reaches the oven.
 
-From the weighing of the ingredients to kneading so you can form the gluten network to form the good structure of the dough, everything is just captivating. 
+Most proofing baskets look the same, and many brands on Amazon come and go. So this guide sticks to baskets you can confirm on the maker's own store, sized for the loaves home bakers actually make.
 
-However, no matter how strictly you follow the instructions in bread making and even ensure you knead your dough carefully, you still can’t achieve a loaf of bread with good volume without proofing.
+**The short version:** The [Frieling Brotform Round 10-Inch With Liner](https://www.amazon.com/Frieling-Brotform-Round-Bread-Rising-Basket-Liner-10-Inch/dp/B07SQ9TCMM/?tag=kitchenpot-20) is the best proofing basket for most home bakers. It fits a standard 500-gram-flour sourdough loaf, it is hand woven from natural cane, and Frieling lists it in stock. Pick the shape to match the pan you bake in. A round basket suits a round Dutch oven, and an oval basket suits an oval one.
 
-And yes! This is where you require the best bread proofing basket. And maybe you’re wondering what is bread proofing? It is simply rising of the bread dough through a process called fermentation where the yeast can react with the sugars and salts to rise your dough.
+## Our Picks at a Glance
 
-With all this information, even if you’re an amateur in baking you now have a clue what the best bread proofing basket is.
+- **Best overall:** [Frieling Brotform Round 10-Inch With Liner](https://www.amazon.com/Frieling-Brotform-Round-Bread-Rising-Basket-Liner-10-Inch/dp/B07SQ9TCMM/?tag=kitchenpot-20)
+- **Best oval for bâtards:** [Frieling Brotform Oval 10x7-Inch](https://www.amazon.com/Frieling-Brotform-Oval-Bread-Rising-Basket/dp/B00004R92U/?tag=kitchenpot-20)
+- **Best for long loaves:** [Frieling Brotform Rectangular 12x5.5-Inch With Liner](https://www.amazon.com/Frieling-Brotform-Rectangular-Bread-Rising-Basket-Liner/dp/B07SVGM5BX/?tag=kitchenpot-20)
+- **Best for small loaves:** [Frieling Brotform Round 8.5-Inch With Liner](https://www.amazon.com/Frieling-Brotform-Liner-Round-8-5/dp/B07STCHFVQ/?tag=kitchenpot-20)
 
-Well, your best bread proofing basket will give the dough a good shape and texture that will enhance its overall appearance.
+Every basket above was listed as "In Stock" on Frieling's own store when we checked. Frieling sells the basket and the liner separately. The Amazon listings for the round and rectangular baskets bundle a liner in, so compare what is in the box before you compare prices.
 
-Before buying a bread proofing basket you need to consider so many factors, like the shape and size of the basket and the material that best fits your requirements.
+| Basket | Shape | Size | Material | Liner on Amazon Listing | Frieling's Price (Basket Only) |
+| --- | --- | --- | --- | --- | --- |
+| Frieling Round 10-Inch | Round | 10 in | Hand-woven natural cane | Included | $24.95 |
+| Frieling Oval | Oval | 10x7 in | Hand-woven natural cane | Not included | $24.95 |
+| Frieling Rectangular | Rectangle | 12x5.5 in | Hand-woven natural cane | Included | $26.95 |
+| Frieling Round 8.5-Inch | Round | 8.5 in | Hand-woven natural cane | Included | $22.95 |
 
-This article will carefully guide you on the best bread proofing basket to choose from when buying one.
+## 1. [Frieling Brotform Round 10-Inch With Liner](https://www.amazon.com/Frieling-Brotform-Round-Bread-Rising-Basket-Liner-10-Inch/dp/B07SQ9TCMM/?tag=kitchenpot-20): Best Overall
 
-## **What is Bread Proofing?**
+- **Size:** 10 inches across
+- **Material:** Natural cane, hand woven
+- **Made in:** China (listed by Frieling as P.R.C.)
+- **Liner:** Bundled on the Amazon listing; $15.95 separately from Frieling
+- **Maker's price:** $24.95 for the basket, "In Stock"
 
-Proofing of bread refers to a process where yeast converts sugar to carbon dioxide and alcohol in the absence of oxygen, causing the dough to rise.
+The 10-inch round is the size most sourdough recipes are written around. A loaf made with 500 grams of flour usually fits it with room to rise. That makes it the safest first basket.
 
-## **Best Bread Proofing Baskets – Types of Banneton Baskets**
+Frieling describes the basket as hand woven from natural cane using traditional methods. Cane is the classic banneton material. It holds a coat of flour in its ribs, and it draws a little moisture off the surface of the dough. The result is a drier skin that is easier to score and a pattern of flour rings on the crust.
 
-There are various types of bannetons. I prefer cane baskets but there are other options to choose from.
+The round shape also matches the pot most home bakers use. A round loaf drops neatly into a round Dutch oven. Our [Milo Dutch oven review](/blog/milo-dutch-oven-review/) covers the kind of heavy pot that suits bread.
 
-* **Wood pulp bannetons**– these types of bannetons are mostly made in Germany from 100% local spruce trees and you will rarely stick to the basket
-* **Cane wicker bannetons**– wicker makes a suitable container as it allows the air to circulate the dough helping it to rise well. Cane baskets are durable and they also give your bread a beautiful pattern.
-* **Lined bannetons**– linen-lined proofing baskets are also a great selection when choosing a proofing basket.
-* **Plastic bannetons**– plastic bannetons are not the best as they are not durable and they also don’t give a beautiful shape.
+Frieling's own care note is simple: dust off the flour after use. You do not wash it after every bake.
 
-## **6 Best Bread Proofing Baskets**
+The Amazon listing bundles a cotton liner. Use it for your first few loaves, while you learn how much flour your dough needs. Then try the bare basket to get the spiral pattern.
 
-### **1. [9 Inch Proofing Basket – Excellent WERTIOO Bread Proofing Basket](https://www.amazon.com/Banneton-Proofing-Basket-WERTIOO-Professional/dp/B07FKC9T3Y/?tag=kitchenpot-20)** 
+**What we like:**
 
-[Check Price on Amazon](https://www.amazon.com/Banneton-Proofing-Basket-WERTIOO-Professional/dp/B07FKC9T3Y/?tag=kitchenpot-20)
+- The standard size for most home sourdough recipes
+- Hand-woven natural cane gives a classic floured spiral
+- Fits neatly with a round Dutch oven
+- Frieling sells replacement liners if one wears out
 
-If your best bread proofing basket should help you in proofing different types of loaves with different mixtures and textures, then the Wertioo 9-inch rattan proofing basket is your best fit. 
+**What to know before you buy:**
 
-The Wertioo bread proofing basket features tools that even a beginner will be able to handle. The accessories include a scraper, bread lame, and linen cloth.
+- New cane needs heavy flouring for the first few bakes
+- Too big for small, half-batch loaves
 
-Although the liner cloth and scraper are common in most proofing baskets, a bread lame also comes in handy during your proofing.
+**Who should buy it:** Anyone buying their first proofing basket, and anyone who bakes round loaves in a round pot.
 
-The bread proofing basket comes with green plastic lame, which consists of a sharp razor on the front. The double-sided blade is perfect for docking of the dough pieces just before your baking. By docking the dough pieces, you make them more appealing.
+[Check Price on Amazon](https://www.amazon.com/Frieling-Brotform-Round-Bread-Rising-Basket-Liner-10-Inch/dp/B07SQ9TCMM/?tag=kitchenpot-20)
 
-The bread proofing basket is also well built with pure rattan. Although particles of wood are common with cheap banneton baskets, you will rarely see any particles on the inside of the bread dough.
+## 2. [Frieling Brotform Oval 10x7-Inch](https://www.amazon.com/Frieling-Brotform-Oval-Bread-Rising-Basket/dp/B00004R92U/?tag=kitchenpot-20): Best Oval for Bâtards
 
-The construction material is also durable and the wood has a smooth surface that will not allow your dough to stick. The material is also free from chemicals and dye so you don’t have to worry about your dough collecting the odors from the dye.
+- **Size:** 10x7 inches
+- **Material:** Natural cane, hand woven
+- **Made in:** China (listed by Frieling as P.R.C.)
+- **Liner:** Not included on this listing; the oval liner is $15.95 from Frieling
+- **Maker's price:** $24.95 for the basket, "In Stock"
 
-**Pros**
+An oval basket shapes a bâtard. That is the torpedo-shaped loaf you see in bakeries, and it slices into more even pieces than a round boule. Every slice from the middle is close to the same size, which suits sandwiches and toast.
 
-* The proofing basket is cost-effective
-* After proofing in the basket, the dough forms a nice ring pattern
-* The moisture-wicking effect leaves your dough perfect for baking 
-* The construction material is free from dyes, chemicals, odor, splinter, and mold
-* The bread lame comes with a cap to store it safely after use
+The 10x7 size takes roughly the same amount of dough as the 10-inch round. So you can swap between the two with the same recipe.
 
-**Cons**
+The oval shape needs an oval or large round pot. A 10-inch oval loaf can touch the sides of a small round Dutch oven. Measure the inside of your pot before you buy. If you bake on a stone or steel instead, shape does not matter. See our guide to the [best pizza stone](/blog/best-pizza-stone/) for stones that double as bread bakers.
 
-* The bread lame come as pictured but is not of the best quality
+This Amazon listing is the basket only. Add the oval liner if you bake wet doughs, or dust the bare cane with rice flour.
 
-### **2. [Oval Bread Banneton Proofing Basket-10 Inch Baskets](https://www.amazon.com/Inch-Oval-Banneton-Proofing-Basket/dp/B01MUG8QFJ/?tag=kitchenpot-20)**
+**What we like:**
 
-[Check Price on Amazon](https://www.amazon.com/Inch-Oval-Banneton-Proofing-Basket/dp/B01MUG8QFJ/?tag=kitchenpot-20)
+- Shapes a bâtard that slices evenly
+- Same dough capacity as the 10-inch round
+- Hand-woven natural cane
+- Listed in stock on Frieling's store
 
-Are you tired of round shapes banneton proofing baskets? Then your best proofing basket should be oval! 
+**What to know before you buy:**
 
-This proofing basket comes packaged with a sourdough starter e-book in case you’re a beginner in baking. 
+- Liner is sold separately
+- Needs an oval pot or a baking stone
 
-However, you need to be careful of the hydration of the dough as it must not be too thick or too slack. You should always maintain the standard dough hydration, which is approximately 58-65 percent.
+**Who should buy it:** Bakers who want even slices for sandwiches, or who already own an oval Dutch oven.
 
-The dough structure must have a considerable dough consistency. If the dough is too slack or wet, it will not retain the beautiful spiral shape. And also if the dough is too tough, it will retain the shape but will have a hard crust and will poor crumb structure.
+[Check Price on Amazon](https://www.amazon.com/Frieling-Brotform-Oval-Bread-Rising-Basket/dp/B00004R92U/?tag=kitchenpot-20)
 
-The oval proofing basket is well constructed with natural rattan which is perfect for proofing different types of bread no matter the recipe you choose to use.
+## 3. [Frieling Brotform Rectangular 12x5.5-Inch With Liner](https://www.amazon.com/Frieling-Brotform-Rectangular-Bread-Rising-Basket-Liner/dp/B07SVGM5BX/?tag=kitchenpot-20): Best for Long Loaves
 
-The bread bosses proofing basket also comes with a linen cover which is preferred by most bakers as it absorbs moisture well than a cotton cover. Linen cloth is also recommended as it does not leave fiber on the fermented dough.
+- **Size:** 12x5.5 inches
+- **Material:** Natural cane, hand woven
+- **Made in:** China (listed by Frieling as P.R.C.)
+- **Liner:** Bundled on the Amazon listing; $15.95 separately from Frieling
+- **Maker's price:** $26.95 for the basket, "In Stock"
 
-It’s also recommended that if you want to retain the beautiful spiral patterns you should ensure that you dust the basket with plenty of dusting flour. This is done to prevent the dough from sticking as the dough rises during proofing.
+The rectangular basket makes a long, narrow loaf. It is the shape for rye breads, seeded loaves and long sandwich breads baked on a sheet or stone.
 
-Another unique feature about the oval proofing basket is that it’s proven to wicker the moisture from the dough’s surface thus is ideal for sourdough, which absorbs a lot of moisture during its processing.
+At 12 inches long, it is the longest basket in this guide. Check that your oven and baking surface can take it. A standard half sheet pan is long enough. Our guide to [compact baking sheet and pan sizes](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) lists the common dimensions.
 
-**Pros**
+The narrow shape also stores well. It slides onto a shelf or into a cabinet next to other baking pans, where a round basket takes up a wide circle.
 
-* The proofing basket works well with gluten-free dough recipes
-* The oval proofing basket has a good capacity to feed up to 5 people
-* The oval banneton basket comes with a starter recipe via email with the purchase
-* The proofing basket comes with natural antibacterial properties that allow the content to be removed and released with ease
+The Amazon listing includes a liner. That is useful here, because rye and whole grain doughs are often sticky.
 
-**Cons**
+**What we like:**
 
-* Sometimes you waste a lot of time brushing off the dusting flour that is stuck in between the texture of the dough
+- Long, narrow loaves for rye and sandwich bread
+- Slim shape stores easily on a shelf
+- Liner included on the Amazon listing
+- Hand-woven natural cane
 
-### **3. [Forsun 8.5” Round Banneton Brotform Bread Dough Proofing Rising Rattan Basket and Liner](https://www.amazon.com/Forsun-Banneton-Brotform-Proofing-Rising/dp/B01CNV40D6/?tag=kitchenpot-20)**
+**What to know before you buy:**
 
-[Check Price on Amazon](https://www.amazon.com/Forsun-Banneton-Brotform-Proofing-Rising/dp/B01CNV40D6/?tag=kitchenpot-20)
+- Too long for most round Dutch ovens
+- Priced a little higher than the round and oval
 
-If you’re looking for a non-poisonous, eco-friendly, and food safe proofing basket, then the forsun 8.5 round banneton proofing basket is your best fit.
+**Who should buy it:** Bakers who make rye, seeded or sandwich-style loaves on a stone or sheet pan.
 
-The proofing basket is well made with natural rattan cane material. The banneton also comes with a cotton liner that is hand-washable. However, cotton does not absorb moisture better than linen. So most bakers prefer using a linen cloth to cover the dough while proofing.
+[Check Price on Amazon](https://www.amazon.com/Frieling-Brotform-Rectangular-Bread-Rising-Basket-Liner/dp/B07SVGM5BX/?tag=kitchenpot-20)
 
-With the forsun proofing basket, you’re assured of the safety of your hands as it can’t splinter your hands this is because it comes with a smooth surface.
+## 4. [Frieling Brotform Round 8.5-Inch With Liner](https://www.amazon.com/Frieling-Brotform-Liner-Round-8-5/dp/B07STCHFVQ/?tag=kitchenpot-20): Best for Small Loaves
 
-The forsun’s round banneton proofing basket is also cost-effective as compared to most proofing baskets available in the market. So you don’t have an excuse for not baking a freshly baked bread from the comfort of your home.
+- **Size:** 8.5 inches across
+- **Material:** Natural cane, hand woven
+- **Made in:** China (listed by Frieling as P.R.C.)
+- **Liner:** Bundled on the Amazon listing; sold separately from Frieling
+- **Maker's price:** $22.95 for the basket, "In Stock"
 
-**Pros**
+The 8.5-inch round is for smaller loaves. It suits half-batch recipes, households of one or two, and bakers who want a loaf gone before it stales.
 
-* The proofing basket is non-toxic and environmentally friendly
-* It’s well made with all-natural rattan 
-* The proofing basket is pocket friendly
+A smaller basket is not just a size choice. Put a small amount of dough in a big basket and it spreads to fill the space. The loaf comes out wide and flat. The right size basket pushes the dough upward, so you get a taller loaf.
 
-**Cons**
+It is also the easiest basket to store. It stacks inside the 10-inch round if you own both. Our guide to [baking in a small kitchen without extra counter space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/) has more ideas for small setups.
 
-* The proofing basket comes with a cotton liner which does not absorb moisture well like a linen cloth
+One Frieling customer review on this basket reported receiving a slightly larger basket than ordered. Measure it when it arrives if exact size matters to your recipe.
 
-### **4. [Fideco 10 Inch and 9 Inch Banneton Bread Proofing Basket Set- Premium Best Bread Proofing Basket](https://www.amazon.com/Banneton-Proofing-Stainless-Scraper-Cleaning/dp/B07QMM45D3/?tag=kitchenpot-20)**
+**What we like:**
 
-[Check Price On Amazon](https://www.amazon.com/Banneton-Proofing-Stainless-Scraper-Cleaning/dp/B07QMM45D3/?tag=kitchenpot-20)
+- Right size for half batches and small households
+- Pushes a small loaf up instead of out
+- Stacks inside the 10-inch round
+- Lowest price of the Frieling round baskets
 
-Are you a baker who enjoys baking sourdough bread? Then the fideco proofing basket is your perfect choice.
+**What to know before you buy:**
 
-The proofing basket features two banneton bread proofing bowls, bread lame, a stainless steel scraper, a cleaning brush, and a liner.
+- Too small for a standard 500-gram-flour loaf
+- One customer reported a size mix-up on Frieling's store
 
-The scraper helps to remove the dough and the stuck dough pieces from the proofing basket. And the lame is used to score the top of the bread.
+**Who should buy it:** Small households, half-batch bakers, and anyone who bakes in a small pot.
 
-The proofing basket is built with rattan material that is free from dyes and chemicals.
+[Check Price on Amazon](https://www.amazon.com/Frieling-Brotform-Liner-Round-8-5/dp/B07STCHFVQ/?tag=kitchenpot-20)
 
-The two baskets measure 9 and 10-inch rounds. The proofing baskets are perfect for larger and medium-sized bread.
+## Two More Options Worth Knowing
 
-**Pros**
+**Frieling Baguette Brotform.** Frieling also makes a 17x3-inch baguette basket, listed at $28.95 and in stock on [Frieling's proofing basket page](https://direct.frieling.com/proofing_basket_s/1906.htm). Check that a 17-inch loaf fits your oven before you order. Many small and toaster ovens will not take it.
 
-* The proofing basket features two bowls with linen liners
-* The banneton basket also comes with stainless steel tools
-* The construction material is chemical-free rattan
-* The proofing basket also features a 9-month warranty and a 100% money-back guarantee
+**King Arthur Oval Brotform & Liner Set.** King Arthur sells an oval basket with a removable liner on its own store. It lists the set at $33.21, "In stock & ready to ship," and says it holds up to 3 pounds of dough. That is a larger basket than the Frieling oval. It is sold only through [King Arthur's shop](https://shop.kingarthurbaking.com/items/oval-brotform-liner-set), so it is not a numbered pick here.
 
-**Cons**
+## What a Proofing Basket Actually Does
 
-* The proofing basket is not pocket friendly
+A proofing basket, also called a banneton or brotform, supports a shaped loaf while it rises. Banneton is the French name. Brotform is the German one.
 
-### **5. [10 Inch Premium Round Banneton Basket with Liner](https://www.amazon.com/Premium-Round-Banneton-Basket-Liner/dp/B06XJM2T1S/?tag=kitchenpot-20)**
+Wet doughs are soft. Left on a flat tray, they slump outward. The basket holds the dough's shape from the sides, so the gas made by the yeast pushes the loaf up.
 
-[Check Price on Amazon](https://www.amazon.com/Premium-Round-Banneton-Basket-Liner/dp/B06XJM2T1S/?tag=kitchenpot-20)
+The basket also helps the crust. Cane draws a little moisture off the surface of the dough. That dry skin is easier to score with a blade, and it holds its shape when the loaf hits the hot oven.
 
-The 10 inch premium round banneton basket is an attractive proofing basket that is made of natural material rattan. This means the basket is dye and chemical-free and thus when you put your dough inside you’re assured of safety and odorless dough.
+Then there is the look. Flour caught in the ribs of the basket leaves a spiral or striped pattern on the crust. It is the mark most people picture when they think of artisan bread.
 
-The proofing basket also comes with a hand-washable linen cloth, the linen cloth absorbs excess moisture from the dough giving the bread a glossy crust and a soft crumb texture. The linen cloth will also help you to lessen the cleaning times of the proofing basket.
+You flip the dough out upside down. The top of the loaf in the oven is the side that sat against the basket. That is why the pattern ends up on top.
 
-You can as well opt to not use linen cloth to cover the proofing basket and instead use some dusting flour to dust the rattan surface to prevent sticking of your dough after proofing.
+## Choosing the Right Shape and Size
 
-The 10 inch premium round proofing basket also comes with a smooth surface that will not splinter your hands.
+Start with the pot or surface you bake on. The loaf needs to fit it with a little room on every side.
 
-**Pros**
+- **Round Dutch oven:** Use a round basket. A 10-inch basket suits a 5 to 7-quart pot.
+- **Oval Dutch oven:** Use an oval basket.
+- **Baking stone or steel:** Any shape works. Pick the loaf you like to eat.
+- **Loaf pan:** You do not need a basket. The pan does the shaping.
 
-* The proofing basket is well built with natural rattan thus it’s chemical and dye-free
-* The banneton is easy to clean
-* The proofing basket can proof your bread with or without a liner
-* The proofing basket is large enough to bake bread for a large family
+Next, match the basket to your dough weight. These are rough guides, not maker specs:
 
-**Cons**
+- **8.5-inch round:** about 1 to 1.5 pounds of dough
+- **10-inch round or 10x7 oval:** about 1.5 to 2 pounds of dough
+- **Larger ovals, like King Arthur's:** up to 3 pounds, by King Arthur's own figure
 
-* The 10-inch banneton only features a single goodie a cloth liner as compared with other proofing baskets like the fideco 9 and 10-inch banneton proofing basket which includes other features.
+A simple test works too. After shaping, the dough should fill the basket about halfway to two-thirds. If it is flush with the rim before rising, the basket is too small.
 
-### **6. [Happy Sales Round Proofing Basket Banneton Brotform 10 Inch- Best  Bread Proofing Basket (Heavy Duty)](https://www.amazon.com/Happy-Sales-Proofing-Banneton-Brotform/dp/B016J9I7IW/?tag=kitchenpot-20)**
+A kitchen scale makes all of this easier. Weigh the dough once, note which basket it suits, and you will not have to guess again. Our list of [space-saving baking tool essentials](/blog/space-saving-baking-tool-essentials/) covers the scale and other small tools worth owning.
 
-[Check Price on Amazon](https://www.amazon.com/Happy-Sales-Proofing-Banneton-Brotform/dp/B016J9I7IW/?tag=kitchenpot-20)
+## Liner or No Liner?
 
-Happy sales round proofing basket is a strong basket made from commercial strength and high-quality natural rattan. This proofing basket is one of the largest as compared to other baskets found in the market today.
+A liner is a fitted cotton cover that sits inside the basket. It changes the result in three ways.
 
-At 5.5 inches on the bottom and 10 inches diameter at the top, the proofing basket will be able to prove bread large enough for the whole family to enjoy.
+The first is the look. With a liner, the crust comes out smooth. Without one, you get the ribbed flour pattern.
 
-However, the happy sales round proofing basket does not come with extras such as a scraper, a bread lame, or a linen cover. But on the other hand, the basket is cost-friendly especially if you’re on a tight budget.
+The second is sticking. Very wet doughs can grip bare cane. A floured liner is more forgiving while you learn.
 
-With the happy sales round proofing basket, your finished bread product will sport an awesome pattern of floury rings surrounding the shiny golden-brown crust.
+The third is cleaning. A liner catches most of the flour and dough. You can shake it out and wash it, which is easier than brushing out cane.
 
-And for credibility purposes, the proofing basket complies with German food, articles of daily use, and feed code (LFGB). This means that the basket is safe to come into direct contact with the dough without causing any health hazard.
+Frieling sells its liners separately at $15.95 each. The Amazon listings for the 10-inch round, 8.5-inch round and rectangular baskets in this guide include one. The oval listing does not.
 
-**Pros**
+## How to Flour a Banneton So Dough Does Not Stick
 
-* The proofing basket complies with the German food, articles of daily use, and feed code which means that your basket is free from dyes and chemicals which can contaminate your dough
-* It’s one of the largest proofing basket recommended for large families
-* The basket is well built with strong high-quality rattan
+Sticking is the most common complaint about new baskets. The fix is the flour, not the basket.
 
-**Cons**
+1. **Use rice flour.** Rice flour has no gluten, so it does not turn into glue when it touches wet dough. Wheat flour alone can stick.
+2. **Mix if you like.** Many bakers use half rice flour and half bread flour. It still releases well and costs less.
+3. **Flour heavily at first.** New cane is bare. Dust it well for the first several bakes, until the ribs hold a light layer.
+4. **Flour the dough too.** A light dusting on the top of the shaped loaf, before it goes in, helps.
+5. **Do not over-proof.** Dough that rises too long gets wet and slack, and it sticks more.
 
-* The proofing basket is subject to splinters
+If you are out of rice flour, fine semolina works as a release too. Cornstarch is not a good swap here. Our guide on [what to use instead of cornstarch](/blog/what-to-use-instead-of-cornstarch/) covers where cornstarch swaps do work.
 
-***Read about [best bakeware sets](https://thekitchenpot.com/blog/best-bakeware-sets/) to consider for beginners***
+## Proofing in the Fridge
 
-## **Best Bread Proofing Baskets- Buying guide**
+Many sourdough recipes finish the rise in the fridge overnight. This is called cold retarding. It slows the yeast, deepens the flavor, and gives you a firm loaf that is easier to score.
 
-### **What Does a Bread Proofing Basket Do?** 
+A proofing basket is made for this. Cover the basket with a plastic bag or a shower cap so the dough does not dry out. Then slide it onto a fridge shelf.
 
-Proofing of bread in a banneton basket starts by dusting just a small amount of dusting flour inside the proofing basket. Then you slowly place tucked round dough ball in the center and cover it with a cloth.
+A cold proof needs shelf space. A round 10-inch basket is about as wide as a dinner plate. Clear a spot before you start. A tidy fridge helps here, and our guide to the [best airtight food storage containers](/blog/best-airtight-food-storage-containers/) can help you stack leftovers into less space.
 
-As your dough rises it gets support from the sides of the proofing basket and its soft texture and grain will take the nice shape of the banneton basket.
+Bake the loaf straight from the fridge. There is no need to bring it to room temperature first.
 
-After proving, your dough takes the beautiful shape of the banneton basket which is a beautiful coil-like design on the exterior after unmolding it.
+## How to Clean and Store a Proofing Basket
 
-### **Why Do You Need a Proofing Basket?**
+Cane baskets are low maintenance, but moisture is their enemy.
 
-Although you can still make fresh bread without using a proofing basket, it is still an essential tool during the bread-making process, and as a professional baker, I can confidently attest to that.
+- **Let it dry first.** After each bake, leave the basket out until any damp flour dries. Dry flour brushes out. Wet flour smears.
+- **Brush, do not wash.** Tap out loose flour, then use a stiff, dry brush. Frieling's own care note is to dust off the flour.
+- **Wash liners, not baskets.** Liners can go in the wash. The cane basket should not soak.
+- **Dry fast if it gets wet.** If you rinse the basket, dry it right away in a warm oven that has been turned off, or in the sun.
+- **Store it dry and airy.** Keep it somewhere with airflow. A closed, damp cabinet invites mold.
 
- A proofing basket firmly holds up the bread dough during fermentation of the dough which is very crucial to attain a good volume of bread. A proofing basket also helps a baker to obtain a lovely final shape of your bread.
+Pests like flour too. Keep baskets brushed clean and stored off the counter if you have had pantry bugs. Our guide on [how to keep pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/) covers what attracts them.
 
-### **What Is the Best Bread Proofing Basket?**
+For storage, nest the baskets. A small round fits inside a larger round, and the stack takes up one spot on a shelf. Our ideas for [vertical storage in small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) show where awkward round items can go.
 
-Although other bread proofing baskets are also good. The best bread proofing basket for training or professional home baker is the Banneton 9 Inch Proofing Basket. 
+## Other Tools That Make Bread Easier
 
-This proofing basket can hold a large amount of an oven bottom bread of about 680 grams which can feed a large family. 
+A proofing basket is one part of a small bread kit. You do not need all of these, but a few make a real difference.
 
-It is also well built from natural rattan cane and your well-molded dough when placed in the basket will take the shape of its awesome rings. Giving you’re bread an attractive final look.
+- **A heavy lidded pot.** A Dutch oven traps steam in the first part of the bake, which gives a better rise and a glossy crust. Cast iron is the usual pick. Our [Lodge cast iron skillet review](/blog/lodge-cast-iron-skillet-review/) explains why cast iron holds heat so well.
+- **Oven gloves.** You will be lifting a pot at 450°F or more. Good [heat-resistant gloves](/blog/10-best-heat-resistant-gloves-for-cooking/) cover your forearms, which oven mitts often miss.
+- **A thermometer.** Many bakers check that a loaf is done by its internal temperature. A probe thermometer, like the ones in our [candy thermometer guide](/blog/7-best-candy-thermometer/), reads it in seconds.
+- **A mixer.** Most artisan loaves are mixed by hand. For enriched doughs, a [hand mixer](/blog/best-hand-mixers/) with dough hooks saves your wrists.
+- **A food processor.** Some models knead small batches of dough fast. Our guide to the [best food processor under $100](/blog/best-food-processor-under-100/) notes which ones include a dough blade.
+- **A bread knife.** A serrated blade cuts a crusty loaf without crushing it. Our [knife set under $100](/blog/best-knife-set-under-100/) guide lists sets that include one.
 
-The banneton 9-inch proofing basket also comes with amazing features which include a bread scraper, a proofing cloth liner, and a bread lame. The liner cloth helps to absorb free moisture from your dough, giving your baked bread a good glossy crust.
+If you bake in a small oven, check the interior before you buy a large pot. Our guide to [small ovens and toaster ovens for baking](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) lists interior sizes.
 
-### **How to Maintain a Proofing Basket**
+## A Simple First Bake With a Proofing Basket
 
-By maintaining your proofing basket well you improve the durability of the basket thus saving you money. 
+Here is the basic routine for a round loaf. It works with most sourdough or yeast recipes.
 
-Before using your proofing basket for the first time, it’s always advisable to spatter some water with a sprier on the proofing basket to moisten it.
+1. **Mix and rise.** Make your dough and let it rise in a bowl until it has grown and looks airy.
+2. **Flour the basket.** Dust it well with rice flour, or fit and flour the liner.
+3. **Shape.** Tip the dough onto the counter and shape it into a tight ball.
+4. **Load it seam side up.** The smooth side goes down into the basket. The seam faces you.
+5. **Proof.** Cover it and let it rise on the counter, or overnight in the fridge.
+6. **Preheat.** Heat your oven and pot together, usually for 30 to 45 minutes.
+7. **Flip and score.** Turn the basket over onto parchment. Cut a slash across the top with a sharp blade.
+8. **Bake.** Lower the loaf into the hot pot, cover it, and bake. Remove the lid partway through to brown the crust.
 
-After moistening the basket, pour some reasonable amount of flour in the center of the basket. Then ensure you rotate the basket gently to ensure that all the parts are properly dusted with flour.
+Let the loaf cool for at least an hour before slicing. The inside keeps cooking as it cools. Cut too soon and the crumb turns gummy.
 
-After the whole proofing basket is well dusted, turn the basket upside down remove the excess dusting flour, then leave it to dry.
+Leftover bread? Slice it and freeze it. It goes straight from the freezer into the toaster. Our [2-slice toaster guide](/blog/best-2-slice-toaster/) covers models with a frozen setting, and stale slices make good sandwiches in a [panini press](/blog/best-panini-press-for-home-use/).
 
-### **What Can I Use If I Don’t Have a Proofing Basket?**
+## Making Room to Bake in a Small Kitchen
 
-There are many ways to prove your dough if you don’t have a proofing basket or probably it too expensive for you. 
+Bread takes counter space for mixing and shaping, and shelf space for proofing. In a small kitchen, plan the steps so they do not collide.
 
-It’s simple, just place your dough in a plastic or metal bowl, and then cover your dough with a cloth preferably a linen cloth, not cotton. This is because linen absorbs moisture well and also linen does not leave any fiber on your dough. 
+Shape on a clean patch of counter or a large cutting board you can move. Proof in the basket on top of the fridge, where it is warm and out of the way. Store the basket and liner together in one bin with your rice flour, so the whole kit comes out at once.
 
-Then ensure you place your dough in a warm place like in an oven with very low temperatures and place a bowl of hot water under the dough and your dough will automatically rise without any hassle.
+Our guide to [countertop organization for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) helps you clear a working surface. If you have no pantry, our tips on [organizing a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) show where bulky baking gear can live.
 
-## **Best Bread Proofing Baskets Reviews** 
+For the rest of your baking pans, see our picks for the [best bakeware for small kitchens](/blog/best-bakeware-for-small-kitchens/).
 
-With our well-reviewed article, you can now comfortably shop for the best proofing basket which will help you to make fresh tasty bread.
+## Which Proofing Basket Should You Buy?
 
-The best bread proofing basket will not only help you to attain a good structure of your bread that is the outer structure of the crust and also the inner texture and grain the crumb. 
+Buy the **Frieling Round 10-Inch** if you are buying your first basket, or if you bake standard sourdough loaves in a round Dutch oven.
 
-The basket will also help you to obtain a lovely oven bottom shaped bread which will be enjoyed by all in the family.
+Pick the **Frieling Oval 10x7** if you want a bâtard with even slices, or if your pot is oval.
 
-As for the cleaning of the proofing basket you don’t have to worry, all you need to do is ensure you remove the dough pieces that may be stuck after your remove your dough, and if the dough pieces prove stubborn just wait for it to dry then remove them gently with a soft brush.
+Choose the **Frieling Rectangular 12x5.5** if you bake rye, seeded or sandwich-style loaves on a stone or sheet pan.
 
- So hurry and get the proofing basket of your choice according to your tastes and preferences for healthy tasty bread for and your family.
+Get the **Frieling Round 8.5-Inch** if you bake half batches or cook for one or two.
+
+Want a bigger oval? The King Arthur set holds up to 3 pounds of dough, by King Arthur's figure.
+
+## Related Guides
+
+- [Best Bakeware Sets for Beginners](/blog/best-bakeware-sets/)
+- [Best Pizza Stone](/blog/best-pizza-stone/)
+- [Milo Dutch Oven Review](/blog/milo-dutch-oven-review/)
+- [Why Baking Sheets Warp in the Oven](/blog/why-baking-sheets-warp-in-the-oven/)
+- [How to Bake Cookies in a Convection Oven](/blog/how-to-bake-cookies-in-a-convection-oven/)
+- [Small Kitchen Cabinet Organization Ideas](/blog/small-kitchen-cabinet-organization-ideas/)
+- [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
+- [Best Substitutes for Whole Milk](/blog/best-substitutes-for-whole-milk/)
