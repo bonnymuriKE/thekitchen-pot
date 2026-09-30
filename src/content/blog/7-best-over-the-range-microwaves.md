@@ -87,7 +87,7 @@ If your cooktop is induction rather than gas or standard electric, the venting m
 - **Best overall:** [GE JVM6175SKSS](https://www.amazon.com/GE-JVM6175SKSS-Range-Microwave-Stainless/dp/B01LM1V31A/?tag=kitchenpot-20)
 - **Best budget:** [GE JVM3160RFSS](https://www.amazon.com/GE-JVM3160RFSS-Range-Microwave-Stainless/dp/B00F2QFX5O/?tag=kitchenpot-20)
 - **Best for everyday reliability:** [Whirlpool WMH31017HS](https://www.amazon.com/Whirlpool-WMH31017HS-Stainless-Range-Microwave/dp/B076BT7B3B/?tag=kitchenpot-20)
-- **Best large capacity:** [Samsung ME21R7051SG](https://www.amazon.com/dp/B07YP692JR/?tag=kitchenpot-20)
+- **Best large capacity:** [Samsung ME21R7051SG](https://www.amazon.com/Samsung-ME21R7051SG/dp/B07YP692JR/?tag=kitchenpot-20)
 - **Best with convection:** [Café CVM521P2MS1](https://www.amazon.com/CVM521P2MS1-Range-Capacity-Microwave-Stainless/dp/B07RHH9KT5/?tag=kitchenpot-20)
 - **Best value stainless:** [Frigidaire FFMV1846VS](https://www.amazon.com/Frigidaire-FFMV1846VS-Stainless-Microwave-Capacity/dp/B0873ZMKQT/?tag=kitchenpot-20)
 - **Best for narrow cabinets:** [Samsung ME11A7710DS](https://www.amazon.com/SAMSUNG-Microwave-ME11A7710DS-AA-Fingerprint/dp/B0B9GH2ZMW/?tag=kitchenpot-20)
@@ -192,7 +192,7 @@ It doesn't offer sensor cooking, so you'll set your own times. For most reheatin
 
 [Check Price on Amazon](https://www.amazon.com/Whirlpool-WMH31017HS-Stainless-Range-Microwave/dp/B076BT7B3B/?tag=kitchenpot-20)
 
-## 4. [Samsung ME21R7051SG](https://www.amazon.com/dp/B07YP692JR/?tag=kitchenpot-20): Best Large Capacity
+## 4. [Samsung ME21R7051SG](https://www.amazon.com/Samsung-ME21R7051SG/dp/B07YP692JR/?tag=kitchenpot-20): Best Large Capacity
 
 - **Type:** Over-the-range, ducted or recirculating
 - **Key specs:** 2.1 cu ft, 950W, 400 CFM, ceramic enamel interior
@@ -218,7 +218,7 @@ The 950W output is slightly lower than the 1,000W standard here, which means mar
 
 **Who should buy it:** Anyone who regularly reheats large dishes and wants stronger venting than a standard 300 CFM model.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07YP692JR/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Samsung-ME21R7051SG/dp/B07YP692JR/?tag=kitchenpot-20)
 
 ## 5. [Café CVM521P2MS1](https://www.amazon.com/CVM521P2MS1-Range-Capacity-Microwave-Stainless/dp/B07RHH9KT5/?tag=kitchenpot-20): Best With Convection
 
