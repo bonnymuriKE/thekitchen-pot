@@ -82,8 +82,6 @@ Sardel launched with a 30-day trial and free returns. We could not confirm Sarde
 
 ## Our Picks at a Glance
 
-These are the pans to buy if you like what Sardel does but want steady stock, clear warranties and an easy return. Each one matches a specific Sardel strength.
-
 - **Best alternative to Sardel's Italian-made 5-ply:** [Made In 10" Stainless Clad Frying Pan](https://www.amazon.com/Made-In-10-Inch-Stainless-Clad-Frying-Pan/dp/B09S12WX42/?tag=kitchenpot-20)
 - **Best value 5-ply alternative:** [Misen 10" 5-Ply Stainless Steel Frying Pan](https://www.amazon.com/Misen-5-Ply-Stainless-Steel-10-Frying-Pan/dp/B08WRWNGZQ/?tag=kitchenpot-20)
 - **Best alternative to Sardel's USA-made line:** [All-Clad D5 Brushed Stainless 10" Fry Pan](https://www.amazon.com/All-Clad-D5-Brushed-Stainless-10-Fry-Pan/dp/B0051OEQN2/?tag=kitchenpot-20)
@@ -91,7 +89,7 @@ These are the pans to buy if you like what Sardel does but want steady stock, cl
 - **Best alternative to Sardel's carbon steel:** [Misen 10" Pre-Seasoned Carbon Steel Frying Pan](https://www.amazon.com/Misen-10-Pre-Seasoned-Carbon-Steel-Frying-Pan/dp/B0CW17LHVX/?tag=kitchenpot-20)
 - **Best budget alternative:** [Tramontina Signature Tri-Ply Clad 10" Frying Pan](https://www.amazon.com/Tramontina-Signature-Tri-Ply-Clad-10-Inch-Frying-Pan/dp/B00JAP2IPQ/?tag=kitchenpot-20)
 
-Here is how they line up against a Sardel pan. Prices are the makers' list prices when we checked, and they change often.
+These are the pans to buy if you like what Sardel does but want steady stock, clear warranties and an easy return. Each one matches a specific Sardel strength. Here is how they line up against a Sardel pan. Prices are the makers' list prices when we checked, and they change often.
 
 | Pan | Build | Made In | Oven Safe | Warranty | List Price |
 | --- | --- | --- | --- | --- | --- |
