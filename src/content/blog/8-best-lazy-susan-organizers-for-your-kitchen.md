@@ -1,313 +1,308 @@
 ---
-excerpt: Maximize kitchen space with the best Lazy Susan organizers—sleek,
-  functional, and perfect for keeping spices, snacks, and essentials within easy
-  reach.
+excerpt: "The best lazy Susan organizers for kitchen cabinets, pantries and fridges. Four in-stock picks, why a rectangle fits more than a circle, and how to measure before you order."
 showTableOfContents: true
 authorId: kitchenpot1
-title: 8 Best Lazy Susan Organizers for Your Kitchen
+title: "Best Lazy Susan Organizers for Your Kitchen (4 Picks and Where They Fit)"
 source: wordpress
 slug: 8-best-lazy-susan-organizers-for-your-kitchen
 pubDate: 2020-08-16
-modDate: 2025-01-18
+modDate: 2026-09-30
 image: ""
 category: Kitchenware
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: 8 Best Lazy Susan Organizers for Your Kitchen
+coverAlt: "A two-tier lazy Susan turntable holding spice jars and oils inside a kitchen cabinet"
 tags:
-  - Featured
+  - lazy-susan-organizers
+  - kitchen-turntable
+  - cabinet-organization
+  - spice-organizer
+  - small-kitchen-storage
 authorImageAlt: kitchenpot1
-description: "Maximize kitchen space with the best Lazy Susan organizers—sleek, functional, and perfect for keeping spices, snacks, and essentials within easy reach."
-seo: The best lazy Susan organizer will help you to organize your kitchen and
-  achieve incredible order. Read on to get a comprehensive guide on what you
-  need to consider when purchasing one.
+description: "The best lazy Susan organizers for kitchen cabinets, pantries and the fridge: four in-stock picks, round vs rectangle, and how to measure before you order."
+seo: "Compare the best lazy Susan organizers for kitchen cabinets, pantries and fridges, including two-tier, bin and rectangle turntables, with measuring and fit tips."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "What size lazy Susan do I need for my cabinet?"
+    answer: "Measure the inside depth of the cabinet, then subtract about an inch so the turntable spins without hitting the door or back wall. Standard upper cabinets are often around 12 inches deep, so a 10 to 11 inch turntable usually fits. Also measure the door opening, not just the shelf, because the face frame can be narrower than the inside."
+  - question: "Is a rectangular or round lazy Susan better?"
+    answer: "A rectangular turntable fits more into a standard cabinet. A circle only covers about 79 percent of the square it sits in, so the corners go unused. YouCopia's MagicTrack rectangle turntables solve this with a track that swings the tray forward as it spins. Round turntables are cheaper and simpler, and they work well in corners and on counters."
+  - question: "Where should I put a lazy Susan in the kitchen?"
+    answer: "The best spots are deep or hard-to-reach places: corner cabinets, the back of the fridge, upper cabinet shelves and the pantry. A turntable brings items at the back to the front with one spin. It works best for groups of small items like spices, oils, sauces, vitamins and baking supplies."
+  - question: "Can you use a lazy Susan in the fridge?"
+    answer: "Yes. A turntable on a fridge shelf keeps jars and condiments from getting lost at the back. Choose a plastic turntable that wipes clean, and pick a size that leaves room for the door to close. Put the items you use most on the outer edge, so a quick spin brings them within reach."
+  - question: "What is the difference between a corner cabinet lazy Susan and a turntable?"
+    answer: "A corner cabinet lazy Susan is built into the cabinet. It mounts on a center pole and has one or two large shelves, often kidney or pie shaped, that spin inside a blind corner. A turntable is a loose tray you set on any shelf. Built-in units hold far more but need installing and measuring to the cabinet."
 ---
-Are you aware that your kitchen is the most used space in your home? Near full pitchers can jumble up your countertop.
+The back of a kitchen cabinet is where spices go to expire. You cannot see them, so you buy them again.
 
-Heaps of unsuited lids and containers can overflow from your cupboard, and paper plates can get stuffed in your storeroom alongside bags of bread and big boxes of cereal.
+A lazy Susan fixes that with one spin. Everything at the back comes to the front, and nothing gets lost.
 
-Well, you don’t need to worry anymore, your best lazy Susan kitchen organizers got you covered. And yes! Lazy Susan kitchen organizers are one the greatest ways to save space in your kitchen.
+**The short version:** For most cabinets, the [YouCopia SmoothSpin Two-Tier Turntable](https://www.amazon.com/YouCopia-SmoothSpin-Two-Tier-Turntable-Organizer/dp/B0GSCNL52L/?tag=kitchenpot-20) is the one to buy. It spins on stainless steel ball bearings, the top tier adjusts in height, and it costs $19.99. If your cabinet is deep and square, a rectangle turntable holds more. Measure the inside depth first and subtract an inch.
 
-Additionally, you can use your best lazy Susan organizer if your family is condiments crazy. You can always grab this turntable and place it on your dining table. With that, everyone can pick and enjoy what they prefer.
+## Our Picks at a Glance
 
-This article will focus on 8 best lazy Susan kitchen organizers that will keep your kitchen in order so you can concentrate on other chores with ease. Read on for all the fantastic ways you can use this easy item to put your kitchen in order.
+- **Best overall:** [YouCopia SmoothSpin Two-Tier Turntable](https://www.amazon.com/YouCopia-SmoothSpin-Two-Tier-Turntable-Organizer/dp/B0GSCNL52L/?tag=kitchenpot-20)
+- **Best for fitting more in a square cabinet:** [YouCopia MagicTrack Rectangle Turntable](https://www.amazon.com/YouCopia-MagicTrack-Rectangle-Lazy-Susan-Turntable/dp/B0FQXRMSBD/?tag=kitchenpot-20)
+- **Best for spices:** [YouCopia MagicTrack Spice Turntable](https://www.amazon.com/YouCopia-MagicTrack-Spice-Turntable-2-Tier/dp/B0FQXT71VZ/?tag=kitchenpot-20)
+- **Best with bins:** [YouCopia SmoothSpin Turntable With 3 Bins](https://www.amazon.com/YouCopia-SmoothSpin-Turntable-3-Bins-Organizer/dp/B0GSDNDQ64/?tag=kitchenpot-20)
 
-## **What is Lazy Susan?**
+All four come from one maker, and that is not an accident. YouCopia's own store showed every one of them in stock. We could not confirm stock on the other brands we looked at, so they are not here.
 
-A lazy Susan is a rotating tray that is set on the table and placed on a workbench or a table so that it helps in the distribution of condiments or food.
+| Turntable | Shape | Size | Tiers | Maker's Price |
+| --- | --- | --- | --- | --- |
+| SmoothSpin Two-Tier | Round | 10.6" wide, 7 to 9" tall | 2, adjustable | $19.99 |
+| MagicTrack Rectangle | Rectangle | 10.2" D x 12.5" W x 1.5" H | 1 | $19.99 |
+| MagicTrack Spice | Rectangle | 10.2" D x 12.5" W x 3.6" H | 2, plus hidden storage | $29.99 |
+| SmoothSpin With 3 Bins | Round | 10.6" wide x 4.2" H | 1, with bins | $24.99 |
 
-The best lazy Susan comes in circular shapes are constructed from different materials. The construction materials include plastic, glass, and wood.
+## 1. [YouCopia SmoothSpin Two-Tier Turntable](https://www.amazon.com/YouCopia-SmoothSpin-Two-Tier-Turntable-Organizer/dp/B0GSCNL52L/?tag=kitchenpot-20): Best Overall
 
-Besides having the [best dinnerware set](https://thekitchenpot.com/blog/7-best-dinnerware-sets/), lazy Susan is the other great technique to ensure that your visitors enjoy their meals on the dinner table. They also help in ensuring that you have a neat kitchen, thus an easy time preparing your meals.
+- **Size:** 10.6 inches deep and wide, 7 to 9 inches tall
+- **Tiers:** Two, with 5, 6 or 7 inches of clearance between them
+- **Spin:** Stainless steel ball bearings, full 360 degrees
+- **Setup:** Twist-and-lock, no tools
+- **Price:** $19.99 on YouCopia's site
 
-## **8 Best Lazy Susan Organizers for Your Kitchen**
+A two-tier turntable doubles the space on a shelf. Short items like spice jars go on top. Taller bottles like oil and vinegar go below. Both spin, so the back of both tiers comes forward.
 
-### **[1. Sagler 2 Tier Lazy Susan Turntable](https://www.amazon.com/Sagler-turntable-360-degree-organizers-stain-resistant/dp/B013RXJODU/?tag=kitchenpot-20)**
+The top tier adjusts to three heights. That matters more than it sounds. Bottles vary a lot in height, and a fixed tier often leaves a gap you cannot use. Here you set the gap to fit what you store.
 
-[Check Price on Amazon](https://www.amazon.com/Sagler-turntable-360-degree-organizers-stain-resistant/dp/B013RXJODU/?tag=kitchenpot-20)
+It spins on stainless steel ball bearings. Ball bearings roll smoothly under weight, which is why a full load of glass bottles still turns easily. Cheaper turntables often slide plastic on plastic, which drags once the tray is heavy.
 
-The sagler 2 tier lazy Susan turntable is an amazing two-tier turntable that comes with double the storage space you need.
+At 10.6 inches wide, it fits most upper cabinets. Non-slip feet stop it from sliding when you spin it. Our [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) show where a turntable fits alongside shelf risers and door racks.
 
-Multi-dimensional turntables are perfect for larger cabinets and the sagler 2 tier lazy Susan is a good example of one. This product is also strong and effective.
+**What we like:**
 
-The sagler turntable weighs 10” in diameter and 6” tall. The bottom shelf of the product comes with a clearance of about 4.75”.
+- Two tiers double the usable shelf space
+- Adjustable top tier fits tall and short items
+- Smooth ball-bearing spin under a full load
+- Tool-free setup and low price
 
-The sagler turntable is constructed from long-wearing stainless steel with a clear surface to ward off fingerprints. This ensures that the product maintains a polished and shiny appearance no matter how long you use the product.
+**What to know before you buy:**
 
-Additionally, the sagler turntable is easy to piece together and rotates quite easily. The turntable is the ideal size for stowing spices.
+- Round shape leaves the cabinet corners empty
+- Needs 7 inches of height even at its shortest
 
-You’ll also be excited to know that the product comes at an affordable price.
+**Who should buy it:** Anyone with a standard upper cabinet full of oils, sauces and jars. It is the easiest first step if you are working through our guide on [how to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/).
 
- If you’re in love with orderliness in your cabinets or pantry. Then, the sagler tier lazy Susan turntable is your ideal product.
+[Check Price on Amazon](https://www.amazon.com/YouCopia-SmoothSpin-Two-Tier-Turntable-Organizer/dp/B0GSCNL52L/?tag=kitchenpot-20)
 
-**Pros**
+## 2. [YouCopia MagicTrack Rectangle Turntable](https://www.amazon.com/YouCopia-MagicTrack-Rectangle-Lazy-Susan-Turntable/dp/B0FQXRMSBD/?tag=kitchenpot-20): Best for Fitting More in a Square Cabinet
 
-* The sagler turntable is well built with long-wearing stainless steel material
-* It’s easy to assemble and rotates quite easily
-* The product is pocket friendly
+- **Size:** 10.2 inches deep, 12.5 inches wide, 1.5 inches tall
+- **Spin:** Patent-pending MagicTrack design, rotates 360 degrees on stainless steel ball bearings
+- **Material:** Recycled plastic in speckled white
+- **Setup:** Non-slip feet, no tools
+- **Price:** $19.99 on YouCopia's site
 
-**Cons**
+A normal turntable is round because a rectangle cannot spin in place. Its corners would hit the cabinet walls. YouCopia's MagicTrack solves this with a track that moves the tray forward as it turns. So you get a rectangle's corners without the crash.
 
-* Measuring the trays and cabinet shelf and also fitting the shelf liner to the irregular shapes may take some more time.
+Those corners matter. A circle only covers about 79 percent of the square it sits in. The rest is wasted space in every corner. A rectangle uses the full width of the shelf.
 
-### **2.** [Imex Premium Kidney Shaped Lazy Susan Chrome Corner Organizer (Wire Susan 32” Kidney Shape)](https://www.amazon.com/Imex-Premium-Kidney-Shaped-Lazy-Susan-Chrome-Corner-Organizer/dp/B07J5KY5QL/?tag=kitchenpot-20)
+The tray is low, at 1.5 inches tall. That makes it a good base for tall items like bottles and jars, or for the back of a deep shelf. It is also a good fit for a pantry shelf crowded with cans. Our guide to [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) covers what to stack above it.
 
-[Check Price on Amazon](https://www.amazon.com/Imex-Premium-Kidney-Shaped-Lazy-Susan-Chrome-Corner-Organizer/dp/B07J5KY5QL/?tag=kitchenpot-20)
+YouCopia listed it at $19.99 and in stock. Measure your shelf width as well as depth, since it is 12.5 inches wide.
 
-Imex 32 inches kidney-shaped 2-shelf lazy Susan is a corner cabinet which can sometimes be tricky. However, the corner cabinets are quite spacious.
+**What we like:**
 
-The corner base cabinets come fitted with independently hinged doors. The product is specifically designed for use in corner cabinets and comes in different sizes ranging from 26” to 31” in diameter.
+- Rectangle shape uses the corners a circle wastes
+- Spins forward for easy reach
+- Low profile works under tall items
+- Same price as the round two-tier
 
-The product also features a telescoping shaft that you can easily adjust to fit your cabinet and also mounting hardware.
+**What to know before you buy:**
 
-Another unique feature of the Imex lazy Susan turntable is that the shelves revolve independently. This helps you to find what you’re searching for with ease and without rotating the whole turntable.
+- Needs 12.5 inches of width, not just depth
+- Single tier only
 
-The corner cabinet also helps you to increase storage space in your cabinet. However, this turntable can be difficult to install because of the irregular shape of the corner cabinet.
+**Who should buy it:** Anyone with a deep, square cabinet or pantry shelf who wants every inch used.
 
-**Pros**
+[Check Price on Amazon](https://www.amazon.com/YouCopia-MagicTrack-Rectangle-Lazy-Susan-Turntable/dp/B0FQXRMSBD/?tag=kitchenpot-20)
 
-* The shelves of this turntable revolve independently allowing you to locate your items without turning the whole unit
-* The lazy Susan turntable helps you to maximize your storage space.
-* The product comes with a telescoping shaft that you can adjust easily to fit in your cabinet
+## 3. [YouCopia MagicTrack Spice Turntable](https://www.amazon.com/YouCopia-MagicTrack-Spice-Turntable-2-Tier/dp/B0FQXT71VZ/?tag=kitchenpot-20): Best for Spices
 
-**Cons**
+- **Size:** 10.2 inches deep, 12.5 inches wide, 3.6 inches tall
+- **Capacity:** Up to 24 spice bottles, per YouCopia
+- **Tiers:** Two, with a hidden storage area underneath
+- **Spin:** Stainless steel ball bearings with the MagicTrack forward swing
+- **Price:** $29.99 on YouCopia's site
 
-* The corner cabinet can be difficult to install because of its irregular shape
+This is the MagicTrack built for spice jars. The two tiers are stepped, so the labels on the back row show over the front row. You read every jar at a glance instead of lifting them out.
 
-### 3. [Home Intuitio**n Tier Twin Turntable Non-Skid Lazy Susan**](https://www.amazon.com/Home-Intuition-2-Tier-Turntable-Cabinets/dp/B07PB48Z4V/?tag=kitchenpot-20)
+YouCopia says it holds up to 24 spice bottles. That covers most home collections. There is also a hidden compartment underneath for packets and refills.
 
-[Check Price on Amazon](https://www.amazon.com/Home-Intuition-2-Tier-Turntable-Cabinets/dp/B07PB48Z4V/?tag=kitchenpot-20)
+The low height of 3.6 inches fits even a short cabinet shelf. The forward swing brings jars toward you as it turns. That helps when the turntable sits in a deep cabinet next to the stove.
 
-Home intuition twin turntable non-skid lazy Susan is a 2 tier turntable which aids you in organizing your spices, condiments, and other cooking commodities. The turntable also helps you to access your items with ease.
+At $29.99 it costs more than the plain rectangle. You are paying for the tiers and the extra storage. If you grind your own spices, our picks for the [best pepper mill](/blog/best-pepper-mill/) and the [best salt and pepper grinders](/blog/best-salt-and-pepper-grinders/) fit nicely on the top tier.
 
-Additionally, the home intuition tier twin turntable features a gray non-skid surface which keeps your contents from falling off if you rotate the turntable too fast.
+**What we like:**
 
-The home intuition also features a smart rimmed edge which prevents your items from spilling off the edge. The drips from the items remain on the lazy Susan and do not spill on your shelves as well.
+- Stepped tiers keep every label visible
+- Holds up to 24 spice bottles
+- Hidden storage for packets and refills
+- Low 3.6-inch height fits short shelves
 
-The turntable measures 10.25-inch diameter x 6.25-inch height. The product also comes fitted with a 360-degree spinning wheel which gives you smooth and silent turning easily for all angle access.
+**What to know before you buy:**
 
-**Pros**
+- Pricier than the other picks
+- Sized for standard jars, so tall grinders may not fit
 
-* The 2 tier lazy Susan turntable helps you to organize and access your cooking essentials with ease.
-* The turntable also comes with a gray non-skid surface which keeps your items from slipping around if you rotate it too fast
-* The smart rimmed edge fitted in the turntable prevents your items from slipping off the edge
-* The 360 degrees spinning wheel provides smooth and silent turning easily for all angle access
-* If you have limited space, the turntable will help you to save on the limited space that’s available
+**Who should buy it:** Cooks with a big spice collection in a cabinet near the stove.
 
-**Cons**
+[Check Price on Amazon](https://www.amazon.com/YouCopia-MagicTrack-Spice-Turntable-2-Tier/dp/B0FQXT71VZ/?tag=kitchenpot-20)
 
-* Placing irregularly shaped items on the lazy Susan can be a piece of work
+## 4. [YouCopia SmoothSpin Turntable With 3 Bins](https://www.amazon.com/YouCopia-SmoothSpin-Turntable-3-Bins-Organizer/dp/B0GSDNDQ64/?tag=kitchenpot-20): Best With Bins
 
-### **4.[The Value Line Lazy Susan Organizer](https://www.amazon.com/Rev-Shelf-Kidney-Independent-Rotation/dp/B008BNKTS6/?tag=kitchenpot-20)**
+- **Size:** 10.6 inches deep and wide, 4.2 inches tall
+- **Bins:** Three clear, removable, BPA-free bins
+- **Spin:** Stainless steel ball bearings, full 360 degrees
+- **Setup:** No assembly
+- **Price:** $24.99 on YouCopia's site
 
-[Check Price on Amazon](https://www.amazon.com/Rev-Shelf-Kidney-Independent-Rotation/dp/B008BNKTS6/?tag=kitchenpot-20)
+Loose small items make a turntable messy fast. Packets, tea bags, snack bars and baby food pouches slide around and fall off the edge. Bins fix that.
 
-The value-line comes as a two shelf lazy Susan kitchen cabinet which aids you to maximize your kitchen space.
+This SmoothSpin comes with three clear bins that lift out. You spin the turntable, lift out the bin you need, and carry it to the counter. The clear sides let you see what is inside.
 
-Additionally, the value line features easy access to dry kitchen goods and other cooking essentials. The value line measures 26 to 32-inch inner lower or corner base cabinet heights.
+It is also a good fit for the fridge. A bin of yogurts or condiment packets lifts out whole. Leftovers stay safer when you can see them, as our guides on [how long chicken lasts in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/) and [freezing cream cheese](/blog/can-you-freeze-cream-cheese/) point out.
 
-The cabinet comes with dimensions of 32 x 32 x 26 inches. The shelf is well built and sturdy. The strong plastic construction can hold up to 20 pounds per shelf and is easy to clean.
+YouCopia listed it at $24.99 and in stock. It also sells a six-bin version at $29.99 for a larger shelf.
 
-The value line comes with unique features including a twist-N-lock shaft system and molded polymer Hubs. 
+**What we like:**
 
-The shelf comes with a smooth surface tray surface and is available in white \*11 and almond \*15.
+- Removable bins keep small items tidy
+- Clear sides show what is inside
+- Works in the fridge as well as cabinets
+- No assembly
 
-**Pros**
+**What to know before you buy:**
 
-* It’s durable and easy to clean
-* No need to mount to a cabinet door
-* Easier access to dry kitchen goods and other cooking essentials
+- Bins take up some space a flat tray would use
+- Round shape leaves cabinet corners empty
 
-**Cons**
+**Who should buy it:** Anyone storing packets, snacks or small jars that tend to scatter.
 
-* It can easily break
+[Check Price on Amazon](https://www.amazon.com/YouCopia-SmoothSpin-Turntable-3-Bins-Organizer/dp/B0GSDNDQ64/?tag=kitchenpot-20)
 
-### **5. [InterDesign Linus Lazy Susan Cabinet Turntable](https://www.amazon.com/InterDesign-Linus-Susan-Cabinet-Turntable/dp/B013BU95S8/?tag=kitchenpot-20)– Best for Fridge**
+## Round or Rectangle: Which Fits Your Cabinet?
 
-[Check Price on Amazon](https://www.amazon.com/InterDesign-Linus-Susan-Cabinet-Turntable/dp/B013BU95S8/?tag=kitchenpot-20)
+Round turntables are simple and cheap. They spin in place, so they suit corners, counters and any shelf where you want the whole surface to turn.
 
-Did you know that you can always maintain tidiness in your refrigerator? Well, we’ve you covered. The inter design Linus lazy Susan cabinet turntable will help you to organize and keep your fridge in order.
+Rectangle turntables fit more into a square space. The trade-off is that they need a track to swing forward, and they need more width.
 
-With I design Linus lazy Susan cabinet you will be able to access and store condiments, snacks, and leftovers in your fridge. This will help you to reduce the hassle of arranging and rearranging your foodstuffs when you need to pick some items from the back.
+| Your Space | Best Shape | Why |
+| --- | --- | --- |
+| Standard upper cabinet, 12" deep | Round, 10 to 11" | Spins freely with room for the door |
+| Deep, square pantry shelf | Rectangle | Uses the corners a circle wastes |
+| Blind corner cabinet | Built-in corner unit | Reaches the dead space in the corner |
+| Fridge shelf | Round, with bins | Wipes clean, bins lift out |
+| Countertop by the stove | Round, two-tier | Keeps oils and spices in one spot |
 
-Inter design Linus lazy Susan cabinet measures 14” across and 17.5” tall. The product is available in other sizes too.
+## How to Measure for a Lazy Susan
 
-I design Linus lazy Susan also features a clear plastic design which comes with a thin lip to put in your items intact. The surface of I designs Linus lazy Susan is also textured to minimize slippage.
+Measure twice and the turntable fits the first time.
 
-One of the most unique features about this product is that even when it’s loaded with several items, the turntable still spins well.
+1. **Measure the inside depth of the shelf.** Go from the back wall to the inside of the closed door.
+2. **Subtract about an inch.** That leaves room for the tray to spin without scraping.
+3. **Measure the door opening.** The face frame is often narrower than the inside of the cabinet.
+4. **Measure the height.** For a two-tier turntable, include the tallest item you plan to store.
+5. **Check for hinges and shelf pins.** They can stick out and block a spin.
 
-The inter design Linus lazy Susan is one product that you will love and will become essential in your kitchen. The product is high-quality and unbelievably convenient. 
+A turntable that is too big is worse than none. It jams, and items fall off as it catches.
 
-**Pros**
+## What About Corner Cabinet Lazy Susans?
 
-* The product saves you the hassle of rearranging everything when you need an item from the back
-* The clear plastic design features a thin lip to keep your items in place to prevent spillage
-* The product helps you to easily store condiments, leftovers, and snacks in your fridge
+Blind corner cabinets are the hardest space in any kitchen. A built-in lazy Susan mounts on a center pole and spins large shelves through the corner.
 
-**Cons**
+They come in a few shapes. Kidney-shaped shelves have a notch cut out so the door can close. Pie-cut shelves have a wedge missing and attach to an L-shaped door. Full-circle shelves need a cabinet with a diagonal door.
 
-* Comes with less durable material
+These are a bigger project than a loose turntable. You measure the cabinet, install the pole, and sometimes adjust the door. We checked Rev-A-Shelf, a major maker of these units. Its polymer, value line and chrome kidney-shaped series all showed "Coming Soon" on its site when we checked. So we have not recommended a specific model here.
 
-### **6. [Copco 2555-0190 Non-Skid Pantry Cabinet Lazy Susan Turntable](https://www.amazon.com/Copco-2555-0190-Non-Skid-Cabinet-Turntable/dp/B0036OQWTU/?tag=kitchenpot-20)**
+If your corner cabinet holds pots and pans, a turntable may not be the right tool. Our guides on [how to store pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) and [how to organize pot lids](/blog/how-to-organize-pot-lids-in-a-small-kitchen/) cover better options.
 
-[Check Price on Amazon](https://www.amazon.com/Copco-2555-0190-Non-Skid-Cabinet-Turntable/dp/B0036OQWTU/?tag=kitchenpot-20)
+## Where a Lazy Susan Works Best
 
-One of the most habitual uses of lazy Susan is in the larder or the cookhouse cabinets. 
+A turntable earns its space where items get lost.
 
-Lazy Susans assists you in storing up your spices, dressings, and much more.
+- **Upper cabinets next to the stove.** Oils, vinegars and sauces within reach.
+- **The pantry.** Baking supplies, spreads and small jars. Our guide on [keeping pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/) explains why sealed containers on a turntable help.
+- **The fridge.** Condiments, jams and yogurts that disappear at the back.
+- **Under the sink.** Cleaning sprays, if the pipes leave room to spin.
+- **The counter.** A two-tier turntable keeps daily items in one tidy spot.
 
-If you on a search for the ultimate lazy Susan for use in your cabinets, you should certainly check out the Copco 2555-0190 non-skid pantry cabinet lazy Susan turntable.
+It works less well for big, heavy or flat items. Stacks of plates and large pots are better on a shelf or rack. Our [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) cover what should stay out and what should go away.
 
-Copco non-skid pantry cabinet lazy Susan turntable measures 12” across and 1.5” high. The product also features different sizes, including 9” and 18”.
+## Why Ball Bearings Matter
 
-With this in mind, this amazing product allows you to select the option that best suits your sideboards. 
+The spin is the whole point, so the mechanism matters.
 
- The Copco non-skid pantry cabinet is a plastic turntable that comes fitted with a small lip to prevent your contents from falling off. 
+Cheaper turntables often rest a plastic tray on a plastic base. That works when the tray is light. Load it with glass bottles and it drags, sticks, or tips.
 
-Additionally, the product is lined with a non-skid material to keep its items from sliding around.
+Ball bearings sit in a ring between the tray and the base. They roll instead of rub, so friction stays low even under weight. All four picks here use stainless steel ball bearings, per YouCopia.
 
-Another amazing feature about the Copco non-skid pantry cabinet is that even when it’s loaded with heavy items like cans of pre-cooked foods, it still turns easily.
+A good spin also keeps you from spilling. A turntable that sticks and then jumps can knock over an open bottle.
 
-The product also comes with a unique feature. Even if you happen to spin the turntable too fast, the non-skid surface of the product keeps your contents from flying up.
+## How to Set Up a Lazy Susan So It Stays Tidy
 
-The Copco non-skid pantry cabinet is also a pocket-friendly product.
+A turntable only helps if it stays organized.
 
-**Pros**
+1. **Group by use.** Baking supplies on one, cooking oils on another.
+2. **Put tall items in the center.** Short items go on the edge where you can see them.
+3. **Leave a small gap between items.** Crowded trays tip when they spin.
+4. **Label the shelf edge.** It helps everyone put things back.
+5. **Clean it every few months.** Wipe up drips before they get sticky.
 
-* The product comes fitted with a small lip to prevent your items from falling off.
-* The turntable also features a non-skid material to prevent its contents from sliding around
-* Copco non-skid pantry cabinet also turns easily when loaded with heavy items like cans of pre-cooked foods.
+Pair it with good containers. Clear, airtight jars keep dry goods fresh and let you see levels. Our picks for the [best airtight food storage containers](/blog/best-airtight-food-storage-containers/) include sizes that fit a turntable.
 
-**Cons**
+## What to Store on a Kitchen Lazy Susan
 
-* The lip around the edge is too tall in that you can’t fit some bottles due to there being a shelf above.
+The right items make a turntable useful. The wrong ones make it a mess.
 
-### **7. [Lazy Susan Turntable Cabinet Organizer-Qunweidi Kitchen Cabinet Organizer,360° Spinning Storage](https://www.amazon.com/Lazy-Susan-Turntable-Cabinet-Organizer-Qunweidi-Kitchen-Cabinet-Organizer/dp/B07QWNM9FR/?tag=kitchenpot-20)**
+| Store This | Why It Works | Where |
+| --- | --- | --- |
+| Cooking oils and vinegars | Tall bottles you grab daily | Two-tier, bottom level |
+| Spice jars | Small, many, and easy to lose | Stepped spice turntable |
+| Baking supplies | Baking soda, extracts, sprinkles | Pantry shelf, round |
+| Condiments and jams | Jars that vanish at the back | Fridge, with bins |
+| Canned goods | Heavy, stackable, need rotating | Rectangle, low profile |
+| Snack packets and tea | Small and loose | Turntable with bins |
 
-[Check Price on Amazon](https://www.amazon.com/Lazy-Susan-Turntable-Cabinet-Organizer-Qunweidi-Kitchen-Cabinet-Organizer/dp/B07QWNM9FR/?tag=kitchenpot-20)
+Oils are the most common thing people move to a turntable. They sit next to the stove, and you reach for them every night. If you are sorting your oils anyway, our guide to the [best oil for air fryers](/blog/best-oil-for-air-fryer/) explains which ones handle high heat.
 
-This lazy Susan turntable is a unique product that comes with high edges and separate storage compartments. This gives you even more storage choices in your larder.
+Baking supplies are the next easy win. Keep thickeners, leaveners and extracts together, so you are not hunting through the pantry mid-recipe. Our guide on [what to use instead of cornstarch](/blog/what-to-use-instead-of-cornstarch/) is handy when a jar runs out. Cans of coconut milk, tomato paste and beans work well too, and our [coconut milk substitute](/blog/best-coconut-milk-substitute/) guide helps when the can at the back turns out to be empty.
 
-The turntable organizer is 11.5” across and 4.4” tall. Qunweidi deep lazy Susan turntable is divided into five sections.
+In the fridge, a turntable pays off most for people who meal prep. Containers stay visible, so food gets eaten before it spoils. Our [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) show how to plan the week around that shelf. If you only keep drinks cold, our [best mini fridge for beer](/blog/best-mini-fridge-for-beer/) guide covers compact fridges that suit a turntable too.
 
-Additionally, Qunweidi design deep lazy Susan turntable spins 360 degrees for all-angle access. This turntable organizer is ideal for storing food pockets, snack bags, and other shaped items.
+Potatoes and onions are one thing to keep off. They need a cool, dark, airy spot, not a closed cabinet next to the stove. Our guide on [how long potatoes last](/blog/how-long-do-potatoes-last/) explains where they keep best.
 
-Qunweidi design deep lazy Susan turntable is also suitable for kids’ munch, baby food, and medications, which means the product is flexible.
+## Common Lazy Susan Mistakes
 
-More so, the Qunweidi design lazy Susan turntable organizer is well constructed and spins perfectly.
+- **Buying too big.** An oversized tray hits the door and jams. Always subtract an inch from the depth.
+- **Overloading one side.** An unbalanced tray wobbles and can tip bottles. Spread heavy items evenly.
+- **Mixing categories.** A tray of oils, vitamins and tea bags becomes a junk drawer that spins.
+- **Using it for heavy cookware.** Pots and pans belong on racks or in drawers. See our guide on [how to organize pots and pans](/blog/how-to-organize-pots-and-pans/).
+- **Skipping the fridge.** The fridge is often the spot where a turntable saves the most food.
 
-**Pros**
+If you are setting up a kitchen from scratch, a turntable belongs on the short list. Our checklist on [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) covers the rest.
 
-* The product comes with a thin lip to keep items in place
-* The turntable is textured to minimize spillage
-* It’s high quality and superbly convenient
+## Which Lazy Susan Should You Buy?
 
-**Cons**
+Buy the **SmoothSpin Two-Tier** if you want one turntable for a standard cabinet full of bottles and jars.
 
-* To handle the lazy Susan turntable you have to be extra cautious so that its content doesn’t fall and break.
-* This product is 11.5 inches in diameter, that means it may be too large for small cabinets
-* The turntable is not dishwasher friendly
+Pick the **MagicTrack Rectangle** if your shelf is deep and square and you want to use the corners.
 
-### **8. [Copco 2555-0191 Non-Skid Pantry Cabinet Lazy Susan Turntable, 9-Inch, White/Gray](https://www.amazon.com/Copco-2555-0191-Non-Skid-Cabinet-Turntable/dp/B0036OQU1U/?tag=kitchenpot-20)**
+Choose the **MagicTrack Spice** turntable if you have a big spice collection near the stove.
 
-[Check Price on Amazon](https://www.amazon.com/Copco-2555-0191-Non-Skid-Cabinet-Turntable/dp/B0036OQU1U/?tag=kitchenpot-20)
+Get the **SmoothSpin With 3 Bins** if you store small loose items or want a fridge organizer.
 
-Copco 2551-0191 non-skid pantry is your ideal lazy Susan organizer. With this turntable, you can easily arrange your kitchen, your refrigerator, hobby room, your craft, or even your shower room cabinets.
+Once your cabinets are sorted, the drawers are next. Our guide to [organizing kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) picks up where this leaves off.
 
-The Copco lazy Susan turntable measures a 3/8-inch rim stops your items from spilling as you rotate the turntable.
+## Related Guides
 
-Copco 2555-0191 non-skid pantry cabinet also features an easy-glide, rotating storage space which increases your cabinet space and keeps your kitchen neat and organized.
-
-The turntable comes with exterior measures 1-1/2 inch x 9-inch diameter and interior measures roughly 1 to ½ inch smaller.
-
-Copco lazy Susan turntable also comes with a non-skid surface on the turntables which is molded into the platforms for longevity and an easy to clean surface.
-
-**Pros**
-
-* The turntable comes with an easy-glide, rotating storage space which increases space and keeps your kitchen neat and organized
-* The lazy Susan cabinet features a 3/8-inch rim which prevents your items from falling off.
-* The non-skid surface on turntables is molded into the platforms for longevity and easy to clean surfaces
-
-**Cons** 
-
-* The Copco non-skid pantry cabinet lazy Susan turntable can be quite difficult and expensive to maintain
-
-## **Best Lazy Susan Kitchen Organizers- Buyers Guide**
-
-Adding an amazing turntable in your kitchen arsenal sounds like a brilliant idea, right? Well, there is no doubt that your best lazy Susan kitchen organizer will help maintain orderliness in your kitchen and also your refrigerator.
-
-Additionally, the best lazy Susan kitchen organizers will, for sure, be your ticket to a tidy kitchen! Ensuring that your kitchen cabinet is neat and gaining easy access to different items in the cabinet will be a blissful exercise only if you invest in the best lazy Susan kitchen organizers
-
-While the benefits of the best lazy Susan turntables may be undisputed, getting one can a piece of work. It requires that you understand your preferences and needs before deciding on which one to purchase.
-
-This section will offer a comprehensive guide on the factors to consider when buying the best lazy Susan kitchen organizers.
-
-### **What to Consider When Buying Your Best Lazy Susan Kitchen Organizers**
-
-* **Diameter**
-
-Before deciding on the best lazy Susan to purchase, it’s essential to look at the diameter. This is because the diameter of a lazy Susan dictates the actual size of the turntable.
-
-Regardless of what you want to purchase a small or large lazy Susan, you will have to check the length of their diameters.
-
-Normally, the diameters of the best lazy Susan kitchen organizers fall between 12” and 36”. Although you can also find the ones that are larger than 36”.
-
-* **Size of the Plate**
-
-Knowing the correct size of the plate of the type of the lazy Susan you need to purchase, will help you to know the volume of space that will be in the center of the table for revolving the tray.
-
-* **Lazy Susan Material**
-
-When purchasing the best lazy Susan kitchen organizers, you should always consider the different types of materials that are used to make the lazy Susan. 
-
-The materials include glass, even wire, polymer, and wood.
-
-Always bear in mind that each construction material has a distinctive set of properties. 
-
-Before buying your lazy Susan be it glass lazy Susan or wood lazy Susan ensure you take your time to examine what you want and what material of lazy Susan matches with your tabletop.
-
-* **Lazy Susan Styles**
-
-When we say lazy Susan styles, we refer to the shapes, appearance, and looks of the lazy Susan. When buying a lazy Susan you have to consider what shape suits you best.
-
-Some of the shapes that you can consider when buying lazy Susan organizers include:
-
-* Pie cut lazy Susan
-* Full round lazy Susan,
-* D-shaped lazy Susan
-* Kidney-shaped lazy Susan
-
-From all these shapes, which one do you feel fits your kitchen cabinet well? Your best lazy Susan should have the ideal shape to fit into your cabinets and offer enough aesthetic appeal. 
-
-## **Best Lazy Susan Kitchen Organizers – The Bottom Line**
-
-There is no doubt whatsoever that the best lazy Susan kitchen organizer is an awesome addition to your kitchen arsenal. 
-
-These small, flimsy kitchen products will help you effectively store and organize your kitchen cooking essentials. The product will also help you to pick the items that you need without rearranging your cabinets.
-
-Even more exciting, most of the best lazy Susan organizers come packaged with revolving shelves to help you maximize the amount of storage space in the sideboard. This way you can be sure of increasing the capability and organization of your dining table and your kitchen
-
-However, the challenge may come when you step out to shop! What exactly should you consider before settling for the best lazy Susan organizers? 
-
-Well, this article has summed it all up for you. The well-researched list will certainly allow you to shop for your best lazy Susan kitchen organizer without digging deep into your pockets.
+- [How to Clean a Dishwasher](/blog/how-to-clean-a-dishwasher/)
+- [Pots and Pans Rack Reviews](/blog/pots-and-pans-rack-reviews/)
+- [Best Magnetic Knife Strip](/blog/best-magnetic-knife-strip/)
+- [Best Over the Sink Cutting Board](/blog/best-over-the-sink-cutting-board/)
+- [Best Dinnerware Sets](/blog/7-best-dinnerware-sets/)
+- [Space-Saving Baking Tool Essentials](/blog/space-saving-baking-tool-essentials/)
+- [Best Bakeware for Small Kitchens](/blog/best-bakeware-for-small-kitchens/)
