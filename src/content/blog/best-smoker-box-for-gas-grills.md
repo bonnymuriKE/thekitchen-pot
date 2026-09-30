@@ -47,9 +47,9 @@ Here are a few steps that’ll guide you through the process:
 
 ## **8 Best Smoker Boxes for Gas Grills**
 
-1. **[Cave Tools Smoker Box](https://www.amazon.com/Cave-Tools-Smoker-Box-Grill/dp/B011VJ51J8?tag=kitchenpot-20)**
+1. **[Cave Tools Smoker Box](https://www.amazon.com/Cave-Tools-Smoker-Box-Grill/dp/B011VJ51J8/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Cave-Tools-Smoker-Box-Grill/dp/B011VJ51J8?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cave-Tools-Smoker-Box-Grill/dp/B011VJ51J8/?tag=kitchenpot-20)
 
 This smoker box is amazingly easy to use, and it’s made of 25 percent thick stainless steel material, making it warp-resistant and durable to serve you extensively.
 
@@ -80,9 +80,9 @@ The best thing is that this box is perfectly sized and can fit between grill gra
 
 * Too thick for early heating
 
-2. **[Weber 7576 Smoker Box](https://www.amazon.com/Weber-7576-Universal-Stainless-Smoker/dp/B005LRKF7U?tag=kitchenpot-20)**
+2. **[Weber 7576 Smoker Box](https://www.amazon.com/Weber-7576-Universal-Stainless-Smoker/dp/B005LRKF7U/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/Weber-7576-Universal-Stainless-Smoker/dp/B005LRKF7U?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Weber-7576-Universal-Stainless-Smoker/dp/B005LRKF7U/?tag=kitchenpot-20)
 
 This 9.8 by 4.8 by 2 inch sized smoker box from Weber is a bit larger, but it’s designed to fit in any gas grill to allow you to place it on grill grates for perfect meat smoking. Fill the box with the selected soaked wood chips in excess then cook your meat extensively for proper results. No frequent refills!
 
@@ -112,9 +112,9 @@ The box has many smoke holes on the upper part to allow smoke exit lavishly to c
 * Can get discolored after extended use
 * May warp easily
 
-3. **[Charcoal Companion V-Shape Smoker Box for Gas Grill](https://www.amazon.com/Charcoal-Companion-Stainless-V-Shape-Smoker/dp/B002WJIQGW?tag=kitchenpot-20)**
+3. **[Charcoal Companion V-Shape Smoker Box for Gas Grill](https://www.amazon.com/Charcoal-Companion-Stainless-V-Shape-Smoker/dp/B002WJIQGW/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/Charcoal-Companion-Stainless-V-Shape-Smoker/dp/B002WJIQGW?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Charcoal-Companion-Stainless-V-Shape-Smoker/dp/B002WJIQGW/?tag=kitchenpot-20)
 
 This product from charcoal companion comes in two different sizes, and it’s constructed in V-shape to fit in the flavorizer bars of gas grills. Also, the shape gives room for optimum heat distribution, generating thick tons of smoke for smoky-flavored meat.
 
@@ -144,9 +144,9 @@ The number of holes on the upper part is essential in proper smoke exudation out
 * Can easily rust
 * The box has a small capacity compared to others, thus can’t accommodate a significant amount of wood chips
 
-### **4. [Smoker Box for Wood Chips – Use a Gas or Charcoal BBQ Grill](https://www.amazon.com/Smoker-Box-Wood-Chips-Delicious/dp/B078GSGJHH?tag=kitchenpot-20)** 
+### **4. [Smoker Box for Wood Chips – Use a Gas or Charcoal BBQ Grill](https://www.amazon.com/Smoker-Box-Wood-Chips-Delicious/dp/B078GSGJHH/?tag=kitchenpot-20)** 
 
-[Check Latest Price on Amazon](https://www.amazon.com/Smoker-Box-Wood-Chips-Delicious/dp/B078GSGJHH?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Smoker-Box-Wood-Chips-Delicious/dp/B078GSGJHH/?tag=kitchenpot-20)
 
 If you consider its length, you can end up calling this handy product from Mountain Grillers, a small BBQ box, but its unique design helps in boosting a smokier flavor.
 
@@ -177,9 +177,9 @@ A big thanks to its unique hinged design to help you remove and add wood chips f
 
 * The box can easily warp due to extreme heat and overexposure.
 
-5. **[Char-Broil Cast Iron Smoker Box](https://www.amazon.com/Char-Broil-Cast-Iron-Smoker-Box/dp/B0001B50B2?tag=kitchenpot-20)**
+5. **[Char-Broil Cast Iron Smoker Box](https://www.amazon.com/Char-Broil-Cast-Iron-Smoker-Box/dp/B0001B50B2/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/Char-Broil-Cast-Iron-Smoker-Box/dp/B0001B50B2?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Char-Broil-Cast-Iron-Smoker-Box/dp/B0001B50B2/?tag=kitchenpot-20)
 
 Char-Broil iron smoker is designed to stay hot for a long time and can withstand high grill temperatures compared to other smoker boxes for gas grill. It features a large and vented lid design so that smoke can be directed towards your meat for an adequate amount of heat and flavor.
 
@@ -205,9 +205,9 @@ The lid has holes to allow oxygen in without triggering the fire. Thanks to the 
 
 * It may take long before getting hot.
 
-6. **[Grillaholics Smoker Box](https://www.amazon.com/Grillaholics-Barbecue-Grilling-Accessories-Stainless/dp/B01J6OY6DM?tag=kitchenpot-20)**
+6. **[Grillaholics Smoker Box](https://www.amazon.com/Grillaholics-Barbecue-Grilling-Accessories-Stainless/dp/B01J6OY6DM/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Grillaholics-Barbecue-Grilling-Accessories-Stainless/dp/B01J6OY6DM?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Grillaholics-Barbecue-Grilling-Accessories-Stainless/dp/B01J6OY6DM/?tag=kitchenpot-20)
 
 The Grillaholics smoker box smolders your wood chips slowly instead of burning them in a fiery inferno. It is easy to use the box, and all you need to do is inserting the flavored dry wood chips on the device then placing on the flame. The box will do the work for you.
 
@@ -236,9 +236,9 @@ Additionally, it has a hinged lid for easy and quick access, and the smoker box 
 * The lid may get warped and discolor after some time
 * The cover can get jammed after a few days
 
-7. **[Broil King 60190](https://www.amazon.com/Broil-King-60190-Stainless-Smoker/dp/B00ATWB314?tag=kitchenpot-20)**
+7. **[Broil King 60190](https://www.amazon.com/Broil-King-60190-Stainless-Smoker/dp/B00ATWB314/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Broil-King-60190-Stainless-Smoker/dp/B00ATWB314?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Broil-King-60190-Stainless-Smoker/dp/B00ATWB314/?tag=kitchenpot-20)
 
 The Broil King is a smoker box for a gas grill that lets you boost the same savory and smoky flavor that a traditional smoker makes. It’s designed to operate on any gas grill as it comes with a flat base to make it sit directly on top of cooking grids.
 
@@ -267,9 +267,9 @@ It’s a portable product that only weighs 2 pounds and the dimensions are 3.2 b
 * Can discolor after repeated use
 * May be challenging to use
 
-8. **[Cuisinart CSB-156 Smoker Box](https://www.amazon.com/Cuisinart-CSB-156-Wood-Chip-Smoker/dp/B005TGY0JM?tag=kitchenpot-20)**
+8. **[Cuisinart CSB-156 Smoker Box](https://www.amazon.com/Cuisinart-CSB-156-Wood-Chip-Smoker/dp/B005TGY0JM/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Cuisinart-CSB-156-Wood-Chip-Smoker/dp/B005TGY0JM?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-CSB-156-Wood-Chip-Smoker/dp/B005TGY0JM/?tag=kitchenpot-20)
 
 This Cuisinart smoker box adds an incredible smoky flavor to all your grilled foods without any mess. The box features a high-quality steel construction that can resist high temperatures without warping and works well when filled with mesquite, hickory, pre-soaked cedar, and other wood chips.
 

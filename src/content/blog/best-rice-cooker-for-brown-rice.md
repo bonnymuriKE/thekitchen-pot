@@ -56,12 +56,12 @@ A brown rice program handles all three automatically. Our step-by-step on [how t
 
 ## Top Picks for Brown Rice
 
-- **Best overall:** [Zojirushi NS-ZCC10 Neuro Fuzzy 5.5-Cup](https://www.amazon.com/dp/B00AB857C2/?tag=kitchenpot-20)
-- **Best for fast brown rice:** [Cuckoo CRP-P0609S Pressure Rice Cooker](https://www.amazon.com/dp/B01JRTZVVM/?tag=kitchenpot-20)
-- **Best value:** [Toshiba TRCS01 6-Cup Fuzzy Logic Rice Cooker](https://www.amazon.com/dp/B0838SMXFZ/?tag=kitchenpot-20)
-- **Best compact pick:** [Zojirushi NS-LGC05 3-Cup Micom](https://www.amazon.com/dp/B01EVHWNVG/?tag=kitchenpot-20)
-- **Best budget multicooker:** [Aroma ARC-954SBD Professional 4-Cup](https://www.amazon.com/dp/B077NMPKBL/?tag=kitchenpot-20)
-- **Best multitasker:** [Instant Pot Duo 6-Quart](https://www.amazon.com/dp/B00FLYWNYQ/?tag=kitchenpot-20)
+- **Best overall:** [Zojirushi NS-ZCC10 Neuro Fuzzy 5.5-Cup](https://www.amazon.com/Zojirushi-NS-ZCC10-Neuro-Fuzzy-5-5-Cup/dp/B00AB857C2/?tag=kitchenpot-20)
+- **Best for fast brown rice:** [Cuckoo CRP-P0609S Pressure Rice Cooker](https://www.amazon.com/Cuckoo-CRP-P0609S-Pressure-Rice-Cooker/dp/B01JRTZVVM/?tag=kitchenpot-20)
+- **Best value:** [Toshiba TRCS01 6-Cup Fuzzy Logic Rice Cooker](https://www.amazon.com/Toshiba-TRCS01-6-Cup-Fuzzy-Logic-Rice-Cooker/dp/B0838SMXFZ/?tag=kitchenpot-20)
+- **Best compact pick:** [Zojirushi NS-LGC05 3-Cup Micom](https://www.amazon.com/Zojirushi-NS-LGC05-3-Cup-Micom/dp/B01EVHWNVG/?tag=kitchenpot-20)
+- **Best budget multicooker:** [Aroma ARC-954SBD Professional 4-Cup](https://www.amazon.com/Aroma-ARC-954SBD-Professional-4-Cup/dp/B077NMPKBL/?tag=kitchenpot-20)
+- **Best multitasker:** [Instant Pot Duo 6-Quart](https://www.amazon.com/Instant-Pot-Duo-6-Qt-7-in-1/dp/B00FLYWNYQ/?tag=kitchenpot-20)
 
 ## Brown Rice Cookers Compared
 
@@ -111,7 +111,7 @@ The delay timer is what makes brown rice practical on a weeknight. Load it in th
 
 **Who should buy it:** Anyone who eats brown rice regularly and wants to stop thinking about it. If you are building a kit from scratch, see our [checklist for stocking a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00AB857C2/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Zojirushi-NS-ZCC10-Neuro-Fuzzy-5-5-Cup/dp/B00AB857C2/?tag=kitchenpot-20)
 
 ## 2. Cuckoo CRP-P0609S Pressure Rice Cooker: Best for Fast Brown Rice
 
@@ -144,7 +144,7 @@ The auto clean cycle is a real convenience with a pressure lid, because the inne
 
 **Who should buy it:** Households that eat brown rice several times a week and will not wait 90 minutes for it. Also see our notes on [how many watts an Instant Pot uses](/blog/how-many-watts-does-an-instant-pot-use/) if power draw in a small apartment is a concern.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01JRTZVVM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuckoo-CRP-P0609S-Pressure-Rice-Cooker/dp/B01JRTZVVM/?tag=kitchenpot-20)
 
 ## 3. Toshiba TRCS01 6-Cup Fuzzy Logic Rice Cooker: Best Value
 
@@ -177,7 +177,7 @@ Two independent delay timers are a useful touch at this price, letting you set b
 
 **Who should buy it:** Families and batch cookers who want good brown rice at a fair price. If you are short on counter space, our [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) help you find somewhere for it.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0838SMXFZ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Toshiba-TRCS01-6-Cup-Fuzzy-Logic-Rice-Cooker/dp/B0838SMXFZ/?tag=kitchenpot-20)
 
 ## 4. Zojirushi NS-LGC05 3-Cup Micom: Best Compact Pick
 
@@ -210,7 +210,7 @@ The oatmeal setting is the quiet bonus for anyone cooking for themselves. It han
 
 **Who should buy it:** Solo cooks, couples, studio and dorm kitchens. Pair it with [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) to find it a home off the counter.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01EVHWNVG/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Zojirushi-NS-LGC05-3-Cup-Micom/dp/B01EVHWNVG/?tag=kitchenpot-20)
 
 ## 5. Aroma ARC-954SBD Professional 4-Cup: Best Budget Multicooker
 
@@ -243,7 +243,7 @@ The stainless exterior is a small durability win over the plastic bodies at this
 
 **Who should buy it:** First apartments, students, and anyone who wants a rice cooker, steamer and slow cooker without buying three machines. Our roundup of the [most energy-efficient small kitchen appliances](/blog/most-energy-efficient-small-kitchen-appliances/) explains why consolidating appliances usually saves power too.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B077NMPKBL/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Aroma-ARC-954SBD-Professional-4-Cup/dp/B077NMPKBL/?tag=kitchenpot-20)
 
 ## 6. Instant Pot Duo 6-Quart: Best Multitasker
 
@@ -276,7 +276,7 @@ The steam function is the underrated part for small kitchens. With a basket, one
 
 **Who should buy it:** Anyone with room for one appliance who cooks more than rice. If you need somewhere to put it, our guide to [organizing a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) has workable ideas.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00FLYWNYQ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Instant-Pot-Duo-6-Qt-7-in-1/dp/B00FLYWNYQ/?tag=kitchenpot-20)
 
 ## Fuzzy Logic, Induction or Pressure?
 
@@ -289,7 +289,7 @@ The heating method decides how good the brown rice is and how long you wait for 
 | Induction heating | 80 to 110 min | Most even of all | Highest | Slow and expensive |
 | Electric pressure | 30 to 40 min | Soft, slightly wetter | Mid to high | Gasket care, less precise |
 
-Induction is the step up from fuzzy logic: instead of heating a plate under the pot, it heats the pot itself, which gives the most even result over a long brown rice cycle. If that appeals, the [Zojirushi NP-HCC10XH induction model](https://www.amazon.com/dp/B00VAG84O2/?tag=kitchenpot-20) is the usual starting point, though it costs considerably more than the Neuro Fuzzy for a difference most people notice only in side-by-side bowls.
+Induction is the step up from fuzzy logic: instead of heating a plate under the pot, it heats the pot itself, which gives the most even result over a long brown rice cycle. If that appeals, the [Zojirushi NP-HCC10XH induction model](https://www.amazon.com/Zojirushi-NP-HCC10XH-induction-model/dp/B00VAG84O2/?tag=kitchenpot-20) is the usual starting point, though it costs considerably more than the Neuro Fuzzy for a difference most people notice only in side-by-side bowls.
 
 There is a fourth route worth knowing about if your kitchen has no room for a single-purpose machine. A multi-tier electric food steamer cooks vegetables, fish and dumplings in stacked baskets and stores flatter than a rice cooker. BUYDEEM makes a 5.3-quart electric food steamer in that style.
 
@@ -336,12 +336,12 @@ Cooling rice in a compact fridge fills shelves fast, so shallow containers matte
 
 ## Which Rice Cooker Should You Buy?
 
-- **You eat brown rice most weeks and want it right every time:** the [Zojirushi NS-ZCC10 Neuro Fuzzy](https://www.amazon.com/dp/B00AB857C2/?tag=kitchenpot-20).
-- **You will not wait 90 minutes:** the [Cuckoo CRP-P0609S](https://www.amazon.com/dp/B01JRTZVVM/?tag=kitchenpot-20).
-- **You want fuzzy logic without the flagship price:** the [Toshiba TRCS01](https://www.amazon.com/dp/B0838SMXFZ/?tag=kitchenpot-20).
-- **You cook for one or two and your counter is full:** the [Zojirushi NS-LGC05](https://www.amazon.com/dp/B01EVHWNVG/?tag=kitchenpot-20).
-- **You want a rice cooker, steamer and slow cooker in one cheap box:** the [Aroma ARC-954SBD](https://www.amazon.com/dp/B077NMPKBL/?tag=kitchenpot-20).
-- **You have room for exactly one appliance:** the [Instant Pot Duo](https://www.amazon.com/dp/B00FLYWNYQ/?tag=kitchenpot-20).
+- **You eat brown rice most weeks and want it right every time:** the [Zojirushi NS-ZCC10 Neuro Fuzzy](https://www.amazon.com/Zojirushi-NS-ZCC10-Neuro-Fuzzy-5-5-Cup/dp/B00AB857C2/?tag=kitchenpot-20).
+- **You will not wait 90 minutes:** the [Cuckoo CRP-P0609S](https://www.amazon.com/Cuckoo-CRP-P0609S-Pressure-Rice-Cooker/dp/B01JRTZVVM/?tag=kitchenpot-20).
+- **You want fuzzy logic without the flagship price:** the [Toshiba TRCS01](https://www.amazon.com/Toshiba-TRCS01-6-Cup-Fuzzy-Logic-Rice-Cooker/dp/B0838SMXFZ/?tag=kitchenpot-20).
+- **You cook for one or two and your counter is full:** the [Zojirushi NS-LGC05](https://www.amazon.com/Zojirushi-NS-LGC05-3-Cup-Micom/dp/B01EVHWNVG/?tag=kitchenpot-20).
+- **You want a rice cooker, steamer and slow cooker in one cheap box:** the [Aroma ARC-954SBD](https://www.amazon.com/Aroma-ARC-954SBD-Professional-4-Cup/dp/B077NMPKBL/?tag=kitchenpot-20).
+- **You have room for exactly one appliance:** the [Instant Pot Duo](https://www.amazon.com/Instant-Pot-Duo-6-Qt-7-in-1/dp/B00FLYWNYQ/?tag=kitchenpot-20).
 
 Before you order, measure the gap between your counter and the wall cabinet above it. Rice cooker lids hinge upward, and a machine that will not open where you plan to keep it is the most avoidable mistake in this category.
 

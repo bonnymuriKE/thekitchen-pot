@@ -44,12 +44,12 @@ Below are six real sets, sorted by what they are actually good at, plus a plain 
 
 ## Quick Picks
 
-- **Best overall:** [HaSteeL 2-Pack Fish Spatula Turner Set](https://www.amazon.com/dp/B07V3JVQZT/?tag=kitchenpot-20)
-- **Best wooden-handle pair:** [Leonyo Slotted Fish Turner Set of 2](https://www.amazon.com/dp/B085DVW51V/?tag=kitchenpot-20)
-- **Best blade sizes for small pans:** [2-Pack Offset Fish Spatula Turner Set](https://www.amazon.com/dp/B0BJ6KB675/?tag=kitchenpot-20)
-- **Best three-piece mix:** [Berglander Stainless Steel Spatula Set, 3 Pieces](https://www.amazon.com/dp/B0FT32M321/?tag=kitchenpot-20)
-- **Best for cast iron and flat tops:** [Professional Chef Griddle Spatula Set of 3](https://www.amazon.com/dp/B072MXWDD6/?tag=kitchenpot-20)
-- **Best for baking:** [PUCKWAY Offset Icing Spatula Set of 3](https://www.amazon.com/dp/B01N8RK5TH/?tag=kitchenpot-20)
+- **Best overall:** [HaSteeL 2-Pack Fish Spatula Turner Set](https://www.amazon.com/HaSteeL-2-Pack-Fish-Spatula-Turner-Set/dp/B07V3JVQZT/?tag=kitchenpot-20)
+- **Best wooden-handle pair:** [Leonyo Slotted Fish Turner Set of 2](https://www.amazon.com/Leonyo-Slotted-Fish-Turner-Set-of-2/dp/B085DVW51V/?tag=kitchenpot-20)
+- **Best blade sizes for small pans:** [2-Pack Offset Fish Spatula Turner Set](https://www.amazon.com/2-Pack-Offset-Fish-Spatula-Turner-Set/dp/B0BJ6KB675/?tag=kitchenpot-20)
+- **Best three-piece mix:** [Berglander Stainless Steel Spatula Set, 3 Pieces](https://www.amazon.com/Berglander-Stainless-Steel-Spatula-Set-3-Pieces/dp/B0FT32M321/?tag=kitchenpot-20)
+- **Best for cast iron and flat tops:** [Professional Chef Griddle Spatula Set of 3](https://www.amazon.com/Professional-Chef-Griddle-Spatula-Set-of-3/dp/B072MXWDD6/?tag=kitchenpot-20)
+- **Best for baking:** [PUCKWAY Offset Icing Spatula Set of 3](https://www.amazon.com/PUCKWAY-Offset-Icing-Spatula-Set-of-3/dp/B01N8RK5TH/?tag=kitchenpot-20)
 
 ## How a Metal Spatula Actually Works
 
@@ -113,9 +113,9 @@ The practical reason to choose this version over a wooden-handled one is the dis
 
 **Who should buy it:** Anyone replacing a drawer full of warped plastic turners with one set that handles cast iron, stainless and the grill. It pairs naturally with a [cast iron skillet](/blog/lodge-cast-iron-skillet-review/) and with stainless cookware you already preheat properly.
 
-Worth skimming the [owner reviews for this set](https://www.amazon.com/product-reviews/B07V3JVQZT/?tag=kitchenpot-20) before you buy, mostly to look at the buyer photos. They are the quickest way to see how thin the front edge really is, which is the one thing listings never show you clearly.
+Worth skimming the [owner reviews for this set](https://www.amazon.com/HaSteeL-2-Pack-Fish-Spatula-Turner-Set/product-reviews/B07V3JVQZT/?tag=kitchenpot-20) before you buy, mostly to look at the buyer photos. They are the quickest way to see how thin the front edge really is, which is the one thing listings never show you clearly.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07V3JVQZT/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/HaSteeL-2-Pack-Fish-Spatula-Turner-Set/dp/B07V3JVQZT/?tag=kitchenpot-20)
 
 ## 2. Leonyo Slotted Fish Turner Set of 2: Best Wooden-Handle Pair
 
@@ -145,7 +145,7 @@ Where this set earns its place is high-heat cooking: searing in [cast iron](/blo
 
 **Who should buy it:** Cast iron cooks and grillers who will happily hand wash two utensils in exchange for a handle that never burns them. If you are outfitting a first kitchen, this is a sensible companion to a [budget cookware set](/blog/best-cookware-set-under-200/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B085DVW51V/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Leonyo-Slotted-Fish-Turner-Set-of-2/dp/B085DVW51V/?tag=kitchenpot-20)
 
 ## 3. 2-Pack Offset Fish Spatula Turner: Best Blade Sizes for Small Pans
 
@@ -175,7 +175,7 @@ The offset matters more than people expect. Stepping the blade down below the ha
 
 **Who should buy it:** Solo and two-person cooks who work mostly in smaller pans. If that is you, our guide to the [best cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) explains why the pans in a small kitchen tend to be 8 and 10 inches, and why a giant turner is dead weight.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BJ6KB675/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/2-Pack-Offset-Fish-Spatula-Turner-Set/dp/B0BJ6KB675/?tag=kitchenpot-20)
 
 ## 4. Berglander Stainless Steel Spatula Set, 3 Pieces: Best Three-Piece Mix
 
@@ -205,7 +205,7 @@ All-stainless construction means nothing to loosen, nothing to crack and nothing
 
 **Who should buy it:** Anyone doing a full utensil reset. Hang them on a rail rather than burying them in a drawer, an approach that works well alongside other [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0FT32M321/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Berglander-Stainless-Steel-Spatula-Set-3-Pieces/dp/B0FT32M321/?tag=kitchenpot-20)
 
 ## 5. Professional Chef Griddle Spatula Set of 3: Best for Cast Iron and Flat Tops
 
@@ -236,7 +236,7 @@ The scraper is the piece people underrate. Running a straight steel edge across 
 
 **Who should buy it:** Cast iron and griddle cooks, especially anyone making smash burgers or big weekend breakfasts. If a balcony grill is part of your setup, it also fits with the kit in our guide to [small-space grilling accessories](/blog/small-space-grilling-accessories-you-actually-need/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B072MXWDD6/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Professional-Chef-Griddle-Spatula-Set-of-3/dp/B072MXWDD6/?tag=kitchenpot-20)
 
 ## 6. PUCKWAY Offset Icing Spatula Set of 3: Best for Baking
 
@@ -266,7 +266,7 @@ If your baking happens in a small kitchen, these store flat and weigh nothing, w
 
 **Who should buy it:** Anyone who bakes more than occasionally. Pair them with a sensible pan collection from our guide to the [best bakeware for small kitchens](/blog/best-bakeware-for-small-kitchens/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01N8RK5TH/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/PUCKWAY-Offset-Icing-Spatula-Set-of-3/dp/B01N8RK5TH/?tag=kitchenpot-20)
 
 ## Why Metal Spatulas Wreck Nonstick Pans
 
@@ -328,12 +328,12 @@ One more thing worth having nearby if you are working on cast iron or a hot grid
 
 ## Which Metal Spatula Set Should You Buy?
 
-- **You want one set to handle everything:** [HaSteeL 2-Pack](https://www.amazon.com/dp/B07V3JVQZT/?tag=kitchenpot-20). Two sizes, full tang, dishwasher safe.
-- **You cook in cast iron or over a grill:** [Leonyo Set of 2](https://www.amazon.com/dp/B085DVW51V/?tag=kitchenpot-20), for the wooden handles.
-- **Your pans are 8 and 10 inches:** [2-Pack Offset Turner Set](https://www.amazon.com/dp/B0BJ6KB675/?tag=kitchenpot-20), because the head sizes are right.
-- **You are replacing every turner you own:** [Berglander 3-Piece](https://www.amazon.com/dp/B0FT32M321/?tag=kitchenpot-20), for solid, slotted and flexible in one go.
-- **You make smash burgers or cook on a flat top:** [Professional Chef Set of 3](https://www.amazon.com/dp/B072MXWDD6/?tag=kitchenpot-20).
-- **You bake:** [PUCKWAY Offset Set of 3](https://www.amazon.com/dp/B01N8RK5TH/?tag=kitchenpot-20).
+- **You want one set to handle everything:** [HaSteeL 2-Pack](https://www.amazon.com/HaSteeL-2-Pack-Fish-Spatula-Turner-Set/dp/B07V3JVQZT/?tag=kitchenpot-20). Two sizes, full tang, dishwasher safe.
+- **You cook in cast iron or over a grill:** [Leonyo Set of 2](https://www.amazon.com/Leonyo-Slotted-Fish-Turner-Set-of-2/dp/B085DVW51V/?tag=kitchenpot-20), for the wooden handles.
+- **Your pans are 8 and 10 inches:** [2-Pack Offset Turner Set](https://www.amazon.com/2-Pack-Offset-Fish-Spatula-Turner-Set/dp/B0BJ6KB675/?tag=kitchenpot-20), because the head sizes are right.
+- **You are replacing every turner you own:** [Berglander 3-Piece](https://www.amazon.com/Berglander-Stainless-Steel-Spatula-Set-3-Pieces/dp/B0FT32M321/?tag=kitchenpot-20), for solid, slotted and flexible in one go.
+- **You make smash burgers or cook on a flat top:** [Professional Chef Set of 3](https://www.amazon.com/Professional-Chef-Griddle-Spatula-Set-of-3/dp/B072MXWDD6/?tag=kitchenpot-20).
+- **You bake:** [PUCKWAY Offset Set of 3](https://www.amazon.com/PUCKWAY-Offset-Icing-Spatula-Set-of-3/dp/B01N8RK5TH/?tag=kitchenpot-20).
 
 If you are still stocking the drawer from scratch, work through the list in [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) before buying anything else. And if you are not sure a metal turner is right for your pans at all, check the coating first. A ten-dollar silicone turner is cheaper than a new skillet.
 

@@ -40,18 +40,18 @@ A panini press is one hinge and two hot plates. Get the hinge right and the sand
 
 Most shoppers skip past the hinge and buy on wattage or looks. That is why two presses at the same price can turn out such different sandwiches.
 
-**The short version:** the [Cuisinart Griddler GR-4NP1](https://www.amazon.com/dp/B002YD99Y4/?tag=kitchenpot-20) is the best pick for most kitchens, because its plates lift out for washing and it opens flat into a griddle. If you only want sandwiches, the Breville Panini Duo presses them better and costs less.
+**The short version:** the [Cuisinart Griddler GR-4NP1](https://www.amazon.com/Cuisinart-Griddler-GR-4NP1-5-in-1/dp/B002YD99Y4/?tag=kitchenpot-20) is the best pick for most kitchens, because its plates lift out for washing and it opens flat into a griddle. If you only want sandwiches, the Breville Panini Duo presses them better and costs less.
 
 One more thing before the list. Half the machines sold as "panini presses" are really grill and griddle combos that happen to close. Each pick below says plainly which kind it is.
 
 ## Quick Picks for Every Kitchen
 
-- **Best overall:** [Cuisinart Griddler GR-4NP1 5-in-1](https://www.amazon.com/dp/B002YD99Y4/?tag=kitchenpot-20)
-- **Best dedicated sandwich press:** [Breville BSG520XL Panini Duo](https://www.amazon.com/dp/B002PY6X1E/?tag=kitchenpot-20)
-- **Best under $50:** [Hamilton Beach 25460A Panini Press](https://www.amazon.com/dp/B00IWOJRSM/?tag=kitchenpot-20)
-- **Best removable plates for the price:** [Chefman 5-in-1 Digital Panini Press Grill](https://www.amazon.com/dp/B0B7CHWYFD/?tag=kitchenpot-20)
-- **Best if you also want an indoor grill:** [Breville BGR820XL Smart Grill](https://www.amazon.com/dp/B003SIN0BC/?tag=kitchenpot-20)
-- **Best cheap pick with plates that come out:** [George Foreman GRP1060B 4-Serving Grill](https://www.amazon.com/dp/B00KDVJLJW/?tag=kitchenpot-20)
+- **Best overall:** [Cuisinart Griddler GR-4NP1 5-in-1](https://www.amazon.com/Cuisinart-Griddler-GR-4NP1-5-in-1/dp/B002YD99Y4/?tag=kitchenpot-20)
+- **Best dedicated sandwich press:** [Breville BSG520XL Panini Duo](https://www.amazon.com/Breville-BSG520XL-Panini-Duo/dp/B002PY6X1E/?tag=kitchenpot-20)
+- **Best under $50:** [Hamilton Beach 25460A Panini Press](https://www.amazon.com/Hamilton-Beach-25460A-Panini-Press/dp/B00IWOJRSM/?tag=kitchenpot-20)
+- **Best removable plates for the price:** [Chefman 5-in-1 Digital Panini Press Grill](https://www.amazon.com/Chefman-5-in-1-Digital-Panini-Press-Grill/dp/B0B7CHWYFD/?tag=kitchenpot-20)
+- **Best if you also want an indoor grill:** [Breville BGR820XL Smart Grill](https://www.amazon.com/Breville-BGR820XL-Smart-Grill/dp/B003SIN0BC/?tag=kitchenpot-20)
+- **Best cheap pick with plates that come out:** [George Foreman GRP1060B 4-Serving Grill](https://www.amazon.com/George-Foreman-GRP1060B-4-Serving-Grill/dp/B00KDVJLJW/?tag=kitchenpot-20)
 
 ## How the Six Compare
 
@@ -92,7 +92,7 @@ Open it flat and the two plates sit side by side as one long cooking surface. Th
 
 Two dials run the two plates separately. Cuisinart lists a warm-to-sear range in grill mode and 200°F to 425°F in griddle mode. Independent control matters more than it sounds. You can brown the top of a sandwich hard while keeping the bottom gentle, so the cheese melts before the base burns.
 
-Owner reviews keep circling one complaint: the plates can pop loose if you lift the unit by the top handle. Grab the base instead and it is a non-issue. You can read the [owner feedback on Amazon](https://www.amazon.com/product-reviews/B002YD99Y4/?tag=kitchenpot-20) and judge the pattern yourself.
+Owner reviews keep circling one complaint: the plates can pop loose if you lift the unit by the top handle. Grab the base instead and it is a non-issue. You can read the [owner feedback on Amazon](https://www.amazon.com/Cuisinart-Griddler-GR-4NP1-5-in-1/product-reviews/B002YD99Y4/?tag=kitchenpot-20) and judge the pattern yourself.
 
 **What we like:**
 
@@ -111,7 +111,7 @@ Owner reviews keep circling one complaint: the plates can pop loose if you lift 
 
 **Who should buy it:** Anyone who wants one appliance to cover sandwiches, burgers and breakfast. It is the pick we would also hand to a reader building out a first kitchen, alongside the basics in our guide to [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B002YD99Y4/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-Griddler-GR-4NP1-5-in-1/dp/B002YD99Y4/?tag=kitchenpot-20)
 
 ## 2. Breville BSG520XL Panini Duo: Best Dedicated Sandwich Press
 
@@ -145,7 +145,7 @@ It also stores on its side. The lid clips shut and the cord wraps into the base,
 
 **Who should buy it:** Sandwich people. If you want a press that does one job properly and lives on its edge in a cupboard, this is it.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B002PY6X1E/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Breville-BSG520XL-Panini-Duo/dp/B002PY6X1E/?tag=kitchenpot-20)
 
 ## 3. Hamilton Beach 25460A: Best Under $50
 
@@ -179,7 +179,7 @@ There is no temperature dial. It heats to one setting, shows a ready light, and 
 
 **Who should buy it:** Students, renters and anyone buying a first press. It costs about what a week of café sandwiches costs, and it fits in the kind of cupboard we talk about in our [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00IWOJRSM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Hamilton-Beach-25460A-Panini-Press/dp/B00IWOJRSM/?tag=kitchenpot-20)
 
 ## 4. Chefman 5-in-1 Digital Panini Press Grill: Best Removable Plates for the Price
 
@@ -213,7 +213,7 @@ One caution that applies to every combo unit: more parts means more to fail. Own
 
 **Who should buy it:** Cooks who want plates that come out but do not want to step up to Breville money. It also earns a spot on a counter you are trying to keep clear, which our [countertop organization ideas](/blog/countertop-organization-ideas-for-a-small-kitchen/) can help with.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0B7CHWYFD/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Chefman-5-in-1-Digital-Panini-Press-Grill/dp/B0B7CHWYFD/?tag=kitchenpot-20)
 
 ## 5. Breville BGR820XL Smart Grill: Best If You Also Want an Indoor Grill
 
@@ -248,7 +248,7 @@ The plates are removable and dishwasher safe, which you will appreciate after a 
 
 **Who should buy it:** Anyone who wants indoor grilling and treats panini as a bonus. If you are weighing it against other smokeless options, our [Gotham Steel smokeless grill review](/blog/gotham-steel-smokeless-grill-review/) covers the cheaper end of that shelf.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B003SIN0BC/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Breville-BGR820XL-Smart-Grill/dp/B003SIN0BC/?tag=kitchenpot-20)
 
 ## 6. George Foreman GRP1060B 4-Serving Grill: Best Cheap Pick With Plates That Come Out
 
@@ -282,7 +282,7 @@ The lid is a plain pivot, not a floating hinge, so very thick rolls will cook un
 
 **Who should buy it:** Budget shoppers who care more about easy washing than café bar marks. It sits comfortably beside the other cheap wins in our list of [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00KDVJLJW/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/George-Foreman-GRP1060B-4-Serving-Grill/dp/B00KDVJLJW/?tag=kitchenpot-20)
 
 ## What to Look For in a Panini Press
 
@@ -349,12 +349,12 @@ Clean it while it is warm every time, whatever type you bought. A press that get
 
 ## Which Panini Press Should You Buy?
 
-- **You want one machine to do the most jobs:** [Cuisinart Griddler GR-4NP1](https://www.amazon.com/dp/B002YD99Y4/?tag=kitchenpot-20).
-- **You only care about sandwiches:** [Breville Panini Duo](https://www.amazon.com/dp/B002PY6X1E/?tag=kitchenpot-20).
-- **You want a floating hinge for under $50:** [Hamilton Beach 25460A](https://www.amazon.com/dp/B00IWOJRSM/?tag=kitchenpot-20).
-- **You want removable plates and a digital display:** [Chefman 5-in-1](https://www.amazon.com/dp/B0B7CHWYFD/?tag=kitchenpot-20).
-- **You want an indoor grill first, a press second:** [Breville Smart Grill](https://www.amazon.com/dp/B003SIN0BC/?tag=kitchenpot-20).
-- **You want dishwasher-safe plates as cheaply as possible:** [George Foreman GRP1060B](https://www.amazon.com/dp/B00KDVJLJW/?tag=kitchenpot-20).
+- **You want one machine to do the most jobs:** [Cuisinart Griddler GR-4NP1](https://www.amazon.com/Cuisinart-Griddler-GR-4NP1-5-in-1/dp/B002YD99Y4/?tag=kitchenpot-20).
+- **You only care about sandwiches:** [Breville Panini Duo](https://www.amazon.com/Breville-BSG520XL-Panini-Duo/dp/B002PY6X1E/?tag=kitchenpot-20).
+- **You want a floating hinge for under $50:** [Hamilton Beach 25460A](https://www.amazon.com/Hamilton-Beach-25460A-Panini-Press/dp/B00IWOJRSM/?tag=kitchenpot-20).
+- **You want removable plates and a digital display:** [Chefman 5-in-1](https://www.amazon.com/Chefman-5-in-1-Digital-Panini-Press-Grill/dp/B0B7CHWYFD/?tag=kitchenpot-20).
+- **You want an indoor grill first, a press second:** [Breville Smart Grill](https://www.amazon.com/Breville-BGR820XL-Smart-Grill/dp/B003SIN0BC/?tag=kitchenpot-20).
+- **You want dishwasher-safe plates as cheaply as possible:** [George Foreman GRP1060B](https://www.amazon.com/George-Foreman-GRP1060B-4-Serving-Grill/dp/B00KDVJLJW/?tag=kitchenpot-20).
 
 If none of these fit, ask yourself one question. Do you want a sandwich machine, or a small grill that also makes sandwiches? Answer that and the list above cuts itself in half.
 

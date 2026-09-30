@@ -45,12 +45,12 @@ Below are six choppers grouped by those three types, not mixed into one ranked l
 
 ## Quick Picks
 
-- **Best hand-press chopper overall:** [Fullstar Pro Original Vegetable Chopper](https://www.amazon.com/dp/B0764HS4SL/?tag=kitchenpot-20)
-- **Best hand-press chopper for big batches:** [Mueller Pro-Series 10-in-1 Vegetable Chopper](https://www.amazon.com/dp/B08N9Q24M9/?tag=kitchenpot-20)
-- **Best pull-cord chopper:** [Zyliss Easy Pull Food Chopper](https://www.amazon.com/dp/B0FQRJVBXM/?tag=kitchenpot-20)
-- **Best pull-cord chopper for salsa and dips:** [Chef'n VeggiChop Hand-Powered Food Chopper](https://www.amazon.com/dp/B004HFR2MS/?tag=kitchenpot-20)
-- **Best electric food chopper:** [Cuisinart Mini-Prep Plus DLC-2A](https://www.amazon.com/dp/B0000645YL/?tag=kitchenpot-20)
-- **Best budget electric chopper:** [Ninja Express Chop NJ110GR](https://www.amazon.com/dp/B00HL3TBDQ/?tag=kitchenpot-20)
+- **Best hand-press chopper overall:** [Fullstar Pro Original Vegetable Chopper](https://www.amazon.com/Fullstar-Pro-Original-Vegetable-Chopper/dp/B0764HS4SL/?tag=kitchenpot-20)
+- **Best hand-press chopper for big batches:** [Mueller Pro-Series 10-in-1 Vegetable Chopper](https://www.amazon.com/Mueller-Pro-Series-10-in-1-Vegetable-Chopper/dp/B08N9Q24M9/?tag=kitchenpot-20)
+- **Best pull-cord chopper:** [Zyliss Easy Pull Food Chopper](https://www.amazon.com/Zyliss-Easy-Pull-Food-Chopper/dp/B0FQRJVBXM/?tag=kitchenpot-20)
+- **Best pull-cord chopper for salsa and dips:** [Chef'n VeggiChop Hand-Powered Food Chopper](https://www.amazon.com/Chefn-VeggiChop-Hand-Powered-Food-Chopper/dp/B004HFR2MS/?tag=kitchenpot-20)
+- **Best electric food chopper:** [Cuisinart Mini-Prep Plus DLC-2A](https://www.amazon.com/Cuisinart-Mini-Prep-Plus-DLC-2A/dp/B0000645YL/?tag=kitchenpot-20)
+- **Best budget electric chopper:** [Ninja Express Chop NJ110GR](https://www.amazon.com/Ninja-Express-Chop-NJ110GR/dp/B00HL3TBDQ/?tag=kitchenpot-20)
 
 ## The Three Kinds of Vegetable Chopper
 
@@ -113,7 +113,7 @@ The 5-cup catch container is the other reason this one works. It takes two onion
 
 **Who should buy it:** Anyone who cooks stews, curries, soups or stir-fries on repeat and is tired of dicing. It pairs well with a decent [cutting board](/blog/best-over-the-sink-cutting-board/) for the trimming you still do first.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0764HS4SL/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Fullstar-Pro-Original-Vegetable-Chopper/dp/B0764HS4SL/?tag=kitchenpot-20)
 
 ## 2. Mueller Pro-Series 10-in-1 Vegetable Chopper: Best Hand-Press Chopper for Big Batches
 
@@ -145,7 +145,7 @@ The mandoline function is a genuine second tool. It slices and juliennes the way
 
 **Who should buy it:** Batch cookers, families, and anyone who would otherwise buy a chopper and a mandoline separately. Read [how to use a mandoline](/blog/how-to-use-a-mandoline/) before the first session.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08N9Q24M9/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Mueller-Pro-Series-10-in-1-Vegetable-Chopper/dp/B08N9Q24M9/?tag=kitchenpot-20)
 
 ## Pull-Cord Choppers: When a Cord Beats a Press
 
@@ -181,7 +181,7 @@ Cleaning is the part to plan for. The bowl and blade go in the dishwasher, but t
 
 **Who should buy it:** Cooks who make sauces, salsas and soup bases more often than they dice. It also suits anyone avoiding another plug-in gadget in a kitchen that already has too few sockets.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0FQRJVBXM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Zyliss-Easy-Pull-Food-Chopper/dp/B0FQRJVBXM/?tag=kitchenpot-20)
 
 ## 4. Chef'n VeggiChop: Best Pull-Cord Chopper for Salsa and Dips
 
@@ -213,7 +213,7 @@ At 3.8 cups it holds slightly more than the Zyliss. The bowl shape is wider and 
 
 **Who should buy it:** Anyone who makes dips and fresh sauces regularly, and anyone who values putting the lid on and being done. It fits the same niche as the other [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B004HFR2MS/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Chefn-VeggiChop-Hand-Powered-Food-Chopper/dp/B004HFR2MS/?tag=kitchenpot-20)
 
 ## Electric Food Choppers: Where the Motor Earns Its Keep
 
@@ -249,7 +249,7 @@ Three cups is a sensible working size. It is enough for a bowl of chopped onion 
 
 **Who should buy it:** Cooks who want one small machine that chops onion, grinds nuts and grates parmesan. If you are still deciding between machine types, our explainer on the [difference between a food processor and a blender](/blog/what-is-the-difference-between-a-food-processor-and-a-blender/) is the place to start.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0000645YL/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-Mini-Prep-Plus-DLC-2A/dp/B0000645YL/?tag=kitchenpot-20)
 
 ## 6. Ninja Express Chop NJ110GR: Best Budget Electric Chopper
 
@@ -281,7 +281,7 @@ Where it shines is speed for small tasks. Mincing a couple of garlic cloves take
 
 **Who should buy it:** Solo cooks, students, and anyone who wants electric speed without giving up counter space. It belongs on the same shortlist as the other [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00HL3TBDQ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Express-Chop-NJ110GR/dp/B00HL3TBDQ/?tag=kitchenpot-20)
 
 ## Cleaning the Blades Without Cutting Yourself
 
@@ -346,12 +346,12 @@ Once the knives are sharp, keep them somewhere you can reach. A [magnetic knife 
 
 ## Which Vegetable Chopper Should You Buy?
 
-- **You dice onions, peppers and carrots most weeks:** [Fullstar Pro Original](https://www.amazon.com/dp/B0764HS4SL/?tag=kitchenpot-20).
-- **You batch cook for a family:** [Mueller Pro-Series 10-in-1](https://www.amazon.com/dp/B08N9Q24M9/?tag=kitchenpot-20).
-- **You make sauces, soffritto and salsa:** [Zyliss Easy Pull](https://www.amazon.com/dp/B0FQRJVBXM/?tag=kitchenpot-20).
-- **You want the bowl to double as storage:** [Chef'n VeggiChop](https://www.amazon.com/dp/B004HFR2MS/?tag=kitchenpot-20).
-- **You chop nuts, cheese and herbs too:** [Cuisinart Mini-Prep Plus](https://www.amazon.com/dp/B0000645YL/?tag=kitchenpot-20).
-- **You want electric speed for under the price of a takeaway:** [Ninja Express Chop](https://www.amazon.com/dp/B00HL3TBDQ/?tag=kitchenpot-20).
+- **You dice onions, peppers and carrots most weeks:** [Fullstar Pro Original](https://www.amazon.com/Fullstar-Pro-Original-Vegetable-Chopper/dp/B0764HS4SL/?tag=kitchenpot-20).
+- **You batch cook for a family:** [Mueller Pro-Series 10-in-1](https://www.amazon.com/Mueller-Pro-Series-10-in-1-Vegetable-Chopper/dp/B08N9Q24M9/?tag=kitchenpot-20).
+- **You make sauces, soffritto and salsa:** [Zyliss Easy Pull](https://www.amazon.com/Zyliss-Easy-Pull-Food-Chopper/dp/B0FQRJVBXM/?tag=kitchenpot-20).
+- **You want the bowl to double as storage:** [Chef'n VeggiChop](https://www.amazon.com/Chefn-VeggiChop-Hand-Powered-Food-Chopper/dp/B004HFR2MS/?tag=kitchenpot-20).
+- **You chop nuts, cheese and herbs too:** [Cuisinart Mini-Prep Plus](https://www.amazon.com/Cuisinart-Mini-Prep-Plus-DLC-2A/dp/B0000645YL/?tag=kitchenpot-20).
+- **You want electric speed for under the price of a takeaway:** [Ninja Express Chop](https://www.amazon.com/Ninja-Express-Chop-NJ110GR/dp/B00HL3TBDQ/?tag=kitchenpot-20).
 
 One last piece of advice. Buy for the food you actually cook this month, not the food you plan to cook someday. The 10-in-1 gadget with eight spare blades is only better if you use more than two of them.
 

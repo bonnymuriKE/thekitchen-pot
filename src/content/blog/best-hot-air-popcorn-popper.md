@@ -39,7 +39,7 @@ Air-popped popcorn tastes like corn. That is the whole pitch, and it is also the
 
 If you grew up on movie-theatre popcorn, the first bowl out of an air popper will feel bare. Give it two bowls. Most people stop missing the grease and start tasting the corn.
 
-> **Quick answer:** the [Presto PopLite 04820](https://www.amazon.com/dp/B00006IUWA/?tag=kitchenpot-20) is the popper to get. It runs at 1440 watts, pops up to 18 cups, and the measuring cup doubles as a butter melter. Spend less and you get the same popcorn from a slower machine.
+> **Quick answer:** the [Presto PopLite 04820](https://www.amazon.com/Presto-PopLite-04820-Hot-Air-Popper/dp/B00006IUWA/?tag=kitchenpot-20) is the popper to get. It runs at 1440 watts, pops up to 18 cups, and the measuring cup doubles as a butter melter. Spend less and you get the same popcorn from a slower machine.
 
 These are cheap machines. Most cost less than a takeaway pizza, and none of them will change your life. They will, however, turn a 50-cent bag of kernels into a week of snacks, which is a decent trade.
 
@@ -75,12 +75,12 @@ That is the reason to buy one. If you want the glossy cinema texture instead, a 
 
 ## Our Picks at a Glance
 
-- **Best overall:** [Presto PopLite 04820 Hot Air Popper](https://www.amazon.com/dp/B00006IUWA/?tag=kitchenpot-20)
-- **Best for movie nights:** [Dash Fresh Pop 16-Cup Hot Air Popper](https://www.amazon.com/dp/B07NWCTXHH/?tag=kitchenpot-20)
-- **Best with a power switch:** [West Bend Air Crazy 4-Quart Popper](https://www.amazon.com/dp/B0CQ8TNRZJ/?tag=kitchenpot-20)
-- **Best budget pick:** [Elite Gourmet 1300W Hot Air Popper](https://www.amazon.com/dp/B0C5HV7BGB/?tag=kitchenpot-20)
-- **Best for one person:** [Presto PopLite My Munch 04811](https://www.amazon.com/dp/B0C43XTHC6/?tag=kitchenpot-20)
-- **Best looking:** [Nostalgia Classic Retro 12-Cup Hot Air Popper](https://www.amazon.com/dp/B084CYV1YT/?tag=kitchenpot-20)
+- **Best overall:** [Presto PopLite 04820 Hot Air Popper](https://www.amazon.com/Presto-PopLite-04820-Hot-Air-Popper/dp/B00006IUWA/?tag=kitchenpot-20)
+- **Best for movie nights:** [Dash Fresh Pop 16-Cup Hot Air Popper](https://www.amazon.com/Dash-Fresh-Pop-16-Cup-Hot-Air-Popper/dp/B07NWCTXHH/?tag=kitchenpot-20)
+- **Best with a power switch:** [West Bend Air Crazy 4-Quart Popper](https://www.amazon.com/West-Bend-Air-Crazy-4-Quart-Popper/dp/B0CQ8TNRZJ/?tag=kitchenpot-20)
+- **Best budget pick:** [Elite Gourmet 1300W Hot Air Popper](https://www.amazon.com/Elite-Gourmet-1300W-Hot-Air-Popper/dp/B0C5HV7BGB/?tag=kitchenpot-20)
+- **Best for one person:** [Presto PopLite My Munch 04811](https://www.amazon.com/Presto-PopLite-My-Munch-04811/dp/B0C43XTHC6/?tag=kitchenpot-20)
+- **Best looking:** [Nostalgia Classic Retro 12-Cup Hot Air Popper](https://www.amazon.com/Nostalgia-Classic-Retro-12-Cup-Hot-Air-Popper/dp/B084CYV1YT/?tag=kitchenpot-20)
 
 ## Hot Air Poppers Compared
 
@@ -128,7 +128,7 @@ The butter cup sits on top of the chute. Heat rising from the machine melts the 
 
 **Who should buy it:** Anyone who wants one popper that works and costs very little. It earns its counter space in the same way the rest of the [coolest kitchen appliances](/blog/coolest-kitchen-appliances-to-buy/) do, by doing one job properly.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00006IUWA/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Presto-PopLite-04820-Hot-Air-Popper/dp/B00006IUWA/?tag=kitchenpot-20)
 
 ## 2. Dash Fresh Pop 16-Cup Popper: Best for Movie Nights
 
@@ -159,7 +159,7 @@ Dash does not publish a wattage figure for this model, so treat it as a mid-powe
 
 **Who should buy it:** Families and flatmates who pop regularly and want the machine to look good on the shelf. Pair it with [airtight containers](/blog/best-airtight-food-storage-containers/) for the kernels and you have a snack station in one cupboard.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07NWCTXHH/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Dash-Fresh-Pop-16-Cup-Hot-Air-Popper/dp/B07NWCTXHH/?tag=kitchenpot-20)
 
 ## 3. West Bend Air Crazy 4-Quart: Best with a Power Switch
 
@@ -190,7 +190,7 @@ Everything else is standard for the class. The cup measures kernels and melts bu
 
 **Who should buy it:** Anyone who hates hunting for a plug mid-batch, and anyone who pops with kids in the kitchen. A switch is easier to explain than a socket.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CQ8TNRZJ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/West-Bend-Air-Crazy-4-Quart-Popper/dp/B0CQ8TNRZJ/?tag=kitchenpot-20)
 
 ## 4. Elite Gourmet 1300W Hot Air Popper: Best Budget Pick
 
@@ -221,7 +221,7 @@ Elite Gourmet lists the popper as ETL approved, which means an independent lab c
 
 **Who should buy it:** First-time buyers, students, and anyone testing whether they will use an air popper at all before spending more. If it becomes a habit, it is also one of the cheaper [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) to keep around.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0C5HV7BGB/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Elite-Gourmet-1300W-Hot-Air-Popper/dp/B0C5HV7BGB/?tag=kitchenpot-20)
 
 ## 5. Presto PopLite My Munch 04811: Best for One Person
 
@@ -252,7 +252,7 @@ It is also the smallest machine here, so it tucks onto a shelf rather than claim
 
 **Who should buy it:** Solo snackers, students, and anyone whose kitchen counter is already full. It sits happily beside the other [compact appliances worth having in a small kitchen](/blog/best-compact-energy-star-appliances-for-small-kitchens/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0C43XTHC6/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Presto-PopLite-My-Munch-04811/dp/B0C43XTHC6/?tag=kitchenpot-20)
 
 ## 6. Nostalgia Classic Retro 12-Cup Popper: Best Looking
 
@@ -283,7 +283,7 @@ Buy this one for the look, and know what you are paying for. The retro shell doe
 
 **Who should buy it:** People who want the machine visible rather than hidden, and anyone buying a popper as a gift. It works nicely next to a [retro toaster](/blog/best-2-slice-toaster/) on the same shelf.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B084CYV1YT/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nostalgia-Classic-Retro-12-Cup-Hot-Air-Popper/dp/B084CYV1YT/?tag=kitchenpot-20)
 
 ## What Wattage Buys You
 
@@ -356,12 +356,12 @@ Storage is easy because these machines are light and hollow. Stand it on a shelf
 
 ## Which Hot Air Popper Should You Buy?
 
-- **You want the safe pick:** [Presto PopLite 04820](https://www.amazon.com/dp/B00006IUWA/?tag=kitchenpot-20).
-- **You pop for a room full of people:** [Dash Fresh Pop 16-Cup](https://www.amazon.com/dp/B07NWCTXHH/?tag=kitchenpot-20).
-- **You want a power switch:** [West Bend Air Crazy](https://www.amazon.com/dp/B0CQ8TNRZJ/?tag=kitchenpot-20).
-- **You want to spend the least:** [Elite Gourmet 1300W](https://www.amazon.com/dp/B0C5HV7BGB/?tag=kitchenpot-20).
-- **You are popping for one:** [Presto My Munch](https://www.amazon.com/dp/B0C43XTHC6/?tag=kitchenpot-20).
-- **You want it on display:** [Nostalgia Classic Retro](https://www.amazon.com/dp/B084CYV1YT/?tag=kitchenpot-20).
+- **You want the safe pick:** [Presto PopLite 04820](https://www.amazon.com/Presto-PopLite-04820-Hot-Air-Popper/dp/B00006IUWA/?tag=kitchenpot-20).
+- **You pop for a room full of people:** [Dash Fresh Pop 16-Cup](https://www.amazon.com/Dash-Fresh-Pop-16-Cup-Hot-Air-Popper/dp/B07NWCTXHH/?tag=kitchenpot-20).
+- **You want a power switch:** [West Bend Air Crazy](https://www.amazon.com/West-Bend-Air-Crazy-4-Quart-Popper/dp/B0CQ8TNRZJ/?tag=kitchenpot-20).
+- **You want to spend the least:** [Elite Gourmet 1300W](https://www.amazon.com/Elite-Gourmet-1300W-Hot-Air-Popper/dp/B0C5HV7BGB/?tag=kitchenpot-20).
+- **You are popping for one:** [Presto My Munch](https://www.amazon.com/Presto-PopLite-My-Munch-04811/dp/B0C43XTHC6/?tag=kitchenpot-20).
+- **You want it on display:** [Nostalgia Classic Retro](https://www.amazon.com/Nostalgia-Classic-Retro-12-Cup-Hot-Air-Popper/dp/B084CYV1YT/?tag=kitchenpot-20).
 
 One last thought before you buy. An air popper is a single-purpose machine, and single-purpose machines only earn their space if you use them. Pop twice a week and it pays for itself in a month against microwave bags. Pop twice a year and you have bought a cupboard ornament, which is the honest test for most [eco-friendly kitchen swaps](/blog/eco-friendly-alternatives-to-common-kitchen-appliances/) too.
 

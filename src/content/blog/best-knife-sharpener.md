@@ -48,7 +48,7 @@ The different types of knife sharpeners include hand-held sharpening machines su
 
 ## **7 Best Knife Sharpeners**
 
-### **1. [Work Sharp WSKTS-W-Best Knife Sharpening System](https://www.amazon.com/Work-Sharp-WSKTS-W-Knife-Sharpener/dp/B07CVN8HV5?tag=kitchenpot-20)**
+### **1. [Work Sharp WSKTS-W-Best Knife Sharpening System](https://www.amazon.com/Work-Sharp-WSKTS-W-Knife-Sharpener/dp/B07CVN8HV5/?tag=kitchenpot-20)**
 
 Work sharp electric knife sharpener is a unique knife sharpener as it can sharpens a range of knives like outdoor knives, kitchen knives, and a variety of other tools that may need sharpening.
 
@@ -58,7 +58,7 @@ Additionally, the work sharp electric sharpener comes packaged with nine belts i
 
 While the knife sharpener may come with guides to help you get exact angles, it’s still easy to scuff your blades, or you may spoil your edge especially when you use the coarse belt. As such, you must exercise extreme caution throughout the sharpening process. 
 
-[Check Price on Amazon](https://www.amazon.com/Work-Sharp-WSKTS-W-Knife-Sharpener/dp/B07CVN8HV5?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Work-Sharp-WSKTS-W-Knife-Sharpener/dp/B07CVN8HV5/?tag=kitchenpot-20)
 
 Since the work sharp electric knife sharpener comes with three belts, its best to use the coarse belt only for thick, very dull, or badly damaged blades. Avoid sharpening your delicate (and rarely used) knives more than twice a year as this may damage them.
 
@@ -76,7 +76,7 @@ Many end users have acknowledged, you will become obsessed with the acuteness an
 * The work sharp knife sharpener may scratch your blade
 * No guide for Asian knives
 
-### **2. [Chef’s Sharpener CS-TO1 3 Stage](https://www.amazon.com/Kitchen-Knife-Sharpener-Effective-Sharpening/dp/B07KF8MKKJ?tag=kitchenpot-20)**
+### **2. [Chef’s Sharpener CS-TO1 3 Stage](https://www.amazon.com/Kitchen-Knife-Sharpener-Effective-Sharpening/dp/B07KF8MKKJ/?tag=kitchenpot-20)**
 
 The Chef’s knife sharpener comes in three stages of honing, sharpening, and repairing. It is a handheld device offers a fast yet durable fix for your knife without digging deep into your pocket.
 
@@ -86,7 +86,7 @@ The knife sharpener is one of the strongest and well-constructed sharpeners in t
 
 The CS-TO1 3 comes packaged with three sharpening stages: medium, coarse, and fine.
 
-[Visit Chef’s Store on Amazon](https://www.amazon.com/Kitchen-Knife-Sharpener-Effective-Sharpening/dp/B07KF8MKKJ?tag=kitchenpot-20)
+[Visit Chef’s Store on Amazon](https://www.amazon.com/Kitchen-Knife-Sharpener-Effective-Sharpening/dp/B07KF8MKKJ/?tag=kitchenpot-20)
 
 In the coarse stage, the diamond dust rods straighten the knife-edge if it was bent and remove some of the burrs. The medium stage furthers de-burrs the edge with tungsten carbide abrasives. And in the final stage, the knife is polished with ceramic rods.
 
@@ -106,7 +106,7 @@ If you’re looking for a knife sharpener with both substance and style, then th
 
 * The knife sharpener is not suitable for severally damaged knives
 
-### **3. [Sharp Pebble Premium](https://www.amazon.com/Sharp-Pebble-Sharpening-Waterstone-Whetstone/dp/B01FZZUL30?tag=kitchenpot-20)**
+### **3. [Sharp Pebble Premium](https://www.amazon.com/Sharp-Pebble-Sharpening-Waterstone-Whetstone/dp/B01FZZUL30/?tag=kitchenpot-20)**
 
 The sharp pebble premium kit is a contemporary take on the classic stone with two grit levels, a guide book for new users, and an angle guide.
 
@@ -114,7 +114,7 @@ The sharp pebble stone knife sharpener comes packaged with a double stone and an
 
 The sharp pebble whetstone is a combination of two Waterstones. The white side has a 6000-grain density for finer honing and finishing while the blue part has a grain density of 1000 for sharpening dull blades.
 
-[Check Price on Amazon](https://www.amazon.com/Sharp-Pebble-Sharpening-Waterstone-Whetstone/dp/B01FZZUL30?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Sharp-Pebble-Sharpening-Waterstone-Whetstone/dp/B01FZZUL30/?tag=kitchenpot-20)
 
 Always bear in mind that the 1000 grit whetstone is a bit coarse and thus you shouldn’t use it more often. The sharpening should only be done every four to six months. Honing with the fine side, nevertheless, can be done much often.
 
@@ -133,7 +133,7 @@ Although the sharp pebble premium has lots of quality features it comes with its
 
 * The hardness of guide is high and may scratch you knives
 
-### **4. [Utopia Kitchen 10 Inch Steel](https://www.amazon.com/Utopia-Kitchen-Steel-Knife-Sharpening/dp/B019CEWA9S?tag=kitchenpot-20)** 
+### **4. [Utopia Kitchen 10 Inch Steel](https://www.amazon.com/Utopia-Kitchen-Steel-Knife-Sharpening/dp/B019CEWA9S/?tag=kitchenpot-20)** 
 
 The utopia kitchen is one of the best honing devices. Its rod does a good job and it’s cost-effective.
 
@@ -149,7 +149,7 @@ The knife sharpener comes with a large ring at the end of the handle which allow
 
 It’s important to note that after cleaning the device, you should always season it with a touch of cooking oil to prevent rust.
 
-[Check Price on Amazon](https://www.amazon.com/Utopia-Kitchen-Steel-Knife-Sharpening/dp/B019CEWA9S?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Utopia-Kitchen-Steel-Knife-Sharpening/dp/B019CEWA9S/?tag=kitchenpot-20)
 
 **Pros**
 
@@ -163,7 +163,7 @@ It’s important to note that after cleaning the device, you should always seaso
 * The device is not dishwasher safe
 * Doesn’t sharpen knives
 
-### **5.** **[Chef’sChoice 0213000 2100 Replacement Knife Sharpening Module](https://www.amazon.com/Choice-Sharpening-Module-Degree-Knives/dp/B00AY542TQ?ref_=ast_sto_dp?tag=kitchenpot-20)** 
+### **5.** **[Chef’sChoice 0213000 2100 Replacement Knife Sharpening Module](https://www.amazon.com/Choice-Sharpening-Module-Degree-Knives/dp/B00AY542TQ/?tag=kitchenpot-20)** 
 
 Chef’sChoice Knife sharpener electric sharpener may not be very common in the market. But the compact sharpener comes with features that are unique than other high priced alternatives.
 
@@ -173,7 +173,7 @@ It has a small footprint and can fit on the smallest countertop. The electric kn
 
 The electric sharpener comes with unique features that are rare in other hand-held sharpeners.
 
-[Check Price on Amazon](https://www.amazon.com/Choice-Sharpening-Module-Degree-Knives/dp/B00AY542TQ?ref_=ast_sto_dp?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Choice-Sharpening-Module-Degree-Knives/dp/B00AY542TQ/?tag=kitchenpot-20)
 
 The knife sharpener comes with four slots for sharpening and honing your kitchen knives. It also has a slot for shears and scissors, and one for screwdrivers.
 
@@ -190,7 +190,7 @@ The little electric sharpener uses electricity via a retractable cord on its und
 
 * Could be loud on the operation
 
-### **6. [Lansky Deluxe 5-Stone Sharpening](https://www.amazon.com/Lansky-Deluxe-5-Stone-Sharpening-System/dp/B000B8IEA4?tag=kitchenpot-20)**
+### **6. [Lansky Deluxe 5-Stone Sharpening](https://www.amazon.com/Lansky-Deluxe-5-Stone-Sharpening-System/dp/B000B8IEA4/?tag=kitchenpot-20)**
 
 The Lansky kit is one of the best manual knife sharpening system but might not be everyone’s favorite.
 
@@ -200,7 +200,7 @@ The kit features a knife clamp and rods, which allows you to sharpen your knives
 
 The kit can handle any type of kitchen knife; butcher knife, chef’s knives, and also outdoor or hunting knives. 
 
-**[Check Price on Amazon](https://www.amazon.com/Lansky-Deluxe-5-Stone-Sharpening-System/dp/B000B8IEA4?tag=kitchenpot-20)**
+**[Check Price on Amazon](https://www.amazon.com/Lansky-Deluxe-5-Stone-Sharpening-System/dp/B000B8IEA4/?tag=kitchenpot-20)**
 
 It is also packaged with a small bottle of honing oil that helps in lubrication this enhances the durability of the kit.
 
@@ -217,7 +217,7 @@ Although the kit may handle other knives, the guide rods of the knife sharpener 
 
 * No guides for Asian knives
 
-### **7. [Kitchen IQ 2 Stage Knife Sharpener](https://www.amazon.com/KitchenIQ-50009-Stage-Knife-Sharpener/dp/B001CQTLJM?tag=kitchenpot-20)**
+### **7. [Kitchen IQ 2 Stage Knife Sharpener](https://www.amazon.com/KitchenIQ-50009-Stage-Knife-Sharpener/dp/B001CQTLJM/?tag=kitchenpot-20)**
 
 If you’re not so much interested in sustaining a perfect edge on your knife, and instead want a cost-effective, suitable alternative, then kitchen IQ 2 stage knife might be ideal for you. 
 
@@ -227,7 +227,7 @@ The kitchen IQ 2 stage knife sharpener also comes with two tracks: a coarse shar
 
 Although the manual sharpener may not be as effective as other knife sharpeners. The kitchen IQ as compared to other dense, non-electric products always stands out. 
 
-[Check Price on Amazon](https://www.amazon.com/KitchenIQ-50009-Stage-Knife-Sharpener/dp/B001CQTLJM?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/KitchenIQ-50009-Stage-Knife-Sharpener/dp/B001CQTLJM/?tag=kitchenpot-20)
 
 **Pros**
 

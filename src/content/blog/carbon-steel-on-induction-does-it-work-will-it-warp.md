@@ -126,7 +126,7 @@ None of these is a lab-tested pick. They are well-known pans that list induction
 
 **Lodge 12-inch carbon steel skillet.** The [Lodge 12-inch Carbon Steel Skillet with Handle Holder](https://www.amazon.com/Lodge-Seasoned-Skillet-Cooking-Silicone/dp/B08XWTH26B/?tag=kitchenpot-20) arrives pre-seasoned and lists induction suitability. It costs less than most French pans and includes a silicone handle holder.
 
-**A portable induction burner for testing.** If your built-in cooktop runs too hot, a portable unit gives you finer control. The [Duxtop 9600LS portable induction burner](https://www.amazon.com/dp/B01FLR0ET8/?tag=kitchenpot-20) runs up to 1,800 watts and is a common choice.
+**A portable induction burner for testing.** If your built-in cooktop runs too hot, a portable unit gives you finer control. The [Duxtop 9600LS portable induction burner](https://www.amazon.com/Duxtop-9600LS-portable-induction-burner/dp/B01FLR0ET8/?tag=kitchenpot-20) runs up to 1,800 watts and is a common choice.
 
 Carbon steel handles get hot. A silicone handle cover is worth keeping nearby.
 

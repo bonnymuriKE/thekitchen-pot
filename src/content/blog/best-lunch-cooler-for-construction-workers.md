@@ -152,7 +152,7 @@ It comes with a 56 inches detachable shoulder strap complete with comfortable sh
 
 * Cleaning can be tough if it gets stained/muddy 
 
-### **2. [Klein Tools 55600 Work Cooler, 17-Quart Lunch Box](https://www.amazon.com/17-Quart-Tradesman-Klein-Tools-55600/dp/B06XGJTTRY?tag=kitchenpot-20)** 
+### **2. [Klein Tools 55600 Work Cooler, 17-Quart Lunch Box](https://www.amazon.com/17-Quart-Tradesman-Klein-Tools-55600/dp/B06XGJTTRY/?tag=kitchenpot-20)** 
 
 **Features**
 
@@ -161,7 +161,7 @@ It comes with a 56 inches detachable shoulder strap complete with comfortable sh
 * Inside storage compartment, lid opens full 180-degrees to access
 * No rust stainless steel hinged lid is recessed to accommodate 1 Liter water bottles
 
-[Check Latest Price on Amazon](https://www.amazon.com/17-Quart-Tradesman-Klein-Tools-55600/dp/B06XGJTTRY?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/17-Quart-Tradesman-Klein-Tools-55600/dp/B06XGJTTRY/?tag=kitchenpot-20)
 
 Klein is a unique cooler that keeps your items cold for up to 30 hours. Its sturdy construction eliminates any chance of destruction in the construction site. Its exterior is hardy enough to allow you to convert it into a place to sit! 
 
@@ -266,7 +266,7 @@ Its removable plastic liner is treated with antimicrobials, thus protecting it f
 
 * Relatively small
 
-### **5. [Lifewit Collapsible Cooler Bag Portable Double Decker Cooler Tote](https://www.amazon.com/Lifewit-Insulated-36-Can-Soft-Sided-Cooling/dp/B07KC1R73B?tag=kitchenpot-20)**
+### **5. [Lifewit Collapsible Cooler Bag Portable Double Decker Cooler Tote](https://www.amazon.com/Lifewit-Insulated-36-Can-Soft-Sided-Cooling/dp/B07KC1R73B/?tag=kitchenpot-20)**
 
 **Features**
 
@@ -286,7 +286,7 @@ Grey
 
 14.96 x 8.66 x 11.02 inches
 
-[Check Latest Price on Amazon](https://www.amazon.com/Lifewit-Insulated-36-Can-Soft-Sided-Cooling/dp/B07KC1R73B?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Lifewit-Insulated-36-Can-Soft-Sided-Cooling/dp/B07KC1R73B/?tag=kitchenpot-20)
 
 Lifewit Collapsible Cooler Bag holds up to 23 liters (6 gallons) and can take up to 32 cans plus ice. As such, you can be sure that this is the best cooler for you if you consider volumes. It offers you adequate space to store everything you need to keep you energized throughout the day.
 
@@ -309,7 +309,7 @@ Even better, this lunch box for men has multiple outer pockets – 1 wider pocke
 
 * It can be relatively heavy when full
 
-### **6. [OPUX Insulated Dual Compartment Lunch Bag for Men, Women](https://www.amazon.com/Insulated-Compartment-Reusable-Shoulder-Leakproof/dp/B07HJFTM7P?tag=kitchenpot-20)**
+### **6. [OPUX Insulated Dual Compartment Lunch Bag for Men, Women](https://www.amazon.com/Insulated-Compartment-Reusable-Shoulder-Leakproof/dp/B07HJFTM7P/?tag=kitchenpot-20)**
 
 **Features**
 
@@ -337,7 +337,7 @@ Rectangular
 
 OPUX
 
-[Check Latest Price on Amazon](https://www.amazon.com/Insulated-Compartment-Reusable-Shoulder-Leakproof/dp/B07HJFTM7P?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Insulated-Compartment-Reusable-Shoulder-Leakproof/dp/B07HJFTM7P/?tag=kitchenpot-20)
 
 The OPUX lunch bag is ideal for both men and women. It is sizable and can fit up to 9 cans. It measures 10 inches by 7.5 inches by 10 inches, and it is available in 12 different colors. 
 

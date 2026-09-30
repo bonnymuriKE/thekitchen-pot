@@ -37,7 +37,7 @@ This article will guide you on the best blenders for smoothies to suit your need
 
 ## **6 Best Blenders for Smoothies**
 
-### **1. [Ninja BL770 Kitchen System](https://www.amazon.com/Ninja-Kitchen-BL770-Processor-Smoothies/dp/B00939I7EK?tag=kitchenpot-20)**
+### **1. [Ninja BL770 Kitchen System](https://www.amazon.com/Ninja-Kitchen-BL770-Processor-Smoothies/dp/B00939I7EK/?tag=kitchenpot-20)**
 
 The ninja BL770 kitchen system comes with a high-powered motor and additional accessories for food processing. The appliance adds exceptional values to your range but still comes at a competitive price.
 
@@ -53,7 +53,7 @@ There are two small (or single serving) jars that are 16 ounces each. Unlike the
 
 For cleaning, try warm water in the jar/pitcher and blend it with a few drops of dish soap, or your dish- wash your blender. Just remember to soak them well before loading them.
 
-[Check Latest Price](https://www.amazon.com/Ninja-Kitchen-BL770-Processor-Smoothies/dp/B00939I7EK?tag=kitchenpot-20)
+[Check Latest Price](https://www.amazon.com/Ninja-Kitchen-BL770-Processor-Smoothies/dp/B00939I7EK/?tag=kitchenpot-20)
 
 **Pros**
 
@@ -68,7 +68,7 @@ For cleaning, try warm water in the jar/pitcher and blend it with a few drops of
 * The machine needs extra storage space for all the extras
 * Mediocre at heavy tasks
 
-### **2. [Vitamix 5200 Blender](https://www.amazon.com/Vitamix-Blender-Professional-Grade-Container-Black/dp/B008H4SLV6?tag=kitchenpot-20)**
+### **2. [Vitamix 5200 Blender](https://www.amazon.com/Vitamix-Blender-Professional-Grade-Container-Black/dp/B008H4SLV6/?tag=kitchenpot-20)**
 
 The Vitamix 5200 is a superb example of the brand’s finest craftsmanship. The appliance wins over with its resilience, simple controls, and powerful power.
 
@@ -78,7 +78,7 @@ The device also comes with an overload safety function. If the Vitamix 5200 blen
 
 The device features a motor peak around 1400 watts (2 horsepower). This works together with a premium stainless steel blade to turn your veggies and fruits into silky drinks. Like smoothies in a matter of seconds.
 
-**[Visit Vitamix Store on Amazon](https://www.amazon.com/Vitamix-Blender-Professional-Grade-Container-Black/dp/B008H4SLV6?tag=kitchenpot-20)**
+**[Visit Vitamix Store on Amazon](https://www.amazon.com/Vitamix-Blender-Professional-Grade-Container-Black/dp/B008H4SLV6/?tag=kitchenpot-20)**
 
 Although some parts of the device are dishwasher friendly, some parts that are usually in contact with food, from the pitcher to the tamper are not highly commended for the dishwasher.
 
@@ -90,7 +90,7 @@ The variable option is the lower power blade and is useful when you need some ch
 
 Although the Vitamix 5200 may be a bit more costly than your standard kitchen blender, the machine’s premium construction and dependable performance are surely worth it. The appliance comes with a 7-year warranty.
 
-[Check Price on Amazon](https://www.amazon.com/Vitamix-Blender-Professional-Grade-Container-Black/dp/B008H4SLV6?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Vitamix-Blender-Professional-Grade-Container-Black/dp/B008H4SLV6/?tag=kitchenpot-20)
 
 **Pros**
 
@@ -105,7 +105,7 @@ Although the Vitamix 5200 may be a bit more costly than your standard kitchen bl
 * The device is not cost-effective
 * It’s not dishwasher friendly
 
-### **3. [Ninja BL660 Professional Countertop Blender](https://www.amazon.com/Ninja-Professional-Countertop-1100-Watt-BL660/dp/B00939FV8K?tag=kitchenpot-20)**
+### **3. [Ninja BL660 Professional Countertop Blender](https://www.amazon.com/Ninja-Professional-Countertop-1100-Watt-BL660/dp/B00939FV8K/?tag=kitchenpot-20)**
 
 The ninja BL660 professional countertop blender is a pocket-friendly appliance. Although the device is cost-friendly, it still manages to pack a powerful motor, on-the-go cups, and a pitcher.
 
@@ -119,7 +119,7 @@ To clean all the parts of the blender well, you should mix warm water with a few
 
  Always ensure you watch yourself around the blades because they’re extremely sharp to prevent accidents when cleaning the blender.
 
-[Check Price on Amazon](https://www.amazon.com/Ninja-Professional-Countertop-1100-Watt-BL660/dp/B00939FV8K?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Professional-Countertop-1100-Watt-BL660/dp/B00939FV8K/?tag=kitchenpot-20)
 
 **Pros**
 
@@ -133,7 +133,7 @@ To clean all the parts of the blender well, you should mix warm water with a few
 * Mediocre at heavy tasks
 * Can be quite noisy
 
-### **4. [Nutri Ninja Pro BL456- Best Budget Blender](https://www.amazon.com/Ninja-Personal-Extraction-Smoothies-BL456/dp/B00Y2U1QUM?tag=kitchenpot-20)**
+### **4. [Nutri Ninja Pro BL456- Best Budget Blender](https://www.amazon.com/Ninja-Personal-Extraction-Smoothies-BL456/dp/B00Y2U1QUM/?tag=kitchenpot-20)**
 
 The Nutri ninja pro BL456 is an exemplary model from ninja. The device is built to handle various tasks in a simple and fast way. The blender is preferred by those who live on a tight schedule.
 
@@ -141,7 +141,7 @@ If you’ve never used this type of blender, well no need to worry. All you have
 
 The Ninja BL456 blender also features a one 18-ounce cup and two on-the-go lids, so you can prepare your drinks and bring the cup with you. All removable parts of the blender, from the blades to the lids to the jars are dishwasher friendly.
 
-[Check Price on Amazon](https://www.amazon.com/Ninja-Personal-Extraction-Smoothies-BL456/dp/B00Y2U1QUM?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Personal-Extraction-Smoothies-BL456/dp/B00Y2U1QUM/?tag=kitchenpot-20)
 
 Always ensure you rinse all the removable parts of the machine before loading them in for the effective performance of the device.
 
@@ -162,7 +162,7 @@ To ensure safety when using the blender, always ensure you secure the blade asse
 * It’s noisy
 * Heavy to press down
 
-### **5. [Vitamix 7500 Low-Profile Blender- Best Commercial Blender](https://www.amazon.com/Vitamix-Blender-Professional-Grade-Low-Profile-Container/dp/B00LQT4ZZU?tag=kitchenpot-20)**
+### **5. [Vitamix 7500 Low-Profile Blender- Best Commercial Blender](https://www.amazon.com/Vitamix-Blender-Professional-Grade-Low-Profile-Container/dp/B00LQT4ZZU/?tag=kitchenpot-20)**
 
 The Vitamix 7500 low-profile blender is a high-quality and pricey device. Its premium built, has powerful motor strength, and to top it all up, it has been tested by several users.
 
@@ -172,7 +172,7 @@ This is one of the heaviest residential blenders available as it weighs about 12
 
 The appliance comes with 10 speeds for you to use depending on the ingredients. Compared to other blenders, there’s an added pulse function. 
 
-[Buy on Amazon](https://www.amazon.com/Vitamix-Blender-Professional-Grade-Low-Profile-Container/dp/B00LQT4ZZU?tag=kitchenpot-20)
+[Buy on Amazon](https://www.amazon.com/Vitamix-Blender-Professional-Grade-Low-Profile-Container/dp/B00LQT4ZZU/?tag=kitchenpot-20)
 
 Several users who’ve used the device love this feature about the machine because the option comes in handy for many tasks: like preparing spicy chunky salsas or sweet fruit compotes where you want to control the texture of your smoothie.
 
@@ -184,7 +184,7 @@ The Vitamix 7500 low-profile comes with a pitcher that measures 64 ounces ( 8-cu
 
 The device also features a rubber lid that fits easily on the pitcher and has a hole in the middle so you can add your ingredients or use the tamper. The blender comes with a 7-year warranty.
 
-**[Check Price on Amazon](https://www.amazon.com/Vitamix-Blender-Professional-Grade-Low-Profile-Container/dp/B00LQT4ZZU?tag=kitchenpot-20)**
+**[Check Price on Amazon](https://www.amazon.com/Vitamix-Blender-Professional-Grade-Low-Profile-Container/dp/B00LQT4ZZU/?tag=kitchenpot-20)**
 
 **Pros**
 
@@ -199,7 +199,7 @@ The device also features a rubber lid that fits easily on the pitcher and has a 
 * The machine is not dishwasher safe even the removable parts
 * It’s expensive
 
-### **6. [Oster Blender| Pro 1200 with Glass Jar, 24-Ounce Smoothie Cup, Brushed Nickel](https://www.amazon.com/Oster-Blender-24-Ounce-Smoothie-Brushed/dp/B00XHXN54K?tag=kitchenpot-20)**
+### **6. [Oster Blender| Pro 1200 with Glass Jar, 24-Ounce Smoothie Cup, Brushed Nickel](https://www.amazon.com/Oster-Blender-24-Ounce-Smoothie-Brushed/dp/B00XHXN54K/?tag=kitchenpot-20)**
 
 If you wish to find a pocket-friendly blender, then the Oster blender pro-1200 with a glass jar is the way to go.
 
@@ -211,7 +211,7 @@ The blade function of the machine is fifty percent larger when compared to those
 
 The blender also comes fitted with an awesome feature. The boro glass jar is made of glass as compared to most blenders that come with plastic jars. The glass jar can withstand thermal shock and looks lovely as well. 
 
-[Check Price on Amazon](https://www.amazon.com/Oster-Blender-24-Ounce-Smoothie-Brushed/dp/B00XHXN54K?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Oster-Blender-24-Ounce-Smoothie-Brushed/dp/B00XHXN54K/?tag=kitchenpot-20)
 
 **Pros**
 

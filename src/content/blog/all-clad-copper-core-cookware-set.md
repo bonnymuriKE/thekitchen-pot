@@ -36,7 +36,7 @@ We tested the performance of the All-Clad Copper Core 10-Piece Cookware Set. Her
 
 ## All-Clad Copper Core Cookware Set – Our Best Pick 
 
-**[All-Clad 60090 Copper Core 5-Ply Bonded Dishwasher Safe Cookware Set, 14-Piece, Silver](https://www.amazon.com/All-Clad-Copper-Dishwasher-Cookware-14-Piece/dp/B000MWC02C?tag=kitchenpot-20)**
+**[All-Clad 60090 Copper Core 5-Ply Bonded Dishwasher Safe Cookware Set, 14-Piece, Silver](https://www.amazon.com/All-Clad-Copper-Dishwasher-Cookware-14-Piece/dp/B000MWC02C/?tag=kitchenpot-20)**
 
 **Summary Features**
 
@@ -64,7 +64,7 @@ Silver
 
 9 Pounds
 
-[Check Latest Price on Amazon](https://www.amazon.com/All-Clad-Copper-Dishwasher-Cookware-14-Piece/dp/B000MWC02C?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/All-Clad-Copper-Dishwasher-Cookware-14-Piece/dp/B000MWC02C/?tag=kitchenpot-20)
 
 ## All-Clad Copper Core Cookware Construction 
 
@@ -147,17 +147,17 @@ Overall, the cookware is worth it. Its longevity is particularly something you�
 
 You can buy All-Clad cookware from Amazon or any other nearest store. Here are some of the variations available at Amazon:
 
-**[All-Clad 6000-7 SS Copper Core 5-Ply Bonded Dishwasher Safe Cookware Set, 7-Piece, Silver](https://www.amazon.com/dp/B00005AL0L/ref=twister_B00WJYQO0U?tag=kitchenpot-20)**
+**[All-Clad 6000-7 SS Copper Core 5-Ply Bonded Dishwasher Safe Cookware Set, 7-Piece, Silver](https://www.amazon.com/All-Clad-6000-7-Copper-Core-7-Piece-Cookware-Set/dp/B00005AL0L/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/dp/B00005AL0L/ref=twister_B00WJYQO0U?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/All-Clad-6000-7-Copper-Core-7-Piece-Cookware-Set/dp/B00005AL0L/?tag=kitchenpot-20)
 
-**[All-Clad 600822 SS Copper Core 5-Ply Bonded Dishwasher Safe Cookware Set, 10-Piece, Silver](https://www.amazon.com/dp/B000MI3BD8/ref=twister_B00WJYQO0U?tag=kitchenpot-20)**
+**[All-Clad 600822 SS Copper Core 5-Ply Bonded Dishwasher Safe Cookware Set, 10-Piece, Silver](https://www.amazon.com/All-Clad-600822-Copper-Core-10-Piece-Cookware-Set/dp/B000MI3BD8/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/dp/B000MI3BD8/ref=twister_B00WJYQO0U?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/All-Clad-600822-Copper-Core-10-Piece-Cookware-Set/dp/B000MI3BD8/?tag=kitchenpot-20)
 
-**[All-Clad 60090 Copper Core 5-Ply Bonded Dishwasher Safe Cookware Set, 14-Piece, Silver](https://www.amazon.com/dp/B000MWC02C/ref=twister_B00WJYQO0U?tag=kitchenpot-20)**
+**[All-Clad 60090 Copper Core 5-Ply Bonded Dishwasher Safe Cookware Set, 14-Piece, Silver](https://www.amazon.com/All-Clad-60090-Copper-Core-14-Piece-Cookware-Set/dp/B000MWC02C/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/dp/B000MWC02C/ref=twister_B00WJYQO0U?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/All-Clad-60090-Copper-Core-14-Piece-Cookware-Set/dp/B000MWC02C/?tag=kitchenpot-20)
 
 The three sets can also come together with a copper bonded frying pan, kitchen tool, a pasta pentola, or a slotted turner.
 

@@ -65,7 +65,7 @@ Yogurt is a healthy substitute for coconut milk. It is thick and has unmatched p
 
 However, you should avoid this option if you are to boil the mixture. In excessive heat, yogurt may lump and splatter, thus creating a mess.
 
-If you want to replace one cup of coconut milk, you should mix one cup of **[Greek yogurt](https://www.amazon.com/EasiYo-Yogurt-Mix-Greek-Style/dp/B01LYK8I89?tag=kitchenpot-20)** with one tablespoon of water. This option is particularly significant when making smoothies. 
+If you want to replace one cup of coconut milk, you should mix one cup of **[Greek yogurt](https://www.amazon.com/EasiYo-Yogurt-Mix-Greek-Style/dp/B01LYK8I89/?tag=kitchenpot-20)** with one tablespoon of water. This option is particularly significant when making smoothies. 
 
 **3. Canned Tomatoes**
 
@@ -87,7 +87,7 @@ To achieve the best results, you should use two parts of the heavy cream with 1 
 
 **6. Almond Milk**
 
-**[Almond milk](https://www.amazon.com/Silk-Unsweetened-Flavored-Non-Dairy-Dairy-free/dp/B00PGXQ68Q?tag=kitchenpot-20)** is low in calories, making it the best coconut milk alternative, especially if you are dieting. 
+**[Almond milk](https://www.amazon.com/Silk-Unsweetened-Flavored-Non-Dairy-Dairy-free/dp/B00PGXQ68Q/?tag=kitchenpot-20)** is low in calories, making it the best coconut milk alternative, especially if you are dieting. 
 
 Its unsweetened version has a relatively neutral flavor, making it an excellent option when making smoothies, eating cereals, or baking. 
 

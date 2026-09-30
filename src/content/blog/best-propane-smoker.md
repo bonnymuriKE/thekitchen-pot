@@ -45,7 +45,7 @@ A gas smoker is an outdoor cooking device that smokes food and uses propane as i
 
 ## 7 Best Propane Smokers
 
-### **1. [Master Built MB20051316 Propane Smoker with Thermostat Control 40 Inch, Black](https://www.amazon.com/Masterbuilt-MB20051316-ThermoTemp-Propane-Smoker/dp/B07NQPLB1Q?tag=kitchenpot-20)**
+### **1. [Master Built MB20051316 Propane Smoker with Thermostat Control 40 Inch, Black](https://www.amazon.com/Masterbuilt-MB20051316-ThermoTemp-Propane-Smoker/dp/B07NQPLB1Q/?tag=kitchenpot-20)**
 
 Master built propane smoker makes smoking meat easy. The appliance comes with affordable price tags, ease of use, and awesome results combined to make them some of the best residential smokers in the market.
 
@@ -55,7 +55,7 @@ The thermostat regulates the flow of gas to the burner to maintain your selected
 
 Compared to other vertical gassers that come with only one door to access the smoking food on top and smoking wood on the bottom, the master built propane smoker comes fitted with a separate door for food and lower door for tending wood.
 
-**[Check Price on Amazon](https://www.amazon.com/Masterbuilt-MB20051316-ThermoTemp-Propane-Smoker/dp/B07NQPLB1Q?tag=kitchenpot-20)**
+**[Check Price on Amazon](https://www.amazon.com/Masterbuilt-MB20051316-ThermoTemp-Propane-Smoker/dp/B07NQPLB1Q/?tag=kitchenpot-20)**
 
 Although the door is not crucial, two doors let you fill up wood without disrupting cooking temperature in the upper smoke box.
 
@@ -65,7 +65,7 @@ Master built propane smoker features a thermotemp which has a convenient LP gas 
 
  A fuel gauge integrated with the regulator provides a rough estimate of how much juice is in the tank. But even with this amazing feature, it’s always a good idea to have a backup tank with any gas smoker.
 
-[Check Price on Amazon](https://www.amazon.com/Masterbuilt-MB20051316-ThermoTemp-Propane-Smoker/dp/B07NQPLB1Q?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Masterbuilt-MB20051316-ThermoTemp-Propane-Smoker/dp/B07NQPLB1Q/?tag=kitchenpot-20)
 
 **Pros** 
 
@@ -77,7 +77,7 @@ Master built propane smoker features a thermotemp which has a convenient LP gas 
 
 * The device only comes with a one year warranty which does not cover paint or rust
 
-### **2. [Dyna- Glo DGY784BDP Vertical LP Gas Smoker](https://www.amazon.com/Dyna-Glo-DGW1235BDP-D-Wide-Body-Smoker/dp/B010759H9W?tag=kitchenpot-20)**
+### **2. [Dyna- Glo DGY784BDP Vertical LP Gas Smoker](https://www.amazon.com/Dyna-Glo-DGW1235BDP-D-Wide-Body-Smoker/dp/B010759H9W/?tag=kitchenpot-20)**
 
 The Dyna-Glo vertical LP gas smoker is 36 inches and good in size when considering space and movability. It is well constructed and remains in the same quality even after some time.
 
@@ -91,7 +91,7 @@ The appliance comes with a temperature gauge easily readable and includes a smok
 
 The device consists of a built-in wood chip tray as well as a large capacity water tray of great quality. Its dual door design creates a good temperature control and uninterrupted cooking when there is the need to fuel with more wood.
 
-[Check Price on Amazon](https://www.amazon.com/Dyna-Glo-DGW1235BDP-D-Wide-Body-Smoker/dp/B010759H9W?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Dyna-Glo-DGW1235BDP-D-Wide-Body-Smoker/dp/B010759H9W/?tag=kitchenpot-20)
 
 **Pros**
 
@@ -107,7 +107,7 @@ The device consists of a built-in wood chip tray as well as a large capacity wat
 
 > You can also opt for a [modified smoker box. Read here](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills/) for several options available.
 
-### **3. [Camp Chef Smoke Vault Propane Smoke](https://www.amazon.com/dp/B000URBBVK?tag=kitchenpot-20)**
+### **3. [Camp Chef Smoke Vault Propane Smoke](https://www.amazon.com/Camp-Chef-Smoke-Vault-Propane-Smoke/dp/B000URBBVK/?tag=kitchenpot-20)**
 
 Camp chef smoke propane smoker is 24 inches in size and can be used as a tabletop smoker if you have a small kitchen.
 
@@ -115,7 +115,7 @@ The camp chef smoke propane smoker is one of the best propane smokers on the mar
 
 Additionally, the smoker comes with 2 cooking grids and I jerky rack which is great for a decent number of people. The device also fits a water pan for moisture creation and a wood chip tray for those smoky flavors.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B000URBBVK?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Camp-Chef-Smoke-Vault-Propane-Smoke/dp/B000URBBVK/?tag=kitchenpot-20)
 
 Dissimilar to many other smokers that usually have one or two dampers, this particular appliance provides the user with 3 dampers for maximum heat control. One damper sits at the top of the smoke, and the other two are on both sides of it.
 
@@ -133,7 +133,7 @@ However, the camp chef smoke propane smoker might not be pocket friendly, but th
 * The device has poor air vent closure
 * Smoke leakage from doors
 
-### **4. [Char-Broil Vertical Liquid Propane Gas Smoker](https://www.amazon.com/Char-Broil-Vertical-Liquid-Propane-Smoker/dp/B004J66WWG?tag=kitchenpot-20)**
+### **4. [Char-Broil Vertical Liquid Propane Gas Smoker](https://www.amazon.com/Char-Broil-Vertical-Liquid-Propane-Smoker/dp/B004J66WWG/?tag=kitchenpot-20)**
 
 Charbroil vertical liquid is one of the best propane smokers under 200 on the market. This appliance can be described as a big smoker which comes in handy for a large family.
 
@@ -149,7 +149,7 @@ The device also comes with a long-lasting LPG propane regulator which means you�
 
 Although the char-broil propane smoker may not be very efficient in its functionality, we believe that this is a good purchase if you’re on a shoestring.
 
-[Check Price on Amazon](https://www.amazon.com/Char-Broil-Vertical-Liquid-Propane-Smoker/dp/B004J66WWG?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Char-Broil-Vertical-Liquid-Propane-Smoker/dp/B004J66WWG/?tag=kitchenpot-20)
 
 **Pros**
 
@@ -163,13 +163,13 @@ Although the char-broil propane smoker may not be very efficient in its function
 * Poor temperature control
 * Poor quality water and wood tray
 
-### **5. [Smoke Hollow 38202G 38-Inch 2-Door Propane Gas Smoker](https://www.amazon.com/Smoke-Hollow-38202G-38-Inch-Propane/dp/B00ENJRHZK/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8?tag=kitchenpot-20)**
+### **5. [Smoke Hollow 38202G 38-Inch 2-Door Propane Gas Smoker](https://www.amazon.com/Smoke-Hollow-38202G-38-Inch-Propane/dp/B00ENJRHZK/?tag=kitchenpot-20)**
 
 The smoke hollow propane smoker is a steel designed device that’s ideal for your needs. The machine is designed with durability and permanence making it a great buy for the money. You will never go wrong with this device with its simple design for use.
 
 The smoke hollow propane smoker comes fitted with an upper and lower level vent which is a key feature to have in a smoker for great airflow while cooking. For the money, the appliance may seem to be expensive, but we believe it is still competitive due to the features it tables.
 
-[Check Price on Amazon](https://www.amazon.com/Smoke-Hollow-38202G-38-Inch-Propane/dp/B00ENJRHZK/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Smoke-Hollow-38202G-38-Inch-Propane/dp/B00ENJRHZK/?tag=kitchenpot-20)
 
 The device also comes with a push ignition system for easy fire lighting and an external gauge. The external gauge helps in the checking of temperatures rather than an interior temperature gauge.
 
@@ -187,7 +187,7 @@ The smoke hollow propane smoker contains 4 cooking grates with multiple adjustme
 
 * Improper door sealing
 
-### **6. [Pit Boss Grills 77435 Vertical LP Gas Smoker](https://www.amazon.com/dp/B078PRCDGX?tag=kitchenpot-20)**
+### **6. [Pit Boss Grills 77435 Vertical LP Gas Smoker](https://www.amazon.com/Pit-Boss-Grills-77435-Vertical-LP-Gas-Smoker/dp/B078PRCDGX/?tag=kitchenpot-20)**
 
 Pit boss vertical LP Gas smoker is a digital gas smoker well packaged and easy to assemble. All the parts of the device are high quality and strong. 
 
@@ -199,7 +199,7 @@ The side dampeners make it easier to maintain a steady temperature of about 225F
 
 One of the best features about the pit Boss Vertical LP Gas smoker is how fast and consistently the device maintains temperatures. 
 
-**[Buy Pit Boss on Amazon](https://www.amazon.com/dp/B078PRCDGX?tag=kitchenpot-20)**
+**[Buy Pit Boss on Amazon](https://www.amazon.com/Pit-Boss-Grills-77435-Vertical-LP-Gas-Smoker/dp/B078PRCDGX/?tag=kitchenpot-20)**
 
 The appliance features a distinctive dual valve burner system that includes a 3500 BTU burner for the wood chips, and a 10,000 BTU burner for the cabinet.
 
@@ -213,7 +213,7 @@ With 884 square inches of cooking area, you can smoke various dishes. The 4 grat
 
 Generally, the pit boss vertical LP Gas smoker is an astounding bargain and fairly priced.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B078PRCDGX?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Pit-Boss-Grills-77435-Vertical-LP-Gas-Smoker/dp/B078PRCDGX/?tag=kitchenpot-20)
 
 **Pros**
 
@@ -228,7 +228,7 @@ Generally, the pit boss vertical LP Gas smoker is an astounding bargain and fair
 * Does not include internal meat thermometer
 * The water tray could be slightly bigger for smoking longer than 2 hrs.
 
-### **7. [Char-Broil TRU-Infrared Grill2Go X200 Portable Gas Grill](https://www.amazon.com/Char-Broil-Grill2Go-Portable-TRU-Infrared-Propane/dp/B00BFPMLI8?tag=kitchenpot-20)**
+### **7. [Char-Broil TRU-Infrared Grill2Go X200 Portable Gas Grill](https://www.amazon.com/Char-Broil-Grill2Go-Portable-TRU-Infrared-Propane/dp/B00BFPMLI8/?tag=kitchenpot-20)**
 
 The char-broil TRU-Infrared Grill2Go X200 portable gas grill is a small traveling grill, perfect for camping, tailgating, and road trips.
 
@@ -240,7 +240,7 @@ Although the device is one of the best machines, it also has its drawback. The a
 
 Another disadvantage of the appliance is that when used for a while the grill will require extra maintenance and might also have flare-ups issue.
 
-[Check Price on Amazon](https://www.amazon.com/Char-Broil-Grill2Go-Portable-TRU-Infrared-Propane/dp/B00BFPMLI8?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Char-Broil-Grill2Go-Portable-TRU-Infrared-Propane/dp/B00BFPMLI8/?tag=kitchenpot-20)
 
 **Pros**
 

@@ -57,7 +57,7 @@ This breaks down the cellular walls releasing the juice, and then the pulp is se
 
 ## **6 Best Commercial Masticating Juicers**
 
-### **1. [Tribest GSE-5010 Green Star Elite Cold Press Complete- Best Overall Masticating Juicer](https://www.amazon.com/Tribest-GSE-5010-Greenstar-Masticating-Extractor/dp/B0172DNJW8?tag=kitchenpot-20)**
+### **1. [Tribest GSE-5010 Green Star Elite Cold Press Complete- Best Overall Masticating Juicer](https://www.amazon.com/Tribest-GSE-5010-Greenstar-Masticating-Extractor/dp/B0172DNJW8/?tag=kitchenpot-20)**
 
 The Tribest GSE-5010 juicer is the overall best masticating juicer. The machine contains consists of two stainless, bio-ceramic gears that are designed to cut, slice fruits and vegetables, and crunch within the machine. 
 
@@ -71,7 +71,7 @@ The tribest is very dependable and is long-lasting. The machine also comes packa
 
 Although the tribest juicer has lots of unique features, the machine is not without its flaws as well. The tribest juicer is rather heavy and can be tricky to use at first.
 
-[Check Price on Amazon](https://www.amazon.com/Tribest-GSE-5010-Greenstar-Masticating-Extractor/dp/B0172DNJW8?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Tribest-GSE-5010-Greenstar-Masticating-Extractor/dp/B0172DNJW8/?tag=kitchenpot-20)
 
 **Pros**
 
@@ -86,7 +86,7 @@ Although the tribest juicer has lots of unique features, the machine is not with
 
 * The tribest juicer is rather heavy and can be tricky to use at first
 
-### **2. [Amzchef Masticating Slow Juicer](https://www.amazon.com/Machines-AMZCHEF-Masticating-Extractor-Vegetables/dp/B081H6PKCS?tag=kitchenpot-20)**
+### **2. [Amzchef Masticating Slow Juicer](https://www.amazon.com/Machines-AMZCHEF-Masticating-Extractor-Vegetables/dp/B081H6PKCS/?tag=kitchenpot-20)**
 
 Amzchef masticating commercial juicer is constructed with first-rate materials. All working parts are of high-quality Tritan food grade anti-oxidation materials. The plastic parts are BPA free.
 
@@ -94,7 +94,7 @@ Amzchef masticating commercial juicer comes with a 10-year warranty for the moto
 
 Amzchef masticating commercial juicer comes with three strainers; a fine one for purer juice; a coarse one for pulpy produce, and an ice cream strainer as well. The feeding chute is 3.15 inches wide so not much cutting is necessary. 
 
-**[Visit Amzchef Store on Amazon](https://www.amazon.com/Machines-AMZCHEF-Masticating-Extractor-Vegetables/dp/B081H6PKCS?tag=kitchenpot-20)**
+**[Visit Amzchef Store on Amazon](https://www.amazon.com/Machines-AMZCHEF-Masticating-Extractor-Vegetables/dp/B081H6PKCS/?tag=kitchenpot-20)**
 
 This commercial masticating juicer also comes with a 1.8 inch opening for longer types of stalk foods or wheatgrass. The extractor is superb for the wheatgrass juicing.
 
@@ -102,7 +102,7 @@ Apart from better quality juice, masticating juicers are also quiet. The slow ju
 
 Amzchef masticating slow juicers also features a pre-cleaning role where you close the juice outlet cap, then pour water into the juicer, and press on the working or reverse button to clean.
 
-[Check Price on Amazon](https://www.amazon.com/Machines-AMZCHEF-Masticating-Extractor-Vegetables/dp/B081H6PKCS?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Machines-AMZCHEF-Masticating-Extractor-Vegetables/dp/B081H6PKCS/?tag=kitchenpot-20)
 
 **Pros**
 
@@ -115,13 +115,13 @@ Amzchef masticating slow juicers also features a pre-cleaning role where you clo
 * The masticating juicer comes with the only type of blade
 * Less durable plastic parts
 
-### **3. [Top Wheatgrass Juicer- Omega NC900HDC Juice Extractor and Nutrition Center](https://www.amazon.com/Omega-Juicers-NC900HDC-Wheatgrass-Masticating/dp/B00CIU92S6?tag=kitchenpot-20)**
+### **3. [Top Wheatgrass Juicer- Omega NC900HDC Juice Extractor and Nutrition Center](https://www.amazon.com/Omega-Juicers-NC900HDC-Wheatgrass-Masticating/dp/B00CIU92S6/?tag=kitchenpot-20)**
 
 The top wheatgrass juice extractor and nutrition center weighs 17.54 pounds. The machine measures 14.5 inches wide by 15.5 inches high and 6.5 inches deep. This device is a powerful machine. 
 
 The top wheatgrass juicer comes programmed with five different settings, ranging from an easy juice-making level to one that can make wheatgrass on demand.
 
-[Visit Omega Store on Amazon](https://www.amazon.com/Omega-Juicers-NC900HDC-Wheatgrass-Masticating/dp/B00CIU92S6?tag=kitchenpot-20)
+[Visit Omega Store on Amazon](https://www.amazon.com/Omega-Juicers-NC900HDC-Wheatgrass-Masticating/dp/B00CIU92S6/?tag=kitchenpot-20)
 
 Although it’s an outstanding wheatgrass juicer, the Omega NC900HDC makes things like salsas and marinades. 
 
@@ -135,7 +135,7 @@ But the powerful motor in this unit can handle so much like chopping, extracting
 
 The omega NC900HDC juice extractor has plastic exterior although BPA- free, it’s a bit fragile than similar units.
 
-**[Check Price on Amazon](https://www.amazon.com/Omega-Juicers-NC900HDC-Wheatgrass-Masticating/dp/B00CIU92S6?tag=kitchenpot-20)**
+**[Check Price on Amazon](https://www.amazon.com/Omega-Juicers-NC900HDC-Wheatgrass-Masticating/dp/B00CIU92S6/?tag=kitchenpot-20)**
 
 **Pros**
 
@@ -148,7 +148,7 @@ The omega NC900HDC juice extractor has plastic exterior although BPA- free, it�
 
 * The machine is a bit time consuming to clean
 
-### **4. [Hurom HZ Masticating Commercial Juicer](https://www.amazon.com/HUROM-HZ-Slow-Juicer-Silver/dp/B01M16OH2X?tag=kitchenpot-20)**
+### **4. [Hurom HZ Masticating Commercial Juicer](https://www.amazon.com/HUROM-HZ-Slow-Juicer-Silver/dp/B01M16OH2X/?tag=kitchenpot-20)**
 
 The Hurom HZ masticating stainless steel juicer is stylish, compact, and quiet.
 
@@ -156,7 +156,7 @@ The Hurom masticating juicer runs at a slow and quite 43 RPM. An auger does the 
 
 The Hurom masticating juicer has a great customer service behind it as it comes with a 10-year warranty, although you might probably not need the warranty as the appliance is strongly constructed. The juicer produces commercial-grade results in a machine that is simple and easy to use.
 
-**[Visit Hurom Store on Amazon](https://www.amazon.com/HUROM-HZ-Slow-Juicer-Silver/dp/B01M16OH2X?tag=kitchenpot-20)**
+**[Visit Hurom Store on Amazon](https://www.amazon.com/HUROM-HZ-Slow-Juicer-Silver/dp/B01M16OH2X/?tag=kitchenpot-20)**
 
 The pulp that comes out of the extractor is as close to bone-dry as is humanly possible. You will not lose any juice with this masticating juicer, and the juice that comes out will taste like it was hand-squeezed.
 
@@ -173,9 +173,9 @@ Although the Hurom masticating juicer slow RPM produces good results, it’s slo
 
 * The masticating juicer is slower than most juicers
 
-[Check Price on Amazon](https://www.amazon.com/HUROM-HZ-Slow-Juicer-Silver/dp/B01M16OH2X?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/HUROM-HZ-Slow-Juicer-Silver/dp/B01M16OH2X/?tag=kitchenpot-20)
 
-### **5. [Hurom HU-100 Masticating Slow Juicer, White](https://www.amazon.com/dp/B01H0YJQN0/ref=dp_cerb_3?tag=kitchenpot-20)**
+### **5. [Hurom HU-100 Masticating Slow Juicer, White](https://www.amazon.com/Hurom-HU-100-Masticating-Slow-Juicer/dp/B01H0YJQN0/?tag=kitchenpot-20)**
 
 The Hurom HU-100 masticating slow juicer is a multi-use appliance. Although it isn’t as adaptable as other models, it can handle things like juice and baby food with ease.
 
@@ -183,7 +183,7 @@ Though the model is one of the smallest of its kind, the appliance also doubles 
 
 Hurom HU-100 slow juicer measures 15.8 inches tall by 6.8 inches deep, and 9.8 inches wide.
 
-**[Check Price on Amazon](https://www.amazon.com/dp/B01H0YJQN0/ref=dp_cerb_3?tag=kitchenpot-20)**
+**[Check Price on Amazon](https://www.amazon.com/Hurom-HU-100-Masticating-Slow-Juicer/dp/B01H0YJQN0/?tag=kitchenpot-20)**
 
 The appliance is well-designed and quite modish. The unit comes in a white plastic (BPA-free of course) exterior with a green stripe on its handle. The machine is quite colorful, thanks to this accent.
 
@@ -195,7 +195,7 @@ Although the appliance is compact, it also comes with a few issues. When using t
 
 Hurom HU-100 masticating slow juicer does not handle things like greens (wheatgrass, kale, and so on). Well, with that said, the machine makes an awesome glass of juice. 
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01H0YJQN0/ref=dp_cerb_3?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Hurom-HU-100-Masticating-Slow-Juicer/dp/B01H0YJQN0/?tag=kitchenpot-20)
 
 **Pros**
 
@@ -212,7 +212,7 @@ Hurom HU-100 masticating slow juicer does not handle things like greens (wheatgr
 * You need to cut the food in small pieces before juicing
 * Sometimes the machine creates jam when overloaded with the produce
 
-### **6. [The Slow Masticating Juicer by FAMTOP](https://www.amazon.com/FAMTOP-Slow-Masticating-Juicer-Extractor/dp/B07T2X2F3J?tag=kitchenpot-20)**
+### **6. [The Slow Masticating Juicer by FAMTOP](https://www.amazon.com/FAMTOP-Slow-Masticating-Juicer-Extractor/dp/B07T2X2F3J/?tag=kitchenpot-20)**
 
 The slow masticating juicer is powered by a 250-watt motor and runs at an amazingly slow 40 rpm (rotations per minute). The slow speed allows the machine to fully crush every bit of produce in the machine, turning them into pulpy juice full of important nutrients.
 
@@ -226,7 +226,7 @@ Because of its small size, the juicer is easy to store in a cabinet when it’s 
 
 FAMTOP slow masticating juicer will last reliably for years, and its sleek black and silver exterior looks awesome in many different kitchens. If you’ve been searching for uncomplicated, easy to use, and clean machine, then this is the ideal appliance for you.
 
-[Check Price on Amazon](https://www.amazon.com/FAMTOP-Slow-Masticating-Juicer-Extractor/dp/B07T2X2F3J?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/FAMTOP-Slow-Masticating-Juicer-Extractor/dp/B07T2X2F3J/?tag=kitchenpot-20)
 
 **Pros**
 

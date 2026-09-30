@@ -34,7 +34,7 @@ A sink with a drainboard is perfect for busy families who need the extra space t
 
 ## 5 Best Porcelain Kitchen Sinks with Drainboard
 
-### [1. **Houzer Porcela Series Porcelain Enamel Steel Undermount Offset Single Bowl Kitchen Sink**](https://www.amazon.com/PCG-3600-WH-Porcela-Porcelain-Undermount/dp/B00WIQX1M8?tag=kitchenpot-20)
+### [1. **Houzer Porcela Series Porcelain Enamel Steel Undermount Offset Single Bowl Kitchen Sink**](https://www.amazon.com/PCG-3600-WH-Porcela-Porcelain-Undermount/dp/B00WIQX1M8/?tag=kitchenpot-20)
 
 This sink is made of durable and non-porous porcelain enamel steel that resists stains, chips, and scratches. It has a 9-inch deep bowl and a 3.5-inch drain opening. It also comes with a wire rack and a strainer.
 

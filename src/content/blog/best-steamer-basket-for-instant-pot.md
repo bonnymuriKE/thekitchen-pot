@@ -44,12 +44,12 @@ The catch is that a basket sized for a 6-quart pot will not drop into a 3-quart 
 
 ## Top Picks by Job
 
-- **Best overall:** [Salbree Steamer Basket, 6-Quart](https://www.amazon.com/dp/B074CPVFN8/?tag=kitchenpot-20)
-- **Best value across all three pot sizes:** [Hatrigo Steamer Basket, 6-Quart](https://www.amazon.com/dp/B07S6HTZWN/?tag=kitchenpot-20)
-- **Best fine mesh for small food:** [Instant Pot Official Mesh Steamer Basket Set](https://www.amazon.com/dp/B07WSRLD95/?tag=kitchenpot-20)
-- **Best for two foods at once:** [AOZITA 2-Tier Stackable Steamer Basket](https://www.amazon.com/dp/B07CMW3B95/?tag=kitchenpot-20)
-- **Best for full pot-in-pot meals:** [Ecozoi 3-Tier Stackable Insert Pans](https://www.amazon.com/dp/B08T7VSMVP/?tag=kitchenpot-20)
-- **Best space-saving pick:** [Avokado Collapsible Silicone Steamer Basket, 6-Quart](https://www.amazon.com/dp/B07TWKSP1B/?tag=kitchenpot-20)
+- **Best overall:** [Salbree Steamer Basket, 6-Quart](https://www.amazon.com/Salbree-Steamer-Basket-6-Quart/dp/B074CPVFN8/?tag=kitchenpot-20)
+- **Best value across all three pot sizes:** [Hatrigo Steamer Basket, 6-Quart](https://www.amazon.com/Hatrigo-Steamer-Basket-6-Quart/dp/B07S6HTZWN/?tag=kitchenpot-20)
+- **Best fine mesh for small food:** [Instant Pot Official Mesh Steamer Basket Set](https://www.amazon.com/Instant-Pot-Official-Mesh-Steamer-Basket-Set/dp/B07WSRLD95/?tag=kitchenpot-20)
+- **Best for two foods at once:** [AOZITA 2-Tier Stackable Steamer Basket](https://www.amazon.com/AOZITA-2-Tier-Stackable-Steamer-Basket/dp/B07CMW3B95/?tag=kitchenpot-20)
+- **Best for full pot-in-pot meals:** [Ecozoi 3-Tier Stackable Insert Pans](https://www.amazon.com/Ecozoi-3-Tier-Stackable-Insert-Pans/dp/B08T7VSMVP/?tag=kitchenpot-20)
+- **Best space-saving pick:** [Avokado Collapsible Silicone Steamer Basket, 6-Quart](https://www.amazon.com/Avokado-Collapsible-Silicone-Steamer-Basket-6-Quart/dp/B07TWKSP1B/?tag=kitchenpot-20)
 
 ## How Steaming Works Inside a Pressure Cooker
 
@@ -91,7 +91,7 @@ A typical 6-quart basket, like the Salbree, measures about 8.1 inches across and
 
 Three things to check before you order:
 
-1. **Buy for your pot, not for the brand.** Salbree, Hatrigo and Avokado all sell separate 3-quart, 6-quart and 8-quart versions. Salbree's mini is [here](https://www.amazon.com/dp/B07BKQN5ZP/?tag=kitchenpot-20) and its 8-quart is [here](https://www.amazon.com/dp/B077NQY5QN/?tag=kitchenpot-20); Hatrigo's are [3-quart](https://www.amazon.com/dp/B0789D4TKZ/?tag=kitchenpot-20) and [8-quart](https://www.amazon.com/dp/B0789M3LDW/?tag=kitchenpot-20).
+1. **Buy for your pot, not for the brand.** Salbree, Hatrigo and Avokado all sell separate 3-quart, 6-quart and 8-quart versions. Salbree's mini is [here](https://www.amazon.com/The-3-Quart-6-Quart-and-8-Quart-Fit/dp/B07BKQN5ZP/?tag=kitchenpot-20) and its 8-quart is [here](https://www.amazon.com/The-3-Quart-6-Quart-and-8-Quart-Fit/dp/B077NQY5QN/?tag=kitchenpot-20); Hatrigo's are [3-quart](https://www.amazon.com/The-3-Quart-6-Quart-and-8-Quart-Fit/dp/B0789D4TKZ/?tag=kitchenpot-20) and [8-quart](https://www.amazon.com/The-3-Quart-6-Quart-and-8-Quart-Fit/dp/B0789M3LDW/?tag=kitchenpot-20).
 2. **Going smaller works, going bigger does not.** A 6-quart basket sits happily in an 8-quart pot, you just lose some capacity. The reverse is impossible.
 3. **Remember the lid.** The basket plus its handle has to clear the sealing ring so the lid can close. Tall handles on a shallow pot are a common annoyance, which is why several of the picks below use a folding or removable handle.
 
@@ -145,7 +145,7 @@ One deliberate design choice worth knowing: Salbree leaves the feet bare rather 
 
 **Who should buy it:** Anyone who wants one basket to handle vegetables, eggs, potatoes and fish and does not want to think about it again. If you are still building out your accessories, the [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/) list covers what else earns drawer space.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B074CPVFN8/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Salbree-Steamer-Basket-6-Quart/dp/B074CPVFN8/?tag=kitchenpot-20)
 
 ## 2. Hatrigo Steamer Basket, 6-Quart: Best Value Across All Three Pot Sizes
 
@@ -159,7 +159,7 @@ Hatrigo's range is the reason it is here. The same basket design comes in three 
 
 The design itself is conventional in a good way: perforated stainless sides, feet to hold the load clear of the water, and a folding silicone handle. Like the Salbree, it sets its own clearance, so the trivet becomes optional.
 
-The version worth a second look is the divided one. A [three-piece divided basket](https://www.amazon.com/dp/B07DC19JQ8/?tag=kitchenpot-20) splits the space into sections, so you can steam potatoes on one side and green beans on the other without the flavours mixing. For anyone batch-cooking components rather than whole meals, that is a real time saver, and it lines up with the approach in [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/).
+The version worth a second look is the divided one. A [three-piece divided basket](https://www.amazon.com/three-piece-divided-basket/dp/B07DC19JQ8/?tag=kitchenpot-20) splits the space into sections, so you can steam potatoes on one side and green beans on the other without the flavours mixing. For anyone batch-cooking components rather than whole meals, that is a real time saver, and it lines up with the approach in [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/).
 
 **What we like:**
 
@@ -177,7 +177,7 @@ The version worth a second look is the divided one. A [three-piece divided baske
 
 **Who should buy it:** Owners of a 3-quart Mini or an 8-quart, where finding a correctly sized basket is the actual difficulty. If you are still deciding between machines, [Instant Pot vs Ninja Foodi](/blog/instant-pot-vs-ninja-foodi/) covers the differences, and this basket works in either.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07S6HTZWN/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Hatrigo-Steamer-Basket-6-Quart/dp/B07S6HTZWN/?tag=kitchenpot-20)
 
 ## 3. Instant Pot Official Mesh Steamer Basket Set: Best Fine Mesh for Small Food
 
@@ -193,7 +193,7 @@ This official set gives you two mesh baskets in different sizes that nest inside
 
 The dual-purpose angle is real too. A fine mesh basket is a perfectly good colander, so it earns its shelf space twice over, and it comes straight out of the dishwasher.
 
-Owner reviews of the large basket are strongly positive, and the recurring praise is specific: people single out the raised feet keeping food out of the water and the handle making it easy to lift a hot load out. The one complaint that comes up more than once is minor, that water tends to sit under the top rim and needs a shake out before you put it away. You can read the [customer reviews here](https://www.amazon.com/product-reviews/B07WSRLD95/?tag=kitchenpot-20) and judge for yourself.
+Owner reviews of the large basket are strongly positive, and the recurring praise is specific: people single out the raised feet keeping food out of the water and the handle making it easy to lift a hot load out. The one complaint that comes up more than once is minor, that water tends to sit under the top rim and needs a shake out before you put it away. You can read the [customer reviews here](https://www.amazon.com/Instant-Pot-Official-Mesh-Steamer-Basket-Set/product-reviews/B07WSRLD95/?tag=kitchenpot-20) and judge for yourself.
 
 **What we like:**
 
@@ -212,7 +212,7 @@ Owner reviews of the large basket are strongly positive, and the recurring prais
 
 **Who should buy it:** Anyone steaming small or loose foods, and anyone who wants one accessory that also replaces a colander. That double duty matters if you are following the space logic in [how to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07WSRLD95/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Instant-Pot-Official-Mesh-Steamer-Basket-Set/dp/B07WSRLD95/?tag=kitchenpot-20)
 
 ## 4. AOZITA 2-Tier Stackable Steamer Basket: Best for Two Foods at Once
 
@@ -247,7 +247,7 @@ There is one real limitation worth planning around. The upper tier runs slightly
 
 **Who should buy it:** Anyone cooking complete meals in one pot rather than just a side of vegetables. If that is how you cook, our guide to [best cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) and the checklist in [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) both fit the same approach.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07CMW3B95/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/AOZITA-2-Tier-Stackable-Steamer-Basket/dp/B07CMW3B95/?tag=kitchenpot-20)
 
 ## 5. Ecozoi 3-Tier Stackable Insert Pans: Best for Full Pot-in-Pot Meals
 
@@ -280,7 +280,7 @@ The two lids are the smart part. The perforated steamer lid lets vapour into a t
 
 **Who should buy it:** Batch cooks and anyone who wants the Instant Pot to make a whole dinner unattended. If you already cook rice this way, the technique notes in [how to cook rice in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/) and our roundup of the [best rice cooker for brown rice](/blog/best-rice-cooker-for-brown-rice/) translate directly to pot-in-pot rice.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08T7VSMVP/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ecozoi-3-Tier-Stackable-Insert-Pans/dp/B08T7VSMVP/?tag=kitchenpot-20)
 
 ## 6. Avokado Collapsible Silicone Steamer Basket: Best Space-Saving Pick
 
@@ -314,7 +314,7 @@ The honest limitation is rigidity. A loaded silicone basket flexes, so lifting a
 
 **Who should buy it:** Anyone whose real constraint is cabinet space rather than cooking capacity. It fits the same thinking as the fixes in [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) and [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07TWKSP1B/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Avokado-Collapsible-Silicone-Steamer-Basket-6-Quart/dp/B07TWKSP1B/?tag=kitchenpot-20)
 
 ## Steaming Times Worth Knowing
 
@@ -355,12 +355,12 @@ For storage, the basket that gets used is the one that is easy to reach. Nesting
 
 ## Which Steamer Basket Should You Buy?
 
-- **You want one basket that does everything:** [Salbree 6-Quart](https://www.amazon.com/dp/B074CPVFN8/?tag=kitchenpot-20). Feet, a strong handle and an exact size match.
-- **You own a 3-quart Mini or an 8-quart:** [Hatrigo](https://www.amazon.com/dp/B07S6HTZWN/?tag=kitchenpot-20), because the sizes actually exist.
-- **You steam peas, dumplings or anything small:** [Instant Pot Official Mesh Set](https://www.amazon.com/dp/B07WSRLD95/?tag=kitchenpot-20).
-- **You want a protein and a vegetable in one run:** [AOZITA 2-Tier](https://www.amazon.com/dp/B07CMW3B95/?tag=kitchenpot-20).
-- **You want the pot to cook a whole meal:** [Ecozoi 3-Tier Insert Pans](https://www.amazon.com/dp/B08T7VSMVP/?tag=kitchenpot-20).
-- **Cabinet space is the real problem:** [Avokado Silicone](https://www.amazon.com/dp/B07TWKSP1B/?tag=kitchenpot-20).
+- **You want one basket that does everything:** [Salbree 6-Quart](https://www.amazon.com/Salbree-Steamer-Basket-6-Quart/dp/B074CPVFN8/?tag=kitchenpot-20). Feet, a strong handle and an exact size match.
+- **You own a 3-quart Mini or an 8-quart:** [Hatrigo](https://www.amazon.com/Hatrigo-Steamer-Basket-6-Quart/dp/B07S6HTZWN/?tag=kitchenpot-20), because the sizes actually exist.
+- **You steam peas, dumplings or anything small:** [Instant Pot Official Mesh Set](https://www.amazon.com/Instant-Pot-Official-Mesh-Steamer-Basket-Set/dp/B07WSRLD95/?tag=kitchenpot-20).
+- **You want a protein and a vegetable in one run:** [AOZITA 2-Tier](https://www.amazon.com/AOZITA-2-Tier-Stackable-Steamer-Basket/dp/B07CMW3B95/?tag=kitchenpot-20).
+- **You want the pot to cook a whole meal:** [Ecozoi 3-Tier Insert Pans](https://www.amazon.com/Ecozoi-3-Tier-Stackable-Insert-Pans/dp/B08T7VSMVP/?tag=kitchenpot-20).
+- **Cabinet space is the real problem:** [Avokado Silicone](https://www.amazon.com/Avokado-Collapsible-Silicone-Steamer-Basket-6-Quart/dp/B07TWKSP1B/?tag=kitchenpot-20).
 
 If you are unsure, start with a single stainless basket in your pot's size and learn what it does. Stacking sets and insert pans are worth adding once you know whether you actually cook multi-component meals, and they are a lot of hardware to store if you do not. Our roundup of the [coolest kitchen appliances for the money](/blog/coolest-kitchen-appliances-to-buy/) has more on what really earns its space.
 

@@ -44,12 +44,12 @@ Below are six air fryers that sell at or under $100, what each basket really hol
 
 ## Our Picks at a Glance
 
-- **Best overall:** [Ninja Air Fryer AF101, 4 quart](https://www.amazon.com/dp/B07FDJMC9Q/?tag=kitchenpot-20)
-- **Best app-connected pick:** [COSORI Lite 4.0-Quart Smart Air Fryer](https://www.amazon.com/dp/B0B2K5X369/?tag=kitchenpot-20)
-- **Best simple controls:** [Instant Vortex 4QT Mini, 6-in-1](https://www.amazon.com/dp/B0F9B4YCZF/?tag=kitchenpot-20)
-- **Best large basket:** [Chefman TurboFry 8-Quart, 4-in-1](https://www.amazon.com/dp/B08DKYBTPH/?tag=kitchenpot-20)
-- **Best for families:** [Ninja Air Fryer XL AF150AMZ, 5.5 quart](https://www.amazon.com/dp/B08QKTXT1N/?tag=kitchenpot-20)
-- **Best tiny air fryer:** [Dash Tasti-Crisp, 2.6 quart](https://www.amazon.com/dp/B0815KJCM1/?tag=kitchenpot-20)
+- **Best overall:** [Ninja Air Fryer AF101, 4 quart](https://www.amazon.com/Ninja-Air-Fryer-AF101-4-quart/dp/B07FDJMC9Q/?tag=kitchenpot-20)
+- **Best app-connected pick:** [COSORI Lite 4.0-Quart Smart Air Fryer](https://www.amazon.com/COSORI-Lite-4-0-Quart-Smart-Air-Fryer/dp/B0B2K5X369/?tag=kitchenpot-20)
+- **Best simple controls:** [Instant Vortex 4QT Mini, 6-in-1](https://www.amazon.com/Instant-Vortex-4QT-Mini-6-in-1/dp/B0F9B4YCZF/?tag=kitchenpot-20)
+- **Best large basket:** [Chefman TurboFry 8-Quart, 4-in-1](https://www.amazon.com/Chefman-TurboFry-8-Quart-4-in-1/dp/B08DKYBTPH/?tag=kitchenpot-20)
+- **Best for families:** [Ninja Air Fryer XL AF150AMZ, 5.5 quart](https://www.amazon.com/Ninja-Air-Fryer-XL-AF150AMZ-5-5-quart/dp/B08QKTXT1N/?tag=kitchenpot-20)
+- **Best tiny air fryer:** [Dash Tasti-Crisp, 2.6 quart](https://www.amazon.com/Dash-Tasti-Crisp-2-6-quart/dp/B0815KJCM1/?tag=kitchenpot-20)
 
 ## How an air fryer actually crisps food
 
@@ -94,7 +94,7 @@ The AF101 has been the default recommendation in this price band for years, and 
 
 The 105°F floor is unusual at this price. It is low enough to actually dehydrate apple slices or make jerky overnight, which most budget air fryers cannot do because they stop at 175°F or so. At the other end, 400°F is enough for wings, frozen fries and roasted vegetables. It is not enough for the very hardest sear, but nothing in this price range is.
 
-Cleanup is the other strength. Basket and crisper plate are dishwasher safe, and the ceramic coating releases cleanly if you wipe it while it is still warm. Most of the recurring complaints in [owner reviews on Amazon](https://www.amazon.com/product-reviews/B07FDJMC9Q/?tag=kitchenpot-20) are about the coating over the long haul rather than cooking performance, which is the usual trade-off with any nonstick surface. Our guide to [cleaning an air fryer basket](/blog/how-to-clean-an-air-fryer-basket/) covers the habits that stretch it out.
+Cleanup is the other strength. Basket and crisper plate are dishwasher safe, and the ceramic coating releases cleanly if you wipe it while it is still warm. Most of the recurring complaints in [owner reviews on Amazon](https://www.amazon.com/Ninja-Air-Fryer-AF101-4-quart/product-reviews/B07FDJMC9Q/?tag=kitchenpot-20) are about the coating over the long haul rather than cooking performance, which is the usual trade-off with any nonstick surface. Our guide to [cleaning an air fryer basket](/blog/how-to-clean-an-air-fryer-basket/) covers the habits that stretch it out.
 
 **What we like:**
 
@@ -112,7 +112,7 @@ Cleanup is the other strength. Basket and crisper plate are dishwasher safe, and
 
 **Who should buy it:** Anyone cooking for one to three people who wants the surest result without thinking about it. It pairs well with the rest of the [small kitchen appliances worth owning when you cook for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07FDJMC9Q/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Air-Fryer-AF101-4-quart/dp/B07FDJMC9Q/?tag=kitchenpot-20)
 
 ## 2. COSORI Lite 4.0-Quart Smart Air Fryer: Best App-Connected Pick
 
@@ -143,7 +143,7 @@ The 170°F floor is the catch. That is fine for keeping food warm and proofing d
 
 **Who should buy it:** Cooks who roast a lot of vegetables or reheat pizza and want the extra heat, plus anyone who likes phone control. If you are also rethinking your oven situation, see our picks for [small ovens and toaster ovens for small kitchens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0B2K5X369/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/COSORI-Lite-4-0-Quart-Smart-Air-Fryer/dp/B0B2K5X369/?tag=kitchenpot-20)
 
 ## 3. Instant Vortex 4QT Mini: Best Simple Controls
 
@@ -175,7 +175,7 @@ Instant does not publish a temperature range for this model, so if dehydrating i
 
 **Who should buy it:** Anyone who wants a no-thinking appliance for frozen food, leftovers and weeknight vegetables. It is a natural fit for [easy meal prep for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0F9B4YCZF/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Instant-Vortex-4QT-Mini-6-in-1/dp/B0F9B4YCZF/?tag=kitchenpot-20)
 
 ## 4. Chefman TurboFry 8-Quart: Best Large Basket
 
@@ -206,7 +206,7 @@ The trade-off is obvious the moment you unbox it: an 8-quart air fryer is a big 
 
 **Who should buy it:** Households of four or more, and anyone who has given up on their air fryer because it only cooked half a dinner. Compare it against the [coolest kitchen appliances worth the counter space](/blog/coolest-kitchen-appliances-to-buy/) before you commit.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08DKYBTPH/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Chefman-TurboFry-8-Quart-4-in-1/dp/B08DKYBTPH/?tag=kitchenpot-20)
 
 ## 5. Ninja Air Fryer XL AF150AMZ: Best for Families
 
@@ -238,7 +238,7 @@ It typically lists a little above the AF101, so it drifts around the $100 line d
 
 **Who should buy it:** Families of four, meal preppers, and anyone who keeps running two batches. If you are already running an [Instant Pot](/blog/what-is-an-instant-pot/) alongside it, our [Instant Pot vs Ninja Foodi](/blog/instant-pot-vs-ninja-foodi/) comparison is worth a read before you add a third machine.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08QKTXT1N/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Air-Fryer-XL-AF150AMZ-5-5-quart/dp/B08QKTXT1N/?tag=kitchenpot-20)
 
 ## 6. Dash Tasti-Crisp 2.6 Quart: Best Tiny Air Fryer
 
@@ -269,7 +269,7 @@ Dash does not publish a temperature range for the dial version, so treat it as a
 
 **Who should buy it:** Solo cooks, students, RV kitchens, and anyone who wants a crisping machine that disappears into a cupboard. It fits the same brief as the [compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/) we recommend elsewhere.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0815KJCM1/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Dash-Tasti-Crisp-2-6-quart/dp/B0815KJCM1/?tag=kitchenpot-20)
 
 ## How to choose an air fryer under $100
 
@@ -340,12 +340,12 @@ Store leftovers properly rather than leaving them in the basket. A set of [airti
 
 ## Which air fryer should you buy?
 
-- **You want the safest all-round pick:** [Ninja AF101](https://www.amazon.com/dp/B07FDJMC9Q/?tag=kitchenpot-20).
-- **You roast a lot and want 450°F plus app control:** [COSORI Lite 4.0-Quart](https://www.amazon.com/dp/B0B2K5X369/?tag=kitchenpot-20).
-- **You want the simplest possible machine:** [Instant Vortex 4QT Mini](https://www.amazon.com/dp/B0F9B4YCZF/?tag=kitchenpot-20).
-- **You are tired of cooking in two batches:** [Chefman TurboFry 8-Quart](https://www.amazon.com/dp/B08DKYBTPH/?tag=kitchenpot-20).
-- **You are feeding four:** [Ninja AF150AMZ XL](https://www.amazon.com/dp/B08QKTXT1N/?tag=kitchenpot-20).
-- **You cook for one and have no counter:** [Dash Tasti-Crisp](https://www.amazon.com/dp/B0815KJCM1/?tag=kitchenpot-20).
+- **You want the safest all-round pick:** [Ninja AF101](https://www.amazon.com/Ninja-Air-Fryer-AF101-4-quart/dp/B07FDJMC9Q/?tag=kitchenpot-20).
+- **You roast a lot and want 450°F plus app control:** [COSORI Lite 4.0-Quart](https://www.amazon.com/COSORI-Lite-4-0-Quart-Smart-Air-Fryer/dp/B0B2K5X369/?tag=kitchenpot-20).
+- **You want the simplest possible machine:** [Instant Vortex 4QT Mini](https://www.amazon.com/Instant-Vortex-4QT-Mini-6-in-1/dp/B0F9B4YCZF/?tag=kitchenpot-20).
+- **You are tired of cooking in two batches:** [Chefman TurboFry 8-Quart](https://www.amazon.com/Chefman-TurboFry-8-Quart-4-in-1/dp/B08DKYBTPH/?tag=kitchenpot-20).
+- **You are feeding four:** [Ninja AF150AMZ XL](https://www.amazon.com/Ninja-Air-Fryer-XL-AF150AMZ-5-5-quart/dp/B08QKTXT1N/?tag=kitchenpot-20).
+- **You cook for one and have no counter:** [Dash Tasti-Crisp](https://www.amazon.com/Dash-Tasti-Crisp-2-6-quart/dp/B0815KJCM1/?tag=kitchenpot-20).
 
 One rule if you are still stuck: buy the smallest air fryer that fits your usual dinner in one layer. A basket you fill properly beats a bigger one you half-load, every time. Then go set up the rest of the counter with our checklist on [stocking a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 

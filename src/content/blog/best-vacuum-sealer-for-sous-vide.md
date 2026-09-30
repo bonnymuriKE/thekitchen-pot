@@ -43,12 +43,12 @@ The catch is liquid. Marinades and brines are exactly what cheap sealers handle 
 
 ## Quick Picks
 
-- **Best overall for sous vide:** [Anova Precision Vacuum Sealer Pro](https://www.amazon.com/dp/B08F8SMSC4/?tag=kitchenpot-20)
-- **Best all-round freezer workhorse:** [FoodSaver VS2150](https://www.amazon.com/dp/B099NTSWD9/?tag=kitchenpot-20)
-- **Best budget sealer with a double seal:** [Nesco VS-12 Deluxe](https://www.amazon.com/dp/B01KCK9W1K/?tag=kitchenpot-20)
-- **Best for small kitchens:** [FoodSaver PowerVac VS0150](https://www.amazon.com/dp/B08BF3GB5Q/?tag=kitchenpot-20)
-- **Best chamber sealer for home cooks:** [Anova Precision Chamber Vacuum Sealer](https://www.amazon.com/dp/B0BTPY59TG/?tag=kitchenpot-20)
-- **Best chamber sealer for batch cooking:** [Avid Armor USV20 Ultra Series](https://www.amazon.com/dp/B08GZH6Y36/?tag=kitchenpot-20)
+- **Best overall for sous vide:** [Anova Precision Vacuum Sealer Pro](https://www.amazon.com/Anova-Precision-Vacuum-Sealer-Pro/dp/B08F8SMSC4/?tag=kitchenpot-20)
+- **Best all-round freezer workhorse:** [FoodSaver VS2150](https://www.amazon.com/FoodSaver-VS2150/dp/B099NTSWD9/?tag=kitchenpot-20)
+- **Best budget sealer with a double seal:** [Nesco VS-12 Deluxe](https://www.amazon.com/Nesco-VS-12-Deluxe/dp/B01KCK9W1K/?tag=kitchenpot-20)
+- **Best for small kitchens:** [FoodSaver PowerVac VS0150](https://www.amazon.com/FoodSaver-PowerVac-VS0150/dp/B08BF3GB5Q/?tag=kitchenpot-20)
+- **Best chamber sealer for home cooks:** [Anova Precision Chamber Vacuum Sealer](https://www.amazon.com/Anova-Precision-Chamber-Vacuum-Sealer/dp/B0BTPY59TG/?tag=kitchenpot-20)
+- **Best chamber sealer for batch cooking:** [Avid Armor USV20 Ultra Series](https://www.amazon.com/Avid-Armor-USV20-Ultra-Series/dp/B08GZH6Y36/?tag=kitchenpot-20)
 
 ## Chamber vs external: the only spec that really matters
 
@@ -103,7 +103,7 @@ The wet setting drops the suction pressure so liquid is pulled more gently towar
 
 Practical details add up. It clamps, vacuums and seals one-handed, so your other hand can hold the bag steady. The roll and cutter live inside the body, so there is no separate box of bags to lose. At 14.75 by 7 by 4.3 inches it stands on end in a cupboard. Anova covers it for two years.
 
-Recurring themes in [owner reviews](https://www.amazon.com/product-reviews/B08F8SMSC4/?tag=kitchenpot-20) split predictably along the chamber-versus-external line: people sealing dry-packed proteins are happy, and the complaints cluster around wet, saucy bags, which is a limitation of the category rather than this machine.
+Recurring themes in [owner reviews](https://www.amazon.com/Anova-Precision-Vacuum-Sealer-Pro/product-reviews/B08F8SMSC4/?tag=kitchenpot-20) split predictably along the chamber-versus-external line: people sealing dry-packed proteins are happy, and the complaints cluster around wet, saucy bags, which is a limitation of the category rather than this machine.
 
 **What we like:**
 
@@ -122,7 +122,7 @@ Recurring themes in [owner reviews](https://www.amazon.com/product-reviews/B08F8
 
 **Who should buy it:** Cooks who bought a circulator first and a sealer second. Pair it with one of the [sous vide precision cookers](/blog/sous-vide-power-precision-cooker/) we recommend and you have the full setup.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08F8SMSC4/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Anova-Precision-Vacuum-Sealer-Pro/dp/B08F8SMSC4/?tag=kitchenpot-20)
 
 ## 2. FoodSaver VS2150: Best All-Round Freezer Workhorse
 
@@ -153,7 +153,7 @@ Dry and Moist modes do the usual job, and FoodSaver claims up to five times long
 
 **Who should buy it:** Anyone who freezes in bulk and cooks sous vide sometimes, rather than the other way round. It works well alongside a batch cooking routine like our [easy meal prep ideas for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B099NTSWD9/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/FoodSaver-VS2150/dp/B099NTSWD9/?tag=kitchenpot-20)
 
 ## 3. Nesco VS-12 Deluxe: Best Budget Sealer With a Double Seal
 
@@ -186,7 +186,7 @@ The point that saves real money over years: it works with any brand of embossed 
 
 **Who should buy it:** People who want the fewest failed seals per dollar and do not care what the machine looks like. It suits anyone building out a kitchen on a budget, the same way our [best knife set under $100](/blog/best-knife-set-under-100/) picks do.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01KCK9W1K/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nesco-VS-12-Deluxe/dp/B01KCK9W1K/?tag=kitchenpot-20)
 
 ## 4. FoodSaver PowerVac VS0150: Best for Small Kitchens
 
@@ -216,7 +216,7 @@ It is a simpler machine than the VS2150: no handheld attachment, no roll storage
 
 **Who should buy it:** Apartment and studio cooks who want vacuum sealing without surrendering counter space. It belongs on the same list as our [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/), and it plays nicely with the [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) we cover elsewhere.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08BF3GB5Q/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/FoodSaver-PowerVac-VS0150/dp/B08BF3GB5Q/?tag=kitchenpot-20)
 
 ## 5. Anova Precision Chamber Vacuum Sealer: Best Chamber Sealer for Home Cooks
 
@@ -249,7 +249,7 @@ The dimensions are the honest catch. At 13.6 inches wide and 8.9 inches tall wit
 
 **Who should buy it:** Serious sous vide cooks, anyone who marinates or brines regularly, and people curious about compression and infusion. If you are already smoking and curing, it pairs naturally with an [electric smoker routine](/blog/how-to-use-an-electric-smoker/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BTPY59TG/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Anova-Precision-Chamber-Vacuum-Sealer/dp/B0BTPY59TG/?tag=kitchenpot-20)
 
 ## 6. Avid Armor USV20 Ultra Series: Best Chamber Sealer for Batch Cooking
 
@@ -282,7 +282,7 @@ It weighs 17.55 pounds and measures 14 by 12 by 8.25 inches, so it stays where y
 
 **Who should buy it:** Anyone who seals in long sessions, breaks down whole cuts, or wants to tune seal time per bag type. It is a natural partner to a [home meat slicer](/blog/best-meat-slicer-for-home-use/) if you portion your own deli meat.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08GZH6Y36/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Avid-Armor-USV20-Ultra-Series/dp/B08GZH6Y36/?tag=kitchenpot-20)
 
 ## What to check before you buy
 
@@ -353,12 +353,12 @@ If you fish, a sealer plus an [electric fillet knife](/blog/best-electric-fillet
 
 ## Which vacuum sealer should you buy?
 
-- **You cook sous vide first and freeze second:** [Anova Precision Vacuum Sealer Pro](https://www.amazon.com/dp/B08F8SMSC4/?tag=kitchenpot-20).
-- **You want one machine for everything:** [FoodSaver VS2150](https://www.amazon.com/dp/B099NTSWD9/?tag=kitchenpot-20).
-- **You want the strongest seal for the least money:** [Nesco VS-12 Deluxe](https://www.amazon.com/dp/B01KCK9W1K/?tag=kitchenpot-20).
-- **Your counter is already full:** [FoodSaver PowerVac VS0150](https://www.amazon.com/dp/B08BF3GB5Q/?tag=kitchenpot-20).
-- **You are done fighting with marinades:** [Anova Precision Chamber Vacuum Sealer](https://www.amazon.com/dp/B0BTPY59TG/?tag=kitchenpot-20).
-- **You seal in long batch sessions:** [Avid Armor USV20](https://www.amazon.com/dp/B08GZH6Y36/?tag=kitchenpot-20).
+- **You cook sous vide first and freeze second:** [Anova Precision Vacuum Sealer Pro](https://www.amazon.com/Anova-Precision-Vacuum-Sealer-Pro/dp/B08F8SMSC4/?tag=kitchenpot-20).
+- **You want one machine for everything:** [FoodSaver VS2150](https://www.amazon.com/FoodSaver-VS2150/dp/B099NTSWD9/?tag=kitchenpot-20).
+- **You want the strongest seal for the least money:** [Nesco VS-12 Deluxe](https://www.amazon.com/Nesco-VS-12-Deluxe/dp/B01KCK9W1K/?tag=kitchenpot-20).
+- **Your counter is already full:** [FoodSaver PowerVac VS0150](https://www.amazon.com/FoodSaver-PowerVac-VS0150/dp/B08BF3GB5Q/?tag=kitchenpot-20).
+- **You are done fighting with marinades:** [Anova Precision Chamber Vacuum Sealer](https://www.amazon.com/Anova-Precision-Chamber-Vacuum-Sealer/dp/B0BTPY59TG/?tag=kitchenpot-20).
+- **You seal in long batch sessions:** [Avid Armor USV20](https://www.amazon.com/Avid-Armor-USV20-Ultra-Series/dp/B08GZH6Y36/?tag=kitchenpot-20).
 
 One decision rule: count how many of your bags would contain free liquid. If it is fewer than a third, buy an external sealer and use the frozen-puck trick. If it is more, every dollar you spend on an external machine is a dollar you will spend again on a chamber. Next, sort out your prep station with our checklist for [stocking a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 

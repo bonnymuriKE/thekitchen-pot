@@ -44,11 +44,11 @@ Below: how the coating is actually built, why every ceramic pan slows down event
 
 ## Quick Picks
 
-- **Best Blue Diamond set overall:** [Blue Diamond 10-Piece Ceramic Nonstick Cookware Set](https://www.amazon.com/dp/B07CZH2GY9/?tag=kitchenpot-20)
-- **Best single pan:** [Blue Diamond 12" Frying Pan with Lid](https://www.amazon.com/dp/B07PWY77LC/?tag=kitchenpot-20)
-- **Most complete set:** [Blue Diamond 14-Piece Cookware Set](https://www.amazon.com/dp/B07HMGZSHJ/?tag=kitchenpot-20)
-- **Best upgrade for longer life:** [GreenPan Valencia Pro 3-Piece Skillet Set](https://www.amazon.com/dp/B09HTBCT3W/?tag=kitchenpot-20)
-- **Best for induction:** [Ninja Extended Life Premium Ceramic 9-Piece Set](https://www.amazon.com/dp/B0C7YKWGH2/?tag=kitchenpot-20)
+- **Best Blue Diamond set overall:** [Blue Diamond 10-Piece Ceramic Nonstick Cookware Set](https://www.amazon.com/Blue-Diamond-10-Piece-Ceramic-Nonstick-Cookware-Set/dp/B07CZH2GY9/?tag=kitchenpot-20)
+- **Best single pan:** [Blue Diamond 12" Frying Pan with Lid](https://www.amazon.com/Blue-Diamond-12-Frying-Pan-with-Lid/dp/B07PWY77LC/?tag=kitchenpot-20)
+- **Most complete set:** [Blue Diamond 14-Piece Cookware Set](https://www.amazon.com/Blue-Diamond-14-Piece-Cookware-Set/dp/B07HMGZSHJ/?tag=kitchenpot-20)
+- **Best upgrade for longer life:** [GreenPan Valencia Pro 3-Piece Skillet Set](https://www.amazon.com/GreenPan-Valencia-Pro-3-Piece-Skillet-Set/dp/B09HTBCT3W/?tag=kitchenpot-20)
+- **Best for induction:** [Ninja Extended Life Premium Ceramic 9-Piece Set](https://www.amazon.com/Ninja-Extended-Life-Premium-Ceramic-9-Piece-Set/dp/B0C7YKWGH2/?tag=kitchenpot-20)
 
 ## How Diamond-Infused Ceramic Nonstick Is Made
 
@@ -107,7 +107,7 @@ Ten pieces here means five real cooking vessels plus lids and two utensils, and 
 
 The forged base is thicker than the stamped aluminum on bargain sets, which is what keeps these pans reasonably flat. Aluminum also spreads heat quickly, which is why thin spots over the burner ring are less of a problem here than on cheap stamped pans.
 
-Riveted stainless steel handles are the build detail worth knowing about. They are solid and oven safe, but stainless conducts heat, and the hollow design gets hot on the stovetop faster than most people expect. This shows up constantly in [owner reviews for this set](https://www.amazon.com/product-reviews/B07CZH2GY9/?tag=kitchenpot-20), where hot handles and coating that slows down after the first year are far and away the two most repeated complaints, sitting alongside steady praise for the release when the pans are new and for how little they weigh.
+Riveted stainless steel handles are the build detail worth knowing about. They are solid and oven safe, but stainless conducts heat, and the hollow design gets hot on the stovetop faster than most people expect. This shows up constantly in [owner reviews for this set](https://www.amazon.com/Blue-Diamond-10-Piece-Ceramic-Nonstick-Cookware-Set/product-reviews/B07CZH2GY9/?tag=kitchenpot-20), where hot handles and coating that slows down after the first year are far and away the two most repeated complaints, sitting alongside steady praise for the release when the pans are new and for how little they weigh.
 
 **What we like:**
 
@@ -127,7 +127,7 @@ Riveted stainless steel handles are the build detail worth knowing about. They a
 
 **Who should buy it:** Anyone setting up a kitchen who wants PFAS-free nonstick at a low price and understands they are buying a few good years, not a lifetime. If you want the longer view on materials, our comparison of [stainless steel vs ceramic cookware](/blog/stainless-steel-vs-ceramic-cookware/) is the place to start.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07CZH2GY9/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Blue-Diamond-10-Piece-Ceramic-Nonstick-Cookware-Set/dp/B07CZH2GY9/?tag=kitchenpot-20)
 
 ## 2. Blue Diamond 12" Frying Pan with Lid: Best Single Pan
 
@@ -158,7 +158,7 @@ This model uses a stay-cool handle rather than the bare stainless on the sets, w
 
 **Who should buy it:** Cooks who like their existing pots but need one large, easy-release pan. It pairs well with a proper [metal spatula set](/blog/best-metal-spatula-set/), since this coating can handle them, and with a [stockpot with a lid](/blog/best-stockpot-with-a-lid/) if pasta is your other weak spot.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07PWY77LC/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Blue-Diamond-12-Frying-Pan-with-Lid/dp/B07PWY77LC/?tag=kitchenpot-20)
 
 ## 3. Blue Diamond 14-Piece Cookware Set: Most Complete
 
@@ -191,7 +191,7 @@ Storage is the other thing to plan for. A full set of aluminum pans with fixed s
 
 **Who should buy it:** First apartments, student kitchens and anyone replacing a mismatched collection cheaply. If you would rather spend the same money on fewer, better pieces, our [Rachael Ray cookware review](/blog/rachael-ray-cookware-reviews/) and [Ninja Foodi NeverStick set review](/blog/ninja-foodi-cookware-set-reviews/) are useful comparisons.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07HMGZSHJ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Blue-Diamond-14-Piece-Cookware-Set/dp/B07HMGZSHJ/?tag=kitchenpot-20)
 
 ## 4. GreenPan Valencia Pro 3-Piece Skillet Set: Best Upgrade
 
@@ -222,7 +222,7 @@ Hard-anodized surfaces do need their own cleaning approach, which our guide to [
 
 **Who should buy it:** Cooks who have already burned through one cheap ceramic set and want the next one to last longer, and anyone with induction. For a wider look at what coating chemistry means for safety, see [is ceramic-titanium cookware safe](/blog/is-ceramic-titanium-cookware-safe/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09HTBCT3W/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/GreenPan-Valencia-Pro-3-Piece-Skillet-Set/dp/B09HTBCT3W/?tag=kitchenpot-20)
 
 ## 5. Ninja Extended Life Premium Ceramic 9-Piece Set: Best for Induction
 
@@ -252,7 +252,7 @@ Three frypan sizes including an 11-inch is a better spread than most sets offer,
 
 **Who should buy it:** Anyone with an [induction cooktop](/blog/best-induction-cooktop-for-the-money/) who wants ceramic nonstick and is willing to pay more for a longer run.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0C7YKWGH2/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Extended-Life-Premium-Ceramic-9-Piece-Set/dp/B0C7YKWGH2/?tag=kitchenpot-20)
 
 ## Making a Ceramic Coating Last as Long as It Can
 
@@ -283,11 +283,11 @@ For other budget brands in the same space, our [Red Copper cookware review](/blo
 
 ## Which Blue Diamond Should You Buy?
 
-- **Setting up a kitchen and watching the budget:** the [10-piece set](https://www.amazon.com/dp/B07CZH2GY9/?tag=kitchenpot-20). Five useful vessels, low price.
-- **You need one big, easy pan:** the [12-inch frying pan with lid](https://www.amazon.com/dp/B07PWY77LC/?tag=kitchenpot-20).
-- **Empty cabinets, one purchase:** the [14-piece set](https://www.amazon.com/dp/B07HMGZSHJ/?tag=kitchenpot-20).
-- **You want the coating to last longer:** the [GreenPan Valencia Pro skillets](https://www.amazon.com/dp/B09HTBCT3W/?tag=kitchenpot-20).
-- **You cook on induction:** the [Ninja Extended Life ceramic set](https://www.amazon.com/dp/B0C7YKWGH2/?tag=kitchenpot-20).
+- **Setting up a kitchen and watching the budget:** the [10-piece set](https://www.amazon.com/Blue-Diamond-10-Piece-Ceramic-Nonstick-Cookware-Set/dp/B07CZH2GY9/?tag=kitchenpot-20). Five useful vessels, low price.
+- **You need one big, easy pan:** the [12-inch frying pan with lid](https://www.amazon.com/Blue-Diamond-12-Frying-Pan-with-Lid/dp/B07PWY77LC/?tag=kitchenpot-20).
+- **Empty cabinets, one purchase:** the [14-piece set](https://www.amazon.com/Blue-Diamond-14-Piece-Cookware-Set/dp/B07HMGZSHJ/?tag=kitchenpot-20).
+- **You want the coating to last longer:** the [GreenPan Valencia Pro skillets](https://www.amazon.com/GreenPan-Valencia-Pro-3-Piece-Skillet-Set/dp/B09HTBCT3W/?tag=kitchenpot-20).
+- **You cook on induction:** the [Ninja Extended Life ceramic set](https://www.amazon.com/Ninja-Extended-Life-Premium-Ceramic-9-Piece-Set/dp/B0C7YKWGH2/?tag=kitchenpot-20).
 
 The decision rule is short. If you want PFAS-free nonstick at the lowest price and accept that you are buying a few good years, Blue Diamond delivers that better than almost anything else at the price. If you expect a pan you will still be using in a decade, buy bare metal instead and keep one cheap ceramic skillet alongside it for eggs. Our guide to [choosing energy-efficient cookware for a small kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/) makes the case for that split, and the [best nonstick pans guide](/blog/best-nonstick-pans-with-buying-guide/) covers the single skillets worth pairing it with.
 

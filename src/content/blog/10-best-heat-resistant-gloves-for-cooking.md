@@ -56,9 +56,9 @@ Homemaxs BBQ gloves are extremely thin to fit on your hands and follow their for
 
 * Only available in large size.
 
-### 2. [RAPICCA 16 Inches,932℉ Heat Resistant Gloves](https://www.amazon.com/RAPICCA-Leather-Resistant-Fireplace-handling/dp/B01N1VJDIQ?tag=kitchenpot-20)
+### 2. [RAPICCA 16 Inches,932℉ Heat Resistant Gloves](https://www.amazon.com/RAPICCA-Leather-Resistant-Fireplace-handling/dp/B01N1VJDIQ/?tag=kitchenpot-20)
 
-[Check Price on Amazon](https://www.amazon.com/RAPICCA-Leather-Resistant-Fireplace-handling/dp/B01N1VJDIQ?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/RAPICCA-Leather-Resistant-Fireplace-handling/dp/B01N1VJDIQ/?tag=kitchenpot-20)
 
 RAPICCA BBQ gloves feature great functionality with comfort in mind. They are constructed with a cotton lining that makes them breathe while offering comfort at the same time. They are versatile and are great for smoking, baking, grilling, and cooking and can handle up to 500ºC (932ºF).
 
@@ -77,9 +77,9 @@ These grill gloves are safe to use in all kinds of food you need to handle. Clea
 
 * The size may be large for some users.
 
-### **3. [WZQH 16-inch 932℉ Leather Gloves](https://www.amazon.com/WZQH-Stitching-Resistant-Fireplace-Glove-Black-gray/dp/B07RX7TNBY/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8?tag=kitchenpot-20)**
+### **3. [WZQH 16-inch 932℉ Leather Gloves](https://www.amazon.com/WZQH-Stitching-Resistant-Fireplace-Glove-Black-gray/dp/B07RX7TNBY/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/WZQH-Stitching-Resistant-Fireplace-Glove-Black-gray/dp/B07RX7TNBY/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/WZQH-Stitching-Resistant-Fireplace-Glove-Black-gray/dp/B07RX7TNBY/?tag=kitchenpot-20)
 
 These gloves are meant to handle all kitchen grilling tasks with ease and are made to last. WZQH has an outer layer made of cowhide that’s 1.2 mm thick that not only resists heat but also acts as a wear-resistant, and puncture-resistant. Furthermore, it’s reinforced with two-layered stitching with high-strength sewing located on the palm.
 
@@ -98,9 +98,9 @@ Besides protecting your hands from maximum heat, they have an innermost layer th
 
 * Can make you lose the tactile sense on your fingers
 
-### **4. [KITHELP Extreme 1472℉](https://www.amazon.com/KITHELP-Grilling-Resistant-Silicone-Non-Slip/dp/B07VK4JPR1?tag=kitchenpot-20)**
+### **4. [KITHELP Extreme 1472℉](https://www.amazon.com/KITHELP-Grilling-Resistant-Silicone-Non-Slip/dp/B07VK4JPR1/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/KITHELP-Grilling-Resistant-Silicone-Non-Slip/dp/B07VK4JPR1?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/KITHELP-Grilling-Resistant-Silicone-Non-Slip/dp/B07VK4JPR1/?tag=kitchenpot-20)
 
 When grilling your meat without a hand protector, it makes the process uncomfortable. And that’s why KITHELP Extreme was designed to save you from the risk. These gloves come with three layers made of different materials.
 
@@ -121,9 +121,9 @@ KITHELP gloves are easy to wear, and storing them isn’t a stressor. There’s 
 
 * It can’t be washed by machine.
 
-### **5. [Ekogrips BBQ Kitchen Oven Gloves](https://www.amazon.com/Versatile-Resistant-Replacement-Waterproof-Protection/dp/B00HLPXL80?tag=kitchenpot-20)**
+### **5. [Ekogrips BBQ Kitchen Oven Gloves](https://www.amazon.com/Versatile-Resistant-Replacement-Waterproof-Protection/dp/B00HLPXL80/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Versatile-Resistant-Replacement-Waterproof-Protection/dp/B00HLPXL80?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Versatile-Resistant-Replacement-Waterproof-Protection/dp/B00HLPXL80/?tag=kitchenpot-20)
 
 Ekogrips are the solution to a perfect kitchen grilling. These BBQ gloves are heatproof up to 425 degrees and are standard for safety and a wide range of activities in the kitchen.
 
@@ -144,9 +144,9 @@ Also, Ekogrip is dishwasher safe making the cleaning task after each uses a bree
 
 * Sometimes they can be greasy and slippery thus failing to work as expected.
 
-### **6. [G & F Insulated waterproof/oil gloves](https://www.amazon.com/Products-8119-13Inch-Insulated-Waterproof-Resistant/dp/B0842VMMQ3?tag=kitchenpot-20)**
+### **6. [G & F Insulated waterproof/oil gloves](https://www.amazon.com/Products-8119-13Inch-Insulated-Waterproof-Resistant/dp/B0842VMMQ3/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Products-8119-13Inch-Insulated-Waterproof-Resistant/dp/B0842VMMQ3?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Products-8119-13Inch-Insulated-Waterproof-Resistant/dp/B0842VMMQ3/?tag=kitchenpot-20)
 
 G & F are nice for pitmasters in many kitchens. They feature insulated textured palms that can manage wet, hot, and greasy food on the grill. These grills feature an extended design to keep your hands, wrist, and arms safe from extreme grilling conditions. 
 
@@ -167,9 +167,9 @@ They are designed with food-grade and BPA free material to ensure that they are 
 
 * Some users complain that the size is too large for them.
 
-### **7. [GEEKHOM Grilling Gloves](https://www.amazon.com/GEEKHOM-Grilling-Resistant-Waterproof-Potholder/dp/B01KZBY806?tag=kitchenpot-20)**
+### **7. [GEEKHOM Grilling Gloves](https://www.amazon.com/GEEKHOM-Grilling-Resistant-Waterproof-Potholder/dp/B01KZBY806/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/GEEKHOM-Grilling-Resistant-Waterproof-Potholder/dp/B01KZBY806?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/GEEKHOM-Grilling-Resistant-Waterproof-Potholder/dp/B01KZBY806/?tag=kitchenpot-20)
 
 This pair of grilling gloves will amaze you with its proper grip ability and friendly protection on several items that you are dealing with within the kitchen. GEEKHOM gloves feature a tough look and are among the durable gloves to consider buying for grilling tasks.
 
@@ -190,9 +190,9 @@ This model provides a proper hand-grip, and you can use it to grab working tools
 
 * The fingers are too short
 
-### **8. [BBQ Heat Resistant Gloves](https://www.amazon.com/dp/B00RUBZNDQ??tag=kitchenpot-20)**
+### **8. [BBQ Heat Resistant Gloves](https://www.amazon.com/BBQ-Heat-Resistant-Gloves/dp/B00RUBZNDQ/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00RUBZNDQ??tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/BBQ-Heat-Resistant-Gloves/dp/B00RUBZNDQ/?tag=kitchenpot-20)
 
 BBQ gloves have been winning the hearts of many kitchen users as it promises to protect you against high oven heat that can damage your fingers. You can easily grill beef and bake safely with the gloves on.
 
@@ -215,9 +215,9 @@ Acmind comes with an extended cuff than usual to protect your hands anytime you 
 
 * Not the best model to use in moisture
 
-### **9. [Kitchen Perfection Smoker Silicone Oven Gloves](https://www.amazon.com/No-1-Silicone-Smoker-Oven-Gloves/dp/B01LYALUB3?tag=kitchenpot-20)**
+### **9. [Kitchen Perfection Smoker Silicone Oven Gloves](https://www.amazon.com/No-1-Silicone-Smoker-Oven-Gloves/dp/B01LYALUB3/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/No-1-Silicone-Smoker-Oven-Gloves/dp/B01LYALUB3?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/No-1-Silicone-Smoker-Oven-Gloves/dp/B01LYALUB3/?tag=kitchenpot-20)
 
 Are you tired of your hands getting burned every time you do BBQ? THEN Kitchen perfection gloves are your pick. These gloves are designed to resist up to 500 degrees of heat and a big thanks to the silicone double layer component that acts as waterproof.
 
@@ -238,9 +238,9 @@ The manufacturer also backs the gloves with an extended warranty, and if you thi
 
 * The fingers can be quite small.
 
-### **10. [SUMPRO BBQ Gloves 1472℉ Extreme Heat Resistant Grill Gloves](https://www.amazon.com/Resistant-Kitchen-Professional-Grilling-Barbeque/dp/B07WZYB4D3?tag=kitchenpot-20)**
+### **10. [SUMPRO BBQ Gloves 1472℉ Extreme Heat Resistant Grill Gloves](https://www.amazon.com/Resistant-Kitchen-Professional-Grilling-Barbeque/dp/B07WZYB4D3/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/Resistant-Kitchen-Professional-Grilling-Barbeque/dp/B07WZYB4D3?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Resistant-Kitchen-Professional-Grilling-Barbeque/dp/B07WZYB4D3/?tag=kitchenpot-20)
 
 SUMPRO griller features a non-slip and five-figure with a textured construction to help you hold and manage greasy and wet meat from [the grill](https://thekitchenpot.com/blog/best-gas-grills-under-500/).
 

@@ -77,9 +77,9 @@ Additionally, your best waterless cookware is designed to retain moisture. It ha
 
 ## **Best Waterless Cookware**
 
-### **1. [Cuisinart MCP-12N Multiclad Pro Stainless Steel 12-Piece Cookware Set](https://www.amazon.com/Cuisinart-MCP-12N-Multiclad-Stainless-12-Piece/dp/B009JXPS6U?tag=kitchenpot-20)**
+### **1. [Cuisinart MCP-12N Multiclad Pro Stainless Steel 12-Piece Cookware Set](https://www.amazon.com/Cuisinart-MCP-12N-Multiclad-Stainless-12-Piece/dp/B009JXPS6U/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Cuisinart-MCP-12N-Multiclad-Stainless-12-Piece/dp/B009JXPS6U?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-MCP-12N-Multiclad-Stainless-12-Piece/dp/B009JXPS6U/?tag=kitchenpot-20)
 
 This waterless cookware features a sturdy tri-ply construction that enhances heat conductivity, optimum heat retention, and even heat distribution. As such, it allows you to cook your food using steam exclusively. 
 
@@ -110,9 +110,9 @@ All the 12 pieces come with a pure aluminum core completed with a unique brushed
 
 * Maintenance can be a hassle
 
-### **2. [Cooks Standard 10 Piece Multi-Ply Clad Cookware Set, Stainless Steel](https://www.amazon.com/Cooks-Standard-10-Piece-Multi-Ply-Stainless/dp/B00421AYJK?tag=kitchenpot-20)**
+### **2. [Cooks Standard 10 Piece Multi-Ply Clad Cookware Set, Stainless Steel](https://www.amazon.com/Cooks-Standard-10-Piece-Multi-Ply-Stainless/dp/B00421AYJK/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Cooks-Standard-10-Piece-Multi-Ply-Stainless/dp/B00421AYJK?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cooks-Standard-10-Piece-Multi-Ply-Stainless/dp/B00421AYJK/?tag=kitchenpot-20)
 
 This waterless cookware set has an 18/10 stainless steel interior and exterior. Additionally, it has a uniformly distributed aluminum core to ensure equal heat distribution as you cook your meals. 
 
@@ -142,9 +142,9 @@ Even better, the Cooks Standard Waterless Cookware’s functionality is highly f
 
 * Failure to dry it before storage can quickly lead to rust
 
-### 3. **[Maxam 9-Element Waterless Cookware Set, 17-Pieces](https://www.amazon.com/Maxam-9-Element-Waterless-Stainless-Construction/dp/B00077BHPS?tag=kitchenpot-20)**
+### 3. **[Maxam 9-Element Waterless Cookware Set, 17-Pieces](https://www.amazon.com/Maxam-9-Element-Waterless-Stainless-Construction/dp/B00077BHPS/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/Maxam-9-Element-Waterless-Stainless-Construction/dp/B00077BHPS?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Maxam-9-Element-Waterless-Stainless-Construction/dp/B00077BHPS/?tag=kitchenpot-20)
 
 This Maxam Waterless Cookware is made out of 9-Element T304 surgical stainless steel, making it one of the most durable cookware you’ll ever get! The material is corrosion-resistant and can withstand varying acidity levels from your vegetables. 
 
@@ -174,9 +174,9 @@ The set includes the following:
 
 * It is not recommended for oven use
 
-### 4. **[Duxtop SSIB-17 Professional 17 Pieces Stainless Steel Induction Cookware Set](https://www.amazon.com/Duxtop-SSIB-17-Professional-Impact-bonded-Technology/dp/B00GBUQXRW?tag=kitchenpot-20)**
+### 4. **[Duxtop SSIB-17 Professional 17 Pieces Stainless Steel Induction Cookware Set](https://www.amazon.com/Duxtop-SSIB-17-Professional-Impact-bonded-Technology/dp/B00GBUQXRW/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/Duxtop-SSIB-17-Professional-Impact-bonded-Technology/dp/B00GBUQXRW?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Duxtop-SSIB-17-Professional-Impact-bonded-Technology/dp/B00GBUQXRW/?tag=kitchenpot-20)
 
 This cookware set includes:
 
@@ -207,9 +207,9 @@ Even better, this cookware can use different types of heat sources. It doesn’t
 
 * The tempered-glass lid can break if they fall with immense pressure 
 
-### **5. [Calphalon Classic Pots And Pans Set, 10-Piece Cookware Set, Stainless Steel](https://www.amazon.com/Calphalon-Classic-10-Piece-Cookware-Stainless/dp/B00HQWONBW?tag=kitchenpot-20)**
+### **5. [Calphalon Classic Pots And Pans Set, 10-Piece Cookware Set, Stainless Steel](https://www.amazon.com/Calphalon-Classic-10-Piece-Cookware-Stainless/dp/B00HQWONBW/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Calphalon-Classic-10-Piece-Cookware-Stainless/dp/B00HQWONBW?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Calphalon-Classic-10-Piece-Cookware-Stainless/dp/B00HQWONBW/?tag=kitchenpot-20)
 
 Calphalon used the latest technology to manufacture this versatile cookware. It has an impact-bonded aluminum base which ensures that your pots heat up fast and achieve an even heat distribution. This way, you’ll eliminate the risk of food burning before it cooks while ensuring that you retain the natural flavors and nutrients of your meals. 
 
@@ -237,9 +237,9 @@ All these pans have marked fill lines, which makes measuring a breeze. Also, the
 
 * This set is relatively expensive 
 
-### **6. [360 Stainless Steel Cookware Set, Handcrafted in the USA, Pots and Pans Set (4 Piece Set)](https://www.amazon.com/360-Stainless-Handcrafted-Induction-Dishwasher/dp/B00DG08OI6?tag=kitchenpot-20)**
+### **6. [360 Stainless Steel Cookware Set, Handcrafted in the USA, Pots and Pans Set (4 Piece Set)](https://www.amazon.com/360-Stainless-Handcrafted-Induction-Dishwasher/dp/B00DG08OI6/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/360-Stainless-Handcrafted-Induction-Dishwasher/dp/B00DG08OI6?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/360-Stainless-Handcrafted-Induction-Dishwasher/dp/B00DG08OI6/?tag=kitchenpot-20)
 
 This 360 cookware is made from a surgical grade stainless steel for guaranteed durability. Its multi-core feature allows rapid yet even distribution of heat, thus assuring top-notch functionality. 
 
@@ -260,9 +260,9 @@ The cookware is made in the United States and is recognized by the EPA. It is ec
 
 * The product is a bit pricey
 
-### **7. [Chef’s Secret 28 Piece 12-Element T304 Stainless Steel Waterless Cookware Set](https://www.amazon.com/Chefs-Secret-12-Element-Stainless-Waterless/dp/B00BNNB30Y?tag=kitchenpot-20)**
+### **7. [Chef’s Secret 28 Piece 12-Element T304 Stainless Steel Waterless Cookware Set](https://www.amazon.com/Chefs-Secret-12-Element-Stainless-Waterless/dp/B00BNNB30Y/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/Chefs-Secret-12-Element-Stainless-Waterless/dp/B00BNNB30Y?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Chefs-Secret-12-Element-Stainless-Waterless/dp/B00BNNB30Y/?tag=kitchenpot-20)
 
 This cookware features a unique satin finish interior with a mirror finish exterior. These features offer exceptionally stylish pots and pans. Even better, the construction utilizes modern technology to help you achieve waterless cooking without a hassle. 
 
@@ -297,9 +297,9 @@ All the pans and pots are forged from corrosion-resistant T304 surgical stainles
 
 * It may get scratches if you wash it together with other metallic cookware
 
-### **8. [Heritage Steel 10 Piece Cookware Set – Titanium Strengthened 316Ti Stainless Steel with Multiclad Construction](https://www.amazon.com/American-7-Ply-Stainless-Piece-Cookware/dp/B01LY4V4L0?tag=kitchenpot-20)**
+### **8. [Heritage Steel 10 Piece Cookware Set – Titanium Strengthened 316Ti Stainless Steel with Multiclad Construction](https://www.amazon.com/American-7-Ply-Stainless-Piece-Cookware/dp/B01LY4V4L0/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/American-7-Ply-Stainless-Piece-Cookware/dp/B01LY4V4L0?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/American-7-Ply-Stainless-Piece-Cookware/dp/B01LY4V4L0/?tag=kitchenpot-20)
 
 This waterless cookware is made in the USA and it boasts of multi-ply construction. It includes 3 layers of aluminum for improved heat conductivity and distribution. Additionally, the exterior is titanium-strengthened, which guarantees top-notch functionality and durability. 
 

@@ -44,12 +44,12 @@ For each pick below, we looked at manufacturer specs (induction base, oven-safe 
 
 ## Our Top Picks at a Glance
 
-- **Best overall:** [Cuisinart MultiClad Pro 12-Piece Stainless Steel Set](https://www.amazon.com/dp/B009JXPS6U/?tag=kitchenpot-20)
-- **Best splurge:** [All-Clad D3 Stainless 10-Piece Set](https://www.amazon.com/dp/B00OKB7HN8/?tag=kitchenpot-20)
-- **Best nonstick for induction:** [Ninja Extended Life Premium Ceramic 9-Piece Set](https://www.amazon.com/dp/B0C7YKWGH2/?tag=kitchenpot-20)
-- **Best for small kitchens:** [T-fal Ingenio Expertise 14-Piece Set](https://www.amazon.com/dp/B0BTQVDDST/?tag=kitchenpot-20)
-- **Best enameled cast iron:** [Lodge 6-Quart Enameled Cast Iron Dutch Oven](https://www.amazon.com/dp/B000N501BK/?tag=kitchenpot-20)
-- **Best budget induction pan:** [Lodge 12-Inch Pre-Seasoned Cast Iron Skillet](https://www.amazon.com/dp/B00006JSUB/?tag=kitchenpot-20)
+- **Best overall:** [Cuisinart MultiClad Pro 12-Piece Stainless Steel Set](https://www.amazon.com/Cuisinart-MultiClad-Pro-12-Piece-Stainless-Steel-Set/dp/B009JXPS6U/?tag=kitchenpot-20)
+- **Best splurge:** [All-Clad D3 Stainless 10-Piece Set](https://www.amazon.com/All-Clad-D3-Stainless-10-Piece-Set/dp/B00OKB7HN8/?tag=kitchenpot-20)
+- **Best nonstick for induction:** [Ninja Extended Life Premium Ceramic 9-Piece Set](https://www.amazon.com/Ninja-Extended-Life-Premium-Ceramic-9-Piece-Set/dp/B0C7YKWGH2/?tag=kitchenpot-20)
+- **Best for small kitchens:** [T-fal Ingenio Expertise 14-Piece Set](https://www.amazon.com/T-fal-Ingenio-Expertise-14-Piece-Set/dp/B0BTQVDDST/?tag=kitchenpot-20)
+- **Best enameled cast iron:** [Lodge 6-Quart Enameled Cast Iron Dutch Oven](https://www.amazon.com/Lodge-6-Quart-Enameled-Cast-Iron-Dutch-Oven/dp/B000N501BK/?tag=kitchenpot-20)
+- **Best budget induction pan:** [Lodge 12-Inch Pre-Seasoned Cast Iron Skillet](https://www.amazon.com/Lodge-12-Inch-Pre-Seasoned-Cast-Iron-Skillet/dp/B00006JSUB/?tag=kitchenpot-20)
 
 ## Best Cookware for Induction Cooktops: Comparison Table
 
@@ -103,7 +103,7 @@ The piece mix is practical, too. Two saucepans, a sauté pan, two skillets and a
 
 **Who should buy it:** Anyone who cooks most nights on induction and wants one set that will last for decades. If it's well over budget when you check, see our list of the [best cookware sets under $200](/blog/best-cookware-set-under-200/) for alternatives, including Tramontina's tri-ply set.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B009JXPS6U/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-MultiClad-Pro-12-Piece-Stainless-Steel-Set/dp/B009JXPS6U/?tag=kitchenpot-20)
 
 ## 2. All-Clad D3 Stainless 10-Piece Set: Best Splurge
 
@@ -134,7 +134,7 @@ All-Clad lists the D3 set as hand wash only. That's worth knowing if you rely on
 
 **Who should buy it:** Experienced cooks who want premium, American-made stainless steel for an induction range and plan to keep it for life.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00OKB7HN8/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/All-Clad-D3-Stainless-10-Piece-Set/dp/B00OKB7HN8/?tag=kitchenpot-20)
 
 ## 3. Ninja Extended Life Premium Ceramic 9-Piece Set: Best Nonstick for Induction
 
@@ -165,7 +165,7 @@ One thing to keep in mind on induction: nonstick and ceramic coatings don't like
 
 **Who should buy it:** Induction owners who want nonstick convenience without PTFE. For more options, see our roundup of the [best ceramic cookware sets](/blog/best-ceramic-cookware-set/), and read [how to clean a ceramic pan](/blog/how-to-clean-ceramic-pan/) to keep the coating working longer.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0C7YKWGH2/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Extended-Life-Premium-Ceramic-9-Piece-Set/dp/B0C7YKWGH2/?tag=kitchenpot-20)
 
 ## 4. T-fal Ingenio Expertise 14-Piece Set: Best for Small Kitchens
 
@@ -197,7 +197,7 @@ T-fal's Thermo-Spot indicator is handy on induction too. The ring in the center 
 
 **Who should buy it:** Renters, studio dwellers, RV owners and anyone cooking on a compact or portable induction cooktop. We cover more space-saving options in our list of [stackable pots and pans](/blog/7-best-stackable-pots-and-pans/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BTQVDDST/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/T-fal-Ingenio-Expertise-14-Piece-Set/dp/B0BTQVDDST/?tag=kitchenpot-20)
 
 ## 5. Lodge 6-Quart Enameled Cast Iron Dutch Oven: Best Enameled Cast Iron
 
@@ -227,7 +227,7 @@ Induction heats cast iron quickly at the base, but the heat takes time to spread
 
 **Who should buy it:** Anyone who braises, bakes bread or makes big pots of soup on induction and wants reliable cast iron without the premium price.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B000N501BK/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Lodge-6-Quart-Enameled-Cast-Iron-Dutch-Oven/dp/B000N501BK/?tag=kitchenpot-20)
 
 ## 6. Lodge 12-Inch Pre-Seasoned Cast Iron Skillet: Best Budget Induction Pan
 
@@ -258,7 +258,7 @@ The main caution is the cooktop glass. Cast iron has a rougher bottom than stain
 
 **Who should buy it:** Budget shoppers, new induction owners who want one pan to start with, and anyone who wants a searing pan to pair with a nonstick set.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00006JSUB/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Lodge-12-Inch-Pre-Seasoned-Cast-Iron-Skillet/dp/B00006JSUB/?tag=kitchenpot-20)
 
 ## How Does an Induction Cooktop Work?
 
@@ -335,12 +335,12 @@ A few more habits help. Wipe spills once the glass cools so they don't bake on. 
 
 ## Which Induction Cookware Should You Buy?
 
-- **You want one set that does almost everything and lasts:** [Cuisinart MultiClad Pro 12-Piece](https://www.amazon.com/dp/B009JXPS6U/?tag=kitchenpot-20).
-- **You want premium, made-in-USA stainless and don't mind paying for it:** [All-Clad D3 10-Piece](https://www.amazon.com/dp/B00OKB7HN8/?tag=kitchenpot-20).
-- **You want nonstick without PTFE that works on induction:** [Ninja Extended Life Ceramic 9-Piece](https://www.amazon.com/dp/B0C7YKWGH2/?tag=kitchenpot-20).
-- **Your kitchen is small or your cooktop is portable:** [T-fal Ingenio Expertise 14-Piece](https://www.amazon.com/dp/B0BTQVDDST/?tag=kitchenpot-20).
-- **You braise, bake bread or make big batches of soup:** [Lodge 6-Quart Enameled Dutch Oven](https://www.amazon.com/dp/B000N501BK/?tag=kitchenpot-20).
-- **You want the cheapest good induction pan to start with:** [Lodge 12-Inch Cast Iron Skillet](https://www.amazon.com/dp/B00006JSUB/?tag=kitchenpot-20).
+- **You want one set that does almost everything and lasts:** [Cuisinart MultiClad Pro 12-Piece](https://www.amazon.com/Cuisinart-MultiClad-Pro-12-Piece-Stainless-Steel-Set/dp/B009JXPS6U/?tag=kitchenpot-20).
+- **You want premium, made-in-USA stainless and don't mind paying for it:** [All-Clad D3 10-Piece](https://www.amazon.com/All-Clad-D3-Stainless-10-Piece-Set/dp/B00OKB7HN8/?tag=kitchenpot-20).
+- **You want nonstick without PTFE that works on induction:** [Ninja Extended Life Ceramic 9-Piece](https://www.amazon.com/Ninja-Extended-Life-Premium-Ceramic-9-Piece-Set/dp/B0C7YKWGH2/?tag=kitchenpot-20).
+- **Your kitchen is small or your cooktop is portable:** [T-fal Ingenio Expertise 14-Piece](https://www.amazon.com/T-fal-Ingenio-Expertise-14-Piece-Set/dp/B0BTQVDDST/?tag=kitchenpot-20).
+- **You braise, bake bread or make big batches of soup:** [Lodge 6-Quart Enameled Dutch Oven](https://www.amazon.com/Lodge-6-Quart-Enameled-Cast-Iron-Dutch-Oven/dp/B000N501BK/?tag=kitchenpot-20).
+- **You want the cheapest good induction pan to start with:** [Lodge 12-Inch Cast Iron Skillet](https://www.amazon.com/Lodge-12-Inch-Pre-Seasoned-Cast-Iron-Skillet/dp/B00006JSUB/?tag=kitchenpot-20).
 
 A smart combination for most induction kitchens is a clad stainless set plus one cast iron skillet. Stainless covers sauces, grains and pasta, and the cast iron handles high-heat searing. If you want an easy egg pan too, add a single induction-ready skillet from our list of the [best nonstick pans](/blog/best-nonstick-pans-with-buying-guide/) rather than buying a whole nonstick set.
 

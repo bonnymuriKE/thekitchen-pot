@@ -129,7 +129,7 @@ None of these were lab tested for this guide. They are well-known options that s
 
 **One cast iron skillet.** The [Lodge 10.25-inch Cast Iron Skillet](https://www.amazon.com/Lodge-10-25-Cast-Iron-Skillet/dp/B000AEE8AE/?tag=kitchenpot-20) is inexpensive and lists compatibility with electric cooktops. It gives you a real sear that thinner pans struggle with.
 
-**A portable induction burner, as a helper.** If your coils are worn or slow, the [Duxtop 9600LS portable induction burner](https://www.amazon.com/dp/B01FLR0ET8/?tag=kitchenpot-20) adds a fast, precise heat source you can move around.
+**A portable induction burner, as a helper.** If your coils are worn or slow, the [Duxtop 9600LS portable induction burner](https://www.amazon.com/Duxtop-9600LS-portable-induction-burner/dp/B01FLR0ET8/?tag=kitchenpot-20) adds a fast, precise heat source you can move around.
 
 If you're building a set on a budget, our [best cookware sets under $200](/blog/best-cookware-set-under-200/) roundup compares several options.
 

@@ -42,16 +42,16 @@ The catch is that "removable" gets thrown around loosely in product listings. So
 
 So every pick below was checked against the manufacturer's own spec page. All six have plates that release by hand and go in the sink.
 
-> **Quick answer:** the [Cuisinart WAF-300P1](https://www.amazon.com/dp/B00EQT6EBU/?tag=kitchenpot-20) is the best all-rounder, because the plates pop out and a second set turns it into a pancake griddle. For a cheaper flip model, the Hamilton Beach 26031 uses ceramic grids that go in the dishwasher. For classic thin waffles plus a grill, take the Black+Decker G48TD.
+> **Quick answer:** the [Cuisinart WAF-300P1](https://www.amazon.com/Cuisinart-WAF-300P1-Belgian-Waffle-Maker-with-Pancake-Plates/dp/B00EQT6EBU/?tag=kitchenpot-20) is the best all-rounder, because the plates pop out and a second set turns it into a pancake griddle. For a cheaper flip model, the Hamilton Beach 26031 uses ceramic grids that go in the dishwasher. For classic thin waffles plus a grill, take the Black+Decker G48TD.
 
 ## Our Picks at a Glance
 
-- **Best overall:** [Cuisinart WAF-300P1 Belgian Waffle Maker with Pancake Plates](https://www.amazon.com/dp/B00EQT6EBU/?tag=kitchenpot-20)
-- **Best budget Belgian:** [Hamilton Beach 26031 Durathon Removable-Grid Waffle Maker](https://www.amazon.com/dp/B07H81RRHJ/?tag=kitchenpot-20)
-- **Best premium:** [All-Clad Gourmet 4-Slice Waffle Maker](https://www.amazon.com/dp/B08JMD5Z6K/?tag=kitchenpot-20)
-- **Best plate-swapping system:** [Black+Decker WM2000SD 3-in-1 Morning Meal Station](https://www.amazon.com/dp/B07D7DTFM5/?tag=kitchenpot-20)
-- **Best for classic waffles and griddle work:** [Black+Decker G48TD 3-in-1 Waffle Maker and Grill](https://www.amazon.com/dp/B01NARYDPA/?tag=kitchenpot-20)
-- **Best for back-to-back batches:** [Hamilton Beach 26201MN Double Flip Belgian Waffle Maker](https://www.amazon.com/dp/B084P5CCZC/?tag=kitchenpot-20)
+- **Best overall:** [Cuisinart WAF-300P1 Belgian Waffle Maker with Pancake Plates](https://www.amazon.com/Cuisinart-WAF-300P1-Belgian-Waffle-Maker-with-Pancake-Plates/dp/B00EQT6EBU/?tag=kitchenpot-20)
+- **Best budget Belgian:** [Hamilton Beach 26031 Durathon Removable-Grid Waffle Maker](https://www.amazon.com/Hamilton-Beach-26031-Durathon-Removable-Grid-Waffle-Maker/dp/B07H81RRHJ/?tag=kitchenpot-20)
+- **Best premium:** [All-Clad Gourmet 4-Slice Waffle Maker](https://www.amazon.com/All-Clad-Gourmet-4-Slice-Waffle-Maker/dp/B08JMD5Z6K/?tag=kitchenpot-20)
+- **Best plate-swapping system:** [Black+Decker WM2000SD 3-in-1 Morning Meal Station](https://www.amazon.com/Black-Decker-WM2000SD-3-in-1-Morning-Meal-Station/dp/B07D7DTFM5/?tag=kitchenpot-20)
+- **Best for classic waffles and griddle work:** [Black+Decker G48TD 3-in-1 Waffle Maker and Grill](https://www.amazon.com/Black-Decker-G48TD-3-in-1-Waffle-Maker-and/dp/B01NARYDPA/?tag=kitchenpot-20)
+- **Best for back-to-back batches:** [Hamilton Beach 26201MN Double Flip Belgian Waffle Maker](https://www.amazon.com/Hamilton-Beach-26201MN-Double-Flip-Belgian-Waffle-Maker/dp/B084P5CCZC/?tag=kitchenpot-20)
 
 ## Side-by-Side Specs
 
@@ -100,7 +100,7 @@ The controls are better than the price suggests. A six-step browning dial plus a
 
 Cleanup is the reason you came. Both plates release with a catch and go in the dishwasher, so set batter never gets a chance to harden in the pockets. Cuisinart also sells replacement plates, which is worth knowing years from now when the coating finally gives up.
 
-Cuisinart lists this model as the WAF-300P1 and, in its newer listing, the WAF-300NAS. The hardware is the same waffle maker. Owner reviews on the [product reviews page](https://www.amazon.com/product-reviews/B00EQT6EBU/?tag=kitchenpot-20) most often mention the beep and the plate swap, with the usual grumbles about batter overflow on the first try.
+Cuisinart lists this model as the WAF-300P1 and, in its newer listing, the WAF-300NAS. The hardware is the same waffle maker. Owner reviews on the [product reviews page](https://www.amazon.com/Cuisinart-WAF-300P1-Belgian-Waffle-Maker-with-Pancake-Plates/product-reviews/B00EQT6EBU/?tag=kitchenpot-20) most often mention the beep and the plate swap, with the usual grumbles about batter overflow on the first try.
 
 **What we like:**
 
@@ -119,7 +119,7 @@ Cuisinart lists this model as the WAF-300P1 and, in its newer listing, the WAF-3
 
 **Who should buy it:** Families who want waffles and pancakes from one machine. If you are stocking a kitchen from scratch, it pairs well with the picks in our guide to [space-saving baking tool essentials](/blog/space-saving-baking-tool-essentials/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00EQT6EBU/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-WAF-300P1-Belgian-Waffle-Maker-with-Pancake-Plates/dp/B00EQT6EBU/?tag=kitchenpot-20)
 
 ## 2. Hamilton Beach 26031: Best Budget Belgian
 
@@ -154,7 +154,7 @@ Hamilton Beach says a waffle takes five to eight minutes depending on your brown
 
 **Who should buy it:** Anyone who wants a flip waffle maker without paying restaurant-equipment money. It is a sensible upgrade if your [bakeware collection](/blog/best-bakeware-sets/) is already sorted and breakfast is the gap.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07H81RRHJ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Hamilton-Beach-26031-Durathon-Removable-Grid-Waffle-Maker/dp/B07H81RRHJ/?tag=kitchenpot-20)
 
 ## 3. All-Clad Gourmet 4-Slice Waffle Maker: Best Premium
 
@@ -189,7 +189,7 @@ It is expensive for a breakfast appliance, and it does one job. If your counter 
 
 **Who should buy it:** Weekend waffle people who make big batches and want the best result. If you compare it to other splurge appliances, our roundup of [kitchen appliances worth the money](/blog/coolest-kitchen-appliances-to-buy/) puts the price in context.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08JMD5Z6K/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/All-Clad-Gourmet-4-Slice-Waffle-Maker/dp/B08JMD5Z6K/?tag=kitchenpot-20)
 
 ## 4. Black+Decker WM2000SD Morning Meal Station: Best Plate-Swapping System
 
@@ -224,7 +224,7 @@ The footprint is the headline: 9 inches square and 4 inches tall. That fits in a
 
 **Who should buy it:** Students, renters and anyone in a studio kitchen. It belongs with the other picks in our list of [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07D7DTFM5/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Black-Decker-WM2000SD-3-in-1-Morning-Meal-Station/dp/B07D7DTFM5/?tag=kitchenpot-20)
 
 ## 5. Black+Decker G48TD: Best for Classic Waffles and Griddle Work
 
@@ -259,7 +259,7 @@ Owner reviews on this model split along one line. People who bought it as a grid
 
 **Who should buy it:** Cooks who want a flat griddle first and waffles second. It is also the pick if you cook pancakes often, alongside the options in our [griddle pan roundup](/blog/best-griddle-pan-for-pancakes/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01NARYDPA/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Black-Decker-G48TD-3-in-1-Waffle-Maker-and/dp/B01NARYDPA/?tag=kitchenpot-20)
 
 ## 6. Hamilton Beach 26201MN Double Flip: Best for Back-to-Back Batches
 
@@ -294,7 +294,7 @@ There is no browning dial, only indicator lights. You get one cooking temperatur
 
 **Who should buy it:** Households of three or more, and anyone who has stood at a waffle iron for twenty minutes. Storing it upright helps, and our [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) show how.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B084P5CCZC/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Hamilton-Beach-26201MN-Double-Flip-Belgian-Waffle-Maker/dp/B084P5CCZC/?tag=kitchenpot-20)
 
 ## Why Removable Plates Change How Often You Use It
 
@@ -371,12 +371,12 @@ Clean the plates while they are still warm, whichever model you buy. Even dishwa
 
 ## Which Waffle Maker Should You Buy?
 
-- **You want waffles and pancakes from one machine:** [Cuisinart WAF-300P1](https://www.amazon.com/dp/B00EQT6EBU/?tag=kitchenpot-20).
-- **You want a flip model without the premium price:** [Hamilton Beach 26031](https://www.amazon.com/dp/B07H81RRHJ/?tag=kitchenpot-20).
-- **You make big batches and want the best crust:** [All-Clad Gourmet 4-Slice](https://www.amazon.com/dp/B08JMD5Z6K/?tag=kitchenpot-20).
-- **Your cupboard is the constraint:** [Black+Decker WM2000SD](https://www.amazon.com/dp/B07D7DTFM5/?tag=kitchenpot-20).
-- **You want classic waffles and a flat griddle:** [Black+Decker G48TD](https://www.amazon.com/dp/B01NARYDPA/?tag=kitchenpot-20).
-- **You are feeding a table, not a person:** [Hamilton Beach 26201MN](https://www.amazon.com/dp/B084P5CCZC/?tag=kitchenpot-20).
+- **You want waffles and pancakes from one machine:** [Cuisinart WAF-300P1](https://www.amazon.com/Cuisinart-WAF-300P1-Belgian-Waffle-Maker-with-Pancake-Plates/dp/B00EQT6EBU/?tag=kitchenpot-20).
+- **You want a flip model without the premium price:** [Hamilton Beach 26031](https://www.amazon.com/Hamilton-Beach-26031-Durathon-Removable-Grid-Waffle-Maker/dp/B07H81RRHJ/?tag=kitchenpot-20).
+- **You make big batches and want the best crust:** [All-Clad Gourmet 4-Slice](https://www.amazon.com/All-Clad-Gourmet-4-Slice-Waffle-Maker/dp/B08JMD5Z6K/?tag=kitchenpot-20).
+- **Your cupboard is the constraint:** [Black+Decker WM2000SD](https://www.amazon.com/Black-Decker-WM2000SD-3-in-1-Morning-Meal-Station/dp/B07D7DTFM5/?tag=kitchenpot-20).
+- **You want classic waffles and a flat griddle:** [Black+Decker G48TD](https://www.amazon.com/Black-Decker-G48TD-3-in-1-Waffle-Maker-and/dp/B01NARYDPA/?tag=kitchenpot-20).
+- **You are feeding a table, not a person:** [Hamilton Beach 26201MN](https://www.amazon.com/Hamilton-Beach-26201MN-Double-Flip-Belgian-Waffle-Maker/dp/B084P5CCZC/?tag=kitchenpot-20).
 
 One last filter, if you are still torn. Count how many weekends a year you will actually make waffles. Under ten, buy the multi-plate system and let it earn its shelf on other jobs. Over ten, buy the dedicated iron and enjoy the deeper pockets.
 

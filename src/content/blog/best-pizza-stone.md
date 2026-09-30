@@ -86,9 +86,9 @@ Like cordierite and ceramic, clay stones need plenty of time to pre-heat.
 
 ## **6 Best Pizza Stones**
 
-### **1. [User-Friendly Pick-Love This Kitchen the Ultimate Pizza Stone for Oven and Grill](https://www.amazon.com/Exclusive-ThermaShock-Protection-Convection-Technology/dp/B01KUGKETK?tag=kitchenpot-20)**
+### **1. [User-Friendly Pick-Love This Kitchen the Ultimate Pizza Stone for Oven and Grill](https://www.amazon.com/Exclusive-ThermaShock-Protection-Convection-Technology/dp/B01KUGKETK/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Exclusive-ThermaShock-Protection-Convection-Technology/dp/B01KUGKETK?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Exclusive-ThermaShock-Protection-Convection-Technology/dp/B01KUGKETK/?tag=kitchenpot-20)
 
 Well, if you’ve never used a pizza stone, you should try this pizza stone from love this kitchen, it’s a great pick you’ll never regret using.
 
@@ -116,9 +116,9 @@ The stone measures 17 x 16 x 0.83 inches. You get 16 inches of the usable surfac
 * The pizza stone is heavy as compared to other pizza pans
 * Requires pre-heating
 
-### **2. [Heritage 15” Black Ceramic Pizza Stone](https://www.amazon.com/Heritage-Black-Ceramic-Pizza-Cutter/dp/B00O83CTOK?tag=kitchenpot-20)**
+### **2. [Heritage 15” Black Ceramic Pizza Stone](https://www.amazon.com/Heritage-Black-Ceramic-Pizza-Cutter/dp/B00O83CTOK/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/Heritage-Black-Ceramic-Pizza-Cutter/dp/B00O83CTOK?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Heritage-Black-Ceramic-Pizza-Cutter/dp/B00O83CTOK/?tag=kitchenpot-20)
 
 For the perfectionists and OCDers out there, well, this is ideal for you.
 
@@ -143,9 +143,9 @@ The pizza stone bakes a lovely, crispy, and delicious pizza. So, why don’t you
 
 * The black coating may eventually peel off
 
-### **3. [Dishwasher Safe Pick-Emile Henry Flame Top Pizza Stone](https://www.amazon.com/Emile-Henry-France-Flame-Charcoal/dp/B00T4ANYEG?tag=kitchenpot-20)**
+### **3. [Dishwasher Safe Pick-Emile Henry Flame Top Pizza Stone](https://www.amazon.com/Emile-Henry-France-Flame-Charcoal/dp/B00T4ANYEG/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Emile-Henry-France-Flame-Charcoal/dp/B00T4ANYEG?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Emile-Henry-France-Flame-Charcoal/dp/B00T4ANYEG/?tag=kitchenpot-20)
 
 The dishwasher safe pick pizza stone from Emile Henry Is easier to clean than other types of pizza stones. The pizza stone is a convenient and user-friendly dishwasher-safe model.
 
@@ -178,9 +178,9 @@ The pizza stone is backed by a 10-year manufacturer guarantee against defects.
 * The pizza stone must be preheated to prevent cracking
 * Price is above-average for a pizza stone
 
-### **4. [Solido 14 x 16-Inch Pizza Stone](https://www.amazon.com/Pizza-Stone-Baking-Rectangular-Perfect/dp/B01GMYARYG?tag=kitchenpot-20)**
+### **4. [Solido 14 x 16-Inch Pizza Stone](https://www.amazon.com/Pizza-Stone-Baking-Rectangular-Perfect/dp/B01GMYARYG/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/Pizza-Stone-Baking-Rectangular-Perfect/dp/B01GMYARYG?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Pizza-Stone-Baking-Rectangular-Perfect/dp/B01GMYARYG/?tag=kitchenpot-20)
 
 With the solido pizza stone, you can create your delicious restaurant-quality pizza. 
 
@@ -214,9 +214,9 @@ The Solido 14 x 16-inch pizza stone offers mouth-watering recipes, cooking tips,
 * The pizza stone can discolor over time
 * The stone is not pocket friendly
 
-### **5. [Best Heat Resistant Pick- Culinary- Couture Pizza Stone For Grill and Oven](https://www.amazon.com/Pizza-Stone-Grill-Oven-Packaging/dp/B01AFOIO3K?tag=kitchenpot-20)**
+### **5. [Best Heat Resistant Pick- Culinary- Couture Pizza Stone For Grill and Oven](https://www.amazon.com/Pizza-Stone-Grill-Oven-Packaging/dp/B01AFOIO3K/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Pizza-Stone-Grill-Oven-Packaging/dp/B01AFOIO3K?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Pizza-Stone-Grill-Oven-Packaging/dp/B01AFOIO3K/?tag=kitchenpot-20)
 
 The heat resistant pick-culinary-couture pizza stone is made of cordierite from culinary couture. The stone is ¾ inch thick and holds up well no matter how you use it.
 
@@ -244,9 +244,9 @@ There is no warranty or guarantee with this stone.
 * No warranty or guarantee
 * The stone is heavier than other pizza stones
 
-### **6. [Budget Pick- Honey- Can- Do Stone Oven Round Pizza Stone](https://www.amazon.com/Old-Stone-Oven-Round-Pizza/dp/B07ZV3NPR7?tag=kitchenpot-20)**
+### **6. [Budget Pick- Honey- Can- Do Stone Oven Round Pizza Stone](https://www.amazon.com/Old-Stone-Oven-Round-Pizza/dp/B07ZV3NPR7/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Old-Stone-Oven-Round-Pizza/dp/B07ZV3NPR7?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Old-Stone-Oven-Round-Pizza/dp/B07ZV3NPR7/?tag=kitchenpot-20)
 
 This classic pizza stone from Honey-Can-Do offers quality and is also pocket friendly. 
 

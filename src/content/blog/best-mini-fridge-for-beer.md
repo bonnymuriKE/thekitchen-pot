@@ -40,18 +40,18 @@ Most beer fridges are sold by can count, not by cubic feet. That is marketing. I
 
 The trap is bottles. A 12 oz longneck stands 9.1 inches tall against a can's 4.8 inches, so a fridge rated for 126 cans holds nowhere near 126 bottles.
 
-**The quick answer:** for a home bar, the [NewAir 126-Can Beverage Fridge](https://www.amazon.com/dp/B07PH477F8/?tag=kitchenpot-20) is the right size and the right cold. It is 3.4 cubic feet, runs a real compressor, and goes down to 37°F.
+**The quick answer:** for a home bar, the [NewAir 126-Can Beverage Fridge](https://www.amazon.com/NewAir-126-Can-Beverage-Fridge/dp/B07PH477F8/?tag=kitchenpot-20) is the right size and the right cold. It is 3.4 cubic feet, runs a real compressor, and goes down to 37°F.
 
 Below are six picks, sized in cans and in bottles, with the compressor question settled first because it decides everything else.
 
 ## Our Picks at a Glance
 
-- **Best overall:** [NewAir 126-Can Beverage Fridge](https://www.amazon.com/dp/B07PH477F8/?tag=kitchenpot-20)
-- **Best for cold control:** [Whynter BR-130SB 127-Can Beverage Refrigerator](https://www.amazon.com/dp/B00P7QI4IM/?tag=kitchenpot-20)
-- **Best value glass door:** [EUHOMY 128-Can Beverage Refrigerator](https://www.amazon.com/dp/B099F4321V/?tag=kitchenpot-20)
-- **Best solid door for tall bottles:** [Danby 2.6 Cu. Ft. Compact Fridge](https://www.amazon.com/dp/B01M8O1GAU/?tag=kitchenpot-20)
-- **Best large capacity:** [NewAir 160-Can Beverage Fridge](https://www.amazon.com/dp/B0875XQD7L/?tag=kitchenpot-20)
-- **Best desk-side mini:** [Cooluli Classic 4L Mini Fridge](https://www.amazon.com/dp/B0771S9XT8/?tag=kitchenpot-20)
+- **Best overall:** [NewAir 126-Can Beverage Fridge](https://www.amazon.com/NewAir-126-Can-Beverage-Fridge/dp/B07PH477F8/?tag=kitchenpot-20)
+- **Best for cold control:** [Whynter BR-130SB 127-Can Beverage Refrigerator](https://www.amazon.com/Whynter-BR-130SB-127-Can-Beverage-Refrigerator/dp/B00P7QI4IM/?tag=kitchenpot-20)
+- **Best value glass door:** [EUHOMY 128-Can Beverage Refrigerator](https://www.amazon.com/EUHOMY-128-Can-Beverage-Refrigerator/dp/B099F4321V/?tag=kitchenpot-20)
+- **Best solid door for tall bottles:** [Danby 2.6 Cu. Ft. Compact Fridge](https://www.amazon.com/Danby-2-6-Cu-Ft-Compact-Fridge/dp/B01M8O1GAU/?tag=kitchenpot-20)
+- **Best large capacity:** [NewAir 160-Can Beverage Fridge](https://www.amazon.com/NewAir-160-Can-Beverage-Fridge/dp/B0875XQD7L/?tag=kitchenpot-20)
+- **Best desk-side mini:** [Cooluli Classic 4L Mini Fridge](https://www.amazon.com/Cooluli-Classic-4L-Mini-Fridge/dp/B0771S9XT8/?tag=kitchenpot-20)
 
 ## Cans, Bottles and Cubic Feet: What Actually Fits
 
@@ -97,7 +97,7 @@ Cooluli publishes that 35 to 40°F below ambient figure for its own units, and i
 
 Thermoelectric still has real advantages. It is silent apart from a small fan, it has no compressor to fail, it is light, and many units run on 12V so they work in a car. For six cans next to a desk that is a fair trade. For a beer fridge you rely on, buy a compressor.
 
-## 1. [NewAir 126-Can Beverage Fridge](https://www.amazon.com/dp/B07PH477F8/?tag=kitchenpot-20): Best Overall
+## 1. [NewAir 126-Can Beverage Fridge](https://www.amazon.com/NewAir-126-Can-Beverage-Fridge/dp/B07PH477F8/?tag=kitchenpot-20): Best Overall
 
 - **Type:** Freestanding glass-door beverage fridge, compressor cooling
 - **Capacity:** 3.4 cu ft, 126 standard 12 oz cans
@@ -130,9 +130,9 @@ At 35 dB it is one of the quieter units here, roughly the level of a soft hum in
 
 **Who should buy it:** Anyone building a home bar or a drinks corner who wants one fridge to do the whole job. It suits the same reader as our roundup of [compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/), where footprint and running cost matter as much as capacity.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07PH477F8/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/NewAir-126-Can-Beverage-Fridge/dp/B07PH477F8/?tag=kitchenpot-20)
 
-## 2. [Whynter BR-130SB 127-Can Beverage Refrigerator](https://www.amazon.com/dp/B00P7QI4IM/?tag=kitchenpot-20): Best for Cold Control
+## 2. [Whynter BR-130SB 127-Can Beverage Refrigerator](https://www.amazon.com/Whynter-BR-130SB-127-Can-Beverage-Refrigerator/dp/B00P7QI4IM/?tag=kitchenpot-20): Best for Cold Control
 
 - **Type:** Compressor beverage fridge with fan-forced circulation
 - **Capacity:** 3.1 cu ft, 127 standard cans
@@ -164,9 +164,9 @@ It is also the narrowest of the full-size picks at 17 inches wide. Five slide-ou
 
 **Who should buy it:** Beer drinkers who want a consistent, dependable temperature rather than the biggest box. It fits neatly into a small-appliance lineup like the one in our guide to [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00P7QI4IM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Whynter-BR-130SB-127-Can-Beverage-Refrigerator/dp/B00P7QI4IM/?tag=kitchenpot-20)
 
-## 3. [EUHOMY 128-Can Beverage Refrigerator](https://www.amazon.com/dp/B099F4321V/?tag=kitchenpot-20): Best Value Glass Door
+## 3. [EUHOMY 128-Can Beverage Refrigerator](https://www.amazon.com/EUHOMY-128-Can-Beverage-Refrigerator/dp/B099F4321V/?tag=kitchenpot-20): Best Value Glass Door
 
 - **Type:** Compressor beverage fridge with digital control
 - **Capacity:** 3.1 cu ft, 128 standard cans
@@ -178,7 +178,7 @@ EUHOMY undercuts the name brands and still gives you the two things that matter.
 
 That 34°F floor is the lowest here. It is colder than beer needs, but the headroom is useful. A fridge that can reach 34°F will hold 38°F comfortably even when the room warms up, because it is not working at its limit. A unit that barely scrapes 40°F on a cool day will struggle in July.
 
-The shelves are removable, so the same bottle arithmetic applies. Pull one out for longnecks. Leave them all in and you get the full can count. Buyers most often mention the digital display and the low price together, and you can read the pattern yourself on the [EUHOMY reviews page](https://www.amazon.com/product-reviews/B099F4321V/?tag=kitchenpot-20).
+The shelves are removable, so the same bottle arithmetic applies. Pull one out for longnecks. Leave them all in and you get the full can count. Buyers most often mention the digital display and the low price together, and you can read the pattern yourself on the [EUHOMY reviews page](https://www.amazon.com/EUHOMY-128-Can-Beverage-Refrigerator/product-reviews/B099F4321V/?tag=kitchenpot-20).
 
 **What we like:**
 
@@ -196,9 +196,9 @@ The shelves are removable, so the same bottle arithmetic applies. Pull one out f
 
 **Who should buy it:** Anyone who wants a proper compressor beverage fridge without paying for a badge. For the wider question of where your household power goes, our guide to [reducing kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/) is a useful companion.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B099F4321V/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/EUHOMY-128-Can-Beverage-Refrigerator/dp/B099F4321V/?tag=kitchenpot-20)
 
-## 4. [Danby 2.6 Cu. Ft. Compact Fridge](https://www.amazon.com/dp/B01M8O1GAU/?tag=kitchenpot-20): Best Solid Door for Tall Bottles
+## 4. [Danby 2.6 Cu. Ft. Compact Fridge](https://www.amazon.com/Danby-2-6-Cu-Ft-Compact-Fridge/dp/B01M8O1GAU/?tag=kitchenpot-20): Best Solid Door for Tall Bottles
 
 - **Type:** Solid-door compact refrigerator, compressor, auto defrost
 - **Capacity:** 2.6 cu ft with CanStor dispenser and tall bottle door storage
@@ -231,9 +231,9 @@ It is also the only Energy Star pick here, and Danby quotes 32°F to 50°F on th
 
 **Who should buy it:** Bottle drinkers, anyone in a bedroom or studio who does not want a glowing glass door at night, and anyone who wants the lowest running cost. It pairs well with the thinking in our list of the [most energy-efficient small kitchen appliances](/blog/most-energy-efficient-small-kitchen-appliances/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01M8O1GAU/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Danby-2-6-Cu-Ft-Compact-Fridge/dp/B01M8O1GAU/?tag=kitchenpot-20)
 
-## 5. [NewAir 160-Can Beverage Fridge](https://www.amazon.com/dp/B0875XQD7L/?tag=kitchenpot-20): Best Large Capacity
+## 5. [NewAir 160-Can Beverage Fridge](https://www.amazon.com/NewAir-160-Can-Beverage-Fridge/dp/B0875XQD7L/?tag=kitchenpot-20): Best Large Capacity
 
 - **Type:** Freestanding glass-door beverage fridge with digital thermostat
 - **Capacity:** 4.6 cu ft, 160 standard cans
@@ -266,9 +266,9 @@ It also has a digital thermostat instead of a dial, so you set a number and read
 
 **Who should buy it:** Households that host, share a place with roommates, or simply buy beer by the case. If the party usually moves outdoors, read our notes on [setting up a small patio for grilling](/blog/how-to-set-up-a-small-patio-for-grilling/) next. A fridge this size also pairs naturally with a [gas grill under $500](/blog/best-gas-grills-under-500/) and enough [dinnerware for a crowd](/blog/7-best-dinnerware-sets/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0875XQD7L/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/NewAir-160-Can-Beverage-Fridge/dp/B0875XQD7L/?tag=kitchenpot-20)
 
-## 6. [Cooluli Classic 4L Mini Fridge](https://www.amazon.com/dp/B0771S9XT8/?tag=kitchenpot-20): Best Desk-Side Mini
+## 6. [Cooluli Classic 4L Mini Fridge](https://www.amazon.com/Cooluli-Classic-4L-Mini-Fridge/dp/B0771S9XT8/?tag=kitchenpot-20): Best Desk-Side Mini
 
 - **Type:** Thermoelectric cooler and warmer, no compressor or refrigerant
 - **Capacity:** 4 litres, about 0.14 cu ft, six 12 oz cans
@@ -301,7 +301,7 @@ It also runs in reverse. Flip the switch and the same plate warms the inside ins
 
 **Who should buy it:** Students, home office workers and anyone who wants two or three cold cans beside them. It belongs in the same category as the compact gear in our [coolest kitchen appliances](/blog/coolest-kitchen-appliances-to-buy/) list rather than the serious beer storage above.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0771S9XT8/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cooluli-Classic-4L-Mini-Fridge/dp/B0771S9XT8/?tag=kitchenpot-20)
 
 ## What Temperature Should Beer Be? Beer Is Not One Drink
 
@@ -362,12 +362,12 @@ Three filters did most of the work. Every full-size pick had to publish a real t
 
 ## Which Mini Fridge for Beer Should You Buy?
 
-- **You want one fridge that handles everything:** [NewAir 126-Can](https://www.amazon.com/dp/B07PH477F8/?tag=kitchenpot-20). 3.4 cubic feet, 37°F, quiet.
-- **You want an even temperature top to bottom:** [Whynter BR-130SB](https://www.amazon.com/dp/B00P7QI4IM/?tag=kitchenpot-20). Fan-forced and double-paned.
-- **You want the most fridge per dollar:** [EUHOMY 128-Can](https://www.amazon.com/dp/B099F4321V/?tag=kitchenpot-20). Digital control, 34°F floor.
-- **You drink bottles, or the fridge is in a bedroom:** [Danby 2.6 Cu. Ft.](https://www.amazon.com/dp/B01M8O1GAU/?tag=kitchenpot-20). Solid door, tall bottle storage, Energy Star.
-- **You host, or you buy by the case:** [NewAir 160-Can](https://www.amazon.com/dp/B0875XQD7L/?tag=kitchenpot-20). SplitShelf keeps bottles and cans together.
-- **You want six cold cans beside a desk:** [Cooluli Classic 4L](https://www.amazon.com/dp/B0771S9XT8/?tag=kitchenpot-20). Just keep the room cool.
+- **You want one fridge that handles everything:** [NewAir 126-Can](https://www.amazon.com/NewAir-126-Can-Beverage-Fridge/dp/B07PH477F8/?tag=kitchenpot-20). 3.4 cubic feet, 37°F, quiet.
+- **You want an even temperature top to bottom:** [Whynter BR-130SB](https://www.amazon.com/Whynter-BR-130SB-127-Can-Beverage-Refrigerator/dp/B00P7QI4IM/?tag=kitchenpot-20). Fan-forced and double-paned.
+- **You want the most fridge per dollar:** [EUHOMY 128-Can](https://www.amazon.com/EUHOMY-128-Can-Beverage-Refrigerator/dp/B099F4321V/?tag=kitchenpot-20). Digital control, 34°F floor.
+- **You drink bottles, or the fridge is in a bedroom:** [Danby 2.6 Cu. Ft.](https://www.amazon.com/Danby-2-6-Cu-Ft-Compact-Fridge/dp/B01M8O1GAU/?tag=kitchenpot-20). Solid door, tall bottle storage, Energy Star.
+- **You host, or you buy by the case:** [NewAir 160-Can](https://www.amazon.com/NewAir-160-Can-Beverage-Fridge/dp/B0875XQD7L/?tag=kitchenpot-20). SplitShelf keeps bottles and cans together.
+- **You want six cold cans beside a desk:** [Cooluli Classic 4L](https://www.amazon.com/Cooluli-Classic-4L-Mini-Fridge/dp/B0771S9XT8/?tag=kitchenpot-20). Just keep the room cool.
 
 One last piece of advice. Stand the fridge upright for several hours before you plug it in, because compressor oil needs to settle after transit. Then give it a full day to reach temperature before you judge it. A fridge loaded with warm cans on day one will always look like it is underperforming.
 

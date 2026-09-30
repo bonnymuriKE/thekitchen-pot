@@ -44,12 +44,12 @@ So the picks below are sorted by how each one handles that problem, from a 4.65-
 
 ## Our Picks at a Glance
 
-- **Best overall for small kitchens:** [Lodge 10.5-Inch Round Cast Iron Griddle](https://www.amazon.com/dp/B00008GKDN/?tag=kitchenpot-20)
-- **Best two-burner cast iron:** [Lodge Reversible Grill/Griddle, 16.75 x 9.5 in](https://www.amazon.com/dp/B002CMLTXG/?tag=kitchenpot-20)
-- **Best nonstick value:** [Cooks Standard 11-Inch Square Griddle Pan](https://www.amazon.com/dp/B0748Z6CXB/?tag=kitchenpot-20)
-- **Best metal-utensil-safe nonstick:** [Calphalon Premier 11-Inch Square Griddle](https://www.amazon.com/dp/B089V33T1B/?tag=kitchenpot-20)
-- **Lightest and easiest to store:** [Nordic Ware Two Burner Griddle](https://www.amazon.com/dp/B00080QJYI/?tag=kitchenpot-20)
-- **Best electric for big batches:** [Presto 07061 22-Inch Electric Ceramic Griddle](https://www.amazon.com/dp/B005FYF3OY/?tag=kitchenpot-20)
+- **Best overall for small kitchens:** [Lodge 10.5-Inch Round Cast Iron Griddle](https://www.amazon.com/Lodge-10-5-Inch-Round-Cast-Iron-Griddle/dp/B00008GKDN/?tag=kitchenpot-20)
+- **Best two-burner cast iron:** [Lodge Reversible Grill/Griddle, 16.75 x 9.5 in](https://www.amazon.com/Lodge-Reversible-Grill-Griddle-16-75-x-9-5/dp/B002CMLTXG/?tag=kitchenpot-20)
+- **Best nonstick value:** [Cooks Standard 11-Inch Square Griddle Pan](https://www.amazon.com/Cooks-Standard-11-Inch-Square-Griddle-Pan/dp/B0748Z6CXB/?tag=kitchenpot-20)
+- **Best metal-utensil-safe nonstick:** [Calphalon Premier 11-Inch Square Griddle](https://www.amazon.com/Calphalon-Premier-11-Inch-Square-Griddle/dp/B089V33T1B/?tag=kitchenpot-20)
+- **Lightest and easiest to store:** [Nordic Ware Two Burner Griddle](https://www.amazon.com/Nordic-Ware-Two-Burner-Griddle/dp/B00080QJYI/?tag=kitchenpot-20)
+- **Best electric for big batches:** [Presto 07061 22-Inch Electric Ceramic Griddle](https://www.amazon.com/Presto-07061-22-Inch-Electric-Ceramic-Griddle/dp/B005FYF3OY/?tag=kitchenpot-20)
 
 ## Why Material and Thickness Decide Your Pancakes
 
@@ -126,9 +126,9 @@ It is also PFAS-free with nothing to scratch or wear out, which is a different p
 
 **Who should buy it:** Anyone cooking for one to three people who wants real browning without giving up a cabinet. If you are working out your whole pan lineup, our guide to the [best cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) puts this in context, and [protecting a glass top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/) matters if you have a ceramic cooktop.
 
-Before committing, it is worth skimming the [owner reviews for this griddle](https://www.amazon.com/product-reviews/B00008GKDN/?tag=kitchenpot-20). Two themes come up repeatedly across retailers: people love how the seasoning develops, and they consistently warn about how hot the handle gets. Both are true and both are worth knowing.
+Before committing, it is worth skimming the [owner reviews for this griddle](https://www.amazon.com/Lodge-10-5-Inch-Round-Cast-Iron-Griddle/product-reviews/B00008GKDN/?tag=kitchenpot-20). Two themes come up repeatedly across retailers: people love how the seasoning develops, and they consistently warn about how hot the handle gets. Both are true and both are worth knowing.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00008GKDN/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Lodge-10-5-Inch-Round-Cast-Iron-Griddle/dp/B00008GKDN/?tag=kitchenpot-20)
 
 ## 2. Lodge Reversible Grill/Griddle: Best Two-Burner Cast Iron
 
@@ -161,7 +161,7 @@ At 9.35 pounds it is seriously heavy, and you should think about that before buy
 
 **Who should buy it:** Households of three or more, or anyone who wants one pan to cover pancakes and grilled food. If your stove is the limiting factor, our roundup of the [best induction cooktops for the money](/blog/best-induction-cooktop-for-the-money/) and the guide to [cookware for induction cooktops](/blog/best-cookware-for-induction-cooktop/) are both relevant, since cast iron works perfectly on induction.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B002CMLTXG/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Lodge-Reversible-Grill-Griddle-16-75-x-9-5/dp/B002CMLTXG/?tag=kitchenpot-20)
 
 ## 3. Cooks Standard 11-Inch Square Griddle Pan: Best Nonstick Value
 
@@ -194,7 +194,7 @@ The cooking trade-off is honest: this pan heats faster than cast iron and cools 
 
 **Who should buy it:** Beginners, anyone avoiding PTFE, and people who want breakfast cleanup to take thirty seconds. Treat it gently and read [how to clean a ceramic pan](/blog/how-to-clean-ceramic-pan/) before the first wash, because abrasives are what kill these coatings early.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0748Z6CXB/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cooks-Standard-11-Inch-Square-Griddle-Pan/dp/B0748Z6CXB/?tag=kitchenpot-20)
 
 ## 4. Calphalon Premier 11-Inch Square Griddle: Best Metal-Utensil-Safe Nonstick
 
@@ -227,7 +227,7 @@ At 3.6 pounds it sits between the featherweight aluminium pans and cast iron, an
 
 **Who should buy it:** Anyone who wants nonstick convenience but keeps reaching for a metal turner anyway. If you are weighing a whole set rather than one pan, our guide to the [best cookware set under $200](/blog/best-cookware-set-under-200/) covers the same trade-offs at set level, and [cleaning hard anodized cookware](/blog/how-to-clean-hard-anodized-cookware/) explains how to keep the finish intact.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B089V33T1B/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Calphalon-Premier-11-Inch-Square-Griddle/dp/B089V33T1B/?tag=kitchenpot-20)
 
 ## 5. Nordic Ware Two Burner Griddle: Lightest and Easiest to Store
 
@@ -262,7 +262,7 @@ Nordic Ware is clear about care: hand wash, moderate heat only, and no metal or 
 
 **Who should buy it:** Apartment and studio cooks who want two-burner capacity without a nine-pound pan. It fits well with the philosophy in [how to choose energy-efficient cookware for a small kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/), since a light pan reaches temperature on less energy.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00080QJYI/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nordic-Ware-Two-Burner-Griddle/dp/B00080QJYI/?tag=kitchenpot-20)
 
 ## 6. Presto 07061 22-Inch Electric Ceramic Griddle: Best Electric for Big Batches
 
@@ -296,7 +296,7 @@ At 253 square inches you can cook nine to twelve pancakes at once, so nobody eat
 
 **Who should buy it:** Families, batch cooks and anyone who hosts breakfast. If you are choosing between plug-in appliances with limited counter space, weigh it against the options in [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) and check the running-cost angle in [how to reduce kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B005FYF3OY/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Presto-07061-22-Inch-Electric-Ceramic-Griddle/dp/B005FYF3OY/?tag=kitchenpot-20)
 
 ## Getting the Temperature Right
 
@@ -346,12 +346,12 @@ For anything with stubborn residue on a bare metal surface, the soak-first appro
 
 ## Which Griddle Pan Should You Buy?
 
-- **You cook for one or two and want real browning:** [Lodge 10.5-inch round](https://www.amazon.com/dp/B00008GKDN/?tag=kitchenpot-20).
-- **You feed three or more and have two burners:** [Lodge Reversible Grill/Griddle](https://www.amazon.com/dp/B002CMLTXG/?tag=kitchenpot-20).
-- **You want easy nonstick without spending much:** [Cooks Standard 11-inch square](https://www.amazon.com/dp/B0748Z6CXB/?tag=kitchenpot-20).
-- **You want nonstick but keep grabbing a metal turner:** [Calphalon Premier 11-inch](https://www.amazon.com/dp/B089V33T1B/?tag=kitchenpot-20).
-- **Weight and storage are your real constraints:** [Nordic Ware Two Burner Griddle](https://www.amazon.com/dp/B00080QJYI/?tag=kitchenpot-20).
-- **You cook breakfast for a crowd:** [Presto 07061 22-inch electric](https://www.amazon.com/dp/B005FYF3OY/?tag=kitchenpot-20).
+- **You cook for one or two and want real browning:** [Lodge 10.5-inch round](https://www.amazon.com/Lodge-10-5-Inch-Round-Cast-Iron-Griddle/dp/B00008GKDN/?tag=kitchenpot-20).
+- **You feed three or more and have two burners:** [Lodge Reversible Grill/Griddle](https://www.amazon.com/Lodge-Reversible-Grill-Griddle-16-75-x-9-5/dp/B002CMLTXG/?tag=kitchenpot-20).
+- **You want easy nonstick without spending much:** [Cooks Standard 11-inch square](https://www.amazon.com/Cooks-Standard-11-Inch-Square-Griddle-Pan/dp/B0748Z6CXB/?tag=kitchenpot-20).
+- **You want nonstick but keep grabbing a metal turner:** [Calphalon Premier 11-inch](https://www.amazon.com/Calphalon-Premier-11-Inch-Square-Griddle/dp/B089V33T1B/?tag=kitchenpot-20).
+- **Weight and storage are your real constraints:** [Nordic Ware Two Burner Griddle](https://www.amazon.com/Nordic-Ware-Two-Burner-Griddle/dp/B00080QJYI/?tag=kitchenpot-20).
+- **You cook breakfast for a crowd:** [Presto 07061 22-inch electric](https://www.amazon.com/Presto-07061-22-Inch-Electric-Ceramic-Griddle/dp/B005FYF3OY/?tag=kitchenpot-20).
 
 One last decision rule: if you can only own one flat pan and you already own a good skillet, buy cast iron. If you own cast iron already and want speed on a Tuesday morning, buy the aluminium one. Either way, preheat it longer than feels necessary. More pancake problems come from an impatient preheat than from the pan.
 

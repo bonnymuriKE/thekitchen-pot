@@ -151,9 +151,9 @@ Mister Twister 120V is a versatile knife set that is hardy enough to perform oth
 
 It has a safety lock and features 120V AC, enough to clean and fillet many fishes without any damage. 
 
-### **6. [Berkley Electric Fillet Fishing Knife](https://www.amazon.com/Berkley-Electric-Fillet-Knife-120-Volt/dp/B009DMGMW6?tag=kitchenpot-20)**
+### **6. [Berkley Electric Fillet Fishing Knife](https://www.amazon.com/Berkley-Electric-Fillet-Knife-120-Volt/dp/B009DMGMW6/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/Berkley-Electric-Fillet-Knife-120-Volt/dp/B009DMGMW6?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Berkley-Electric-Fillet-Knife-120-Volt/dp/B009DMGMW6/?tag=kitchenpot-20)
 
 This electric fillet knife measures 13.5 x 9 x 3.25 inches and weighs 2 pounds. These dimensions are ideal, as the knife is lightweight and offers a comfortable grip necessary for long filleting hours. 
 

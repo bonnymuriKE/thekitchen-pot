@@ -138,7 +138,7 @@ Start with what you actually made last month, not what you plan to make.
 
 A useful test: open your fridge. If it holds fruit, yogurt and greens, buy the blender. If it holds onions, carrots, cheese and butter, buy the processor.
 
-For a full-size processor, the [Cuisinart DFP-14BCNY](https://www.amazon.com/dp/B01AXM4WV2/?tag=kitchenpot-20) is the model most home cooks end up with. It runs a 720-watt motor, holds 14 cups, and comes with the S-blade plus slicing and shredding discs. The common theme in [owner reviews](https://www.amazon.com/product-reviews/B01AXM4WV2/?tag=kitchenpot-20) is that it lasts for years, and that the bowl and lid take up real cupboard space. Both of those are fair.
+For a full-size processor, the [Cuisinart DFP-14BCNY](https://www.amazon.com/Cuisinart-DFP-14BCNY/dp/B01AXM4WV2/?tag=kitchenpot-20) is the model most home cooks end up with. It runs a 720-watt motor, holds 14 cups, and comes with the S-blade plus slicing and shredding discs. The common theme in [owner reviews](https://www.amazon.com/Cuisinart-DFP-14BCNY/product-reviews/B01AXM4WV2/?tag=kitchenpot-20) is that it lasts for years, and that the bowl and lid take up real cupboard space. Both of those are fair.
 
 ## Can a Small Kitchen Justify Both?
 
@@ -155,7 +155,7 @@ Here is how the pairings work in practice.
 | Soup and sauces, little else | Immersion blender only | Goes in a drawer, cleans in the sink |
 | Batch cooking for the week | Full-size processor plus a personal blender | Bulk prep plus single drinks |
 
-A mini processor is the quiet hero of the first row. The 3-cup [Cuisinart Mini-Prep Plus](https://www.amazon.com/dp/B0000645YM/?tag=kitchenpot-20) chops garlic, herbs, nuts and hard cheese, and it stores about as easily as a large mug. It will not knead dough or slice anything, so treat it as a knife helper rather than a small processor.
+A mini processor is the quiet hero of the first row. The 3-cup [Cuisinart Mini-Prep Plus](https://www.amazon.com/Cuisinart-Mini-Prep-Plus/dp/B0000645YM/?tag=kitchenpot-20) chops garlic, herbs, nuts and hard cheese, and it stores about as easily as a large mug. It will not knead dough or slice anything, so treat it as a knife helper rather than a small processor.
 
 Counter space is usually the real constraint. Our guide to [countertop organization for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) and these [vertical storage ideas](/blog/vertical-storage-ideas-for-small-kitchens/) will tell you fast whether a second machine fits. For solo cooks, we also list the [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/), and a full-size processor rarely makes that list.
 

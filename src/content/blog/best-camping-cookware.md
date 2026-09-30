@@ -46,12 +46,12 @@ So the right camping cookware depends on how it travels, not on how many pieces 
 
 ## Quick Picks
 
-- **Best overall for car camping:** [GSI Outdoors Pinnacle Camper](https://www.amazon.com/dp/B09G38DZQS/?tag=kitchenpot-20)
-- **Best stainless steel set:** [Stanley Adventure Base Camp Cook Set for Four](https://www.amazon.com/dp/B07QH7D5KM/?tag=kitchenpot-20)
-- **Best for campfire cooking:** [Lodge Pre-Seasoned Cast Iron Skillet, 10.25 Inches](https://www.amazon.com/dp/B00006JSUA/?tag=kitchenpot-20)
-- **Best backpacking set for two:** [GSI Outdoors Pinnacle Backpacker](https://www.amazon.com/dp/B0C4GWZQR3/?tag=kitchenpot-20)
-- **Best ultralight solo pot:** [TOAKS Titanium 750ml Pot](https://www.amazon.com/dp/B009B98FGW/?tag=kitchenpot-20)
-- **Best for packing flat:** [Sea to Summit Detour Stainless Steel Collapsible Pot, 3 Liter](https://www.amazon.com/dp/B0CWWFDBHP/?tag=kitchenpot-20)
+- **Best overall for car camping:** [GSI Outdoors Pinnacle Camper](https://www.amazon.com/GSI-Outdoors-Pinnacle-Camper/dp/B09G38DZQS/?tag=kitchenpot-20)
+- **Best stainless steel set:** [Stanley Adventure Base Camp Cook Set for Four](https://www.amazon.com/Stanley-Adventure-Base-Camp-Cook-Set-for-Four/dp/B07QH7D5KM/?tag=kitchenpot-20)
+- **Best for campfire cooking:** [Lodge Pre-Seasoned Cast Iron Skillet, 10.25 Inches](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-10-25-Inches/dp/B00006JSUA/?tag=kitchenpot-20)
+- **Best backpacking set for two:** [GSI Outdoors Pinnacle Backpacker](https://www.amazon.com/GSI-Outdoors-Pinnacle-Backpacker/dp/B0C4GWZQR3/?tag=kitchenpot-20)
+- **Best ultralight solo pot:** [TOAKS Titanium 750ml Pot](https://www.amazon.com/TOAKS-Titanium-750ml-Pot/dp/B009B98FGW/?tag=kitchenpot-20)
+- **Best for packing flat:** [Sea to Summit Detour Stainless Steel Collapsible Pot, 3 Liter](https://www.amazon.com/Sea-to-Summit-Detour-Stainless-Steel-Collapsible-Pot-3/dp/B0CWWFDBHP/?tag=kitchenpot-20)
 
 ## Camping Cookware Compared: Weight, Packed Size and Material
 
@@ -82,7 +82,7 @@ Here is the split in plain terms:
 
 If you do both, buy twice. A backpacking pot makes a poor group kitchen, and hauling a four-person set up a mountain is punishment. The same logic applies at home, where [the right cookware size for one person](/blog/best-cookware-sizes-for-cooking-for-one/) beats a big set you never fill.
 
-## 1. [GSI Outdoors Pinnacle Camper](https://www.amazon.com/dp/B09G38DZQS/?tag=kitchenpot-20): Best Overall for Car Camping
+## 1. [GSI Outdoors Pinnacle Camper](https://www.amazon.com/GSI-Outdoors-Pinnacle-Camper/dp/B09G38DZQS/?tag=kitchenpot-20): Best Overall for Car Camping
 
 - **Type:** Four-person nesting cook set
 - **Material:** Hard-anodized aluminum with a nonstick coating
@@ -114,9 +114,9 @@ Independent gear testers who cooked eggs in it found the nonstick released clean
 
 **Who should buy it:** Anyone who camps out of a car with two to four people and wants one box that holds the whole kitchen. If you already like the way [stackable pots and pans](/blog/7-best-stackable-pots-and-pans/) save cabinet room at home, this is the camping version of that idea.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09G38DZQS/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/GSI-Outdoors-Pinnacle-Camper/dp/B09G38DZQS/?tag=kitchenpot-20)
 
-## 2. [Stanley Adventure Base Camp Cook Set for Four](https://www.amazon.com/dp/B07QH7D5KM/?tag=kitchenpot-20): Best Stainless Steel Set
+## 2. [Stanley Adventure Base Camp Cook Set for Four](https://www.amazon.com/Stanley-Adventure-Base-Camp-Cook-Set-for-Four/dp/B07QH7D5KM/?tag=kitchenpot-20): Best Stainless Steel Set
 
 - **Type:** 21-piece four-person nesting set
 - **Material:** 18/8 stainless steel with a three-ply fry pan base
@@ -148,9 +148,9 @@ The honest drawback is sticking. Independent testers preheated the pan, added oi
 
 **Who should buy it:** Campers who would rather buy once and keep it for twenty years. It is also a sensible choice if your camp meals lean on boiling and simmering, which is where a big [stockpot with a lid](/blog/best-stockpot-with-a-lid/) earns its keep at home too.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07QH7D5KM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Stanley-Adventure-Base-Camp-Cook-Set-for-Four/dp/B07QH7D5KM/?tag=kitchenpot-20)
 
-## 3. [Lodge Pre-Seasoned Cast Iron Skillet, 10.25 Inches](https://www.amazon.com/dp/B00006JSUA/?tag=kitchenpot-20): Best for Campfire Cooking
+## 3. [Lodge Pre-Seasoned Cast Iron Skillet, 10.25 Inches](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-10-25-Inches/dp/B00006JSUA/?tag=kitchenpot-20): Best for Campfire Cooking
 
 - **Type:** Single skillet, no set
 - **Material:** Seasoned cast iron
@@ -182,9 +182,9 @@ The price of all that is weight. At 5.35 lb it weighs more than the entire GSI P
 
 **Who should buy it:** Campers who cook over wood or charcoal and want proper browning. Our full [Lodge cast iron skillet review](/blog/lodge-cast-iron-skillet-review/) covers the same pan for kitchen use. If it comes home to a glass cooktop, read [how to protect a glass top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/) first.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00006JSUA/?tag=kitchenpot-20) [Check Price at Lancaster Cast Iron](https://www.awin1.com/cread.php?awinmid=95395&awinaffid=1956629&clickref=best-camping-cookware&ued=https%3A%2F%2Flancastercastiron.com%2Fproducts%2Flancaster-cast-iron-skillet)
+[Check Price on Amazon](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-10-25-Inches/dp/B00006JSUA/?tag=kitchenpot-20) [Check Price at Lancaster Cast Iron](https://www.awin1.com/cread.php?awinmid=95395&awinaffid=1956629&clickref=best-camping-cookware&ued=https%3A%2F%2Flancastercastiron.com%2Fproducts%2Flancaster-cast-iron-skillet)
 
-## 4. [GSI Outdoors Pinnacle Backpacker](https://www.amazon.com/dp/B0C4GWZQR3/?tag=kitchenpot-20): Best Backpacking Set for Two
+## 4. [GSI Outdoors Pinnacle Backpacker](https://www.amazon.com/GSI-Outdoors-Pinnacle-Backpacker/dp/B0C4GWZQR3/?tag=kitchenpot-20): Best Backpacking Set for Two
 
 - **Type:** Two-person nesting cook set
 - **Material:** Hard-anodized aluminum with a nonstick coating
@@ -216,9 +216,9 @@ Everything nests into the 2 L pot, and the mugs clip into the bowls. The stuff s
 
 **Who should buy it:** Pairs who backpack and actually cook rather than just boil. It suits anyone who likes the idea of [one compact kit that does everything](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/), only carried on your back instead of stored in a cupboard.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0C4GWZQR3/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/GSI-Outdoors-Pinnacle-Backpacker/dp/B0C4GWZQR3/?tag=kitchenpot-20)
 
-## 5. [TOAKS Titanium 750ml Pot](https://www.amazon.com/dp/B009B98FGW/?tag=kitchenpot-20): Best Ultralight Solo Pot
+## 5. [TOAKS Titanium 750ml Pot](https://www.amazon.com/TOAKS-Titanium-750ml-Pot/dp/B009B98FGW/?tag=kitchenpot-20): Best Ultralight Solo Pot
 
 - **Type:** Single pot with lid, for one person
 - **Material:** Uncoated titanium
@@ -251,9 +251,9 @@ The trade-off is heat, and it is a real one. Titanium moves heat sideways very p
 
 **Who should buy it:** Solo hikers counting grams who mainly boil water for coffee, noodles and freeze-dried meals. If you want to understand how titanium behaves in cookware generally, our piece on [ceramic-titanium cookware safety](/blog/is-ceramic-titanium-cookware-safe/) covers the material side.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B009B98FGW/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/TOAKS-Titanium-750ml-Pot/dp/B009B98FGW/?tag=kitchenpot-20)
 
-## 6. [Sea to Summit Detour Stainless Steel Collapsible Pot, 3 Liter](https://www.amazon.com/dp/B0CWWFDBHP/?tag=kitchenpot-20): Best for Packing Flat
+## 6. [Sea to Summit Detour Stainless Steel Collapsible Pot, 3 Liter](https://www.amazon.com/Sea-to-Summit-Detour-Stainless-Steel-Collapsible-Pot-3/dp/B0CWWFDBHP/?tag=kitchenpot-20): Best for Packing Flat
 
 - **Type:** Single collapsible 3 L pot
 - **Material:** 304 stainless steel walls, silicone sides, three-ply aluminum base
@@ -285,7 +285,7 @@ Read the fire warning carefully. Sea to Summit says this pot is not suitable for
 
 **Who should buy it:** Van campers, small-car campers and anyone whose gear lives in an apartment closet. The same folding logic helps indoors, which is why our guide to [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) leans hard on shapes that stack and flatten.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CWWFDBHP/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Sea-to-Summit-Detour-Stainless-Steel-Collapsible-Pot-3/dp/B0CWWFDBHP/?tag=kitchenpot-20)
 
 ## Camping Cookware Materials: What Each One Costs You in Weight
 
@@ -357,16 +357,16 @@ Leftovers need a plan too. Sealed containers keep raccoons out and smells down, 
 
 These picks come from manufacturer spec sheets, published weights and packed dimensions, results from independent outdoor gear testers, and patterns in verified owner reviews. We did not test them ourselves.
 
-The filters were simple. Every pick had to publish a real weight and a real packed size. Every set had to nest or collapse. Each one had to be clearly better than the others for one specific kind of trip, so nothing here is a near-duplicate of anything else. You can read the owner feedback yourself on the [Pinnacle Camper reviews page](https://www.amazon.com/product-reviews/B09G38DZQS/?tag=kitchenpot-20), where the heat-conducting pot handle comes up again and again.
+The filters were simple. Every pick had to publish a real weight and a real packed size. Every set had to nest or collapse. Each one had to be clearly better than the others for one specific kind of trip, so nothing here is a near-duplicate of anything else. You can read the owner feedback yourself on the [Pinnacle Camper reviews page](https://www.amazon.com/GSI-Outdoors-Pinnacle-Camper/product-reviews/B09G38DZQS/?tag=kitchenpot-20), where the heat-conducting pot handle comes up again and again.
 
 ## Which Camping Cookware Should You Buy?
 
-- **You camp from a car with a family:** [GSI Outdoors Pinnacle Camper](https://www.amazon.com/dp/B09G38DZQS/?tag=kitchenpot-20). One cube, four settings, nothing to scratch off if you use soft utensils.
-- **You want gear that never wears out:** [Stanley Adventure Base Camp Cook Set for Four](https://www.amazon.com/dp/B07QH7D5KM/?tag=kitchenpot-20). Bring oil for the eggs.
-- **You cook over wood:** [Lodge Cast Iron Skillet](https://www.amazon.com/dp/B00006JSUA/?tag=kitchenpot-20). Heavy, and worth it for the crust.
-- **Two of you hike and actually cook:** [GSI Outdoors Pinnacle Backpacker](https://www.amazon.com/dp/B0C4GWZQR3/?tag=kitchenpot-20).
-- **You hike alone and count grams:** [TOAKS Titanium 750ml Pot](https://www.amazon.com/dp/B009B98FGW/?tag=kitchenpot-20). Boil, do not fry.
-- **Your gear lives in a closet or a van:** [Sea to Summit Detour Collapsible Pot](https://www.amazon.com/dp/B0CWWFDBHP/?tag=kitchenpot-20).
+- **You camp from a car with a family:** [GSI Outdoors Pinnacle Camper](https://www.amazon.com/GSI-Outdoors-Pinnacle-Camper/dp/B09G38DZQS/?tag=kitchenpot-20). One cube, four settings, nothing to scratch off if you use soft utensils.
+- **You want gear that never wears out:** [Stanley Adventure Base Camp Cook Set for Four](https://www.amazon.com/Stanley-Adventure-Base-Camp-Cook-Set-for-Four/dp/B07QH7D5KM/?tag=kitchenpot-20). Bring oil for the eggs.
+- **You cook over wood:** [Lodge Cast Iron Skillet](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-10-25-Inches/dp/B00006JSUA/?tag=kitchenpot-20). Heavy, and worth it for the crust.
+- **Two of you hike and actually cook:** [GSI Outdoors Pinnacle Backpacker](https://www.amazon.com/GSI-Outdoors-Pinnacle-Backpacker/dp/B0C4GWZQR3/?tag=kitchenpot-20).
+- **You hike alone and count grams:** [TOAKS Titanium 750ml Pot](https://www.amazon.com/TOAKS-Titanium-750ml-Pot/dp/B009B98FGW/?tag=kitchenpot-20). Boil, do not fry.
+- **Your gear lives in a closet or a van:** [Sea to Summit Detour Collapsible Pot](https://www.amazon.com/Sea-to-Summit-Detour-Stainless-Steel-Collapsible-Pot-3/dp/B0CWWFDBHP/?tag=kitchenpot-20).
 
 Setting up a first kitchen at the same time? Our guide to the [best cookware set under $200](/blog/best-cookware-set-under-200/) covers the indoor half of the job. It pairs well with [the difference between a skillet and a frying pan](/blog/difference-between-skillet-and-frying-pan/), which clears up the naming for good. A decent [metal spatula set](/blog/best-metal-spatula-set/) works for stainless and cast iron, though never for nonstick. And if you are converting recipes at camp, [how many ounces are in a quart](/blog/how-many-ounces-in-a-quart/) settles the math faster than a phone with no signal. Cooking for one on the trail follows the same rules as cooking for one at home, so the [gadgets worth buying when you cook solo](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/) list is a good companion read.
 

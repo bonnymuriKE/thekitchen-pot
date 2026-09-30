@@ -74,12 +74,12 @@ Thin metal helps here too, which is why carbon steel outperforms thick cast iron
 
 ## Our Picks at a Glance
 
-- **Best overall:** [Yosukata 13.5-Inch Pre-Seasoned Flat-Bottom Carbon Steel Wok](https://www.amazon.com/dp/B084DQYNNM/?tag=kitchenpot-20)
-- **Best budget carbon steel:** [Joyce Chen Professional Series 14-Inch Flat-Bottom Wok](https://www.amazon.com/dp/B0001VQIP4/?tag=kitchenpot-20)
-- **Best for glass tops:** [Cooks Standard 13-Inch Multi-Ply Clad Stainless Wok](https://www.amazon.com/dp/B00421AYKE/?tag=kitchenpot-20)
-- **Best nonstick:** [Anolon Advanced Home 14-Inch Hard-Anodized Wok](https://www.amazon.com/dp/B07Z4QKHD3/?tag=kitchenpot-20)
-- **Best for serious stir-frying:** [Craft Wok 14-Inch Flat Hand-Hammered Pow Wok](https://www.amazon.com/dp/B0922Y11HX/?tag=kitchenpot-20)
-- **Best for coil burners:** [Lodge 14-Inch Cast Iron Wok](https://www.amazon.com/dp/B00063RXQK/?tag=kitchenpot-20)
+- **Best overall:** [Yosukata 13.5-Inch Pre-Seasoned Flat-Bottom Carbon Steel Wok](https://www.amazon.com/Yosukata-13-5-Inch-Pre-Seasoned-Flat-Bottom-Carbon/dp/B084DQYNNM/?tag=kitchenpot-20)
+- **Best budget carbon steel:** [Joyce Chen Professional Series 14-Inch Flat-Bottom Wok](https://www.amazon.com/Joyce-Chen-Professional-Series-14-Inch-Flat-Bottom-Wok/dp/B0001VQIP4/?tag=kitchenpot-20)
+- **Best for glass tops:** [Cooks Standard 13-Inch Multi-Ply Clad Stainless Wok](https://www.amazon.com/Cooks-Standard-13-Inch-Multi-Ply-Clad-Stainless-Wok/dp/B00421AYKE/?tag=kitchenpot-20)
+- **Best nonstick:** [Anolon Advanced Home 14-Inch Hard-Anodized Wok](https://www.amazon.com/Anolon-Advanced-Home-14-Inch-Hard-Anodized-Wok/dp/B07Z4QKHD3/?tag=kitchenpot-20)
+- **Best for serious stir-frying:** [Craft Wok 14-Inch Flat Hand-Hammered Pow Wok](https://www.amazon.com/Craft-Wok-14-Inch-Flat-Hand-Hammered-Pow-Wok/dp/B0922Y11HX/?tag=kitchenpot-20)
+- **Best for coil burners:** [Lodge 14-Inch Cast Iron Wok](https://www.amazon.com/Lodge-14-Inch-Cast-Iron-Wok/dp/B00063RXQK/?tag=kitchenpot-20)
 
 ## Flat-Bottom Woks Compared
 
@@ -126,7 +126,7 @@ At 13.5 inches this is a touch smaller than the standard 14-inch wok. That is a 
 
 **Who should buy it:** Anyone who wants proper wok cooking on an electric stove and does not want to learn seasoning from scratch on day one.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B084DQYNNM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Yosukata-13-5-Inch-Pre-Seasoned-Flat-Bottom-Carbon/dp/B084DQYNNM/?tag=kitchenpot-20)
 
 ## 2. Joyce Chen Professional Series 14-Inch Wok: Best Budget Carbon Steel
 
@@ -158,7 +158,7 @@ Fourteen inches is the classic size. It gives you room to push finished food up 
 
 **Who should buy it:** Cooks who want to learn carbon steel properly and would rather spend the savings on a good [metal spatula](/blog/best-metal-spatula-set/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0001VQIP4/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Joyce-Chen-Professional-Series-14-Inch-Flat-Bottom-Wok/dp/B0001VQIP4/?tag=kitchenpot-20)
 
 ## 3. Cooks Standard 13-Inch Multi-Ply Clad Wok: Best for Glass Tops
 
@@ -190,7 +190,7 @@ The trade-off is weight and stickiness. Stainless grabs protein until you prehea
 
 **Who should buy it:** Glass-top owners, dishwasher loyalists, and anyone who also cooks tomato-based or wine-based sauces that would strip a fresh seasoning.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00421AYKE/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cooks-Standard-13-Inch-Multi-Ply-Clad-Stainless-Wok/dp/B00421AYKE/?tag=kitchenpot-20)
 
 ## 4. Anolon Advanced Home 14-Inch Wok: Best Nonstick
 
@@ -222,7 +222,7 @@ Two side handles instead of one long handle change how you use it. You cannot fl
 
 **Who should buy it:** Weeknight cooks who want easy release and easy cleanup more than restaurant-style char. If that is you, our roundup of the [best nonstick pans](/blog/best-nonstick-pans-with-buying-guide/) covers the rest of the kitchen.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07Z4QKHD3/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Anolon-Advanced-Home-14-Inch-Hard-Anodized-Wok/dp/B07Z4QKHD3/?tag=kitchenpot-20)
 
 ## 5. Craft Wok 14-Inch Flat Hand-Hammered Pow Wok: Best for Serious Stir-Frying
 
@@ -254,7 +254,7 @@ The shape is deep and steep-sided, closer to a traditional pow wok than the shal
 
 **Who should buy it:** Anyone who cooks stir-fry weekly and wants the pan to get better every time. Pair it with our notes on [lo mein versus chow mein](/blog/lo-mein-vs-chow-mein/) if you want to put it to work straight away.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0922Y11HX/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Craft-Wok-14-Inch-Flat-Hand-Hammered-Pow-Wok/dp/B0922Y11HX/?tag=kitchenpot-20)
 
 ## 6. Lodge 14-Inch Cast Iron Wok: Best for Coil Burners
 
@@ -286,7 +286,7 @@ Now the honest caveat, and it is a big one. GE specifically advises against cast
 
 **Who should buy it:** Coil-stove owners who want one pan for stir-frying, braising and frying. Cast iron fans can also compare it with the [vintage Griswold skillets](/blog/griswold-cast-iron-skillet-review/) we cover separately.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00063RXQK/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Lodge-14-Inch-Cast-Iron-Wok/dp/B00063RXQK/?tag=kitchenpot-20)
 
 ## Matching the Material to Your Cooktop
 
@@ -354,14 +354,14 @@ A wok also pairs well with a [bamboo steamer](/blog/how-to-use-a-bamboo-steamer/
 
 ## Which Wok Should You Buy?
 
-- **You want the best result and do not mind hand washing:** [Yosukata 13.5-inch carbon steel](https://www.amazon.com/dp/B084DQYNNM/?tag=kitchenpot-20).
-- **You want carbon steel for as little as possible:** [Joyce Chen Professional Series](https://www.amazon.com/dp/B0001VQIP4/?tag=kitchenpot-20).
-- **You have a glass cooktop and want zero maintenance:** [Cooks Standard clad stainless](https://www.amazon.com/dp/B00421AYKE/?tag=kitchenpot-20).
-- **You cook eggs and noodles and hate scrubbing:** [Anolon Advanced Home](https://www.amazon.com/dp/B07Z4QKHD3/?tag=kitchenpot-20).
-- **You stir-fry every week:** [Craft Wok hand-hammered flat bottom](https://www.amazon.com/dp/B0922Y11HX/?tag=kitchenpot-20).
-- **You have old coil burners:** [Lodge cast iron wok](https://www.amazon.com/dp/B00063RXQK/?tag=kitchenpot-20).
+- **You want the best result and do not mind hand washing:** [Yosukata 13.5-inch carbon steel](https://www.amazon.com/Yosukata-13-5-Inch-Pre-Seasoned-Flat-Bottom-Carbon/dp/B084DQYNNM/?tag=kitchenpot-20).
+- **You want carbon steel for as little as possible:** [Joyce Chen Professional Series](https://www.amazon.com/Joyce-Chen-Professional-Series-14-Inch-Flat-Bottom-Wok/dp/B0001VQIP4/?tag=kitchenpot-20).
+- **You have a glass cooktop and want zero maintenance:** [Cooks Standard clad stainless](https://www.amazon.com/Cooks-Standard-13-Inch-Multi-Ply-Clad-Stainless-Wok/dp/B00421AYKE/?tag=kitchenpot-20).
+- **You cook eggs and noodles and hate scrubbing:** [Anolon Advanced Home](https://www.amazon.com/Anolon-Advanced-Home-14-Inch-Hard-Anodized-Wok/dp/B07Z4QKHD3/?tag=kitchenpot-20).
+- **You stir-fry every week:** [Craft Wok hand-hammered flat bottom](https://www.amazon.com/Craft-Wok-14-Inch-Flat-Hand-Hammered-Pow-Wok/dp/B0922Y11HX/?tag=kitchenpot-20).
+- **You have old coil burners:** [Lodge cast iron wok](https://www.amazon.com/Lodge-14-Inch-Cast-Iron-Wok/dp/B00063RXQK/?tag=kitchenpot-20).
 
-Still unsure between the two most popular options? Read the [owner reviews for the Yosukata](https://www.amazon.com/product-reviews/B084DQYNNM/?tag=kitchenpot-20) and see how many buyers mention electric stoves specifically. The pattern there is what makes it the default pick.
+Still unsure between the two most popular options? Read the [owner reviews for the Yosukata](https://www.amazon.com/Yosukata-13-5-Inch-Pre-Seasoned-Flat-Bottom-Carbon/product-reviews/B084DQYNNM/?tag=kitchenpot-20) and see how many buyers mention electric stoves specifically. The pattern there is what makes it the default pick.
 
 One last thought. Sometimes the stove is the weak link, not the pan. In that case an [electric range with a power burner](/blog/best-slide-in-electric-range/) or a single [induction hob](/blog/nuwave-induction-cooktop-review/) will do more for your stir-fry than any wok can.
 

@@ -72,15 +72,15 @@ The surface matters as much as the weight. 3M's own [product guidance](https://w
 - Wait a full week on freshly painted walls. New paint has not finished curing.
 - The adhesive holds up to 125°F. Do not stick anything to the wall directly beside a burner.
 
-A [3-pack of large Command hooks](https://www.amazon.com/dp/B0753NHZVQ/?tag=kitchenpot-20) costs a few dollars and covers most light jobs. Use two hooks for anything that hangs wide, and read the [full weight chart](https://www.command.com/3M/en_US/command/how-to-use/product-weight-limits/) before you load one up.
+A [3-pack of large Command hooks](https://www.amazon.com/3-pack-of-large-Command-hooks/dp/B0753NHZVQ/?tag=kitchenpot-20) costs a few dollars and covers most light jobs. Use two hooks for anything that hangs wide, and read the [full weight chart](https://www.command.com/3M/en_US/command/how-to-use/product-weight-limits/) before you load one up.
 
 ### Studs, Anchors and When You Have to Drill
 
-Anything holding real weight needs a mechanical fixing. Wall studs in most homes sit 16 inches apart, measured center to center. A [13-sensor stud finder](https://www.amazon.com/dp/B0064EICKG/?tag=kitchenpot-20) shows the full width of the stud rather than one edge, which makes it much easier to land a screw in the middle.
+Anything holding real weight needs a mechanical fixing. Wall studs in most homes sit 16 inches apart, measured center to center. A [13-sensor stud finder](https://www.amazon.com/13-sensor-stud-finder/dp/B0064EICKG/?tag=kitchenpot-20) shows the full width of the stud rather than one edge, which makes it much easier to land a screw in the middle.
 
-When there is no stud where you need one, a toggle anchor does the job. Toggler's SnapToggle is listed as holding up to [265 pounds each in half-inch drywall](https://www.amazon.com/dp/B005C4YE4M/?tag=kitchenpot-20). That is far more than a kitchen rail will ever ask of it.
+When there is no stud where you need one, a toggle anchor does the job. Toggler's SnapToggle is listed as holding up to [265 pounds each in half-inch drywall](https://www.amazon.com/265-pounds-each-in-half-inch-drywall/dp/B005C4YE4M/?tag=kitchenpot-20). That is far more than a kitchen rail will ever ask of it.
 
-One caution on those big numbers. The anchor rating is not the shelf rating. Your real limit is whichever part gives first: the anchor, the screw, the bracket or the shelf itself. A popular [set of floating shelves](https://www.amazon.com/dp/B0BZH955XN/?tag=kitchenpot-20) lists a 22-pound maximum load per shelf, and that cap applies no matter how strong the anchor behind it is. Weigh a stack of your own plates on a bathroom scale before you trust a shelf with them. A set of [stoneware dinner plates](/blog/7-best-dinnerware-sets/) gets heavy faster than it looks.
+One caution on those big numbers. The anchor rating is not the shelf rating. Your real limit is whichever part gives first: the anchor, the screw, the bracket or the shelf itself. A popular [set of floating shelves](https://www.amazon.com/set-of-floating-shelves/dp/B0BZH955XN/?tag=kitchenpot-20) lists a 22-pound maximum load per shelf, and that cap applies no matter how strong the anchor behind it is. Weigh a stack of your own plates on a bathroom scale before you trust a shelf with them. A set of [stoneware dinner plates](/blog/7-best-dinnerware-sets/) gets heavy faster than it looks.
 
 > **Quick rule:** adhesive for anything under 5 pounds, an anchor for anything under 20, and a stud for anything you would not want to catch with your foot.
 
@@ -88,7 +88,7 @@ One caution on those big numbers. The anchor rating is not the shelf rating. You
 
 This strip is usually about 18 inches tall and runs the length of your counter. It is the single most valuable vertical surface in the room, because it sits exactly where your hands already are.
 
-**What belongs here:** a [magnetic knife bar](/blog/best-magnetic-knife-strip/), a rail with S-hooks for tongs and ladles, a narrow spice ledge, and a paper towel holder. A [16-inch stainless magnetic bar](https://www.amazon.com/dp/B016ISHAC8/?tag=kitchenpot-20) empties a knife block off the counter and a whole drawer at the same time. It also keeps edges off other metal, which is half the reason kitchen knives go dull. If yours are already dull, fix that first with a [decent knife sharpener](/blog/best-knife-sharpener/).
+**What belongs here:** a [magnetic knife bar](/blog/best-magnetic-knife-strip/), a rail with S-hooks for tongs and ladles, a narrow spice ledge, and a paper towel holder. A [16-inch stainless magnetic bar](https://www.amazon.com/Modern-Innovations-16-Inch-Stainless-Steel-Magnetic-Knife-Bar/dp/B016ISHAC8/?tag=kitchenpot-20) empties a knife block off the counter and a whole drawer at the same time. It also keeps edges off other metal, which is half the reason kitchen knives go dull. If yours are already dull, fix that first with a [decent knife sharpener](/blog/best-knife-sharpener/).
 
 **What does not belong here:** deep shelving. Anything more than about seven inches deep starts catching your head when you lean over the counter. Keep shelves shallow and keep the run under the cabinets, not past them.
 
@@ -100,7 +100,7 @@ If your cookware is the thing crowding you out, a pot rail on this wall is a rea
 
 Every cabinet door in your kitchen has a flat panel doing nothing. Open one and look at the gap between the closed door and the front edge of the shelf. Measure that gap, because it is your maximum depth for anything you mount there.
 
-**What belongs here:** pot lids, a foil and plastic wrap box, measuring spoons on a small hook strip, a cutting board that fits the gap, and a clip for the shopping list. A [door-mounted lid rack](https://www.amazon.com/dp/B01K07N018/?tag=kitchenpot-20) is the highest-value one. Lids are the worst-shaped thing in any kitchen, and getting them upright on a door frees a whole shelf. Our guide to [organizing pots and pans](/blog/how-to-organize-pots-and-pans/) goes deeper on nesting the pans themselves.
+**What belongs here:** pot lids, a foil and plastic wrap box, measuring spoons on a small hook strip, a cutting board that fits the gap, and a clip for the shopping list. A [door-mounted lid rack](https://www.amazon.com/door-mounted-lid-rack/dp/B01K07N018/?tag=kitchenpot-20) is the highest-value one. Lids are the worst-shaped thing in any kitchen, and getting them upright on a door frees a whole shelf. Our guide to [organizing pots and pans](/blog/how-to-organize-pots-and-pans/) goes deeper on nesting the pans themselves.
 
 **What does not belong here:** anything thicker than that gap, and anything heavy. Cabinet doors hang on small hinges that were sized for the door alone. Load one with jars and the door starts to sag and rub.
 
@@ -112,7 +112,7 @@ Inside the cabinet itself, the same thinking applies to the shelves. Shelf riser
 
 A fridge has a broad flat steel wall that almost nobody uses. It needs no drilling, no anchors and no landlord conversation.
 
-**What belongs here:** a magnetic spice shelf, a magnetic paper towel bar, hot pads, foil and wrap, and a small hook rail for oven mitts. A [two-in-one magnetic shelf and towel holder](https://www.amazon.com/dp/B08CW8BG3V/?tag=kitchenpot-20) puts three counter items on the fridge side in one move. Keep a pair of [heat resistant gloves](/blog/10-best-heat-resistant-gloves-for-cooking/) hanging there too, where you can grab them one-handed.
+**What belongs here:** a magnetic spice shelf, a magnetic paper towel bar, hot pads, foil and wrap, and a small hook rail for oven mitts. A [two-in-one magnetic shelf and towel holder](https://www.amazon.com/two-in-one-magnetic-shelf-and-towel-holder/dp/B08CW8BG3V/?tag=kitchenpot-20) puts three counter items on the fridge side in one move. Keep a pair of [heat resistant gloves](/blog/10-best-heat-resistant-gloves-for-cooking/) hanging there too, where you can grab them one-handed.
 
 **What does not belong here:** knives, glass jars and anything hanging over a walkway. A magnet holds by friction, so a bump or a slammed door can shift it. Heavy loads are a bad idea at head height in a narrow galley.
 
@@ -124,11 +124,11 @@ Manufacturers rarely publish a weight rating for magnetic racks, so treat any nu
 
 This is the largest single flat surface most small kitchens have, and it is almost always empty. A tall over-door rack turns it into a shallow pantry without taking an inch of floor.
 
-**What belongs here:** cans, spice jars, boxed goods, small bottles, cleaning sprays and paper goods. Shallow and light is the rule. A [six-shelf over-door pantry rack](https://www.amazon.com/dp/B00683MM9K/?tag=kitchenpot-20) publishes its limits clearly, at 5 pounds for the small baskets and 10 pounds for the large ones. Those are sensible numbers for canned goods spread across six tiers.
+**What belongs here:** cans, spice jars, boxed goods, small bottles, cleaning sprays and paper goods. Shallow and light is the rule. A [six-shelf over-door pantry rack](https://www.amazon.com/six-shelf-over-door-pantry-rack/dp/B00683MM9K/?tag=kitchenpot-20) publishes its limits clearly, at 5 pounds for the small baskets and 10 pounds for the large ones. Those are sensible numbers for canned goods spread across six tiers.
 
 **What does not belong here:** flour sacks, big liquid bottles, and anything that stops the door from latching. Check two clearances before you buy. Measure the door thickness against the hook span, and check that the loaded rack still clears the door frame and the shelf edges inside.
 
-Over-door hooks sit on the top edge of the door, which can mark the paint and keep the door from closing flush. Felt pads under the hooks fix the marking. If the door will not shut, the rack is too deep and no amount of adjusting saves it. Skim [owner reviews](https://www.amazon.com/product-reviews/B00683MM9K/?tag=kitchenpot-20) for your door type before ordering, since fit complaints are almost always door-specific.
+Over-door hooks sit on the top edge of the door, which can mark the paint and keep the door from closing flush. Felt pads under the hooks fix the marking. If the door will not shut, the rack is too deep and no amount of adjusting saves it. Skim [owner reviews](https://www.amazon.com/six-shelf-over-door-pantry-rack/product-reviews/B00683MM9K/?tag=kitchenpot-20) for your door type before ordering, since fit complaints are almost always door-specific.
 
 No pantry at all? This surface becomes even more important, and it works on a coat closet door near the kitchen too. Our guide to [organizing a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) builds a full food-storage plan around doors, carts and shallow shelving. Pair it with [airtight food storage containers](/blog/best-airtight-food-storage-containers/) so the boxed goods you move onto the door stay fresh.
 
@@ -160,7 +160,7 @@ An end panel next to the fridge is also a good spot for the things you reach for
 
 A kitchen window frame is a rigid, load-bearing opening that most people never touch. A tension rod wedged inside it becomes a free rail, and no fixings are involved.
 
-**What belongs here:** light hanging items only. Small herb pots in hanging cups, a few S-hooks with measuring cups, lightweight utensils, or a short curtain that hides a cluttered sill. Published tension rod ratings tell you the ceiling. A standard [spring tension curtain rod](https://www.amazon.com/dp/B073Q7J2LG/?tag=kitchenpot-20) is rated at 7 pounds, and heavy-duty shower versions list up to about 26 pounds. Those figures assume a snug fit against two solid surfaces.
+**What belongs here:** light hanging items only. Small herb pots in hanging cups, a few S-hooks with measuring cups, lightweight utensils, or a short curtain that hides a cluttered sill. Published tension rod ratings tell you the ceiling. A standard [spring tension curtain rod](https://www.amazon.com/spring-tension-curtain-rod/dp/B073Q7J2LG/?tag=kitchenpot-20) is rated at 7 pounds, and heavy-duty shower versions list up to about 26 pounds. Those figures assume a snug fit against two solid surfaces.
 
 **What does not belong here:** anything heavy, anything that blocks the light, and anything in front of a window that serves as a fire escape route. In many apartments the kitchen window is part of the egress plan, so keep it clear and check your building rules.
 
@@ -184,7 +184,7 @@ Use this to pick projects by what you are allowed to do to the wall, not by what
 | Bins above the cabinets | No | Whatever you can lift down safely | $10 to $20 each |
 | Rolling cart | No | A full shelf of pantry goods per tier | $40 to $90 |
 
-The pegboard row is worth a note. Wall Control does not publish a lab rating for its steel panels. Instead the company [recommends](https://wallcontrol.com/products/32in-x-16in-metal-pegboard-tool-board-panel) no more than 100 pounds per panel on drywall anchors and up to 200 pounds when the panel is screwed into studs. Its [kitchen pegboard kit](https://www.amazon.com/dp/B00CQ9HYJI/?tag=kitchenpot-20) ships with hooks and brackets sized for pans, and the mounting holes line up with standard 16-inch stud spacing. That honesty about installation quality is more useful than a single big number would be.
+The pegboard row is worth a note. Wall Control does not publish a lab rating for its steel panels. Instead the company [recommends](https://wallcontrol.com/products/32in-x-16in-metal-pegboard-tool-board-panel) no more than 100 pounds per panel on drywall anchors and up to 200 pounds when the panel is screwed into studs. Its [kitchen pegboard kit](https://www.amazon.com/kitchen-pegboard-kit/dp/B00CQ9HYJI/?tag=kitchenpot-20) ships with hooks and brackets sized for pans, and the mounting holes line up with standard 16-inch stud spacing. That honesty about installation quality is more useful than a single big number would be.
 
 ## Renter-Safe Mounting Without Losing Your Deposit
 

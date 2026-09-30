@@ -67,9 +67,9 @@ Even better, you can see (as detailed herein) that there are several espresso ma
 
 ## **Top 6 Best Espresso Machines**
 
-### **1. [Mr. Coffee Espresso Machine (Cafe’ Barista)](https://www.amazon.com/Mr-Coffee-Espresso-Cappuccino-Barista/dp/B007K9OIMU?tag=kitchenpot-20)**
+### **1. [Mr. Coffee Espresso Machine (Cafe’ Barista)](https://www.amazon.com/Mr-Coffee-Espresso-Cappuccino-Barista/dp/B007K9OIMU/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Mr-Coffee-Espresso-Cappuccino-Barista/dp/B007K9OIMU?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Mr-Coffee-Espresso-Cappuccino-Barista/dp/B007K9OIMU/?tag=kitchenpot-20)
 
 If you’re looking for a machine that will serve multiple functions, then Mr. Coffee Espresso and Cappuccino is your best bet.
 
@@ -101,9 +101,9 @@ Has an incredibly easy to fill milk and water reservoirs
 * Relatively large especially if you have limited kitchen space
 * Cleaning can be a hassle
 
-### **2. [KRUPS EA8250 Espresso](https://www.amazon.com/KRUPS-EA8250-Espresso-Machine-Grinder/dp/B005FQ24G2?tag=kitchenpot-20)**
+### **2. [KRUPS EA8250 Espresso](https://www.amazon.com/KRUPS-EA8250-Espresso-Machine-Grinder/dp/B005FQ24G2/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/KRUPS-EA8250-Espresso-Machine-Grinder/dp/B005FQ24G2?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/KRUPS-EA8250-Espresso-Machine-Grinder/dp/B005FQ24G2/?tag=kitchenpot-20)
 
 This KRUPS EA8250 is a great and a super-automatic espresso machine packed with convenience. It’s one of the trusted units from KRUPS in the coffee-making field and has taken the lead in function, innovative features and melding style
 
@@ -115,7 +115,7 @@ Besides that, never be worried about replacing and cleaning the inner parts of t
 
 If you want to grind more beans at a time, then this machine has got you covered. It has a large capacity to hold more beans. In addition to that, it comes with an extended hopper to keep your beans fresh until its ground or crushed.
 
-**[Check Price on Amazon](https://www.amazon.com/KRUPS-EA8250-Espresso-Machine-Grinder/dp/B005FQ24G2?tag=kitchenpot-20)**
+**[Check Price on Amazon](https://www.amazon.com/KRUPS-EA8250-Espresso-Machine-Grinder/dp/B005FQ24G2/?tag=kitchenpot-20)**
 
 KRUPS comes with a 1.8-liter water tank capacity located on the back part that will not allow you to pour water on the tank later. With an LCD monitor, you will view everything you are instructing and the grinding progress.
 
@@ -135,9 +135,9 @@ The perfect time arrangement and temperature level deliver a 100% quality coffee
 * The bean hopper is small in size
 * Has a less capacity as compared to other models
 
-### **3. [Breville BES870XL Barista](https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU?tag=kitchenpot-20)**  
+### **3. [Breville BES870XL Barista](https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU/?tag=kitchenpot-20)**  
 
-[Check Price on Amazon](https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU/?tag=kitchenpot-20)
 
 What are you still waiting for? This Breville Barista came along to knock away your tension. This is a machine that’s born with a brewer. In other words, it’s a dual coffee maker that works out everything great as per the expectations.
 
@@ -149,7 +149,7 @@ The 67-ounce tank is removable and has an attached handle to make it easy to car
 
 It features a Dose control grinding with integrated circuit conical burr grinds that delivers the correct quantity of freshly ground coffee. The grounded coffee is then delivered in the portafilter for your desired taste with any bean roast.
 
-**[Check Latest Price on Amazon](https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU?tag=kitchenpot-20)**
+**[Check Latest Price on Amazon](https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU/?tag=kitchenpot-20)**
 
 Breville features a precise espresso extraction as it comes with digital temperature control that delivers water at the required temperature leading to an optimal Espresso extraction. And many people love it as it features a micro-foam milk feel that improves flavor and creates latte art.
 
@@ -172,9 +172,9 @@ The fact that it targets to do greater things– probably too much –makes it o
 * Needs enough storage space
 * Comes with a large footprint
 
-### **4. [DeLonghi EC702 Espresso Maker](https://www.amazon.com/DeLonghi-EC702-15-Bar-Pump-Espresso-Stainless/dp/B001CNG7RY?tag=kitchenpot-20)**
+### **4. [DeLonghi EC702 Espresso Maker](https://www.amazon.com/DeLonghi-EC702-15-Bar-Pump-Espresso-Stainless/dp/B001CNG7RY/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/DeLonghi-EC702-15-Bar-Pump-Espresso-Stainless/dp/B001CNG7RY?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/DeLonghi-EC702-15-Bar-Pump-Espresso-Stainless/dp/B001CNG7RY/?tag=kitchenpot-20)
 
 Looking for the best espresso machine under $200 has been simplified by the invention of this dynamic coffee maker by DeLonghi. It’s one of the few espresso machines under $200 that has a stainless steel frame!
 
@@ -182,7 +182,7 @@ Additionally, the espresso machine has a 15-bar pump that self-primes automatica
 
 If you want to froth your espresso, then you can turn on the machine’s manual frother. This helps you to achieve a creamy froth on your espresso that’s simply irresistible. Additionally, the espresso machine under $200 is pretty easy-to-use. Most of its functions are automated which cuts the prep.
 
-**[Check Latest Price on Amazon](https://www.amazon.com/DeLonghi-EC702-15-Bar-Pump-Espresso-Stainless/dp/B001CNG7RY?tag=kitchenpot-20)**
+**[Check Latest Price on Amazon](https://www.amazon.com/DeLonghi-EC702-15-Bar-Pump-Espresso-Stainless/dp/B001CNG7RY/?tag=kitchenpot-20)**
 
 The DeLonghi EC702 Espresso Maker comes with a superb 44-ounce capacity supplemented by a 1.3 Liter removable water tank. As such, you can be sure that this espresso under $200 is ideal for any family size. 
 
@@ -199,9 +199,9 @@ The DeLonghi EC702 Espresso Maker comes with a superb 44-ounce capacity suppleme
 
 * Relatively heavy and takes up large space
 
-### **5. [Klarstein Passionata 20 Espresso Maker](https://www.amazon.com/Klarstein-Passionata-Espresso-Capuccino-Preparing/dp/B0779DKTQZ?tag=kitchenpot-20)**
+### **5. [Klarstein Passionata 20 Espresso Maker](https://www.amazon.com/Klarstein-Passionata-Espresso-Capuccino-Preparing/dp/B0779DKTQZ/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/Klarstein-Passionata-Espresso-Capuccino-Preparing/dp/B0779DKTQZ?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Klarstein-Passionata-Espresso-Capuccino-Preparing/dp/B0779DKTQZ/?tag=kitchenpot-20)
 
 This espresso machine under $200 boasts of high-quality construction and superb efficacy. It is easy to use and provides guaranteed value for your money. 
 
@@ -211,7 +211,7 @@ It weighs 8 lbs and measures 15.4 by 14.6 by 10.6 inches. This gives it a sturdy
 
 Additionally, it features a steam nozzle and an ESE filter, which enables you to get creamy espressos, lattes, and cappuccino. This is just the best espresso machine under $200 if you don’t mind large-sized machines in your kitchen. The 20-bar pump pressure guarantees flawless coffee brewing in record time.
 
-**[Check Price on Amazon](https://www.amazon.com/Klarstein-Passionata-Espresso-Capuccino-Preparing/dp/B0779DKTQZ?tag=kitchenpot-20)** 
+**[Check Price on Amazon](https://www.amazon.com/Klarstein-Passionata-Espresso-Capuccino-Preparing/dp/B0779DKTQZ/?tag=kitchenpot-20)** 
 
 The espresso machine under $200 is semi-automatic. It has an in-built grinder to ease your brewing or frothing exercise. Even better, it allows you to fine-tune your portafilter, thus regulating the coarseness of your bean grind. This customization option ensures that you get just what you need! 
 
@@ -229,9 +229,9 @@ If you thought that you’ve heard it all about this espresso machine under $200
 
 * Takes a lot of space and it is relatively heavy
 
-### 6. **[Nespresso pixie Espresso Maker](https://www.amazon.com/Nespresso-Pixie-Espresso-Electric-Discontinued/dp/B004SQUGH4?tag=kitchenpot-20)**
+### 6. **[Nespresso pixie Espresso Maker](https://www.amazon.com/Nespresso-Pixie-Espresso-Electric-Discontinued/dp/B004SQUGH4/?tag=kitchenpot-20)**
 
-[Check Latest Price on Amazon](https://www.amazon.com/Nespresso-Pixie-Espresso-Electric-Discontinued/dp/B004SQUGH4?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Nespresso-Pixie-Espresso-Electric-Discontinued/dp/B004SQUGH4/?tag=kitchenpot-20)
 
 This espresso machine under $200 has a backlit LED control panel that helps you to detect the water levels without a strain. It has a unique thermoblock heating element that accelerates the preheating – you require a maximum of 30 seconds to achieve the ideal temperature!
 

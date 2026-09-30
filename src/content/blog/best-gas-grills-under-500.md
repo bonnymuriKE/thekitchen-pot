@@ -63,13 +63,13 @@ Prices in this category move constantly. Treat $500 as a band rather than a line
 
 ## Quick Picks
 
-- **Best overall:** [Weber Spirit E-210](https://www.amazon.com/dp/B0DPH7QGTP/?tag=kitchenpot-20)
-- **Best for feeding a crowd:** [Monument Grills Mesa 415BZ](https://www.amazon.com/dp/B0CWKX5SG3/?tag=kitchenpot-20)
-- **Best cheap three-burner:** [Char-Griller Grillin' Pro E3001](https://www.amazon.com/dp/B001H9RPNI/?tag=kitchenpot-20)
-- **Best build in a small footprint:** [Broil King Gem 310](https://www.amazon.com/dp/B078FBVGX6/?tag=kitchenpot-20)
-- **Best for a balcony or tiny patio:** [Weber Q 2800N+](https://www.amazon.com/dp/B0CS6ZD3RP/?tag=kitchenpot-20)
-- **Best portable tabletop:** [Cuisinart CGG-306](https://www.amazon.com/dp/B00F3BHB80/?tag=kitchenpot-20)
-- **Best flat-top alternative:** [Blackstone 28-Inch Omnivore Griddle](https://www.amazon.com/dp/B0DHW9T4KH/?tag=kitchenpot-20)
+- **Best overall:** [Weber Spirit E-210](https://www.amazon.com/Weber-Spirit-E-210/dp/B0DPH7QGTP/?tag=kitchenpot-20)
+- **Best for feeding a crowd:** [Monument Grills Mesa 415BZ](https://www.amazon.com/Monument-Grills-Mesa-415BZ/dp/B0CWKX5SG3/?tag=kitchenpot-20)
+- **Best cheap three-burner:** [Char-Griller Grillin' Pro E3001](https://www.amazon.com/Char-Griller-Grillin-Pro-E3001/dp/B001H9RPNI/?tag=kitchenpot-20)
+- **Best build in a small footprint:** [Broil King Gem 310](https://www.amazon.com/Broil-King-Gem-310/dp/B078FBVGX6/?tag=kitchenpot-20)
+- **Best for a balcony or tiny patio:** [Weber Q 2800N+](https://www.amazon.com/Weber-Q-2800N/dp/B0CS6ZD3RP/?tag=kitchenpot-20)
+- **Best portable tabletop:** [Cuisinart CGG-306](https://www.amazon.com/Cuisinart-CGG-306/dp/B00F3BHB80/?tag=kitchenpot-20)
+- **Best flat-top alternative:** [Blackstone 28-Inch Omnivore Griddle](https://www.amazon.com/Blackstone-28-Inch-Omnivore-Griddle/dp/B0DHW9T4KH/?tag=kitchenpot-20)
 
 ## Comparison Table
 
@@ -89,7 +89,7 @@ Prices in this category move constantly. Treat $500 as a band rather than a line
 
 We did not cook on these grills, and no site that tells you it burned through a season on all seven is being square with you. What we did instead was compare manufacturer spec sheets, warranty terms, grate and cookbox materials, and the complaint patterns that show up again and again in verified owner reviews. Independent testers who did cook on them fed into the shortlist, and we say so where their findings shaped a pick.
 
-## 1. [Weber Spirit E-210](https://www.amazon.com/dp/B0DPH7QGTP/?tag=kitchenpot-20): Best Overall
+## 1. [Weber Spirit E-210](https://www.amazon.com/Weber-Spirit-E-210/dp/B0DPH7QGTP/?tag=kitchenpot-20): Best Overall
 
 - **Type:** Two-burner freestanding propane grill
 - **Primary grate area:** 360 square inches, plus a 90 square inch warming rack
@@ -119,9 +119,9 @@ Above the burners sit Weber's Flavorizer bars. Fat drips onto them, turns to smo
 
 **Who should buy it:** Anyone who grills most weeks and wants the grill still working in eight years. It suits a normal-sized patio rather than a balcony, and it pairs well with a [smoker box](/blog/best-smoker-box-for-gas-grills/) if you want wood smoke from a gas grill.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0DPH7QGTP/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Weber-Spirit-E-210/dp/B0DPH7QGTP/?tag=kitchenpot-20)
 
-## 2. [Monument Grills Mesa 415BZ](https://www.amazon.com/dp/B0CWKX5SG3/?tag=kitchenpot-20): Best for Feeding a Crowd
+## 2. [Monument Grills Mesa 415BZ](https://www.amazon.com/Monument-Grills-Mesa-415BZ/dp/B0CWKX5SG3/?tag=kitchenpot-20): Best for Feeding a Crowd
 
 - **Type:** Four-burner propane cart grill with a sear zone and a side burner
 - **Primary grate area:** 450 square inches, plus a 180 square inch warming rack
@@ -150,11 +150,11 @@ Monument also fits a glass panel in the lid. It is a small thing that stops you 
 - 55 inches wide and 91.5 pounds rules it out for a balcony.
 - Build quality does not match a premium brand, even though the specs beat one.
 
-**Who should buy it:** Hosts. If you cook for eight or more on a regular basis, nothing else on this list keeps up. Read the [owner reviews](https://www.amazon.com/product-reviews/B0CWKX5SG3/?tag=kitchenpot-20) before you buy, because assembly comes up often.
+**Who should buy it:** Hosts. If you cook for eight or more on a regular basis, nothing else on this list keeps up. Read the [owner reviews](https://www.amazon.com/Monument-Grills-Mesa-415BZ/product-reviews/B0CWKX5SG3/?tag=kitchenpot-20) before you buy, because assembly comes up often.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CWKX5SG3/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Monument-Grills-Mesa-415BZ/dp/B0CWKX5SG3/?tag=kitchenpot-20)
 
-## 3. [Char-Griller Grillin' Pro E3001](https://www.amazon.com/dp/B001H9RPNI/?tag=kitchenpot-20): Best Cheap Three-Burner
+## 3. [Char-Griller Grillin' Pro E3001](https://www.amazon.com/Char-Griller-Grillin-Pro-E3001/dp/B001H9RPNI/?tag=kitchenpot-20): Best Cheap Three-Burner
 
 - **Type:** Three-burner propane cart grill with a side burner
 - **Cooking area:** 630 square inches in total, including the warming racks
@@ -184,9 +184,9 @@ That is a habit, not a flaw, but it is a habit some owners never pick up. If you
 
 **Who should buy it:** Anyone who wants the most grill for the least money and does not mind maintenance. Keep a [metal spatula](/blog/best-metal-spatula-set/) and a bottle of oil nearby and it will last.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B001H9RPNI/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Char-Griller-Grillin-Pro-E3001/dp/B001H9RPNI/?tag=kitchenpot-20)
 
-## 4. [Broil King Gem 310](https://www.amazon.com/dp/B078FBVGX6/?tag=kitchenpot-20): Best Build in a Small Footprint
+## 4. [Broil King Gem 310](https://www.amazon.com/Broil-King-Gem-310/dp/B078FBVGX6/?tag=kitchenpot-20): Best Build in a Small Footprint
 
 - **Type:** Three-burner propane grill on a compact cart
 - **Primary grate area:** 294 square inches, plus a 132 square inch warming rack
@@ -217,9 +217,9 @@ Broil King backs the cookbox for life and the rest for 15 years. That is unusual
 
 **Who should buy it:** Someone with a narrow deck who still wants three heat zones and a grill that will not rot. It is the natural step up from the [small grills for balconies and patios](/blog/best-small-grills-for-balconies-and-patios/) we cover elsewhere.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B078FBVGX6/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Broil-King-Gem-310/dp/B078FBVGX6/?tag=kitchenpot-20)
 
-## 5. [Weber Q 2800N+](https://www.amazon.com/dp/B0CS6ZD3RP/?tag=kitchenpot-20): Best for a Balcony or Tiny Patio
+## 5. [Weber Q 2800N+](https://www.amazon.com/Weber-Q-2800N/dp/B0CS6ZD3RP/?tag=kitchenpot-20): Best for a Balcony or Tiny Patio
 
 - **Type:** Single-burner propane grill with a separate sear burner
 - **Cooking area:** 320 square inches
@@ -249,9 +249,9 @@ The plus burner is a second, smaller burner you light for searing. On 320 square
 
 **Who should buy it:** Apartment and condo grillers with a few square feet outside. It is the grill we would pair with a small folding table and the [grilling accessories you actually need](/blog/small-space-grilling-accessories-you-actually-need/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CS6ZD3RP/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Weber-Q-2800N/dp/B0CS6ZD3RP/?tag=kitchenpot-20)
 
-## 6. [Cuisinart CGG-306](https://www.amazon.com/dp/B00F3BHB80/?tag=kitchenpot-20): Best Portable Tabletop
+## 6. [Cuisinart CGG-306](https://www.amazon.com/Cuisinart-CGG-306/dp/B00F3BHB80/?tag=kitchenpot-20): Best Portable Tabletop
 
 - **Type:** Two-burner tabletop propane grill
 - **Cooking area:** 275 square inches
@@ -281,9 +281,9 @@ The grates are stainless rod, not cast iron. They heat fast and clean easily, bu
 
 **Who should buy it:** Campers, tailgaters and anyone with a balcony too small for a cart. It also works as a second grill for a [gas and charcoal setup](/blog/best-gas-and-charcoal-grill-combo/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00F3BHB80/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-CGG-306/dp/B00F3BHB80/?tag=kitchenpot-20)
 
-## 7. [Blackstone 28-Inch Omnivore Griddle](https://www.amazon.com/dp/B0DHW9T4KH/?tag=kitchenpot-20): Best Flat-Top Alternative
+## 7. [Blackstone 28-Inch Omnivore Griddle](https://www.amazon.com/Blackstone-28-Inch-Omnivore-Griddle/dp/B0DHW9T4KH/?tag=kitchenpot-20): Best Flat-Top Alternative
 
 - **Type:** Two-burner propane flat-top griddle
 - **Cooking surface:** About 525 square inches of 10-gauge rolled steel
@@ -313,7 +313,7 @@ Two burners give you two zones across roughly 525 square inches. That is more su
 
 **Who should buy it:** Anyone whose favorite cookouts involve smash burgers, breakfast and stir-fries rather than steak. If you already own a grill, a griddle is the better second machine, and cleaning it works much like [cleaning an electric griddle](/blog/how-to-clean-electric-griddle/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0DHW9T4KH/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Blackstone-28-Inch-Omnivore-Griddle/dp/B0DHW9T4KH/?tag=kitchenpot-20)
 
 ## Reading the Spec Sheet Without Getting Fooled
 
@@ -419,13 +419,13 @@ Two zones also open up slow cooking. If that is where you are heading, a dedicat
 
 ## Which Gas Grill Under $500 Should You Buy?
 
-- **You want one grill that lasts a decade:** [Weber Spirit E-210](https://www.amazon.com/dp/B0DPH7QGTP/?tag=kitchenpot-20).
-- **You host big cookouts:** [Monument Grills Mesa 415BZ](https://www.amazon.com/dp/B0CWKX5SG3/?tag=kitchenpot-20).
-- **You want the most grill for the least money:** [Char-Griller Grillin' Pro E3001](https://www.amazon.com/dp/B001H9RPNI/?tag=kitchenpot-20).
-- **Your deck is narrow but you want three zones:** [Broil King Gem 310](https://www.amazon.com/dp/B078FBVGX6/?tag=kitchenpot-20).
-- **You grill on a balcony:** [Weber Q 2800N+](https://www.amazon.com/dp/B0CS6ZD3RP/?tag=kitchenpot-20).
-- **You need it to travel:** [Cuisinart CGG-306](https://www.amazon.com/dp/B00F3BHB80/?tag=kitchenpot-20).
-- **You mostly cook smash burgers and breakfast:** [Blackstone 28-inch griddle](https://www.amazon.com/dp/B0DHW9T4KH/?tag=kitchenpot-20).
+- **You want one grill that lasts a decade:** [Weber Spirit E-210](https://www.amazon.com/Weber-Spirit-E-210/dp/B0DPH7QGTP/?tag=kitchenpot-20).
+- **You host big cookouts:** [Monument Grills Mesa 415BZ](https://www.amazon.com/Monument-Grills-Mesa-415BZ/dp/B0CWKX5SG3/?tag=kitchenpot-20).
+- **You want the most grill for the least money:** [Char-Griller Grillin' Pro E3001](https://www.amazon.com/Char-Griller-Grillin-Pro-E3001/dp/B001H9RPNI/?tag=kitchenpot-20).
+- **Your deck is narrow but you want three zones:** [Broil King Gem 310](https://www.amazon.com/Broil-King-Gem-310/dp/B078FBVGX6/?tag=kitchenpot-20).
+- **You grill on a balcony:** [Weber Q 2800N+](https://www.amazon.com/Weber-Q-2800N/dp/B0CS6ZD3RP/?tag=kitchenpot-20).
+- **You need it to travel:** [Cuisinart CGG-306](https://www.amazon.com/Cuisinart-CGG-306/dp/B00F3BHB80/?tag=kitchenpot-20).
+- **You mostly cook smash burgers and breakfast:** [Blackstone 28-inch griddle](https://www.amazon.com/Blackstone-28-Inch-Omnivore-Griddle/dp/B0DHW9T4KH/?tag=kitchenpot-20).
 
 One last rule of thumb. If two grills cost the same and one has twice the burners, the extra burners were paid for with thinner metal somewhere else. Pick the heavier grill with the longer cookbox warranty and you will still be using it when the other one has rusted out. If gas is not the only fuel you want, our guide to [infrared grills](/blog/best-infrared-grills-for-the-money/) covers a different route to high heat.
 

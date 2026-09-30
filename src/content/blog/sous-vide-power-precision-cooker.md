@@ -44,12 +44,12 @@ The catch is that the machines look nearly identical on a shelf. Below are six p
 
 ## Our Picks at a Glance
 
-- **Best overall:** [Anova Precision Cooker 3.0](https://www.amazon.com/dp/B0BQ9F56WV/?tag=kitchenpot-20)
-- **Best for tight kitchens:** [Breville Joule Turbo](https://www.amazon.com/dp/B0C384T4P2/?tag=kitchenpot-20)
-- **Best value Wi-Fi cooker:** [Inkbird ISV-200W](https://www.amazon.com/dp/B08GKQFT6B/?tag=kitchenpot-20)
-- **Best without an app:** [Instant Accu Slim Sous Vide](https://www.amazon.com/dp/B096BDTVHH/?tag=kitchenpot-20)
-- **Best budget pick:** [Monoprice Strata Home 1100W](https://www.amazon.com/dp/B07LGFSBT4/?tag=kitchenpot-20)
-- **Best for small pots and travel:** [Anova Precision Cooker Nano 3.0](https://www.amazon.com/dp/B0BQ93XGWC/?tag=kitchenpot-20)
+- **Best overall:** [Anova Precision Cooker 3.0](https://www.amazon.com/Anova-Precision-Cooker-3-0/dp/B0BQ9F56WV/?tag=kitchenpot-20)
+- **Best for tight kitchens:** [Breville Joule Turbo](https://www.amazon.com/Breville-Joule-Turbo/dp/B0C384T4P2/?tag=kitchenpot-20)
+- **Best value Wi-Fi cooker:** [Inkbird ISV-200W](https://www.amazon.com/Inkbird-ISV-200W/dp/B08GKQFT6B/?tag=kitchenpot-20)
+- **Best without an app:** [Instant Accu Slim Sous Vide](https://www.amazon.com/Instant-Accu-Slim-Sous-Vide/dp/B096BDTVHH/?tag=kitchenpot-20)
+- **Best budget pick:** [Monoprice Strata Home 1100W](https://www.amazon.com/Our-Picks-at-a-Glance/dp/B07LGFSBT4/?tag=kitchenpot-20)
+- **Best for small pots and travel:** [Anova Precision Cooker Nano 3.0](https://www.amazon.com/Anova-Precision-Cooker-Nano-3-0/dp/B0BQ93XGWC/?tag=kitchenpot-20)
 
 ## How Sous Vide Actually Works
 
@@ -110,7 +110,7 @@ Two changes over older Anovas matter in daily use. The clamp detaches, so the un
 
 The water-level sensor shuts the heater off if the bath falls below 65 mm. That is the safety net for an overnight brisket, though a lid is what keeps you from ever testing it.
 
-Dual-band Wi-Fi is the quiet upgrade. Older circulators only spoke 2.4 GHz, which caused a lot of setup grief on modern routers. The recurring theme in [owner reviews on Amazon](https://www.amazon.com/product-reviews/B0BQ9F56WV/?tag=kitchenpot-20) and on Anova's own support forum is still the initial network pairing rather than the cooking. So if you hit a snag, it is a known one with published fixes.
+Dual-band Wi-Fi is the quiet upgrade. Older circulators only spoke 2.4 GHz, which caused a lot of setup grief on modern routers. The recurring theme in [owner reviews on Amazon](https://www.amazon.com/Anova-Precision-Cooker-3-0/product-reviews/B0BQ9F56WV/?tag=kitchenpot-20) and on Anova's own support forum is still the initial network pairing rather than the cooking. So if you hit a snag, it is a known one with published fixes.
 
 **What we like:**
 
@@ -128,7 +128,7 @@ Dual-band Wi-Fi is the quiet upgrade. Older circulators only spoke 2.4 GHz, whic
 
 **Who should buy it:** Anyone who wants one circulator to handle everything from a single chicken breast to a full pork shoulder, and who will actually use remote monitoring on long cooks.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BQ9F56WV/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Anova-Precision-Cooker-3-0/dp/B0BQ9F56WV/?tag=kitchenpot-20)
 
 ## 2. Breville Joule Turbo: Best for Tight Kitchens
 
@@ -162,7 +162,7 @@ The honest trade-off: there is no screen and no dial. Everything happens in the 
 
 **Who should buy it:** Cooks with no cabinet space who are comfortable running an appliance entirely from a phone. Pair it with a stack of [airtight food storage containers](/blog/best-airtight-food-storage-containers/) and you have a compact meal-prep setup.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0C384T4P2/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Breville-Joule-Turbo/dp/B0C384T4P2/?tag=kitchenpot-20)
 
 ## 3. Inkbird ISV-200W: Best Value Wi-Fi Cooker
 
@@ -195,7 +195,7 @@ Calibration is a feature worth knowing about. If you check the bath against a se
 
 **Who should buy it:** Anyone who wants app control and a published spec sheet without paying the premium-brand price. It is a sensible companion to a [vacuum sealer for sous vide](/blog/best-vacuum-sealer-for-sous-vide/) if you are building the setup from scratch.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08GKQFT6B/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Inkbird-ISV-200W/dp/B08GKQFT6B/?tag=kitchenpot-20)
 
 ## 4. Instant Accu Slim Sous Vide: Best Without an App
 
@@ -229,7 +229,7 @@ The one-hand quick clamp deserves a mention. Most circulators use a screw clamp 
 
 **Who should buy it:** Cooks who want the result without the connected-appliance layer, and anyone stocking a kitchen with [small appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) where simplicity beats features.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B096BDTVHH/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Instant-Accu-Slim-Sous-Vide/dp/B096BDTVHH/?tag=kitchenpot-20)
 
 ## 5. Monoprice Strata Home 1100W: Best Budget Pick
 
@@ -245,7 +245,7 @@ The trade-off is accuracy. Monoprice rates stability at ±1.8°F. Anova and Inkb
 
 The upper end of the range is more useful than it looks. At 203°F it goes hot enough for tough root vegetables and for holding stock, which the 194°F and 197°F units cannot quite reach.
 
-Monoprice publishes less about support than the bigger brands do, so [the owner reviews](https://www.amazon.com/product-reviews/B07LGFSBT4/?tag=kitchenpot-20) are your best read on long-term reliability before you commit. For a first circulator that costs less than a good [knife set under $100](/blog/best-knife-set-under-100/), it is a low-risk way to find out whether you like the method.
+Monoprice publishes less about support than the bigger brands do, so [the owner reviews](https://www.amazon.com/Monoprice-Strata-Home-1100W/product-reviews/B07LGFSBT4/?tag=kitchenpot-20) are your best read on long-term reliability before you commit. For a first circulator that costs less than a good [knife set under $100](/blog/best-knife-set-under-100/), it is a low-risk way to find out whether you like the method.
 
 **What we like:**
 
@@ -263,7 +263,7 @@ Monoprice publishes less about support than the bigger brands do, so [the owner 
 
 **Who should buy it:** First-time sous vide cooks who don't want to spend $200 to find out if they'll use it, and anyone cooking forgiving cuts where two degrees does not matter.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07LGFSBT4/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Monoprice-Strata-Home-1100W/dp/B07LGFSBT4/?tag=kitchenpot-20)
 
 ## 6. Anova Precision Cooker Nano 3.0: Best for Small Pots and Travel
 
@@ -297,7 +297,7 @@ The 850 watts is the honest limit. Filling a 5-gallon cooler for a party batch w
 
 **Who should buy it:** Solo cooks and couples working with 4-quart to 8-quart pots. It pairs well with the rest of a [cooking-for-one gadget kit](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/) and sensible [cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BQ93XGWC/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Anova-Precision-Cooker-Nano-3-0/dp/B0BQ93XGWC/?tag=kitchenpot-20)
 
 ## Sous Vide Food Safety: Time, Temperature and the Danger Zone
 

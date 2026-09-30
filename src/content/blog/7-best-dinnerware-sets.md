@@ -42,7 +42,7 @@ The difference is almost always the material. Porcelain, stoneware, bone china, 
 
 So this guide to the best dinnerware sets starts with material, not with pretty photos. Below are seven real sets, what each one is made of, and how much cabinet space it will take.
 
-**Short answer:** For most kitchens, [Corelle's Vitrelle 18-piece set](https://www.amazon.com/dp/B00R790CLY/?tag=kitchenpot-20) is the safest buy. It resists chips, stacks in half the space of ceramic, and you can buy single replacement plates. If you want the look of real pottery instead, the [Stone Lain Serenity stoneware set](https://www.amazon.com/dp/B07WV5KCSF/?tag=kitchenpot-20) is the one to get.
+**Short answer:** For most kitchens, [Corelle's Vitrelle 18-piece set](https://www.amazon.com/Corelle-Vitrelle-18-Piece-Winter-Frost-White/dp/B00R790CLY/?tag=kitchenpot-20) is the safest buy. It resists chips, stacks in half the space of ceramic, and you can buy single replacement plates. If you want the look of real pottery instead, the [Stone Lain Serenity stoneware set](https://www.amazon.com/Stone-Lain-Serenity-16-Piece-Stoneware-Set/dp/B07WV5KCSF/?tag=kitchenpot-20) is the one to get.
 
 ## What the Material Actually Changes
 
@@ -68,13 +68,13 @@ Keep that table in mind as you read the picks. It explains most of the trade-off
 
 ## Quick Picks
 
-- **Best overall:** [Corelle Vitrelle 18-Piece Winter Frost White](https://www.amazon.com/dp/B00R790CLY/?tag=kitchenpot-20)
-- **Best budget porcelain:** [Amazon Basics 18-Piece Porcelain Set](https://www.amazon.com/dp/B019EEUQ2O/?tag=kitchenpot-20)
-- **Best modern stoneware:** [Stone Lain Serenity 16-Piece Stoneware Set](https://www.amazon.com/dp/B07WV5KCSF/?tag=kitchenpot-20)
-- **Best bone china:** [Mikasa Macie 12-Piece Bone China Set](https://www.amazon.com/dp/B09P8SZJX3/?tag=kitchenpot-20)
-- **Best for a dressier everyday table:** [Lenox French Perle Bead 4-Piece Place Setting](https://www.amazon.com/dp/B00BWN3FE2/?tag=kitchenpot-20)
-- **Best for building a set piece by piece:** [Fiesta 4-Piece Place Setting](https://www.amazon.com/dp/B00004Y9M0/?tag=kitchenpot-20)
-- **Best unbreakable set:** [Zak Designs 12-Piece Melamine Set](https://www.amazon.com/dp/B07VBN2YL5/?tag=kitchenpot-20)
+- **Best overall:** [Corelle Vitrelle 18-Piece Winter Frost White](https://www.amazon.com/Corelle-Vitrelle-18-Piece-Winter-Frost-White/dp/B00R790CLY/?tag=kitchenpot-20)
+- **Best budget porcelain:** [Amazon Basics 18-Piece Porcelain Set](https://www.amazon.com/Amazon-Basics-18-Piece-Porcelain-Dinnerware-Set/dp/B019EEUQ2O/?tag=kitchenpot-20)
+- **Best modern stoneware:** [Stone Lain Serenity 16-Piece Stoneware Set](https://www.amazon.com/Stone-Lain-Serenity-16-Piece-Stoneware-Set/dp/B07WV5KCSF/?tag=kitchenpot-20)
+- **Best bone china:** [Mikasa Macie 12-Piece Bone China Set](https://www.amazon.com/Mikasa-Macie-12-Piece-Bone-China-Set/dp/B09P8SZJX3/?tag=kitchenpot-20)
+- **Best for a dressier everyday table:** [Lenox French Perle Bead 4-Piece Place Setting](https://www.amazon.com/Lenox-French-Perle-Bead-4-Piece-Place-Setting/dp/B00BWN3FE2/?tag=kitchenpot-20)
+- **Best for building a set piece by piece:** [Fiesta 4-Piece Place Setting](https://www.amazon.com/Fiesta-4-Piece-Place-Setting/dp/B00004Y9M0/?tag=kitchenpot-20)
+- **Best unbreakable set:** [Zak Designs 12-Piece Melamine Set](https://www.amazon.com/Zak-Designs-12-Piece-Melamine-Set/dp/B07VBN2YL5/?tag=kitchenpot-20)
 
 ## The Seven Sets Side by Side
 
@@ -92,7 +92,7 @@ Keep that table in mind as you read the picks. It explains most of the trade-off
 
 No dinnerware was bought or broken for this article. The picks come from manufacturer spec and care pages, published material and firing data, the patterns that show up across verified owner reviews, and whether the maker still sells single replacement pieces. Sets with more real flaws than strengths were left off.
 
-## 1. [Corelle Vitrelle 18-Piece Winter Frost White](https://www.amazon.com/dp/B00R790CLY/?tag=kitchenpot-20): Best Overall
+## 1. [Corelle Vitrelle 18-Piece Winter Frost White](https://www.amazon.com/Corelle-Vitrelle-18-Piece-Winter-Frost-White/dp/B00R790CLY/?tag=kitchenpot-20): Best Overall
 
 - **Material:** Vitrelle triple-layer glass
 - **In the box:** Six 10.25-inch dinner plates, six 6.75-inch appetizer plates, six 6.25-inch cereal bowls (18 oz)
@@ -124,9 +124,9 @@ The set is also light enough that a child can carry a plate to the table without
 
 **Who should buy it:** Anyone with tight cabinets, small children, or a habit of running the dishwasher daily. It is also the easiest set to live with if you eat a lot of reheated leftovers, since it moves from fridge to microwave without a second thought.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00R790CLY/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Corelle-Vitrelle-18-Piece-Winter-Frost-White/dp/B00R790CLY/?tag=kitchenpot-20)
 
-## 2. [Amazon Basics 18-Piece Porcelain Set](https://www.amazon.com/dp/B019EEUQ2O/?tag=kitchenpot-20): Best Budget Porcelain
+## 2. [Amazon Basics 18-Piece Porcelain Set](https://www.amazon.com/Amazon-Basics-18-Piece-Porcelain-Dinnerware-Set/dp/B019EEUQ2O/?tag=kitchenpot-20): Best Budget Porcelain
 
 - **Material:** White porcelain
 - **In the box:** Service for six, with dinner plates, salad plates and bowls
@@ -137,7 +137,7 @@ Porcelain is the default for a reason. It is fired hot, so it comes out dense an
 
 Plain white also ages well. It matches every tablecloth, it does not date, and a chipped plate is simple to swap for another plain white one. That makes it a sensible base layer if you like to add color with serving bowls or napkins instead of the plates.
 
-Do not expect heirloom weight. These are thin, light plates, and they behave like it. Owner reviews on the [Amazon reviews page](https://www.amazon.com/product-reviews/B019EEUQ2O/?tag=kitchenpot-20) return often to chipping at the rim after heavy dishwasher use, which is the usual outcome with budget porcelain. Load them with a little space between plates and they last much longer.
+Do not expect heirloom weight. These are thin, light plates, and they behave like it. Owner reviews on the [Amazon reviews page](https://www.amazon.com/Amazon-Basics-18-Piece-Porcelain-Set/product-reviews/B019EEUQ2O/?tag=kitchenpot-20) return often to chipping at the rim after heavy dishwasher use, which is the usual outcome with budget porcelain. Load them with a little space between plates and they last much longer.
 
 **What we like:**
 
@@ -155,9 +155,9 @@ Do not expect heirloom weight. These are thin, light plates, and they behave lik
 
 **Who should buy it:** Renters, students and anyone setting up a kitchen fast. It also works as a backup stack for holidays, which pairs well with the thinking in our guide to [stocking a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B019EEUQ2O/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Amazon-Basics-18-Piece-Porcelain-Dinnerware-Set/dp/B019EEUQ2O/?tag=kitchenpot-20)
 
-## 3. [Stone Lain Serenity 16-Piece Stoneware Set](https://www.amazon.com/dp/B07WV5KCSF/?tag=kitchenpot-20): Best Modern Stoneware
+## 3. [Stone Lain Serenity 16-Piece Stoneware Set](https://www.amazon.com/Stone-Lain-Serenity-16-Piece-Stoneware-Set/dp/B07WV5KCSF/?tag=kitchenpot-20): Best Modern Stoneware
 
 - **Material:** Glazed stoneware, two-tone
 - **In the box:** Four 10.71-inch dinner plates, four 8.5-inch salad plates, four 5.5-inch bowls, four 12 oz mugs
@@ -186,9 +186,9 @@ The trade-off is bulk. Stoneware is only semi-vitreous, so it has to be thick, a
 
 **Who should buy it:** Anyone furnishing a dining table they actually eat at, with room in the cupboard to match. If storage is your limit instead, skip to the Corelle or read our fixes for [organizing a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07WV5KCSF/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Stone-Lain-Serenity-16-Piece-Stoneware-Set/dp/B07WV5KCSF/?tag=kitchenpot-20)
 
-## 4. [Mikasa Macie 12-Piece Bone China Set](https://www.amazon.com/dp/B09P8SZJX3/?tag=kitchenpot-20): Best Bone China
+## 4. [Mikasa Macie 12-Piece Bone China Set](https://www.amazon.com/Mikasa-Macie-12-Piece-Bone-China-Set/dp/B09P8SZJX3/?tag=kitchenpot-20): Best Bone China
 
 - **Material:** Bone china
 - **In the box:** Four 11-inch dinner plates, four 9-inch pasta bowls (23 oz), four 6-inch all-purpose bowls (27 oz)
@@ -217,9 +217,9 @@ The piece mix is unusual, so read it twice. You get dinner plates and two sizes 
 
 **Who should buy it:** Cooks who want one nice set that still handles Tuesday night, especially if pasta and grain bowls are your normal dinner. Round it out with a few plain salad plates and you have a table that works for guests too.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09P8SZJX3/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Mikasa-Macie-12-Piece-Bone-China-Set/dp/B09P8SZJX3/?tag=kitchenpot-20)
 
-## 5. [Lenox French Perle Bead 4-Piece Place Setting](https://www.amazon.com/dp/B00BWN3FE2/?tag=kitchenpot-20): Best for a Dressier Everyday Table
+## 5. [Lenox French Perle Bead 4-Piece Place Setting](https://www.amazon.com/Lenox-French-Perle-Bead-4-Piece-Place-Setting/dp/B00BWN3FE2/?tag=kitchenpot-20): Best for a Dressier Everyday Table
 
 - **Material:** Ceramic stoneware
 - **In the setting:** One 10.75-inch dinner plate, one 8.5-inch salad plate, one 20 oz all-purpose bowl, one 12 oz mug
@@ -248,9 +248,9 @@ It is still stoneware, so the rules of stoneware apply. It is thick, it is heavy
 
 **Who should buy it:** Anyone who wants one set to cover both Tuesday dinner and Thanksgiving. It suits open shelving well, since the pieces look good sitting out rather than hidden in a cabinet.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00BWN3FE2/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Lenox-French-Perle-Bead-4-Piece-Place-Setting/dp/B00BWN3FE2/?tag=kitchenpot-20)
 
-## 6. [Fiesta 4-Piece Place Setting](https://www.amazon.com/dp/B00004Y9M0/?tag=kitchenpot-20): Best for Building a Set Piece by Piece
+## 6. [Fiesta 4-Piece Place Setting](https://www.amazon.com/Fiesta-4-Piece-Place-Setting/dp/B00004Y9M0/?tag=kitchenpot-20): Best for Building a Set Piece by Piece
 
 - **Material:** Glazed ceramic, made in West Virginia
 - **In the setting:** Dinner plate, salad plate, bowl and mug
@@ -279,9 +279,9 @@ Fiesta is also oven safe, which almost nothing else on this list can claim beyon
 
 **Who should buy it:** People who plan to keep the same dishes for a decade and want to add to them slowly. If you like the color-mixing idea, our roundup of the [coolest kitchen appliances to buy](/blog/coolest-kitchen-appliances-to-buy/) has a few pieces that sit nicely alongside a bright table.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00004Y9M0/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Fiesta-4-Piece-Place-Setting/dp/B00004Y9M0/?tag=kitchenpot-20)
 
-## 7. [Zak Designs 12-Piece Melamine Set](https://www.amazon.com/dp/B07VBN2YL5/?tag=kitchenpot-20): Best Unbreakable Set
+## 7. [Zak Designs 12-Piece Melamine Set](https://www.amazon.com/Zak-Designs-12-Piece-Melamine-Set/dp/B07VBN2YL5/?tag=kitchenpot-20): Best Unbreakable Set
 
 - **Material:** Melamine resin
 - **In the box:** Twelve pieces, service for four
@@ -311,7 +311,7 @@ The hard limit is heat. The FDA [advises against heating food on melamine dinner
 
 **Who should buy it:** Families with young children, renters who eat on a balcony, and anyone who has swept up one broken plate too many. It is a second set for most people rather than a first one. Our [balcony grilling safety tips and rules](/blog/balcony-grilling-safety-tips-and-rules/) cover the rest of outdoor eating in a rental.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07VBN2YL5/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Zak-Designs-12-Piece-Melamine-Set/dp/B07VBN2YL5/?tag=kitchenpot-20)
 
 ## Shelf Space: The Number Nobody Prints on the Box
 
@@ -388,12 +388,12 @@ Finally, store mugs on hooks rather than stacked. Stacked mugs chip at the handl
 
 Match the set to your biggest annoyance, not to a photo.
 
-- **Plates keep chipping:** [Corelle Vitrelle 18-Piece](https://www.amazon.com/dp/B00R790CLY/?tag=kitchenpot-20).
-- **Cabinets are full:** Corelle again, or the thin [Amazon Basics porcelain](https://www.amazon.com/dp/B019EEUQ2O/?tag=kitchenpot-20).
-- **You want the table to look good:** [Stone Lain Serenity](https://www.amazon.com/dp/B07WV5KCSF/?tag=kitchenpot-20) for modern, [Lenox French Perle Bead](https://www.amazon.com/dp/B00BWN3FE2/?tag=kitchenpot-20) for farmhouse.
-- **You eat pasta and grain bowls most nights:** [Mikasa Macie bone china](https://www.amazon.com/dp/B09P8SZJX3/?tag=kitchenpot-20).
-- **You want to add to the set for years:** [Fiesta](https://www.amazon.com/dp/B00004Y9M0/?tag=kitchenpot-20).
-- **Kids, a balcony or a boat:** [Zak Designs melamine](https://www.amazon.com/dp/B07VBN2YL5/?tag=kitchenpot-20).
+- **Plates keep chipping:** [Corelle Vitrelle 18-Piece](https://www.amazon.com/Corelle-Vitrelle-18-Piece-Winter-Frost-White/dp/B00R790CLY/?tag=kitchenpot-20).
+- **Cabinets are full:** Corelle again, or the thin [Amazon Basics porcelain](https://www.amazon.com/Amazon-Basics-18-Piece-Porcelain-Dinnerware-Set/dp/B019EEUQ2O/?tag=kitchenpot-20).
+- **You want the table to look good:** [Stone Lain Serenity](https://www.amazon.com/Stone-Lain-Serenity-16-Piece-Stoneware-Set/dp/B07WV5KCSF/?tag=kitchenpot-20) for modern, [Lenox French Perle Bead](https://www.amazon.com/Lenox-French-Perle-Bead-4-Piece-Place-Setting/dp/B00BWN3FE2/?tag=kitchenpot-20) for farmhouse.
+- **You eat pasta and grain bowls most nights:** [Mikasa Macie bone china](https://www.amazon.com/Mikasa-Macie-12-Piece-Bone-China-Set/dp/B09P8SZJX3/?tag=kitchenpot-20).
+- **You want to add to the set for years:** [Fiesta](https://www.amazon.com/Fiesta-4-Piece-Place-Setting/dp/B00004Y9M0/?tag=kitchenpot-20).
+- **Kids, a balcony or a boat:** [Zak Designs melamine](https://www.amazon.com/Zak-Designs-12-Piece-Melamine-Set/dp/B07VBN2YL5/?tag=kitchenpot-20).
 
 Still weighing materials rather than brands? Start with our plain-language explainer on [what ceramic dinnerware is](/blog/what-is-ceramic-dinnerware/), then check the shelf you plan to put it on. The shelf usually decides.
 

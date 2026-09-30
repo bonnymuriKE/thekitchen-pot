@@ -45,9 +45,9 @@ Nespresso has two lines of capsule machines and capsules for both original and v
 
 ## **9 Best Nespresso Pod Flavors**
 
-### **1. [Nespresso Original Line Capsules, Ispirazione](https://www.amazon.com/Nestle-Nespresso-Variety-OriginalLine-Capsules/dp/B0099HD3YA?tag=kitchenpot-20)** 
+### **1. [Nespresso Original Line Capsules, Ispirazione](https://www.amazon.com/Nestle-Nespresso-Variety-OriginalLine-Capsules/dp/B0099HD3YA/?tag=kitchenpot-20)** 
 
-[Check Price on Amazon](https://www.amazon.com/Nestle-Nespresso-Variety-OriginalLine-Capsules/dp/B0099HD3YA?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nestle-Nespresso-Variety-OriginalLine-Capsules/dp/B0099HD3YA/?tag=kitchenpot-20)
 
 Nespresso original line capsules are one of the best. The collection comes packed in 100 espresso pods. There is a huge variety of flavors. 
 
@@ -71,9 +71,9 @@ The manufacturers of this product also care for the environment and have made th
 
 * It cannot be used to make coffee in the Nespresso vertuoline machine
 
-### **2. [Nespresso Capsules Original Line, KazaarIntenso](https://www.amazon.com/Nespresso-OriginalLine-Kazaar-compatible-Vertuoline/dp/B00O6FU8TI?tag=kitchenpot-20)**
+### **2. [Nespresso Capsules Original Line, KazaarIntenso](https://www.amazon.com/Nespresso-OriginalLine-Kazaar-compatible-Vertuoline/dp/B00O6FU8TI/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Nespresso-OriginalLine-Kazaar-compatible-Vertuoline/dp/B00O6FU8TI?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nespresso-OriginalLine-Kazaar-compatible-Vertuoline/dp/B00O6FU8TI/?tag=kitchenpot-20)
 
 The kazaarintenso is a great product for you to enjoy, the product might just have the intense kick you are looking for.
 
@@ -95,9 +95,9 @@ For people that enjoy dark, bitter notes in their coffee to kick start your day.
 * The capsule is only recommended for the original machine
 * The capsules are not compatible with vertuo line machines
 
-### **3. [Starbucks by Nespresso](https://www.amazon.com/Starbucks-Nespresso-Variety-Favorites-Count/dp/B07Q6NF8DL?tag=kitchenpot-20)**
+### **3. [Starbucks by Nespresso](https://www.amazon.com/Starbucks-Nespresso-Variety-Favorites-Count/dp/B07Q6NF8DL/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Starbucks-Nespresso-Variety-Favorites-Count/dp/B07Q6NF8DL?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Starbucks-Nespresso-Variety-Favorites-Count/dp/B07Q6NF8DL/?tag=kitchenpot-20)
 
 With Starbucks by Nespresso, you can always enjoy a good coffee at the comfort of your home. In collaboration with Nespresso, the Starbucks favorite variety pack comes packed with a selection of five most favorite blends enjoyed at Starbucks.
 
@@ -117,9 +117,9 @@ The Starbucks by Nespresso works with several of the Nespresso original line mac
 * You only receive 10 single-use capsules per flavor
 * It can only be used with the original line machines from Nespresso
 
-### **4. [Nespresso Capsules Original Line, Ristrettointenso](https://www.amazon.com/Ristretto-Package-Capsules-compatible-VERTUOLINE/dp/B0752DX1CY?tag=kitchenpot-20)**
+### **4. [Nespresso Capsules Original Line, Ristrettointenso](https://www.amazon.com/Ristretto-Package-Capsules-compatible-VERTUOLINE/dp/B0752DX1CY/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Ristretto-Package-Capsules-compatible-VERTUOLINE/dp/B0752DX1CY?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ristretto-Package-Capsules-compatible-VERTUOLINE/dp/B0752DX1CY/?tag=kitchenpot-20)
 
 Nespresso ristrettointenso is not for everyone because it’s dark coffee very bitter and intense. 
 
@@ -140,9 +140,9 @@ Risrettointenso capsules come in a dark, smooth texture yet a zing to the taste 
 
 * The capsules only work well with the Nespresso original line machines
 
-### **5. [Nespresso Original Line: Fortissio Lungo](https://www.amazon.com/Nespresso-OriginalLine-Fortissio-Compatible-Vertuoline/dp/B00HW49UG2?tag=kitchenpot-20)**
+### **5. [Nespresso Original Line: Fortissio Lungo](https://www.amazon.com/Nespresso-OriginalLine-Fortissio-Compatible-Vertuoline/dp/B00HW49UG2/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Nespresso-OriginalLine-Fortissio-Compatible-Vertuoline/dp/B00HW49UG2?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nespresso-OriginalLine-Fortissio-Compatible-Vertuoline/dp/B00HW49UG2/?tag=kitchenpot-20)
 
 Fortissio Lungo is a rich coffee with the added taste of malt and cereals that give it an overall smoother and fuller palate experience and taste.
 
@@ -159,9 +159,9 @@ The fortissio lungo is a tasty set up prepared by Nespresso. The pods provide yo
 
 * The fortissio lungo capsules are only compatible with original Line products and cannot be used for vertuoline.
 
-### **6. [Nespresso Capsules Vertuo Line, Stormio, Dark Roast Coffee](https://www.amazon.com/Nespresso-VertuoLine-Coffee-Stormio-Count/dp/B0768QK616?tag=kitchenpot-20)**
+### **6. [Nespresso Capsules Vertuo Line, Stormio, Dark Roast Coffee](https://www.amazon.com/Nespresso-VertuoLine-Coffee-Stormio-Count/dp/B0768QK616/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Nespresso-VertuoLine-Coffee-Stormio-Count/dp/B0768QK616?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nespresso-VertuoLine-Coffee-Stormio-Count/dp/B0768QK616/?tag=kitchenpot-20)
 
 Nespresso stormio, dark roast coffee is a rich blend of dark, long roasted beans from Nicaraguan and Guatemalan Arabica. 
 
@@ -179,9 +179,9 @@ The aroma is developed during the process of roasting and the spicy woody flavor
 * You can only use it with the Nespresso vertuoline machines
 * You only receive 30 counts of the product
 
-### **7.** **[Peet’s Coffee Espresso Capsules Nerissimo, Intensity 11, 50 Count Single Cup Coffee Pods](https://www.amazon.com/Peets-Coffee-Nerissimo-Intensity-Compatible/dp/B07DDLCWJD?tag=kitchenpot-20)[!](https://www.amazon.com/Peets-Coffee-Nerissimo-Intensity-Compatible/dp/B07DDLCWJD?tag=kitchenpot-20)**
+### **7.** **[Peet’s Coffee Espresso Capsules Nerissimo, Intensity 11, 50 Count Single Cup Coffee Pods](https://www.amazon.com/Peets-Coffee-Nerissimo-Intensity-Compatible/dp/B07DDLCWJD/?tag=kitchenpot-20)[!](https://www.amazon.com/Peets-Coffee-Nerissimo-Intensity-Compatible/dp/B07DDLCWJD/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Peets-Coffee-Nerissimo-Intensity-Compatible/dp/B07DDLCWJD?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Peets-Coffee-Nerissimo-Intensity-Compatible/dp/B07DDLCWJD/?tag=kitchenpot-20)
 
 This is a full package that comes with 50 capsules with a variety of flavors and an intensity of 11. The flavors are intenso, cremoso, lungo, vellutato.
 
@@ -197,9 +197,9 @@ Intenso provides a persistent flavor and intense aroma, cremoso is rather soft a
 
 * The capsules are only compatible with Original Line machines
 
-### **8. [Nespresso Capsules Vertuo Line, Flavored Variety Pack](https://www.amazon.com/Nespresso-Capsules-VertuoLine-Flavored-Espresso/dp/B08FRKQN4B?tag=kitchenpot-20)**
+### **8. [Nespresso Capsules Vertuo Line, Flavored Variety Pack](https://www.amazon.com/Nespresso-Capsules-VertuoLine-Flavored-Espresso/dp/B08FRKQN4B/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Nespresso-Capsules-VertuoLine-Flavored-Espresso/dp/B08FRKQN4B?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nespresso-Capsules-VertuoLine-Flavored-Espresso/dp/B08FRKQN4B/?tag=kitchenpot-20)
 
 Nespresso capsules vertuo line, flavored variety pack, is another pack from Nespresso that works well with vertuoline. The variety pack offers 3 different assortments of blends. 
 
@@ -218,9 +218,9 @@ The Nespresso capsules come packaged with three of the best flavors for the Nesp
 * Only 3 flavors exist in this variety pack
 * You only receive 30 counts, 10 per flavor
 
-### **9. [Nespresso Vertuoline Coffee Capsules](https://www.amazon.com/Nespresso-Vertuoline-Coffee-Capsules-Assortment/dp/B016Z4GRUQ?tag=kitchenpot-20)**
+### **9. [Nespresso Vertuoline Coffee Capsules](https://www.amazon.com/Nespresso-Vertuoline-Coffee-Capsules-Assortment/dp/B016Z4GRUQ/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Nespresso-Vertuoline-Coffee-Capsules-Assortment/dp/B016Z4GRUQ?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nespresso-Vertuoline-Coffee-Capsules-Assortment/dp/B016Z4GRUQ/?tag=kitchenpot-20)
 
 This is one of the best nespresso pod flavors you’ll ever get in the market! 
 

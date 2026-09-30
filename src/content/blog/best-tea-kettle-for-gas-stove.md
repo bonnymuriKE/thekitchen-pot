@@ -39,7 +39,7 @@ A gas flame does not only heat the bottom of your kettle. It heats whatever it t
 
 That single fact decides which kettle is worth buying. The base has to catch the flame, and the handle has to stay clear of it. Everything after that is taste.
 
-**The short version:** for most gas stoves, the [OXO BREW Classic Tea Kettle](https://www.amazon.com/dp/B003L0OP20/?tag=kitchenpot-20) is the easy call. It sits flat on the burner, whistles loudly, and the handle rotates away from the heat. The five kettles below cover the other ways people drink hot water, from a cheap daily boiler to a gooseneck built for pour-over coffee.
+**The short version:** for most gas stoves, the [OXO BREW Classic Tea Kettle](https://www.amazon.com/OXO-BREW-Classic-Tea-Kettle/dp/B003L0OP20/?tag=kitchenpot-20) is the easy call. It sits flat on the burner, whistles loudly, and the handle rotates away from the heat. The five kettles below cover the other ways people drink hot water, from a cheap daily boiler to a gooseneck built for pour-over coffee.
 
 Every pick here is a stovetop kettle. None of them plug in. If you want the plug-in kind instead, our guide to [how electric kettles work](/blog/how-do-electric-kettles-work/) explains what you gain and what you give up.
 
@@ -64,12 +64,12 @@ One more gas quirk worth knowing: soot. A clean gas flame burns blue, and blue f
 
 ## Our Picks at a Glance
 
-- **Best overall:** [OXO BREW Classic Tea Kettle](https://www.amazon.com/dp/B003L0OP20/?tag=kitchenpot-20)
-- **Best budget kettle:** [Mr. Coffee Claredale 1.9-Quart Whistling Kettle](https://www.amazon.com/dp/B01N4IT99R/?tag=kitchenpot-20)
-- **Best enamel kettle:** [Le Creuset Enamel on Steel Whistling Kettle, 1.7 qt](https://www.amazon.com/dp/B000U3HPIM/?tag=kitchenpot-20)
-- **Best whistle:** [Chantal Classic Stainless Steel Teakettle, 1.8 qt](https://www.amazon.com/dp/B00004RD9Q/?tag=kitchenpot-20)
-- **Best for pour-over coffee:** [Fellow Stagg Stovetop Pour-Over Kettle](https://www.amazon.com/dp/B014UN8LDU/?tag=kitchenpot-20)
-- **Best large capacity:** [SUSTEAS Stovetop Whistling Tea Kettle, 2.64 qt](https://www.amazon.com/dp/B07QG2R4PY/?tag=kitchenpot-20)
+- **Best overall:** [OXO BREW Classic Tea Kettle](https://www.amazon.com/OXO-BREW-Classic-Tea-Kettle/dp/B003L0OP20/?tag=kitchenpot-20)
+- **Best budget kettle:** [Mr. Coffee Claredale 1.9-Quart Whistling Kettle](https://www.amazon.com/Mr-Coffee-Claredale-1-9-Quart-Whistling-Kettle/dp/B01N4IT99R/?tag=kitchenpot-20)
+- **Best enamel kettle:** [Le Creuset Enamel on Steel Whistling Kettle, 1.7 qt](https://www.amazon.com/Le-Creuset-Enamel-on-Steel-Whistling-Kettle-1-7/dp/B000U3HPIM/?tag=kitchenpot-20)
+- **Best whistle:** [Chantal Classic Stainless Steel Teakettle, 1.8 qt](https://www.amazon.com/Chantal-Classic-Stainless-Steel-Teakettle-1-8-qt/dp/B00004RD9Q/?tag=kitchenpot-20)
+- **Best for pour-over coffee:** [Fellow Stagg Stovetop Pour-Over Kettle](https://www.amazon.com/Fellow-Stagg-Stovetop-Pour-Over-Kettle/dp/B014UN8LDU/?tag=kitchenpot-20)
+- **Best large capacity:** [SUSTEAS Stovetop Whistling Tea Kettle, 2.64 qt](https://www.amazon.com/SUSTEAS-Stovetop-Whistling-Tea-Kettle-2-64-qt/dp/B07QG2R4PY/?tag=kitchenpot-20)
 
 ## Gas Stove Tea Kettles Compared
 
@@ -115,7 +115,7 @@ The whistle is loud rather than musical, which is the right call in a kitchen wi
 
 **Who should buy it:** Anyone who boils water once or twice a day and wants a kettle that handles a flame without fuss. It is also a sensible pick if your stove might change, since it happily moves onto an [induction cooktop](/blog/best-induction-cooktop-for-the-money/) later.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B003L0OP20/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/OXO-BREW-Classic-Tea-Kettle/dp/B003L0OP20/?tag=kitchenpot-20)
 
 ## 2. Mr. Coffee Claredale Whistling Tea Kettle: Best Budget Pick
 
@@ -146,7 +146,7 @@ At 1.9 quarts it holds enough for a pot of tea and two mugs. That is also a sens
 
 **Who should buy it:** Renters, students and anyone furnishing a kitchen from scratch. It pairs well with the rest of the [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01N4IT99R/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Mr-Coffee-Claredale-1-9-Quart-Whistling-Kettle/dp/B01N4IT99R/?tag=kitchenpot-20)
 
 ## 3. Le Creuset Enamel on Steel Whistling Kettle: Best Enamel Kettle
 
@@ -159,7 +159,7 @@ Enamel on steel is a steel kettle wearing a coat of glass. The steel does the he
 
 Le Creuset makes the version most people picture. The knob is stainless steel, the handle sits on stainless brackets, and the base is wide enough to spread the flame across the bottom. It works on every heat source the company lists, gas and induction included.
 
-Now the honest part. Enamel chips. Knock the kettle against a tap, or drop the lid on the rim, and you can take a flake out of the glass. Bare steel under a chip will rust once water finds it. Hand washing and a soft sponge keep that risk low, and the same care logic applies to the brand's [cast iron skillets](/blog/le-creuset-cast-iron-skillet/). Read through the [owner reviews](https://www.amazon.com/product-reviews/B000U3HPIM/?tag=kitchenpot-20) before you spend the money, because chipping is the thing buyers bring up.
+Now the honest part. Enamel chips. Knock the kettle against a tap, or drop the lid on the rim, and you can take a flake out of the glass. Bare steel under a chip will rust once water finds it. Hand washing and a soft sponge keep that risk low, and the same care logic applies to the brand's [cast iron skillets](/blog/le-creuset-cast-iron-skillet/). Read through the [owner reviews](https://www.amazon.com/Le-Creuset-Enamel-on-Steel-Whistling-Kettle-1-7/product-reviews/B000U3HPIM/?tag=kitchenpot-20) before you spend the money, because chipping is the thing buyers bring up.
 
 **What we like:**
 
@@ -178,7 +178,7 @@ Now the honest part. Enamel chips. Knock the kettle against a tap, or drop the l
 
 **Who should buy it:** Cooks who want the kettle to look like part of the kitchen and are willing to treat it gently. If you already own enamel cookware, you know the drill.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B000U3HPIM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Le-Creuset-Enamel-on-Steel-Whistling-Kettle-1-7/dp/B000U3HPIM/?tag=kitchenpot-20)
 
 ## 4. Chantal Classic Stainless Steel Teakettle: Best Whistle
 
@@ -209,7 +209,7 @@ At about 3 pounds empty it feels heavier than a budget kettle. That weight is th
 
 **Who should buy it:** Tea drinkers who boil several times a day and would rather hear a chord than an alarm. It is also a good fit if you keep the kettle out on display next to your [coffee setup](/blog/best-coffee-maker-with-a-grinder/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00004RD9Q/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Chantal-Classic-Stainless-Steel-Teakettle-1-8-qt/dp/B00004RD9Q/?tag=kitchenpot-20)
 
 ## 5. Fellow Stagg Stovetop Pour-Over Kettle: Best for Pour-Over Coffee
 
@@ -241,7 +241,7 @@ Fellow lists the kettle for gas and electric stovetops. On gas, keep the flame s
 
 **Who should buy it:** Coffee people, and tea drinkers who care about water temperature. If you brew by hand most mornings, it earns its place next to your [espresso machine](/blog/best-espresso-machines/) or grinder.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B014UN8LDU/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Fellow-Stagg-Stovetop-Pour-Over-Kettle/dp/B014UN8LDU/?tag=kitchenpot-20)
 
 ## 6. SUSTEAS Stovetop Whistling Tea Kettle: Best Large Capacity
 
@@ -272,7 +272,7 @@ There is a trade-off for the price and the size. SUSTEAS lists the body at 0.58 
 
 **Who should buy it:** Big households, tea-heavy offices and anyone who boils water for cooking as well as drinking. It is also handy if you keep a [stockpot](/blog/best-stockpot-with-a-lid/) going and need hot water to top it up.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07QG2R4PY/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/SUSTEAS-Stovetop-Whistling-Tea-Kettle-2-64-qt/dp/B07QG2R4PY/?tag=kitchenpot-20)
 
 ## Stainless, Enamel or Copper?
 
@@ -339,12 +339,12 @@ Two habits help on a gas stove specifically. Dry the base after washing, since a
 
 ## Which Tea Kettle Should You Buy?
 
-- **You want one good kettle and no thinking:** [OXO BREW Classic](https://www.amazon.com/dp/B003L0OP20/?tag=kitchenpot-20).
-- **You want to spend as little as possible:** [Mr. Coffee Claredale](https://www.amazon.com/dp/B01N4IT99R/?tag=kitchenpot-20).
-- **You want it to look good on the stove:** [Le Creuset Enamel on Steel](https://www.amazon.com/dp/B000U3HPIM/?tag=kitchenpot-20).
-- **You want the best whistle:** [Chantal Classic](https://www.amazon.com/dp/B00004RD9Q/?tag=kitchenpot-20).
-- **You brew pour-over coffee:** [Fellow Stagg Stovetop](https://www.amazon.com/dp/B014UN8LDU/?tag=kitchenpot-20).
-- **You boil for a houseful:** [SUSTEAS Stovetop](https://www.amazon.com/dp/B07QG2R4PY/?tag=kitchenpot-20).
+- **You want one good kettle and no thinking:** [OXO BREW Classic](https://www.amazon.com/OXO-BREW-Classic-Tea-Kettle/dp/B003L0OP20/?tag=kitchenpot-20).
+- **You want to spend as little as possible:** [Mr. Coffee Claredale](https://www.amazon.com/Mr-Coffee-Claredale-1-9-Quart-Whistling-Kettle/dp/B01N4IT99R/?tag=kitchenpot-20).
+- **You want it to look good on the stove:** [Le Creuset Enamel on Steel](https://www.amazon.com/Le-Creuset-Enamel-on-Steel-Whistling-Kettle-1-7/dp/B000U3HPIM/?tag=kitchenpot-20).
+- **You want the best whistle:** [Chantal Classic](https://www.amazon.com/Chantal-Classic-Stainless-Steel-Teakettle-1-8-qt/dp/B00004RD9Q/?tag=kitchenpot-20).
+- **You brew pour-over coffee:** [Fellow Stagg Stovetop](https://www.amazon.com/Fellow-Stagg-Stovetop-Pour-Over-Kettle/dp/B014UN8LDU/?tag=kitchenpot-20).
+- **You boil for a houseful:** [SUSTEAS Stovetop](https://www.amazon.com/SUSTEAS-Stovetop-Whistling-Tea-Kettle-2-64-qt/dp/B07QG2R4PY/?tag=kitchenpot-20).
 
 Still torn between a flame and a plug? A stovetop kettle wins on lifespan and works in a power cut. An electric kettle wins on speed and shuts itself off. Plenty of kitchens keep both, and if yours has room for only one, the gas burner is already paid for.
 

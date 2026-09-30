@@ -42,14 +42,14 @@ That changes which oil you want. The one number that matters is the smoke point,
 
 ## Quick Picks
 
-- **Best overall:** [Chosen Foods Refined Avocado Oil](https://www.amazon.com/dp/B00K4QF4HO/?tag=kitchenpot-20)
-- **Best neutral olive oil for high heat:** [Pompeian Light Taste Olive Oil](https://www.amazon.com/dp/B009HU8XIU/?tag=kitchenpot-20)
-- **Best for flavor at lower temperatures:** [California Olive Ranch Everyday Extra Virgin Olive Oil](https://www.amazon.com/dp/B00CO1YXL0/?tag=kitchenpot-20)
-- **Best budget everyday oil:** [Spectrum Organic Refined Canola Oil](https://www.amazon.com/dp/B000QV1PRA/?tag=kitchenpot-20)
-- **Best for fried chicken flavor:** [LouAna 100% Pure Peanut Oil](https://www.amazon.com/dp/B003HNAHOG/?tag=kitchenpot-20)
-- **Best neutral oil for vegetables:** [La Tourangelle Expeller-Pressed Grapeseed Oil](https://www.amazon.com/dp/B0078DRVT0/?tag=kitchenpot-20)
-- **Best allergy-friendly high-heat oil:** [La Tourangelle Organic High Oleic Sunflower Oil](https://www.amazon.com/dp/B0BMW53YB2/?tag=kitchenpot-20)
-- **Best oil mister:** [Evo Stainless Steel Oil Sprayer](https://www.amazon.com/dp/B015CYRBPK/?tag=kitchenpot-20)
+- **Best overall:** [Chosen Foods Refined Avocado Oil](https://www.amazon.com/Chosen-Foods-Refined-Avocado-Oil/dp/B00K4QF4HO/?tag=kitchenpot-20)
+- **Best neutral olive oil for high heat:** [Pompeian Light Taste Olive Oil](https://www.amazon.com/Pompeian-Light-Taste-Olive-Oil/dp/B009HU8XIU/?tag=kitchenpot-20)
+- **Best for flavor at lower temperatures:** [California Olive Ranch Everyday Extra Virgin Olive Oil](https://www.amazon.com/California-Olive-Ranch-Everyday-Extra-Virgin-Olive-Oil/dp/B00CO1YXL0/?tag=kitchenpot-20)
+- **Best budget everyday oil:** [Spectrum Organic Refined Canola Oil](https://www.amazon.com/Spectrum-Organic-Refined-Canola-Oil/dp/B000QV1PRA/?tag=kitchenpot-20)
+- **Best for fried chicken flavor:** [LouAna 100% Pure Peanut Oil](https://www.amazon.com/LouAna-100-Pure-Peanut-Oil/dp/B003HNAHOG/?tag=kitchenpot-20)
+- **Best neutral oil for vegetables:** [La Tourangelle Expeller-Pressed Grapeseed Oil](https://www.amazon.com/La-Tourangelle-Expeller-Pressed-Grapeseed-Oil/dp/B0078DRVT0/?tag=kitchenpot-20)
+- **Best allergy-friendly high-heat oil:** [La Tourangelle Organic High Oleic Sunflower Oil](https://www.amazon.com/La-Tourangelle-Organic-High-Oleic-Sunflower-Oil/dp/B0BMW53YB2/?tag=kitchenpot-20)
+- **Best oil mister:** [Evo Stainless Steel Oil Sprayer](https://www.amazon.com/Evo-Stainless-Steel-Oil-Sprayer/dp/B015CYRBPK/?tag=kitchenpot-20)
 
 ## Air Fryer Oil Smoke Points, Compared
 
@@ -147,7 +147,7 @@ If your basket is already patchy, treat it gently from here. The advice in our g
 
 No oils were tested in a kitchen for this guide. Each pick had to clear a real smoke point figure from a published reference or the maker's own page. It also had to come in a size a home cook will finish before it turns. Wide availability mattered too, so refills are easy. Flavor and price decided the rest.
 
-## 1. [Chosen Foods Refined Avocado Oil](https://www.amazon.com/dp/B00K4QF4HO/?tag=kitchenpot-20): Best Overall
+## 1. [Chosen Foods Refined Avocado Oil](https://www.amazon.com/Chosen-Foods-Refined-Avocado-Oil/dp/B00K4QF4HO/?tag=kitchenpot-20): Best Overall
 
 - **Type:** Naturally refined avocado oil
 - **Smoke point:** Reference tables put refined avocado oil near 520°F
@@ -176,9 +176,9 @@ One honest note on the label. Chosen Foods calls the oil high smoke point but do
 
 **Who should buy it:** Anyone who wants one oil that never limits the temperature dial. It pairs well with the high-heat cooking covered in our [Nuwave oven vs air fryers](/blog/nuwave-oven-vs-air-fryers/) comparison.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00K4QF4HO/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Chosen-Foods-Refined-Avocado-Oil/dp/B00K4QF4HO/?tag=kitchenpot-20)
 
-## 2. [Pompeian Light Taste Olive Oil](https://www.amazon.com/dp/B009HU8XIU/?tag=kitchenpot-20): Best Neutral Olive Oil for High Heat
+## 2. [Pompeian Light Taste Olive Oil](https://www.amazon.com/Pompeian-Light-Taste-Olive-Oil/dp/B009HU8XIU/?tag=kitchenpot-20): Best Neutral Olive Oil for High Heat
 
 - **Type:** Refined olive oil, light taste
 - **Smoke point:** Refined olive oil runs 390°F to 470°F
@@ -208,9 +208,9 @@ Pompeian does not publish a smoke point on this product page, so the range above
 
 **Who should buy it:** Cooks who want olive oil's versatility without its taste, especially at 400°F. Keep it next to the [toaster oven or small oven](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) too.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B009HU8XIU/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Pompeian-Light-Taste-Olive-Oil/dp/B009HU8XIU/?tag=kitchenpot-20)
 
-## 3. [California Olive Ranch Everyday Extra Virgin Olive Oil](https://www.amazon.com/dp/B00CO1YXL0/?tag=kitchenpot-20): Best for Flavor at Lower Temperatures
+## 3. [California Olive Ranch Everyday Extra Virgin Olive Oil](https://www.amazon.com/California-Olive-Ranch-Everyday-Extra-Virgin-Olive-Oil/dp/B00CO1YXL0/?tag=kitchenpot-20): Best for Flavor at Lower Temperatures
 
 - **Type:** Extra virgin olive oil
 - **Smoke point:** 350°F to 410°F, depending on acidity
@@ -240,9 +240,9 @@ There is a second argument in its favor. Because smoke point alone is a poor gui
 
 **Who should buy it:** Anyone who roasts a lot of vegetables and wants them to taste of something. If solo-sized batches are your norm, it fits the approach in our [meal prep ideas for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00CO1YXL0/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/California-Olive-Ranch-Everyday-Extra-Virgin-Olive-Oil/dp/B00CO1YXL0/?tag=kitchenpot-20)
 
-## 4. [Spectrum Organic Refined Canola Oil](https://www.amazon.com/dp/B000QV1PRA/?tag=kitchenpot-20): Best Budget Everyday Oil
+## 4. [Spectrum Organic Refined Canola Oil](https://www.amazon.com/Spectrum-Organic-Refined-Canola-Oil/dp/B000QV1PRA/?tag=kitchenpot-20): Best Budget Everyday Oil
 
 - **Type:** Refined organic canola oil
 - **Smoke point:** Spectrum states up to 450°F; reference tables list 400°F
@@ -271,9 +271,9 @@ Flavor is the strong point here. Canola tastes of nothing, which is exactly what
 
 **Who should buy it:** Anyone filling a mister several times a week, or setting up a first kitchen. It sits well alongside the basics in our [small kitchen stocking checklist](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B000QV1PRA/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Spectrum-Organic-Refined-Canola-Oil/dp/B000QV1PRA/?tag=kitchenpot-20)
 
-## 5. [LouAna 100% Pure Peanut Oil](https://www.amazon.com/dp/B003HNAHOG/?tag=kitchenpot-20): Best for Fried Chicken Flavor
+## 5. [LouAna 100% Pure Peanut Oil](https://www.amazon.com/LouAna-100-Pure-Peanut-Oil/dp/B003HNAHOG/?tag=kitchenpot-20): Best for Fried Chicken Flavor
 
 - **Type:** Refined peanut oil
 - **Smoke point:** About 450°F for refined peanut oil
@@ -303,9 +303,9 @@ Two cautions. Refined peanut oil is the high smoke point one; unrefined peanut o
 
 **Who should buy it:** Wing and fried chicken fans with cupboard space. If storage is the issue, the ideas in our [small kitchen cabinet organization guide](/blog/small-kitchen-cabinet-organization-ideas/) help more than a smaller bottle.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B003HNAHOG/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/LouAna-100-Pure-Peanut-Oil/dp/B003HNAHOG/?tag=kitchenpot-20)
 
-## 6. [La Tourangelle Expeller-Pressed Grapeseed Oil](https://www.amazon.com/dp/B0078DRVT0/?tag=kitchenpot-20): Best Neutral Oil for Vegetables
+## 6. [La Tourangelle Expeller-Pressed Grapeseed Oil](https://www.amazon.com/La-Tourangelle-Expeller-Pressed-Grapeseed-Oil/dp/B0078DRVT0/?tag=kitchenpot-20): Best Neutral Oil for Vegetables
 
 - **Type:** Expeller-pressed grapeseed oil
 - **Smoke point:** Reference tables list about 420°F; La Tourangelle states 450°F
@@ -335,9 +335,9 @@ It has a second job worth knowing about. Grapeseed is a popular choice for seaso
 
 **Who should buy it:** Cooks who want a neutral oil that will not overpower fish or vegetables, especially if there is cast iron in the kitchen too.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0078DRVT0/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/La-Tourangelle-Expeller-Pressed-Grapeseed-Oil/dp/B0078DRVT0/?tag=kitchenpot-20)
 
-## 7. [La Tourangelle Organic High Oleic Sunflower Oil](https://www.amazon.com/dp/B0BMW53YB2/?tag=kitchenpot-20): Best Allergy-Friendly High-Heat Oil
+## 7. [La Tourangelle Organic High Oleic Sunflower Oil](https://www.amazon.com/La-Tourangelle-Organic-High-Oleic-Sunflower-Oil/dp/B0BMW53YB2/?tag=kitchenpot-20): Best Allergy-Friendly High-Heat Oil
 
 - **Type:** Organic high-oleic sunflower oil
 - **Smoke point:** Refined and high-oleic sunflower oil sit near 450°F
@@ -366,9 +366,9 @@ Watch the label though. Unrefined sunflower oil smokes at roughly 225°F and has
 
 **Who should buy it:** Households managing a nut allergy, and anyone who wants a neutral oil that holds up to repeated high-heat cooking. It is also a steady option if you are trying to [reduce kitchen energy use](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/) by cooking short and hot.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BMW53YB2/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/La-Tourangelle-Organic-High-Oleic-Sunflower-Oil/dp/B0BMW53YB2/?tag=kitchenpot-20)
 
-## 8. [Evo Stainless Steel Oil Sprayer](https://www.amazon.com/dp/B015CYRBPK/?tag=kitchenpot-20): Best Oil Mister
+## 8. [Evo Stainless Steel Oil Sprayer](https://www.amazon.com/Evo-Stainless-Steel-Oil-Sprayer/dp/B015CYRBPK/?tag=kitchenpot-20): Best Oil Mister
 
 - **Type:** Refillable non-aerosol pump sprayer
 - **Capacity:** 16 oz
@@ -398,7 +398,7 @@ The stainless body is the practical reason to pick this one over a clear plastic
 
 **Who should buy it:** Every air fryer owner, really. It is the cheapest way to protect a basket coating, and it belongs with the other [gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B015CYRBPK/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Evo-Stainless-Steel-Oil-Sprayer/dp/B015CYRBPK/?tag=kitchenpot-20)
 
 ## How to Match the Oil to the Food
 
@@ -442,14 +442,14 @@ Skip those six and your basket will outlast the machine. The rest is seasoning, 
 
 ## Which Oil Should You Buy?
 
-- **You want one bottle and no decisions:** [Chosen Foods Refined Avocado Oil](https://www.amazon.com/dp/B00K4QF4HO/?tag=kitchenpot-20).
-- **You want olive oil that copes with 400°F:** [Pompeian Light Taste](https://www.amazon.com/dp/B009HU8XIU/?tag=kitchenpot-20).
-- **You care most about how vegetables taste:** [California Olive Ranch Everyday Extra Virgin](https://www.amazon.com/dp/B00CO1YXL0/?tag=kitchenpot-20), at 375°F.
-- **You are on a budget:** [Spectrum Organic Refined Canola](https://www.amazon.com/dp/B000QV1PRA/?tag=kitchenpot-20).
-- **You want wings that taste deep-fried:** [LouAna Peanut Oil](https://www.amazon.com/dp/B003HNAHOG/?tag=kitchenpot-20).
-- **There is a nut allergy in the house:** [La Tourangelle High Oleic Sunflower](https://www.amazon.com/dp/B0BMW53YB2/?tag=kitchenpot-20).
+- **You want one bottle and no decisions:** [Chosen Foods Refined Avocado Oil](https://www.amazon.com/Chosen-Foods-Refined-Avocado-Oil/dp/B00K4QF4HO/?tag=kitchenpot-20).
+- **You want olive oil that copes with 400°F:** [Pompeian Light Taste](https://www.amazon.com/Pompeian-Light-Taste-Olive-Oil/dp/B009HU8XIU/?tag=kitchenpot-20).
+- **You care most about how vegetables taste:** [California Olive Ranch Everyday Extra Virgin](https://www.amazon.com/California-Olive-Ranch-Everyday-Extra-Virgin-Olive-Oil/dp/B00CO1YXL0/?tag=kitchenpot-20), at 375°F.
+- **You are on a budget:** [Spectrum Organic Refined Canola](https://www.amazon.com/Spectrum-Organic-Refined-Canola-Oil/dp/B000QV1PRA/?tag=kitchenpot-20).
+- **You want wings that taste deep-fried:** [LouAna Peanut Oil](https://www.amazon.com/LouAna-100-Pure-Peanut-Oil/dp/B003HNAHOG/?tag=kitchenpot-20).
+- **There is a nut allergy in the house:** [La Tourangelle High Oleic Sunflower](https://www.amazon.com/La-Tourangelle-Organic-High-Oleic-Sunflower-Oil/dp/B0BMW53YB2/?tag=kitchenpot-20).
 
-Whichever you pick, buy the [mister](https://www.amazon.com/dp/B015CYRBPK/?tag=kitchenpot-20) with it. A basket coating costs more to replace than the sprayer does, and aerosol cans are the fastest way to lose one. Still choosing a machine? Start with our [air fryer picks under $100](/blog/best-air-fryers-under-100/). Our guide to the [most energy-efficient small appliances](/blog/most-energy-efficient-small-kitchen-appliances/) is worth a look too. One last thing: keep a good [metal spatula](/blog/best-metal-spatula-set/) out of the basket, since metal scratches the coating.
+Whichever you pick, buy the [mister](https://www.amazon.com/Evo-Stainless-Steel-Oil-Sprayer/dp/B015CYRBPK/?tag=kitchenpot-20) with it. A basket coating costs more to replace than the sprayer does, and aerosol cans are the fastest way to lose one. Still choosing a machine? Start with our [air fryer picks under $100](/blog/best-air-fryers-under-100/). Our guide to the [most energy-efficient small appliances](/blog/most-energy-efficient-small-kitchen-appliances/) is worth a look too. One last thing: keep a good [metal spatula](/blog/best-metal-spatula-set/) out of the basket, since metal scratches the coating.
 
 ## Related Guides
 

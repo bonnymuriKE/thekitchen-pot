@@ -44,12 +44,12 @@ To build this list, we looked at manufacturer specs, independent test results fr
 
 ## Our Top Picks at a Glance
 
-- **Best overall:** [All-Clad D3 Stainless Nonstick 12-Inch Fry Pan](https://www.amazon.com/dp/B004T6PS2G/?tag=kitchenpot-20)
-- **Best value large pan:** [T-fal Experience Nonstick Fry Pan, 12.5-Inch](https://www.amazon.com/dp/B000GWG0T2/?tag=kitchenpot-20)
-- **Best budget pick:** [Tramontina Professional 10-Inch Nonstick Fry Pan](https://www.amazon.com/dp/B009HBKQ16/?tag=kitchenpot-20)
-- **Best ceramic (PTFE-free):** [Caraway Nonstick Ceramic Fry Pan, 10.5-Inch](https://www.amazon.com/dp/B0CGRYX4FR/?tag=kitchenpot-20)
-- **Best ceramic for induction and oven use:** [GreenPan Valencia Pro 10-Inch Frying Pan](https://www.amazon.com/dp/B00K6G9GI0/?tag=kitchenpot-20)
-- **Most durable splurge:** [Le Creuset Toughened Nonstick PRO 10-Inch Fry Pan](https://www.amazon.com/dp/B087SHPYZ4/?tag=kitchenpot-20)
+- **Best overall:** [All-Clad D3 Stainless Nonstick 12-Inch Fry Pan](https://www.amazon.com/All-Clad-D3-Stainless-Nonstick-12-Inch-Fry-Pan/dp/B004T6PS2G/?tag=kitchenpot-20)
+- **Best value large pan:** [T-fal Experience Nonstick Fry Pan, 12.5-Inch](https://www.amazon.com/T-fal-Experience-Nonstick-Fry-Pan-12-5-Inch/dp/B000GWG0T2/?tag=kitchenpot-20)
+- **Best budget pick:** [Tramontina Professional 10-Inch Nonstick Fry Pan](https://www.amazon.com/Tramontina-Professional-10-Inch-Nonstick-Fry-Pan/dp/B009HBKQ16/?tag=kitchenpot-20)
+- **Best ceramic (PTFE-free):** [Caraway Nonstick Ceramic Fry Pan, 10.5-Inch](https://www.amazon.com/Caraway-Nonstick-Ceramic-Fry-Pan-10-5-Inch/dp/B0CGRYX4FR/?tag=kitchenpot-20)
+- **Best ceramic for induction and oven use:** [GreenPan Valencia Pro 10-Inch Frying Pan](https://www.amazon.com/GreenPan-Valencia-Pro-10-Inch-Frying-Pan/dp/B00K6G9GI0/?tag=kitchenpot-20)
+- **Most durable splurge:** [Le Creuset Toughened Nonstick PRO 10-Inch Fry Pan](https://www.amazon.com/Le-Creuset-Toughened-Nonstick-PRO-10-Inch-Fry-Pan/dp/B087SHPYZ4/?tag=kitchenpot-20)
 
 ## Best Nonstick Pans: Comparison Table
 
@@ -104,7 +104,7 @@ At about 4.7 pounds with its lid (All-Clad's listed weight), it's heavier than a
 
 **Who should buy it:** Induction cooks, anyone who wants one big, sturdy nonstick skillet, and people who already own stainless cookware and want a matching nonstick piece. If you like the brand, our [All-Clad D3 cookware set review](/blog/all-clad-d3-cookware-set-review/) covers the uncoated version of this construction.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B004T6PS2G/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/All-Clad-D3-Stainless-Nonstick-12-Inch-Fry-Pan/dp/B004T6PS2G/?tag=kitchenpot-20)
 
 ## 2. T-fal Experience Nonstick Fry Pan, 12.5-Inch: Best Value Large Pan
 
@@ -135,7 +135,7 @@ The pan has an aluminum body with an induction base, so you get fast heating at 
 
 **Who should buy it:** Anyone with an induction cooktop on a budget, families who need a large pan, and cooks who like a visual cue for preheating. It's also a good match for an [induction-ready cookware](/blog/best-cookware-for-induction-cooktop/) setup built on a budget.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B000GWG0T2/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/T-fal-Experience-Nonstick-Fry-Pan-12-5-Inch/dp/B000GWG0T2/?tag=kitchenpot-20)
 
 ## 3. Tramontina Professional 10-Inch Nonstick Fry Pan: Best Budget Pick
 
@@ -167,7 +167,7 @@ The handle is cast stainless steel with three solid rivets and a removable silic
 
 **Who should buy it:** Budget cooks on gas or electric stoves, first apartments, and anyone who follows the "buy cheap, replace often" approach to nonstick. It's also a great second pan to pair with a stainless set like the ones in our [best cookware set under $200](/blog/best-cookware-set-under-200/) guide.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B009HBKQ16/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Tramontina-Professional-10-Inch-Nonstick-Fry-Pan/dp/B009HBKQ16/?tag=kitchenpot-20)
 
 ## 4. Caraway Nonstick Ceramic Fry Pan, 10.5-Inch: Best Ceramic (PTFE-Free)
 
@@ -198,7 +198,7 @@ Caraway recommends medium heat and a little oil or butter to protect the surface
 
 **Who should buy it:** Cooks who want to avoid PTFE and are happy to cook at moderate heat. If you're weighing ceramic against other materials, our guide to [stainless steel vs ceramic cookware](/blog/stainless-steel-vs-ceramic-cookware/) explains the tradeoffs.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CGRYX4FR/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Caraway-Nonstick-Ceramic-Fry-Pan-10-5-Inch/dp/B0CGRYX4FR/?tag=kitchenpot-20)
 
 ## 5. GreenPan Valencia Pro 10-Inch Frying Pan: Best Ceramic for Induction and Oven Use
 
@@ -229,7 +229,7 @@ Consumer Reports rated two other GreenPan models (the Spectra Thermobond hybrid 
 
 **Who should buy it:** Induction cooks who want PTFE-free nonstick, and anyone who finishes dishes in a hot oven. For more options, see our list of the [best ceramic cookware sets](/blog/best-ceramic-cookware-set/), and our guide on [how to clean a ceramic pan](/blog/how-to-clean-ceramic-pan/) covers the care routine.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00K6G9GI0/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/GreenPan-Valencia-Pro-10-Inch-Frying-Pan/dp/B00K6G9GI0/?tag=kitchenpot-20)
 
 ## 6. Le Creuset Toughened Nonstick PRO 10-Inch Fry Pan: Most Durable Splurge
 
@@ -260,7 +260,7 @@ The hollow stay-cool handle helps on the stovetop, though Le Creuset notes it do
 
 **Who should buy it:** Cooks who want a traditional nonstick pan that holds up to heavy daily use, and anyone who wants better browning from a coated pan. If you're curious about another high-durability option, our [HexClad hybrid cookware review](/blog/hexclad-hybrid-cookware-review/) covers a different approach.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B087SHPYZ4/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Le-Creuset-Toughened-Nonstick-PRO-10-Inch-Fry-Pan/dp/B087SHPYZ4/?tag=kitchenpot-20)
 
 ## How to Choose the Best Nonstick Pan
 
@@ -340,12 +340,12 @@ That last point matters most in small kitchens, where pans get stacked tight. Ou
 
 ## Which Nonstick Pan Should You Buy?
 
-- **You want one great pan that works on induction:** [All-Clad D3 Stainless Nonstick 12-Inch](https://www.amazon.com/dp/B004T6PS2G/?tag=kitchenpot-20).
-- **You need a big pan on a small budget, including induction:** [T-fal Experience 12.5-Inch](https://www.amazon.com/dp/B000GWG0T2/?tag=kitchenpot-20).
-- **You want the most performance per dollar on gas or electric:** [Tramontina Professional 10-Inch](https://www.amazon.com/dp/B009HBKQ16/?tag=kitchenpot-20).
-- **You want to avoid PTFE:** [Caraway Ceramic Fry Pan](https://www.amazon.com/dp/B0CGRYX4FR/?tag=kitchenpot-20).
-- **You want ceramic that handles induction and a very hot oven:** [GreenPan Valencia Pro 10-Inch](https://www.amazon.com/dp/B00K6G9GI0/?tag=kitchenpot-20).
-- **You're rough on pans and want the toughest coating:** [Le Creuset Toughened Nonstick PRO](https://www.amazon.com/dp/B087SHPYZ4/?tag=kitchenpot-20).
+- **You want one great pan that works on induction:** [All-Clad D3 Stainless Nonstick 12-Inch](https://www.amazon.com/All-Clad-D3-Stainless-Nonstick-12-Inch-Fry-Pan/dp/B004T6PS2G/?tag=kitchenpot-20).
+- **You need a big pan on a small budget, including induction:** [T-fal Experience 12.5-Inch](https://www.amazon.com/T-fal-Experience-Nonstick-Fry-Pan-12-5-Inch/dp/B000GWG0T2/?tag=kitchenpot-20).
+- **You want the most performance per dollar on gas or electric:** [Tramontina Professional 10-Inch](https://www.amazon.com/Tramontina-Professional-10-Inch-Nonstick-Fry-Pan/dp/B009HBKQ16/?tag=kitchenpot-20).
+- **You want to avoid PTFE:** [Caraway Ceramic Fry Pan](https://www.amazon.com/Caraway-Nonstick-Ceramic-Fry-Pan-10-5-Inch/dp/B0CGRYX4FR/?tag=kitchenpot-20).
+- **You want ceramic that handles induction and a very hot oven:** [GreenPan Valencia Pro 10-Inch](https://www.amazon.com/GreenPan-Valencia-Pro-10-Inch-Frying-Pan/dp/B00K6G9GI0/?tag=kitchenpot-20).
+- **You're rough on pans and want the toughest coating:** [Le Creuset Toughened Nonstick PRO](https://www.amazon.com/Le-Creuset-Toughened-Nonstick-PRO-10-Inch-Fry-Pan/dp/B087SHPYZ4/?tag=kitchenpot-20).
 
 A smart setup for most kitchens is one nonstick pan for eggs and delicate foods, plus a stainless or cast iron pan for searing, and learning [how to season stainless steel pans](/blog/how-to-season-stainless-steel-pans/) makes that second pan release food far better. If you're stocking a kitchen from scratch, our checklist on [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) shows how a nonstick pan fits into a short list of essentials, and our [best griddle pans for pancakes](/blog/best-griddle-pan-for-pancakes/) roundup is worth a look if weekend breakfasts are your main use.
 

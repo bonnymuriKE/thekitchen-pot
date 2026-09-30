@@ -45,12 +45,12 @@ Below are six strips worth buying, sorted by the job they do best. After the pic
 
 ## Quick Picks
 
-- **Best overall:** [Schmidt Brothers Acacia 24-Inch Magnetic Wall Bar](https://www.amazon.com/dp/B07DLGHGQW/?tag=kitchenpot-20)
-- **Best stainless steel strip:** [Modern Innovations 16-Inch Stainless Steel Magnetic Knife Bar](https://www.amazon.com/dp/B016ISHAC8/?tag=kitchenpot-20)
-- **Best for heavy knives:** [HMmagnets Premium 17-Inch Stainless Steel Knife Holder](https://www.amazon.com/dp/B06XD751TX/?tag=kitchenpot-20)
-- **Best short strip for a narrow wall:** [Zulay 11.75-Inch Walnut Wood Magnetic Knife Holder](https://www.amazon.com/dp/B07PWJ2SSM/?tag=kitchenpot-20)
-- **Best painted finish:** [Schmidt Brothers Black 18-Inch Magnetic Wall Bar](https://www.amazon.com/dp/B019716AFG/?tag=kitchenpot-20)
-- **Best budget pick:** [Ouddy 16-Inch Stainless Steel Magnetic Knife Holder](https://www.amazon.com/dp/B00LVP87VM/?tag=kitchenpot-20)
+- **Best overall:** [Schmidt Brothers Acacia 24-Inch Magnetic Wall Bar](https://www.amazon.com/Schmidt-Brothers-Acacia-24-Inch-Magnetic-Wall-Bar/dp/B07DLGHGQW/?tag=kitchenpot-20)
+- **Best stainless steel strip:** [Modern Innovations 16-Inch Stainless Steel Magnetic Knife Bar](https://www.amazon.com/Modern-Innovations-16-Inch-Stainless-Steel-Magnetic-Knife-Bar/dp/B016ISHAC8/?tag=kitchenpot-20)
+- **Best for heavy knives:** [HMmagnets Premium 17-Inch Stainless Steel Knife Holder](https://www.amazon.com/HMmagnets-Premium-17-Inch-Stainless-Steel-Knife-Holder/dp/B06XD751TX/?tag=kitchenpot-20)
+- **Best short strip for a narrow wall:** [Zulay 11.75-Inch Walnut Wood Magnetic Knife Holder](https://www.amazon.com/Zulay-11-75-Inch-Walnut-Wood-Magnetic-Knife-Holder/dp/B07PWJ2SSM/?tag=kitchenpot-20)
+- **Best painted finish:** [Schmidt Brothers Black 18-Inch Magnetic Wall Bar](https://www.amazon.com/Schmidt-Brothers-Black-18-Inch-Magnetic-Wall-Bar/dp/B019716AFG/?tag=kitchenpot-20)
+- **Best budget pick:** [Ouddy 16-Inch Stainless Steel Magnetic Knife Holder](https://www.amazon.com/Ouddy-16-Inch-Stainless-Steel-Magnetic-Knife-Holder/dp/B00LVP87VM/?tag=kitchenpot-20)
 
 ## Magnetic Knife Strips Compared
 
@@ -105,7 +105,7 @@ The wood face is also the reason this bar suits nicer knives. Nothing metal touc
 
 **Who should buy it:** Anyone with a knife collection that has outgrown the drawer, and anyone who wants the strip to look deliberate rather than industrial. Pair it with a proper [cutting board](/blog/best-over-the-sink-cutting-board/) and your prep corner is sorted.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07DLGHGQW/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Schmidt-Brothers-Acacia-24-Inch-Magnetic-Wall-Bar/dp/B07DLGHGQW/?tag=kitchenpot-20)
 
 ## 2. Modern Innovations 16-Inch Stainless Steel Magnetic Knife Bar: Best Stainless Steel Strip
 
@@ -137,7 +137,7 @@ Bare steel does grip harder than wood. The flip side is that steel meets steel e
 
 **Who should buy it:** Cooks who want the strongest grip per dollar and do not mind a workshop look. It is also the easiest of these to re-hang if you move, since the back panel is what takes the screws.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B016ISHAC8/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Modern-Innovations-16-Inch-Stainless-Steel-Magnetic-Knife-Bar/dp/B016ISHAC8/?tag=kitchenpot-20)
 
 ## 3. HMmagnets Premium 17-Inch Stainless Steel Knife Holder: Best for Heavy Knives
 
@@ -151,7 +151,7 @@ Steel grade sounds like marketing until a strip starts rusting near the sink. HM
 
 The magnets run edge to edge, which is the detail that matters for heavy knives. On some bars the pull is strong in the middle and weak at the ends, so a cleaver slides if you park it near a corner. Here you can hang anything anywhere along the bar.
 
-One thing to note: this wall version is not magnetized on the back, so it will not stick to a fridge. HMmagnets sells a separate double-sided model for that. Want to know what owners make of the grip? The [customer reviews page](https://www.amazon.com/product-reviews/B06XD751TX/?tag=kitchenpot-20) is the place to check. The running theme there is surprise at how hard it pulls, not disappointment.
+One thing to note: this wall version is not magnetized on the back, so it will not stick to a fridge. HMmagnets sells a separate double-sided model for that. Want to know what owners make of the grip? The [customer reviews page](https://www.amazon.com/HMmagnets-Premium-17-Inch-Stainless-Steel-Knife-Holder/product-reviews/B06XD751TX/?tag=kitchenpot-20) is the place to check. The running theme there is surprise at how hard it pulls, not disappointment.
 
 **What we like:**
 
@@ -169,7 +169,7 @@ One thing to note: this wall version is not magnetized on the back, so it will n
 
 **Who should buy it:** Anyone hanging a heavy cleaver, a 10-inch chef's knife or a [fillet knife](/blog/best-electric-fillet-knife/) that a weaker bar would drop. It is also a sensible choice if the strip will live near the sink.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B06XD751TX/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/HMmagnets-Premium-17-Inch-Stainless-Steel-Knife-Holder/dp/B06XD751TX/?tag=kitchenpot-20)
 
 ## 4. Zulay 11.75-Inch Walnut Wood Magnetic Knife Holder: Best Short Strip for a Narrow Wall
 
@@ -201,7 +201,7 @@ The wood is finished with food-safe oil, so it handles splashes. Zulay says to w
 
 **Who should buy it:** Renters, studio cooks, and anyone whose only free wall is a narrow one. It works well alongside [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/), where every inch of wall gets a job.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07PWJ2SSM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Zulay-11-75-Inch-Walnut-Wood-Magnetic-Knife-Holder/dp/B07PWJ2SSM/?tag=kitchenpot-20)
 
 ## 5. Schmidt Brothers Black 18-Inch Magnetic Wall Bar: Best Painted Finish
 
@@ -233,7 +233,7 @@ The catch with any painted finish is that paint chips. Drop a cleaver spine-firs
 
 **Who should buy it:** Anyone matching black fixtures, and anyone who wants steel-level grip without bare steel against the blade. It fits neatly with the rest of a [small kitchen cabinet organization](/blog/small-kitchen-cabinet-organization-ideas/) plan.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B019716AFG/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Schmidt-Brothers-Black-18-Inch-Magnetic-Wall-Bar/dp/B019716AFG/?tag=kitchenpot-20)
 
 ## 6. Ouddy 16-Inch Stainless Steel Magnetic Knife Holder: Best Budget Pick
 
@@ -264,7 +264,7 @@ Be realistic about what it holds. Budget bars tend to have fewer magnets spaced 
 
 **Who should buy it:** First-time buyers, second-strip buyers, and anyone stocking a rental or a [first solo kitchen](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) without spending much.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00LVP87VM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ouddy-16-Inch-Stainless-Steel-Magnetic-Knife-Holder/dp/B00LVP87VM/?tag=kitchenpot-20)
 
 ## Wood, Stainless Steel or Painted Steel?
 
@@ -334,7 +334,7 @@ The cheap ribbed plastic anchors in the box are usually the weakest option on th
 
 ### Renting, or Do Not Want Holes?
 
-Adhesive tape and fridge-mount strips both work, with limits. Industrial 3M tape holds a light strip well on smooth, clean paint, but it can pull paint off when you remove it. A fridge-mount bar like the [Modern Innovations refrigerator version](https://www.amazon.com/dp/B07VQN4X37/?tag=kitchenpot-20) needs no holes at all, since the back is magnetized and grips the side of the fridge.
+Adhesive tape and fridge-mount strips both work, with limits. Industrial 3M tape holds a light strip well on smooth, clean paint, but it can pull paint off when you remove it. A fridge-mount bar like the [Modern Innovations refrigerator version](https://www.amazon.com/Modern-Innovations-refrigerator-version/dp/B07VQN4X37/?tag=kitchenpot-20) needs no holes at all, since the back is magnetized and grips the side of the fridge.
 
 If neither appeals, a magnetic drawer insert keeps blades separated and edge-safe without touching a wall. Misen's modular knife storage does this job, and it reconfigures as your set grows.
 
@@ -381,12 +381,12 @@ One more use worth knowing. A short strip inside a cabinet door holds the spare 
 
 ## Which Magnetic Knife Strip Should You Buy?
 
-- **You want one strip that does everything:** [Schmidt Brothers Acacia 24-Inch](https://www.amazon.com/dp/B07DLGHGQW/?tag=kitchenpot-20).
-- **You want the most grip per dollar:** [Modern Innovations 16-Inch](https://www.amazon.com/dp/B016ISHAC8/?tag=kitchenpot-20).
-- **You own a cleaver or a heavy chef's knife:** [HMmagnets Premium 17-Inch](https://www.amazon.com/dp/B06XD751TX/?tag=kitchenpot-20).
-- **Your only free wall is narrow:** [Zulay 11.75-Inch Walnut](https://www.amazon.com/dp/B07PWJ2SSM/?tag=kitchenpot-20).
-- **Your kitchen is black and matte:** [Schmidt Brothers Black 18-Inch](https://www.amazon.com/dp/B019716AFG/?tag=kitchenpot-20).
-- **You want to spend as little as possible:** [Ouddy 16-Inch](https://www.amazon.com/dp/B00LVP87VM/?tag=kitchenpot-20).
+- **You want one strip that does everything:** [Schmidt Brothers Acacia 24-Inch](https://www.amazon.com/Schmidt-Brothers-Acacia-24-Inch-Magnetic-Wall-Bar/dp/B07DLGHGQW/?tag=kitchenpot-20).
+- **You want the most grip per dollar:** [Modern Innovations 16-Inch](https://www.amazon.com/Modern-Innovations-16-Inch-Stainless-Steel-Magnetic-Knife-Bar/dp/B016ISHAC8/?tag=kitchenpot-20).
+- **You own a cleaver or a heavy chef's knife:** [HMmagnets Premium 17-Inch](https://www.amazon.com/HMmagnets-Premium-17-Inch-Stainless-Steel-Knife-Holder/dp/B06XD751TX/?tag=kitchenpot-20).
+- **Your only free wall is narrow:** [Zulay 11.75-Inch Walnut](https://www.amazon.com/Zulay-11-75-Inch-Walnut-Wood-Magnetic-Knife-Holder/dp/B07PWJ2SSM/?tag=kitchenpot-20).
+- **Your kitchen is black and matte:** [Schmidt Brothers Black 18-Inch](https://www.amazon.com/Schmidt-Brothers-Black-18-Inch-Magnetic-Wall-Bar/dp/B019716AFG/?tag=kitchenpot-20).
+- **You want to spend as little as possible:** [Ouddy 16-Inch](https://www.amazon.com/Ouddy-16-Inch-Stainless-Steel-Magnetic-Knife-Holder/dp/B00LVP87VM/?tag=kitchenpot-20).
 
 Whichever you pick, buy a pack of decent wall anchors at the same time. That five-dollar addition is the difference between a strip that holds for a decade and one you re-hang every spring.
 

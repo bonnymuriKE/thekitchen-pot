@@ -52,12 +52,12 @@ The rest of this guide covers six current slide-in electric ranges, what each on
 
 ## Our Picks at a Glance
 
-- **Best overall:** [Frigidaire Gallery GCFE3060BF 30-Inch Slide-In Electric Range](https://www.amazon.com/dp/B0CNL9GW9G/?tag=kitchenpot-20)
-- **Best under $1,000 (front control, not a true slide-in):** [Frigidaire FCFE3062A 30-Inch Front Control Electric Range](https://www.amazon.com/dp/B0BXVMDR5J/?tag=kitchenpot-20)
-- **Best oven power:** [Sharp SSR3065JS 30-Inch Slide-In Electric Range](https://www.amazon.com/dp/B0CCPSHF2N/?tag=kitchenpot-20)
-- **Best smart range:** [GE Profile PSS93YPFS 30-Inch Slide-In Electric Range](https://www.amazon.com/dp/B089LK3D9Q/?tag=kitchenpot-20)
-- **Best direct-from-brand value:** [Empava 30-Inch Radiant Electric Slide-In Range](https://www.amazon.com/dp/B0F1TM1NLW/?tag=kitchenpot-20)
-- **Best induction slide-in:** [Frigidaire Gallery GCFI3060BF 30-Inch Induction Range](https://www.amazon.com/dp/B0CJ89RSWV/?tag=kitchenpot-20)
+- **Best overall:** [Frigidaire Gallery GCFE3060BF 30-Inch Slide-In Electric Range](https://www.amazon.com/Frigidaire-Gallery-GCFE3060BF-30-Inch-Slide-In-Electric-Range/dp/B0CNL9GW9G/?tag=kitchenpot-20)
+- **Best under $1,000 (front control, not a true slide-in):** [Frigidaire FCFE3062A 30-Inch Front Control Electric Range](https://www.amazon.com/Frigidaire-FCFE3062A-30-Inch-Front-Control-Electric-Range/dp/B0BXVMDR5J/?tag=kitchenpot-20)
+- **Best oven power:** [Sharp SSR3065JS 30-Inch Slide-In Electric Range](https://www.amazon.com/Sharp-SSR3065JS-30-Inch-Slide-In-Electric-Range/dp/B0CCPSHF2N/?tag=kitchenpot-20)
+- **Best smart range:** [GE Profile PSS93YPFS 30-Inch Slide-In Electric Range](https://www.amazon.com/GE-Profile-PSS93YPFS-30-Inch-Slide-In-Electric-Range/dp/B089LK3D9Q/?tag=kitchenpot-20)
+- **Best direct-from-brand value:** [Empava 30-Inch Radiant Electric Slide-In Range](https://www.amazon.com/Empava-30-Inch-Radiant-Electric-Slide-In-Range/dp/B0F1TM1NLW/?tag=kitchenpot-20)
+- **Best induction slide-in:** [Frigidaire Gallery GCFI3060BF 30-Inch Induction Range](https://www.amazon.com/Frigidaire-Gallery-GCFI3060BF-30-Inch-Induction-Range/dp/B0CJ89RSWV/?tag=kitchenpot-20)
 
 ## Specs Compared
 
@@ -114,7 +114,7 @@ Having both cleaning cycles is the other reason it tops this list. The 30-minute
 
 **Who should buy it:** Households that cook and bake regularly and want one range to cover it all. If it's replacing an ageing oven that has been holding your baking back, our guide to the [best bakeware sets for beginners](/blog/best-bakeware-sets/) is a good companion purchase.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CNL9GW9G/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Frigidaire-Gallery-GCFE3060BF-30-Inch-Slide-In-Electric-Range/dp/B0CNL9GW9G/?tag=kitchenpot-20)
 
 ## 2. Frigidaire FCFE3062A: Best Under $1,000 (Front Control)
 
@@ -147,7 +147,7 @@ The Energy Star listing is worth a look if your utility offers appliance rebates
 
 **Who should buy it:** Renters buying their own appliance, landlords fitting out a unit, and anyone who wants a clean built-in look without paying for features they won't use. Pair it with the space-saving pans in our guide to [compact baking sheet and pan sizes for small kitchens](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BXVMDR5J/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Frigidaire-FCFE3062A-30-Inch-Front-Control-Electric-Range/dp/B0BXVMDR5J/?tag=kitchenpot-20)
 
 ## 3. Sharp SSR3065JS: Best Oven Power
 
@@ -180,7 +180,7 @@ The cooktop is arranged differently from the others too. A single 12-inch elemen
 
 **Who should buy it:** Roasters, bakers and anyone who broils often. If you cook a lot of large cuts, our guide to [cooking sausages in the oven](/blog/how-to-cook-sausages-in-the-oven/) and our list of [what you can cook in a roaster oven](/blog/what-can-you-cook-in-a-roaster-oven/) both benefit from an oven with this much power behind it.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CCPSHF2N/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Sharp-SSR3065JS-30-Inch-Slide-In-Electric-Range/dp/B0CCPSHF2N/?tag=kitchenpot-20)
 
 ## 4. GE Profile PSS93YPFS: Best Smart Range
 
@@ -213,7 +213,7 @@ The smart side is Wi-Fi with GE's app: preheat from your phone, get an alert whe
 
 **Who should buy it:** Cooks who use every burner at once, bakers who fill two racks, and anyone who wants app control. If you air fry often, our tips on [cleaning an air fryer basket](/blog/how-to-clean-an-air-fryer-basket/) apply to the oven tray too, and our guide to the [best oils for air frying](/blog/best-oil-for-air-fryer/) covers what to use in it.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B089LK3D9Q/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/GE-Profile-PSS93YPFS-30-Inch-Slide-In-Electric-Range/dp/B089LK3D9Q/?tag=kitchenpot-20)
 
 ## 5. Empava 30-Inch Radiant Electric Range (EMPV-30ERX62): Best Direct-From-Brand Value
 
@@ -246,7 +246,7 @@ Empava backs it with a two-year warranty as standard, extended to four years for
 
 **Who should buy it:** Anyone fitting out a kitchen on a set budget, second homes and rental units, and cooks who want a simple range with a long warranty rather than a feature list. If you're furnishing the whole kitchen at once, our list of [compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/) covers what to buy alongside it.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0F1TM1NLW/?tag=kitchenpot-20) [Check Price at Empava](https://www.awin1.com/cread.php?awinmid=114924&awinaffid=1956629&clickref=best-slide-in-electric-range&ued=https%3A%2F%2Fempava.com%2Fproducts%2Fempava-30-inch-4-element-radiant-electric-slide-in-range-with-glass-top-30erx62)
+[Check Price on Amazon](https://www.amazon.com/Empava-30-Inch-Radiant-Electric-Slide-In-Range/dp/B0F1TM1NLW/?tag=kitchenpot-20) [Check Price at Empava](https://www.awin1.com/cread.php?awinmid=114924&awinaffid=1956629&clickref=best-slide-in-electric-range&ued=https%3A%2F%2Fempava.com%2Fproducts%2Fempava-30-inch-4-element-radiant-electric-slide-in-range-with-glass-top-30erx62)
 
 ## 6. Frigidaire Gallery GCFI3060BF: Best Induction Slide-In
 
@@ -279,7 +279,7 @@ The catch is cookware. Induction only heats magnetic metal, so aluminum, copper 
 
 **Who should buy it:** Cooks who already own stainless or cast iron, anyone in a small or poorly ventilated kitchen who wants less waste heat, and households with young children, since the surface itself never gets red hot. Cast iron users should read our guide on [protecting a glass top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/) first.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CJ89RSWV/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Frigidaire-Gallery-GCFI3060BF-30-Inch-Induction-Range/dp/B0CJ89RSWV/?tag=kitchenpot-20)
 
 ## What Under $1,000 Really Buys
 
@@ -335,12 +335,12 @@ For the glass cooktop, a dedicated ceramic cream and a plastic scraper handle ne
 
 ## Which Slide-In Electric Range Should You Buy?
 
-- **You want one range that does everything:** [Frigidaire Gallery GCFE3060BF](https://www.amazon.com/dp/B0CNL9GW9G/?tag=kitchenpot-20).
-- **Your budget stops at $1,000:** [Frigidaire FCFE3062A](https://www.amazon.com/dp/B0BXVMDR5J/?tag=kitchenpot-20), a front control range rather than a true slide-in.
-- **You roast, broil and bake seriously:** [Sharp SSR3065JS](https://www.amazon.com/dp/B0CCPSHF2N/?tag=kitchenpot-20).
-- **You use every burner and want app control:** [GE Profile PSS93YPFS](https://www.amazon.com/dp/B089LK3D9Q/?tag=kitchenpot-20).
-- **You want a long warranty at a low price:** [Empava EMPV-30ERX62](https://www.amazon.com/dp/B0F1TM1NLW/?tag=kitchenpot-20).
-- **You already own magnetic pans and want speed:** [Frigidaire Gallery GCFI3060BF](https://www.amazon.com/dp/B0CJ89RSWV/?tag=kitchenpot-20).
+- **You want one range that does everything:** [Frigidaire Gallery GCFE3060BF](https://www.amazon.com/Frigidaire-Gallery-GCFE3060BF-30-Inch-Slide-In-Electric-Range/dp/B0CNL9GW9G/?tag=kitchenpot-20).
+- **Your budget stops at $1,000:** [Frigidaire FCFE3062A](https://www.amazon.com/Frigidaire-FCFE3062A-30-Inch-Front-Control-Electric-Range/dp/B0BXVMDR5J/?tag=kitchenpot-20), a front control range rather than a true slide-in.
+- **You roast, broil and bake seriously:** [Sharp SSR3065JS](https://www.amazon.com/Sharp-SSR3065JS-30-Inch-Slide-In-Electric-Range/dp/B0CCPSHF2N/?tag=kitchenpot-20).
+- **You use every burner and want app control:** [GE Profile PSS93YPFS](https://www.amazon.com/GE-Profile-PSS93YPFS-30-Inch-Slide-In-Electric-Range/dp/B089LK3D9Q/?tag=kitchenpot-20).
+- **You want a long warranty at a low price:** [Empava EMPV-30ERX62](https://www.amazon.com/Empava-30-Inch-Radiant-Electric-Slide-In-Range/dp/B0F1TM1NLW/?tag=kitchenpot-20).
+- **You already own magnetic pans and want speed:** [Frigidaire Gallery GCFI3060BF](https://www.amazon.com/Frigidaire-Gallery-GCFI3060BF-30-Inch-Induction-Range/dp/B0CJ89RSWV/?tag=kitchenpot-20).
 
 Before you order anything, go and measure the opening, check the breaker and look at the counter edge. Those three numbers eliminate more ranges than any feature comparison will. If the answer is that a slide-in won't fit your kitchen without a countertop job, a freestanding range with front controls gives you most of the same look for less, and our roundup of the [best small ovens and toaster ovens for baking in small kitchens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) covers the other way around the problem entirely.
 

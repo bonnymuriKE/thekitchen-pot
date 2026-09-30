@@ -51,12 +51,12 @@ Write both numbers down. Almost every disappointed review of these boards traces
 
 ## Top Picks for Small Kitchens
 
-- **Best overall:** [Dexas Over the Sink Poly Cutting Board with Collapsible Colander](https://www.amazon.com/dp/B07GZBFJ17/?tag=kitchenpot-20)
-- **Best expandable:** [Lipper International Bamboo Over-the-Sink Expandable Cutting Board](https://www.amazon.com/dp/B09ZQ98MKJ/?tag=kitchenpot-20)
-- **Best large bamboo board:** [Homevative Over the Sink Bamboo Cutting Board with Strainer](https://www.amazon.com/dp/B08L3VX6K6/?tag=kitchenpot-20)
-- **Best compact bamboo board:** [Island Bamboo Over the Sink Cutting Board with Collapsible Strainer](https://www.amazon.com/dp/B071YDN95T/?tag=kitchenpot-20)
-- **Best budget board:** [NiHome Over the Sink Cutting Board with Collapsible Colander](https://www.amazon.com/dp/B0BM798RYV/?tag=kitchenpot-20)
-- **Best for RVs and small sinks:** [Ximasim Stainless Steel Over the Sink Cutting Board](https://www.amazon.com/dp/B0DPZSSH42/?tag=kitchenpot-20)
+- **Best overall:** [Dexas Over the Sink Poly Cutting Board with Collapsible Colander](https://www.amazon.com/Dexas-Over-the-Sink-Poly-Cutting-Board-with-Collapsible/dp/B07GZBFJ17/?tag=kitchenpot-20)
+- **Best expandable:** [Lipper International Bamboo Over-the-Sink Expandable Cutting Board](https://www.amazon.com/Lipper-International-Bamboo-Over-the-Sink-Expandable-Cutting-Board/dp/B09ZQ98MKJ/?tag=kitchenpot-20)
+- **Best large bamboo board:** [Homevative Over the Sink Bamboo Cutting Board with Strainer](https://www.amazon.com/Homevative-Over-the-Sink-Bamboo-Cutting-Board-with-Strainer/dp/B08L3VX6K6/?tag=kitchenpot-20)
+- **Best compact bamboo board:** [Island Bamboo Over the Sink Cutting Board with Collapsible Strainer](https://www.amazon.com/Island-Bamboo-Over-the-Sink-Cutting-Board-with-Collapsible/dp/B071YDN95T/?tag=kitchenpot-20)
+- **Best budget board:** [NiHome Over the Sink Cutting Board with Collapsible Colander](https://www.amazon.com/NiHome-Over-the-Sink-Cutting-Board-with-Collapsible-Colander/dp/B0BM798RYV/?tag=kitchenpot-20)
+- **Best for RVs and small sinks:** [Ximasim Stainless Steel Over the Sink Cutting Board](https://www.amazon.com/Ximasim-Stainless-Steel-Over-the-Sink-Cutting-Board/dp/B0DPZSSH42/?tag=kitchenpot-20)
 
 ## How these boards actually work
 
@@ -118,7 +118,7 @@ This is the board that suits the most kitchens, mostly because poly is the right
 
 The layout is the other reason. The strainer sits at one end rather than in the middle, so the cutting surface stays in one continuous piece instead of being split by a hole. You prep along the length of the board and sweep everything sideways into the basket in one motion.
 
-Owner feedback points at the same two things repeatedly. The praise is for the grippy corners and how easily chopped food moves from board to strainer. The complaint, and it is the one to take seriously, is that it may not fit every sink perfectly, leaving an uneven surface on non-standard sizes. Measure first, then skim the [customer review patterns](https://www.amazon.com/product-reviews/B07GZBFJ17/?tag=kitchenpot-20) to see whether your sink sounds like the ones people report trouble with.
+Owner feedback points at the same two things repeatedly. The praise is for the grippy corners and how easily chopped food moves from board to strainer. The complaint, and it is the one to take seriously, is that it may not fit every sink perfectly, leaving an uneven surface on non-standard sizes. Measure first, then skim the [customer review patterns](https://www.amazon.com/Dexas-Over-the-Sink-Poly-Cutting-Board-with-Collapsible/product-reviews/B07GZBFJ17/?tag=kitchenpot-20) to see whether your sink sounds like the ones people report trouble with.
 
 **What we like:**
 
@@ -137,7 +137,7 @@ Owner feedback points at the same two things repeatedly. The praise is for the g
 
 **Who should buy it:** Anyone who wants one board for everyday prep including raw meat, and who has a standard-sized sink. Pair it with a decent [knife set](/blog/best-knife-set-under-100/) and it covers most weeknight cooking.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07GZBFJ17/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Dexas-Over-the-Sink-Poly-Cutting-Board-with-Collapsible/dp/B07GZBFJ17/?tag=kitchenpot-20)
 
 ## 2. Lipper International Bamboo Over-the-Sink Expandable Cutting Board: Best Expandable
 
@@ -170,7 +170,7 @@ Bamboo needs looking after. Lipper's instructions are hand wash with mild soap a
 
 **Who should buy it:** Anyone with a non-standard sink, and cooks who would rather have a large clear board than a colander. It is also the best of these for doubling as a serving board when you are short on [counter space](/blog/countertop-organization-ideas-for-a-small-kitchen/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09ZQ98MKJ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Lipper-International-Bamboo-Over-the-Sink-Expandable-Cutting-Board/dp/B09ZQ98MKJ/?tag=kitchenpot-20)
 
 ## 3. Homevative Over the Sink Bamboo Cutting Board: Best Large Bamboo Board
 
@@ -202,7 +202,7 @@ The phone slots sound like a novelty and turn out to be useful. A phone propped 
 
 **Who should buy it:** Cooks with a full-size sink who prep in batches, and anyone who props a phone up to follow recipes. If storage is the issue, the ideas in our guide to [vertical storage for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) will help you find a home for it.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08L3VX6K6/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Homevative-Over-the-Sink-Bamboo-Cutting-Board-with-Strainer/dp/B08L3VX6K6/?tag=kitchenpot-20)
 
 ## 4. Island Bamboo Over the Sink Cutting Board: Best Compact Bamboo Board
 
@@ -234,7 +234,7 @@ Bamboo care applies as usual: wash by hand, dry it standing on edge so air reach
 
 **Who should buy it:** Renters, studio cooks, and anyone whose sink is smaller than the boards they keep seeing online. It works well with the kind of compact tools in our [small kitchen gadgets](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/) list.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B071YDN95T/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Island-Bamboo-Over-the-Sink-Cutting-Board-with-Collapsible/dp/B071YDN95T/?tag=kitchenpot-20)
 
 ## 5. NiHome Over the Sink Cutting Board: Best Budget Board
 
@@ -266,7 +266,7 @@ The rubber anti-slip elements are the detail that makes an inexpensive board usa
 
 **Who should buy it:** Anyone who wants the function without spending much, and households that prep raw meat and want a board they can sanitise. It slots in next to the other easy-clean tools like a [vegetable chopper](/blog/best-vegetable-choppers/) or an [electric potato peeler](/blog/best-electric-potato-peeler/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BM798RYV/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/NiHome-Over-the-Sink-Cutting-Board-with-Collapsible-Colander/dp/B0BM798RYV/?tag=kitchenpot-20)
 
 ## 6. Ximasim Stainless Steel Over the Sink Cutting Board: Best for RVs and Small Sinks
 
@@ -298,7 +298,7 @@ It expands to suit different sink widths and drains straight through, so it also
 
 **Who should buy it:** RV and camper cooks, boat galleys, and anyone whose sink area needs to become a counter several times a day. It pairs well with the rest of a portable setup, including a [compact grill for small outdoor spaces](/blog/best-portable-grills-for-apartment-living/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0DPZSSH42/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ximasim-Stainless-Steel-Over-the-Sink-Cutting-Board/dp/B0DPZSSH42/?tag=kitchenpot-20)
 
 ## Choosing the material
 
@@ -348,12 +348,12 @@ It also frees the real counter for the things that need it, like rolling dough. 
 
 ## Which over the sink cutting board should you buy?
 
-- **Standard sink, one board for everything:** [Dexas Poly](https://www.amazon.com/dp/B07GZBFJ17/?tag=kitchenpot-20).
-- **Awkward sink size, or you want a clear cutting surface:** [Lipper International expandable bamboo](https://www.amazon.com/dp/B09ZQ98MKJ/?tag=kitchenpot-20).
-- **Full-size sink and batch prep:** [Homevative bamboo](https://www.amazon.com/dp/B08L3VX6K6/?tag=kitchenpot-20).
-- **Apartment or studio sink:** [Island Bamboo](https://www.amazon.com/dp/B071YDN95T/?tag=kitchenpot-20).
-- **Cheapest option that still works:** [NiHome](https://www.amazon.com/dp/B0BM798RYV/?tag=kitchenpot-20).
-- **RV, camper or boat:** [Ximasim stainless steel](https://www.amazon.com/dp/B0DPZSSH42/?tag=kitchenpot-20).
+- **Standard sink, one board for everything:** [Dexas Poly](https://www.amazon.com/Dexas-Over-the-Sink-Poly-Cutting-Board-with-Collapsible/dp/B07GZBFJ17/?tag=kitchenpot-20).
+- **Awkward sink size, or you want a clear cutting surface:** [Lipper International expandable bamboo](https://www.amazon.com/Lipper-International-Bamboo-Over-the-Sink-Expandable-Cutting-Board/dp/B09ZQ98MKJ/?tag=kitchenpot-20).
+- **Full-size sink and batch prep:** [Homevative bamboo](https://www.amazon.com/Homevative-Over-the-Sink-Bamboo-Cutting-Board-with-Strainer/dp/B08L3VX6K6/?tag=kitchenpot-20).
+- **Apartment or studio sink:** [Island Bamboo](https://www.amazon.com/Island-Bamboo-Over-the-Sink-Cutting-Board-with-Collapsible/dp/B071YDN95T/?tag=kitchenpot-20).
+- **Cheapest option that still works:** [NiHome](https://www.amazon.com/NiHome-Over-the-Sink-Cutting-Board-with-Collapsible-Colander/dp/B0BM798RYV/?tag=kitchenpot-20).
+- **RV, camper or boat:** [Ximasim stainless steel](https://www.amazon.com/Ximasim-Stainless-Steel-Over-the-Sink-Cutting-Board/dp/B0DPZSSH42/?tag=kitchenpot-20).
 
 Go and measure your sink rim right now, before you open another product page. That one number rules out more than half the boards on the market, and it is the difference between a board you use daily and one that ends up on top of the fridge.
 

@@ -194,9 +194,9 @@ The Cookware and Bakeware Alliance has put a quality coating at five to seven ye
 
 Real kitchens land lower. A thin promotional pan used daily on a hot burner can be finished inside a year. A heavy-gauge pan with a three-layer coating, treated gently, can beat the high end of that range.
 
-Restaurant-line pans tend to do well here because the aluminum is thick and the coating is built up in layers. The [Tramontina Professional 10-inch nonstick fry pan](https://www.amazon.com/dp/B009HBKQ16/?tag=kitchenpot-20) is the version of this most home cooks end up with. Owner reviews repeatedly describe it as a pan you replace by choice rather than by failure. If you want the ceramic route, the [GreenPan Valencia Pro 10-inch skillet](https://www.amazon.com/dp/B00K6G9GI0/?tag=kitchenpot-20) is hard-anodized underneath and rated oven-safe to 600°F.
+Restaurant-line pans tend to do well here because the aluminum is thick and the coating is built up in layers. The [Tramontina Professional 10-inch nonstick fry pan](https://www.amazon.com/Tramontina-Professional-10-Inch-Nonstick-Fry-Pan/dp/B009HBKQ16/?tag=kitchenpot-20) is the version of this most home cooks end up with. Owner reviews repeatedly describe it as a pan you replace by choice rather than by failure. If you want the ceramic route, the [GreenPan Valencia Pro 10-inch skillet](https://www.amazon.com/GreenPan-Valencia-Pro-10-Inch-Frying-Pan/dp/B00K6G9GI0/?tag=kitchenpot-20) is hard-anodized underneath and rated oven-safe to 600°F.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B009HBKQ16/?tag=kitchenpot-20) [Read Owner Reviews](https://www.amazon.com/product-reviews/B009HBKQ16/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Tramontina-Professional-10-Inch-Nonstick-Fry-Pan/dp/B009HBKQ16/?tag=kitchenpot-20) [Read Owner Reviews](https://www.amazon.com/Tramontina-Professional-10-Inch-Nonstick-Fry-Pan/product-reviews/B009HBKQ16/?tag=kitchenpot-20)
 
 ### Replace the Pan When Any of These Are True
 

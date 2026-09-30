@@ -66,14 +66,14 @@ Three of the most-recommended combo grills on the internet are out of production
 
 So this list is short and current. Every grill below sits on its maker's own store right now, with a price next to it.
 
-**The short version:** Buy the [Char-Griller FlexFuel Plus](https://www.amazon.com/dp/B0F67M4QP8/?tag=kitchenpot-20) if you want one grill that covers propane, charcoal and a flat-top griddle for $549.99. The buying rule that matters most: check whether the model has two lids or one, because that single detail decides whether you can run gas and charcoal at the same time.
+**The short version:** Buy the [Char-Griller FlexFuel Plus](https://www.amazon.com/Char-Griller-FlexFuel-Plus-Grill-Griddle-and-Smoker/dp/B0F67M4QP8/?tag=kitchenpot-20) if you want one grill that covers propane, charcoal and a flat-top griddle for $549.99. The buying rule that matters most: check whether the model has two lids or one, because that single detail decides whether you can run gas and charcoal at the same time.
 
 ## Our Picks at a Glance
 
-- **Best overall:** [Char-Griller FlexFuel Plus Grill, Griddle and Smoker](https://www.amazon.com/dp/B0F67M4QP8/?tag=kitchenpot-20)
-- **Best for big cookouts:** [Char-Griller Texas Trio](https://www.amazon.com/dp/B07CG2XPKF/?tag=kitchenpot-20)
-- **Best mid-size pick:** [Char-Griller Dual Function 2-Burner E5030](https://www.amazon.com/dp/B07TBPJ4PJ/?tag=kitchenpot-20)
-- **Best gas-first pick:** [Nexgrill 4-Burner with Charcoal Tray](https://www.amazon.com/dp/B0FB74CN9R/?tag=kitchenpot-20)
+- **Best overall:** [Char-Griller FlexFuel Plus Grill, Griddle and Smoker](https://www.amazon.com/Char-Griller-FlexFuel-Plus-Grill-Griddle-and-Smoker/dp/B0F67M4QP8/?tag=kitchenpot-20)
+- **Best for big cookouts:** [Char-Griller Texas Trio](https://www.amazon.com/Char-Griller-Texas-Trio/dp/B07CG2XPKF/?tag=kitchenpot-20)
+- **Best mid-size pick:** [Char-Griller Dual Function 2-Burner E5030](https://www.amazon.com/Char-Griller-Dual-Function-2-Burner-E5030/dp/B07TBPJ4PJ/?tag=kitchenpot-20)
+- **Best gas-first pick:** [Nexgrill 4-Burner with Charcoal Tray](https://www.amazon.com/Nexgrill-4-Burner-with-Charcoal-Tray/dp/B0FB74CN9R/?tag=kitchenpot-20)
 
 ## How the Four Compare
 
@@ -84,7 +84,7 @@ So this list is short and current. Every grill below sits on its maker's own sto
 | Char-Griller E5030 | 600 / 870 sq in | 24,000 | Two | $399.99 |
 | Nexgrill 720-1141 | 461 / 621 sq in | 60,000 with side burner | One | $399.00 |
 
-## 1. [Char-Griller FlexFuel Plus Grill, Griddle and Smoker](https://www.amazon.com/dp/B0F67M4QP8/?tag=kitchenpot-20): Best Overall
+## 1. [Char-Griller FlexFuel Plus Grill, Griddle and Smoker](https://www.amazon.com/Char-Griller-FlexFuel-Plus-Grill-Griddle-and-Smoker/dp/B0F67M4QP8/?tag=kitchenpot-20): Best Overall
 
 - **Type:** Two-chamber dual fuel with a flat-top griddle insert
 - **Model:** CG30281224
@@ -114,9 +114,9 @@ Char-Griller lists a 5-year warranty on this model. That is longer than the 1-ye
 
 **Who should buy it:** Anyone buying one outdoor cooker to do everything. The griddle alone replaces a separate flat-top, and it works for the same jobs as a [griddle pan for pancakes](/blog/best-griddle-pan-for-pancakes/) indoors, only much bigger. Griddle surfaces need their own cleaning habit, and the routine in our guide to [cleaning an electric griddle](/blog/how-to-clean-electric-griddle/) transfers over.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0F67M4QP8/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Char-Griller-FlexFuel-Plus-Grill-Griddle-and-Smoker/dp/B0F67M4QP8/?tag=kitchenpot-20)
 
-## 2. [Char-Griller Texas Trio](https://www.amazon.com/dp/B07CG2XPKF/?tag=kitchenpot-20): Best for Big Cookouts
+## 2. [Char-Griller Texas Trio](https://www.amazon.com/Char-Griller-Texas-Trio/dp/B07CG2XPKF/?tag=kitchenpot-20): Best for Big Cookouts
 
 - **Type:** Two-chamber dual fuel with side burner and offset firebox
 - **Model:** 3070
@@ -146,9 +146,9 @@ Size is the catch. This grill weighs 204.4 pounds and runs 74.9 inches wide. Onc
 
 **Who should buy it:** Someone who hosts often and wants smoking, grilling and a burner in one machine. Long cooks need temperature data, so pair it with something from our list of the [best meat thermometer for smoking](/blog/best-meat-thermometer-for-smoking/). Probes pick up raw-meat residue in the seams, so [clean the thermometer properly](/blog/how-to-clean-a-meat-thermometer/) between cooks rather than wiping it on a towel.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07CG2XPKF/?tag=kitchenpot-20) [Shop Rubs at Grill Masters Club](https://www.awin1.com/cread.php?awinmid=81261&awinaffid=1956629&clickref=best-gas-and-charcoal-grill-combo&ued=https%3A%2F%2Fgrillmastersclub.com%2Fcollections%2Fbbq-sauces-rubs)
+[Check Price on Amazon](https://www.amazon.com/Char-Griller-Texas-Trio/dp/B07CG2XPKF/?tag=kitchenpot-20) [Shop Rubs at Grill Masters Club](https://www.awin1.com/cread.php?awinmid=81261&awinaffid=1956629&clickref=best-gas-and-charcoal-grill-combo&ued=https%3A%2F%2Fgrillmastersclub.com%2Fcollections%2Fbbq-sauces-rubs)
 
-## 3. [Char-Griller Dual Function 2-Burner E5030](https://www.amazon.com/dp/B07TBPJ4PJ/?tag=kitchenpot-20): Best Mid-Size Pick
+## 3. [Char-Griller Dual Function 2-Burner E5030](https://www.amazon.com/Char-Griller-Dual-Function-2-Burner-E5030/dp/B07TBPJ4PJ/?tag=kitchenpot-20): Best Mid-Size Pick
 
 - **Type:** Two-chamber dual fuel, gas and charcoal side by side
 - **Model:** E5030
@@ -178,9 +178,9 @@ Gas output is the honest weak point. 24,000 BTU across two burners preheats slow
 
 **Who should buy it:** Someone with a patio rather than a yard, who still wants two independent chambers. Clearances matter more at this size than people expect, and our walkthrough on [setting up a small patio for grilling](/blog/how-to-set-up-a-small-patio-for-grilling/) covers them before the box arrives. If the space is tighter still, look at the [best small grills for balconies and patios](/blog/best-small-grills-for-balconies-and-patios/) instead.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07TBPJ4PJ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Char-Griller-Dual-Function-2-Burner-E5030/dp/B07TBPJ4PJ/?tag=kitchenpot-20)
 
-## 4. [Nexgrill 4-Burner with Charcoal Tray](https://www.amazon.com/dp/B0FB74CN9R/?tag=kitchenpot-20): Best Gas-First Pick
+## 4. [Nexgrill 4-Burner with Charcoal Tray](https://www.amazon.com/Nexgrill-4-Burner-with-Charcoal-Tray/dp/B0FB74CN9R/?tag=kitchenpot-20): Best Gas-First Pick
 
 - **Type:** Convertible hybrid, one chamber with a removable charcoal tray
 - **Model:** 720-1141
@@ -210,7 +210,7 @@ The trade-off is charcoal control. With coals sitting over the burners in one ch
 
 **Who should buy it:** A gas griller who wants charcoal available without a second grill. If almost every cook will be propane, this is the honest pick. Renters should read the [balcony grilling safety rules](/blog/balcony-grilling-safety-tips-and-rules/) first, because many buildings ban charcoal outright even when propane is allowed.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0FB74CN9R/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nexgrill-4-Burner-with-Charcoal-Tray/dp/B0FB74CN9R/?tag=kitchenpot-20)
 
 ## How We Chose These Picks
 

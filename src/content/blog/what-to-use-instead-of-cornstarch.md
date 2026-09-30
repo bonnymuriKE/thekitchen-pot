@@ -94,7 +94,7 @@ Pies are a different challenge. The filling has to thicken in the oven, hold a c
 | Tapioca starch | Glossy, clear | ATK notes it stays supple longer than cornstarch |
 | Arrowroot | Clear gel that doesn't weep with acid | Best in pies served at room temperature, not reheated |
 
-King Arthur Baking compared thickeners in fruit pies and named **Instant ClearJel** a co-winner (alongside its own Pie Filling Enhancer), calling the result juicy without being gummy or starchy, and clear enough to let the fruit color show. Instant ClearJel is a modified cornstarch, so it's not a fix if you're avoiding corn, but it is a solid upgrade if you just prefer a clearer filling. It's sold by King Arthur and on [Amazon](https://www.amazon.com/dp/B0BJYRF9S5/?tag=kitchenpot-20).
+King Arthur Baking compared thickeners in fruit pies and named **Instant ClearJel** a co-winner (alongside its own Pie Filling Enhancer), calling the result juicy without being gummy or starchy, and clear enough to let the fruit color show. Instant ClearJel is a modified cornstarch, so it's not a fix if you're avoiding corn, but it is a solid upgrade if you just prefer a clearer filling. It's sold by King Arthur and on [Amazon](https://www.amazon.com/What-Works-in-Fruit-Pie-Filling/dp/B0BJYRF9S5/?tag=kitchenpot-20).
 
 If you're avoiding corn entirely, **tapioca starch** and **arrowroot** are the best bets. The Kitchn says arrowroot "sets a beautiful gel in pie fillings" and "doesn't weep when mixed with acid," which matters with berries and rhubarb. The Washington Post describes tapioca as giving fruit juices "a glossy shine."
 

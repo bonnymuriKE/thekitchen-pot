@@ -56,12 +56,12 @@ If you've been fighting this problem with organizers rather than cookware, our w
 
 ## Quick Picks: The Best Stackable Pots and Pans
 
-- **Best overall:** [Calphalon Premier Space-Saving Stainless Steel 10-Piece Set](https://www.amazon.com/dp/B071KP5W84/?tag=kitchenpot-20)
-- **Best removable-handle set:** [T-fal Ingenio Expertise 14-Piece Set](https://www.amazon.com/dp/B0BTQVDDST/?tag=kitchenpot-20)
-- **Best PFAS-free ceramic:** [GreenPan Levels Stackable 11-Piece Set](https://www.amazon.com/dp/B07RXLCVXL/?tag=kitchenpot-20)
-- **Best nonstick durability:** [Ninja NeverStick Premium 10-Piece Nesting Set](https://www.amazon.com/dp/B09B7TP5KR/?tag=kitchenpot-20)
-- **Best budget pick:** [CAROTE 11-Piece Detachable Handle Set](https://www.amazon.com/dp/B0C9TLY3SB/?tag=kitchenpot-20)
-- **Best for RVs, boats and tiny kitchens:** [Magma Nesting 10-Piece Induction Set](https://www.amazon.com/dp/B01CN7JIOG/?tag=kitchenpot-20)
+- **Best overall:** [Calphalon Premier Space-Saving Stainless Steel 10-Piece Set](https://www.amazon.com/Calphalon-Premier-Space-Saving-Stainless-Steel-10-Piece-Set/dp/B071KP5W84/?tag=kitchenpot-20)
+- **Best removable-handle set:** [T-fal Ingenio Expertise 14-Piece Set](https://www.amazon.com/T-fal-Ingenio-Expertise-14-Piece-Set/dp/B0BTQVDDST/?tag=kitchenpot-20)
+- **Best PFAS-free ceramic:** [GreenPan Levels Stackable 11-Piece Set](https://www.amazon.com/GreenPan-Levels-Stackable-11-Piece-Set/dp/B07RXLCVXL/?tag=kitchenpot-20)
+- **Best nonstick durability:** [Ninja NeverStick Premium 10-Piece Nesting Set](https://www.amazon.com/Ninja-NeverStick-Premium-10-Piece-Nesting-Set/dp/B09B7TP5KR/?tag=kitchenpot-20)
+- **Best budget pick:** [CAROTE 11-Piece Detachable Handle Set](https://www.amazon.com/CAROTE-11-Piece-Detachable-Handle-Set/dp/B0C9TLY3SB/?tag=kitchenpot-20)
+- **Best for RVs, boats and tiny kitchens:** [Magma Nesting 10-Piece Induction Set](https://www.amazon.com/Magma-Nesting-10-Piece-Induction-Set/dp/B01CN7JIOG/?tag=kitchenpot-20)
 
 ## Comparison Table
 
@@ -111,7 +111,7 @@ The 6-quart stockpot is the piece small-kitchen owners underestimate. It handles
 
 **Who should buy it:** Anyone who cooks most nights, has a normal-height cabinet rather than a drawer, and wants one purchase to last.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B071KP5W84/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Calphalon-Premier-Space-Saving-Stainless-Steel-10-Piece-Set/dp/B071KP5W84/?tag=kitchenpot-20)
 
 ## 2. T-fal Ingenio Expertise 14-Piece Set: Best Removable-Handle Set
 
@@ -144,7 +144,7 @@ The wok pan earns its place. It handles stir-fries, big vegetable sautés and on
 
 **Who should buy it:** Studio, dorm and first-apartment cooks, RV owners, and anyone storing pans in a drawer rather than a cupboard.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BTQVDDST/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/T-fal-Ingenio-Expertise-14-Piece-Set/dp/B0BTQVDDST/?tag=kitchenpot-20)
 
 ## 3. GreenPan Levels Stackable 11-Piece Set: Best PFAS-Free Ceramic
 
@@ -175,7 +175,7 @@ Ceramic coatings behave differently from PTFE. They release beautifully when new
 
 **Who should buy it:** Cooks on gas or electric who want nonstick without PTFE and want the set to store as one block. If you want more ceramic options first, see our roundup of the [best ceramic cookware sets](/blog/best-ceramic-cookware-set/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07RXLCVXL/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/GreenPan-Levels-Stackable-11-Piece-Set/dp/B07RXLCVXL/?tag=kitchenpot-20)
 
 ## 4. Ninja NeverStick Premium 10-Piece Nesting Set: Best Nonstick Durability
 
@@ -206,7 +206,7 @@ The coating itself is Ninja's selling point. NeverStick is applied at high tempe
 
 **Who should buy it:** People who prefer nonstick, cook at higher heat than nonstick usually allows, and have had stacked pans scratch before.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09B7TP5KR/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-NeverStick-Premium-10-Piece-Nesting-Set/dp/B09B7TP5KR/?tag=kitchenpot-20)
 
 ## 5. CAROTE 11-Piece Detachable Handle Set: Best Budget Pick
 
@@ -237,7 +237,7 @@ Set expectations on the coating. This is inexpensive nonstick, and inexpensive n
 
 **Who should buy it:** Renters, students, campers and anyone furnishing a kitchen cheaply who still wants the nesting trick.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0C9TLY3SB/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/CAROTE-11-Piece-Detachable-Handle-Set/dp/B0C9TLY3SB/?tag=kitchenpot-20)
 
 ## 6. Magma Nesting 10-Piece Induction Set: Best for RVs, Boats and Tiny Kitchens
 
@@ -268,7 +268,7 @@ That marine pedigree brings side benefits. The stainless exterior is far tougher
 
 **Who should buy it:** RV and boat owners, and anyone whose entire cookware storage is one narrow cupboard.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01CN7JIOG/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Magma-Nesting-10-Piece-Induction-Set/dp/B01CN7JIOG/?tag=kitchenpot-20)
 
 ## How Much Space Do You Actually Save?
 
@@ -321,12 +321,12 @@ For stainless specifically, a light seasoning routine cuts down on sticking and 
 
 ## Which Stackable Set Should You Buy?
 
-- **You cook most nights and want it to last:** the [Calphalon Premier Space-Saving stainless set](https://www.amazon.com/dp/B071KP5W84/?tag=kitchenpot-20).
-- **Your pans have to live in a drawer:** the [T-fal Ingenio Expertise set](https://www.amazon.com/dp/B0BTQVDDST/?tag=kitchenpot-20).
-- **You want nonstick without PTFE:** the [GreenPan Levels set](https://www.amazon.com/dp/B07RXLCVXL/?tag=kitchenpot-20).
-- **You've scratched stacked nonstick before:** the [Ninja NeverStick Premium set](https://www.amazon.com/dp/B09B7TP5KR/?tag=kitchenpot-20).
-- **You're furnishing cheaply:** the [CAROTE detachable-handle set](https://www.amazon.com/dp/B0C9TLY3SB/?tag=kitchenpot-20).
-- **You're in an RV, a boat or a galley kitchen:** the [Magma nesting set](https://www.amazon.com/dp/B01CN7JIOG/?tag=kitchenpot-20).
+- **You cook most nights and want it to last:** the [Calphalon Premier Space-Saving stainless set](https://www.amazon.com/Calphalon-Premier-Space-Saving-Stainless-Steel-10-Piece-Set/dp/B071KP5W84/?tag=kitchenpot-20).
+- **Your pans have to live in a drawer:** the [T-fal Ingenio Expertise set](https://www.amazon.com/T-fal-Ingenio-Expertise-14-Piece-Set/dp/B0BTQVDDST/?tag=kitchenpot-20).
+- **You want nonstick without PTFE:** the [GreenPan Levels set](https://www.amazon.com/GreenPan-Levels-Stackable-11-Piece-Set/dp/B07RXLCVXL/?tag=kitchenpot-20).
+- **You've scratched stacked nonstick before:** the [Ninja NeverStick Premium set](https://www.amazon.com/Ninja-NeverStick-Premium-10-Piece-Nesting-Set/dp/B09B7TP5KR/?tag=kitchenpot-20).
+- **You're furnishing cheaply:** the [CAROTE detachable-handle set](https://www.amazon.com/CAROTE-11-Piece-Detachable-Handle-Set/dp/B0C9TLY3SB/?tag=kitchenpot-20).
+- **You're in an RV, a boat or a galley kitchen:** the [Magma nesting set](https://www.amazon.com/Magma-Nesting-10-Piece-Induction-Set/dp/B01CN7JIOG/?tag=kitchenpot-20).
 
 One more option worth knowing about: if your real problem is owning too many pans rather than pans that don't stack, a small, high-quality set solves it differently. Goldilocks sells a seven-piece fully clad tri-ply set with a 304 stainless interior, an aluminum core and a 550°F oven rating, built around four vessels instead of seven. Fewer pans means less stacking to worry about, and it pairs naturally with the [countertop organization ideas](/blog/countertop-organization-ideas-for-a-small-kitchen/) that keep a small kitchen workable.
 

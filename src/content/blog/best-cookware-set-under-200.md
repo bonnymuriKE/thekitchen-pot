@@ -42,12 +42,12 @@ A note on prices: cookware prices change constantly, and many of these sets swin
 
 ## Our Top Picks at a Glance
 
-- **Best overall:** [Cuisinart MultiClad Pro 12-Piece Stainless Steel Set](https://www.amazon.com/dp/B009JXPS6U/?tag=kitchenpot-20)
-- **Best value stainless steel:** [Tramontina Tri-Ply Clad 8-Piece Set](https://www.amazon.com/dp/B096N4DML7/?tag=kitchenpot-20)
-- **Best traditional nonstick:** [T-fal Ultimate Hard Anodized 12-Piece Set](https://www.amazon.com/dp/B004KSN8XY/?tag=kitchenpot-20)
-- **Best ceramic nonstick (PTFE-free):** [Ninja Extended Life Premium Ceramic 9-Piece Set](https://www.amazon.com/dp/B0C7YKWGH2/?tag=kitchenpot-20)
-- **Best for small kitchens:** [T-fal Ingenio Expertise 14-Piece Set](https://www.amazon.com/dp/B0BTQVDDST/?tag=kitchenpot-20)
-- **Best cheap starter set:** [GreenLife Soft Grip 16-Piece Set](https://www.amazon.com/dp/B08CY4VVWH/?tag=kitchenpot-20)
+- **Best overall:** [Cuisinart MultiClad Pro 12-Piece Stainless Steel Set](https://www.amazon.com/Cuisinart-MultiClad-Pro-12-Piece-Stainless-Steel-Set/dp/B009JXPS6U/?tag=kitchenpot-20)
+- **Best value stainless steel:** [Tramontina Tri-Ply Clad 8-Piece Set](https://www.amazon.com/Tramontina-Tri-Ply-Clad-8-Piece-Set/dp/B096N4DML7/?tag=kitchenpot-20)
+- **Best traditional nonstick:** [T-fal Ultimate Hard Anodized 12-Piece Set](https://www.amazon.com/T-fal-Ultimate-Hard-Anodized-12-Piece-Set/dp/B004KSN8XY/?tag=kitchenpot-20)
+- **Best ceramic nonstick (PTFE-free):** [Ninja Extended Life Premium Ceramic 9-Piece Set](https://www.amazon.com/Ninja-Extended-Life-Premium-Ceramic-9-Piece-Set/dp/B0C7YKWGH2/?tag=kitchenpot-20)
+- **Best for small kitchens:** [T-fal Ingenio Expertise 14-Piece Set](https://www.amazon.com/T-fal-Ingenio-Expertise-14-Piece-Set/dp/B0BTQVDDST/?tag=kitchenpot-20)
+- **Best cheap starter set:** [GreenLife Soft Grip 16-Piece Set](https://www.amazon.com/GreenLife-Soft-Grip-16-Piece-Set/dp/B08CY4VVWH/?tag=kitchenpot-20)
 
 ## Best Cookware Sets Under $200: Comparison Table
 
@@ -91,7 +91,7 @@ What that means in your kitchen is even heat. Aluminum spreads heat quickly, so 
 
 For a deeper look, read our full [Cuisinart MCP-12N MultiClad Pro review](/blog/cuisinart-mcp-12n-multiclad-pro-stainless-steel-12-piece-cookware-set/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B009JXPS6U/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-MultiClad-Pro-12-Piece-Stainless-Steel-Set/dp/B009JXPS6U/?tag=kitchenpot-20)
 
 ## 2. Tramontina Tri-Ply Clad 8-Piece Set: Best Value Stainless Steel
 
@@ -120,7 +120,7 @@ Eight pieces sounds small next to the 16-piece boxes on store shelves, but look 
 
 **Who should buy it:** Budget-conscious cooks who want stainless steel that will last, and anyone in a smaller home who'd rather own fewer, better pans.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B096N4DML7/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Tramontina-Tri-Ply-Clad-8-Piece-Set/dp/B096N4DML7/?tag=kitchenpot-20)
 
 ## 3. T-fal Ultimate Hard Anodized 12-Piece Set: Best Traditional Nonstick
 
@@ -150,7 +150,7 @@ The feature people either love or ignore is T-fal's Thermo-Spot. It's a red circ
 
 **Who should buy it:** Busy cooks who value easy cleanup and cook a lot of eggs, fish and one-pan meals on a gas or electric stove.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B004KSN8XY/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/T-fal-Ultimate-Hard-Anodized-12-Piece-Set/dp/B004KSN8XY/?tag=kitchenpot-20)
 
 ## 4. Ninja Extended Life Premium Ceramic 9-Piece Set: Best PTFE-Free Nonstick
 
@@ -182,7 +182,7 @@ Reviewed picked this as its best ceramic nonstick set, noting it stays "consiste
 
 If you're weighing ceramic against other materials, our guide to [stainless steel vs ceramic cookware](/blog/stainless-steel-vs-ceramic-cookware/) explains the tradeoffs, and our roundup of the [best ceramic cookware sets](/blog/best-ceramic-cookware-set/) covers more options.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0C7YKWGH2/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Extended-Life-Premium-Ceramic-9-Piece-Set/dp/B0C7YKWGH2/?tag=kitchenpot-20)
 
 ## 5. T-fal Ingenio Expertise 14-Piece Set: Best for Small Kitchens
 
@@ -212,7 +212,7 @@ That design pays off in other ways too. With the handle off, pans go straight fr
 
 **Who should buy it:** Anyone in a studio, a first apartment, a dorm-style kitchen, an RV, or any home where cabinet space is the main problem. It pairs perfectly with our guide to [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/), and if you like the idea, we cover more options in our list of [stackable pots and pans](/blog/7-best-stackable-pots-and-pans/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BTQVDDST/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/T-fal-Ingenio-Expertise-14-Piece-Set/dp/B0BTQVDDST/?tag=kitchenpot-20)
 
 ## 6. GreenLife Soft Grip 16-Piece Set: Best Cheap Starter Set
 
@@ -243,7 +243,7 @@ The set also comes in a long list of bright colors, which is part of why it's so
 
 **Who should buy it:** Students, first-time renters, and anyone who wants a full set of nonstick pans for as little money as possible.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08CY4VVWH/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/GreenLife-Soft-Grip-16-Piece-Set/dp/B08CY4VVWH/?tag=kitchenpot-20)
 
 ## How to Choose the Best Cookware Set Under $200
 
@@ -318,12 +318,12 @@ Cheap cookware doesn't have to feel cheap after six months. A few habits make a 
 
 ## Which Cookware Set Should You Buy?
 
-- **You cook most nights and want something that lasts:** [Cuisinart MultiClad Pro](https://www.amazon.com/dp/B009JXPS6U/?tag=kitchenpot-20), especially when it's on sale.
-- **You want stainless steel on a tight budget:** [Tramontina Tri-Ply Clad 8-Piece](https://www.amazon.com/dp/B096N4DML7/?tag=kitchenpot-20).
-- **You want easy cleanup and cook a lot of eggs and fish:** [T-fal Ultimate Hard Anodized](https://www.amazon.com/dp/B004KSN8XY/?tag=kitchenpot-20).
-- **You want nonstick without PTFE, or you have induction:** [Ninja Extended Life Ceramic](https://www.amazon.com/dp/B0C7YKWGH2/?tag=kitchenpot-20).
-- **Your kitchen is tiny:** [T-fal Ingenio Expertise](https://www.amazon.com/dp/B0BTQVDDST/?tag=kitchenpot-20).
-- **You're furnishing a first apartment for as little as possible:** [GreenLife Soft Grip](https://www.amazon.com/dp/B08CY4VVWH/?tag=kitchenpot-20).
+- **You cook most nights and want something that lasts:** [Cuisinart MultiClad Pro](https://www.amazon.com/Cuisinart-MultiClad-Pro-12-Piece-Stainless-Steel-Set/dp/B009JXPS6U/?tag=kitchenpot-20), especially when it's on sale.
+- **You want stainless steel on a tight budget:** [Tramontina Tri-Ply Clad 8-Piece](https://www.amazon.com/Tramontina-Tri-Ply-Clad-8-Piece-Set/dp/B096N4DML7/?tag=kitchenpot-20).
+- **You want easy cleanup and cook a lot of eggs and fish:** [T-fal Ultimate Hard Anodized](https://www.amazon.com/T-fal-Ultimate-Hard-Anodized-12-Piece-Set/dp/B004KSN8XY/?tag=kitchenpot-20).
+- **You want nonstick without PTFE, or you have induction:** [Ninja Extended Life Ceramic](https://www.amazon.com/Ninja-Extended-Life-Premium-Ceramic-9-Piece-Set/dp/B0C7YKWGH2/?tag=kitchenpot-20).
+- **Your kitchen is tiny:** [T-fal Ingenio Expertise](https://www.amazon.com/T-fal-Ingenio-Expertise-14-Piece-Set/dp/B0BTQVDDST/?tag=kitchenpot-20).
+- **You're furnishing a first apartment for as little as possible:** [GreenLife Soft Grip](https://www.amazon.com/GreenLife-Soft-Grip-16-Piece-Set/dp/B08CY4VVWH/?tag=kitchenpot-20).
 
 If none of these feel quite right and you're willing to stretch the budget, our [All-Clad D3 review](/blog/all-clad-d3-cookware-set-review/) covers what you get when you step up to a premium stainless set.
 

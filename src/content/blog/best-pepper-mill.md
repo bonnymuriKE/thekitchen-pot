@@ -43,12 +43,12 @@ Below are six current mills worth your money, plus a plain explanation of how th
 
 ## Quick Picks
 
-- **Best overall:** [Cole & Mason Derwent Pepper Mill](https://www.amazon.com/dp/B003OICYZO/?tag=kitchenpot-20)
-- **Best for life:** [Peugeot Paris u'Select 9-Inch Pepper Mill](https://www.amazon.com/dp/B000RAC7U4/?tag=kitchenpot-20)
-- **Best for heavy pepper users:** [MANNKITCHEN Pepper Cannon](https://www.amazon.com/dp/B09T7BWJNP/?tag=kitchenpot-20)
-- **Best value workhorse:** [Unicorn Magnum Plus 9-Inch Pepper Mill](https://www.amazon.com/dp/B0000CFB4N/?tag=kitchenpot-20)
-- **Best budget mill:** [OXO Good Grips Contoured Mess-Free Pepper Grinder](https://www.amazon.com/dp/B08DL86ZCQ/?tag=kitchenpot-20)
-- **Best wooden table mill:** [Fletchers' Mill Federal 8-Inch Pepper Mill](https://www.amazon.com/dp/B00DQAYWXC/?tag=kitchenpot-20)
+- **Best overall:** [Cole & Mason Derwent Pepper Mill](https://www.amazon.com/Cole-and-Mason-Derwent-Pepper-Mill/dp/B003OICYZO/?tag=kitchenpot-20)
+- **Best for life:** [Peugeot Paris u'Select 9-Inch Pepper Mill](https://www.amazon.com/Peugeot-Paris-uSelect-9-Inch-Pepper-Mill/dp/B000RAC7U4/?tag=kitchenpot-20)
+- **Best for heavy pepper users:** [MANNKITCHEN Pepper Cannon](https://www.amazon.com/MANNKITCHEN-Pepper-Cannon/dp/B09T7BWJNP/?tag=kitchenpot-20)
+- **Best value workhorse:** [Unicorn Magnum Plus 9-Inch Pepper Mill](https://www.amazon.com/Unicorn-Magnum-Plus-9-Inch-Pepper-Mill/dp/B0000CFB4N/?tag=kitchenpot-20)
+- **Best budget mill:** [OXO Good Grips Contoured Mess-Free Pepper Grinder](https://www.amazon.com/OXO-Good-Grips-Contoured-Mess-Free-Pepper-Grinder/dp/B08DL86ZCQ/?tag=kitchenpot-20)
+- **Best wooden table mill:** [Fletchers' Mill Federal 8-Inch Pepper Mill](https://www.amazon.com/Fletchers-Mill-Federal-8-Inch-Pepper-Mill/dp/B00DQAYWXC/?tag=kitchenpot-20)
 
 ## How a pepper mill actually grinds
 
@@ -113,7 +113,7 @@ This is the mill most kitchens should own. The Derwent pairs a carbon steel pepp
 
 The acrylic window solves a small but constant annoyance: you can see when you are running low instead of discovering it mid-recipe. Refilling means unscrewing the top cap, and the opening is wide enough to pour from a bag without a funnel.
 
-Owner reviews cluster around the same two things. The praise is about even, generous output and easy refilling compared with cheaper mills people replaced. The most common gripe is that the coarsest setting still is not coarse enough for anyone who wants a proper cracked-pepper crust. You can read the [customer review patterns for yourself](https://www.amazon.com/product-reviews/B003OICYZO/?tag=kitchenpot-20) before you commit.
+Owner reviews cluster around the same two things. The praise is about even, generous output and easy refilling compared with cheaper mills people replaced. The most common gripe is that the coarsest setting still is not coarse enough for anyone who wants a proper cracked-pepper crust. You can read the [customer review patterns for yourself](https://www.amazon.com/Cole-and-Mason-Derwent-Pepper-Mill/product-reviews/B003OICYZO/?tag=kitchenpot-20) before you commit.
 
 **What we like:**
 
@@ -132,7 +132,7 @@ Owner reviews cluster around the same two things. The praise is about even, gene
 
 **Who should buy it:** Anyone who wants one good pepper mill that will be on the counter for a decade. It pairs naturally with the sort of everyday gear in our [small kitchen gadgets worth buying](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/) list.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B003OICYZO/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cole-and-Mason-Derwent-Pepper-Mill/dp/B003OICYZO/?tag=kitchenpot-20)
 
 ## 2. Peugeot Paris u'Select 9-Inch Pepper Mill: Best for Life
 
@@ -164,7 +164,7 @@ Two rules keep that guarantee intact. Keep the mill dry, and never put salt in i
 
 **Who should buy it:** Cooks who want a mill they will hand down rather than replace, and anyone who likes a wooden mill on the table next to good [dinnerware](/blog/7-best-dinnerware-sets/) and a well-kept [knife set](/blog/best-knife-set-under-100/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B000RAC7U4/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Peugeot-Paris-uSelect-9-Inch-Pepper-Mill/dp/B000RAC7U4/?tag=kitchenpot-20)
 
 ## 3. MANNKITCHEN Pepper Cannon: Best for Heavy Pepper Users
 
@@ -197,7 +197,7 @@ The removable base cup doubles as a lid and as a catch-cup, so you can grind a p
 
 **Who should buy it:** Anyone who cooks a lot of steak, uses pepper by the tablespoon, or mixes their own rubs. If you are building out a small counter, read our [countertop organization ideas](/blog/countertop-organization-ideas-for-a-small-kitchen/) before you commit the space.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09T7BWJNP/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/MANNKITCHEN-Pepper-Cannon/dp/B09T7BWJNP/?tag=kitchenpot-20)
 
 ## 4. Unicorn Magnum Plus 9-Inch Pepper Mill: Best Value Workhorse
 
@@ -230,7 +230,7 @@ At roughly a third of the Pepper Cannon's price it delivers a good share of the 
 
 **Who should buy it:** Cooks who value output and refill speed over looks, and anyone who has worn out two cheap mills already. It earns its counter space the way a good [meat slicer](/blog/best-meat-slicer-for-home-use/) does: by saving you effort every single time.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0000CFB4N/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Unicorn-Magnum-Plus-9-Inch-Pepper-Mill/dp/B0000CFB4N/?tag=kitchenpot-20)
 
 ## 5. OXO Good Grips Contoured Mess-Free Pepper Grinder: Best Budget Mill
 
@@ -262,7 +262,7 @@ Ceramic is the compromise. It resists corrosion, so OXO sells a matching salt gr
 
 **Who should buy it:** Anyone furnishing a first kitchen, a rental, or a second set for the dining table. It fits the same brief as the rest of our [first-apartment kitchen basics](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/), and it travels well enough to live in a [camping cookware](/blog/best-camping-cookware/) box.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08DL86ZCQ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/OXO-Good-Grips-Contoured-Mess-Free-Pepper-Grinder/dp/B08DL86ZCQ/?tag=kitchenpot-20)
 
 ## 6. Fletchers' Mill Federal 8-Inch Pepper Mill: Best Wooden Table Mill
 
@@ -294,7 +294,7 @@ The 8-inch height is the sweet spot for table use. The 6-inch version is easier 
 
 **Who should buy it:** Cooks who set the table properly and want the mill to be part of it.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00DQAYWXC/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Fletchers-Mill-Federal-8-Inch-Pepper-Mill/dp/B00DQAYWXC/?tag=kitchenpot-20)
 
 ## What to look for in a pepper mill
 
@@ -365,12 +365,12 @@ If the one-handed part matters most to you, look at rechargeable models and matc
 
 ## Which pepper mill should you buy?
 
-- **You want one good mill and you are done thinking about it:** [Cole & Mason Derwent](https://www.amazon.com/dp/B003OICYZO/?tag=kitchenpot-20).
-- **You want to buy once and never again:** [Peugeot Paris u'Select](https://www.amazon.com/dp/B000RAC7U4/?tag=kitchenpot-20).
-- **You use pepper by the spoonful:** [MANNKITCHEN Pepper Cannon](https://www.amazon.com/dp/B09T7BWJNP/?tag=kitchenpot-20).
-- **You want restaurant output for a normal price:** [Unicorn Magnum Plus](https://www.amazon.com/dp/B0000CFB4N/?tag=kitchenpot-20).
-- **You want something decent for under $30:** [OXO Contoured Mess-Free](https://www.amazon.com/dp/B08DL86ZCQ/?tag=kitchenpot-20).
-- **You want wood on the table:** [Fletchers' Mill Federal](https://www.amazon.com/dp/B00DQAYWXC/?tag=kitchenpot-20).
+- **You want one good mill and you are done thinking about it:** [Cole & Mason Derwent](https://www.amazon.com/Cole-and-Mason-Derwent-Pepper-Mill/dp/B003OICYZO/?tag=kitchenpot-20).
+- **You want to buy once and never again:** [Peugeot Paris u'Select](https://www.amazon.com/Peugeot-Paris-uSelect-9-Inch-Pepper-Mill/dp/B000RAC7U4/?tag=kitchenpot-20).
+- **You use pepper by the spoonful:** [MANNKITCHEN Pepper Cannon](https://www.amazon.com/MANNKITCHEN-Pepper-Cannon/dp/B09T7BWJNP/?tag=kitchenpot-20).
+- **You want restaurant output for a normal price:** [Unicorn Magnum Plus](https://www.amazon.com/Unicorn-Magnum-Plus-9-Inch-Pepper-Mill/dp/B0000CFB4N/?tag=kitchenpot-20).
+- **You want something decent for under $30:** [OXO Contoured Mess-Free](https://www.amazon.com/OXO-Good-Grips-Contoured-Mess-Free-Pepper-Grinder/dp/B08DL86ZCQ/?tag=kitchenpot-20).
+- **You want wood on the table:** [Fletchers' Mill Federal](https://www.amazon.com/Fletchers-Mill-Federal-8-Inch-Pepper-Mill/dp/B00DQAYWXC/?tag=kitchenpot-20).
 
 One more thing worth doing tonight: grind a little pepper onto a white plate at your current setting and look at it. If it is a mix of dust and gravel, the burr is worn or the mill was never up to much, and any mill on this page will be an upgrade.
 

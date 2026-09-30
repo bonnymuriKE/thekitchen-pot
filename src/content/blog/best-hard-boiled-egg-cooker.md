@@ -37,7 +37,7 @@ faq:
 ---
 An egg cooker isn't a novelty gadget pretending to solve a problem you don't have. It solves a real one: the same pot of eggs comes out different every time, because pot size, water volume and how long you leave them sitting all change the result. An egg cooker removes every one of those variables.
 
-> **Quick answer:** For most households, the [Dash Rapid Egg Cooker](https://www.amazon.com/dp/B00DDXWFY0/?tag=kitchenpot-20) is the one to buy. It's 360 watts, it holds six eggs, it costs about $20, and it shuts itself off. If you're cooking for more than two people, step up to the 14-egg [BELLA Double Tier](https://www.amazon.com/dp/B08P26GF9C/?tag=kitchenpot-20).
+> **Quick answer:** For most households, the [Dash Rapid Egg Cooker](https://www.amazon.com/Dash-Rapid-Egg-Cooker/dp/B00DDXWFY0/?tag=kitchenpot-20) is the one to buy. It's 360 watts, it holds six eggs, it costs about $20, and it shuts itself off. If you're cooking for more than two people, step up to the 14-egg [BELLA Double Tier](https://www.amazon.com/BELLA-Double-Tier-14-Egg-Cooker/dp/B08P26GF9C/?tag=kitchenpot-20).
 
 These machines are also why so many people find the eggs easier to peel. Steam works its way between the shell and the membrane faster than boiling water, and the piercing pin built into the measuring cup makes a small hole that stops the white pressing against the shell as it sets. Below are six worth buying, how the steam method works, and how long the results keep. If poached eggs are what you're really after, our guide on [using egg poachers](/blog/how-to-use-egg-poachers/) covers a different tool for that job.
 
@@ -53,12 +53,12 @@ It also explains two common complaints. Eggs that come out under-done usually me
 
 ## Top Picks at a Glance
 
-- **Best overall:** [Dash Rapid Egg Cooker](https://www.amazon.com/dp/B00DDXWFY0/?tag=kitchenpot-20)
-- **Best under $20:** [Elite Gourmet EGC-007 Rapid Egg Cooker](https://www.amazon.com/dp/B00F0RDRFS/?tag=kitchenpot-20)
-- **Best stainless steel build:** [Cuisinart CEC-10 Egg Central](https://www.amazon.com/dp/B008XBADDM/?tag=kitchenpot-20)
-- **Best for meal prep batches:** [BELLA Double Tier 14-Egg Cooker](https://www.amazon.com/dp/B08P26GF9C/?tag=kitchenpot-20)
-- **Best for eggs and steamed sides:** [Dash Deluxe Rapid Egg Cooker](https://www.amazon.com/dp/B092DTX7CT/?tag=kitchenpot-20)
-- **Best stainless alternative:** [BUYDEEM G32 Electric Food Steamer](https://www.amazon.com/dp/B0DF2TDT78/?tag=kitchenpot-20)
+- **Best overall:** [Dash Rapid Egg Cooker](https://www.amazon.com/Dash-Rapid-Egg-Cooker/dp/B00DDXWFY0/?tag=kitchenpot-20)
+- **Best under $20:** [Elite Gourmet EGC-007 Rapid Egg Cooker](https://www.amazon.com/Elite-Gourmet-EGC-007-Rapid-Egg-Cooker/dp/B00F0RDRFS/?tag=kitchenpot-20)
+- **Best stainless steel build:** [Cuisinart CEC-10 Egg Central](https://www.amazon.com/Cuisinart-CEC-10-Egg-Central/dp/B008XBADDM/?tag=kitchenpot-20)
+- **Best for meal prep batches:** [BELLA Double Tier 14-Egg Cooker](https://www.amazon.com/BELLA-Double-Tier-14-Egg-Cooker/dp/B08P26GF9C/?tag=kitchenpot-20)
+- **Best for eggs and steamed sides:** [Dash Deluxe Rapid Egg Cooker](https://www.amazon.com/Dash-Deluxe-Rapid-Egg-Cooker/dp/B092DTX7CT/?tag=kitchenpot-20)
+- **Best stainless alternative:** [BUYDEEM G32 Electric Food Steamer](https://www.amazon.com/Top-Picks-at-a-Glance/dp/B0DF2TDT78/?tag=kitchenpot-20)
 
 ## Comparison Table
 
@@ -114,7 +114,7 @@ The trays are the other quiet strength. The poaching tray does two eggs at a tim
 
 **Who should buy it:** Anyone cooking for one or two, students, and anyone who wants to try an egg cooker without committing much money. It slots neatly into the setups described in our checklist on [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00DDXWFY0/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Dash-Rapid-Egg-Cooker/dp/B00DDXWFY0/?tag=kitchenpot-20)
 
 ## 2. Elite Gourmet EGC-007: Best Under $20
 
@@ -147,7 +147,7 @@ What you give up is refinement. The buzzer is loud, the plastic is thin, and the
 
 **Who should buy it:** Anyone who wants to spend as little as possible and still get consistent eggs, plus anyone kitting out a dorm or a first apartment. Our list of [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) covers what else belongs on that counter.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00F0RDRFS/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Elite-Gourmet-EGC-007-Rapid-Egg-Cooker/dp/B00F0RDRFS/?tag=kitchenpot-20)
 
 ## 3. Cuisinart CEC-10 Egg Central: Best Stainless Steel Build
 
@@ -180,7 +180,7 @@ The standby mode is a sensible touch. Instead of simply going silent when the wa
 
 **Who should buy it:** Households of two to four, anyone who eats eggs most mornings, and people who would rather buy one good appliance than replace a cheap one twice. If you've been reaching for the stovetop instead, our guide to [using a double boiler](/blog/how-to-use-a-double-boiler/) covers the other gentle-heat egg method worth knowing.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B008XBADDM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-CEC-10-Egg-Central/dp/B008XBADDM/?tag=kitchenpot-20)
 
 ## 4. BELLA Double Tier 14-Egg Cooker: Best for Meal Prep Batches
 
@@ -213,7 +213,7 @@ Everything except the base is dishwasher safe, including the lid, the measuring 
 
 **Who should buy it:** Anyone batch cooking for the week, households of three or more, and people who eat eggs for lunch as well as breakfast. If you're building a wider prep routine, our guide on [how long chicken lasts in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/) covers the other protein people batch alongside eggs.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08P26GF9C/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/BELLA-Double-Tier-14-Egg-Cooker/dp/B08P26GF9C/?tag=kitchenpot-20)
 
 ## 5. Dash Deluxe Rapid Egg Cooker: Best for Eggs and Steamed Sides
 
@@ -244,7 +244,7 @@ Dash keeps the same automatic shut-off and the same measuring cup system as the 
 
 **Who should buy it:** Small households that want eggs and a steamed side from one machine, and anyone short on both cupboard space and burners. If a single burner is the constraint, our roundup of the [best induction cooktops for the money](/blog/best-induction-cooktop-for-the-money/) covers adding one cheaply.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B092DTX7CT/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Dash-Deluxe-Rapid-Egg-Cooker/dp/B092DTX7CT/?tag=kitchenpot-20)
 
 ## 6. BUYDEEM G32 Electric Food Steamer: Best Stainless Alternative
 
@@ -278,7 +278,7 @@ The cost is real: it lists at $139.99, many times what a Dash costs, and at 11 i
 
 **Who should buy it:** Anyone avoiding plastic in cooking, people who steam as a habit rather than an occasion, and small households who'd rather own one well-built appliance than three cheap ones. For the pressure-cooker version of the same multi-tasking argument, read our comparison of the [Instant Pot vs a pressure cooker](/blog/instant-pot-vs-pressure-cooker/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0DF2TDT78/?tag=kitchenpot-20) [Check Price at BUYDEEM](https://www.awin1.com/cread.php?awinmid=101781&awinaffid=1956629&clickref=best-hard-boiled-egg-cooker&ued=https%3A%2F%2Fus.buydeem.com%2Fproducts%2Fg32-mini-electric-food-steamer)
+[Check Price on Amazon](https://www.amazon.com/BUYDEEM-G32-Electric-Food-Steamer/dp/B0DF2TDT78/?tag=kitchenpot-20) [Check Price at BUYDEEM](https://www.awin1.com/cread.php?awinmid=101781&awinaffid=1956629&clickref=best-hard-boiled-egg-cooker&ued=https%3A%2F%2Fus.buydeem.com%2Fproducts%2Fg32-mini-electric-food-steamer)
 
 ## How to Get Good Eggs Out of It
 
@@ -351,12 +351,12 @@ If your cupboards are already full, the honest answer might be that a saucepan a
 
 ## Which Egg Cooker Should You Buy?
 
-- **You cook for one or two and want the safe choice:** [Dash Rapid Egg Cooker](https://www.amazon.com/dp/B00DDXWFY0/?tag=kitchenpot-20).
-- **You want to spend as little as possible:** [Elite Gourmet EGC-007](https://www.amazon.com/dp/B00F0RDRFS/?tag=kitchenpot-20).
-- **You want stainless and a three-year warranty:** [Cuisinart CEC-10 Egg Central](https://www.amazon.com/dp/B008XBADDM/?tag=kitchenpot-20).
-- **You prep a week of eggs at a time:** [BELLA Double Tier 14-Egg Cooker](https://www.amazon.com/dp/B08P26GF9C/?tag=kitchenpot-20).
-- **You want eggs and a steamed side from one machine:** [Dash Deluxe Rapid Egg Cooker](https://www.amazon.com/dp/B092DTX7CT/?tag=kitchenpot-20).
-- **You'd rather steam in stainless than plastic:** [BUYDEEM G32](https://www.amazon.com/dp/B0DF2TDT78/?tag=kitchenpot-20).
+- **You cook for one or two and want the safe choice:** [Dash Rapid Egg Cooker](https://www.amazon.com/Dash-Rapid-Egg-Cooker/dp/B00DDXWFY0/?tag=kitchenpot-20).
+- **You want to spend as little as possible:** [Elite Gourmet EGC-007](https://www.amazon.com/Elite-Gourmet-EGC-007-Rapid-Egg-Cooker/dp/B00F0RDRFS/?tag=kitchenpot-20).
+- **You want stainless and a three-year warranty:** [Cuisinart CEC-10 Egg Central](https://www.amazon.com/Cuisinart-CEC-10-Egg-Central/dp/B008XBADDM/?tag=kitchenpot-20).
+- **You prep a week of eggs at a time:** [BELLA Double Tier 14-Egg Cooker](https://www.amazon.com/BELLA-Double-Tier-14-Egg-Cooker/dp/B08P26GF9C/?tag=kitchenpot-20).
+- **You want eggs and a steamed side from one machine:** [Dash Deluxe Rapid Egg Cooker](https://www.amazon.com/Dash-Deluxe-Rapid-Egg-Cooker/dp/B092DTX7CT/?tag=kitchenpot-20).
+- **You'd rather steam in stainless than plastic:** [BUYDEEM G32](https://www.amazon.com/Which-Egg-Cooker-Should-You-Buy/dp/B0DF2TDT78/?tag=kitchenpot-20).
 
 Start with the cheap one. Buy the Dash or the Elite Gourmet, use it for a fortnight, and see how many eggs you actually cook in a week. If you run out of tray space more than twice, move up to the 14-egg BELLA. If you never fill it, you've spent $15 to find that out. Then spend five minutes with our guide on [cooking rice in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/), because the two machines together cover most of a week's lunches.
 

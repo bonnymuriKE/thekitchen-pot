@@ -76,13 +76,13 @@ The 10-piece is the one most people buy, and it is the best-balanced. Two fry pa
 
 The 14-piece adds that 12-inch pan, a 6-quart sauté and a Dutch oven. It is a lot of cabinet space for one purchase. Before you commit, measure the shelf, then read our notes on [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B005H8KD3E/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/dp/B005H8KD3E/?tag=kitchenpot-20)
 
 ### Buying Pieces One at a Time
 
 Sets are not always the cheaper route. All-Clad sells every D3 piece on its own, and building slowly has two advantages. You only buy sizes you use, and you can spread the cost over a couple of years.
 
-The pieces worth starting with are the [12-inch fry pan with lid](https://www.amazon.com/dp/B00FUF5K8W/?tag=kitchenpot-20) and a 3-quart saucepan. Add the sauté pan next. There is even a [D3 wok](https://www.amazon.com/dp/B004T6BJ56/?tag=kitchenpot-20), though a flat-bottom carbon steel pan from our [wok guide](/blog/best-wok-for-electric-stove/) will out-stir-fry it for a fraction of the price.
+The pieces worth starting with are the [12-inch fry pan with lid](https://www.amazon.com/12-inch-fry-pan-with-lid/dp/B00FUF5K8W/?tag=kitchenpot-20) and a 3-quart saucepan. Add the sauté pan next. There is even a [D3 wok](https://www.amazon.com/D3-wok/dp/B004T6BJ56/?tag=kitchenpot-20), though a flat-bottom carbon steel pan from our [wok guide](/blog/best-wok-for-electric-stove/) will out-stir-fry it for a fraction of the price.
 
 ## The Handle Nobody Agrees On
 
@@ -94,7 +94,7 @@ Plenty of cooks never notice. Smaller hands, shorter cooking sessions and a habi
 
 All-Clad clearly knows. The D3 Everyday line uses the same three-ply body with a rounder comfort-grip handle and a flared pouring rim. It fixes both classic complaints at once, because the standard D3 has no pouring lip and drips down the side when you pour stock.
 
-Two practical suggestions. Hold one in a store before buying a full set. If you cannot, start with a single fry pan and find out how your hand feels after a month. You can read the [owner reviews for the 10-piece set](https://www.amazon.com/product-reviews/B005H8KD3E/?tag=kitchenpot-20) and see how often the handle comes up.
+Two practical suggestions. Hold one in a store before buying a full set. If you cannot, start with a single fry pan and find out how your hand feels after a month. You can read the [owner reviews for the 10-piece set](https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/product-reviews/B005H8KD3E/?tag=kitchenpot-20) and see how often the handle comes up.
 
 ## How It Cooks
 
@@ -162,7 +162,7 @@ What the extra money buys is not magic heat. It is thicker, more consistent bond
 
 The Goldilocks set is the interesting middle ground. It is fully clad, oven safe to 550°F, costs a fraction of D3, and America's Test Kitchen has named it a Best Buy.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B005H8KD3E/?tag=kitchenpot-20) [Check Price at Goldilocks](https://www.awin1.com/cread.php?awinmid=90353&awinaffid=1956629&clickref=all-clad-d3-cookware-set-review&ued=https%3A%2F%2Fcookgoldilocks.com%2Fproducts%2Fcookware-set)
+[Check Price on Amazon](https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/dp/B005H8KD3E/?tag=kitchenpot-20) [Check Price at Goldilocks](https://www.awin1.com/cread.php?awinmid=90353&awinaffid=1956629&clickref=all-clad-d3-cookware-set-review&ued=https%3A%2F%2Fcookgoldilocks.com%2Fproducts%2Fcookware-set)
 
 ## D3 Against All-Clad's Other Lines
 
@@ -216,7 +216,7 @@ It is also overpriced relative to what a good $250 set delivers, and the handle 
 
 If you want it, wait for a sale. D3 sets are discounted often, and a 10-piece set at $800 is a different proposition from one at $1,130. If you would rather spend the difference on a knife or an [induction hob](/blog/best-induction-cooktop-for-the-money/), nobody would blame you.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B004ZR4G6S/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/The-Bottom-Line-on-All-Clad-D3/dp/B004ZR4G6S/?tag=kitchenpot-20)
 
 ## Related Guides
 

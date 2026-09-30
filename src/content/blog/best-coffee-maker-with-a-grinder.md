@@ -44,12 +44,12 @@ Worth knowing before you shop: only two grind-and-brew machines have passed the 
 
 ## Our Quick Picks
 
-- **Best overall:** [Breville Grind Control BDC650BSS](https://www.amazon.com/dp/B00VGGVQCI/?tag=kitchenpot-20)
-- **Best value burr machine:** [Cuisinart DGB-800 Burr Grind & Brew](https://www.amazon.com/dp/B079NM2ZYN/?tag=kitchenpot-20)
-- **Best for precision brewing:** [Café Specialty Grind and Brew](https://www.amazon.com/dp/B0CG2P2J88/?tag=kitchenpot-20)
-- **Best for espresso and milk drinks:** [De'Longhi Magnifica Start](https://www.amazon.com/dp/B0D96XT9BF/?tag=kitchenpot-20)
-- **Best three-in-one:** [Ninja Luxe Café Premier ES601](https://www.amazon.com/dp/B0D45PK5V4/?tag=kitchenpot-20)
-- **Cheapest way in:** [Cuisinart DGB-400NAS Grind & Brew](https://www.amazon.com/dp/B08DCK4MPV/?tag=kitchenpot-20)
+- **Best overall:** [Breville Grind Control BDC650BSS](https://www.amazon.com/Breville-Grind-Control-BDC650BSS/dp/B00VGGVQCI/?tag=kitchenpot-20)
+- **Best value burr machine:** [Cuisinart DGB-800 Burr Grind & Brew](https://www.amazon.com/Cuisinart-DGB-800-Burr-Grind-and-Brew/dp/B079NM2ZYN/?tag=kitchenpot-20)
+- **Best for precision brewing:** [Café Specialty Grind and Brew](https://www.amazon.com/Caf-Specialty-Grind-and-Brew/dp/B0CG2P2J88/?tag=kitchenpot-20)
+- **Best for espresso and milk drinks:** [De'Longhi Magnifica Start](https://www.amazon.com/DeLonghi-Magnifica-Start/dp/B0D96XT9BF/?tag=kitchenpot-20)
+- **Best three-in-one:** [Ninja Luxe Café Premier ES601](https://www.amazon.com/Ninja-Luxe-Caf-Premier-ES601/dp/B0D45PK5V4/?tag=kitchenpot-20)
+- **Cheapest way in:** [Cuisinart DGB-400NAS Grind & Brew](https://www.amazon.com/Cuisinart-DGB-400NAS-Grind-and-Brew/dp/B08DCK4MPV/?tag=kitchenpot-20)
 
 ## Coffee Makers with Grinders Compared
 
@@ -112,7 +112,7 @@ Cleaning is the honest weak spot. The grind chute is narrow, and coffee oil buil
 
 **Who should buy it:** Anyone who wants one machine to make a full pot on Sunday and a single mug on Tuesday. If counter space is tight, measure first, then look at these [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) before you commit.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00VGGVQCI/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Breville-Grind-Control-BDC650BSS/dp/B00VGGVQCI/?tag=kitchenpot-20)
 
 ## 2. Cuisinart DGB-800: Best Value Burr Machine
 
@@ -145,9 +145,9 @@ At 17.3 pounds it is a heavy unit, and Cuisinart lists it at 16.34 inches tall. 
 - The glass carafe sits on a warming plate, and coffee left there for an hour tastes cooked.
 - It is tall, and owner reviews mention grinder noise.
 
-**Who should buy it:** Coffee drinkers who make a pot every morning and want fresh grinding without a $300 machine. It is one of the better value [kitchen appliances](/blog/coolest-kitchen-appliances-to-buy/) in this category. You can read the [owner reviews](https://www.amazon.com/product-reviews/B079NM2ZYN/?tag=kitchenpot-20) to see how it holds up over years.
+**Who should buy it:** Coffee drinkers who make a pot every morning and want fresh grinding without a $300 machine. It is one of the better value [kitchen appliances](/blog/coolest-kitchen-appliances-to-buy/) in this category. You can read the [owner reviews](https://www.amazon.com/Cuisinart-DGB-800-Burr-Grind-and-Brew/product-reviews/B079NM2ZYN/?tag=kitchenpot-20) to see how it holds up over years.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B079NM2ZYN/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-DGB-800-Burr-Grind-and-Brew/dp/B079NM2ZYN/?tag=kitchenpot-20)
 
 ## 3. Café Specialty Grind and Brew: Best for Precision Brewing
 
@@ -182,7 +182,7 @@ The app handles scheduling and remote starts. Single-serve sizes run from a 6-ou
 
 **Who should buy it:** Anyone who already buys good beans and wants the brewer to stop being the weak link. If your counter is short on room, the [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) guide can free up the space this one needs.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CG2P2J88/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Caf-Specialty-Grind-and-Brew/dp/B0CG2P2J88/?tag=kitchenpot-20)
 
 ## 4. De'Longhi Magnifica Start: Best for Espresso and Milk Drinks
 
@@ -217,7 +217,7 @@ The milk wand is manual, so you steam the jug yourself. That takes a few tries t
 
 **Who should buy it:** Anyone who buys a latte on the way to work and wants to stop. If you also make blended or iced coffee drinks, pair it with a decent [ice maker](/blog/best-ice-maker-for-home-use/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0D96XT9BF/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/DeLonghi-Magnifica-Start/dp/B0D96XT9BF/?tag=kitchenpot-20)
 
 ## 5. Ninja Luxe Café Premier ES601: Best Three-in-One
 
@@ -251,7 +251,7 @@ It is a wide, tall machine at 15.75 by 15.24 by 20.51 inches. Ninja's cord is 43
 
 **Who should buy it:** Households where people want different drinks and there is only room for one machine. It is also a sensible pick if you are building out a first kitchen and want fewer gadgets, which our [guide to stocking a small kitchen](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) covers in more detail.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0D45PK5V4/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Luxe-Caf-Premier-ES601/dp/B0D45PK5V4/?tag=kitchenpot-20)
 
 ## 6. Cuisinart DGB-400NAS: Cheapest Way In
 
@@ -286,7 +286,7 @@ One habit helps a lot with blade machines. Shake the unit gently halfway through
 
 **Who should buy it:** Anyone moving from a can of pre-ground coffee to whole beans for the first time, or setting up a [small kitchen on a budget](/blog/best-small-kitchen-appliances-for-cooking-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08DCK4MPV/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-DGB-400NAS-Grind-and-Brew/dp/B08DCK4MPV/?tag=kitchenpot-20)
 
 ## What SCA Certification Means (and When to Ignore It)
 
@@ -362,12 +362,12 @@ Run the machine empty with fresh water after any descale. Vinegar or citric acid
 
 ## Which One Should You Buy?
 
-- **You want one machine for pots and single mugs:** [Breville Grind Control](https://www.amazon.com/dp/B00VGGVQCI/?tag=kitchenpot-20).
-- **You want burrs without the premium price:** [Cuisinart DGB-800](https://www.amazon.com/dp/B079NM2ZYN/?tag=kitchenpot-20).
-- **You care about brew temperature and bloom:** [Café Specialty Grind and Brew](https://www.amazon.com/dp/B0CG2P2J88/?tag=kitchenpot-20).
-- **You drink cappuccinos and lattes:** [De'Longhi Magnifica Start](https://www.amazon.com/dp/B0D96XT9BF/?tag=kitchenpot-20).
-- **Your household wants different drinks:** [Ninja Luxe Café Premier](https://www.amazon.com/dp/B0D45PK5V4/?tag=kitchenpot-20).
-- **You just want off pre-ground coffee cheaply:** [Cuisinart DGB-400NAS](https://www.amazon.com/dp/B08DCK4MPV/?tag=kitchenpot-20).
+- **You want one machine for pots and single mugs:** [Breville Grind Control](https://www.amazon.com/Breville-Grind-Control-BDC650BSS/dp/B00VGGVQCI/?tag=kitchenpot-20).
+- **You want burrs without the premium price:** [Cuisinart DGB-800](https://www.amazon.com/Cuisinart-DGB-800-Burr-Grind-and-Brew/dp/B079NM2ZYN/?tag=kitchenpot-20).
+- **You care about brew temperature and bloom:** [Café Specialty Grind and Brew](https://www.amazon.com/Caf-Specialty-Grind-and-Brew/dp/B0CG2P2J88/?tag=kitchenpot-20).
+- **You drink cappuccinos and lattes:** [De'Longhi Magnifica Start](https://www.amazon.com/DeLonghi-Magnifica-Start/dp/B0D96XT9BF/?tag=kitchenpot-20).
+- **Your household wants different drinks:** [Ninja Luxe Café Premier](https://www.amazon.com/Ninja-Luxe-Caf-Premier-ES601/dp/B0D45PK5V4/?tag=kitchenpot-20).
+- **You just want off pre-ground coffee cheaply:** [Cuisinart DGB-400NAS](https://www.amazon.com/Cuisinart-DGB-400NAS-Grind-and-Brew/dp/B08DCK4MPV/?tag=kitchenpot-20).
 
 Still unsure? Start with how you drink coffee tomorrow morning, not how you hope to drink it. A pot drinker who buys an espresso machine ends up making americanos one cup at a time.
 

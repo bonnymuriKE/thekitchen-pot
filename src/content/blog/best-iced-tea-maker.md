@@ -37,7 +37,7 @@ This article offers a comprehensive guide on what you should consider when selec
 
 ## Best Iced Tea Maker
 
-### 1. **[Mr. Coffee 2-in1 Brewing System](https://www.amazon.com/Mr-Coffee-Brewing-System-Pitcher/dp/B00CEILY9W?tag=kitchenpot-20)**
+### 1. **[Mr. Coffee 2-in1 Brewing System](https://www.amazon.com/Mr-Coffee-Brewing-System-Pitcher/dp/B00CEILY9W/?tag=kitchenpot-20)**
 
 This tea maker from Mr. Coffee features an elegant black body and a sleek design, which makes it an aesthetic and artistic tea maker. It offers a significant amount of flexibility in all tea flavors you may want. Also, it can be used to prepare tea with tea bags or loose tea leaves.
 
@@ -47,7 +47,7 @@ The best thing about this filter is that it’s designed in the form of a basket
 
 The tea maker features a semi-transparent window for easy visibility, and you can monitor the level of water inside the tank to reduce the chances of overflows. The glass pitcher has a secure lid.
 
-[Check Price on Amazon](https://www.amazon.com/Mr-Coffee-Brewing-System-Pitcher/dp/B00CEILY9W?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Mr-Coffee-Brewing-System-Pitcher/dp/B00CEILY9W/?tag=kitchenpot-20)
 
 **Pros** 
 
@@ -62,7 +62,7 @@ The tea maker features a semi-transparent window for easy visibility, and you ca
 * Needs a power supply
 * It’s large and bulky 
 
-2. **[Takeya Flash Chill Tea Maker](https://www.amazon.com/Takeya-Maker-Patented-Technology-Blueberry/dp/B0095ZBJSS?tag=kitchenpot-20)**
+2. **[Takeya Flash Chill Tea Maker](https://www.amazon.com/Takeya-Maker-Patented-Technology-Blueberry/dp/B0095ZBJSS/?tag=kitchenpot-20)**
 
 Takeya is an iced tea maker that has a patented flash chill technology, and it’s a manual appliance that can be used anywhere. Its sleek design makes it a lightweight and portable tea maker making it the best companion when you are planning for a picnic.
 
@@ -74,7 +74,7 @@ It comes with an airtight and a leak-proof lid that prevents the flavor from esc
 
 Compared to other iced tea makers, Takeya is easy to wash as it can safely be washed in a dishwasher.
 
-[Check Price on Amazon](https://www.amazon.com/Takeya-Maker-Patented-Technology-Blueberry/dp/B0095ZBJSS?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Takeya-Maker-Patented-Technology-Blueberry/dp/B0095ZBJSS/?tag=kitchenpot-20)
 
 **Pros** 
 
@@ -89,7 +89,7 @@ Compared to other iced tea makers, Takeya is easy to wash as it can safely be wa
 
 * More manual work needed to operate the unit compared to other models
 
-3. ### **[Breville BTM800XL One-Touch Iced Tea Maker](https://www.amazon.com/Breville-BTM800XL-One-Touch-Tea-Maker/dp/B003LNOPSG?tag=kitchenpot-20)**
+3. ### **[Breville BTM800XL One-Touch Iced Tea Maker](https://www.amazon.com/Breville-BTM800XL-One-Touch-Tea-Maker/dp/B003LNOPSG/?tag=kitchenpot-20)**
 
 Unlike other robust tea makers that don’t allow you to customize the tea cooking temperature and time, this handy product from Breville is an automated tea maker that does the task for you.
 
@@ -99,7 +99,7 @@ Breville comes with an auto-start feature with a brushed stainless steel for dur
 
 Furthermore, the machine has five pre-programmed settings with an accurate temperature sensor and a real-time sensor to display the tea cooking progress. It has a jug capacity of 51 oz.
 
-[Check Price on Amazon](https://www.amazon.com/Breville-BTM800XL-One-Touch-Tea-Maker/dp/B003LNOPSG?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Breville-BTM800XL-One-Touch-Tea-Maker/dp/B003LNOPSG/?tag=kitchenpot-20)
 
 **Pros** 
 
@@ -114,7 +114,7 @@ Furthermore, the machine has five pre-programmed settings with an accurate tempe
 * Carafe cleaning can be tricky
 * If you want to prepare iced tea, the content must be moved to another pitcher with ice added in it.
 
-### 4. **[Hamilton Beach 40911 Iced Tea Maker](https://www.amazon.com/Hamilton-Beach-40911-2-Quart-Electric/dp/B00008VSCO?tag=kitchenpot-20)**
+### 4. **[Hamilton Beach 40911 Iced Tea Maker](https://www.amazon.com/Hamilton-Beach-40911-2-Quart-Electric/dp/B00008VSCO/?tag=kitchenpot-20)**
 
 This iced tea maker from Hamilton has garnered popularity among the best-iced tea makers as it features an innovative design and a sleek design to boost kitchen beauty. Additionally, it’s a user-friendly tea maker that’s accompanied by a water filling tank to add water anytime you want to prepare tea.
 
@@ -124,7 +124,7 @@ It’s designed to cook 2 quarts of tea in ten minutes. More significantly, this
 
 The pitcher’s mouth is wide and perfectly fits on the heating unit, reducing the chances of leakages and drippings. The machine is designed to turn off immediately the brewing cycle is over. The pitcher features a large handle for a comfortable and firm grip and features a LED light for smooth operation.
 
-[Check Price on Amazon](https://www.amazon.com/Hamilton-Beach-40911-2-Quart-Electric/dp/B00008VSCO?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Hamilton-Beach-40911-2-Quart-Electric/dp/B00008VSCO/?tag=kitchenpot-20)
 
 **Pros** 
 
@@ -138,7 +138,7 @@ The pitcher’s mouth is wide and perfectly fits on the heating unit, reducing t
 * The pitcher isn’t dishwasher safe.
 * Not stylish when compared to other models
 
-### 5. **[Mr. Coffee 3-Quart Tea Maker](https://www.amazon.com/Mr-Coffee-3-Quart-Iced-Maker/dp/B001J5FN48?tag=kitchenpot-20)**
+### 5. **[Mr. Coffee 3-Quart Tea Maker](https://www.amazon.com/Mr-Coffee-3-Quart-Iced-Maker/dp/B001J5FN48/?tag=kitchenpot-20)**
 
 This is a well-rounded and a reliable tea maker from the famous brand Mr. Coffee. It has a high capacity and can make up to 3 quarts of iced tea in a short time.
 
@@ -150,7 +150,7 @@ Kick off the brewing cycle with a start button, and more importantly, the LED in
 
 The auto turns off feature stops the machine immediately; your tea is ready. You don’t have to stand before the machine as you wait for the drink. It has a cleaning cycle for self-cleaning ability.
 
-[Check Price on Amazon](https://www.amazon.com/Mr-Coffee-3-Quart-Iced-Maker/dp/B001J5FN48?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Mr-Coffee-3-Quart-Iced-Maker/dp/B001J5FN48/?tag=kitchenpot-20)
 
 **Pros**
 
@@ -164,7 +164,7 @@ The auto turns off feature stops the machine immediately; your tea is ready. You
 * The pitcher can start leaking after some time.
 * The pitcher may warp.
 
-### 6. **[Capresso Iced Tea Maker](https://www.amazon.com/Capresso-624-02-Maker-White-Stainless/dp/B00IM56HLQ?tag=kitchenpot-20)**
+### 6. **[Capresso Iced Tea Maker](https://www.amazon.com/Capresso-624-02-Maker-White-Stainless/dp/B00IM56HLQ/?tag=kitchenpot-20)**
 
 If you are searching for a handy machine that will not only make perfect tea but also feature a great design, then Capresso 624.02 is your great pick. It has an elegant dark body with a stainless steel head that makes the unit appear modern and sleek that makes it a suitable machine for your home kitchen and office.
 
@@ -174,7 +174,7 @@ It comes with a filter basket that’s removable to make the cleaning process a 
 
 More importantly, it has a lovely glass pitcher that holds 2.5 quarts of iced tea and can easily be stored in a fridge. The pitcher has a lid to protect unnecessary spilling with a wide mouth for easy pouring of tea to your glass.
 
-[Check Price on Amazon](https://www.amazon.com/Capresso-624-02-Maker-White-Stainless/dp/B00IM56HLQ?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Capresso-624-02-Maker-White-Stainless/dp/B00IM56HLQ/?tag=kitchenpot-20)
 
 **Pros**
 
@@ -187,7 +187,7 @@ More importantly, it has a lovely glass pitcher that holds 2.5 quarts of iced te
 
 * The pitcher can easily break as it’s made of fragile glass.
 
-### 7. **[Nostalgia Café Tea Brewing Syste](https://www.amazon.com/Nostalgia-CI3BK-Coffee-Brewing-Pitcher/dp/B0744LDDDX?tag=kitchenpot-20)**m
+### 7. **[Nostalgia Café Tea Brewing Syste](https://www.amazon.com/Nostalgia-CI3BK-Coffee-Brewing-Pitcher/dp/B0744LDDDX/?tag=kitchenpot-20)**m
 
 One of the things that makes Nostalgia C13BK is among the best tea makers due to its ability to hold 3 quarts or 12 cups of iced tea in a short time.
 
@@ -199,7 +199,7 @@ The flavor extraction chamber allows you to add herbs, lemon, and other sweetene
 
 The machine comes with tidy cord storage that’s located at the bottom, and it has one push-button used to power on the device.
 
-[Check Price on Amazon](https://www.amazon.com/Nostalgia-CI3BK-Coffee-Brewing-Pitcher/dp/B0744LDDDX?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nostalgia-CI3BK-Coffee-Brewing-Pitcher/dp/B0744LDDDX/?tag=kitchenpot-20)
 
 **Features** 
 
@@ -220,7 +220,7 @@ The machine comes with tidy cord storage that’s located at the bottom, and it 
 
 * The glass made pitcher is fragile.
 
-8. ### **[Airtight Tea Infuser with Spout](https://www.amazon.com/Airtight-Coffee-Maker-Infuser-Spout/dp/B01CTIYU60?tag=kitchenpot-20)** 
+8. ### **[Airtight Tea Infuser with Spout](https://www.amazon.com/Airtight-Coffee-Maker-Infuser-Spout/dp/B01CTIYU60/?tag=kitchenpot-20)** 
 
 This iced tea and coffee maker consists of a glass jar, a lid, and a handle. The glass has marked measurements located on the side to help you choose the right amount of beverage you want.
 
@@ -228,7 +228,7 @@ It has a carafe jug that’s borosilicate glass, and a stainless steel infuser a
 
 The large handle located on the carafe helps you get a firm grip. The product features a superfine 8/8 rust-proof laser cut filter and a stainless steel cap and filter cup. The airtight seal is BPA-free, and the base is made of a rubber-cushion for added protection.
 
-[Check Price on Amazon](https://www.amazon.com/Airtight-Coffee-Maker-Infuser-Spout/dp/B01CTIYU60?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Airtight-Coffee-Maker-Infuser-Spout/dp/B01CTIYU60/?tag=kitchenpot-20)
 
 **Features** 
 

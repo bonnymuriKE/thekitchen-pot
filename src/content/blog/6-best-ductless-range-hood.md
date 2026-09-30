@@ -278,7 +278,7 @@ For ductless hoods, anything below 3 sones (~50 dB) is considered quiet. The bes
 Some top picks for quiet operation:
 
 * Hauslane Chef Series WM-538 – Powerful yet whisper-quiet, even at high speed.
-  <a href="https://www.amazon.com/Hauslane-European-Stainless-Ventilation-Ductless/dp/B07GQWKJPM?tag=kitchenpot-20" class="cta-button" class="btn-cta btn-primary btn-lg large btn-block" target="_blank" rel="nofollow noopener noreferrer">Check the Latest Price</a>
+  <a href="https://www.amazon.com/Hauslane-European-Stainless-Ventilation-Ductless/dp/B07GQWKJPM/?tag=kitchenpot-20" class="cta-button" class="btn-cta btn-primary btn-lg large btn-block" target="_blank" rel="nofollow noopener noreferrer">Check the Latest Price</a>
 * Cosmo 5U30 – Slim and quiet under-cabinet design with 3 fan speeds.
 * Broan-NuTone BCDF130SS – A budget option with low noise and strong filtration.
 
@@ -337,19 +337,19 @@ Check if the filter can be replaced without tools. Bonus points for models with 
 
 **Top Picks:**
 
-### **1.[Cosmo 5U30 Under-Cabinet Hood](https://www.amazon.com/COS-5MU30-Ductless-Convertible-Reusable-Stainless/dp/B0DC21QMN9?tag=kitchenpot-20)**
+### **1.[Cosmo 5U30 Under-Cabinet Hood](https://www.amazon.com/COS-5MU30-Ductless-Convertible-Reusable-Stainless/dp/B0DC21QMN9/?tag=kitchenpot-20)**
 
 * **Airflow:** 110 CFM
 * **Highlights:** Dual fan motors, slim profile, aluminum mesh + charcoal filter
 * **Why It’s Great:** Budget-friendly, easy to install, and comes with a reliable charcoal filtration system. **Not ideal for a busy kitchen.**
 
-### **2.[Hauslane Chef Series WM-538](https://www.amazon.com/Hauslane-European-Stainless-Ventilation-Ductless/dp/B0G6GF4MT7?tag=kitchenpot-20)**
+### **2.[Hauslane Chef Series WM-538](https://www.amazon.com/Hauslane-European-Stainless-Ventilation-Ductless/dp/B0G6GF4MT7/?tag=kitchenpot-20)**
 
 * **Airflow:** 400 CFM - best for a busy kitchen.
 * **Highlights:** Heavy-duty charcoal filters, washable stainless-steel baffle filters
 * **Why It’s Great:** Designed for heavy cooking; filters both smoke and smell effectively.
 
-### **3. [Broan-NuTone BCSQ130SS](https://www.amazon.com/BCSQ130SS-Three-Speed-Glacier-Under-Cabinet-Stainless/dp/B00NHJMHPC?tag=kitchenpot-20)**
+### **3. [Broan-NuTone BCSQ130SS](https://www.amazon.com/BCSQ130SS-Three-Speed-Glacier-Under-Cabinet-Stainless/dp/B00NHJMHPC/?tag=kitchenpot-20)**
 
 * **Airflow:** 375 CFM
 * **Highlights:** High-efficiency hybrid charcoal filters
@@ -586,7 +586,7 @@ The exterior is designed with flat polished surfaces for easier cleaning and det
 * Wearing out of Aluminum degreasers 
 * Illumination bulbs sold separately
 
-### **2. [Cosmo 63175 Ducted/Ductless Range Hood](https://www.amazon.com/Cosmo-Controls-Lighting-Permanent-Filters/dp/B01DN00K0S?tag=kitchenpot-20)**
+### **2. [Cosmo 63175 Ducted/Ductless Range Hood](https://www.amazon.com/Cosmo-Controls-Lighting-Permanent-Filters/dp/B01DN00K0S/?tag=kitchenpot-20)**
 
 ![Wall Mount Ductless Range Hood](images/portablegasgrill.jpg)
 
@@ -594,7 +594,7 @@ Cosmo is famously known for its sleek vibrant looks, sturdy performance, and qua
 
 The **stainless-steel mounted wall covers a length of 30 inches** and a chimney attachment which hides the air pipe running from the back of the ceiling. 
 
-[Check Price on Amazon](https://www.amazon.com/Cosmo-Controls-Lighting-Permanent-Filters/dp/B01DN00K0S?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cosmo-Controls-Lighting-Permanent-Filters/dp/B01DN00K0S/?tag=kitchenpot-20)
 
 The Cosmo Ductless Range Hood is designed in a well-built blower of of **760 cubic feet per minute (CFM)** which removes odors with ease when cooking. It also maintains a **65dB noise level**, despite the presence of a powerful fan, sustaining a discreet operation. 
 
@@ -613,7 +613,7 @@ The ductless range hood has modernized styling aesthetics compatible with kitche
 
 * Space consuming 
 
-### **3. [Broan 413004 Series Ductless Range Hood](https://www.amazon.com/Broan-Stainless-Ductless-Exhaust-30-Inches/dp/B00573M42C?tag=kitchenpot-20)**
+### **3. [Broan 413004 Series Ductless Range Hood](https://www.amazon.com/Broan-Stainless-Ductless-Exhaust-30-Inches/dp/B00573M42C/?tag=kitchenpot-20)**
 
 ![Best Ductless Range Hood](images/portablegasgrill.jpg)
 
@@ -621,7 +621,7 @@ Broan is a brand known for its muscle when it comes to home appliances and warra
 
 Broan Ductless Range Hood’s performance is justified by the efficiency to match ventilation with every cooking stove beneath it and adapt to the cooking style. The fit of the Range Hood is intended to tidily occupy the space beneath the overhead cabinet, to ensure **exceptional airflow in tight kitchen spaces**. 
 
-[Check Price on Amazon](https://www.amazon.com/Broan-Stainless-Ductless-Exhaust-30-Inches/dp/B00573M42C?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Broan-Stainless-Ductless-Exhaust-30-Inches/dp/B00573M42C/?tag=kitchenpot-20)
 
 The Range Hood uses **aluminum mesh and charcoal carbon filters** to degrease cooking odors emitted, smoke, and fine particles. The aluminum mesh filters can be r**emoved, cleaned, and reused**, eventually will need to be replaced as they tend to wear out.
 
@@ -643,7 +643,7 @@ The unit comes with a **two-speed duct-free range hood** with an exclusive Micro
 * Buying of the bulbs to fit the hood
 * Constant maintenance
 
-### **4. [Cosmo 5MU30 Under Cabinet Range Hood](https://www.amazon.com/Cosmo-Under-Cabinet-Range-Stainless/dp/B074PBLJVY?tag=kitchenpot-20)**
+### **4. [Cosmo 5MU30 Under Cabinet Range Hood](https://www.amazon.com/Cosmo-Under-Cabinet-Range-Stainless/dp/B074PBLJVY/?tag=kitchenpot-20)**
 
 ![Best Range Hood for Home Use](images/portablegasgrill.jpg)
 
@@ -651,7 +651,7 @@ In recent years, the Cosmo brand has gained popularity as one of the best applia
 
 If you are looking for a chic modern look, Cosmo 5MU30 is the take, with **push-buttons controls and speedy fans that can draw air up-to 200CFM for re-circulation**. As for the exhaustion, it takes about 20,000 BTU. However, since one burner takes up 15,000-17,000 BTU, this isn’t sufficient when it comes to drawing emissions from multiple burners. 
 
-**[Check Price on Amazon](https://www.amazon.com/Cosmo-Under-Cabinet-Range-Stainless/dp/B074PBLJVY?tag=kitchenpot-20)**
+**[Check Price on Amazon](https://www.amazon.com/Cosmo-Under-Cabinet-Range-Stainless/dp/B074PBLJVY/?tag=kitchenpot-20)**
 
 The range hood comes with **in-built LED lighting** for clear visibility while cooking and **dishwasher-safe aluminum mesh filters which degrease odors and smokes**. However, to maximize the lifespan, manual wash-up is efficient for any aluminum wares. Additionally, it has **charcoal filters** which makes it non-vented, even so, one should readily change them once every 6-12 months. 
 
@@ -669,7 +669,7 @@ The Cosmo 5MU30 range hood features three exhaust fan speeds of suction making i
 
 * Aluminum mesh filters wear out
 
-### **5.** **[Cosmo QS75 Ducted/Ductless Range Hood](https://www.amazon.com/Cosmo-COS-QS75-Wireless-Reusable-Stainless/dp/B013JVO1U6?tag=kitchenpot-20)**
+### **5.** **[Cosmo QS75 Ducted/Ductless Range Hood](https://www.amazon.com/Cosmo-COS-QS75-Wireless-Reusable-Stainless/dp/B013JVO1U6/?tag=kitchenpot-20)**
 
 ![Best Under Cabinet Range Hood](images/portablegasgrill.jpg)
 
@@ -685,7 +685,7 @@ Interestingly, it is improvised with a **gas sensor** which turns the range hood
 
 As compared to the Aluminum filters, the Cosmo QS75 is permanently installed with steel baffle filters which are 100% dishwasher-friendly. The steel baffle filters have high durability, easier to remove, and little maintenance for up-keep. However, the initial cost might be high compared to aluminum filters, but the up-keep is minimal and doesn’t require any replacement. 
 
-[Check Price on Amazon](https://www.amazon.com/Cosmo-COS-QS75-Wireless-Reusable-Stainless/dp/B013JVO1U6?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cosmo-COS-QS75-Wireless-Reusable-Stainless/dp/B013JVO1U6/?tag=kitchenpot-20)
 
 **Pro**
 
@@ -700,7 +700,7 @@ As compared to the Aluminum filters, the Cosmo QS75 is permanently installed wit
 
 * Expensive 
 
-### **6. [Cosmo UMC30 Ductless Range Hood](https://www.amazon.com/Cosmo-UMC30-Under-Cabinet-Range-Hood-Convertible/dp/B00NS1PANA?tag=kitchenpot-20)**
+### **6. [Cosmo UMC30 Ductless Range Hood](https://www.amazon.com/Cosmo-UMC30-Under-Cabinet-Range-Hood-Convertible/dp/B00NS1PANA/?tag=kitchenpot-20)**
 
 ![Best Ductless Range Hood](images/portablegasgrill.jpg)
 
@@ -712,7 +712,7 @@ Fascinating right? That’s not all.
 
 It has a **multi-layer filtration that recirculates air by purifying the produced emissions and odors before discharging it**. The emissions will pass through aluminum mesh filters where the smoke, odors, and steam will degrease the air. Conveniently, the **aluminum mesh filters are removable and dishwasher-safe**, hence you can be able to remove the trapped grease with ease. 
 
-**[Check Price on Amazon](https://www.amazon.com/Cosmo-UMC30-Under-Cabinet-Range-Hood-Convertible/dp/B00NS1PANA?tag=kitchenpot-20)**
+**[Check Price on Amazon](https://www.amazon.com/Cosmo-UMC30-Under-Cabinet-Range-Hood-Convertible/dp/B00NS1PANA/?tag=kitchenpot-20)**
 
 Cosmo ductless range hood has **soft-touch controls on its headline with backlit LED lighting** built-in under the range hood. With a 3-speed motor, it’s impressive how the range hood can manage the **quiet operation of 65dB** with such a hefty motor. Also, you can manage to vary the ventilation depending on your activities. 
 

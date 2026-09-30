@@ -44,13 +44,13 @@ Below are seven cooktops worth your money, split between countertop burners and 
 
 ## Quick Picks
 
-- **Best overall portable:** [Duxtop 9600LS 1800W Induction Cooktop](https://www.amazon.com/dp/B01FLR0ET8/?tag=kitchenpot-20)
-- **Best for heavy daily cooking:** [Duxtop P961LS Professional Induction Cooktop](https://www.amazon.com/dp/B07G9YKPQC/?tag=kitchenpot-20)
-- **Best temperature control:** [Nuwave Pro Chef Induction Cooktop](https://www.amazon.com/dp/B085J2PQRB/?tag=kitchenpot-20)
-- **Best for dorms, RVs and tight counters:** [Nuwave PIC Flex Induction Cooktop](https://www.amazon.com/dp/B09DRHJB9V/?tag=kitchenpot-20)
-- **Best two-burner countertop:** [Nuwave PIC Double Induction Cooktop](https://www.amazon.com/dp/B00O5QLPJK/?tag=kitchenpot-20)
-- **Best built-in for the money:** [Empava 30-Inch Built-In Induction Cooktop](https://www.amazon.com/dp/B09GFNSXCG/?tag=kitchenpot-20)
-- **Best built-in with smart controls:** [GE Profile PHP9030DTBB 30-Inch Induction Cooktop](https://www.amazon.com/dp/B0D23X45KX/?tag=kitchenpot-20)
+- **Best overall portable:** [Duxtop 9600LS 1800W Induction Cooktop](https://www.amazon.com/Duxtop-9600LS-portable-induction-burner/dp/B01FLR0ET8/?tag=kitchenpot-20)
+- **Best for heavy daily cooking:** [Duxtop P961LS Professional Induction Cooktop](https://www.amazon.com/Duxtop-P961LS-Professional-Induction-Cooktop/dp/B07G9YKPQC/?tag=kitchenpot-20)
+- **Best temperature control:** [Nuwave Pro Chef Induction Cooktop](https://www.amazon.com/Nuwave-Pro-Chef-Induction-Cooktop/dp/B085J2PQRB/?tag=kitchenpot-20)
+- **Best for dorms, RVs and tight counters:** [Nuwave PIC Flex Induction Cooktop](https://www.amazon.com/Nuwave-PIC-Flex-Induction-Cooktop/dp/B09DRHJB9V/?tag=kitchenpot-20)
+- **Best two-burner countertop:** [Nuwave PIC Double Induction Cooktop](https://www.amazon.com/Nuwave-PIC-Double-Induction-Cooktop/dp/B00O5QLPJK/?tag=kitchenpot-20)
+- **Best built-in for the money:** [Empava 30-Inch Built-In Induction Cooktop](https://www.amazon.com/Empava-30-Inch-Built-In-Induction-Cooktop/dp/B09GFNSXCG/?tag=kitchenpot-20)
+- **Best built-in with smart controls:** [GE Profile PHP9030DTBB 30-Inch Induction Cooktop](https://www.amazon.com/GE-Profile-PHP9030DTBB-30-Inch-Induction-Cooktop/dp/B0D23X45KX/?tag=kitchenpot-20)
 
 ## Side-by-Side Comparison
 
@@ -105,7 +105,7 @@ Duxtop also builds in the safety behavior that matters most in a small space: if
 
 **Who should buy it:** Anyone adding a burner to a small kitchen, cooking in a studio or basement suite, or wanting to try induction before committing to a built-in. It pairs naturally with our guide to [cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/), since a single burner rewards smaller pans.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01FLR0ET8/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Duxtop-9600LS-portable-induction-burner/dp/B01FLR0ET8/?tag=kitchenpot-20)
 
 ## 2. Duxtop P961LS Professional: Best for Heavy Daily Cooking
 
@@ -137,7 +137,7 @@ Where it doesn't improve on the 9600LS is the cooking itself. The power steps an
 
 **Who should buy it:** Daily cooks, people who batch-cook on one burner, and anyone whose kitchen is really the counter beside the sink. If that's your situation, our checklist on [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) covers what else earns its space.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07G9YKPQC/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Duxtop-P961LS-Professional-Induction-Cooktop/dp/B07G9YKPQC/?tag=kitchenpot-20)
 
 ## 3. Nuwave Pro Chef: Best Temperature Control
 
@@ -170,7 +170,7 @@ The three-stage wattage switch is the other clever bit. Dropping to 900 watts le
 
 **Who should buy it:** Cooks who care about precision, anyone doing candy, chocolate, deep frying or sous vide finishing, and people who want to sear properly on a countertop. For a closer look at the brand's older models, read our [NuWave induction cooktop review](/blog/nuwave-induction-cooktop-review/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B085J2PQRB/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nuwave-Pro-Chef-Induction-Cooktop/dp/B085J2PQRB/?tag=kitchenpot-20)
 
 ## 4. Nuwave PIC Flex: Best for Dorms, RVs and Tight Counters
 
@@ -203,7 +203,7 @@ Nuwave often bundles it with a 9-inch fry pan or a 4-quart ceramic-coated pot, w
 
 **Who should buy it:** Students, van and RV cooks, anyone on questionable wiring, and people who want a second burner that stores in a drawer. It fits the same brief as the picks in our guide to [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09DRHJB9V/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nuwave-PIC-Flex-Induction-Cooktop/dp/B09DRHJB9V/?tag=kitchenpot-20)
 
 ## 5. Nuwave PIC Double: Best Two-Burner Countertop
 
@@ -235,7 +235,7 @@ The cost is counter space. At 23.6 inches wide it eats most of a standard 24-inc
 
 **Who should buy it:** People cooking real meals without a range, renters whose kitchen came with a broken stove, and anyone who wants a portable setup that handles a main and a side at once. If you're replacing a kitchen piece by piece, our roundup of the [best stockpots with lids](/blog/best-stockpot-with-a-lid/) covers the one pan this setup still needs.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00O5QLPJK/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nuwave-PIC-Double-Induction-Cooktop/dp/B00O5QLPJK/?tag=kitchenpot-20)
 
 ## 6. Empava 30-Inch Built-In (EMPV-30EC04): Best Built-In for the Money
 
@@ -267,7 +267,7 @@ Installation is the catch. This is a 208-240 volt appliance, so unless you're sw
 
 **Who should buy it:** Anyone renovating a kitchen on a set budget, landlords upgrading a rental, and cooks who want induction without range-level spending. Pair it with a proper extraction setup from our list of [under-cabinet range hoods](/blog/best-under-cabinet-range-hood/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09GFNSXCG/?tag=kitchenpot-20) [Check Price at Empava](https://www.awin1.com/cread.php?awinmid=114924&awinaffid=1956629&clickref=best-induction-cooktop-for-the-money&ued=https%3A%2F%2Fempava.com%2Fproducts%2F30-inch-built-in-induction-cooktop-30ec04)
+[Check Price on Amazon](https://www.amazon.com/Empava-30-Inch-Built-In-Induction-Cooktop/dp/B09GFNSXCG/?tag=kitchenpot-20) [Check Price at Empava](https://www.awin1.com/cread.php?awinmid=114924&awinaffid=1956629&clickref=best-induction-cooktop-for-the-money&ued=https%3A%2F%2Fempava.com%2Fproducts%2F30-inch-built-in-induction-cooktop-30ec04)
 
 ## 7. GE Profile PHP9030DTBB: Best Built-In With Smart Controls
 
@@ -300,7 +300,7 @@ It is not cheap, and the Wi-Fi is the least useful part of the package for most 
 
 **Who should buy it:** Anyone doing a kitchen properly and keeping it for ten years, households that want the child-safety features, and cooks who regularly boil big pots. If ventilation is your limiting factor, compare options in our guide to [ductless range hoods](/blog/6-best-ductless-range-hood/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0D23X45KX/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/GE-Profile-PHP9030DTBB-30-Inch-Induction-Cooktop/dp/B0D23X45KX/?tag=kitchenpot-20)
 
 ## Portable or Built-In? A Straight Comparison
 
@@ -381,13 +381,13 @@ One more habit: wipe under the pan as well as under the cooktop. Grit trapped be
 
 ## Which Induction Cooktop Should You Buy?
 
-- **You want one burner that does everything well:** [Duxtop 9600LS](https://www.amazon.com/dp/B01FLR0ET8/?tag=kitchenpot-20).
-- **You cook hard every day and want it to survive:** [Duxtop P961LS](https://www.amazon.com/dp/B07G9YKPQC/?tag=kitchenpot-20).
-- **You want real temperature precision and a proper sear:** [Nuwave Pro Chef](https://www.amazon.com/dp/B085J2PQRB/?tag=kitchenpot-20).
-- **Your wiring, counter or budget is tight:** [Nuwave PIC Flex](https://www.amazon.com/dp/B09DRHJB9V/?tag=kitchenpot-20).
-- **You need two burners without a stove:** [Nuwave PIC Double](https://www.amazon.com/dp/B00O5QLPJK/?tag=kitchenpot-20).
-- **You're renovating and watching the budget:** [Empava 30-inch built-in](https://www.amazon.com/dp/B09GFNSXCG/?tag=kitchenpot-20).
-- **You want the strongest elements and the best safety kit:** [GE Profile PHP9030DTBB](https://www.amazon.com/dp/B0D23X45KX/?tag=kitchenpot-20).
+- **You want one burner that does everything well:** [Duxtop 9600LS](https://www.amazon.com/Duxtop-9600LS-portable-induction-burner/dp/B01FLR0ET8/?tag=kitchenpot-20).
+- **You cook hard every day and want it to survive:** [Duxtop P961LS](https://www.amazon.com/Duxtop-P961LS-Professional-Induction-Cooktop/dp/B07G9YKPQC/?tag=kitchenpot-20).
+- **You want real temperature precision and a proper sear:** [Nuwave Pro Chef](https://www.amazon.com/Nuwave-Pro-Chef-Induction-Cooktop/dp/B085J2PQRB/?tag=kitchenpot-20).
+- **Your wiring, counter or budget is tight:** [Nuwave PIC Flex](https://www.amazon.com/Nuwave-PIC-Flex-Induction-Cooktop/dp/B09DRHJB9V/?tag=kitchenpot-20).
+- **You need two burners without a stove:** [Nuwave PIC Double](https://www.amazon.com/Nuwave-PIC-Double-Induction-Cooktop/dp/B00O5QLPJK/?tag=kitchenpot-20).
+- **You're renovating and watching the budget:** [Empava 30-inch built-in](https://www.amazon.com/Empava-30-Inch-Built-In-Induction-Cooktop/dp/B09GFNSXCG/?tag=kitchenpot-20).
+- **You want the strongest elements and the best safety kit:** [GE Profile PHP9030DTBB](https://www.amazon.com/GE-Profile-PHP9030DTBB-30-Inch-Induction-Cooktop/dp/B0D23X45KX/?tag=kitchenpot-20).
 
 If you're not sure yet, buy the Duxtop 9600LS and use it for a month. It costs less than a decent skillet, it tells you within a week whether induction suits how you cook, and if you later go built-in it becomes the extra burner you use every holiday. Before you order, run the magnet test on the three pans you reach for most, and check how much of your counter you can spare using our [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) to free up somewhere to store it.
 

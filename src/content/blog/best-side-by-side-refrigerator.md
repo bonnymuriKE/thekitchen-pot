@@ -55,7 +55,7 @@ The following are some of the best sides by side refrigerators that we’ll disc
 
 ## **9 Best Side By Side Refrigerators**
 
-### **1. [Samsung RH25H 5611SR](https://www.amazon.com/Samsung-RH25H5611SR-Stainless-Steel-Refrigerator/dp/B00SKJRQ1E/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8?tag=kitchenpot-20)**
+### **1. [Samsung RH25H 5611SR](https://www.amazon.com/Samsung-RH25H5611SR-Stainless-Steel-Refrigerator/dp/B00SKJRQ1E/?tag=kitchenpot-20)**
 
 This is one unique appliance. The Samsung RH25H5611SR comes with door-in-door storage, on the right side that allows you to access seasonings and beverages without letting the cold air out of the rest of the fridge.
 
@@ -113,7 +113,7 @@ Additionally, when both the freezer and the fridge heats up, you can bump the te
 
 * Fridge temperatures can run a little warm
 
-### **4. [Series French Door Refrigerator (GE profile)](https://www.amazon.com/Profile-Energy-Counter-depth-French-door-Refrirator/dp/B01H68RWMM?tag=kitchenpot-20)**
+### **4. [Series French Door Refrigerator (GE profile)](https://www.amazon.com/Profile-Energy-Counter-depth-French-door-Refrirator/dp/B01H68RWMM/?tag=kitchenpot-20)**
 
 This is one of the top notch refrigerators that you can buy. It has amazing features that can only leave you in awe.
 
@@ -135,7 +135,7 @@ The appliance also has temperature maintenance and uniformity. The only issue yo
 
 * It’s a high-cost appliance 
 
-### **5. [Avanti 31 Inch Side-By-Side Refrigerator- Best Small Sized](https://www.amazon.com/Avanti-Model-RMS550PS-SIDE-SIDE/dp/B00GHIJNY8?tag=kitchenpot-20)** 
+### **5. [Avanti 31 Inch Side-By-Side Refrigerator- Best Small Sized](https://www.amazon.com/Avanti-Model-RMS550PS-SIDE-SIDE/dp/B00GHIJNY8/?tag=kitchenpot-20)** 
 
 Looking for a small-sized side by side refrigerator to fit well in your kitchen space? Well, look no further Avanti has one of the best small-sized refrigerators you can dream off.
 
@@ -160,7 +160,7 @@ The 2-liter refrigerator door bins are well designed which is a unique factor yo
 
 Freestanding only
 
-### **6. [GE PSS28KSH 36 Inch Side by Side Refrigerator](https://www.amazon.com/dp/B00Q640HSE?tag=kitchenpot-20)**
+### **6. [GE PSS28KSH 36 Inch Side by Side Refrigerator](https://www.amazon.com/GE-PSS28KSH-36-Inch-Side-by-Side-Refrigerator/dp/B00Q640HSE/?tag=kitchenpot-20)**
 
 The appliance is one of the best-rated refrigerators we have in the market, the features of the GE PSS28KSH value is worth the price. Ice maker and freezer never let you down.
 
@@ -193,7 +193,7 @@ Additionally, there are two more glass shelves and three slanting door bins. The
 * Crispers under par
 * Single lever dispenser
 
-### **7. [Frigidaire FFSS2315 Side by Side Refrigerator- Best 33 Inch](https://www.amazon.com/Frigidaire-FFSS2315TD-Freestanding-Refrigerator-Stainless/dp/B0773WD9QX?tag=kitchenpot-20)**
+### **7. [Frigidaire FFSS2315 Side by Side Refrigerator- Best 33 Inch](https://www.amazon.com/Frigidaire-FFSS2315TD-Freestanding-Refrigerator-Stainless/dp/B0773WD9QX/?tag=kitchenpot-20)**
 
 For a small refrigerator its size, the Frigidaire FFSS2315 is adequate in all its properties and can’t let you down if you’re searching for anything fancy.
 
@@ -216,7 +216,7 @@ One feature the Frigidaire doesn’t have is a filter light to alert you to chan
 * No crisper humidity control
 * Fixed freezer shelves
 
-### **8. [Phiestina Side By Side Refrigerator- Best Wine and Beverage Cooler](https://www.amazon.com/dp/B07F2MDFB2?tag=kitchenpot-20)**
+### **8. [Phiestina Side By Side Refrigerator- Best Wine and Beverage Cooler](https://www.amazon.com/Phiestina-Side-By-Side-Refrigerator-Best-Wine-and-Beverage/dp/B07F2MDFB2/?tag=kitchenpot-20)**
 
 A side by side refrigerator with duplex zone settings and a low temperature of 38 degrees Fahrenheit.
 
@@ -240,7 +240,7 @@ The temperature for the Phiestina side by side refrigerator is, however, lower t
 * No wood shelves
 * No door locks
 
-### **9. [LG LSXC 22396D](https://www.amazon.com/LG-LSXC22396D-Stainless-InstaView-Refrigerator/dp/B07DHXZFXV/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8?tag=kitchenpot-20)**
+### **9. [LG LSXC 22396D](https://www.amazon.com/LG-LSXC22396D-Stainless-InstaView-Refrigerator/dp/B07DHXZFXV/?tag=kitchenpot-20)**
 
 Are you searching for the most flash and elegant side by side refrigerator in the market? Well, this one’s for you. 
 

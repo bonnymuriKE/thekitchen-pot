@@ -42,7 +42,7 @@ So cleaning counts here as much as yield does. So do noise, and how much choppin
 
 The first real choice is centrifugal or masticating. Everything else follows from it, which is why this guide to the best juicers starts there rather than with a list.
 
-> **Quick answer:** If you want juice in two minutes and you mostly juice apples, carrots and oranges, buy a centrifugal machine like the [Breville Juice Fountain Cold](https://www.amazon.com/dp/B016J1ICDU/?tag=kitchenpot-20). If you juice kale, celery or wheatgrass, buy a masticating one like the [Omega NC900HDC](https://www.amazon.com/dp/B00CIU92S6/?tag=kitchenpot-20). Greens are the line that separates the two types.
+> **Quick answer:** If you want juice in two minutes and you mostly juice apples, carrots and oranges, buy a centrifugal machine like the [Breville Juice Fountain Cold](https://www.amazon.com/Breville-Juice-Fountain-Cold-BJE430SIL/dp/B016J1ICDU/?tag=kitchenpot-20). If you juice kale, celery or wheatgrass, buy a masticating one like the [Omega NC900HDC](https://www.amazon.com/Omega-NC900HDC-Cold-Press-Juicer/dp/B00CIU92S6/?tag=kitchenpot-20). Greens are the line that separates the two types.
 
 ## How a Juicer Actually Gets the Juice Out
 
@@ -71,11 +71,11 @@ If you are still deciding between juicing and blending, the split is simple. A j
 
 ## Our Picks at a Glance
 
-- **Best overall:** [Breville Juice Fountain Cold BJE430SIL](https://www.amazon.com/dp/B016J1ICDU/?tag=kitchenpot-20)
-- **Best masticating juicer:** [Omega NC900HDC Cold Press Juicer](https://www.amazon.com/dp/B00CIU92S6/?tag=kitchenpot-20)
-- **Best budget juicer:** [Hamilton Beach Big Mouth 67601A](https://www.amazon.com/dp/B00E0IBKLQ/?tag=kitchenpot-20)
-- **Best for hands-off juicing:** [Hurom H320N Cold Press Juicer](https://www.amazon.com/dp/B0CNY9S4PY/?tag=kitchenpot-20)
-- **Best for citrus:** [Breville 800CPXL Citrus Press Pro](https://www.amazon.com/dp/B000A76VCY/?tag=kitchenpot-20)
+- **Best overall:** [Breville Juice Fountain Cold BJE430SIL](https://www.amazon.com/Breville-Juice-Fountain-Cold-BJE430SIL/dp/B016J1ICDU/?tag=kitchenpot-20)
+- **Best masticating juicer:** [Omega NC900HDC Cold Press Juicer](https://www.amazon.com/Omega-NC900HDC-Cold-Press-Juicer/dp/B00CIU92S6/?tag=kitchenpot-20)
+- **Best budget juicer:** [Hamilton Beach Big Mouth 67601A](https://www.amazon.com/Hamilton-Beach-Big-Mouth-67601A/dp/B00E0IBKLQ/?tag=kitchenpot-20)
+- **Best for hands-off juicing:** [Hurom H320N Cold Press Juicer](https://www.amazon.com/Hurom-H320N-Cold-Press-Juicer/dp/B0CNY9S4PY/?tag=kitchenpot-20)
+- **Best for citrus:** [Breville 800CPXL Citrus Press Pro](https://www.amazon.com/Breville-800CPXL-Citrus-Press-Pro/dp/B000A76VCY/?tag=kitchenpot-20)
 
 ## The Five Juicers Compared
 
@@ -91,7 +91,7 @@ If you are still deciding between juicing and blending, the split is simple. A j
 
 Nothing here was bought or juiced for this article. The picks come from manufacturer spec sheets and care pages, plus published motor speeds and chute sizes. We also looked at the complaint patterns that repeat across verified owner reviews. The last test was simple: how well does each machine handle the jobs people buy a juicer for? Any model with more real flaws than strengths was left off.
 
-## 1. [Breville Juice Fountain Cold BJE430SIL](https://www.amazon.com/dp/B016J1ICDU/?tag=kitchenpot-20): Best Overall
+## 1. [Breville Juice Fountain Cold BJE430SIL](https://www.amazon.com/Breville-Juice-Fountain-Cold-BJE430SIL/dp/B016J1ICDU/?tag=kitchenpot-20): Best Overall
 
 - **Type:** Centrifugal
 - **Motor:** 850 watts
@@ -122,9 +122,9 @@ The 3-inch chute is the other reason it earns the top spot. A whole apple drops 
 
 **Who should buy it:** Households juicing apples, carrots, beets and citrus several times a week who do not want to stand over the machine. If counter height is the problem, our [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) show where a machine this size can live.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B016J1ICDU/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Breville-Juice-Fountain-Cold-BJE430SIL/dp/B016J1ICDU/?tag=kitchenpot-20)
 
-## 2. [Omega NC900HDC Cold Press Juicer](https://www.amazon.com/dp/B00CIU92S6/?tag=kitchenpot-20): Best Masticating Juicer
+## 2. [Omega NC900HDC Cold Press Juicer](https://www.amazon.com/Omega-NC900HDC-Cold-Press-Juicer/dp/B00CIU92S6/?tag=kitchenpot-20): Best Masticating Juicer
 
 - **Type:** Horizontal masticating, cold press
 - **Motor:** 150 watts at 80 RPM
@@ -155,9 +155,9 @@ The horizontal body also doubles as a food mill. Swap the juicing screen for the
 
 **Who should buy it:** Daily green juicers, and anyone who wants one appliance to make nut milk as well. Keep a good knife next to it, since prep is the bulk of the work. Our guide to the [best knife set under $100](/blog/best-knife-set-under-100/) is a sensible place to start.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00CIU92S6/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Omega-NC900HDC-Cold-Press-Juicer/dp/B00CIU92S6/?tag=kitchenpot-20)
 
-## 3. [Hamilton Beach Big Mouth 67601A](https://www.amazon.com/dp/B00E0IBKLQ/?tag=kitchenpot-20): Best Budget Juicer
+## 3. [Hamilton Beach Big Mouth 67601A](https://www.amazon.com/Hamilton-Beach-Big-Mouth-67601A/dp/B00E0IBKLQ/?tag=kitchenpot-20): Best Budget Juicer
 
 - **Type:** Centrifugal
 - **Motor:** 800 watts
@@ -187,9 +187,9 @@ The three-year warranty is the quiet selling point. Cheap juicers often carry on
 
 **Who should buy it:** First-time juicers, students, and anyone testing whether a daily juice habit will last. Store it low and near a socket. Our [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) help if the cupboard is already full.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00E0IBKLQ/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Hamilton-Beach-Big-Mouth-67601A/dp/B00E0IBKLQ/?tag=kitchenpot-20)
 
-## 4. [Hurom H320N Cold Press Juicer](https://www.amazon.com/dp/B0CNY9S4PY/?tag=kitchenpot-20): Best for Hands-Off Juicing
+## 4. [Hurom H320N Cold Press Juicer](https://www.amazon.com/Hurom-H320N-Cold-Press-Juicer/dp/B0CNY9S4PY/?tag=kitchenpot-20): Best for Hands-Off Juicing
 
 - **Type:** Vertical masticating, self-feeding
 - **Motor:** 150-watt AC motor, 50 RPM auger, 17 RPM spinning brush
@@ -220,9 +220,9 @@ The 15-year warranty on motor and parts tells you how the company expects it to 
 
 **Who should buy it:** People who juice most days and want the machine to do the feeding. It suits anyone already thinking in terms of [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/), since it takes height instead of width.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CNY9S4PY/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Hurom-H320N-Cold-Press-Juicer/dp/B0CNY9S4PY/?tag=kitchenpot-20)
 
-## 5. [Breville 800CPXL Citrus Press Pro](https://www.amazon.com/dp/B000A76VCY/?tag=kitchenpot-20): Best for Citrus
+## 5. [Breville 800CPXL Citrus Press Pro](https://www.amazon.com/Breville-800CPXL-Citrus-Press-Pro/dp/B000A76VCY/?tag=kitchenpot-20): Best for Citrus
 
 - **Type:** Motorized citrus press
 - **Cone:** Stainless steel Quadra-Fin, acid resistant
@@ -253,7 +253,7 @@ Cleanup is the other win. There is no fine mesh basket full of shredded pulp, ju
 
 **Who should buy it:** Anyone who makes fresh orange juice most mornings, bartenders, and cooks who go through a lot of lemons and limes. If you want to know how far a bag of lemons goes, our note on [how much juice is in one lemon](/blog/how-much-juice-is-in-one-lemon/) has the numbers.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B000A76VCY/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Breville-800CPXL-Citrus-Press-Pro/dp/B000A76VCY/?tag=kitchenpot-20)
 
 ## Yield, Foam and How Long the Juice Keeps
 
@@ -328,11 +328,11 @@ Power draw follows the same pattern. The centrifugal machines here pull 800 and 
 
 Pick by what goes in the chute, not by the price tag.
 
-- **Apples, carrots and beets, fast:** [Breville Juice Fountain Cold](https://www.amazon.com/dp/B016J1ICDU/?tag=kitchenpot-20).
-- **Celery, kale or wheatgrass:** [Omega NC900HDC](https://www.amazon.com/dp/B00CIU92S6/?tag=kitchenpot-20).
-- **Trying juicing without spending much:** [Hamilton Beach Big Mouth](https://www.amazon.com/dp/B00E0IBKLQ/?tag=kitchenpot-20).
-- **Juicing daily and tired of feeding a tube:** [Hurom H320N](https://www.amazon.com/dp/B0CNY9S4PY/?tag=kitchenpot-20).
-- **Fresh orange juice most mornings:** [Breville 800CPXL Citrus Press Pro](https://www.amazon.com/dp/B000A76VCY/?tag=kitchenpot-20).
+- **Apples, carrots and beets, fast:** [Breville Juice Fountain Cold](https://www.amazon.com/Breville-Juice-Fountain-Cold-BJE430SIL/dp/B016J1ICDU/?tag=kitchenpot-20).
+- **Celery, kale or wheatgrass:** [Omega NC900HDC](https://www.amazon.com/Omega-NC900HDC-Cold-Press-Juicer/dp/B00CIU92S6/?tag=kitchenpot-20).
+- **Trying juicing without spending much:** [Hamilton Beach Big Mouth](https://www.amazon.com/Hamilton-Beach-Big-Mouth-67601A/dp/B00E0IBKLQ/?tag=kitchenpot-20).
+- **Juicing daily and tired of feeding a tube:** [Hurom H320N](https://www.amazon.com/Hurom-H320N-Cold-Press-Juicer/dp/B0CNY9S4PY/?tag=kitchenpot-20).
+- **Fresh orange juice most mornings:** [Breville 800CPXL Citrus Press Pro](https://www.amazon.com/Breville-800CPXL-Citrus-Press-Pro/dp/B000A76VCY/?tag=kitchenpot-20).
 
 One last practical point. Put the machine where you will see it, not in a low cupboard, because a juicer you have to lift out is a juicer you stop using. Our list of [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) is built around exactly that idea, and [how to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) helps you find the space.
 

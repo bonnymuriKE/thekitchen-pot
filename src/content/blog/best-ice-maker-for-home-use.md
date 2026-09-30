@@ -63,12 +63,12 @@ If you mostly drink iced coffee, sparkling water or cocktails at home, nugget is
 
 ## Our Picks at a Glance
 
-- **Best nugget ice maker:** [GE Profile Opal 2.0 Countertop Nugget Ice Maker](https://www.amazon.com/dp/B0964BF4N7/?tag=kitchenpot-20)
-- **Best high-output nugget:** [NewAir NIM040SS00 40 lb Nugget Ice Maker](https://www.amazon.com/dp/B087WJCW3P/?tag=kitchenpot-20)
-- **Best budget nugget:** [Euhomy Countertop Nugget Ice Maker](https://www.amazon.com/dp/B0CTCD3GGL/?tag=kitchenpot-20)
-- **Best bullet ice maker:** [Frigidaire EFIC117-SS 26 lb Ice Maker](https://www.amazon.com/dp/B07JBJWP2W/?tag=kitchenpot-20)
-- **Best value bullet:** [Silonn Countertop Bullet Ice Maker](https://www.amazon.com/dp/B0BXXKFJK2/?tag=kitchenpot-20)
-- **Best portable bullet:** [Igloo ICEB26HNSS Self-Cleaning Ice Maker](https://www.amazon.com/dp/B07XS8DVPT/?tag=kitchenpot-20)
+- **Best nugget ice maker:** [GE Profile Opal 2.0 Countertop Nugget Ice Maker](https://www.amazon.com/GE-Profile-Opal-2-0-Countertop-Nugget-Ice-Maker/dp/B0964BF4N7/?tag=kitchenpot-20)
+- **Best high-output nugget:** [NewAir NIM040SS00 40 lb Nugget Ice Maker](https://www.amazon.com/NewAir-NIM040SS00-40-lb-Nugget-Ice-Maker/dp/B087WJCW3P/?tag=kitchenpot-20)
+- **Best budget nugget:** [Euhomy Countertop Nugget Ice Maker](https://www.amazon.com/Euhomy-Countertop-Nugget-Ice-Maker/dp/B0CTCD3GGL/?tag=kitchenpot-20)
+- **Best bullet ice maker:** [Frigidaire EFIC117-SS 26 lb Ice Maker](https://www.amazon.com/Frigidaire-EFIC117-SS-26-lb-Ice-Maker/dp/B07JBJWP2W/?tag=kitchenpot-20)
+- **Best value bullet:** [Silonn Countertop Bullet Ice Maker](https://www.amazon.com/Silonn-Countertop-Bullet-Ice-Maker/dp/B0BXXKFJK2/?tag=kitchenpot-20)
+- **Best portable bullet:** [Igloo ICEB26HNSS Self-Cleaning Ice Maker](https://www.amazon.com/Igloo-ICEB26HNSS-Self-Cleaning-Ice-Maker/dp/B07XS8DVPT/?tag=kitchenpot-20)
 
 ## The Six Machines Side by Side
 
@@ -121,7 +121,7 @@ GE asks for a [weekly clean and a descale](https://products.geappliances.com/app
 
 **Who should buy it:** Anyone who drinks nugget ice daily and wants the machine that does it best. If your counters are already crowded, read our [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) first.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0964BF4N7/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/GE-Profile-Opal-2-0-Countertop-Nugget-Ice-Maker/dp/B0964BF4N7/?tag=kitchenpot-20)
 
 ## 2. NewAir NIM040SS00: Best High-Output Nugget
 
@@ -155,7 +155,7 @@ One honest note. NewAir sells several nugget models at different outputs and pri
 
 **Who should buy it:** People who host, and anyone who found a smaller machine could not keep up. It pairs well with the drinks gear in our [espresso machine roundup](/blog/best-espresso-machines/) and with a [juicer](/blog/top-5-best-juicers/) for a party punch.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B087WJCW3P/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/NewAir-NIM040SS00-40-lb-Nugget-Ice-Maker/dp/B087WJCW3P/?tag=kitchenpot-20)
 
 ## 3. Euhomy Countertop Nugget Ice Maker: Best Budget Nugget
 
@@ -189,7 +189,7 @@ Owner reviews on budget nugget machines repeatedly flag the same thing: they las
 
 **Who should buy it:** Anyone who wants chewable ice without a $500 machine, and anyone testing whether they actually use one. It fits the same logic as the picks in our guide to [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CTCD3GGL/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Euhomy-Countertop-Nugget-Ice-Maker/dp/B0CTCD3GGL/?tag=kitchenpot-20)
 
 ## The Bullet Machines
 
@@ -227,7 +227,7 @@ The two cube sizes are more useful than they look. Small bullets chill a glass f
 
 **Who should buy it:** Households that just want ice on demand without trays. It sits well alongside a [mini fridge](/blog/best-mini-fridge-for-beer/) in a den or a home bar. Add a [lemon or two](/blog/how-much-juice-is-in-one-lemon/) and you have a drinks station.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07JBJWP2W/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Frigidaire-EFIC117-SS-26-lb-Ice-Maker/dp/B07JBJWP2W/?tag=kitchenpot-20)
 
 ## 5. Silonn Countertop Bullet Ice Maker: Best Value
 
@@ -261,7 +261,7 @@ The basket, as with every machine in this class, is the real limit. Nine cubes e
 
 **Who should buy it:** Anyone weighing price against refill frequency. It is a sensible pick for a studio, along with the rest of our [small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BXXKFJK2/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Silonn-Countertop-Bullet-Ice-Maker/dp/B0BXXKFJK2/?tag=kitchenpot-20)
 
 ## 6. Igloo ICEB26HNSS: Best Portable Bullet
 
@@ -295,7 +295,7 @@ Igloo has sold this design in many colours and finishes for years, so spare bask
 
 **Who should buy it:** RV owners, tailgaters, and anyone who wants the machine out of the kitchen most of the year. It belongs on the same list as the gear in our [portable grills for apartment living](/blog/best-portable-grills-for-apartment-living/) guide, next to a decent [cooler](/blog/best-lunch-cooler-for-construction-workers/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07XS8DVPT/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Igloo-ICEB26HNSS-Self-Cleaning-Ice-Maker/dp/B07XS8DVPT/?tag=kitchenpot-20)
 
 ## What "26 Pounds a Day" Really Means
 
@@ -385,14 +385,14 @@ And if counter space is the blocker rather than the budget, look up. Our [vertic
 
 ## Which Ice Maker Should You Buy?
 
-- **You want chewable nugget ice and will keep it clean:** [GE Profile Opal 2.0](https://www.amazon.com/dp/B0964BF4N7/?tag=kitchenpot-20).
-- **You entertain and need volume:** [NewAir NIM040SS00](https://www.amazon.com/dp/B087WJCW3P/?tag=kitchenpot-20).
-- **You want nugget ice cheaply:** [Euhomy countertop nugget](https://www.amazon.com/dp/B0CTCD3GGL/?tag=kitchenpot-20).
-- **You want the reliable everyday option:** [Frigidaire EFIC117-SS](https://www.amazon.com/dp/B07JBJWP2W/?tag=kitchenpot-20).
-- **You want the best specs per dollar:** [Silonn bullet ice maker](https://www.amazon.com/dp/B0BXXKFJK2/?tag=kitchenpot-20).
-- **You want to take it outside:** [Igloo ICEB26HNSS](https://www.amazon.com/dp/B07XS8DVPT/?tag=kitchenpot-20).
+- **You want chewable nugget ice and will keep it clean:** [GE Profile Opal 2.0](https://www.amazon.com/GE-Profile-Opal-2-0-Countertop-Nugget-Ice-Maker/dp/B0964BF4N7/?tag=kitchenpot-20).
+- **You entertain and need volume:** [NewAir NIM040SS00](https://www.amazon.com/NewAir-NIM040SS00-40-lb-Nugget-Ice-Maker/dp/B087WJCW3P/?tag=kitchenpot-20).
+- **You want nugget ice cheaply:** [Euhomy countertop nugget](https://www.amazon.com/Euhomy-Countertop-Nugget-Ice-Maker/dp/B0CTCD3GGL/?tag=kitchenpot-20).
+- **You want the reliable everyday option:** [Frigidaire EFIC117-SS](https://www.amazon.com/Frigidaire-EFIC117-SS-26-lb-Ice-Maker/dp/B07JBJWP2W/?tag=kitchenpot-20).
+- **You want the best specs per dollar:** [Silonn bullet ice maker](https://www.amazon.com/Silonn-Countertop-Bullet-Ice-Maker/dp/B0BXXKFJK2/?tag=kitchenpot-20).
+- **You want to take it outside:** [Igloo ICEB26HNSS](https://www.amazon.com/Igloo-ICEB26HNSS-Self-Cleaning-Ice-Maker/dp/B07XS8DVPT/?tag=kitchenpot-20).
 
-Still deciding between the two types? The [owner reviews for the Frigidaire](https://www.amazon.com/product-reviews/B07JBJWP2W/?tag=kitchenpot-20) show how many buyers came to it after a nugget machine turned out to be more upkeep than they wanted.
+Still deciding between the two types? The [owner reviews for the Frigidaire](https://www.amazon.com/Frigidaire-EFIC117-SS-26-lb-Ice-Maker/product-reviews/B07JBJWP2W/?tag=kitchenpot-20) show how many buyers came to it after a nugget machine turned out to be more upkeep than they wanted.
 
 One last piece of advice. Buy the machine, then buy a box of freezer bags. The bags are what turn three pounds of storage into as much ice as you will ever need.
 

@@ -67,7 +67,7 @@ The traditional Classic has a full bolster, meaning the thick collar between bla
 
 The weight difference is not trivial. A retailer spec sheet puts the 8-inch demi-bolster Classic at 7.7 ounces. That is roughly 30 percent lighter than the full-bolster original. If you chop for long stretches, pick up both before deciding.
 
-An [8-inch Classic chef's knife](https://www.amazon.com/dp/B00009ZK08/?tag=kitchenpot-20) is the single knife to buy if you only buy one. A [6-inch version](https://www.amazon.com/dp/B00009ZK07/?tag=kitchenpot-20) suits smaller hands and smaller boards, which matters if you are working on a [narrow counter](/blog/countertop-organization-ideas-for-a-small-kitchen/).
+An [8-inch Classic chef's knife](https://www.amazon.com/8-inch-Classic-chefs-knife/dp/B00009ZK08/?tag=kitchenpot-20) is the single knife to buy if you only buy one. A [6-inch version](https://www.amazon.com/Wusthof-Classic-6-Inch-Chefs-Knife/dp/B00009ZK07/?tag=kitchenpot-20) suits smaller hands and smaller boards, which matters if you are working on a [narrow counter](/blog/countertop-organization-ideas-for-a-small-kitchen/).
 
 ### Classic Ikon: Same Blade, Better Grip
 
@@ -77,7 +77,7 @@ The handle is contoured rather than straight, with a curve that fills the palm. 
 
 You pay for that in weight and money. An 8-inch Classic Ikon chef's knife comes in around 9.1 ounces, noticeably heavier than the demi-bolster Classic. Some cooks love that heft. Others find it tiring.
 
-Cutting performance is identical. If someone tells you the [Classic Ikon](https://www.amazon.com/dp/B000YMURSE/?tag=kitchenpot-20) cuts better, they are describing how it feels, not how it cuts.
+Cutting performance is identical. If someone tells you the [Classic Ikon](https://www.amazon.com/Classic-Ikon/dp/B000YMURSE/?tag=kitchenpot-20) cuts better, they are describing how it feels, not how it cuts.
 
 ### Gourmet: Stamped, and Honest About It
 
@@ -87,7 +87,7 @@ Stamped means the blade shape is laser cut from a rolled sheet of steel rather t
 
 That is not a scandal. Two Rockwell points is a real but modest difference in edge retention, and a thin stamped blade cuts vegetables beautifully. Just do not pay forged prices for it. Our guide to [forged versus stamped knives](/blog/forged-vs-stamped-knives/) goes deeper on what the two processes change.
 
-A [Gourmet 8-inch chef's knife](https://www.amazon.com/dp/B0001FATMI/?tag=kitchenpot-20) is a reasonable first German knife. It is also a sensible knife to keep in a [small solo kitchen](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) where weight and storage both matter.
+A [Gourmet 8-inch chef's knife](https://www.amazon.com/Gourmet-8-inch-chefs-knife/dp/B0001FATMI/?tag=kitchenpot-20) is a reasonable first German knife. It is also a sensible knife to keep in a [small solo kitchen](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) where weight and storage both matter.
 
 ### Pro: Built for a Commercial Kitchen, Not Your Counter
 
@@ -95,7 +95,7 @@ Pro is the line almost no home cook needs, and the one most often misunderstood.
 
 Everything about it is aimed at a working kitchen. The handle can be bleached. The blade is cheap enough to replace when someone drops it in a bin. There is no bolster to slow down sharpening on a busy service.
 
-At home, the [Pro 8-inch cook's knife](https://www.amazon.com/dp/B008GRUNOC/?tag=kitchenpot-20) feels utilitarian next to a Classic. If you cook in volume, prep for a food business, or want a knife you will not mourn, it makes sense. Otherwise the Gourmet is the better stamped choice.
+At home, the [Pro 8-inch cook's knife](https://www.amazon.com/Pro-8-inch-cooks-knife/dp/B008GRUNOC/?tag=kitchenpot-20) feels utilitarian next to a Classic. If you cook in volume, prep for a food business, or want a knife you will not mourn, it makes sense. Otherwise the Gourmet is the better stamped choice.
 
 ## Forged or Stamped: What It Actually Changes
 
@@ -158,14 +158,14 @@ That last point is easy to overlook. A wooden handle looks better in photographs
 
 **Where the money does not show:**
 
-- **Big block sets.** A twelve-piece set is mostly knives you will never pick up: two paring knives, a tomato knife, a boning knife, six steak knives. Buying [a 7-piece Classic Ikon block set](https://www.amazon.com/dp/B08HSF3CPQ/?tag=kitchenpot-20) is better value than a fourteen-piece one, and buying three loose knives is better still.
+- **Big block sets.** A twelve-piece set is mostly knives you will never pick up: two paring knives, a tomato knife, a boning knife, six steak knives. Buying [a 7-piece Classic Ikon block set](https://www.amazon.com/a-7-piece-Classic-Ikon-block-set/dp/B08HSF3CPQ/?tag=kitchenpot-20) is better value than a fourteen-piece one, and buying three loose knives is better still.
 - **Specialty blades you already own.** A Wusthof bread knife cuts bread. So does a $25 serrated knife, because serrations do the work and the steel matters far less. The same applies to a [fillet knife](/blog/best-electric-fillet-knife/) or a [meat slicer](/blog/best-meat-slicer-for-home-use/), where the tool shape beats the brand.
 - **If you never sharpen.** A dull Wusthof is worse than a sharp cheap knife. If sharpening is not going to happen, the premium is wasted.
 - **Against direct-to-consumer rivals on paper.** Misen's 8-inch chef's knife lists a 14-degree edge per side at around $124, which is close to the Wusthof grind for less money. The steel and the warranty differ, so it is not a straight swap, but the gap is smaller than the price suggests. Direct-to-consumer brands play the same game in cookware, as our [Sardel review](/blog/sardel-cookware-review-is-this-direct-to-consumer-brand-worth-your-money/) found.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00009ZK08/?tag=kitchenpot-20) [Check Price at Misen](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=wusthof-knives-review&ued=https%3A%2F%2Fmisen.com%2Fcollections%2Fknives)
+[Check Price on Amazon](https://www.amazon.com/8-inch-Classic-chefs-knife/dp/B00009ZK08/?tag=kitchenpot-20) [Check Price at Misen](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=wusthof-knives-review&ued=https%3A%2F%2Fmisen.com%2Fcollections%2Fknives)
 
-A fair reading of owner feedback backs this up. Look at the [customer reviews for the Classic chef's knife](https://www.amazon.com/product-reviews/B00009ZK08/?tag=kitchenpot-20) and the recurring praise is for how long the edge holds. The recurring complaint is weight, followed by people surprised that a premium knife still needs sharpening.
+A fair reading of owner feedback backs this up. Look at the [customer reviews for the Classic chef's knife](https://www.amazon.com/8-inch-Classic-chefs-knife/product-reviews/B00009ZK08/?tag=kitchenpot-20) and the recurring praise is for how long the edge holds. The recurring complaint is weight, followed by people surprised that a premium knife still needs sharpening.
 
 ## How Wusthof Compares With Its Rivals
 

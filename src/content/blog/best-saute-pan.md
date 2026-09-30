@@ -56,12 +56,12 @@ Because the sides are vertical, a 12-inch sauté pan gives you noticeably more f
 
 ## Quick Picks
 
-- **Best overall:** [All-Clad D3 4-Quart Sauté Pan with Lid](https://www.amazon.com/dp/B004T6J64M/?tag=kitchenpot-20)
-- **Best value in clad stainless:** [Tramontina Signature Tri-Ply Clad 3-Quart Deep Sauté Pan](https://www.amazon.com/dp/B01M8LRH62/?tag=kitchenpot-20)
-- **Best for even heat and oven work:** [Misen 5-Ply Stainless Steel 3-Quart Sauté Pan with Lid](https://www.amazon.com/dp/B09V1SVSTZ/?tag=kitchenpot-20)
-- **Best mid-price all-rounder:** [Cuisinart MultiClad Pro 3.5-Quart Sauté Pan with Helper Handle](https://www.amazon.com/dp/B009W28RRA/?tag=kitchenpot-20)
-- **Best nonstick:** [Anolon Advanced Home Hard-Anodized Nonstick 5-Quart Sauté Pan](https://www.amazon.com/dp/B0812BLLJL/?tag=kitchenpot-20)
-- **Best for oven-to-table cooking:** [Lodge Pre-Seasoned Cast Iron Covered Deep Skillet, 5 Quart](https://www.amazon.com/dp/B00063RWXO/?tag=kitchenpot-20)
+- **Best overall:** [All-Clad D3 4-Quart Sauté Pan with Lid](https://www.amazon.com/All-Clad-D3-4-Quart-Saut-Pan-with-Lid/dp/B004T6J64M/?tag=kitchenpot-20)
+- **Best value in clad stainless:** [Tramontina Signature Tri-Ply Clad 3-Quart Deep Sauté Pan](https://www.amazon.com/Tramontina-Signature-Tri-Ply-Clad-3-Quart-Deep-Saut/dp/B01M8LRH62/?tag=kitchenpot-20)
+- **Best for even heat and oven work:** [Misen 5-Ply Stainless Steel 3-Quart Sauté Pan with Lid](https://www.amazon.com/Misen-5-Ply-Stainless-Steel-3-Quart-Saut-Pan/dp/B09V1SVSTZ/?tag=kitchenpot-20)
+- **Best mid-price all-rounder:** [Cuisinart MultiClad Pro 3.5-Quart Sauté Pan with Helper Handle](https://www.amazon.com/Cuisinart-MultiClad-Pro-3-5-Quart-Saut-Pan-with/dp/B009W28RRA/?tag=kitchenpot-20)
+- **Best nonstick:** [Anolon Advanced Home Hard-Anodized Nonstick 5-Quart Sauté Pan](https://www.amazon.com/Anolon-Advanced-Home-Hard-Anodized-Nonstick-5-Quart-Saut/dp/B0812BLLJL/?tag=kitchenpot-20)
+- **Best for oven-to-table cooking:** [Lodge Pre-Seasoned Cast Iron Covered Deep Skillet, 5 Quart](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Covered-Deep-Skillet-5/dp/B00063RWXO/?tag=kitchenpot-20)
 
 ## Side-by-Side Comparison
 
@@ -117,7 +117,7 @@ The handle is the one thing people either love or hate. It is a flat stainless s
 
 **Who should buy it:** Anyone who cooks most nights, does a lot of braising or pan sauces, and wants to buy once. If you like the brand and want the rest of the range, our [All-Clad D3 set review](/blog/all-clad-d3-cookware-set-review/) and the [D3 vs D5 comparison](/blog/all-clad-d3-vs-d5/) go deeper, and the [Copper Core line](/blog/all-clad-copper-core-cookware-set/) sits above both.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B004T6J64M/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/All-Clad-D3-4-Quart-Saut-Pan-with-Lid/dp/B004T6J64M/?tag=kitchenpot-20)
 
 ## 2. Tramontina Signature Tri-Ply Clad 3-Quart Deep Sauté Pan: Best Value in Clad Stainless
 
@@ -149,7 +149,7 @@ Three quarts suits one or two people well. It is the size that handles a pound o
 
 **Who should buy it:** Cooks who want real clad construction without spending $200, and anyone furnishing a first kitchen who would rather put the savings into a [decent knife set](/blog/best-knife-set-under-100/) or a [stockpot with a lid](/blog/best-stockpot-with-a-lid/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01M8LRH62/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Tramontina-Signature-Tri-Ply-Clad-3-Quart-Deep-Saut/dp/B01M8LRH62/?tag=kitchenpot-20)
 
 ## 3. Misen 5-Ply Stainless Steel 3-Quart Sauté Pan: Best for Even Heat and Oven Work
 
@@ -181,7 +181,7 @@ At 4 pounds empty and 17 inches from handle tip to rim, this is not a small pan.
 
 **Who should buy it:** Cooks who finish a lot of dishes in the oven, anyone on induction who wants a thick base, and people who would rather pay once for five-ply than twice for tri-ply.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09V1SVSTZ/?tag=kitchenpot-20) [Check Price at Misen](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=best-saute-pan&ued=https%3A%2F%2Fmisen.com%2Fproducts%2F3-quart-saute-pan)
+[Check Price on Amazon](https://www.amazon.com/Misen-5-Ply-Stainless-Steel-3-Quart-Saut-Pan/dp/B09V1SVSTZ/?tag=kitchenpot-20) [Check Price at Misen](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=best-saute-pan&ued=https%3A%2F%2Fmisen.com%2Fproducts%2F3-quart-saute-pan)
 
 ## 4. Cuisinart MultiClad Pro 3.5-Quart Sauté Pan with Helper Handle: Best Mid-Price All-Rounder
 
@@ -213,7 +213,7 @@ One caution on model numbers. Cuisinart has retired and reissued MultiClad Pro s
 
 **Who should buy it:** Home cooks who want clad stainless with two handles and dishwasher convenience, at a price between the Tramontina and the All-Clad.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B009W28RRA/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-MultiClad-Pro-3-5-Quart-Saut-Pan-with/dp/B009W28RRA/?tag=kitchenpot-20)
 
 ## 5. Anolon Advanced Home Hard-Anodized Nonstick 5-Quart Sauté Pan: Best Nonstick
 
@@ -246,7 +246,7 @@ Treat the coating as a consumable, because it is. Independent lab testing across
 
 **Who should buy it:** Anyone who cooks a lot of fish, eggs or glazed dishes, or who wants a big, light pan that washes in ten seconds. It pairs well with a clad stainless pan rather than replacing one. If you are weighing coatings, [stainless steel vs ceramic cookware](/blog/stainless-steel-vs-ceramic-cookware/) and our explainer on [what nonstick cookware is](/blog/what-is-nonstick-cookware/) are both worth a read first.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0812BLLJL/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Anolon-Advanced-Home-Hard-Anodized-Nonstick-5-Quart-Saut/dp/B0812BLLJL/?tag=kitchenpot-20)
 
 ## 6. Lodge Pre-Seasoned Cast Iron Covered Deep Skillet, 5 Quart: Best for Oven-to-Table Cooking
 
@@ -279,7 +279,7 @@ The trade-offs are real. It is heavy, it needs its seasoning maintained, and lon
 
 **Who should buy it:** Cooks who want one pan for searing, braising and serving, people who bake or grill with it too, and anyone who likes gear that outlasts them. If you want the same idea with a smoother finish, our [Stargazer skillet](/blog/stargazer-cast-iron-skillet/) and [Griswold cast iron](/blog/griswold-cast-iron-skillet-review/) write-ups compare the alternatives.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00063RWXO/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Covered-Deep-Skillet-5/dp/B00063RWXO/?tag=kitchenpot-20)
 
 ## What Size Sauté Pan Do You Need?
 
@@ -330,12 +330,12 @@ Cooking on a tight energy budget? A wide pan with a tight lid is one of the more
 
 ## Which Sauté Pan Should You Buy?
 
-- **Cook most nights and want to buy once:** the [All-Clad D3 4-quart](https://www.amazon.com/dp/B004T6J64M/?tag=kitchenpot-20).
-- **Want clad stainless for under $100:** the [Tramontina Signature 3-quart](https://www.amazon.com/dp/B01M8LRH62/?tag=kitchenpot-20).
-- **Finish a lot of dishes in the oven:** the [Misen 5-ply 3-quart](https://www.amazon.com/dp/B09V1SVSTZ/?tag=kitchenpot-20).
-- **Want two handles and dishwasher convenience:** the [Cuisinart MultiClad Pro 3.5-quart](https://www.amazon.com/dp/B009W28RRA/?tag=kitchenpot-20).
-- **Cook fish, eggs and glazes:** the [Anolon Advanced Home 5-quart](https://www.amazon.com/dp/B0812BLLJL/?tag=kitchenpot-20).
-- **Want one pan from sear to table:** the [Lodge 5-quart covered deep skillet](https://www.amazon.com/dp/B00063RWXO/?tag=kitchenpot-20).
+- **Cook most nights and want to buy once:** the [All-Clad D3 4-quart](https://www.amazon.com/All-Clad-D3-4-Quart-Saut-Pan-with-Lid/dp/B004T6J64M/?tag=kitchenpot-20).
+- **Want clad stainless for under $100:** the [Tramontina Signature 3-quart](https://www.amazon.com/Tramontina-Signature-Tri-Ply-Clad-3-Quart-Deep-Saut/dp/B01M8LRH62/?tag=kitchenpot-20).
+- **Finish a lot of dishes in the oven:** the [Misen 5-ply 3-quart](https://www.amazon.com/Misen-5-Ply-Stainless-Steel-3-Quart-Saut-Pan/dp/B09V1SVSTZ/?tag=kitchenpot-20).
+- **Want two handles and dishwasher convenience:** the [Cuisinart MultiClad Pro 3.5-quart](https://www.amazon.com/Cuisinart-MultiClad-Pro-3-5-Quart-Saut-Pan-with/dp/B009W28RRA/?tag=kitchenpot-20).
+- **Cook fish, eggs and glazes:** the [Anolon Advanced Home 5-quart](https://www.amazon.com/Anolon-Advanced-Home-Hard-Anodized-Nonstick-5-Quart-Saut/dp/B0812BLLJL/?tag=kitchenpot-20).
+- **Want one pan from sear to table:** the [Lodge 5-quart covered deep skillet](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Covered-Deep-Skillet-5/dp/B00063RWXO/?tag=kitchenpot-20).
 
 If you are building a kitchen from scratch rather than adding one pan, buying a set is usually cheaper per piece, and a [stackable set](/blog/7-best-stackable-pots-and-pans/) solves the storage problem at the same time. If you already have a skillet and a saucepan, a sauté pan is the next piece worth adding, and after that a [wok](/blog/best-wok-for-electric-stove/) or a [griddle pan](/blog/best-griddle-pan-for-pancakes/) depending on what you cook most.
 

@@ -44,12 +44,12 @@ The six pots below cover the range that actually gets used, from a 6-quart every
 
 ## Our Picks at a Glance
 
-- **Best overall:** [Tramontina Signature Tri-Ply Clad 8-Quart Stock Pot with Lid](https://www.amazon.com/dp/B00JAQ9CX6/?tag=kitchenpot-20)
-- **Best heavy-duty upgrade:** [Misen 5-Ply Stainless Steel 8-Quart Stockpot](https://www.amazon.com/dp/B09V1QJ2TN/?tag=kitchenpot-20)
-- **Best big-batch value:** [Cuisinart Chef's Classic Stainless 12-Quart Stockpot with Cover](https://www.amazon.com/dp/B00008CM6K/?tag=kitchenpot-20)
-- **Best for small kitchens:** [Cuisinart Chef's Classic Stainless 6-Quart Stockpot with Cover](https://www.amazon.com/dp/B00008CM6I/?tag=kitchenpot-20)
-- **Best for pasta and straining:** [Tramontina Lock & Drain 8-Quart Pasta Pot and Strainer](https://www.amazon.com/dp/B0766692NX/?tag=kitchenpot-20)
-- **Best for water bath canning:** [Granite Ware 15.5-Quart Water Bath Canner with Jar Rack](https://www.amazon.com/dp/B09V88MP7Q/?tag=kitchenpot-20)
+- **Best overall:** [Tramontina Signature Tri-Ply Clad 8-Quart Stock Pot with Lid](https://www.amazon.com/Tramontina-Signature-Tri-Ply-Clad-8-Quart-Stock-Pot/dp/B00JAQ9CX6/?tag=kitchenpot-20)
+- **Best heavy-duty upgrade:** [Misen 5-Ply Stainless Steel 8-Quart Stockpot](https://www.amazon.com/Misen-5-Ply-Stainless-Steel-8-Quart-Stockpot/dp/B09V1QJ2TN/?tag=kitchenpot-20)
+- **Best big-batch value:** [Cuisinart Chef's Classic Stainless 12-Quart Stockpot with Cover](https://www.amazon.com/Cuisinart-Chefs-Classic-Stainless-12-Quart-Stockpot-with-Cover/dp/B00008CM6K/?tag=kitchenpot-20)
+- **Best for small kitchens:** [Cuisinart Chef's Classic Stainless 6-Quart Stockpot with Cover](https://www.amazon.com/Cuisinart-Chefs-Classic-Stainless-6-Quart-Stockpot-with-Cover/dp/B00008CM6I/?tag=kitchenpot-20)
+- **Best for pasta and straining:** [Tramontina Lock & Drain 8-Quart Pasta Pot and Strainer](https://www.amazon.com/Tramontina-Lock-and-Drain-8-Quart-Pasta-Pot-and/dp/B0766692NX/?tag=kitchenpot-20)
+- **Best for water bath canning:** [Granite Ware 15.5-Quart Water Bath Canner with Jar Rack](https://www.amazon.com/Granite-Ware-15-5-Quart-Water-Bath-Canner-with/dp/B09V88MP7Q/?tag=kitchenpot-20)
 
 ## How These Six Compare
 
@@ -102,7 +102,7 @@ The NSF certification means it meets commercial standards for cleanability, and 
 
 **Who should buy it:** Anyone who makes soup, stock, chili or braises regularly and wants one pot to do the browning and the simmering. It is also the natural big pot to pair with a [clad sauté pan](/blog/best-saute-pan/) if you are building a kit piece by piece.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00JAQ9CX6/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Tramontina-Signature-Tri-Ply-Clad-8-Quart-Stock-Pot/dp/B00JAQ9CX6/?tag=kitchenpot-20)
 
 ## 2. Misen 5-Ply Stainless Steel 8-Quart Stockpot: Best Heavy-Duty Upgrade
 
@@ -134,7 +134,7 @@ At 6.43 pounds empty, it is heavy before you add anything. Eight quarts of stock
 
 **Who should buy it:** Batch cooks, stock makers, and anyone who already knows they want a pot they will not replace. If you are comparing direct-to-consumer cookware brands more broadly, our [Sardel review](/blog/sardel-cookware-review-is-this-direct-to-consumer-brand-worth-your-money/) and [360 Cookware review](/blog/360-cookware-review/) look at the same trade-offs.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09V1QJ2TN/?tag=kitchenpot-20) [Check Price at Misen](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=best-stockpot-with-a-lid&ued=https%3A%2F%2Fmisen.com%2Fproducts%2F8-quart-stockpot)
+[Check Price on Amazon](https://www.amazon.com/Misen-5-Ply-Stainless-Steel-8-Quart-Stockpot/dp/B09V1QJ2TN/?tag=kitchenpot-20) [Check Price at Misen](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=best-stockpot-with-a-lid&ued=https%3A%2F%2Fmisen.com%2Fproducts%2F8-quart-stockpot)
 
 ## 3. Cuisinart Chef's Classic Stainless 12-Quart Stockpot: Best Big-Batch Value
 
@@ -167,7 +167,7 @@ Be honest with yourself about storage before you commit. A 12-quart pot is rough
 
 **Who should buy it:** Anyone who cooks for six or more, makes stock in bulk, or wants a boil pot for seafood and corn. It also earns its keep if you batch cook for the freezer; our notes on [meal prep for one in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) scale up fine.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00008CM6K/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-Chefs-Classic-Stainless-12-Quart-Stockpot-with-Cover/dp/B00008CM6K/?tag=kitchenpot-20)
 
 ## 4. Cuisinart Chef's Classic Stainless 6-Quart Stockpot: Best for Small Kitchens
 
@@ -199,7 +199,7 @@ The construction is identical to the 12-quart pot above, so the same caveats app
 
 **Who should buy it:** Solo cooks, couples, students and anyone in a small kitchen who wants one pot that does most things. It fits neatly with our [cookware sizing guide for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) and the checklist in [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00008CM6I/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-Chefs-Classic-Stainless-6-Quart-Stockpot-with-Cover/dp/B00008CM6I/?tag=kitchenpot-20)
 
 ## 5. Tramontina Lock & Drain 8-Quart Pasta Pot and Strainer: Best for Pasta and Straining
 
@@ -231,7 +231,7 @@ The tri-ply base spreads heat well enough for soup, though the single-layer wall
 
 **Who should buy it:** Pasta-heavy households, small-sink kitchens, and anyone who resents washing a colander. It is a good companion to a [stackable pot set](/blog/7-best-stackable-pots-and-pans/) if storage is tight.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0766692NX/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Tramontina-Lock-and-Drain-8-Quart-Pasta-Pot-and/dp/B0766692NX/?tag=kitchenpot-20)
 
 ## 6. Granite Ware 15.5-Quart Water Bath Canner: Best for Water Bath Canning
 
@@ -263,7 +263,7 @@ Enamel on steel is light for its size, which is good, because 15.5 quarts of wat
 
 **Who should buy it:** Anyone putting up jam, pickles, salsa or tomatoes. If your preserving runs more towards the freezer, a [vacuum sealer](/blog/best-vacuum-sealer-for-sous-vide/) and a set of [airtight storage containers](/blog/best-airtight-food-storage-containers/) will do more for you than a canner.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09V88MP7Q/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Granite-Ware-15-5-Quart-Water-Bath-Canner-with/dp/B09V88MP7Q/?tag=kitchenpot-20)
 
 ## How Many Quarts Do You Actually Need?
 
@@ -311,12 +311,12 @@ If your big-batch cooking is mostly pressure-based rather than stovetop, it is w
 
 ## Which Stockpot Should You Buy?
 
-- **One pot, most jobs, browning included:** the [Tramontina Signature 8-quart](https://www.amazon.com/dp/B00JAQ9CX6/?tag=kitchenpot-20).
-- **You batch cook and want to buy once:** the [Misen 5-ply 8-quart](https://www.amazon.com/dp/B09V1QJ2TN/?tag=kitchenpot-20).
-- **You need volume more than construction:** the [Cuisinart Chef's Classic 12-quart](https://www.amazon.com/dp/B00008CM6K/?tag=kitchenpot-20).
-- **Small kitchen, one or two people:** the [Cuisinart Chef's Classic 6-quart](https://www.amazon.com/dp/B00008CM6I/?tag=kitchenpot-20).
-- **Pasta most weeks, small sink:** the [Tramontina Lock & Drain 8-quart](https://www.amazon.com/dp/B0766692NX/?tag=kitchenpot-20).
-- **You preserve food:** the [Granite Ware 15.5-quart canner](https://www.amazon.com/dp/B09V88MP7Q/?tag=kitchenpot-20).
+- **One pot, most jobs, browning included:** the [Tramontina Signature 8-quart](https://www.amazon.com/Tramontina-Signature-Tri-Ply-Clad-8-Quart-Stock-Pot/dp/B00JAQ9CX6/?tag=kitchenpot-20).
+- **You batch cook and want to buy once:** the [Misen 5-ply 8-quart](https://www.amazon.com/Misen-5-Ply-Stainless-Steel-8-Quart-Stockpot/dp/B09V1QJ2TN/?tag=kitchenpot-20).
+- **You need volume more than construction:** the [Cuisinart Chef's Classic 12-quart](https://www.amazon.com/Cuisinart-Chefs-Classic-Stainless-12-Quart-Stockpot-with-Cover/dp/B00008CM6K/?tag=kitchenpot-20).
+- **Small kitchen, one or two people:** the [Cuisinart Chef's Classic 6-quart](https://www.amazon.com/Cuisinart-Chefs-Classic-Stainless-6-Quart-Stockpot-with-Cover/dp/B00008CM6I/?tag=kitchenpot-20).
+- **Pasta most weeks, small sink:** the [Tramontina Lock & Drain 8-quart](https://www.amazon.com/Tramontina-Lock-and-Drain-8-Quart-Pasta-Pot-and/dp/B0766692NX/?tag=kitchenpot-20).
+- **You preserve food:** the [Granite Ware 15.5-quart canner](https://www.amazon.com/Granite-Ware-15-5-Quart-Water-Bath-Canner-with/dp/B09V88MP7Q/?tag=kitchenpot-20).
 
 If you are buying a whole kitchen rather than one pot, a set usually works out cheaper per piece; our roundup of the [best cookware sets under $200](/blog/best-cookware-set-under-200/) and the [Cuisinart MultiClad Pro set review](/blog/cuisinart-mcp-12n-multiclad-pro-stainless-steel-12-piece-cookware-set/) are the places to start. And if the pot is going camping rather than staying home, [camping cookware](/blog/best-camping-cookware/) is a different problem with different answers.
 

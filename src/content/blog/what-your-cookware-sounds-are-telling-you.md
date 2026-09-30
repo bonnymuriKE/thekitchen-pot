@@ -4,7 +4,7 @@ slug: what-your-cookware-sounds-are-telling-you
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-27
 modDate: 2026-09-27
-author: boniface-muriuki
+author: Boniface Muriuki
 image: ""
 excerpt: A hum, a tick, a dull thud when you tap it. Cookware talks constantly,
   and most of what it says is useful information you're probably ignoring.

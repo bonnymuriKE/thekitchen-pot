@@ -61,12 +61,12 @@ Pick your lane first. Everything else follows from it.
 
 ## Quick Picks
 
-- **Best personal blender overall:** [NutriBullet Pro 900](https://www.amazon.com/dp/B07SX5VKZY/?tag=kitchenpot-20)
-- **Best for thick shakes and bowls:** [Ninja Foodi Power Nutri DUO SS101](https://www.amazon.com/dp/B08C1DJNR2/?tag=kitchenpot-20)
-- **Best cup to live with:** [Beast Mega 1200](https://www.amazon.com/dp/B0F2WH4GLS/?tag=kitchenpot-20)
-- **Best full-size blender:** [Vitamix Explorian E310](https://www.amazon.com/dp/B0758JHZM3/?tag=kitchenpot-20)
-- **Best of both lanes:** [Ninja Professional Plus DUO BN751](https://www.amazon.com/dp/B0BMGSZMW9/?tag=kitchenpot-20)
-- **Cheapest way to mix powder:** [Hamilton Beach Personal Blender](https://www.amazon.com/dp/B00KVZ27UA/?tag=kitchenpot-20)
+- **Best personal blender overall:** [NutriBullet Pro 900](https://www.amazon.com/NutriBullet-Pro-900/dp/B07SX5VKZY/?tag=kitchenpot-20)
+- **Best for thick shakes and bowls:** [Ninja Foodi Power Nutri DUO SS101](https://www.amazon.com/Ninja-Foodi-Power-Nutri-DUO-SS101/dp/B08C1DJNR2/?tag=kitchenpot-20)
+- **Best cup to live with:** [Beast Mega 1200](https://www.amazon.com/Beast-Mega-1200/dp/B0F2WH4GLS/?tag=kitchenpot-20)
+- **Best full-size blender:** [Vitamix Explorian E310](https://www.amazon.com/Vitamix-Explorian-E310/dp/B0758JHZM3/?tag=kitchenpot-20)
+- **Best of both lanes:** [Ninja Professional Plus DUO BN751](https://www.amazon.com/Ninja-Professional-Plus-Blender-DUO/dp/B0BMGSZMW9/?tag=kitchenpot-20)
+- **Cheapest way to mix powder:** [Hamilton Beach Personal Blender](https://www.amazon.com/Hamilton-Beach-Personal-Blender/dp/B00KVZ27UA/?tag=kitchenpot-20)
 
 ## Protein Shake Blenders Compared
 
@@ -113,7 +113,7 @@ Cleaning is where owners grumble. The cup screws onto a threaded blade base, and
 
 **Who should buy it:** Anyone making one or two shakes a day who wants to drink straight from the cup. If you are choosing between brands, our [NutriBullet vs Ninja comparison](/blog/nutribullet-vs-ninja-blender-reviews/) breaks down the differences in more detail.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07SX5VKZY/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/NutriBullet-Pro-900/dp/B07SX5VKZY/?tag=kitchenpot-20)
 
 ## 2. Ninja Foodi Power Nutri DUO SS101: Best for Thick Shakes and Bowls
 
@@ -147,7 +147,7 @@ At 7.94 pounds and under 10 inches tall, it stores easily. Ninja lists the blend
 
 **Who should buy it:** People who eat their shake with a spoon, or who want a thick post-workout drink rather than a thin one. It pairs well with [easy meal prep for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/), since you can portion frozen fruit into bags ahead of time.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08C1DJNR2/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Foodi-Power-Nutri-DUO-SS101/dp/B08C1DJNR2/?tag=kitchenpot-20)
 
 ## 3. Beast Mega 1200: Best Cup to Live With
 
@@ -180,9 +180,9 @@ It is a tall machine at 15.75 inches, but only 4.92 inches wide. On a narrow cou
 - Only two settings: blend and pulse.
 - Tall enough that it may not clear a low cabinet.
 
-**Who should buy it:** Daily shake drinkers who want the machine on the counter and are willing to pay for build quality. You can scan the [owner reviews](https://www.amazon.com/product-reviews/B0F2WH4GLS/?tag=kitchenpot-20) to see how the vessels hold up over a year or two.
+**Who should buy it:** Daily shake drinkers who want the machine on the counter and are willing to pay for build quality. You can scan the [owner reviews](https://www.amazon.com/Beast-Mega-1200/product-reviews/B0F2WH4GLS/?tag=kitchenpot-20) to see how the vessels hold up over a year or two.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0F2WH4GLS/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Beast-Mega-1200/dp/B0F2WH4GLS/?tag=kitchenpot-20)
 
 ## 4. Vitamix Explorian E310: Best Full-Size Blender
 
@@ -217,7 +217,7 @@ The five-year full warranty covers parts, performance and labour. At 10.5 pounds
 
 **Who should buy it:** Households that want one blender for shakes, soups and sauces. If that sounds like more machine than you need, read our guide to the [difference between a food processor and a blender](/blog/what-is-the-difference-between-a-food-processor-and-a-blender/) first.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0758JHZM3/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Vitamix-Explorian-E310/dp/B0758JHZM3/?tag=kitchenpot-20)
 
 ## 5. Ninja Professional Plus DUO BN751: Best of Both Lanes
 
@@ -251,7 +251,7 @@ At 1,400 peak watts it is the most powerful machine here on paper. Peak watts de
 
 **Who should buy it:** Shared kitchens where the shake habits differ. It is also a sensible first blender if you are [stocking a small kitchen from scratch](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BMGSZMW9/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Professional-Plus-Blender-DUO/dp/B0BMGSZMW9/?tag=kitchenpot-20)
 
 ## 6. Hamilton Beach Personal Blender: Cheapest Way to Mix Powder
 
@@ -286,7 +286,7 @@ Hamilton Beach backs it with a three-year limited warranty, which is longer than
 
 **Who should buy it:** Students, commuters and anyone whose shake is mostly powder and liquid. It belongs on the same shortlist as the other [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00KVZ27UA/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Hamilton-Beach-Personal-Blender/dp/B00KVZ27UA/?tag=kitchenpot-20)
 
 ## What Actually Blends Frozen Fruit and Ice
 
@@ -363,12 +363,12 @@ If you want the fruit without the machine, cold blended coffee drinks are a simi
 
 ## Which Blender Should You Buy?
 
-- **One or two shakes a day, drunk from the cup:** [NutriBullet Pro 900](https://www.amazon.com/dp/B07SX5VKZY/?tag=kitchenpot-20).
-- **Thick, spoonable shakes and smoothie bowls:** [Ninja Foodi Power Nutri DUO](https://www.amazon.com/dp/B08C1DJNR2/?tag=kitchenpot-20).
-- **A daily machine you want to keep for years:** [Beast Mega 1200](https://www.amazon.com/dp/B0F2WH4GLS/?tag=kitchenpot-20).
-- **Shakes plus soups, sauces and everything else:** [Vitamix Explorian E310](https://www.amazon.com/dp/B0758JHZM3/?tag=kitchenpot-20).
-- **A household with different habits:** [Ninja Professional Plus DUO](https://www.amazon.com/dp/B0BMGSZMW9/?tag=kitchenpot-20).
-- **Powder and milk on a tight budget:** [Hamilton Beach Personal Blender](https://www.amazon.com/dp/B00KVZ27UA/?tag=kitchenpot-20).
+- **One or two shakes a day, drunk from the cup:** [NutriBullet Pro 900](https://www.amazon.com/NutriBullet-Pro-900/dp/B07SX5VKZY/?tag=kitchenpot-20).
+- **Thick, spoonable shakes and smoothie bowls:** [Ninja Foodi Power Nutri DUO](https://www.amazon.com/Ninja-Foodi-Power-Nutri-DUO-SS101/dp/B08C1DJNR2/?tag=kitchenpot-20).
+- **A daily machine you want to keep for years:** [Beast Mega 1200](https://www.amazon.com/Beast-Mega-1200/dp/B0F2WH4GLS/?tag=kitchenpot-20).
+- **Shakes plus soups, sauces and everything else:** [Vitamix Explorian E310](https://www.amazon.com/Vitamix-Explorian-E310/dp/B0758JHZM3/?tag=kitchenpot-20).
+- **A household with different habits:** [Ninja Professional Plus DUO](https://www.amazon.com/Ninja-Professional-Plus-Blender-DUO/dp/B0BMGSZMW9/?tag=kitchenpot-20).
+- **Powder and milk on a tight budget:** [Hamilton Beach Personal Blender](https://www.amazon.com/Hamilton-Beach-Personal-Blender/dp/B00KVZ27UA/?tag=kitchenpot-20).
 
 One last rule of thumb. Buy for the shake you make on a busy Tuesday, not the elaborate one you make on a free Sunday. The Tuesday shake is the one that decides whether the machine stays on the counter or ends up in the back of a cupboard with your other [rarely used appliances](/blog/coolest-kitchen-appliances-to-buy/).
 

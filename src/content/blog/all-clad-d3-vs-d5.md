@@ -29,7 +29,7 @@ authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where 
 ---
 Owning an All-Clad cookware set is the ultimate desire of every cooking enthusiast. The pans and pots are crafted using multi-ply technology that ensures **superb heat conductivity, uniform heat distribution, and an overall ergonomic design.**
 
-However, shopping for All-Clad pots and pans can be tricky. If you’ve been searching for a set, you must have come across the terms **[All-Clad D3](https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/dp/B005H8KD3E?tag=kitchenpot-20)** and **[All-Clad D5](https://www.amazon.com/All-Clad-BD005710-R-Stainless-Dishwasher-Cookware/dp/B006ZNCMBQ/?tag=kitchenpot-20)**. So, what’s the difference between the two constructions?
+However, shopping for All-Clad pots and pans can be tricky. If you’ve been searching for a set, you must have come across the terms **[All-Clad D3](https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/dp/B005H8KD3E/?tag=kitchenpot-20)** and **[All-Clad D5](https://www.amazon.com/All-Clad-BD005710-R-Stainless-Dishwasher-Cookware/dp/B006ZNCMBQ/?tag=kitchenpot-20)**. So, what’s the difference between the two constructions?
 
 This article explores the All-Clad D3 vs D5 question. If you’ve been yearning to upgrade your kitchen arsenal, then this comprehensive All-Clad guide will be super helpful. 
 
@@ -66,7 +66,7 @@ After Ulam registered All-Clad to specialize in cladded cookware, his pans and p
 
 **Feature**
 
-**[All-Clad D3 Cookware](https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/dp/B005H8KD3E?tag=kitchenpot-20)**
+**[All-Clad D3 Cookware](https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/dp/B005H8KD3E/?tag=kitchenpot-20)**
 
 **[All-Clad D5 Cookware](https://www.amazon.com/All-Clad-BD005710-R-Stainless-Dishwasher-Cookware/dp/B006ZNCMBQ/?tag=kitchenpot-20)**
 
@@ -207,9 +207,9 @@ Additionally, the D5 matte finish will hide scratches better than the shiny D3 c
 
 All-Clad D3 cookware sets come in three different lines namely:
 
-* **[All-Clad Stainless Steel Cookware.](https://www.amazon.com/All-Clad-Stainless-Tri-Ply-Dishwasher-Cookware/dp/B004T6MSIS?tag=kitchenpot-20)** This is the most popular All-Clad line. It comes with polished surfaces that are super attractive. Additionally, their efficacy is undisputed. 
-* **[All-Clad D3 Compact Cookware.](https://www.amazon.com/All-Clad-ST40010-Stainless-Dishwasher-Cookware/dp/B07HB97DPB?tag=kitchenpot-20)** This is your ideal All-Clad set if you have limited space. It features a stackable design that allows nesting, thus saving your cabinet space. The lids are designed to allow multi-functional use among some of the pans. 
-* **[All-Clad D3 Armor Cookware.](https://www.amazon.com/All-Clad-Stainless-Tri-Ply-Dishwasher-Cookware/dp/B01LY8FLZ7?tag=kitchenpot-20)** This armor variation comes with a textured stainless steel surface specially designed to offer superb nonstick properties. 
+* **[All-Clad Stainless Steel Cookware.](https://www.amazon.com/All-Clad-Stainless-Tri-Ply-Dishwasher-Cookware/dp/B004T6MSIS/?tag=kitchenpot-20)** This is the most popular All-Clad line. It comes with polished surfaces that are super attractive. Additionally, their efficacy is undisputed. 
+* **[All-Clad D3 Compact Cookware.](https://www.amazon.com/All-Clad-ST40010-Stainless-Dishwasher-Cookware/dp/B07HB97DPB/?tag=kitchenpot-20)** This is your ideal All-Clad set if you have limited space. It features a stackable design that allows nesting, thus saving your cabinet space. The lids are designed to allow multi-functional use among some of the pans. 
+* **[All-Clad D3 Armor Cookware.](https://www.amazon.com/All-Clad-Stainless-Tri-Ply-Dishwasher-Cookware/dp/B01LY8FLZ7/?tag=kitchenpot-20)** This armor variation comes with a textured stainless steel surface specially designed to offer superb nonstick properties. 
 
 The type of All-Clad cookware you choose will depend on your needs. If you have limited space, you should consider the compact variation. All the same, all these pans offer exceptional performance, and the bottom line will purely be based on personal preferences. 
 
@@ -217,14 +217,14 @@ The type of All-Clad cookware you choose will depend on your needs. If you have 
 
 All-Clad D5 comes in two different variations, including:
 
-* **[All-Clad D5 Brushed Cookware.](https://www.amazon.com/All-Clad-BD005710-R-Stainless-Dishwasher-Cookware/dp/B006ZNCMBQ?tag=kitchenpot-20)** The pans and pots come with a brushed matte exterior, which is relatively dull compared to the shiny D3 pans. However, the design is more modern, elegant, and stylish. There are approximately 26 products under the brushed umbrella. 
-* **[All-Clad D5 Polished Cookware.](https://www.amazon.com/All-Clad-Polished-Stainless-Dishwasher-Stockpot/dp/B077V1JLLZ?tag=kitchenpot-20)** If you prefer the traditional shiny appearance on your pans, then the All-Clad D5 polished cookware is your ideal choice. Its performance is as good as the brushed ones. This product line has 32 products, primarily sold as individual pans/pots.
+* **[All-Clad D5 Brushed Cookware.](https://www.amazon.com/All-Clad-BD005710-R-Stainless-Dishwasher-Cookware/dp/B006ZNCMBQ/?tag=kitchenpot-20)** The pans and pots come with a brushed matte exterior, which is relatively dull compared to the shiny D3 pans. However, the design is more modern, elegant, and stylish. There are approximately 26 products under the brushed umbrella. 
+* **[All-Clad D5 Polished Cookware.](https://www.amazon.com/All-Clad-Polished-Stainless-Dishwasher-Stockpot/dp/B077V1JLLZ/?tag=kitchenpot-20)** If you prefer the traditional shiny appearance on your pans, then the All-Clad D5 polished cookware is your ideal choice. Its performance is as good as the brushed ones. This product line has 32 products, primarily sold as individual pans/pots.
 
 ## **All-Clad D5 and D3 sets Buying Options**
 
 If you intend to buy a set of either D5 or D3 cookware, then here are your most ideal options:
 
-### **1. [All-Clad D3 Stainless Cookware Set, Pots and Pans, Tri-Ply Stainless Steel, Professional Grade, 10-Piece](https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/dp/B005H8KD3E?tag=kitchenpot-20)**
+### **1. [All-Clad D3 Stainless Cookware Set, Pots and Pans, Tri-Ply Stainless Steel, Professional Grade, 10-Piece](https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/dp/B005H8KD3E/?tag=kitchenpot-20)**
 
 **Material**
 
@@ -246,7 +246,7 @@ Stainless Steel
 
 Yes
 
-[Check Latest Price on Amazon](https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/dp/B005H8KD3E?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/dp/B005H8KD3E/?tag=kitchenpot-20)
 
 ### **2. [All-Clad Brushed D5 Stainless Cookware Set, Pots and Pans, 5-Ply Stainless Steel, Professional Grade, 10-Piece](https://www.amazon.com/All-Clad-BD005710-R-Stainless-Dishwasher-Cookware/dp/B006ZNCMBQ/?tag=kitchenpot-20)**
 

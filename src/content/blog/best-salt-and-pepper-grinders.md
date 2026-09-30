@@ -43,12 +43,12 @@ Below are six pairs and mills worth buying, split between classic manual sets an
 
 ## Our Picks at a Glance
 
-- **Best overall set:** [Cole & Mason Derwent Salt and Pepper Mill Set](https://www.amazon.com/dp/B0099V31D4/?tag=kitchenpot-20)
-- **Best set to buy once:** [Peugeot Paris u'Select Salt and Pepper Mill Set](https://www.amazon.com/dp/B07199TKJ8/?tag=kitchenpot-20)
-- **Best budget set:** [OXO Good Grips Accent Mess-Free Salt and Pepper Grinder Set](https://www.amazon.com/dp/B08731P36V/?tag=kitchenpot-20)
-- **Best electric set:** [Latent Epicure USB-C Rechargeable Salt and Pepper Grinder Set](https://www.amazon.com/dp/B01A39TKLW/?tag=kitchenpot-20)
-- **Best electric for more than salt and pepper:** [FinaMill USB Rechargeable Spice Grinder](https://www.amazon.com/dp/B0CJLRXM7Z/?tag=kitchenpot-20)
-- **Best for weak grip:** [Kuhn Rikon Adjustable Ratchet Grinder](https://www.amazon.com/dp/B00HSF4BCI/?tag=kitchenpot-20)
+- **Best overall set:** [Cole & Mason Derwent Salt and Pepper Mill Set](https://www.amazon.com/Cole-and-Mason-Derwent-Salt-and-Pepper-Mill-Set/dp/B0099V31D4/?tag=kitchenpot-20)
+- **Best set to buy once:** [Peugeot Paris u'Select Salt and Pepper Mill Set](https://www.amazon.com/Peugeot-Paris-uSelect-Salt-and-Pepper-Mill-Set/dp/B07199TKJ8/?tag=kitchenpot-20)
+- **Best budget set:** [OXO Good Grips Accent Mess-Free Salt and Pepper Grinder Set](https://www.amazon.com/OXO-Good-Grips-Accent-Mess-Free-Salt-and-Pepper/dp/B08731P36V/?tag=kitchenpot-20)
+- **Best electric set:** [Latent Epicure USB-C Rechargeable Salt and Pepper Grinder Set](https://www.amazon.com/Latent-Epicure-USB-C-Rechargeable-Salt-and-Pepper-Grinder/dp/B01A39TKLW/?tag=kitchenpot-20)
+- **Best electric for more than salt and pepper:** [FinaMill USB Rechargeable Spice Grinder](https://www.amazon.com/FinaMill-USB-Rechargeable-Spice-Grinder/dp/B0CJLRXM7Z/?tag=kitchenpot-20)
+- **Best for weak grip:** [Kuhn Rikon Adjustable Ratchet Grinder](https://www.amazon.com/Kuhn-Rikon-Adjustable-Ratchet-Grinder/dp/B00HSF4BCI/?tag=kitchenpot-20)
 
 ## Salt and pepper are two different jobs
 
@@ -102,7 +102,7 @@ This is the set that solves the most problems for the least money. Each mill get
 
 The stainless-and-acrylic body is the other quiet advantage. Stainless does not absorb pepper oils or salt residue the way wood does, so a wipe with a damp cloth keeps both mills looking new on a set table. At 7.5 inches they are tall enough to grind over a pot without being awkward in a cabinet, which matters if you are already fighting for space and working through [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/).
 
-Owner feedback is broadly positive on the grinding itself: people who upgraded from supermarket mills repeatedly mention how much more evenly and generously these put out, and how quick refilling is. The complaints that recur are about plastic details rather than the burrs, including a cap clip on the salt mill that can break, and instructions printed almost too small to read. You can skim the [customer review patterns](https://www.amazon.com/product-reviews/B0099V31D4/?tag=kitchenpot-20) yourself before deciding.
+Owner feedback is broadly positive on the grinding itself: people who upgraded from supermarket mills repeatedly mention how much more evenly and generously these put out, and how quick refilling is. The complaints that recur are about plastic details rather than the burrs, including a cap clip on the salt mill that can break, and instructions printed almost too small to read. You can skim the [customer review patterns](https://www.amazon.com/Cole-and-Mason-Derwent-Salt-and-Pepper-Mill-Set/product-reviews/B0099V31D4/?tag=kitchenpot-20) yourself before deciding.
 
 **What we like:**
 
@@ -121,7 +121,7 @@ Owner feedback is broadly positive on the grinding itself: people who upgraded f
 
 **Who should buy it:** Almost anyone buying their first proper pair. It sits well next to the rest of a considered table setup, from [dinnerware](/blog/7-best-dinnerware-sets/) to a decent [knife set](/blog/best-knife-set-under-100/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0099V31D4/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cole-and-Mason-Derwent-Salt-and-Pepper-Mill-Set/dp/B0099V31D4/?tag=kitchenpot-20)
 
 ## 2. Peugeot Paris u'Select Salt and Pepper Mill Set: Best Set to Buy Once
 
@@ -153,7 +153,7 @@ There are two rules attached. Keep the mills dry, because the pepper warranty ex
 
 **Who should buy it:** Cooks buying a pair they intend to keep for decades, and anyone who likes the look of wood next to their [cookware](/blog/best-cookware-set-under-200/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07199TKJ8/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Peugeot-Paris-uSelect-Salt-and-Pepper-Mill-Set/dp/B07199TKJ8/?tag=kitchenpot-20)
 
 ## 3. OXO Good Grips Accent Mess-Free Salt and Pepper Grinder Set: Best Budget Set
 
@@ -185,7 +185,7 @@ The compromise is output. Ceramic teeth are blunter than machined steel, so each
 
 **Who should buy it:** First apartments, rentals, and anyone who wants a second pair for the dining table. It belongs on the same shortlist as the rest of our [small kitchen gadgets worth buying](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08731P36V/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/OXO-Good-Grips-Accent-Mess-Free-Salt-and-Pepper/dp/B08731P36V/?tag=kitchenpot-20)
 
 ## 4. Latent Epicure USB-C Rechargeable Salt and Pepper Grinder Set: Best Electric Set
 
@@ -218,7 +218,7 @@ Both mills use adjustable ceramic burrs, so either can hold salt or pepper. Fill
 
 **Who should buy it:** Anyone with limited grip or wrist strength, and cooks who season constantly while their other hand is busy. If your counter is already full, read our [countertop organization ideas](/blog/countertop-organization-ideas-for-a-small-kitchen/) first.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01A39TKLW/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Latent-Epicure-USB-C-Rechargeable-Salt-and-Pepper-Grinder/dp/B01A39TKLW/?tag=kitchenpot-20)
 
 ## 5. FinaMill USB Rechargeable Spice Grinder: Best Electric for More Than Salt and Pepper
 
@@ -251,7 +251,7 @@ For a small kitchen that is a meaningful saving in both money and shelf space. O
 
 **Who should buy it:** People who grind more than salt and pepper, and anyone building a spice-heavy kitchen without much storage. It fits the same philosophy as our [meal prep ideas for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/): fewer objects doing more jobs.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CJLRXM7Z/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/FinaMill-USB-Rechargeable-Spice-Grinder/dp/B0CJLRXM7Z/?tag=kitchenpot-20)
 
 ## 6. Kuhn Rikon Adjustable Ratchet Grinder: Best for Weak Grip
 
@@ -284,7 +284,7 @@ Because it is sold singly, a matched pair means buying two. That is still a reas
 
 **Who should buy it:** Anyone who finds twisting a mill painful, and cooks who want one tool for several dried spices.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00HSF4BCI/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Kuhn-Rikon-Adjustable-Ratchet-Grinder/dp/B00HSF4BCI/?tag=kitchenpot-20)
 
 ## Manual, battery or rechargeable?
 
@@ -341,12 +341,12 @@ If your counter is the problem, the fixes in [vertical storage for small kitchen
 
 ## Which salt and pepper grinders should you buy?
 
-- **One set, right mechanisms, sensible price:** [Cole & Mason Derwent set](https://www.amazon.com/dp/B0099V31D4/?tag=kitchenpot-20).
-- **Buy once and stop thinking about it:** [Peugeot Paris u'Select set](https://www.amazon.com/dp/B07199TKJ8/?tag=kitchenpot-20).
-- **Cheapest pair actually worth owning:** [OXO Accent Mess-Free set](https://www.amazon.com/dp/B08731P36V/?tag=kitchenpot-20).
-- **You need one-handed seasoning:** [Latent Epicure rechargeable set](https://www.amazon.com/dp/B01A39TKLW/?tag=kitchenpot-20).
-- **You grind more than salt and pepper:** [FinaMill](https://www.amazon.com/dp/B0CJLRXM7Z/?tag=kitchenpot-20).
-- **Twisting hurts:** [Kuhn Rikon Ratchet Grinder](https://www.amazon.com/dp/B00HSF4BCI/?tag=kitchenpot-20).
+- **One set, right mechanisms, sensible price:** [Cole & Mason Derwent set](https://www.amazon.com/Cole-and-Mason-Derwent-Salt-and-Pepper-Mill-Set/dp/B0099V31D4/?tag=kitchenpot-20).
+- **Buy once and stop thinking about it:** [Peugeot Paris u'Select set](https://www.amazon.com/Peugeot-Paris-uSelect-Salt-and-Pepper-Mill-Set/dp/B07199TKJ8/?tag=kitchenpot-20).
+- **Cheapest pair actually worth owning:** [OXO Accent Mess-Free set](https://www.amazon.com/OXO-Good-Grips-Accent-Mess-Free-Salt-and-Pepper/dp/B08731P36V/?tag=kitchenpot-20).
+- **You need one-handed seasoning:** [Latent Epicure rechargeable set](https://www.amazon.com/Latent-Epicure-USB-C-Rechargeable-Salt-and-Pepper-Grinder/dp/B01A39TKLW/?tag=kitchenpot-20).
+- **You grind more than salt and pepper:** [FinaMill](https://www.amazon.com/FinaMill-USB-Rechargeable-Spice-Grinder/dp/B0CJLRXM7Z/?tag=kitchenpot-20).
+- **Twisting hurts:** [Kuhn Rikon Ratchet Grinder](https://www.amazon.com/Kuhn-Rikon-Adjustable-Ratchet-Grinder/dp/B00HSF4BCI/?tag=kitchenpot-20).
 
 Still deciding? Pick up whichever mill you already own and grind onto a white plate. If the salt comes out in a slow trickle, it has moisture in it. If the pepper is half dust and half gravel, the burr has had it. Either answer tells you what to replace first. For a deeper look at pepper mechanisms alone, including the high-output mills built for people who season heavily, read our guide to the [best pepper mill](/blog/best-pepper-mill/).
 

@@ -62,13 +62,13 @@ One warning before you chase a big number. Building codes based on the Internati
 
 ## Quick Picks
 
-- **Best overall:** [Broan-NuTone GLA2303SS](https://www.amazon.com/dp/B0DHF5CVQP/?tag=kitchenpot-20)
-- **Best for heavy cooking:** [Hauslane Chef Series UC-PS18](https://www.amazon.com/dp/B06XWFPJLH/?tag=kitchenpot-20)
-- **Best baffle-filter hood:** [Cosmo COS-QS75](https://www.amazon.com/dp/B013JVO1U6/?tag=kitchenpot-20)
-- **Best value at 500 CFM:** [Empava EMPV-30RH01](https://www.amazon.com/dp/B08GKHTLH1/?tag=kitchenpot-20)
-- **Best slim profile:** [Cosmo COS-5MU30](https://www.amazon.com/dp/B074PBLJVY/?tag=kitchenpot-20)
-- **Best for a 24-inch cooktop:** [Broan-NuTone BCSD124SS](https://www.amazon.com/dp/B071P48KT4/?tag=kitchenpot-20)
-- **Best ductless pick for renters:** [Broan-NuTone 413004](https://www.amazon.com/dp/B0002YTM0I/?tag=kitchenpot-20)
+- **Best overall:** [Broan-NuTone GLA2303SS](https://www.amazon.com/Broan-NuTone-GLA2303SS/dp/B0DHF5CVQP/?tag=kitchenpot-20)
+- **Best for heavy cooking:** [Hauslane Chef Series UC-PS18](https://www.amazon.com/Hauslane-Chef-Series-UC-PS18/dp/B06XWFPJLH/?tag=kitchenpot-20)
+- **Best baffle-filter hood:** [Cosmo COS-QS75](https://www.amazon.com/Cosmo-COS-QS75/dp/B013JVO1U6/?tag=kitchenpot-20)
+- **Best value at 500 CFM:** [Empava EMPV-30RH01](https://www.amazon.com/Empava-EMPV-30RH01/dp/B08GKHTLH1/?tag=kitchenpot-20)
+- **Best slim profile:** [Cosmo COS-5MU30](https://www.amazon.com/Cosmo-COS-5MU30/dp/B074PBLJVY/?tag=kitchenpot-20)
+- **Best for a 24-inch cooktop:** [Broan-NuTone BCSD124SS](https://www.amazon.com/Broan-NuTone-BCSD124SS/dp/B071P48KT4/?tag=kitchenpot-20)
+- **Best ductless pick for renters:** [Broan-NuTone 413004](https://www.amazon.com/Broan-NuTone-413004/dp/B0002YTM0I/?tag=kitchenpot-20)
 
 ## Under-Cabinet Range Hoods Compared
 
@@ -86,7 +86,7 @@ One warning before you chase a big number. Building codes based on the Internati
 
 We have not installed or run these hoods. The picks come from manufacturer spec sheets, HVI certified ratings where they exist, filter and duct design, and the complaint patterns that repeat across verified owner reviews.
 
-## 1. [Broan-NuTone GLA2303SS](https://www.amazon.com/dp/B0DHF5CVQP/?tag=kitchenpot-20): Best Overall
+## 1. [Broan-NuTone GLA2303SS](https://www.amazon.com/Broan-NuTone-GLA2303SS/dp/B0DHF5CVQP/?tag=kitchenpot-20): Best Overall
 
 - **Airflow:** 350 max blower CFM, three speeds
 - **Noise:** 1.5 sones at normal speed
@@ -116,9 +116,9 @@ It is also ENERGY STAR certified and HVI certified, so the airflow figure was me
 
 **Who should buy it:** Almost anyone with a 30-inch electric, induction or modest gas cooktop who wants the hood to be quiet enough to actually use.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0DHF5CVQP/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Broan-NuTone-GLA2303SS/dp/B0DHF5CVQP/?tag=kitchenpot-20)
 
-## 2. [Hauslane Chef Series UC-PS18](https://www.amazon.com/dp/B06XWFPJLH/?tag=kitchenpot-20): Best for Heavy Cooking
+## 2. [Hauslane Chef Series UC-PS18](https://www.amazon.com/Hauslane-Chef-Series-UC-PS18/dp/B06XWFPJLH/?tag=kitchenpot-20): Best for Heavy Cooking
 
 - **Airflow:** 500 CFM measured in the lab, which Hauslane markets as 860 CFM equivalent
 - **Noise:** 1.5 to 7 sones across six speeds
@@ -148,9 +148,9 @@ Six speeds is more useful than it sounds. The bottom speed sits at 1.5 sones for
 
 **Who should buy it:** Anyone who cooks with real heat on a regular basis. Pair it with a [smokeless indoor grill](/blog/gotham-steel-smokeless-grill-review/) and you can cook indoors without setting off the alarm.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B06XWFPJLH/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Hauslane-Chef-Series-UC-PS18/dp/B06XWFPJLH/?tag=kitchenpot-20)
 
-## 3. [Cosmo COS-QS75](https://www.amazon.com/dp/B013JVO1U6/?tag=kitchenpot-20): Best Baffle-Filter Hood
+## 3. [Cosmo COS-QS75](https://www.amazon.com/Cosmo-COS-QS75/dp/B013JVO1U6/?tag=kitchenpot-20): Best Baffle-Filter Hood
 
 - **Airflow:** 500 CFM, four speeds
 - **Noise:** As low as 40 dB on the lowest speed with rigid duct
@@ -180,9 +180,9 @@ Cosmo quotes noise as low as 40 dB on speed one with rigid duct, and that last p
 
 **Who should buy it:** Cooks who want baffle filters and a quiet low speed without going to a pro-style price. It suits a kitchen where the hood sits in your eyeline, since the panel looks tidier than rocker switches.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B013JVO1U6/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cosmo-COS-QS75/dp/B013JVO1U6/?tag=kitchenpot-20)
 
-## 4. [Empava EMPV-30RH01](https://www.amazon.com/dp/B08GKHTLH1/?tag=kitchenpot-20): Best Value at 500 CFM
+## 4. [Empava EMPV-30RH01](https://www.amazon.com/Empava-EMPV-30RH01/dp/B08GKHTLH1/?tag=kitchenpot-20): Best Value at 500 CFM
 
 - **Airflow:** 500 CFM, three speeds, twin motors
 - **Noise:** Under 65 dB, per Empava
@@ -212,9 +212,9 @@ Empava ships it with a GFCI power cord already fitted, which saves hiring an ele
 
 **Who should buy it:** Someone fitting a hood into a new duct run who wants 500 CFM without paying a premium badge price. Empava also sells it direct, and the price moves between the two.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08GKHTLH1/?tag=kitchenpot-20) [Check Price at Empava](https://www.awin1.com/cread.php?awinmid=114924&awinaffid=1956629&clickref=best-under-cabinet-range-hood&ued=https%3A%2F%2Fempava.com%2Fproducts%2F30-inch-under-cabinet-range-hood-30rh01)
+[Check Price on Amazon](https://www.amazon.com/Empava-EMPV-30RH01/dp/B08GKHTLH1/?tag=kitchenpot-20) [Check Price at Empava](https://www.awin1.com/cread.php?awinmid=114924&awinaffid=1956629&clickref=best-under-cabinet-range-hood&ued=https%3A%2F%2Fempava.com%2Fproducts%2F30-inch-under-cabinet-range-hood-30rh01)
 
-## 5. [Cosmo COS-5MU30](https://www.amazon.com/dp/B074PBLJVY/?tag=kitchenpot-20): Best Slim Profile for Shallow Cabinets
+## 5. [Cosmo COS-5MU30](https://www.amazon.com/Cosmo-COS-5MU30/dp/B074PBLJVY/?tag=kitchenpot-20): Best Slim Profile for Shallow Cabinets
 
 - **Airflow:** 200 CFM, three speeds
 - **Noise:** As low as about 50 dB on the lowest speed
@@ -244,9 +244,9 @@ The 5-inch duct is smaller than the 6-inch standard, which limits what you can c
 
 **Who should buy it:** Renters and small-kitchen cooks who need a hood that disappears. If your counters are already tight, read our [countertop organization ideas](/blog/countertop-organization-ideas-for-a-small-kitchen/) next.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B074PBLJVY/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cosmo-COS-5MU30/dp/B074PBLJVY/?tag=kitchenpot-20)
 
-## 6. [Broan-NuTone BCSD124SS](https://www.amazon.com/dp/B071P48KT4/?tag=kitchenpot-20): Best for a 24-Inch Cooktop
+## 6. [Broan-NuTone BCSD124SS](https://www.amazon.com/Broan-NuTone-BCSD124SS/dp/B071P48KT4/?tag=kitchenpot-20): Best for a 24-Inch Cooktop
 
 - **Airflow:** 300 max blower CFM, two speeds
 - **Noise:** 5 sones at high speed
@@ -276,9 +276,9 @@ Be clear-eyed about the noise. Five sones on high is loud, roughly what Broan co
 
 **Who should buy it:** Anyone with a 24-inch range in a rental or a compact kitchen who wants a real ducted hood rather than a recirculating box.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B071P48KT4/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Broan-NuTone-BCSD124SS/dp/B071P48KT4/?tag=kitchenpot-20)
 
-## 7. [Broan-NuTone 413004](https://www.amazon.com/dp/B0002YTM0I/?tag=kitchenpot-20): Best Ductless Pick for Renters
+## 7. [Broan-NuTone 413004](https://www.amazon.com/Broan-NuTone-413004/dp/B0002YTM0I/?tag=kitchenpot-20): Best Ductless Pick for Renters
 
 - **Type:** Non-ducted only, no outside vent
 - **Noise:** 3.5 sones
@@ -308,7 +308,7 @@ The trade is price and simplicity. At around $129 it is a fraction of a ducted h
 
 **Who should buy it:** Renters, condo owners with no exterior wall, and anyone on a tight budget who cooks lightly. It pairs sensibly with low-steam cooking gear such as an [air fryer](/blog/best-air-fryers-under-100/), though you still have to [clean the basket](/blog/how-to-clean-an-air-fryer-basket/) to keep smoke down.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0002YTM0I/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Broan-NuTone-413004/dp/B0002YTM0I/?tag=kitchenpot-20)
 
 ## Ducted vs Ductless: What Recirculating Really Does
 
@@ -428,13 +428,13 @@ Heat is the other half of the problem in a small kitchen. An oven running for an
 
 ## Which Under-Cabinet Range Hood Should You Buy?
 
-- **Standard 30-inch kitchen, want it quiet:** [Broan-NuTone GLA2303SS](https://www.amazon.com/dp/B0DHF5CVQP/?tag=kitchenpot-20).
-- **Gas range and heavy frying:** [Hauslane Chef Series UC-PS18](https://www.amazon.com/dp/B06XWFPJLH/?tag=kitchenpot-20).
-- **You want baffle filters and a tidy touch panel:** [Cosmo COS-QS75](https://www.amazon.com/dp/B013JVO1U6/?tag=kitchenpot-20).
-- **500 CFM on a budget, new duct run:** [Empava EMPV-30RH01](https://www.amazon.com/dp/B08GKHTLH1/?tag=kitchenpot-20).
-- **Shallow cabinets or a narrow galley:** [Cosmo COS-5MU30](https://www.amazon.com/dp/B074PBLJVY/?tag=kitchenpot-20).
-- **24-inch cooktop:** [Broan-NuTone BCSD124SS](https://www.amazon.com/dp/B071P48KT4/?tag=kitchenpot-20).
-- **No duct and no permission to add one:** [Broan-NuTone 413004](https://www.amazon.com/dp/B0002YTM0I/?tag=kitchenpot-20).
+- **Standard 30-inch kitchen, want it quiet:** [Broan-NuTone GLA2303SS](https://www.amazon.com/Broan-NuTone-GLA2303SS/dp/B0DHF5CVQP/?tag=kitchenpot-20).
+- **Gas range and heavy frying:** [Hauslane Chef Series UC-PS18](https://www.amazon.com/Hauslane-Chef-Series-UC-PS18/dp/B06XWFPJLH/?tag=kitchenpot-20).
+- **You want baffle filters and a tidy touch panel:** [Cosmo COS-QS75](https://www.amazon.com/Cosmo-COS-QS75/dp/B013JVO1U6/?tag=kitchenpot-20).
+- **500 CFM on a budget, new duct run:** [Empava EMPV-30RH01](https://www.amazon.com/Empava-EMPV-30RH01/dp/B08GKHTLH1/?tag=kitchenpot-20).
+- **Shallow cabinets or a narrow galley:** [Cosmo COS-5MU30](https://www.amazon.com/Cosmo-COS-5MU30/dp/B074PBLJVY/?tag=kitchenpot-20).
+- **24-inch cooktop:** [Broan-NuTone BCSD124SS](https://www.amazon.com/Broan-NuTone-BCSD124SS/dp/B071P48KT4/?tag=kitchenpot-20).
+- **No duct and no permission to add one:** [Broan-NuTone 413004](https://www.amazon.com/Broan-NuTone-413004/dp/B0002YTM0I/?tag=kitchenpot-20).
 
 If you take one thing away, make it this: buy for the duct you can actually build, then pick the quietest hood that meets your CFM number. A 1.5-sone hood at 350 CFM that runs every night beats a 900 CFM monster you never switch on.
 

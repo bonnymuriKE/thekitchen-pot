@@ -102,7 +102,7 @@ This is the method that makes the most sense if you [cook for one](/blog/small-k
 3. Freeze until solid, about an hour or two.
 4. Wrap each portion individually, then put them all in one labeled freezer bag.
 
-Silicone freezer molds make this even easier. A [Souper Cubes 1/2 cup tray](https://www.amazon.com/dp/B08B514B5R/?tag=kitchenpot-20) holds half a block per section. Press the softened cream cheese in, freeze, pop out the blocks and bag them. Now you can pull out exactly [half a cup](/blog/how-many-ounces-in-a-quart/) for a recipe instead of thawing a whole brick.
+Silicone freezer molds make this even easier. A [Souper Cubes 1/2 cup tray](https://www.amazon.com/Souper-Cubes-1-2-cup-tray/dp/B08B514B5R/?tag=kitchenpot-20) holds half a block per section. Press the softened cream cheese in, freeze, pop out the blocks and bag them. Now you can pull out exactly [half a cup](/blog/how-many-ounces-in-a-quart/) for a recipe instead of thawing a whole brick.
 
 **Vacuum sealing helps too.** Removing all the air cuts down on freezer burn. If you already own a sealer, here's [how to use a vacuum sealer](/blog/how-to-use-a-vacuum-sealer/) for small portions like this. If you're thinking about getting one, our guide to the [best vacuum sealers](/blog/best-vacuum-sealer-for-sous-vide/) compares options. A set of [airtight food storage containers](/blog/best-airtight-food-storage-containers/) works well for opened cream cheese in the fridge or freezer.
 

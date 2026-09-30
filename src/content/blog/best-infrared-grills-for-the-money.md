@@ -53,9 +53,9 @@ And that’s not all, with an infrared grill, you can preheat at high temperatur
 
 ## **7 Best Infrared Grills for the Money**
 
-### **1. [Char-Broil 463370719 Performance TRU-Infrared 3-Burner Cart Style Gas Grill](https://www.amazon.com/Char-Broil-463370719-Performance-TRU-Infrared-Stainless/dp/B07JYQBQG5?tag=kitchenpot-20)** 
+### **1. [Char-Broil 463370719 Performance TRU-Infrared 3-Burner Cart Style Gas Grill](https://www.amazon.com/Char-Broil-463370719-Performance-TRU-Infrared-Stainless/dp/B07JYQBQG5/?tag=kitchenpot-20)** 
 
-[Check Price on Amazon](https://www.amazon.com/Char-Broil-463370719-Performance-TRU-Infrared-Stainless/dp/B07JYQBQG5?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Char-Broil-463370719-Performance-TRU-Infrared-Stainless/dp/B07JYQBQG5/?tag=kitchenpot-20)
 
 Looking for a top-performing, stylish infrared grill for the money? Well, with the char broil 463370719 performance TRU-Infrared grill you’re good to go.
 
@@ -83,9 +83,9 @@ And to top it all up, the device also features a swing-a-way warming rack and a 
 * There are small holes in the infrared plates which can get bits of food stuck in them, so it can be difficult to clean the infrared grates
 * The appliance is flimsier than other higher price grill
 
-### **2. [Char-Broil Grill2Go X200 Portable Infrared Liquid Propane Gas Grill](https://www.amazon.com/Char-Broil-Grill2Go-Portable-TRU-Infrared-Propane/dp/B00BFPMLI8?tag=kitchenpot-20)**
+### **2. [Char-Broil Grill2Go X200 Portable Infrared Liquid Propane Gas Grill](https://www.amazon.com/Char-Broil-Grill2Go-Portable-TRU-Infrared-Propane/dp/B00BFPMLI8/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Char-Broil-Grill2Go-Portable-TRU-Infrared-Propane/dp/B00BFPMLI8?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Char-Broil-Grill2Go-Portable-TRU-Infrared-Propane/dp/B00BFPMLI8/?tag=kitchenpot-20)
 
 Are you an adventurous person? Do you enjoy outdoor camping or a boat trip? Well, the Char-Broil Grill2Go X200 infrared grill is the best suit for you.
 
@@ -106,9 +106,9 @@ Additionally, the device features a high-impact frame with legs, and carry handl
 * The cooking plates requires regular cleaning, and seasoning as they can develop surface rust quickly if food residue is left on them
 * The device can run hot and so it has to be regulated from time to time
 
-### **3.** [Northfire Propane Infrared Grill-Single, InfernoGo, Silver](https://www.amazon.com/NORTHFIRE-Propane-Infrared-Grill-Single-InfernoGo/dp/B07M7DVMTF?tag=kitchenpot-20)
+### **3.** [Northfire Propane Infrared Grill-Single, InfernoGo, Silver](https://www.amazon.com/NORTHFIRE-Propane-Infrared-Grill-Single-InfernoGo/dp/B07M7DVMTF/?tag=kitchenpot-20)
 
-[Check Price on Amazon](https://www.amazon.com/NORTHFIRE-Propane-Infrared-Grill-Single-InfernoGo/dp/B07M7DVMTF?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/NORTHFIRE-Propane-Infrared-Grill-Single-InfernoGo/dp/B07M7DVMTF/?tag=kitchenpot-20)
 
 Are you looking for all-rounded and aesthetically beautiful infrared grills for the money? Well, the Northfire Propane Infrared Grill-Single, InfernoGo, Silver is your ideal appliance. It can achieve up to 1500 degrees Fahrenheit and cook steak in just a few minutes!
 
@@ -133,9 +133,9 @@ And last but not least, you can double up your workspace effectively by simply b
 
 * The serving shelf is sold separately
 
-### **4. [Char-Broil The Big Easy TRU-Infrared Grill](https://www.amazon.com/Char-Broil-TRU-Infrared-Smoker-Roaster-Grill/dp/B00365FIAS?tag=kitchenpot-20)**
+### **4. [Char-Broil The Big Easy TRU-Infrared Grill](https://www.amazon.com/Char-Broil-TRU-Infrared-Smoker-Roaster-Grill/dp/B00365FIAS/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Char-Broil-TRU-Infrared-Smoker-Roaster-Grill/dp/B00365FIAS?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Char-Broil-TRU-Infrared-Smoker-Roaster-Grill/dp/B00365FIAS/?tag=kitchenpot-20)
 
 Are you searching for the finest infrared grill that lets you grill a variety of dishes? Well, look no further, the char-broil infrared grill allows you to grill, smoke, or even roast your food.
 
@@ -162,9 +162,9 @@ The device measures 23.1 x 23.4 x 36.2 inches, and 22.7 pounds.
 
 * The grill’s top and basket can be quite difficult to clean
 
-### **5. [Solaire Sol-EV17A Everywhere Portable Infrared Grill](https://www.amazon.com/Solaire-SOL-EV17A-Everywhere-Portable-Stainless/dp/B003UNTIG6?tag=kitchenpot-20)**
+### **5. [Solaire Sol-EV17A Everywhere Portable Infrared Grill](https://www.amazon.com/Solaire-SOL-EV17A-Everywhere-Portable-Stainless/dp/B003UNTIG6/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Solaire-SOL-EV17A-Everywhere-Portable-Stainless/dp/B003UNTIG6?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Solaire-SOL-EV17A-Everywhere-Portable-Stainless/dp/B003UNTIG6/?tag=kitchenpot-20)
 
 Headed to the park, go camping, or just want to grill in the comfort of your home? The Solaire infrared grill is the ideal choice for you.
 
@@ -194,9 +194,9 @@ Though the device has so many good features, it lacks a secondary burner or a wa
 * Relatively narrow temperature range, mostly on the hot end of the scale
 * Warranty duration is shorter than most of its counterparts
 
-### **6. [Magma Products Catalina 2 Infrared Gourmet Series Gas Grill](https://www.amazon.com/Magma-Products-A10-1218-2-Catalina-Stainless/dp/B00NCSUZFW?tag=kitchenpot-20)**
+### **6. [Magma Products Catalina 2 Infrared Gourmet Series Gas Grill](https://www.amazon.com/Magma-Products-A10-1218-2-Catalina-Stainless/dp/B00NCSUZFW/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Magma-Products-A10-1218-2-Catalina-Stainless/dp/B00NCSUZFW?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Magma-Products-A10-1218-2-Catalina-Stainless/dp/B00NCSUZFW/?tag=kitchenpot-20)
 
 Looking for an ideal choice of an infrared grill for the money? Well, we got your back, the magma product Catalina 2 infrared is the best fit if you want to cook for a larger crowd.
 
@@ -221,9 +221,9 @@ And that’s not all, the appliance is equipped with integrated fold-away legs l
 * The device has an inaccurate regulator
 * The appliance cannot be used in direct wind
 
-### **7. [Philips Smoke-less Indoor BBQ Grill](https://www.amazon.com/Philips-Smoke-less-Collection-HD6371-94/dp/B01D6KCY4K?tag=kitchenpot-20)**
+### **7. [Philips Smoke-less Indoor BBQ Grill](https://www.amazon.com/Philips-Smoke-less-Collection-HD6371-94/dp/B01D6KCY4K/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Philips-Smoke-less-Collection-HD6371-94/dp/B01D6KCY4K?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Philips-Smoke-less-Collection-HD6371-94/dp/B01D6KCY4K/?tag=kitchenpot-20)
 
 If you’re looking for an infrared grill with advanced infrared heating technology, then the Philips smoke-less indoor BBQ grill is the ideal choice for you.
 

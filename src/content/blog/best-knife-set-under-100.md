@@ -55,12 +55,12 @@ Neither approach is wrong. A block set gives you steak knives and a place to sto
 
 ## Top Picks for Around $100
 
-- **Best overall:** [Mercer Culinary Genesis 6-Piece Forged Knife Block Set](https://www.amazon.com/dp/B000IBU9FW/?tag=kitchenpot-20)
-- **Best three-knife starter set:** [Victorinox Swiss Classic 3-Piece Chef's Knife Set](https://www.amazon.com/dp/B005LRYR6K/?tag=kitchenpot-20)
-- **Best full block for the money:** [Cuisinart Triple Rivet 15-Piece Block Set](https://www.amazon.com/dp/B00GIBK8HU/?tag=kitchenpot-20)
-- **Best block with steak knives:** [Henckels Statement 15-Piece Knife Block Set](https://www.amazon.com/dp/B00GHX5HGG/?tag=kitchenpot-20)
-- **Cheapest complete set:** [Amazon Basics 14-Piece Knife Block Set](https://www.amazon.com/dp/B00R3Z49G6/?tag=kitchenpot-20)
-- **Best block with a built-in sharpener:** [Astercook 15-Piece Knife Block Set](https://www.amazon.com/dp/B0BW9239PC/?tag=kitchenpot-20)
+- **Best overall:** [Mercer Culinary Genesis 6-Piece Forged Knife Block Set](https://www.amazon.com/Mercer-Culinary-Genesis-6-Piece-Forged-Knife-Block-Set/dp/B000IBU9FW/?tag=kitchenpot-20)
+- **Best three-knife starter set:** [Victorinox Swiss Classic 3-Piece Chef's Knife Set](https://www.amazon.com/Victorinox-Swiss-Classic-3-Piece-Chefs-Knife-Set/dp/B005LRYR6K/?tag=kitchenpot-20)
+- **Best full block for the money:** [Cuisinart Triple Rivet 15-Piece Block Set](https://www.amazon.com/Cuisinart-Triple-Rivet-15-Piece-Block-Set/dp/B00GIBK8HU/?tag=kitchenpot-20)
+- **Best block with steak knives:** [Henckels Statement 15-Piece Knife Block Set](https://www.amazon.com/Henckels-Statement-15-Piece-Knife-Block-Set/dp/B00GHX5HGG/?tag=kitchenpot-20)
+- **Cheapest complete set:** [Amazon Basics 14-Piece Knife Block Set](https://www.amazon.com/Top-Picks-for-Around-100/dp/B00R3Z49G6/?tag=kitchenpot-20)
+- **Best block with a built-in sharpener:** [Astercook 15-Piece Knife Block Set](https://www.amazon.com/Astercook-15-Piece-Knife-Block-Set/dp/B0BW9239PC/?tag=kitchenpot-20)
 
 ## Side by Side
 
@@ -114,7 +114,7 @@ Independent reviewers consistently rank this set as the best value in the catego
 
 **Who should buy it:** Anyone who cooks seriously and would rather have five good knives than fifteen average ones. If you want to understand the construction difference first, our explainer on [forged vs stamped knives](/blog/forged-vs-stamped-knives/) is the background reading.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B000IBU9FW/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Mercer-Culinary-Genesis-6-Piece-Forged-Knife-Block-Set/dp/B000IBU9FW/?tag=kitchenpot-20)
 
 ## 2. Victorinox Swiss Classic 3-Piece Chef's Knife Set: Best Three-Knife Starter Set
 
@@ -147,7 +147,7 @@ Buying three knives instead of fifteen also solves a storage problem before it s
 
 **Who should buy it:** First apartments, students, anyone replacing a drawer of bad knives, and cooks who already own a block they like. Pair it with a good board from our [over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) roundup and you have a working prep station for well under $100.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B005LRYR6K/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Victorinox-Swiss-Classic-3-Piece-Chefs-Knife-Set/dp/B005LRYR6K/?tag=kitchenpot-20)
 
 ## 3. Cuisinart Triple Rivet 15-Piece Block Set: Best Full Block for the Money
 
@@ -180,7 +180,7 @@ The blades are light. That makes them easy to use quickly and a little less conf
 
 **Who should buy it:** New households, first apartments, and anyone who wants to solve cutlery once and move on to the rest of the kitchen. If you are working through a whole setup, our list of [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/) is a good next stop.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00GIBK8HU/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-Triple-Rivet-15-Piece-Block-Set/dp/B00GIBK8HU/?tag=kitchenpot-20)
 
 ## 4. Henckels Statement 15-Piece Knife Block Set: Best Block With Steak Knives
 
@@ -213,7 +213,7 @@ Stamped construction keeps the weight down. Henckels notes on the [Statement pro
 
 **Who should buy it:** Cooks who want a full block and care about which knives are in it. If counter space is the sticking point, the fixes in our [countertop organisation ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) will help more than a smaller set.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00GHX5HGG/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Henckels-Statement-15-Piece-Knife-Block-Set/dp/B00GHX5HGG/?tag=kitchenpot-20)
 
 ## 5. Amazon Basics 14-Piece Knife Block Set: Cheapest Complete Set
 
@@ -246,7 +246,7 @@ Treat it as a starter kit rather than a lifetime purchase. Plenty of people buy 
 
 **Who should buy it:** Students, renters filling a short-term kitchen, anyone outfitting a rental property, and cooks who want to find out what they use before spending real money. It pairs naturally with the low-cost approach in [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00R3Z49G6/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Amazon-Basics-14-Piece-Knife-Block-Set/dp/B00R3Z49G6/?tag=kitchenpot-20)
 
 ## 6. Astercook 15-Piece Knife Block Set: Best Block With a Built-In Sharpener
 
@@ -279,7 +279,7 @@ Fifteen pieces means the usual mix of kitchen knives, steak knives, shears and t
 
 **Who should buy it:** Households where knives get dull because nobody maintains them, and anyone who wants a complete set with maintenance built in.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0BW9239PC/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Astercook-15-Piece-Knife-Block-Set/dp/B0BW9239PC/?tag=kitchenpot-20)
 
 ## Forged or Stamped at This Price?
 
@@ -310,7 +310,7 @@ There is a third path that nobody selling knife blocks wants to mention: buy one
 
 Misen sells its knives individually as well as in sets, and several of them land under $100 on their own, including the 3.5-inch paring knife and the 6-inch bunka. The steel is Japanese AICHI ACUTO440, rated at 58 (±2) HRC, which is harder than the German steel in most budget sets and holds an edge longer. If you would rather own two good knives than fifteen adequate ones, that is where to start looking.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B09DNL33FG/?tag=kitchenpot-20) [Check Price at Misen](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=best-knife-set-under-100&ued=https%3A%2F%2Fmisen.com%2Fproducts%2Fparing-knife)
+[Check Price on Amazon](https://www.amazon.com/Or-Skip-the-Set-Entirely/dp/B09DNL33FG/?tag=kitchenpot-20) [Check Price at Misen](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=best-knife-set-under-100&ued=https%3A%2F%2Fmisen.com%2Fproducts%2Fparing-knife)
 
 ## Keeping Budget Knives Working
 
@@ -325,12 +325,12 @@ Storage is where small kitchens struggle most with cutlery. A wall-mounted strip
 
 ## Which Knife Set Should You Buy?
 
-- **You cook often and want real knives:** the [Mercer Culinary Genesis 6-piece](https://www.amazon.com/dp/B000IBU9FW/?tag=kitchenpot-20).
-- **You want the budget in the blades, not the block:** the [Victorinox Swiss Classic 3-piece](https://www.amazon.com/dp/B005LRYR6K/?tag=kitchenpot-20).
-- **You are filling an empty kitchen:** the [Cuisinart Triple Rivet 15-piece](https://www.amazon.com/dp/B00GIBK8HU/?tag=kitchenpot-20).
-- **You want the best knife lineup in a full block:** the [Henckels Statement 15-piece](https://www.amazon.com/dp/B00GHX5HGG/?tag=kitchenpot-20), bought on sale.
-- **You want the cheapest complete set:** the [Amazon Basics 14-piece](https://www.amazon.com/dp/B00R3Z49G6/?tag=kitchenpot-20).
-- **Nobody in your house will ever sharpen a knife:** the [Astercook 15-piece](https://www.amazon.com/dp/B0BW9239PC/?tag=kitchenpot-20).
+- **You cook often and want real knives:** the [Mercer Culinary Genesis 6-piece](https://www.amazon.com/Mercer-Culinary-Genesis-6-Piece-Forged-Knife-Block-Set/dp/B000IBU9FW/?tag=kitchenpot-20).
+- **You want the budget in the blades, not the block:** the [Victorinox Swiss Classic 3-piece](https://www.amazon.com/Victorinox-Swiss-Classic-3-Piece-Chefs-Knife-Set/dp/B005LRYR6K/?tag=kitchenpot-20).
+- **You are filling an empty kitchen:** the [Cuisinart Triple Rivet 15-piece](https://www.amazon.com/Cuisinart-Triple-Rivet-15-Piece-Block-Set/dp/B00GIBK8HU/?tag=kitchenpot-20).
+- **You want the best knife lineup in a full block:** the [Henckels Statement 15-piece](https://www.amazon.com/Henckels-Statement-15-Piece-Knife-Block-Set/dp/B00GHX5HGG/?tag=kitchenpot-20), bought on sale.
+- **You want the cheapest complete set:** the [Amazon Basics 14-piece](https://www.amazon.com/Which-Knife-Set-Should-You-Buy/dp/B00R3Z49G6/?tag=kitchenpot-20).
+- **Nobody in your house will ever sharpen a knife:** the [Astercook 15-piece](https://www.amazon.com/Astercook-15-Piece-Knife-Block-Set/dp/B0BW9239PC/?tag=kitchenpot-20).
 
 One more thing worth spending on before you upgrade knives again: a board big enough to work on. Cramped prep space causes more bad cuts than dull blades do, and our notes on [easy meal prep for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) cover how to lay out a small counter so a chef's knife has room to move. If you are also replacing pans, the [best cookware set under $200](/blog/best-cookware-set-under-200/) and our picks for a [sauté pan](/blog/best-saute-pan/) and a [stockpot with a lid](/blog/best-stockpot-with-a-lid/) round out the same budget.
 

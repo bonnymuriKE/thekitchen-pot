@@ -41,7 +41,7 @@ Japanese cuisine has quickly gained popularity, and it has become a favorite for
 
 ## 6 Best Sushi Making Kits for the money
 
-**[1. Delamu Sushi Making Kit – Best for Beginners](https://www.amazon.com/Bamboo-Carbonized-Rolling-Mold-Resistant-Included/dp/B0728F12KD?tag=kitchenpot-20)**
+**[1. Delamu Sushi Making Kit – Best for Beginners](https://www.amazon.com/Bamboo-Carbonized-Rolling-Mold-Resistant-Included/dp/B0728F12KD/?tag=kitchenpot-20)**
 
 Features
 
@@ -65,7 +65,7 @@ Delamu
 
 10.5 x 4.5 x 1.6 inches
 
-[Check Latest Price on Amazon](https://www.amazon.com/Bamboo-Carbonized-Rolling-Mold-Resistant-Included/dp/B0728F12KD?tag=kitchenpot-20)
+[Check Latest Price on Amazon](https://www.amazon.com/Bamboo-Carbonized-Rolling-Mold-Resistant-Included/dp/B0728F12KD/?tag=kitchenpot-20)
 
 This sushi making kit comes with a free PDF guide, which makes it ideal for beginners. Its easy-to-follow guidelines will help you discover lifetime tips for becoming a professional sushi maker. Some of the basics that you’ll learn from the all-inclusive guide include how to roll the sushi, clean the kit, and implement different recipes for a restaurant-like sushi experience. 
 

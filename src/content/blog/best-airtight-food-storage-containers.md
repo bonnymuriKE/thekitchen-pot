@@ -57,12 +57,12 @@ The practical takeaway: buy latches for anything that sloshes, buy push-button f
 
 ## Our Picks at a Glance
 
-- **Best overall:** [OXO Good Grips POP 10-Piece Container Set](https://www.amazon.com/dp/B07TBBL1C2/?tag=kitchenpot-20)
-- **Best for leftovers:** [Rubbermaid Brilliance 14-Piece Set](https://www.amazon.com/dp/B01JCNETC0/?tag=kitchenpot-20)
-- **Best glass set:** [Pyrex Freshlock 10-Pack](https://www.amazon.com/dp/B0DJTPQKRP/?tag=kitchenpot-20)
-- **Best oven-to-fridge glass:** [Glasslock 18-Piece Oven Safe Set](https://www.amazon.com/dp/B00LN810PM/?tag=kitchenpot-20)
-- **Best budget canisters:** [Vtopmart 4-Piece 5.2L Canister Set](https://www.amazon.com/dp/B07PF8NV7N/?tag=kitchenpot-20)
-- **Best for meal prep:** [Bentgo Prep 3-Compartment 20-Piece Set](https://www.amazon.com/dp/B08DKMQFNG/?tag=kitchenpot-20)
+- **Best overall:** [OXO Good Grips POP 10-Piece Container Set](https://www.amazon.com/OXO-Good-Grips-POP-10-Piece-Container-Set/dp/B07TBBL1C2/?tag=kitchenpot-20)
+- **Best for leftovers:** [Rubbermaid Brilliance 14-Piece Set](https://www.amazon.com/Rubbermaid-Brilliance-14-Piece-Set/dp/B01JCNETC0/?tag=kitchenpot-20)
+- **Best glass set:** [Pyrex Freshlock 10-Pack](https://www.amazon.com/Pyrex-Freshlock-10-Pack/dp/B0DJTPQKRP/?tag=kitchenpot-20)
+- **Best oven-to-fridge glass:** [Glasslock 18-Piece Oven Safe Set](https://www.amazon.com/Glasslock-18-Piece-Oven-Safe-Set/dp/B00LN810PM/?tag=kitchenpot-20)
+- **Best budget canisters:** [Vtopmart 4-Piece 5.2L Canister Set](https://www.amazon.com/Vtopmart-4-Piece-5-2L-Canister-Set/dp/B07PF8NV7N/?tag=kitchenpot-20)
+- **Best for meal prep:** [Bentgo Prep 3-Compartment 20-Piece Set](https://www.amazon.com/Bentgo-Prep-3-Compartment-20-Piece-Set/dp/B08DKMQFNG/?tag=kitchenpot-20)
 
 ## Airtight Container Sets Compared
 
@@ -112,7 +112,7 @@ One limitation worth stating plainly: these are dry-goods containers. The push-b
 
 **Who should buy it:** Anyone whose flour, cereal and coffee live in torn bags with clips on them. Pair it with a [lazy Susan organizer](/blog/8-best-lazy-susan-organizers-for-your-kitchen/) if your cabinet is deep and awkward.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07TBBL1C2/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/OXO-Good-Grips-POP-10-Piece-Container-Set/dp/B07TBBL1C2/?tag=kitchenpot-20)
 
 ## 2. Rubbermaid Brilliance 14-Piece Set: Best for Leftovers
 
@@ -145,7 +145,7 @@ Stain resistance is the other selling point. Rubbermaid builds Brilliance from a
 
 **Who should buy it:** Batch cookers and anyone carrying food to work. If you cook in batches for one, our [easy meal prep ideas for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) show how to size portions before you buy.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01JCNETC0/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Rubbermaid-Brilliance-14-Piece-Set/dp/B01JCNETC0/?tag=kitchenpot-20)
 
 ## 3. Pyrex Freshlock 10-Pack: Best Glass Set
 
@@ -178,7 +178,7 @@ The glass base goes in the oven. The lid does not, ever. Remove it first, every 
 
 **Who should buy it:** People who reheat leftovers most days and are tired of stained plastic. If you also freeze dairy and want to know what survives, see [can you freeze cream cheese](/blog/can-you-freeze-cream-cheese/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0DJTPQKRP/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Pyrex-Freshlock-10-Pack/dp/B0DJTPQKRP/?tag=kitchenpot-20)
 
 ## 4. Glasslock 18-Piece Oven Safe Set: Best Oven-to-Fridge Glass
 
@@ -211,7 +211,7 @@ Square and rectangular shapes also stack better than round ones. If you are rebu
 
 **Who should buy it:** Cooks who want to bake, chill and reheat in the same dish, and anyone furnishing a kitchen in one go. Our [space-saving baking tool essentials](/blog/space-saving-baking-tool-essentials/) pair well with it.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00LN810PM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Glasslock-18-Piece-Oven-Safe-Set/dp/B00LN810PM/?tag=kitchenpot-20)
 
 ## 5. Vtopmart 4-Piece 5.2L Canister Set: Best Budget Canisters
 
@@ -244,7 +244,7 @@ The 5.2-litre size is the point. A standard five-pound bag of flour fits with ro
 
 **Who should buy it:** Bakers, bulk buyers and anyone kitting out a pantry on a budget. If you are working out what else deserves counter or shelf space, our [countertop organization ideas](/blog/countertop-organization-ideas-for-a-small-kitchen/) help.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07PF8NV7N/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Vtopmart-4-Piece-5-2L-Canister-Set/dp/B07PF8NV7N/?tag=kitchenpot-20)
 
 ## 6. Bentgo Prep 3-Compartment 20-Piece Set: Best for Meal Prep
 
@@ -277,7 +277,7 @@ These stack flat and shallow, which is exactly what a crowded fridge wants. They
 
 **Who should buy it:** Anyone who cooks Sunday and eats Thursday, especially in a household of one.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08DKMQFNG/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Bentgo-Prep-3-Compartment-20-Piece-Set/dp/B08DKMQFNG/?tag=kitchenpot-20)
 
 ## Glass or Plastic? A Straight Comparison
 
@@ -332,12 +332,12 @@ One more, if you keep drinks and extras in a second fridge: those units frost up
 
 ## Which Set Should You Buy?
 
-- **Your pantry is bags with clips on them:** [OXO Good Grips POP](https://www.amazon.com/dp/B07TBBL1C2/?tag=kitchenpot-20).
-- **You carry soup to work:** [Rubbermaid Brilliance](https://www.amazon.com/dp/B01JCNETC0/?tag=kitchenpot-20).
-- **You are done with stained plastic:** [Pyrex Freshlock](https://www.amazon.com/dp/B0DJTPQKRP/?tag=kitchenpot-20).
-- **You want to bake and store in one dish:** [Glasslock 18-piece](https://www.amazon.com/dp/B00LN810PM/?tag=kitchenpot-20).
-- **You buy flour and rice in big bags:** [Vtopmart canisters](https://www.amazon.com/dp/B07PF8NV7N/?tag=kitchenpot-20).
-- **You cook Sunday and eat all week:** [Bentgo Prep](https://www.amazon.com/dp/B08DKMQFNG/?tag=kitchenpot-20).
+- **Your pantry is bags with clips on them:** [OXO Good Grips POP](https://www.amazon.com/OXO-Good-Grips-POP-10-Piece-Container-Set/dp/B07TBBL1C2/?tag=kitchenpot-20).
+- **You carry soup to work:** [Rubbermaid Brilliance](https://www.amazon.com/Rubbermaid-Brilliance-14-Piece-Set/dp/B01JCNETC0/?tag=kitchenpot-20).
+- **You are done with stained plastic:** [Pyrex Freshlock](https://www.amazon.com/Pyrex-Freshlock-10-Pack/dp/B0DJTPQKRP/?tag=kitchenpot-20).
+- **You want to bake and store in one dish:** [Glasslock 18-piece](https://www.amazon.com/Glasslock-18-Piece-Oven-Safe-Set/dp/B00LN810PM/?tag=kitchenpot-20).
+- **You buy flour and rice in big bags:** [Vtopmart canisters](https://www.amazon.com/Vtopmart-4-Piece-5-2L-Canister-Set/dp/B07PF8NV7N/?tag=kitchenpot-20).
+- **You cook Sunday and eat all week:** [Bentgo Prep](https://www.amazon.com/Bentgo-Prep-3-Compartment-20-Piece-Set/dp/B08DKMQFNG/?tag=kitchenpot-20).
 
 If you are only buying one thing this month, buy the set that matches the food you throw away most often. Stale crackers point to canisters. Forgotten leftovers point to clear latching containers you can identify at a glance. And if you drink your milk before it turns but keep finding half-used cartons, our list of [whole milk substitutes](/blog/best-substitutes-for-whole-milk/) is a different kind of fix for the same problem.
 

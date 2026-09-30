@@ -44,13 +44,13 @@ Seven sets are compared below on the specs their makers publish, with the failur
 
 ## Quick Picks
 
-- **Best overall:** [Caraway 12-Piece Ceramic Cookware Set](https://www.amazon.com/dp/B0C1QK1XG1/?tag=kitchenpot-20)
-- **Best for high-heat cooking:** [GreenPan Valencia Pro 11-Piece Set](https://www.amazon.com/dp/B071HVQL76/?tag=kitchenpot-20)
-- **Best for coating that lasts:** [Ninja Extended Life Premium Ceramic 9-Piece Set](https://www.amazon.com/dp/B0C7YKWGH2/?tag=kitchenpot-20)
-- **Best cheap starter set:** [GreenLife Soft Grip 16-Piece Set](https://www.amazon.com/dp/B08CY4VVWH/?tag=kitchenpot-20)
-- **Best for metal utensils:** [Blue Diamond 14-Piece Induction Set](https://www.amazon.com/dp/B0CR21XR23/?tag=kitchenpot-20)
-- **Best for small kitchens:** [Our Place Essentials 8-Piece Cookware Set](https://www.amazon.com/dp/B0F743D12P/?tag=kitchenpot-20)
-- **Best coating-free ceramic:** [Xtrema 100% Ceramic Cookware](https://www.amazon.com/dp/B00WZNV95U/?tag=kitchenpot-20)
+- **Best overall:** [Caraway 12-Piece Ceramic Cookware Set](https://www.amazon.com/Caraway-12-Piece-Ceramic-Cookware-Set/dp/B0C1QK1XG1/?tag=kitchenpot-20)
+- **Best for high-heat cooking:** [GreenPan Valencia Pro 11-Piece Set](https://www.amazon.com/GreenPan-Valencia-Pro-11-Piece-Set/dp/B071HVQL76/?tag=kitchenpot-20)
+- **Best for coating that lasts:** [Ninja Extended Life Premium Ceramic 9-Piece Set](https://www.amazon.com/Ninja-Extended-Life-Premium-Ceramic-9-Piece-Set/dp/B0C7YKWGH2/?tag=kitchenpot-20)
+- **Best cheap starter set:** [GreenLife Soft Grip 16-Piece Set](https://www.amazon.com/GreenLife-Soft-Grip-16-Piece-Set/dp/B08CY4VVWH/?tag=kitchenpot-20)
+- **Best for metal utensils:** [Blue Diamond 14-Piece Induction Set](https://www.amazon.com/Blue-Diamond-14-Piece-Induction-Set/dp/B0CR21XR23/?tag=kitchenpot-20)
+- **Best for small kitchens:** [Our Place Essentials 8-Piece Cookware Set](https://www.amazon.com/Our-Place-Essentials-8-Piece-Cookware-Set/dp/B0F743D12P/?tag=kitchenpot-20)
+- **Best coating-free ceramic:** [Xtrema 100% Ceramic Cookware](https://www.amazon.com/Xtrema-100-Ceramic-Cookware/dp/B00WZNV95U/?tag=kitchenpot-20)
 
 ## Ceramic Cookware Sets Compared
 
@@ -105,7 +105,7 @@ The storage that comes with the set is the part people underrate. A magnetic wal
 
 **Who should buy it:** Cooks setting up a whole kitchen at once who want it to look good and are willing to hand wash and store carefully. If you are outfitting a first apartment on a budget instead, the sets in our [best cookware set under $200](/blog/best-cookware-set-under-200/) roundup make more sense.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0C1QK1XG1/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Caraway-12-Piece-Ceramic-Cookware-Set/dp/B0C1QK1XG1/?tag=kitchenpot-20)
 
 ## 2. GreenPan Valencia Pro 11-Piece Set: Best for High-Heat Cooking
 
@@ -138,7 +138,7 @@ GreenPan backs all of it with a limited lifetime warranty on manufacturing defec
 
 **Who should buy it:** Cooks who roast, sear and finish in the oven, and anyone who wants ceramic without giving up the ability to run a pan hot. It also pairs well with the technique notes in [how to clean a ceramic pan](/blog/how-to-clean-ceramic-pan/), since a hotter-rated coating still needs gentle cleaning.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B071HVQL76/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/GreenPan-Valencia-Pro-11-Piece-Set/dp/B071HVQL76/?tag=kitchenpot-20)
 
 ## 3. Ninja Extended Life Premium Ceramic 9-Piece Set: Best for Coating That Lasts
 
@@ -170,7 +170,7 @@ The gap in the lineup is a mid-size pot. There is nothing between the 2.5-quart 
 
 **Who should buy it:** People replacing a ceramic set that wore out fast and who want the longest realistic coating life without paying premium-brand prices. Compare it against the pans in our [Ninja Foodi cookware set review](/blog/ninja-foodi-cookware-set-reviews/) if you are weighing the brand's other lines.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0C7YKWGH2/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Ninja-Extended-Life-Premium-Ceramic-9-Piece-Set/dp/B0C7YKWGH2/?tag=kitchenpot-20)
 
 ## 4. GreenLife Soft Grip 16-Piece Set: Best Cheap Starter Set
 
@@ -202,7 +202,7 @@ Set expectations on lifespan and this is a reasonable purchase. Budget ceramic c
 
 **Who should buy it:** Students, first-time renters and anyone furnishing a kitchen on the smallest possible budget. It fits naturally alongside the checklist in [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08CY4VVWH/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/GreenLife-Soft-Grip-16-Piece-Set/dp/B08CY4VVWH/?tag=kitchenpot-20)
 
 ## 5. Blue Diamond 14-Piece Induction Set: Best for Metal Utensils
 
@@ -234,7 +234,7 @@ Treat "metal utensil safe" as tolerance rather than permission. Scratch resistan
 
 **Who should buy it:** Busy shared kitchens, families with teenagers, and anyone who has already worn out a ceramic pan with a metal spoon. Our [Blue Diamond cookware review](/blog/blue-diamond-cookware-review/) goes deeper on how the coating behaves over time.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0CR21XR23/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Blue-Diamond-14-Piece-Induction-Set/dp/B0CR21XR23/?tag=kitchenpot-20)
 
 ## 6. Our Place Essentials 8-Piece Cookware Set: Best for Small Kitchens
 
@@ -265,7 +265,7 @@ What you are not getting is pots. There is no saucepan and no stockpot, so this 
 
 **Who should buy it:** Renters in small kitchens, people who already own pots and only need pans, and anyone whose coating keeps getting scratched in storage. The rack solves a problem that also comes up in our [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) and [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/).
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0F743D12P/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Our-Place-Essentials-8-Piece-Cookware-Set/dp/B0F743D12P/?tag=kitchenpot-20)
 
 ## 7. Xtrema 100% Ceramic Cookware: Best Coating-Free Ceramic
 
@@ -296,7 +296,7 @@ Where it makes sense is long, gentle cooking and anyone who wants cookware with 
 
 **Who should buy it:** Cooks whose main concern is coating chemistry, and people who simmer, braise and bake more than they fry. If you also want serving pieces in the same material, our explainer on [what ceramic dinnerware is](/blog/what-is-ceramic-dinnerware/) covers the difference.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00WZNV95U/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Xtrema-100-Ceramic-Cookware/dp/B00WZNV95U/?tag=kitchenpot-20)
 
 ## What "Ceramic" Means on a Cookware Box
 
@@ -335,7 +335,7 @@ The learning curve is real. Stainless needs a proper preheat and enough fat, and
 
 Two fully clad sets are worth comparing if you go that way. Tramontina's tri-ply clad set is the budget benchmark, and Goldilocks builds a 7-piece tri-ply set with a 550°F oven rating, an induction base and a lifetime warranty.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B096N4DML7/?tag=kitchenpot-20) [Check Price at Goldilocks](https://www.awin1.com/cread.php?awinmid=90353&awinaffid=1956629&clickref=best-ceramic-cookware-set&ued=https%3A%2F%2Fcookgoldilocks.com%2Fproducts%2Fcookware-set)
+[Check Price on Amazon](https://www.amazon.com/Tramontina-Tri-Ply-Clad-8-Piece-Set/dp/B096N4DML7/?tag=kitchenpot-20) [Check Price at Goldilocks](https://www.awin1.com/cread.php?awinmid=90353&awinaffid=1956629&clickref=best-ceramic-cookware-set&ued=https%3A%2F%2Fcookgoldilocks.com%2Fproducts%2Fcookware-set)
 
 A common compromise is to buy a stainless set for everything and keep one ceramic frying pan for eggs. When the ceramic pan dulls in two years you replace a single pan, not a kitchen.
 
@@ -376,12 +376,12 @@ Ceramic is excellent for eggs, fish, pancakes and anything delicate. It is medio
 
 ## Which Ceramic Cookware Set Should You Buy?
 
-- **You want one complete set and will look after it:** [Caraway 12-Piece](https://www.amazon.com/dp/B0C1QK1XG1/?tag=kitchenpot-20).
-- **You sear and roast at high heat:** [GreenPan Valencia Pro](https://www.amazon.com/dp/B071HVQL76/?tag=kitchenpot-20), rated to 600°F.
-- **Your last ceramic pan died in a year:** [Ninja Extended Life Premium Ceramic](https://www.amazon.com/dp/B0C7YKWGH2/?tag=kitchenpot-20).
-- **You need everything cheaply:** [GreenLife Soft Grip 16-Piece](https://www.amazon.com/dp/B08CY4VVWH/?tag=kitchenpot-20).
-- **Metal spoons will happen no matter what:** [Blue Diamond 14-Piece Induction](https://www.amazon.com/dp/B0CR21XR23/?tag=kitchenpot-20).
-- **Cabinet space is the problem:** [Our Place Essentials 8-Piece](https://www.amazon.com/dp/B0F743D12P/?tag=kitchenpot-20).
+- **You want one complete set and will look after it:** [Caraway 12-Piece](https://www.amazon.com/Caraway-12-Piece-Ceramic-Cookware-Set/dp/B0C1QK1XG1/?tag=kitchenpot-20).
+- **You sear and roast at high heat:** [GreenPan Valencia Pro](https://www.amazon.com/GreenPan-Valencia-Pro-11-Piece-Set/dp/B071HVQL76/?tag=kitchenpot-20), rated to 600°F.
+- **Your last ceramic pan died in a year:** [Ninja Extended Life Premium Ceramic](https://www.amazon.com/Ninja-Extended-Life-Premium-Ceramic-9-Piece-Set/dp/B0C7YKWGH2/?tag=kitchenpot-20).
+- **You need everything cheaply:** [GreenLife Soft Grip 16-Piece](https://www.amazon.com/GreenLife-Soft-Grip-16-Piece-Set/dp/B08CY4VVWH/?tag=kitchenpot-20).
+- **Metal spoons will happen no matter what:** [Blue Diamond 14-Piece Induction](https://www.amazon.com/Blue-Diamond-14-Piece-Induction-Set/dp/B0CR21XR23/?tag=kitchenpot-20).
+- **Cabinet space is the problem:** [Our Place Essentials 8-Piece](https://www.amazon.com/Our-Place-Essentials-8-Piece-Cookware-Set/dp/B0F743D12P/?tag=kitchenpot-20).
 
 One buying rule beats all of these: spend on the frying pan, save on the pots. The pan you use daily takes almost all the wear, and pots rarely fail. Buying a good single ceramic skillet plus a cheap stainless set will outlast a matched ceramic set of the same price, and it is the approach that suits the kind of compact kitchens covered in [best cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) and [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/).
 

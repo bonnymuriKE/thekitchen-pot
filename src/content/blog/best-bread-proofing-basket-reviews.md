@@ -55,9 +55,9 @@ There are various types of bannetons. I prefer cane baskets but there are other 
 
 ## **6 Best Bread Proofing Baskets**
 
-### **1. [9 Inch Proofing Basket – Excellent WERTIOO Bread Proofing Basket](https://www.amazon.com/Banneton-Proofing-Basket-WERTIOO-Professional/dp/B07FKC9T3Y?tag=kitchenpot-20)** 
+### **1. [9 Inch Proofing Basket – Excellent WERTIOO Bread Proofing Basket](https://www.amazon.com/Banneton-Proofing-Basket-WERTIOO-Professional/dp/B07FKC9T3Y/?tag=kitchenpot-20)** 
 
-[Check Price on Amazon](https://www.amazon.com/Banneton-Proofing-Basket-WERTIOO-Professional/dp/B07FKC9T3Y?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Banneton-Proofing-Basket-WERTIOO-Professional/dp/B07FKC9T3Y/?tag=kitchenpot-20)
 
 If your best bread proofing basket should help you in proofing different types of loaves with different mixtures and textures, then the Wertioo 9-inch rattan proofing basket is your best fit. 
 
@@ -83,9 +83,9 @@ The construction material is also durable and the wood has a smooth surface that
 
 * The bread lame come as pictured but is not of the best quality
 
-### **2. [Oval Bread Banneton Proofing Basket-10 Inch Baskets](https://www.amazon.com/Inch-Oval-Banneton-Proofing-Basket/dp/B01MUG8QFJ?tag=kitchenpot-20)**
+### **2. [Oval Bread Banneton Proofing Basket-10 Inch Baskets](https://www.amazon.com/Inch-Oval-Banneton-Proofing-Basket/dp/B01MUG8QFJ/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Inch-Oval-Banneton-Proofing-Basket/dp/B01MUG8QFJ?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Inch-Oval-Banneton-Proofing-Basket/dp/B01MUG8QFJ/?tag=kitchenpot-20)
 
 Are you tired of round shapes banneton proofing baskets? Then your best proofing basket should be oval! 
 
@@ -114,9 +114,9 @@ Another unique feature about the oval proofing basket is that it’s proven to w
 
 * Sometimes you waste a lot of time brushing off the dusting flour that is stuck in between the texture of the dough
 
-### **3. [Forsun 8.5” Round Banneton Brotform Bread Dough Proofing Rising Rattan Basket and Liner](https://www.amazon.com/Forsun-Banneton-Brotform-Proofing-Rising/dp/B01CNV40D6?tag=kitchenpot-20)**
+### **3. [Forsun 8.5” Round Banneton Brotform Bread Dough Proofing Rising Rattan Basket and Liner](https://www.amazon.com/Forsun-Banneton-Brotform-Proofing-Rising/dp/B01CNV40D6/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Forsun-Banneton-Brotform-Proofing-Rising/dp/B01CNV40D6?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Forsun-Banneton-Brotform-Proofing-Rising/dp/B01CNV40D6/?tag=kitchenpot-20)
 
 If you’re looking for a non-poisonous, eco-friendly, and food safe proofing basket, then the forsun 8.5 round banneton proofing basket is your best fit.
 
@@ -136,9 +136,9 @@ The forsun’s round banneton proofing basket is also cost-effective as compared
 
 * The proofing basket comes with a cotton liner which does not absorb moisture well like a linen cloth
 
-### **4. [Fideco 10 Inch and 9 Inch Banneton Bread Proofing Basket Set- Premium Best Bread Proofing Basket](https://www.amazon.com/Banneton-Proofing-Stainless-Scraper-Cleaning/dp/B07QMM45D3?tag=kitchenpot-20)**
+### **4. [Fideco 10 Inch and 9 Inch Banneton Bread Proofing Basket Set- Premium Best Bread Proofing Basket](https://www.amazon.com/Banneton-Proofing-Stainless-Scraper-Cleaning/dp/B07QMM45D3/?tag=kitchenpot-20)**
 
-[Check Price On Amazon](https://www.amazon.com/Banneton-Proofing-Stainless-Scraper-Cleaning/dp/B07QMM45D3?tag=kitchenpot-20)
+[Check Price On Amazon](https://www.amazon.com/Banneton-Proofing-Stainless-Scraper-Cleaning/dp/B07QMM45D3/?tag=kitchenpot-20)
 
 Are you a baker who enjoys baking sourdough bread? Then the fideco proofing basket is your perfect choice.
 
@@ -161,9 +161,9 @@ The two baskets measure 9 and 10-inch rounds. The proofing baskets are perfect f
 
 * The proofing basket is not pocket friendly
 
-### **5. [10 Inch Premium Round Banneton Basket with Liner](https://www.amazon.com/Premium-Round-Banneton-Basket-Liner/dp/B06XJM2T1S?tag=kitchenpot-20)**
+### **5. [10 Inch Premium Round Banneton Basket with Liner](https://www.amazon.com/Premium-Round-Banneton-Basket-Liner/dp/B06XJM2T1S/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Premium-Round-Banneton-Basket-Liner/dp/B06XJM2T1S?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Premium-Round-Banneton-Basket-Liner/dp/B06XJM2T1S/?tag=kitchenpot-20)
 
 The 10 inch premium round banneton basket is an attractive proofing basket that is made of natural material rattan. This means the basket is dye and chemical-free and thus when you put your dough inside you’re assured of safety and odorless dough.
 
@@ -184,9 +184,9 @@ The 10 inch premium round proofing basket also comes with a smooth surface that 
 
 * The 10-inch banneton only features a single goodie a cloth liner as compared with other proofing baskets like the fideco 9 and 10-inch banneton proofing basket which includes other features.
 
-### **6. [Happy Sales Round Proofing Basket Banneton Brotform 10 Inch- Best  Bread Proofing Basket (Heavy Duty)](https://www.amazon.com/Happy-Sales-Proofing-Banneton-Brotform/dp/B016J9I7IW?tag=kitchenpot-20)**
+### **6. [Happy Sales Round Proofing Basket Banneton Brotform 10 Inch- Best  Bread Proofing Basket (Heavy Duty)](https://www.amazon.com/Happy-Sales-Proofing-Banneton-Brotform/dp/B016J9I7IW/?tag=kitchenpot-20)**
 
-[Check Price on Amazon](https://www.amazon.com/Happy-Sales-Proofing-Banneton-Brotform/dp/B016J9I7IW?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Happy-Sales-Proofing-Banneton-Brotform/dp/B016J9I7IW/?tag=kitchenpot-20)
 
 Happy sales round proofing basket is a strong basket made from commercial strength and high-quality natural rattan. This proofing basket is one of the largest as compared to other baskets found in the market today.
 

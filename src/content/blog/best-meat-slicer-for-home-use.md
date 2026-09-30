@@ -43,12 +43,12 @@ Below are six home slicers sorted by blade size, plus the specs that actually de
 
 ## Top Picks for Home Kitchens
 
-- **Best overall:** [BESWOOD250 10-inch Electric Slicer](https://www.amazon.com/dp/B01AQH636Q/?tag=kitchenpot-20)
-- **Best for firm and semi-frozen meat:** [KWS MS-10NT 10-inch, 320W](https://www.amazon.com/dp/B0172ATCFY/?tag=kitchenpot-20)
-- **Best mid-size slicer:** [Nesco FS-250, 8.7-inch](https://www.amazon.com/dp/B00L07TNSM/?tag=kitchenpot-20)
-- **Best for occasional home use:** [Chef'sChoice 615A, 7-inch](https://www.amazon.com/dp/B078YYDF8N/?tag=kitchenpot-20)
-- **Best budget slicer:** [OSTBA Electric Deli Meat Slicer, 200W](https://www.amazon.com/dp/B07TSDQB33/?tag=kitchenpot-20)
-- **Cheapest decent slicer:** [Elite Gourmet EMT-625B, 7.5-inch](https://www.amazon.com/dp/B07D7TFTVN/?tag=kitchenpot-20)
+- **Best overall:** [BESWOOD250 10-inch Electric Slicer](https://www.amazon.com/BESWOOD250-10-inch-Electric-Slicer/dp/B01AQH636Q/?tag=kitchenpot-20)
+- **Best for firm and semi-frozen meat:** [KWS MS-10NT 10-inch, 320W](https://www.amazon.com/KWS-MS-10NT-10-inch-320W/dp/B0172ATCFY/?tag=kitchenpot-20)
+- **Best mid-size slicer:** [Nesco FS-250, 8.7-inch](https://www.amazon.com/Nesco-FS-250-8-7-inch/dp/B00L07TNSM/?tag=kitchenpot-20)
+- **Best for occasional home use:** [Chef'sChoice 615A, 7-inch](https://www.amazon.com/ChefsChoice-615A-7-inch/dp/B078YYDF8N/?tag=kitchenpot-20)
+- **Best budget slicer:** [OSTBA Electric Deli Meat Slicer, 200W](https://www.amazon.com/OSTBA-Electric-Deli-Meat-Slicer-200W/dp/B07TSDQB33/?tag=kitchenpot-20)
+- **Cheapest decent slicer:** [Elite Gourmet EMT-625B, 7.5-inch](https://www.amazon.com/Elite-Gourmet-EMT-625B-7-5-inch/dp/B07D7TFTVN/?tag=kitchenpot-20)
 
 ## What the specs on a meat slicer actually mean
 
@@ -106,7 +106,7 @@ The 240-watt belt-driven motor is the part you feel. The belt cushions the shock
 
 The blade lifts out for cleaning, which matters more than it sounds. A slicer you cannot take apart gets wiped instead of washed, and wiping does not reach the back face of the blade. Set the thickness plate to zero, unplug, and remove the blade with the tool provided.
 
-Recurring themes in [owner reviews on Amazon](https://www.amazon.com/product-reviews/B01AQH636Q/?tag=kitchenpot-20) cluster around the same two points: buyers consistently describe it as heavier and more solid than they expected, and the complaints that do show up are about the size and weight of the thing rather than how it cuts. Plan a permanent home for it before you order.
+Recurring themes in [owner reviews on Amazon](https://www.amazon.com/BESWOOD250-10-inch-Electric-Slicer/product-reviews/B01AQH636Q/?tag=kitchenpot-20) cluster around the same two points: buyers consistently describe it as heavier and more solid than they expected, and the complaints that do show up are about the size and weight of the thing rather than how it cuts. Plan a permanent home for it before you order.
 
 **What we like:**
 
@@ -125,7 +125,7 @@ Recurring themes in [owner reviews on Amazon](https://www.amazon.com/product-rev
 
 **Who should buy it:** People who slice weekly, cure their own meat, or buy whole cuts to portion and freeze. Pair it with a [vacuum sealer for portioning](/blog/best-vacuum-sealer-for-sous-vide/) and the savings compound.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B01AQH636Q/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/BESWOOD250-10-inch-Electric-Slicer/dp/B01AQH636Q/?tag=kitchenpot-20)
 
 ## 2. KWS MS-10NT: Best for Firm and Semi-Frozen Meat
 
@@ -158,7 +158,7 @@ NSF listing means the materials and design meet a sanitation standard, which is 
 
 **Who should buy it:** Cooks who slice a lot of cheese, cure their own charcuterie, or want the best shot at very thin slices from firm meat. If you are also slicing fish thin, our [electric fillet knife](/blog/best-electric-fillet-knife/) picks and [sushi making kit](/blog/best-sushi-making-kit/) guide are the natural follow-ups.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0172ATCFY/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/KWS-MS-10NT-10-inch-320W/dp/B0172ATCFY/?tag=kitchenpot-20)
 
 ## 3. Nesco FS-250: Best Mid-Size Slicer
 
@@ -189,7 +189,7 @@ Think of this as the slicer to buy when the 10-inch machines feel like overkill 
 
 **Who should buy it:** Families who roast on Sundays and want sandwich meat all week. It slots in well with our [meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) if you batch cook.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B00L07TNSM/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Nesco-FS-250-8-7-inch/dp/B00L07TNSM/?tag=kitchenpot-20)
 
 ## 4. Chef'sChoice 615A: Best for Occasional Home Use
 
@@ -219,7 +219,7 @@ Be realistic about the motor. At roughly 100 watts this is a cooked-and-cured-me
 
 **Who should buy it:** Households that slice a ham at the holidays and sandwich meat now and then. If cabinet space is your limit, our [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) will help you find it a home.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B078YYDF8N/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/ChefsChoice-615A-7-inch/dp/B078YYDF8N/?tag=kitchenpot-20)
 
 ## 5. OSTBA Electric Deli Meat Slicer: Best Budget Slicer
 
@@ -251,7 +251,7 @@ The child lock is a sensible addition on a machine with an exposed spinning blad
 
 **Who should buy it:** First-time slicer owners who want to find out how much they will use one before spending more. It sits alongside the [best vegetable choppers](/blog/best-vegetable-choppers/) and [electric potato peelers](/blog/best-electric-potato-peeler/) as a prep-speed gadget rather than a lifetime tool.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07TSDQB33/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/OSTBA-Electric-Deli-Meat-Slicer-200W/dp/B07TSDQB33/?tag=kitchenpot-20)
 
 ## 6. Elite Gourmet EMT-625B: Cheapest Decent Slicer
 
@@ -282,7 +282,7 @@ What you give up is headroom. Elite Gourmet does not publish a wattage for this 
 
 **Who should buy it:** Anyone testing the idea of a home slicer on a small budget, or slicing a few times a year. Keep it in the same drawer logic as the rest of your prep tools; our guide to [organizing kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) helps.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B07D7TFTVN/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Elite-Gourmet-EMT-625B-7-5-inch/dp/B07D7TFTVN/?tag=kitchenpot-20)
 
 ## How to choose: a short buying guide
 
@@ -344,12 +344,12 @@ If a slicer turns out to be more machine than you need, a good [mandoline slicer
 
 ## Which meat slicer should you buy?
 
-- **You slice most weeks and buy whole cuts:** [BESWOOD250](https://www.amazon.com/dp/B01AQH636Q/?tag=kitchenpot-20).
-- **You slice cheese and firm or semi-frozen meat:** [KWS MS-10NT](https://www.amazon.com/dp/B0172ATCFY/?tag=kitchenpot-20).
-- **You want capacity without a commercial machine:** [Nesco FS-250](https://www.amazon.com/dp/B00L07TNSM/?tag=kitchenpot-20).
-- **You slice a few times a month:** [Chef'sChoice 615A](https://www.amazon.com/dp/B078YYDF8N/?tag=kitchenpot-20).
-- **You want the most motor for the money:** [OSTBA Deli Slicer](https://www.amazon.com/dp/B07TSDQB33/?tag=kitchenpot-20).
-- **You want the cheapest way in:** [Elite Gourmet EMT-625B](https://www.amazon.com/dp/B07D7TFTVN/?tag=kitchenpot-20).
+- **You slice most weeks and buy whole cuts:** [BESWOOD250](https://www.amazon.com/BESWOOD250-10-inch-Electric-Slicer/dp/B01AQH636Q/?tag=kitchenpot-20).
+- **You slice cheese and firm or semi-frozen meat:** [KWS MS-10NT](https://www.amazon.com/KWS-MS-10NT-10-inch-320W/dp/B0172ATCFY/?tag=kitchenpot-20).
+- **You want capacity without a commercial machine:** [Nesco FS-250](https://www.amazon.com/Nesco-FS-250-8-7-inch/dp/B00L07TNSM/?tag=kitchenpot-20).
+- **You slice a few times a month:** [Chef'sChoice 615A](https://www.amazon.com/ChefsChoice-615A-7-inch/dp/B078YYDF8N/?tag=kitchenpot-20).
+- **You want the most motor for the money:** [OSTBA Deli Slicer](https://www.amazon.com/OSTBA-Electric-Deli-Meat-Slicer-200W/dp/B07TSDQB33/?tag=kitchenpot-20).
+- **You want the cheapest way in:** [Elite Gourmet EMT-625B](https://www.amazon.com/Elite-Gourmet-EMT-625B-7-5-inch/dp/B07D7TFTVN/?tag=kitchenpot-20).
 
 The honest decision rule: if you would use it less than twice a month, buy a 7.5-inch machine and spend the difference on a better knife. If you would use it weekly, go straight to a 10-inch gear-driven slicer and skip the two upgrades in between.
 

@@ -138,7 +138,7 @@ The most consistent pattern across owner reviews follows the tradeoffs above. Bu
 
 Breakage complaints cluster around drops rather than normal stovetop use. A pan slipping out of wet hands onto a tile floor is the scenario that shows up most often, not cracking during ordinary cooking.
 
-You can read the [customer reviews for the Xtrema 10-inch skillet on Amazon](https://www.amazon.com/product-reviews/B004AL1PA4/?tag=kitchenpot-20) directly to judge the pattern for yourself, rather than taking any one summary's word for it. Our [Blue Diamond cookware review](/blog/blue-diamond-cookware-review/) covers a different ceramic-coated brand with its own, very different set of owner complaints, which is a useful contrast if you're weighing both types.
+You can read the [customer reviews for the Xtrema 10-inch skillet on Amazon](https://www.amazon.com/Traditions-Ceramic-Cookware-Xtrema-Dishwasher/product-reviews/B004AL1PA4/?tag=kitchenpot-20) directly to judge the pattern for yourself, rather than taking any one summary's word for it. Our [Blue Diamond cookware review](/blog/blue-diamond-cookware-review/) covers a different ceramic-coated brand with its own, very different set of owner complaints, which is a useful contrast if you're weighing both types.
 
 ## Xtrema vs. Other Cookware Materials
 
