@@ -1,225 +1,377 @@
 ---
-excerpt: Dreaming of a sleek kitchen? The best white undermount blends
-  seamlessly & adds instant elegance. It’s a minimalist’s dream—easy to love,
-  easier to clean!
+excerpt: "The best white undermount kitchen sinks in six materials: Kohler cast iron, Kraus enameled steel, Blanco Silgranit, Elkay and Karran quartz, and Ruvati fireclay. Sizes, depths, cabinet needs and prices compared."
 showTableOfContents: true
 authorId: kitchenpot1
-title: Best White Undermount Kitchen Sink - A Complete Guide
+title: "Best White Undermount Kitchen Sink (6 Picks in 6 Materials)"
 source: wordpress
 slug: best-white-undermount-kitchen-sink
 pubDate: 2022-01-16
-modDate: 2025-01-29
+modDate: 2026-10-01
 image: ""
 category: Kitchenware
 author: Boniface Muriuki
 authorImage: /images/authors/chris-thompson.png
-coverAlt: Best White Undermount Kitchen Sink - A Complete Guide
+coverAlt: "A white single-bowl undermount sink set into a light quartz countertop with a brushed brass faucet"
 tags:
   - best-non-stick-pans
   - ceramic-vs-stainless-steel-cookware
   - how-to-bake-cookies-on-convection-oven
   - what-is-best-gauge-stainless-steel-for-kitchen-sinks
+  - undermount-sink
 authorImageAlt: kitchenpot1
-description: "Dreaming of a sleek kitchen? The best white undermount blends seamlessly & adds instant elegance. It’s a minimalist’s dream—easy to love, easier to clean!"
-seo: Are you looking for the best white undermount kitchen sink? Well, these
-  sinks are easy to clean and maintain. They are the best bet if you are
-  remodelling your kitchen.
+description: "The best white undermount kitchen sinks: six picks from Kohler, Kraus, Blanco, Elkay, Karran and Ruvati in cast iron, enamel steel, composite and fireclay."
+seo: "Compare the best white undermount kitchen sinks: Kohler Riverby cast iron, Kraus Pintura, Blanco Precis Silgranit, Elkay Quartz Classic, Karran QU-712 and Ruvati fireclay."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "What is the best white undermount kitchen sink?"
+    answer: "The Kohler Riverby K-5871-5UA3-0 is the best pick in this guide. It is a 33-inch enameled cast iron workstation sink with a 9-inch-deep bowl that slopes toward the drain. It comes with a utility rack, a colander with a cutting board and a bottom rack."
+  - question: "Do white sinks stain easily?"
+    answer: "Some do. Glossy enameled cast iron, fireclay and porcelain enamel resist stains well and wipe clean. Matte composite sinks like granite and quartz can show coffee, tea and metal marks, so clean them often and follow the maker's care steps."
+  - question: "Which white sink material is most durable?"
+    answer: "Fireclay and enameled cast iron are the hardest-wearing glossy surfaces. Granite and quartz composites resist scratches and heat well. Porcelain enamel over steel is lighter and cheaper but can chip if a heavy pan hits it hard."
+  - question: "What size cabinet do I need for an undermount sink?"
+    answer: "Most 30-inch sinks need a 33-inch cabinet, and most 32- to 33-inch sinks need a 36-inch cabinet. Check the maker's minimum cabinet size before you order the counter."
+  - question: "Can any sink be undermounted?"
+    answer: "No. The sink must be designed for undermount, with a flat rim that sits under the counter. Your counter must be solid stone, quartz or solid surface. Laminate counters do not suit undermount sinks."
 ---
-Are you thinking about **[remodeling your kitchen](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy/)**? If so, you’re probably thinking about changing out the sink as well. If you want value for money, consider buying the best white undermount kitchen sink for your remodel.
+A white undermount sink sits below the counter, so there is no rim to catch crumbs. You can wipe spills straight into the bowl.
 
-An undermount kitchen sink has several benefits. It is easy to clean, and it fits under the countertop seamlessly. It also conceals unsightly stains and scratches that can occur on a surface-mounted sink.
+White also brightens a kitchen and pairs with almost any countertop. The trick is choosing a material that stays white.
 
-If that sounds like the sink for you, take a look at these best white undermount **[kitchen sink reviews](https://www.amazon.com/s?k=white+undermount+kitchen+sink&crid=31HD8072VP6ND&sprefix=white+undermount%2Caps%2C2240&tag=kitchenpot-20)**.
+**The short version:** The [Kohler Riverby K-5871-5UA3-0](https://www.amazon.com/KOHLER-K-5871-5UA3-0-Riverby-Undermount-Kitchen/dp/B00703YV14/?tag=kitchenpot-20) is the best white undermount sink. It is enameled cast iron with workstation accessories. For a lighter sink at a lower price, choose the [Kraus Pintura KEU-14WHITE](https://www.amazon.com/Kraus-KEU-14WHITE-Undermount-Enameled-Stainless/dp/B07NDB8PPF/?tag=kitchenpot-20). For a matte composite, the [Blanco Precis 440150](https://www.amazon.com/BLANCO-440150-Precis-Bowl-White-Cabinet/dp/B0011YLNHS/?tag=kitchenpot-20) is a long-running favorite.
 
-## **Why Upgrade Your Kitchen Sink?**
+## Our Picks at a Glance
 
-By upgrading your **kitchen sink**, you’ll be able to add a touch of your style to your home.
+- **Best overall (cast iron):** [Kohler Riverby K-5871-5UA3-0 Undermount Workstation Sink](https://www.amazon.com/KOHLER-K-5871-5UA3-0-Riverby-Undermount-Kitchen/dp/B00703YV14/?tag=kitchenpot-20)
+- **Best enameled steel:** [Kraus Pintura KEU-14WHITE 31.5-Inch Undermount Sink](https://www.amazon.com/Kraus-KEU-14WHITE-Undermount-Enameled-Stainless/dp/B07NDB8PPF/?tag=kitchenpot-20)
+- **Best granite composite:** [Blanco Precis 440150 Silgranit Super Single](https://www.amazon.com/BLANCO-440150-Precis-Bowl-White-Cabinet/dp/B0011YLNHS/?tag=kitchenpot-20)
+- **Best quartz composite:** [Elkay Quartz Classic ELGRU13322WH0](https://www.amazon.com/Elkay-Quartz-Classic-ELGRU13322WH0-Undermount/dp/B01F379ZKU/?tag=kitchenpot-20)
+- **Best value composite:** [Karran QU-712 Quartz Undermount Sink](https://www.amazon.com/Karran-Undermount-Quartz-Composite-Kitchen/dp/B07FKS1BF1/?tag=kitchenpot-20)
+- **Best fireclay:** [Ruvati Fiamma RVL3030WH 30-Inch Fireclay Sink](https://www.amazon.com/Ruvati-30-inch-Fireclay-Undermount-Topmount/dp/B07Z5GPPPY/?tag=kitchenpot-20)
 
-If you’re tired of the boring look of stainless steel or if you want a softer material that’s easier on the environment, you have plenty of options with quartz and granite sinks. These materials come in a wide range of colors and designs to match any type of kitchen.
+Ruvati listed its sink as in stock on its own site when we checked. The Kraus, Blanco and Karran sinks were in stock at retailers or on the maker's store. Prices change often, so check the listing.
 
-Further, if you have a smaller or more compact kitchen, deciding on an undermount sink is a great idea as the design will save you precious cabinet space. This design also prevents water from seeping onto your countertops, which would otherwise make them slippery and dangerous for those with children at home.
+| Pick | Material | Overall Size | Bowl Depth | Min Cabinet | Price Seen |
+| --- | --- | --- | --- | --- | --- |
+| Kohler Riverby | Enameled cast iron | 33 x 22 in | 9 in | 36 in | See listing |
+| Kraus Pintura | Enameled T304 steel, 16 gauge | 31.5 x 18.4 in | 10 in | 36 in | $480 at AJ Madison |
+| Blanco Precis 440150 | Silgranit granite composite | 32 x 19 in | 9.5 in | 36 in | $631 at one retailer |
+| Elkay Quartz Classic | Quartz composite | 33 x 18.4 in | 9.4 in | 36 in | See listing |
+| Karran QU-712 | 80% quartz composite | 32.5 x 19.4 in | 9 in | 36 in | $362.94 at Karran |
+| Ruvati RVL3030WH | Fireclay | 30 x 18 in | 9 in | 33 in | See listing |
 
-Installation is a cinch with most under-mount sinks – simply mount it beneath your countertops, and you’ll have a stylish, functional kitchen in no time. No experience is necessary, as the process is incredibly simple.
+## 1. [Kohler Riverby K-5871-5UA3-0](https://www.amazon.com/KOHLER-K-5871-5UA3-0-Riverby-Undermount-Kitchen/dp/B00703YV14/?tag=kitchenpot-20): Best Overall (Cast Iron)
 
-When you’re ready to upgrade your sink, check out our roundup of best white undermount kitchen sinks!
+- **Material:** Enameled cast iron
+- **Overall size:** 33 x 22 inches
+- **Bowl:** 30 1/4 x 15 13/16 inches, 9 inches deep
+- **Drainage:** Bowl slopes 2° toward the drain
+- **Faucet holes:** Five oversized holes
+- **Included:** Utility rack with soaking cup, colander with cutting board, bottom sink rack
+- **Min cabinet:** 36 inches
 
-## **6 Best White Undermount Kitchen Sinks for the Money**
+Kohler's enameled cast iron is the classic white sink. The glossy enamel is fused to heavy iron, so it is quiet, solid and easy to wipe clean.
 
-### 1. **[KRAUS KEU-14WHITE Pintura 16 Gauge Single Bowl Enameled Stainless Steel Kitchen Sink](https://www.amazon.com/Kraus-KEU-14WHITE-Undermount-Enameled-Stainless/dp/B07NDB8PPF/?tag=kitchenpot-20)**
+The Riverby is also a workstation sink. A ledge holds a colander with a built-in cutting board and a utility rack. You can rinse, chop and drain in one spot.
 
-Cast iron sinks are a popular choice among homeowners because of their appealing design and durability. However, they can be quite heavy, making them difficult to install and move.
+The bowl slopes 2° toward the drain, so water does not pool in the corners. That matters on a white sink, because pooled water leaves marks.
 
-**[Kraus](https://www.amazon.com/s?k=kraus+sink&rh=n%3A228013%2Cp_89%3AKraus&dc&crid=1P46RLU9GIAU1&qid=1642344203&rnid=2528832011&sprefix=kraus+sinks%2Caps%2C712&tag=kitchenpot-20)** has solved this problem with their pintura sink. Made from resilient 16-gauge stainless steel, and featuring a super-durable enamel finish, this sink is virtually indestructible. It’s also lightweight, making it easy to install. This sink is 65% lighter than cast iron. 
+Cast iron is very heavy. The cabinet and counter need proper support, so plan for a pro install.
 
-The Noisedefend feature creates a noticeably quieter kitchen sink by absorbing noise and vibration. And the gently sloped bottom prevents standing water in the sink.
+**What we like:**
 
-The sink is 31 1/2 inches (Length) x 18 3/8 Inches (Width) x 10 Inches (Depth). It requires a cabinet size of approximately 36 inches to fit perfectly.
+- Glossy enamel resists stains and wipes clean
+- Workstation accessories included
+- Sloped bowl drains fully
+- Very quiet
+
+**What to know before you buy:**
+
+- Very heavy; needs solid support
+- Five faucet holes; cover the ones you do not use
+
+**Who should buy it:** Anyone who wants the classic, long-lasting white sink.
+
+[Check Price on Amazon](https://www.amazon.com/KOHLER-K-5871-5UA3-0-Riverby-Undermount-Kitchen/dp/B00703YV14/?tag=kitchenpot-20)
+
+## 2. [Kraus Pintura KEU-14WHITE](https://www.amazon.com/Kraus-KEU-14WHITE-Undermount-Enameled-Stainless/dp/B07NDB8PPF/?tag=kitchenpot-20): Best Enameled Steel
+
+- **Material:** T304 stainless steel with porcelain enamel finish, 16 gauge
+- **Overall size:** 31 1/2 x 18 3/8 x 10 inches
+- **Bowl:** 29 1/2 x 16 1/4 inches, 10 inches deep
+- **Noise:** NoiseDefend rubber padding
+- **Included:** Basket strainer, mounting hardware, template, towel
+- **Min cabinet:** 36 inches
+- **Price seen:** $480 at AJ Madison
+
+The Kraus Pintura looks like cast iron but weighs a fraction as much. It is a stainless steel sink coated in white porcelain enamel.
+
+That makes it far easier to undermount. You get the glossy white look without reinforcing the cabinet.
+
+Its 10-inch bowl is the deepest in this guide. It hides a stack of dishes and fits large pots.
+
+Kraus adds thick rubber padding to cut the hollow sound steel sinks can make.
+
+**What we like:**
+
+- Cast-iron look at a fraction of the weight
+- Deep 10-inch bowl
+- Noise-damping pads
+- 16-gauge steel base
+
+**What to know before you buy:**
+
+- Enamel over steel can chip if hit hard
+- No bottom grid included
+
+**Who should buy it:** Remodelers who want glossy white without the weight of cast iron.
 
 [Check Price on Amazon](https://www.amazon.com/Kraus-KEU-14WHITE-Undermount-Enameled-Stainless/dp/B07NDB8PPF/?tag=kitchenpot-20)
 
-### 2. **[American Standard 77SB30190.308 Delancey 30 x 19 Single Bowl Cast Iron Kitchen Sink](https://www.amazon.com/American-Standard-77SB30190-308-Delancey-Brilliant/dp/B07PYSKS1W/?tag=kitchenpot-20)**
+## 3. [Blanco Precis 440150 Super Single](https://www.amazon.com/BLANCO-440150-Precis-Bowl-White-Cabinet/dp/B0011YLNHS/?tag=kitchenpot-20): Best Granite Composite
 
-The American Standard Delancey 30 x 19 Single Bowl Cast Iron Kitchen Sink is the perfect addition to any kitchen. The spacious interior accommodates every kitchen task. The smooth and glossy finish maintains a lasting luster.
+- **Material:** Silgranit granite composite
+- **Overall size:** 32 x 19 inches
+- **Bowl depth:** 9 1/2 inches
+- **Drain:** Rear center, 3 1/2 inches
+- **Min cabinet:** 36 inches
+- **Warranty:** Limited lifetime
+- **Price seen:** $631.15 at one retailer
 
-Its 18-inch cast-iron material guarantees both durability and elegance. You can be sure this sink will stand up to years of frequent use. Additionally, the sink retains heat, making it best for soaking dishes.
+Blanco's Silgranit is one of the best-known composite sink materials. It is mostly granite bound with resin, giving a matte, stone-like finish.
 
-The bowl is 8 11/16 inches deep, the overall length is 30 inches, and the width is 19 inches. This sink requires a cabinet size of approximately 33 inches to fit perfectly.
+The "super single" bowl is one big, open basin. There is no divider, so sheet pans and roasting pans lie flat.
 
-[Check Price on Amazon](https://www.amazon.com/American-Standard-77SB30190-308-Delancey-Brilliant/dp/B07PYSKS1W/?tag=kitchenpot-20)
+The rear drain frees up space under the sink and keeps the drain out from under stacked dishes.
 
-### 3. **[Elkay Quartz Classic ELGRU13322WH0 White Single Bowl Undermount Sink](https://www.amazon.com/Elkay-Quartz-Classic-ELGRU13322WH0-Undermount/dp/B01F379ZKU/?tag=kitchenpot-20)**
+Matte white composite can show marks from metal pots and dark drinks. Wipe it daily and use a bottom grid.
 
-Looking for a sleek and stylish sink that will look great in any kitchen? Check out the Elkay Quartz Classic ELGRU13322WH0 White Single Bowl Undermount Sink! This beautiful sink is made of quartz, so it’s heat-resistant, scratch-resistant, and easy to clean.
+**What we like:**
 
-It comes in a cool white color that will brighten up your kitchen. Installation is easy too – simply mount it beneath your countertop for a seamless look. Its dimensions of 33″ X 18-7/16″ X 9-7/16″ make it a great choice for smaller kitchens.
+- Large single bowl fits big pans
+- Rear drain saves cabinet space
+- Matte stone look
+- Limited lifetime warranty
 
-The single-bowl design provides uninterrupted space for washing and stacking dishes or other household tasks, while the impact, heat, and scratch-resistant construction ensure long-lasting use.
+**What to know before you buy:**
+
+- Matte white shows marks; clean it often
+- Higher price than other composites
+
+**Who should buy it:** Cooks who want a large, stone-look white sink from a trusted brand.
+
+[Check Price on Amazon](https://www.amazon.com/BLANCO-440150-Precis-Bowl-White-Cabinet/dp/B0011YLNHS/?tag=kitchenpot-20)
+
+## 4. [Elkay Quartz Classic ELGRU13322WH0](https://www.amazon.com/Elkay-Quartz-Classic-ELGRU13322WH0-Undermount/dp/B01F379ZKU/?tag=kitchenpot-20): Best Quartz Composite
+
+- **Material:** Quartz composite
+- **Overall size:** 33 x 18 7/16 inches
+- **Bowl depth:** 9 7/16 inches
+- **Drain:** Rear center
+- **Min cabinet:** 36 inches
+
+Elkay's Quartz Classic is a quartz composite sink with a smooth, matte finish. It is made in a wide 33-inch size with a single bowl.
+
+Like the Blanco, it has a rear center drain. That leaves room under the sink for a garbage disposal and storage.
+
+Quartz composite resists scratches and heat. It is also quieter than steel, because the thick material dampens sound.
+
+Elkay sells the same sink in black and greystone if you change your mind on white.
+
+**What we like:**
+
+- Wide 33-inch single bowl
+- Rear drain
+- Quiet, scratch-resistant composite
+- Several colors available
+
+**What to know before you buy:**
+
+- Matte finish needs regular cleaning to stay bright
+- Shallower than the Kraus
+
+**Who should buy it:** Kitchens with a 36-inch cabinet that want a wide composite bowl.
 
 [Check Price on Amazon](https://www.amazon.com/Elkay-Quartz-Classic-ELGRU13322WH0-Undermount/dp/B01F379ZKU/?tag=kitchenpot-20)
 
-### [4. **BLANCO, White 519453 PRECIS CASCADE SILGRANIT Undermount Kitchen Sink with Colander**](https://www.amazon.com/Blanco-519453-Precis-Cascade-Single/dp/B00B510XEQ/?tag=kitchenpot-20)
+## 5. [Karran QU-712 Quartz Undermount](https://www.amazon.com/Karran-Undermount-Quartz-Composite-Kitchen/dp/B07FKS1BF1/?tag=kitchenpot-20): Best Value Composite
 
-This innovative product is made of 80% solid granite, providing superior durability and resistance to scratches, stains, and all household acids and alkali solutions. The integrated second level is perfect for drying, depositing, and draining.
+- **Material:** 80% natural quartz with acrylic resin
+- **Overall size:** 32 1/2 x 19 3/8 x 9 3/4 inches
+- **Bowl depth:** 9 inches
+- **Heat safe:** To 535°F, per Karran
+- **Min cabinet:** 36 inches
+- **Warranty:** Limited lifetime
+- **Maker's price:** $362.94
 
-The included stainless steel mesh colander makes rinsing fruit and vegetables a breeze. Plus, the sink is heat-resistant up to 536 degrees Fahrenheit – perfect for busy kitchens.
+The Karran QU-712 gives you a quartz composite sink for much less than Blanco or Elkay. Karran says it is 80% natural quartz with acrylic resin.
 
-The sleek, under-mount design provides a clean look and ample workspace. The left and right bowl dimensions are 19-1/4″L x 15-3/4″W x 7-7/8″D and 7-1/2″L x 15-3/4″W x 5-1/2″D, respectively. The 33” minimum cabinet size requirement makes this sink perfect for any kitchen remodel.
+It is rated heat safe to 535°F. Karran says the surface is non-porous, which helps it resist stains.
 
-[Check Price on Amazon](https://www.amazon.com/Blanco-519453-Precis-Cascade-Single/dp/B00B510XEQ/?tag=kitchenpot-20)
+Karran also sells a kit version with a stainless bottom grid, basket strainer and care oil. The kit is worth it to protect a white bowl.
 
-### 5. **[MR Direct 848-white White 848-W Undermount Quartz Granite 32 5/8 in. Single Bowl Kitchen Sink](https://www.amazon.com/MR-Direct-848-white-Granite-Kitchen/dp/B009O8BI46/?tag=kitchenpot-20)**
+**What we like:**
 
-The MR Direct 848-white sink is a sight to behold. With its expansive, rectangular shape and pristine white color, this undermount quartz granite sink is perfect for any kitchen.
+- Lowest price of the composite picks
+- Heat safe to 535°F
+- Limited lifetime warranty
+- Kit version adds a grid and strainer
 
-But looks aren’t everything – the 848-white also features TruGranite construction, which makes it 80% quartz and 20% acrylic. This combination makes for an incredibly durable surface that’s resistant to staining and scratching. Plus, the natural sound buffer properties of TruGranite mean that your dishes won’t make too much noise when you’re washing them.
+**What to know before you buy:**
 
-Finally, the max density of this sink means that it can withstand high temperatures without damaging or staining. It measures 18.38 x 32.63 x 9.25 inches.
+- Less well known than Blanco or Elkay
+- Matte white needs regular cleaning
 
-[Check Price on Amazon](https://www.amazon.com/MR-Direct-848-white-Granite-Kitchen/dp/B009O8BI46/?tag=kitchenpot-20)
+**Who should buy it:** Budget remodelers who want a white composite sink.
 
-## **How to Choose the Best Sink for Your Kitchen**
+[Check Price on Amazon](https://www.amazon.com/Karran-Undermount-Quartz-Composite-Kitchen/dp/B07FKS1BF1/?tag=kitchenpot-20)
 
-When choosing your ideal kitchen sink, there are several factors to take into consideration. Each sink has its features and benefits, so it’s best to understand all of them thoroughly before making a purchase.
+## 6. [Ruvati Fiamma RVL3030WH](https://www.amazon.com/Ruvati-30-inch-Fireclay-Undermount-Topmount/dp/B07Z5GPPPY/?tag=kitchenpot-20): Best Fireclay
 
-### **Consider the Material of the Sink**
+- **Material:** Fireclay, 1 inch thick, fired at 2,900°F, per Ruvati
+- **Overall size:** 30 x 18 x 10 inches
+- **Bowl:** 27.5 x 15.75 inches, 9 inches deep
+- **Mount:** Undermount or drop-in
+- **Included:** Stainless bottom grid and basket strainer
+- **Min cabinet:** 33 inches
+- **Warranty:** Limited lifetime
+- **Maker's stock:** In stock
 
-One of the most important parts of choosing your kitchen sink is deciding which material you want. Each material will provide specific benefits, but some may work better for your current or future plans than others.
+Fireclay is clay fired at very high heat and glazed. It is dense, glossy and very resistant to stains and scratches.
 
-* **Cast Iron.** Cast-iron sinks are usually quite heavy, but they last a long time and are resistant to water stains.
-* **Stainless Steel.** Stainless steel sinks are durable and easy to clean, but they don’t provide any special features like color or style.
-* **Copper.** Copper sinks are stylish but expensive. They’re resistant to water stains, too, but they need constant upkeep if you want them to keep their luster over time. The thickness of the sink depends on the gauge used (20-gauge up to 14-gauge). The lower the gauge number, the thicker the metal.
-* **Quartz.** Quartz sinks provide a modern look and are scratch-resistant, but they’re also very expensive.
-* **Ceramic.** Ceramic sinks are lightweight and easy to install, but they scratch easily and can be damaged by water stains.
+The Ruvati Fiamma is a 30-inch fireclay sink that fits a 33-inch cabinet. That makes it the best choice for a smaller kitchen.
 
-### **Consider the Shape of Your Sink**
+It can be undermounted or dropped in. A bottom grid and strainer come in the box.
 
-Kitchen sink shape is an important factor for several reasons. Look at your countertop and cabinets before picking a model to make sure you like its style and fit with the rest of your kitchen decor.
+Its 1-inch-thick wall needs an extended flange for a garbage disposal. Tell your plumber before install day.
 
-* **Rectangular.** Rectangular sinks are the most popular shape because they work well with many countertops. They also provide a large workspace, which is good for washing larger items or doing dishes by hand.
-* **Bowl.** Bowl-shaped sinks are smaller than rectangular models, but they still provide plenty of room to wash dishes and other kitchenware.
-* **Double Bowl.** Double bowl sinks provide two workspaces side by side, which is great for kitchens with multiple users or appliances that use a lot of water at once.
+**What we like:**
 
-### **Sink Width Considerations**
+- Glossy fireclay resists stains
+- Fits a 33-inch cabinet
+- Grid and strainer included
+- Undermount or drop-in
 
-Kitchen sink width is another important factor to consider before you buy. If your model doesn’t fit into the area between your countertop and cabinet, it won’t work.
+**What to know before you buy:**
 
-Standard sink widths are 30, 32, and 36 inches. While these options provide a good fit for most kitchens, you can also find models with a width of 24 or 38 inches.
+- Disposal needs an extended flange
+- Smaller bowl than the 33-inch picks
 
-### **Sink Depth Considerations**
+**Who should buy it:** Smaller kitchens that want glossy white fireclay.
 
-When choosing the best white undermount kitchen sink for your kitchen remodel, pay attention to the depth of the sink. If you’re planning to install a double-bowl model, for example, you’ll want one with a deeper depth so it can accommodate both bowls.
+[Check Price on Amazon](https://www.amazon.com/Ruvati-30-inch-Fireclay-Undermount-Topmount/dp/B07Z5GPPPY/?tag=kitchenpot-20)
 
-* 8-10″ deep sinks provide plenty of room and are great for most kitchens. Unfortunately, most cabinets aren’t wide enough to fit them, so check your measurements before you buy.
-* 7″ deep models may provide less room, but they can fit under most cabinets.
-* Less than 6″ deep sinks are the least common options because they don’t provide as much depth as standard models. However, you can also find some that measure up to 12″.
+## White Sink Materials Compared
 
-### **Consider the Color of Your Kitchen Sink**
+**Enameled cast iron** is heavy, quiet and glossy. It lasts decades but needs strong support.
 
-The final factor to consider when choosing an under-mount kitchen sink is color. While most models are simple and come in standard stainless steel, you can find some with special features like an enamel coating for easier cleaning or colanders on each side of the bowl for extra convenience.
+**Enameled steel** looks like cast iron but weighs far less. It can chip under a heavy blow.
 
-White sinks are among the most popular options because they’re simple but still stylish. Sinks with black exteriors are also common because they’re sleek and understated, but white interiors make them slightly more practical for washing dishes.
+**Granite composite** is matte and stone-like. It resists scratches and heat but shows marks on white.
 
-Quartz sinks provide an upscale look that can work in any kitchen, while copper sinks will give your design a rustic charm it would otherwise lack.
+**Quartz composite** is similar to granite composite, with a smooth matte finish.
 
-White sinks are perfect for traditional kitchens, but color options like granite and marble come in handy if you’re looking to create a modern style.
+**Fireclay** is glossy, dense and stain resistant. It is heavy and needs careful installation.
 
-### **Consider the Sink Noise Levels**
+If you are also weighing stainless steel, read [what gauge stainless steel sink is best](/blog/what-gauge-stainless-steel-sink-is-best/). Want a drying area too? See the [best porcelain kitchen sink with drainboard](/blog/best-porcelain-kitchen-sink-with-drainboard/).
 
-Kitchen sink noise is another important factor to consider before you buy. If you’re worried about waking up your family or roommates with a loud bang as soon as the sink fills up, you’ll want to find a quiet one.
+## How to Choose the Right Size
 
-While noise isn’t usually an issue with ceramic and enamel models, it may be a problem for stainless steel, nickel, and copper sinks because they tend to be noisier when filled with water.
+**Measure the cabinet.** Most 33-inch sinks need a 36-inch base. A 30-inch sink usually fits a 33-inch base.
 
-If you must buy stainless steel, ensure that you choose the **[best gauge for kitchen sinks (primarily between 18-gauge, 16-gauge, and 14-gauge)](https://thekitchenpot.com/blog/what-gauge-stainless-steel-sink-is-best/)**. Here is a comprehensive guide on the same. The thicker the stainless steel, the less noisy the sink.
+**Check depth.** 9 to 10 inches hides dishes well. Deeper bowls mean more bending.
 
-## **Comparison of the Best Kitchen Sinks in the Market**
+**Single or double bowl.** Single bowls fit big pans. Double bowls let you wash and rinse separately. In a small kitchen, a single bowl usually works better.
 
-At this stage, you have all the information you need to find the best white undermount kitchen sink. Now it’s time to learn about other factors that will influence your choice. To help you out, we offer a side-side comparison of the most confusing shopping factors:
+**Drain location.** Rear drains free up space under the sink. Center drains suit most disposals.
 
-### **Topmount Sinks vs. Undermount Sinks**
+## Keeping a White Sink White
 
-One of the main differences between top-mount and undermount kitchen sinks is how they attach to your countertop. While both can be installed either inside or outside of the cabinet, there’s a difference in appearance when mounted underneath the shelf.
+**Rinse and wipe daily.** Do not let coffee, tea, wine or tomato sauce sit.
 
-Undermount models sit flush with the bottom of your countertop and cabinet, which gives them a sleek look but may cause problems if you need to replace the countertop or move the sink in the future.
+**Use a bottom grid.** It stops pans from leaving gray metal marks.
 
-Topmount sinks, on the other hand, sit above your countertop and cabinet. If you choose this option, make sure you have enough spacing between them, eliminating any chance of leaking.
+**Clean weekly.** Use a paste of baking soda and water on glossy sinks. For composite, follow the maker's cleaner and care oil.
 
-### **Single Bowl vs. Double Bowl Sinks vs. Triple Bowl Sinks**
+**Avoid harsh abrasives.** Steel wool and gritty powders dull enamel and fireclay.
 
-When you step out to buy your favorite sink, you’ll notice that you have a choice between single and double bowls. This is a critical factor to consider, especially if you know how many people will be using the sink.
+**Remove metal marks.** A soft cream cleanser lifts most pan marks. Rub gently in small circles, rinse well and dry the bowl with a soft towel so no film is left behind.
 
-Double-bowl models can help make kitchen clean-up easier because they provide more space for washing dishes, but single-bowl sinks are usually better for rinsing food than for doing the dirty work of cleaning dishes.
+Clean cookware stains less. Our guides on [how to clean stainless steel pans](/blog/how-to-clean-stainless-steel-pans/) and [how to clean a ceramic pan](/blog/how-to-clean-ceramic-pan/) help. Cast iron leaves the most marks, so set heavy pans like a [Lodge cast iron skillet](/blog/lodge-cast-iron-skillet-review/) on the grid.
 
-Additionally, you should consider the size of your countertop. Double sinks and triple sinks require more space and are not ideal for small kitchens. If space is not a problem, you can choose either option without worrying about how it affects your kitchen design.
+## Undermount Installation Tips
 
-### **Undermount Sinks vs. Drop-In Sinks** 
+1. **Pick the sink first.** The counter fabricator needs the sink or its template to cut the opening.
+2. **Use a solid counter.** Stone, quartz and solid surface work. Laminate does not.
+3. **Support heavy sinks.** Cast iron and fireclay need brackets or a support frame.
+4. **Seal the joint.** Silicone between sink and counter stops leaks and mold.
+5. **Plan the faucet.** Undermount sinks need faucet holes drilled in the counter, except sinks like the Riverby that have their own deck.
 
-The primary difference between the undermount sinks and drop-in sinks is the position of the lip. In under-mount versions, the lip is below the countertop while the drop-in sinks have the lip parallel to the countertop’s surface.
+## Making the Most of Your Sink Area
 
-If you’re looking for speed and convenience, drop-in sinks are your top choice because they can be installed without any cutting or measuring, but undermount models have a slim, sleek appearance that makes them more attractive.
+An [over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) adds prep space. A [magnetic knife strip](/blog/best-magnetic-knife-strip/) keeps knives close but off the counter.
 
-Undermount sinks require more effort during installation because of their size, but they offer more space under the countertop, so you can easily wash large pots and pans.
+Under the sink, use stackable bins and a pull-out tray. Our [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) cover the space around plumbing. For more counter room, see [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/).
 
-## **Choosing the Right Sink for Your Kitchen – Bottom Line**
+A clean, dry sink also helps [keep pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/). If your dishwasher sits beside the sink, keep it fresh with our guide on [how to clean a dishwasher](/blog/how-to-clean-a-dishwasher/).
 
-Whether you’re looking for durability, efficiency, or aesthetic appeal, we have all the information you need to buy the perfect sink.
+## Remodeling Around a New Sink
 
-We hope that our comprehensive guide has helped you narrow down your choices and find something that fits into your budget and preferences. Just ensures that you remember the following key factors when shopping:
+A new sink is a good time to refresh the rest of the kitchen. Good ventilation keeps steam off cabinets; see the [best under-cabinet range hood](/blog/best-under-cabinet-range-hood/).
 
-* Consider the style that will complement your kitchen’s overall design.
-* Choose between one, two, or three bowls depending on how much space you need.
-* Undermount sinks are generally better for kitchens with limited countertop space since they leave more room free to wash large pots and pans.
-* Undermount sinks are easier to clean than top mount sinks since their rim is below the countertop.
-* Drop-in sinks are easier to install, but undermount models offer a sleek appearance that looks great in modern kitchens.
+If you are replacing appliances too, consider the [best compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/). A low-flow faucet aerator is an easy way to [reduce kitchen energy use](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/).
 
-Now that you’ve learned about these factors, browse through our list of the best white undermount kitchen sinks and see which one best meets your needs.
+## Single Bowl, Double Bowl or Workstation?
 
-## **Best Undermount Kitchen Skin -Frequently Asked Questions**
+**Single bowl** sinks give you one big basin. They fit sheet pans, roasting pans and a tall [stockpot with a lid](/blog/best-stockpot-with-a-lid/). All six picks here are single bowl.
 
-What are Undermount Sinks?
+**Double bowl** sinks split the space so you can wash on one side and rinse on the other. Each side is smaller, so large pans do not lie flat.
 
-Undermount sinks have a rim that is located below the countertop. This allows them to fit flush against your counter for an attractive appearance. 
+**Workstation** sinks, like the Kohler Riverby, add a ledge for a cutting board, colander and drying rack. They turn the sink into a prep station, which helps in a small kitchen with little counter space.
 
-How are Undermount Sinks Made?
+Baking sheets are often the widest thing you wash. If yours do not fit, check the bowl length against the pan. Our guide on [why baking sheets warp in the oven](/blog/why-baking-sheets-warp-in-the-oven/) explains why a cold rinse on a hot pan is a bad idea.
 
-Most undermount sinks are made of stainless steel, but you can also buy them in porcelain. These types of materials must be crafted with great care because they need to withstand the wear and tear caused by frequent use for many years. You must choose high-quality materials when buying an undermount sink because they will remain in your kitchen for years and their appearance matters.
+## Choosing Accessories for a White Sink
 
-What is the Purpose of Undermount Sinks?
+**Bottom grid.** The most important add-on for a white sink. It keeps pots off the bowl floor and stops metal marks. Ruvati includes one, and Karran sells a kit with one.
 
-The primary purpose of these sinks is to provide a flat surface on which you can wash dishes and perform other kitchen tasks. They also add style and sophistication to your home, making them a great choice for modern kitchens that need something sleek and durable.
+**Basket strainer.** Catches food scraps. Kraus and Ruvati include one.
 
-What are the Advantages of Undermount Sinks?
+**Roll-up drying rack.** Lies across the bowl so dishes drip straight into the sink.
 
-This type of sink offers several advantages, but its sleek appearance is what stands out the most. An undermount sink looks great in modern kitchens because it provides a clean and contemporary look that complements any style. You can also get models with self-rimming edges for an even sleeker appearance if you want something even more appealing to the eye.
+**Soap dispenser.** A built-in pump frees up counter space.
 
-What are the Different Sizes of Undermount Sinks?
+**Faucet.** A pull-down faucet makes it easy to rinse every corner of a large single bowl. Brass, black and stainless finishes all look sharp against white.
 
-The size of your undermount sink typically depends on its bowl’s dimensions. The typical product comes with a single-bowl design, but you can also find models with two and three bowls if you need more space to clean dishes and perform other tasks.u003cbru003eIn general, most undermount sinks are smaller than top-mounted models. If your kitchen has limited countertop space, an undermount sink is a great choice because it leaves more room to wash large pots and pans without taking up too much surface area.
+## Common Mistakes to Avoid
 
-How Much Do Undermount Sinks Cost?
+- **Ordering the counter before the sink.** The fabricator needs the exact sink to cut the opening.
+- **Skipping support for heavy sinks.** Cast iron and fireclay need brackets or a frame.
+- **Forgetting the disposal flange.** Thick fireclay and composite sinks may need an extended flange.
+- **Using bleach on composite.** It can dull the finish. Use the maker's cleaner instead.
+- **Leaving cast iron pans in the sink.** They leave rust and gray marks. Wash, dry and store them right away; see [how to store pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/).
+- **Dropping knives in the bowl.** It chips enamel and dulls blades. Wash them by hand and keep them keen with a good [knife sharpener](/blog/best-knife-sharpener/).
 
-Undermount sinks come in all shapes, styles, and price ranges. You can find mid-range models or you can go all out and buy a more expensive one if you want something high-end. Generally, an undermount sink costs around $100 to $200 more than a top mount model with comparable features and components.
+## Which White Undermount Sink Should You Buy?
 
-What are the Different Types of Undermount Sinks?
+Buy the **Kohler Riverby** for classic cast iron with workstation tools.
 
-There are different types of undermount sinks available, but they mainly fall into three categories based on their material. The least expensive models are made of stainless steel, while porcelain and fireclay options tend to be more expensive because they are crafted with care using high-quality materials. Porcelain undermount sinks come in a wide range of colors, so if you have a specific color in mind, it’s easy to find one that matches your style.
+Pick the **Kraus Pintura** for the cast-iron look at less weight.
+
+Choose the **Blanco Precis** for a large, trusted granite composite.
+
+Get the **Elkay Quartz Classic** for a wide quartz bowl with a rear drain.
+
+Go with the **Karran QU-712** for the best composite value.
+
+Choose the **Ruvati Fiamma** for glossy fireclay in a 33-inch cabinet.
+
+## Related Guides
+
+- [Coolest Kitchen Appliances to Buy](/blog/coolest-kitchen-appliances-to-buy/)
+- [Vertical Storage Ideas for Small Kitchens](/blog/vertical-storage-ideas-for-small-kitchens/)
+- [How to Organize Kitchen Drawers in a Small Kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/)
+- [How to Organize a Small Kitchen With No Pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/)
+- [Pots and Pans Rack Reviews](/blog/pots-and-pans-rack-reviews/)
+- [Best Side-by-Side Refrigerator](/blog/best-side-by-side-refrigerator/)
+- [Best Airtight Food Storage Containers](/blog/best-airtight-food-storage-containers/)
