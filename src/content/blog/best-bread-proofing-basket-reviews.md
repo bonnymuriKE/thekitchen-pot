@@ -188,9 +188,9 @@ One Frieling customer review on this basket reported receiving a slightly larger
 
 ## Two More Options Worth Knowing
 
-**Frieling Baguette Brotform.** Frieling also makes a 17x3-inch baguette basket, listed at $28.95 and in stock on [Frieling's proofing basket page](https://direct.frieling.com/proofing_basket_s/1906.htm). Check that a 17-inch loaf fits your oven before you order. Many small and toaster ovens will not take it.
+**Frieling Baguette Brotform.** Frieling also makes a 17x3-inch baguette basket, listed at $28.95 and in stock on Frieling's proofing basket page. Check that a 17-inch loaf fits your oven before you order. Many small and toaster ovens will not take it.
 
-**King Arthur Oval Brotform & Liner Set.** King Arthur sells an oval basket with a removable liner on its own store. It lists the set at $33.21, "In stock & ready to ship," and says it holds up to 3 pounds of dough. That is a larger basket than the Frieling oval. It is sold only through [King Arthur's shop](https://shop.kingarthurbaking.com/items/oval-brotform-liner-set), so it is not a numbered pick here.
+**King Arthur Oval Brotform & Liner Set.** King Arthur sells an oval basket with a removable liner on its own store. It lists the set at $33.21, "In stock & ready to ship," and says it holds up to 3 pounds of dough. That is a larger basket than the Frieling oval. It is sold only through King Arthur's shop, so it is not a numbered pick here.
 
 ## What a Proofing Basket Actually Does
 

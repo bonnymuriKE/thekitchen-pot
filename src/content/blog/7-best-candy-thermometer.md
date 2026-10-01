@@ -106,7 +106,7 @@ The base stays away from the heat, so you read it without leaning over the pot. 
 
 ThermoWorks listed it at $51.75, down from $69.00, with "Add to cart" live. It is the most expensive pick here. It also does more jobs than any other, from candy to roasts to [smoking meat](/blog/best-meat-thermometer-for-smoking/).
 
-One point matters for candy makers. ThermoWorks lists the accuracy at ±1.8°F up to 248°F. Above 392°F it widens to ±5.4°F. So it is tightest at fudge and caramel temperatures. To hold the probe in a pot, ThermoWorks sells a separate stainless steel [pot clip](https://www.thermoworks.com/tx-1007x-pc/).
+One point matters for candy makers. ThermoWorks lists the accuracy at ±1.8°F up to 248°F. Above 392°F it widens to ±5.4°F. So it is tightest at fudge and caramel temperatures. To hold the probe in a pot, ThermoWorks sells a separate stainless steel pot clip.
 
 **What we like:**
 

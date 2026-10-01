@@ -1,331 +1,380 @@
 ---
-excerpt: "Love pizza? Check out the best pizza stones and master homemade pizza
-  with our comprehensive buying guide. Achieve crispy, mouth-watering pizzas
-  easily. "
+excerpt: "The best pizza stones and steels for crisp homemade pizza: a pizza steel, a French ceramic stone, cast iron, and cordierite stones from $40. Six picks from Baking Steel, Emile Henry, Lodge, Unicook and Old Stone."
 showTableOfContents: true
 authorId: kitchenpot1
-title: 6 Best Pizza Stones for Irresistible pizzas- An All-Inclusive Guide
+title: "Best Pizza Stone (6 Picks: Steel, Ceramic, Cast Iron and Cordierite)"
 source: wordpress
 slug: best-pizza-stone
 pubDate: 2020-08-03
-modDate: 2025-02-13
+modDate: 2026-09-30
 image: ""
 category: Bakeware
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: 6 Best Pizza Stones for Irresistible pizzas- An All-Inclusive Guide
+coverAlt: "A homemade pizza with a blistered crust on a pizza stone, with a wooden peel and flour on the counter"
 tags:
-  - best-grills-under-500
-  - gas-grills-and-charcoal-combo
+  - pizza-stone
+  - pizza-steel
+  - cordierite-stone
+  - homemade-pizza
+  - baking
 authorImageAlt: kitchenpot1
-description: "Love pizza? Check out the best pizza stones and master homemade pizza with our comprehensive buying guide. Achieve crispy, mouth-watering pizzas easily."
-seo: Looking for the best pizza stones? Well, getting one will certainly make
-  pizza making a breeze. This guide helps you to understand what to look out for
-  when shopping
+description: "The best pizza stones and steels: six picks from Baking Steel, Emile Henry, Lodge, Unicook and Old Stone, from $40 cast iron to steel, plus how to bake it."
+seo: "Compare the best pizza stones and steels: Baking Steel Original, Emile Henry ridged ceramic, Lodge cast iron pizza pan, Unicook and Old Stone cordierite stones."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "What is the best pizza stone?"
+    answer: "For the crispiest crust in a home oven, the Baking Steel Original is the best pick in this guide. It is a 1/4-inch carbon steel slab made in the USA with a lifetime warranty. If you want a classic stone that is easy to clean, the Emile Henry Ridged Pizza Stone is dishwasher safe and rated to 930°F, per Emile Henry."
+  - question: "Pizza stone or pizza steel: which is better?"
+    answer: "Steel conducts heat faster than stone, so it browns the bottom of a pizza more quickly at home-oven temperatures. Stone heats more gently and is lighter and cheaper. Steel is nearly unbreakable; cordierite and ceramic stones can crack if dropped. For crisp New York-style pizza in a 500°F oven, steel usually wins."
+  - question: "How long should I preheat a pizza stone?"
+    answer: "Preheat for at least 45 minutes to an hour at your oven's highest setting. Stones and steels need time to soak up heat all the way through. A short preheat gives a pale, soft bottom."
+  - question: "Can you put a pizza stone on the grill?"
+    answer: "Many can. Emile Henry says its Ridged Pizza Stone works on gas and charcoal grills, and Unicook rates its cordierite stones to 1,450°F for ovens and grills. Heat the stone gradually with the grill to avoid thermal shock."
+  - question: "How do you clean a pizza stone?"
+    answer: "Let it cool fully, scrape off stuck food and wipe it with warm water. Unicook says not to use soap or oil on its cordierite stones, because they are porous. Stains are normal and do not affect cooking. Steel and cast iron are cleaned like a cast iron pan and kept lightly oiled."
 ---
-Are you aware that you can make your pizza at your convenience? Well, all that you need to achieve this milestone is the best pizza stone! 
+A pizza stone turns a home oven into something closer to a pizzeria oven. It stores heat and pushes it into the dough, giving a crisp, browned base instead of a soft, pale one.
 
-Having pizza is fun! It’s always awesome to go out and enjoy pizza with friends and family at your favorite pizzeria.
+There are four main types: steel, ceramic, cast iron and cordierite. Each heats differently and suits a different cook.
 
-However, these regular pizza outings can be expensive! You’ll require to fritter away your money, which will make no economic sense in the long run. 
+**The short version:** For the crispiest home-oven pizza, the [Baking Steel Original](https://www.amazon.com/Baking-Steel-Original-Ultra-Conductive/dp/B00N205G22/?tag=kitchenpot-20) is the pick. It is 1/4-inch carbon steel, made in the USA and backed by a lifetime warranty. For a classic stone that goes in the dishwasher, choose the [Emile Henry Ridged Pizza Stone](https://www.amazon.com/Emile-Henry-France-Flame-Charcoal/dp/B00T4ANYEG/?tag=kitchenpot-20). On a budget, the [Lodge 15-Inch Cast Iron Pizza Pan](https://www.amazon.com/Lodge-BW15PP-Seasoned-Pizza-Black/dp/B0971MC534/?tag=kitchenpot-20) costs about $40 at Lodge's price.
 
-As such, you should find an alternative to cap your expenditure without denying yourself your favorite pizza. The best way to achieve this is by cooking the same amazing pizzas at home.
+## Our Picks at a Glance
 
-In this article, we’ll analyze some of the best pizza stones ideal for you. If you want to impress your friends or family with an oven-fired pizza, then read on to find out some of the best pizza stones that are perfectly fit for you.
+- **Best overall (steel):** [Baking Steel Original Pizza Steel](https://www.amazon.com/Baking-Steel-Original-Ultra-Conductive/dp/B00N205G22/?tag=kitchenpot-20)
+- **Best ceramic stone:** [Emile Henry Ridged Pizza Stone](https://www.amazon.com/Emile-Henry-France-Flame-Charcoal/dp/B00T4ANYEG/?tag=kitchenpot-20)
+- **Best cast iron:** [Lodge 15-Inch Cast Iron Pizza Pan](https://www.amazon.com/Lodge-BW15PP-Seasoned-Pizza-Black/dp/B0971MC534/?tag=kitchenpot-20)
+- **Best large stone:** [Unicook 18 x 18 Inch Extra Large Pizza Stone](https://www.amazon.com/Unicook-Durable-Thermal-Resistant-Cooking/dp/B0CFKJQNRW/?tag=kitchenpot-20)
+- **Best value cordierite:** [Unicook 15 x 12 Inch Rectangular Pizza Stone](https://www.amazon.com/Unicook-Ceramic-Grilling-Resistant-Rectangular/dp/B06XGV3RS4/?tag=kitchenpot-20)
+- **Best classic budget stone:** [Old Stone 14 x 16 Inch Rectangular Pizza Stone](https://www.amazon.com/Old-Stone-Oven-Rectangular-Pizza/dp/B0000E1FDA/?tag=kitchenpot-20)
 
-## **What Is A Pizza Stone?**
+Baking Steel, Emile Henry, Lodge and Unicook listed their picks as available on their own stores when we checked. Old Stone is sold mainly through retailers. Prices change often.
 
-Nowadays, you don’t have to use your old baking tray to bake your pizza. A pizza stone is the best way to create professional style pizzas.
+| Pick | Material | Size | Weight | Maker's Price |
+| --- | --- | --- | --- | --- |
+| Baking Steel Original | Carbon steel, 1/4 in | 16 x 14 in | 15 lb | $139 to $179 |
+| Emile Henry Ridged | Ceramic | 14.5 in round | 6.4 lb | $99.95 |
+| Lodge BW15PP | Cast iron | 15 in round | About 9.9 lb | $39.90 |
+| Unicook 18 x 18 | Cordierite, 0.6 in | 18 x 18 in | 12.2 lb | $88.99 |
+| Unicook 15 x 12 | Cordierite, 0.6 in | 15 x 12 in | 6.6 lb | $56.99 |
+| Old Stone 14 x 16 | Cordierite | 14 x 16 in | Not listed | See listing |
 
-The best pizza stone is a thick, flat baking stone. It comes in different shapes: round, square, or rectangular, and ranges in size from 13, 14, and 15 to 16-inches.
+## 1. [Baking Steel Original Pizza Steel](https://www.amazon.com/Baking-Steel-Original-Ultra-Conductive/dp/B00N205G22/?tag=kitchenpot-20): Best Overall (Steel)
 
-## **Best Pizza Stones: How do They Work?**
+- **Material:** Solid carbon steel, hand-seasoned with flax oil
+- **Size:** 16 x 14 inches, 1/4 inch thick
+- **Weight:** 15 lb
+- **Made in:** USA, Massachusetts
+- **Warranty:** Lifetime against defects
+- **Care:** Wipe with a damp cloth, mild soap is fine, dry and oil lightly; never in the dishwasher
+- **Maker's price:** $139.00 to $179.00, available
 
-Position your stone on the middle rack or bottom of the oven and preheat the oven.
+A pizza steel is the biggest upgrade most home pizza makers can buy. Steel moves heat into the dough faster than stone. In a home oven that tops out around 500°F to 550°F, that faster heat gives a browner, crisper base in less time.
 
-Once the pizza is placed onto the stone, the stone’s porous material absorbs and holds the heat of the oven which is then transferred to the pizza.
+The Baking Steel Original is the steel that made the idea popular. It is a quarter-inch slab of carbon steel, pre-seasoned with flax oil and ready to use out of the box.
 
-The result is an awesome baked pizza with a bubbling glossy look, evenly baked in the middle and a crispy, crunchy crust that is ready for you to sink your teeth into.
+It is nearly indestructible. Steel will not crack from thermal shock or a drop, which is the main way stones fail.
 
-## **Best Pizza Stones – Types and Materials of Construction**
+At 15 pounds, it is heavy. Leave it on an oven rack rather than moving it often. It also works as a griddle on the stovetop for smash burgers and pancakes.
 
-Your best pizza stones can be made from different materials, some of which are not even stones. Knowing the different options, and how they compare will help you decide which stone is the best for you.
+**What we like:**
 
-* **Ceramic**
+- Fastest, crispiest bake in a home oven
+- Will not crack or shatter
+- Made in the USA with a lifetime warranty
+- Doubles as a griddle
 
-Ceramic is generally clay that has been shaped and baked in a kiln to be hardened. 
+**What to know before you buy:**
 
-These stones are great for baking pizza because they trap and conduct heat at very high temperatures.
+- Heavy, at 15 pounds
+- Most expensive pick
 
-They radiate heat evenly, which is essential to baking a tasty pizza. The stones can last a very long time with proper care.
+**Who should buy it:** Anyone serious about home pizza who wants the best result from a standard oven.
 
-* **Cordierite**
+[Check Price on Amazon](https://www.amazon.com/Baking-Steel-Original-Ultra-Conductive/dp/B00N205G22/?tag=kitchenpot-20)
 
-Cordierite has a place in the heart of pizza lovers everywhere. The reason being it’s the most common material used for pizza stones.
+## 2. [Emile Henry Ridged Pizza Stone](https://www.amazon.com/Emile-Henry-France-Flame-Charcoal/dp/B00T4ANYEG/?tag=kitchenpot-20): Best Ceramic Stone
 
-Cordierite is a mineral that is well known for its ability to handle high temperatures. Cordierite is also resistant to thermal shock, this means you can transition it from cool temperatures to hot temperatures without breaking it.
+- **Material:** BBQ Ceramic, made in France
+- **Size:** 14.5 inches round
+- **Weight:** 6.4 lb
+- **Max temperature:** 930°F, per Emile Henry
+- **Use:** Ovens and gas or charcoal grills
+- **Care:** Dishwasher safe; sealed surface resists stains and odors
+- **Warranty:** 10 years
+- **Maker's price:** $99.95 in charcoal, available
 
-Cordierite stones are made in a variety of shapes and sizes. Just remember the thicker the stone is, the longer it will require to preheat in the oven.
+Most pizza stones are porous and stain over time. The Emile Henry is glazed and sealed. Emile Henry says it resists stains and odors, and it goes in the dishwasher.
 
-* **Steel**
+The ridged surface lifts the pizza slightly, letting steam escape so the base crisps. A low front edge helps slide a peel underneath, and a raised back stops pizza from sliding off.
 
-Pizza steels have risen in popularity in the last few years. 
+Emile Henry rates it to 930°F and says it works on gas and charcoal grills. That makes it a good grill pizza stone too.
 
-Instead of stone, clay or ceramic, large thick sheets of food-grade steel have been popping up in ovens.
+Charcoal is linked here. The burgundy version was unavailable on Emile Henry's store when we checked.
 
-If you want to take your baking into another level, well, it’s easy to just combine the use of steel and stone by placing your baking steel on top of the stone.
+**What we like:**
 
-Steel is great at absorbing and conducting intense high heat. Steel pizza stones have an advantage over a stone because you never have to worry about thermal shock, cracking, or breaking.
+- Dishwasher safe and stain resistant
+- Rated to 930°F for ovens and grills
+- Made in France with a 10-year warranty
+- Ridges help crisp the base
 
-* **Stone and Clay**
+**What to know before you buy:**
 
-Stone or pizza stones are an outstanding choice for baking. They have an excellent ability to absorb moisture. 
+- Round 14.5-inch size limits pizza size
+- Burgundy was unavailable when we checked
 
-Like cordierite and ceramic, clay stones need plenty of time to pre-heat.
-
-## **6 Best Pizza Stones**
-
-### **1. [User-Friendly Pick-Love This Kitchen the Ultimate Pizza Stone for Oven and Grill](https://www.amazon.com/Exclusive-ThermaShock-Protection-Convection-Technology/dp/B01KUGKETK/?tag=kitchenpot-20)**
-
-[Check Price on Amazon](https://www.amazon.com/Exclusive-ThermaShock-Protection-Convection-Technology/dp/B01KUGKETK/?tag=kitchenpot-20)
-
-Well, if you’ve never used a pizza stone, you should try this pizza stone from love this kitchen, it’s a great pick you’ll never regret using.
-
-The model is made from proprietary thermal shock cordierite. The pizza stone is heat resistant and durable. It also uses a patent-pending design to help draw heat to the center of the stone. 
-
-Love this kitchen pizza stone has a No-Spill Stopper on one side. The stone has a raised part that prevents pizza dough and ingredients from sliding or spilling.
-
-The bottom ledge and the No-Spiller Stopper are useful for moving the stone. This makes it easy to lift the stone which can be quite difficult if you’re unfamiliar with it.
-
-Love this kitchen pizza stone weighs 8.8 pounds, which is average for a pizza stone. Like most pizza stones, this one requires pre-heating.
-
- But this doesn’t affect the quality of the pizza stone itself. The pizza stone is FDA approved and can withstand heat up to 1,500 degrees Fahrenheit.
-
-The stone measures 17 x 16 x 0.83 inches. You get 16 inches of the usable surface, and the No-Spill is one additional inch. You can make an extra-large pizza with this much surface space.
-
-**Pros**
-
-* Limited lifetime guarantee
-* Useful freebies including recipe e-book for making a better pizza
-* No-Spill stopper helps secure pizza
-* Core convection technology for even baking results
-
-**Cons**
-
-* The pizza stone is heavy as compared to other pizza pans
-* Requires pre-heating
-
-### **2. [Heritage 15” Black Ceramic Pizza Stone](https://www.amazon.com/Heritage-Black-Ceramic-Pizza-Cutter/dp/B00O83CTOK/?tag=kitchenpot-20)**
-
-[Check Latest Price on Amazon](https://www.amazon.com/Heritage-Black-Ceramic-Pizza-Cutter/dp/B00O83CTOK/?tag=kitchenpot-20)
-
-For the perfectionists and OCDers out there, well, this is ideal for you.
-
-The heritage 15” pizza stone is the best fit for those who can’t stand stains on your pizza. 
-
-This stone is black coated and will not stain, no matter how many pizzas you make.
-
-While it is perfectly normal for pizza stones to develop brown spots, sometimes we just love the stones that spark Lesly clean. The stone has a lifetime guarantee.
-
-The pizza stone bakes a lovely, crispy, and delicious pizza. So, why don’t you try using it today for an amazing pizza?
-
-**Pros**
-
-* The pizza stone is stain resistant
-* It radiates intense heat evenly
-* The stone absorbs moisture
-* The pizza stone offers more surface area
-* It’s durable
-* The heritage 15” pizza stone produces great pizzas
-
-**Cons**
-
-* The black coating may eventually peel off
-
-### **3. [Dishwasher Safe Pick-Emile Henry Flame Top Pizza Stone](https://www.amazon.com/Emile-Henry-France-Flame-Charcoal/dp/B00T4ANYEG/?tag=kitchenpot-20)**
+**Who should buy it:** Cooks who want a classic stone that is easy to clean.
 
 [Check Price on Amazon](https://www.amazon.com/Emile-Henry-France-Flame-Charcoal/dp/B00T4ANYEG/?tag=kitchenpot-20)
 
-The dishwasher safe pick pizza stone from Emile Henry Is easier to clean than other types of pizza stones. The pizza stone is a convenient and user-friendly dishwasher-safe model.
+## 3. [Lodge 15-Inch Cast Iron Pizza Pan](https://www.amazon.com/Lodge-BW15PP-Seasoned-Pizza-Black/dp/B0971MC534/?tag=kitchenpot-20): Best Cast Iron
 
-The favorable size of this stone lets you make pizzas that are equal to a standard large restaurant pizza.
+- **Model:** BW15PP
+- **Material:** Pre-seasoned cast iron, PFAS-free
+- **Size:** 15 inches round, rimless
+- **Weight:** About 9.9 lb
+- **Handles:** Two raised handles
+- **Maker's price:** $39.90 (sale), available
 
-The pizza stone can fit well in your oven and you can also place it on the grill.
+Cast iron holds heat almost as well as steel, and Lodge makes it affordable. This 15-inch pan is rimless, so a pizza slides on and off from any side.
 
-When it comes to its construction, there’s no need to worry about causing damage by exposing it to water and detergent. 
+Lodge says cast iron will not dent, bend or warp at high temperatures. It arrives pre-seasoned.
 
-The pizza stone is made from 100% natural ceramic clay and finished with a durable glaze. The material can withstand temperatures up to 900 degrees Fahrenheit to allow any cooking method you prefer.
+The two raised handles make it much easier to move than a flat steel or stone. Use it in the oven, on a grill or even over a campfire.
 
-The dishwasher safe pick-Emile Henry flame top pizza stone features two ergonomic handles that make it even easier to grip.
+It also works as a griddle, a roasting pan and a cookie sheet. Our [Lodge cast iron skillet review](/blog/lodge-cast-iron-skillet-review/) covers how Lodge iron holds up over years.
 
-The circular design measures 14.5 inches in diameter and weighs 5.7 pounds. Despite the user-friendly lightweight design, this stone is built to last.
+**What we like:**
 
-Many pizzas cannot be submerged in water or cleaned with dish soap or detergent. However, this pizza stone’s glazed clay design eliminates these issues.
+- Great heat retention for the price
+- Rimless for easy sliding
+- Two handles for safe moving
+- Will not crack like stone
 
-The glaze is micro-crazed, which is a method used when the glaze is applied. Micro-crazing adds durability and helps ensure the crust is well-baked.
+**What to know before you buy:**
 
-The pizza stone is backed by a 10-year manufacturer guarantee against defects.
+- Needs seasoning care like a skillet
+- Heavy, at about 10 pounds
 
-**Pros**
+**Who should buy it:** Budget-minded cooks who want near-steel results.
 
-* The pizza stone comes with 10-year manufacturer guarantee against defects
-* The glaze in the pizza stone is scratch-resistant
-* Dishwasher-safe design makes cleaning simple
+[Check Price on Amazon](https://www.amazon.com/Lodge-BW15PP-Seasoned-Pizza-Black/dp/B0971MC534/?tag=kitchenpot-20)
 
-**Cons**
+## 4. [Unicook 18-Inch Square Extra Large Pizza Stone](https://www.amazon.com/Unicook-Durable-Thermal-Resistant-Cooking/dp/B0CFKJQNRW/?tag=kitchenpot-20): Best Large Stone
 
-* The pizza stone must be preheated to prevent cracking
-* Price is above-average for a pizza stone
+- **Material:** Cordierite
+- **Size:** 18 x 18 x 0.6 inches
+- **Weight:** 12.2 lb
+- **Max temperature:** 1,450°F, per Unicook
+- **Included:** Plastic scraper
+- **Care:** Warm water only; no soap, no oil
+- **Maker's price:** $88.99, available
 
-### **4. [Solido 14 x 16-Inch Pizza Stone](https://www.amazon.com/Pizza-Stone-Baking-Rectangular-Perfect/dp/B01GMYARYG/?tag=kitchenpot-20)**
+Cordierite is the classic pizza stone material. It handles high heat and resists thermal shock better than cheap clay stones. Unicook rates this one to 1,450°F.
 
-[Check Latest Price on Amazon](https://www.amazon.com/Pizza-Stone-Baking-Rectangular-Perfect/dp/B01GMYARYG/?tag=kitchenpot-20)
+At 18 inches square, it is the largest stone here. It fits a big pizza or two small ones, or several loaves of bread. Measure your oven first; it needs a large oven rack.
 
-With the solido pizza stone, you can create your delicious restaurant-quality pizza. 
+It is 0.6 inches thick, which stores plenty of heat between pizzas.
 
-There is plenty of room to add all your favorite toppings in the 14 x 16 –inch large rectangular surface and the stone will fit in most standard-sized ovens.
+Like all cordierite, it is porous. Unicook says never to use soap or oil. Stains are normal.
 
-The Solido pizza stone is made of durable cordierite stone which has a high heat tolerance of up to 2,000-degrees Fahrenheit. The stone also has extra thermal shock resistance.
+**What we like:**
 
-For an optimal cooking performance, Solido’s exclusive heat spiral base allows the stone to heat up faster. 
+- Very large 18-inch square surface
+- Rated to 1,450°F for ovens and grills
+- Thick stone stores heat between pizzas
+- Scraper included
 
-The alloy of the unique spiral base and crafted feet raise the stone slightly from the oven rack. This gives you a superior grip and mobility as you lift it out of the oven.
+**What to know before you buy:**
 
-The pizza stone also retains more heat in the center of the stone so that the toppings are perfectly cooked, and maintains the good flavor of the crust.
+- Will not fit smaller ovens
+- Can crack if dropped or shocked
 
-The pizza stone can also be used to bake fresh and frozen pizza, cookies, and bread.
+**Who should buy it:** Families and bread bakers with a full-size oven.
 
-The Solido 14 x 16-inch pizza stone offers mouth-watering recipes, cooking tips, tricks, and great customer support.
+[Check Price on Amazon](https://www.amazon.com/Unicook-Durable-Thermal-Resistant-Cooking/dp/B0CFKJQNRW/?tag=kitchenpot-20)
 
-**Pros**
+## 5. [Unicook 15 by 12-Inch Rectangular Pizza Stone](https://www.amazon.com/Unicook-Ceramic-Grilling-Resistant-Rectangular/dp/B06XGV3RS4/?tag=kitchenpot-20): Best Value Cordierite
 
-* The pizza stone fits in most standard ovens
-* The beautifully crafted feet provides balance, a superior grip, and easy mobility
-* The pizza stone heats up faster and evenly distribute the heat for optimal cooking results
-* The stone comes with exclusive heat spiral design
-* Large rectangular surface
-* The stone has good value for money
+- **Material:** Food-grade cordierite
+- **Size:** 15 x 12 x 0.6 inches
+- **Weight:** 6.6 lb
+- **Max temperature:** 1,450°F, per Unicook
+- **Care:** Warm water only; no soap, no oil
+- **Maker's price:** $56.99, available
 
-**Cons**
+The smaller Unicook stone fits most ovens, including RV and compact ovens. At 15 x 12 inches, it suits a single medium pizza or a loaf of bread.
 
-* The stone cannot be washed with soap or detergent
-* The pizza stone is not dishwasher safe 
-* The pizza stone can discolor over time
-* The stone is not pocket friendly
+Unicook says it is pressed under 400 tons of pressure and fired at high temperature, which helps it resist thermal shock. Its micro-pores absorb moisture from the dough for a crisper crust.
 
-### **5. [Best Heat Resistant Pick- Culinary- Couture Pizza Stone For Grill and Oven](https://www.amazon.com/Pizza-Stone-Grill-Oven-Packaging/dp/B01AFOIO3K/?tag=kitchenpot-20)**
+At 6.6 pounds, it is light enough to move in and out of the oven.
 
-[Check Price on Amazon](https://www.amazon.com/Pizza-Stone-Grill-Oven-Packaging/dp/B01AFOIO3K/?tag=kitchenpot-20)
+**What we like:**
 
-The heat resistant pick-culinary-couture pizza stone is made of cordierite from culinary couture. The stone is ¾ inch thick and holds up well no matter how you use it.
+- Fits most ovens, including compact ones
+- Light enough to move easily
+- Rated to 1,450°F
+- Good value
 
-This pizza stone can withstand temperatures up to 1000 degrees. The stone is a great pick for use in any high-temperature grill, smoker, or oven.
+**What to know before you buy:**
 
-The heat resistant pick-culinary-couture is thicker than most other models. The tough pizza stone is truly built to last.
+- Smaller surface than the 18-inch stone
+- Porous; stains over time
 
-Storing this stone is incredibly easy. The durable and thick design allows you to leave it in the oven at all times.
+**Who should buy it:** Cooks with smaller ovens who want a good cordierite stone.
 
-The pizza stone also comes packaged with a bonus eBook with 45 delicious pizza recipes which is sent via email once the product is shipped.
+[Check Price on Amazon](https://www.amazon.com/Unicook-Ceramic-Grilling-Resistant-Rectangular/dp/B06XGV3RS4/?tag=kitchenpot-20)
 
-Additionally, the stone is shipped using premium packaging for no extra cost. The packaging is bolstered up with polythene foam that protects the integrity of the product.
+## 6. [Old Stone 14 by 16-Inch Rectangular Pizza Stone](https://www.amazon.com/Old-Stone-Oven-Rectangular-Pizza/dp/B0000E1FDA/?tag=kitchenpot-20): Best Classic Budget Stone
 
-There is no warranty or guarantee with this stone.
+- **Material:** Cordierite
+- **Size:** 14 x 16 inches
+- **Use:** Oven and grill
 
-**Pros**
+Old Stone has made pizza stones for decades, and this 14 x 16-inch rectangle is one of its classics. It is a plain, unglazed cordierite stone that does one job well.
 
-* The pizza stone comes with a free recipe eBook included
-* The stone can be stored in the oven when not in use
-* The stone is heat resistant up to 1,000 degrees Fahrenheit
+The rectangular shape uses oven space better than a round stone. It fits a large pizza or a long loaf.
 
-**Cons**
+It is a sensible first stone. If you find you love pizza night, upgrade to a steel later and keep the stone for bread.
 
-* The pizza stone stains over time and changes its appearance
-* No warranty or guarantee
-* The stone is heavier than other pizza stones
+**What we like:**
 
-### **6. [Budget Pick- Honey- Can- Do Stone Oven Round Pizza Stone](https://www.amazon.com/Old-Stone-Oven-Round-Pizza/dp/B07ZV3NPR7/?tag=kitchenpot-20)**
+- Long-running classic design
+- Rectangle uses oven space well
+- Works in oven and on grill
+- Simple, unglazed cordierite
 
-[Check Price on Amazon](https://www.amazon.com/Old-Stone-Oven-Round-Pizza/dp/B07ZV3NPR7/?tag=kitchenpot-20)
+**What to know before you buy:**
 
-This classic pizza stone from Honey-Can-Do offers quality and is also pocket friendly. 
+- Specs are limited on the listing
+- Porous; stains over time
 
-Budget pick-honey-can-do is built from heat resistant and lead-free clay that can be used in the oven or the grill.
+**Who should buy it:** First-time pizza makers who want a simple, proven stone.
 
-**[Read about the best gas grills you can use with your best pizza stone here](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills/)**
+[Check Price on Amazon](https://www.amazon.com/Old-Stone-Oven-Rectangular-Pizza/dp/B0000E1FDA/?tag=kitchenpot-20)
 
-This pizza stone requires 30 to 45 minutes of pre-heating. This may be inconvenient if you want to bake your pizza quickly. However, the preheating time is common with most pizza stones.
+## Stone vs Steel vs Cast Iron vs Ceramic
 
-The pizza stone’s clay design has a restaurant-style quality to it. The stone is made from the same material used in kilns and blast furnaces. 
+Each material heats differently.
 
-The stone can withstand heat up to 2,000 degrees. The old stone oven uses its heat core design to ensure your pizza is never soggy in the center.
+**Steel** transfers heat fastest. It browns the bottom quickly at home-oven temperatures, which is why many pizza makers prefer it. It is heavy and nearly unbreakable.
 
-The stone comes with a 16-inch circumference, it’s about 1.5 to 2 inches larger than many other circular pizza stones. The stone weighs 11.65 pounds, so it’s heavier than many models.
+**Cast iron** behaves much like steel. It holds heat well and will not crack. Lodge's pan adds handles, which steel slabs lack.
 
-This pizza stone is backed by a one-year limited manufacturer’s warranty. It’s guaranteed to be defect-free in material and performance for one year.
+**Cordierite** is the classic stone. It heats more gently than steel, absorbs moisture from the dough and resists thermal shock. It can crack if dropped.
 
-**Pros**
+**Glazed ceramic**, like Emile Henry, cooks like a stone but is sealed against stains and can go in the dishwasher.
 
-* The stone has a durable clay design
-* It comes with one-year limited manufacturer’s warranty
-* The stone offers heat core design for even cooking
+For a home oven at 500°F, steel or cast iron gives the crispest crust. For grills and very hot pizza ovens, stone helps keep the bottom from burning.
 
-**Cons**
+## How to Use a Pizza Stone or Steel
 
-* You need to preheat the pizza stone before use
-* No handles to lift easily
+These steps give a crisp crust every time.
 
-## **Best Pizza Stones – Buying** **Guide**
+1. **Place it in a cold oven.** Put the stone or steel on a rack before you turn on the oven. This prevents thermal shock.
+2. **Position the rack.** For steel, use the upper third so the top browns under the heating element. For stone, the middle works well.
+3. **Preheat fully.** Heat at the highest setting for 45 to 60 minutes.
+4. **Use a peel.** Dust a peel with semolina or flour so the pizza slides off easily.
+5. **Launch quickly.** Shake the peel to check the pizza moves, then slide it onto the stone in one motion.
+6. **Bake hot and fast.** Many pizzas bake in 6 to 10 minutes on a hot steel. Check the bottom with a peel.
+7. **Use the broiler.** For extra top browning, switch to broil for the last minute.
 
-### **Factors to Consider When Buying the Best Pizza Stone**
+An oven thermometer shows whether your oven really reaches temperature. An infrared thermometer can read the stone's surface. Our guide to the [best candy thermometer](/blog/7-best-candy-thermometer/) covers accurate thermometers.
 
-With a pizza stone, it can become convenient for you to bake your pizza at home comfortably. The process is natural and less harmful than a microwave. 
+## Pizza Dough Basics
 
-Owning your best pizza stone is also a healthy choice. But things can easily go wrong if you are not satisfied with the pizza stone you have. 
+Good dough matters as much as the stone.
 
-You need to buy the best pizza stone with the right texture, building materials, shape and weight, and the size adequate for your evaluation.
+- **Use bread flour** for a chewier crust, or Italian 00 flour for a softer, Neapolitan-style crust.
+- **Let it rest.** A slow rise in the fridge for 24 to 72 hours develops flavor and makes dough easier to stretch.
+- **Bring it to room temperature** before stretching.
+- **Stretch by hand.** Rolling pins press out the air bubbles that make a light crust.
+- **Go light on toppings.** Too much sauce and cheese makes a soggy center.
 
-Below are key factors to consider when purchasing your best pizza stone.
+A stand mixer or [hand mixer](/blog/best-hand-mixers/) with dough hooks can knead small batches. A [food processor under $100](/blog/best-food-processor-under-100/) also makes quick dough. For bread, a [bread proofing basket](/blog/best-bread-proofing-basket-reviews/) pairs well with a stone.
 
-* **Materials**
+## Grilling Pizza
 
-Pizza stone comes in different construction materials, but different construction materials induce different temperatures of heat. 
+A stone or steel on a grill makes a backyard pizza oven.
 
-A pizza needs to be baked at constant medium temperatures, but some elements may not work well.
+Put the stone on a cold grill and heat it with the grill, gradually. Close the lid to trap heat around the top of the pizza. Gas grills give steady heat; charcoal adds a smoky flavor.
 
-If you want a soft, moist, and crunchy pizza go for clay stone rather than the metallic ones.
+Emile Henry says its ridged stone works on gas and charcoal grills, and Unicook rates its stones to 1,450°F. Cast iron works on any grill.
 
-* **Size and Shape**
+If you are choosing a grill, see the [best gas grills under $500](/blog/best-gas-grills-under-500/) and the [best gas and charcoal grill combo](/blog/best-gas-and-charcoal-grill-combo/). Heat-resistant gloves help when moving a hot stone. See the [best heat-resistant gloves for cooking](/blog/10-best-heat-resistant-gloves-for-cooking/).
 
-The size of the pizza stone is always a guide for the size of the pizza dough. Most pizza stones come in round shape which is a standard shape that easily fits in most ovens. But pizza stones also come in different shapes.
+## Cleaning and Caring for a Pizza Stone
 
-When choosing your best pizza stone, always pay close attention to the measurements and shapes before buying. This is because you may have an oven that is not big enough or the right shape to accumulate large stones.
+Each material needs different care.
 
-* **Thickness**
+**Cordierite stones:** Let them cool fully. Scrape off stuck food. Wipe with warm water only. No soap, no oil. Stains are normal and do not affect cooking.
 
-A good pizza stone should be thick enough to maintain a medium amount of heat distributed evenly around its surface. The thickness is obligatory to maintain durability and handiness.
+**Glazed ceramic:** Emile Henry says its stone is dishwasher safe.
 
-A good depth also ensures that it can sustain a lot of heat and pressure.
+**Steel and cast iron:** Wipe clean, dry thoroughly and apply a thin coat of oil. Treat them like a cast iron skillet. Baking Steel says mild soap is fine but never the dishwasher.
 
-## **How to Clean Your Best Pizza Stone**
+Never put a cold, wet stone in a hot oven. Sudden temperature changes crack stones.
 
-* Let your best pizza stone cool off entirely after use.
-* Once it’s cooled, scrub it thoroughly with a scrubber and stone cleaning liquid. Then, rinse thoroughly with warm water.
-* If there’s some leftover food debris stuck to it, use a knife to scrape it off.
+## Storing a Pizza Stone in a Small Kitchen
 
-**Caution** 
+Many people simply leave the stone or steel on the bottom oven rack. It helps even out oven temperature for other baking too.
 
-* Never allow your best pizza stone to sit in water for too long as they are highly permeable
-* Cover the stone with a dry towel to suck in excess water and then let it dry under the open sky.
+If you need the space, store it flat on a shelf or upright in a cabinet slot. Our ideas for [small kitchen cabinet organization](/blog/small-kitchen-cabinet-organization-ideas/) and [vertical storage in small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) show where flat, heavy items fit.
 
-## **Best Pizza Stones – Buying** **Guide**
+For other compact baking gear, see the [best bakeware for small kitchens](/blog/best-bakeware-for-small-kitchens/).
 
-The best pizza stone is a great tool for making custom, restaurant-style pizza at the comfort of your home. And yes! You don’t have to worry about the inconvenience or cost of deliveries and dining out. 
+## Reheating Leftover Pizza
 
-Pizza making from scratch is a great activity for family bonding time. Having your best pizza stone significantly reduces the baking time, and you can also enjoy a mouth-watering pizza whenever you want. 
+A stone or steel also makes leftover pizza crisp again. Preheat it and reheat slices for a few minutes. Our guide on [how to reheat pizza](/blog/how-to-reheat-pizza/) compares skillet, oven and air fryer methods.
 
-However, you need to use your best pizza stone properly and maintain it to prevent damage or thermal shock. This way, you can be sure that you will get the best out of it, for the longest time possible.
+## Other Gear That Makes Pizza Night Easier
 
-Even more crucial, you should always clean your best pizza stone after use. This guide has enumerated reliable tips that you can use in your pizza stone cleaning escapades.
+A stone or steel is the core tool, but a few extras help.
 
-In conclusion, purchasing one of the pizza stones reviewed in our article is sure to take your homemade pizza baking to a whole new level.
+**A sharp knife or rocker.** A long [chef's knife from a set under $100](/blog/best-knife-set-under-100/) cuts a pizza cleanly if the blade is sharp. Keep it keen with a good [knife sharpener](/blog/best-knife-sharpener/). A [magnetic knife strip](/blog/best-magnetic-knife-strip/) keeps it within reach.
+
+**A large cutting board.** Slide the pizza from the stone to a board before slicing. Never cut on a steel or stone, because it dulls blades fast. An [over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) adds prep space in a small kitchen.
+
+**Sheet pans for toppings.** Roast vegetables or sausage ahead of time on a sheet pan. Our guide to [compact baking sheet and pan sizes](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) helps you pick pans that fit next to a stone. For sausage, see [how to cook sausages in the oven](/blog/how-to-cook-sausages-in-the-oven/).
+
+**A skillet for pan pizza.** If you want a thick, Detroit-style or deep-dish pie, a cast iron skillet does the job. See our [Le Creuset cast iron skillet review](/blog/le-creuset-cast-iron-skillet/) for an enameled option. A [Dutch oven](/blog/milo-dutch-oven-review/) is the partner tool for no-knead bread on the stone's off days.
+
+**A grill thermometer.** When grilling pizza, the lid gauge is often wrong. A probe like those in our [meat thermometers for smoking](/blog/best-meat-thermometer-for-smoking/) guide reads the real air temperature at the grate.
+
+**A cook surface for glass stoves.** Using cast iron on a glass cooktop needs care. See [how to protect a glass-top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/).
+
+## Common Pizza Stone Mistakes
+
+Most problems come from a few habits.
+
+- **Too short a preheat.** The stone feels hot but is still cool inside. Give it the full 45 to 60 minutes.
+- **Using a wet stone.** Water trapped in cordierite turns to steam and can crack it. Let it dry fully after cleaning.
+- **Too much flour on the peel.** Excess flour burns on the stone and tastes bitter. Semolina rolls better and burns less.
+- **Soaking in soap.** Porous stones absorb soap and pass the taste into the crust.
+- **Cutting on the stone.** It scratches the surface and ruins knives.
+
+## Which Pizza Stone Should You Buy?
+
+Buy the **Baking Steel Original** if you want the crispiest pizza from a home oven and a tool that will last a lifetime.
+
+Pick the **Emile Henry Ridged Pizza Stone** if you want a classic stone that is easy to clean and works on the grill.
+
+Choose the **Lodge 15-Inch Cast Iron Pizza Pan** if you want steel-like results for about $40.
+
+Get the **Unicook 18 x 18** if you have a big oven and bake large pizzas or bread.
+
+Go with the **Unicook 15 x 12** if you have a smaller oven.
+
+Choose the **Old Stone 14 x 16** for a simple, proven first stone.
+
+## Related Guides
+
+- [Why Baking Sheets Warp in the Oven](/blog/why-baking-sheets-warp-in-the-oven/)
+- [Best Bakeware Sets](/blog/best-bakeware-sets/)
+- [Best Small Ovens and Toaster Ovens for Baking](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/)
+- [How to Bake Cookies in a Convection Oven](/blog/how-to-bake-cookies-in-a-convection-oven/)
+- [Best Panini Press for Home Use](/blog/best-panini-press-for-home-use/)
+- [Space-Saving Baking Tool Essentials](/blog/space-saving-baking-tool-essentials/)
+- [Best Portable Grills for Apartment Living](/blog/best-portable-grills-for-apartment-living/)

@@ -56,7 +56,7 @@ The second chapter is Paula Deen's own shop. In September 2026 it listed a small
 
 ### The Current 6-Piece Ceramic Set
 
-This is the headline product. The [Paula Deen 6-piece ceramic set](https://pauladeenshop.com/products/cookware-set-paula-grey-6pc) includes a 12-inch fry pan, an 8-inch fry pan, a 2-quart saucepan with lid and a 5-quart saucepan with lid.
+This is the headline product. The Paula Deen 6-piece ceramic set includes a 12-inch fry pan, an 8-inch fry pan, a 2-quart saucepan with lid and a 5-quart saucepan with lid.
 
 The pans are aluminum with a ceramic nonstick coating. The shop says the set works on electric, induction, gas and glass tops. It is dishwasher safe. The glass lids have a steam vent.
 
@@ -75,8 +75,6 @@ These pieces are not sold on Amazon, and the shop does not publish weights, wall
 The shop offers a 30-day satisfaction guarantee on the ceramic set. We could not find a longer warranty for the current range. Compare that with the limited lifetime warranties several picks below carry.
 
 ## Our Picks at a Glance
-
-These are the pots and pans to buy if you like what Paula Deen cookware does: bright colors, family-size sets and Southern cast iron cooking. Every one was listed as in stock on its maker's own site when we checked.
 
 - **Best alternative to the Signature sets:** [Rachael Ray Cucina 12-Piece Nonstick Cookware Set](https://www.amazon.com/Rachael-Ray-Cucina-Nonstick-Cookware-Set-12-Piece-Agave-Blue/dp/B00JYHNNYK/?tag=kitchenpot-20)
 - **Best ceramic upgrade:** [Caraway 12-Piece Nonstick Ceramic Cookware Set](https://www.amazon.com/Caraway-12-Piece-Nonstick-Ceramic-Cookware-Set-Navy/dp/B0C1QK1XG1/?tag=kitchenpot-20)
@@ -177,7 +175,7 @@ Ceramic coatings do lose slickness over time. High heat and cooking sprays speed
 
 Paula Deen's style has always leaned on color and on slow Southern cooking. A bright enameled Dutch oven covers both. It braises greens, simmers a pot of beans and bakes a cobbler.
 
-Lodge listed the 6-quart at $89.90 in Oyster, with "Add to cart" live. Most colors were in stock, but a few were sold out. Heron, Blue, Poppy, Berry and Pumpkin were unavailable when we checked. The Oyster color linked here was in stock.
+Lodge listed the 6-quart at $89.90 in Oyster, with "Add to cart" live. Most colors were in stock, but a few were sold out. Latte, Heron, Blue, Poppy, Berry and Pumpkin were unavailable when we checked. The Oyster color linked here was in stock.
 
 The enamel is a layer of glass fused to the iron. It will not react with tomatoes or vinegar, so a tangy barbecue sauce will not pick up a metal taste. It also means no seasoning, unlike bare cast iron.
 
@@ -360,3 +358,5 @@ Short on burners or counter space? Our guide to [cooking a full meal on two burn
 - [Best Stackable Pots and Pans](/blog/7-best-stackable-pots-and-pans/)
 - [How to Organize Pot Lids in a Small Kitchen](/blog/how-to-organize-pot-lids-in-a-small-kitchen/)
 - [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
+
+These are the pots and pans to buy if you like what Paula Deen cookware does: bright colors, family-size sets and Southern cast iron cooking. Every one was listed as in stock on its maker's own site when we checked.

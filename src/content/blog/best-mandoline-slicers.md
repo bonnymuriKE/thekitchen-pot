@@ -235,7 +235,7 @@ It is hand wash only, and de Buyer's page does not list the blade material.
 
 [Check Price on Amazon](https://www.amazon.com/De-Buyer-2018-00-DeBuyer-Mandolin/dp/B07NP6V177/?tag=kitchenpot-20)
 
-**Want waffle and crinkle cuts too?** De Buyer also sells a full-size, fold-flat mandoline called the [Access](https://www.debuyer-usa.com/products/la-mandoline-access), at $210 on its US store. It has a double-sided straight and crinkle blade, a double-sided 4 mm and 10 mm julienne blade, and 1 mm to 10 mm thickness. It is made in France, and its blades come out for the dishwasher.
+**Want waffle and crinkle cuts too?** De Buyer also sells a full-size, fold-flat mandoline called the Access, at $210 on its US store. It has a double-sided straight and crinkle blade, a double-sided 4 mm and 10 mm julienne blade, and 1 mm to 10 mm thickness. It is made in France, and its blades come out for the dishwasher.
 
 ## What Changed From Our Old List
 

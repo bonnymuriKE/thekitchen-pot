@@ -237,7 +237,7 @@ It is a home juicer. Buy it for daily juice at home, not for a cafe.
 
 ## For Juice Bars: Dedicated Hands-Free Commercial Machines
 
-If you run a busy juice bar, look at a machine built only for commercial use. Kuvings sells the [AUTO Chef CS800](https://www.kuvingsusa.com/products/commercial-hands-free-slow-juicer-cs800) on its own store for $1,899.99. Kuvings lists a 4.3-liter hopper, a 200-watt motor and up to 24 hours of continuous running. The CS800X is $1,499.99 with the same listed hopper, motor and runtime.
+If you run a busy juice bar, look at a machine built only for commercial use. Kuvings sells the AUTO Chef CS800 on its own store for $1,899.99. Kuvings lists a 4.3-liter hopper, a 200-watt motor and up to 24 hours of continuous running. The CS800X is $1,499.99 with the same listed hopper, motor and runtime.
 
 Kuvings lists a 1-year limited warranty and a 14-day return policy on these commercial models. They are sold on Kuvings' store rather than through the Amazon links in this guide, so they are not numbered picks here.
 
