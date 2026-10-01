@@ -1,293 +1,350 @@
 ---
-excerpt: Want perfect slices in seconds? These best mandoline slicers are sharp,
-  safe, and seriously slick—exactly what your kitchen routine’s been missing.
+excerpt: "The best mandoline slicers, from a $29 ceramic hand-held slicer to a French stand-up mandoline. Five in-stock picks from Kyocera and de Buyer, plus how to use a mandoline without cutting yourself."
 showTableOfContents: true
 authorId: kitchenpot1
-title: 10 Best Mandoline Slicers - With a Comprehensive Buyers' Guide
+title: "Best Mandoline Slicers (5 In-Stock Picks From Kyocera and de Buyer)"
 source: wordpress
 slug: best-mandoline-slicers
 pubDate: 2020-06-27
-modDate: 2025-02-11
+modDate: 2026-09-30
 image: ""
 category: Kitchenware
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: 10 Best Mandoline Slicers - With a Comprehensive Buyers' Guide
+coverAlt: "A mandoline slicer cutting paper-thin cucumber slices into a bowl, with a hand guard on the counter"
 tags:
-  - best-apple-peelers
-  - knife-sets-under-100
-  - mandoline-slicers
+  - mandoline-slicer
+  - ceramic-mandoline
+  - vegetable-slicer
+  - kitchen-tools
+  - knife-skills
 authorImageAlt: kitchenpot1
-description: "Want perfect slices in seconds? These best mandoline slicers are sharp, safe, and seriously slick—exactly what your kitchen routine’s been missing."
-seo: Are you looking for an easy way to prepare your ingredients without cutting
-  your skin? Well, you should get the best mandoline slicers. Here's a
-  comprehensive guide.
+description: "The best mandoline slicers: five in-stock picks from Kyocera and de Buyer, from a $29 ceramic slicer to a French stand-up slicer, and how to use it safely."
+seo: "Compare the best mandoline slicers: Kyocera ceramic hand-held slicers and de Buyer Kobra and Komi mandolines, with thickness ranges, blades, safety and care."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "What is the best mandoline slicer?"
+    answer: "The de Buyer Kobra is the best pick in this guide for most home cooks who slice often. It adjusts from 0.2 mm to 5 mm with a knob in the handle, stands on anti-slip legs and comes with a protective pusher. For a cheaper, lighter option, the Kyocera Ceramic Mandoline Adjustable Slicer costs $29 and has four thickness settings."
+  - question: "Are mandoline slicers dangerous?"
+    answer: "They can be. A mandoline blade is extremely sharp, and most injuries happen when the food gets small and fingers get close. Always use the hand guard or pusher, wear a cut-resistant glove, and stop when the piece gets too small to hold safely."
+  - question: "Ceramic or steel mandoline blade: which is better?"
+    answer: "Ceramic blades are very sharp, do not rust and resist acidic foods, and Kyocera says its ceramic holds an edge up to 10 times longer than steel. They can chip if dropped or used on very hard foods. Steel blades are tougher and suit heavy use and harder vegetables."
+  - question: "What can you slice with a mandoline?"
+    answer: "Potatoes for chips and gratins, cucumbers, onions, cabbage for slaw, carrots, radishes, apples, zucchini and hard cheeses. Multi-cut mandolines like the de Buyer Access also make julienne and crinkle cuts."
+  - question: "Can you put a mandoline in the dishwasher?"
+    answer: "It depends on the model. Kyocera says its adjustable ceramic slicers are dishwasher safe. De Buyer says the Kobra and Komi are hand wash only. Check your model before washing."
 ---
-If you want uniformly cut veggies, then the best mandoline slicer is your best bet. It reduces the time you take to prepare your spices.
+A mandoline slices vegetables thinner and more evenly than most people can with a knife. It turns a pile of potatoes into gratin slices in a minute.
 
-The blades are always sharp and cutting all the veggies and spices will be a breeze! However, you must concentrate on the exercise fully to avoid cuts occasioned by the sharp blades!
+It is also one of the sharpest tools in the kitchen. The right mandoline is the one with a good guard that you will actually use.
 
-The first critical step of getting the best experience with mandolines involves selecting your best mandoline slicer. Always ensure that you prioritize safety and efficiency.
+**The short version:** The [de Buyer Kobra Mandoline](https://www.amazon.com/De-Buyer-2011-00-Kobra-Slicer/dp/B001GS7A0S/?tag=kitchenpot-20) is the best mandoline slicer for cooks who slice often. It adjusts from 0.2 mm to 5 mm with a knob in the handle and stands steady on anti-slip legs. For occasional use, the [Kyocera Ceramic Mandoline Adjustable Slicer](https://www.amazon.com/Kyocera-Csn-202-rd-Adjustable-Mandoline-Slicer/dp/B01GY8NIP0/?tag=kitchenpot-20) costs $29 and fits in a drawer.
 
-This article will guide you through all the factors that you should consider when shopping for the best mandoline slicer. Even better, we provide a well-thought-out list of 10 best mandoline slicers to consider.
+## Our Picks at a Glance
 
-## 10 Best Mandoline Slicers
+- **Best overall:** [de Buyer Kobra Mandoline](https://www.amazon.com/De-Buyer-2011-00-Kobra-Slicer/dp/B001GS7A0S/?tag=kitchenpot-20)
+- **Best budget:** [Kyocera Ceramic Mandoline Adjustable Slicer](https://www.amazon.com/Kyocera-Csn-202-rd-Adjustable-Mandoline-Slicer/dp/B01GY8NIP0/?tag=kitchenpot-20)
+- **Best for cabbage and large produce:** [Kyocera Wide Adjustable Mandoline Slicer](https://www.amazon.com/Kyocera-Advanced-Ceramic-Adjustable-Handguard/dp/B005HC80J4/?tag=kitchenpot-20)
+- **Best set:** [Kyocera Multi-Slicer Set](https://www.amazon.com/Kyocera-Advanced-Adjustable-Mandoline-Julienne/dp/B00N2TA4CK/?tag=kitchenpot-20)
+- **Best compact julienne:** [De Buyer Komi Mandoline](https://www.amazon.com/De-Buyer-2018-00-DeBuyer-Mandolin/dp/B07NP6V177/?tag=kitchenpot-20)
 
-### **1. [Benriner Mandoline Super Slicer](https://www.amazon.com/Benriner-Mandoline-Japanese-Stainless-5-25-Inches/dp/B01CZXJINY/?tag=kitchenpot-20)**
+Every mandoline above was listed as available on its maker's own store when we checked. Prices are the makers' own and change often.
 
-Benriner slicer is [essential kitchen equipment](https://thekitchenpot.com/blog/coolest-kitchen-appliances-to-buy/), and many kitchen users consider this mandoline slicer a vital tool in their [knife kit](https://thekitchenpot.com/blog/best-knife-set-under-100/). This brand features popular handcrafted Japanese stainless steel blades that are durable, promising you an extended lifetime. Additionally, this mandoline slicer is made of BPA-free plastic to enhance food safety while using the slicer.
+| Mandoline | Blade | Thickness | Extra Cuts | Dishwasher | Maker's Price |
+| --- | --- | --- | --- | --- | --- |
+| de Buyer Kobra | Micro-serrated stainless steel | 0.2 to 5 mm | None | Hand wash | $110.00 |
+| Kyocera Adjustable CSN-202 | Ceramic | 0.5, 1.3, 2.0, 3.0 mm | None | Yes | $29.00 |
+| Kyocera Wide Adjustable CSN-402BK | Ceramic | 0.5, 1.3, 2.0, 3.0 mm | None | Yes | $46.00 |
+| Kyocera Multi-Slicer Set CSN-550 | Ceramic | Adjustable | Julienne, grater | Not listed | $75.00 |
+| de Buyer Komi | Not listed | 0 to 5 mm | Julienne (2 blades) | Hand wash | $75.00 |
 
-**[Check Price on Amazon](https://www.amazon.com/Benriner-Mandoline-Japanese-Stainless-5-25-Inches/dp/B01CZXJINY/?tag=kitchenpot-20)**
+## 1. [De Buyer Kobra Mandoline](https://www.amazon.com/De-Buyer-2011-00-Kobra-Slicer/dp/B001GS7A0S/?tag=kitchenpot-20): Best Overall
 
-Additionally, Benriner features four interchangeable blades ( coarse, fine-tooth, straight edge, and medium) to make chunky cuts, wide slices, long narrow as well as extra thin julienne strips. This mandoline features a sizable open handle that adds comfort with a non-skid rubber base for maximum stability.
+- **Model:** 2011 (de Buyer USA lists it as 2011.01; the Amazon listing is 2011.00)
+- **Blade:** Micro-serrated stainless steel
+- **Thickness:** 0.2 mm to 5 mm, set with a Click Express knob in the handle
+- **Build:** Stainless steel and polypropylene, stainless slicing plate
+- **Safety:** Protective pusher, anti-slip legs, anti-slip handle
+- **Care:** Hand wash
+- **Maker's price:** $110.00, available
 
-The safety guards are essential as they hold tiny pieces of food to protect your fingers. The easy turn dial is crucial in adjusting the thickness and saves your time while preparing your food. The good news is: the machine is easy to use, and it’s versatile, making it best for French fries, chips, garnishes, stir-fries, and others.
+The Kobra is a full-size, stand-up mandoline from de Buyer, a French cookware maker. It stands on legs over a board or bowl, so both hands are free for the food and the pusher.
 
-The top rack is dishwasher safe to make the cleaning task a breeze!
+The thickness adjusts from 0.2 mm, paper thin, to 5 mm, thick enough for potato gratin. You set it with a knob built into the handle, so you do not need to swap plates.
 
-**Pros** 
+De Buyer says the micro-serrated blade preserves the texture of fruit and vegetables. Serrations grip soft skins like tomatoes, which smooth blades tend to crush.
 
-* It’s easy to use, making it a perfect choice for beginners.
-* Easy to clean and maintain as its dishwasher safe.
-* Comes with safety guards to safeguard your fingers
-* A versatile model
+The pusher holds the food and keeps your fingers away from the blade. Anti-slip legs keep it steady.
 
-**Cons**
+It is hand wash only. Wash it right after use, while food is still soft.
 
-* The hand guard doesn’t grip food steadily.
+The Amazon listing linked here is model 2011.00. De Buyer USA sells it as 2011.01. Check the model on the listing.
 
-### **2. [Bron Stainless Steel Mandoline](https://www.amazon.com/Bron-Stainless-Original-Mandoline-Slicer/dp/B002U9B3QE/?tag=kitchenpot-20)**
+**What we like:**
 
-Slice your julienne carrots or cucumbers with this versatile machine from Bron. This mandoline comes with three different stainless steel made blades that save you from the hassle of using multiple knives or the need to swap blades as you prepare your food. The straight blade helps with simple slicing tasks, whereas both small and large julienne helps in cutting shoestring potatoes and carrot sticks.
+- Fine thickness control from 0.2 to 5 mm
+- Micro-serrated blade handles soft skins
+- Stands on its own with anti-slip legs
+- Protective pusher included
 
-Additionally, it comes with hand-operated levers that help in monitoring the slicing thickness. The machine has an ergonomically designed slope to provide comfort while doing the food preparation.
+**What to know before you buy:**
 
-The plastic safety guard is essential in protecting your hands from harm. It’s designed to do a range of activities starting from cutting cheese, meat, and vegetables, plus it performs well while slicing hard fruits like pears and apples.
+- Hand wash only
+- Straight slices only, no julienne
 
-[Check Price on Amazon](https://www.amazon.com/Bron-Stainless-Original-Mandoline-Slicer/dp/B002U9B3QE/?tag=kitchenpot-20)
+**Who should buy it:** Home cooks who slice often and want a steady, adjustable, stand-up mandoline.
 
-**Pros**
+[Check Price on Amazon](https://www.amazon.com/De-Buyer-2011-00-Kobra-Slicer/dp/B001GS7A0S/?tag=kitchenpot-20)
 
-* Can do a wide range of cutting solutions
-* Comes with a safety guard to help in protecting your hands from harm
-* It folds easily on a sturdy casing for proper storage
-* Backed up with a one year warranty.
+## 2. [Kyocera Ceramic Mandoline Adjustable Slicer](https://www.amazon.com/Kyocera-Csn-202-rd-Adjustable-Mandoline-Slicer/dp/B01GY8NIP0/?tag=kitchenpot-20): Best Budget
 
-**Cons**
+- **Model:** CSN-202, red
+- **Blade:** Zirconium oxide ceramic, made in Japan
+- **Thickness:** 4 settings: 0.5, 1.3, 2.0 and 3.0 mm
+- **Safety:** Hand guard included
+- **Extras:** Corner notches rest over a bowl
+- **Care:** Dishwasher safe
+- **Maker's price:** $29.00, "Add to cart"
 
-* The machine is clunky, and it’s difficult to clean.
+This is a hand-held mandoline. You rest its notched corners over a bowl and slice straight into it. There is nothing to set up.
 
-### **3. [Swissmar Borner V-1001 Mandoline 5-Piece Set](https://www.amazon.com/Swissmar-Borner-V-1001-V-Slicer-Mandoline/dp/B0000632QE/?tag=kitchenpot-20)**
+The blade is ceramic. Kyocera says it stays sharp up to 10 times longer than steel, and it will not rust or react with acidic foods like lemons and tomatoes.
 
-The Swissmar is another excellent and affordable mandoline that’s made of durable stainless steel material. Besides, it’s easy to use and even food cutting ability, this tool is safe to use. It comes with a food holder that offers a decent grip to your hands, making them safe from the steel blades.
+A dial sets four thicknesses, from 0.5 mm to 3 mm. That covers cucumber salad, onion rings and potato chips.
 
-In terms of cleaning, this fantastic mandoline cutter is dishwasher safe. Never get worried about cleaning it after use. Just rinse it on hot or cold running water then dry it. The device is made of rugged plastic, and it measures 6 inches wide by 15 inches long when assembled.
+It is light and goes in the dishwasher. It stores in a drawer.
 
-**[Check Price on Amazon](https://www.amazon.com/Swissmar-Borner-V-1001-V-Slicer-Mandoline/dp/B0000632QE/?tag=kitchenpot-20)**
+Ceramic can chip if you drop it or slice very hard foods. It is best for vegetables, fruit and hard cheese, not frozen food.
 
-The three inserts that accompany this device lock in position. Furthermore, they act as a guide when slicing against the V-frame. When it comes to storing the V-frame, safety holder, and the three inserts, the mandoline features a caddy that accommodates the three and can stand in an upright manner on a corner. It can also be hanged on the wall or lie flat.
+Red is linked here. Kyocera also sells it in black.
 
-**Pros**
+**What we like:**
 
-* Features a decent grip making your hands safe while preparing your food. 
-* Comes with a caddy for easy storage
-* Safe and easy to use
-* Easy to wash.
+- Low price at $29
+- Ceramic blade stays sharp and will not rust
+- Four thickness settings
+- Dishwasher safe and drawer-size
 
-**Cons**
+**What to know before you buy:**
 
-* The blades are incredibly sharp making it a poor choice for beginners.
+- Ceramic can chip if dropped
+- Maximum thickness is 3 mm
 
-### **4. [Mandoline Slicer – Potato, Onion, Vegetable, and Tomato Cutter Mandoline](https://www.amazon.com/Mandoline-Vegetable-Stainless-Adjustable-Resistant/dp/B077PZS1XS/?tag=kitchenpot-20)**  
+**Who should buy it:** Cooks who slice now and then and want a simple, cheap, compact mandoline.
 
-This fantastic product from Joyful cook features a safety food holder that lets your food glide softly on the runway. And above all, the mandoline is designed to cut consistent thickness. Being a top-shelf dishwasher-safe, cleaning it is a breeze. You can as well wash it manually if you lack a dishwasher at home.
+[Check Price on Amazon](https://www.amazon.com/Kyocera-Csn-202-rd-Adjustable-Mandoline-Slicer/dp/B01GY8NIP0/?tag=kitchenpot-20)
 
-This amazing tool is easily adjustable, and you can easily and quickly adjust to the style and type of slices needed by turning the knob. Furthermore, it comes with a patented design that saves your time and helps you cut the veggies to different styles and thicknesses in a breeze.
+## 3. [Kyocera Wide Adjustable Mandoline Slicer](https://www.amazon.com/Kyocera-Advanced-Ceramic-Adjustable-Handguard/dp/B005HC80J4/?tag=kitchenpot-20): Best for Cabbage and Large Produce
 
-What’s more, the mandoline comes with high-quality blades that enhance a sharp and smooth cut. Its made of high-grade stainless steel that never rusts and can handle dense and thick veggies and fruits like potatoes and apple.
+- **Model:** CSN-402BK, black
+- **Blade:** Angled ceramic blade
+- **Width:** 4 inches
+- **Thickness:** 4 settings: 0.5, 1.3, 2.0 and 3.0 mm
+- **Safety:** Hand guard included
+- **Size:** 16 x 4 x 2.5 inches
+- **Care:** Dishwasher safe
+- **Maker's price:** $46.00, "Add to cart"
 
-The tool comes with a great vegetable holder that makes slicing easy. Its solid ABS holder gives it better hand protection and easier slicing. 
+This is the wide version of Kyocera's adjustable slicer. Its 4-inch blade handles cabbage, lettuce, large onions and big potatoes that will not fit a standard hand-held mandoline.
 
-[Check Price on Amazon](https://www.amazon.com/Mandoline-Vegetable-Stainless-Adjustable-Resistant/dp/B077PZS1XS/?tag=kitchenpot-20)
+The blade is angled. Angled blades slice more smoothly than straight ones, because they cut with a slicing motion rather than chopping straight down.
 
-**Pros** 
+It has the same four thickness settings as the smaller model. It is dishwasher safe and needs no setup.
 
-* its made of durable stainless steel that never rusts
-* the patented design helps you cut veggies to the desired shapes
-* backed up with an extended warranty
-* easy slicing and better hand protection.
+At 16 inches long, it needs a bigger drawer or a spot in a cabinet.
 
-**Cons** 
+**What we like:**
 
-* The vegetable holder isn’t durable and can easily break.
+- 4-inch width fits large produce
+- Angled ceramic blade slices smoothly
+- Four thickness settings
+- Dishwasher safe
 
-### **5. [OXO Good Grips Mandoline Slicer 2.0](https://www.amazon.com/OXO-Grips-Chefs-Mandoline-Slicer/dp/B0716HGWWK/?tag=kitchenpot-20)**
+**What to know before you buy:**
 
-OXO steel chef is one of the best and user-friendly tools in the market. It helps in food preparation more easily and quickly. The mandoline comes with an indicator window that clearly shows you the thickness setting from the top in millimetres and inches.
+- Longer, at 16 inches
+- Ceramic can chip if dropped
 
-More so, this powerful mandoline has a spring-loaded food holder that’s designed with an extended rim to protect your fingers and stores the food holder on the underside. Many thanks to the manufacturer for creating a non-slip and soft handle that offers a comfortable grip.
+**Who should buy it:** Anyone who makes coleslaw, sauerkraut or large batches of sliced vegetables.
 
-[Check Price on Amazon](https://www.amazon.com/OXO-Grips-Chefs-Mandoline-Slicer/dp/B0716HGWWK/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Kyocera-Advanced-Ceramic-Adjustable-Handguard/dp/B005HC80J4/?tag=kitchenpot-20)
 
-OXO mandoline slicer comes with a textured runway that prevents your vegetables from sticking and has a parallel surface that helps in creating uniformed slices without wedging. The mandoline is designed with a Japanese stainless steel blade that’s angled to cut foods softly and effortlessly.
+## 4. [Kyocera Multi-Slicer Set](https://www.amazon.com/Kyocera-Advanced-Adjustable-Mandoline-Julienne/dp/B00N2TA4CK/?tag=kitchenpot-20): Best Set
 
-Its double-sided blade produces waffle/crinkle cuts or straight cuts and an integrated julienne with French fry blades.
+- **Model:** CSN-550 set
+- **Included:** Adjustable mandoline slicer, julienne slicer, grater and storage container
+- **Blade:** Ceramic
+- **Works on:** Fruit, vegetables, root vegetables and hard cheese
+- **Maker's price:** $75.00, "Add to cart"
 
-**Pros** 
+The Multi-Slicer Set gives you three ceramic tools and a container to store them in. The adjustable mandoline slices. The julienne slicer makes matchsticks for stir-fries and salads. The grater handles ginger, garlic and cheese.
 
-* It’s designed with a Japanese stainless steel blade to produce angled cuts
-* Comes with a textured runway to prevent the vegetables from sticking
-* It features a spring-loaded food holder with an extended rim
-* Dishwasher safe for easy cleaning.
+Each tool has corner notches that sit over a prep bowl. The container keeps the blades covered in a drawer, which is safer than loose blades.
 
-**Cons** 
+It costs more than buying the adjustable slicer alone. It is worth it if you want julienne cuts without a big multi-cut mandoline.
 
-* The model isn’t perfect for small veggies.
+**What we like:**
 
-### **6. [Kyocera Advanced Ceramic Mandoline Vegetable Slicer](https://www.amazon.com/Kyocera-Adjustable-Mandoline-Vegetable-Handguard-Red/dp/B000HZBXOA/?tag=kitchenpot-20)**
+- Slicer, julienne slicer and grater in one set
+- Storage container keeps blades covered
+- Ceramic blades will not rust
+- Fits over most prep bowls
 
-This mandoline from Kyocera is a high-quality mandoline known for its ceramic cutlery that’s sharper than stainless. This model features a Japanese-style diagonal blade that effortlessly glides across any ingredient. The ultra-sharp ceramic blades maintain their edge ten times longer compared to steel blades.
+**What to know before you buy:**
 
-It’s easy to clean as its dishwasher safe and extremely portable and weighs only 3.87 ounces. No blade handling is required, simply turn the square dial on the back for perfect thickness and can give you even slices in a matter of seconds. 
+- Hand-held tools, not a stand-up mandoline
+- Dishwasher safety not listed for the set
 
-Additionally, Kyocera comes with safe features corner notches that help in securing over a bowl that has a hand-guard that protects your fingers. The tool is ergonomically designed to provide precise control when using it on a storage vessel or a flat surface.
+**Who should buy it:** Cooks who want slicing, julienne and grating in a compact, stored set.
 
-The adjustable dial helps you achieve even and smooth slices that deliver up to four different cut thickness. it’s a versatile mandoline slicer designed to grate or slice cabbage, cucumbers, potatoes, and onions.
+[Check Price on Amazon](https://www.amazon.com/Kyocera-Advanced-Adjustable-Mandoline-Julienne/dp/B00N2TA4CK/?tag=kitchenpot-20)
 
-[Check Price on Amazon](https://www.amazon.com/Kyocera-Adjustable-Mandoline-Vegetable-Handguard-Red/dp/B000HZBXOA/?tag=kitchenpot-20)
+## 5. [De Buyer Komi Mandoline](https://www.amazon.com/De-Buyer-2018-00-DeBuyer-Mandolin/dp/B07NP6V177/?tag=kitchenpot-20): Best Compact Julienne
 
-**Pros** 
+- **Model:** 2018.00
+- **Style:** Compact Japanese-style slicer
+- **Thickness:** Adjustable from 0 to 5 mm with graduated settings
+- **Julienne blades:** 2 included, 2 mm to 4 mm
+- **Safety:** Protective food guard
+- **Storage:** Comes with a compact storage box
+- **Size:** 10.6 x 4.4 x 1.3 inches, 1 lb
+- **Care:** Hand wash only
+- **Maker's price:** $75.00, in stock
 
-* Comes with an adjustable dial
-* A versatile mandoline slicer best for slicing numerous vegetables
-* It’s easy to wash as its dishwasher safe
-* The mandoline comes with a durable ceramic blade that’s tougher than stainless steel.
+The Komi is de Buyer's compact slicer. It works like a Japanese hand-held mandoline. Rest it over a bowl or board and slide the food down the plate.
 
-**Cons** 
+Unlike the Kyocera hand-held slicers, it includes two julienne blades. That gives you matchsticks for stir-fries, slaws and garnishes without buying a separate tool.
 
-* The safety guard is not long enough to dig on anything you’re shedding or slicing.
+Thickness adjusts from 0 to 5 mm with a quick, graduated control. A food guard protects your fingers. Everything packs into a small storage box.
 
-### **7. [De Buyer Kobra Slicer](https://www.amazon.com/De-Buyer-2011-00-Kobra-Slicer/dp/B001GS7A0S/?tag=kitchenpot-20)**
+It is hand wash only, and de Buyer's page does not list the blade material.
 
-This product from De Buyer is a nice V-shaped mandoline slicer with serration that cuts through thick vegetables with ease. It comes with a rubber and anti-skid feet with a sturdy hand guard that makes this slicer a safe option. Additionally, it has a rolling blade adjustment to help you select any depth up to 5 mm.
+**What we like:**
 
-Another thing is that this model features a micro-serrated blade that’s essential when making thin slices of vegetables. It’s a compact and lightweight model that weighs only 1.41 pounds, making it an excellent pick for both indoor and outdoor food preparations.
+- Julienne blades included
+- Thickness from 0 to 5 mm
+- Compact storage box
+- Light at 1 pound
 
-[Check Latest Price on Amazon](https://www.amazon.com/De-Buyer-2011-00-Kobra-Slicer/dp/B001GS7A0S/?tag=kitchenpot-20)
+**What to know before you buy:**
 
-The blade thickness is easy to adjust as the mandoline comes with a thumb well located on the handle. The mandoline is dishwasher safe to make the cleaning task a breeze! What’s more, the mandoline is ergonomically designed for easy storage.
+- Hand wash only
+- Blade material not listed by de Buyer
 
-**Pros**
+**Who should buy it:** Cooks who want slicing and julienne in a small tool that stores in a drawer.
 
-* The pusher and slicer are dishwasher safe making it easy to maintain
-* It features a compact design making it easy to store
-* Ergonomically design
-* Comes with a pocket-friendly price
+[Check Price on Amazon](https://www.amazon.com/De-Buyer-2018-00-DeBuyer-Mandolin/dp/B07NP6V177/?tag=kitchenpot-20)
 
-**Cons** 
+**Want waffle and crinkle cuts too?** De Buyer also sells a full-size, fold-flat mandoline called the [Access](https://www.debuyer-usa.com/products/la-mandoline-access), at $210 on its US store. It has a double-sided straight and crinkle blade, a double-sided 4 mm and 10 mm julienne blade, and 1 mm to 10 mm thickness. It is made in France, and its blades come out for the dishwasher.
 
-* the “pusher” needs thorough scrubbing to clean it.
+## What Changed From Our Old List
 
-### **8. [Kitchenaid KC312OHOBA Hand-Held V-Blade Black Mandoline Slicer](https://www.amazon.com/KitchenAid-KC312OHOBA-Adjustable-Hand-Held-Mandoline/dp/B0090JINY2/?tag=kitchenpot-20)**
+The older version of this guide listed Benriner, Bron, Swissmar Börner, OXO, KitchenAid, MIU France, Prepworks and a no-name mandoline. We check each product on its maker's store before recommending it.
 
-Are you looking for a compact mandoline slicer that cuts through anything from charcuterie to carrots, then this is your pick. It’s an adjustable V-slicer that reduces your food prep time by cutting through onions, potatoes, vegetables, and cheese. It’s an excellent option for chefs who maintains a healthy food concept.
+We could not confirm most of those on a maker's store. Benriner is sold through dealers, and OXO's product pages did not show a price or stock. We found a site calling itself Swissmar's official store with heavy flash-sale discounts, and we could not confirm it belongs to Swissmar, so we did not use it. Kyocera and de Buyer both list their mandolines as available on their own stores.
 
-Additionally, it comes with super sharp blades made from durable stainless steel and has a plastic hand guard that enhances safe storage when not using the mandoline. The plastic is strong and BPA free to improve food safety.
+## How to Use a Mandoline Safely
 
-**[Check Price on Amazon](https://www.amazon.com/KitchenAid-KC312OHOBA-Adjustable-Hand-Held-Mandoline/dp/B0090JINY2/?tag=kitchenpot-20)**
+Mandoline injuries are common, and they are almost always avoidable. Follow these rules every time.
 
-Furthermore, KitchenAid mandoline slicer comes with four slicing thicknesses, and the table beneath the blade adjusts for different slicing thickness levels. In other words, this slicer allows you to cut vegetables accurately without a struggle. 
+1. **Always use the guard or pusher.** Never slice with bare fingers near the blade.
+2. **Wear a cut-resistant glove.** It adds a second layer of protection for the hand holding the food.
+3. **Set it on a stable surface.** A stand-up mandoline needs a flat board. A hand-held one needs a steady grip over a bowl.
+4. **Start with the largest piece.** Cut food in half so it has a flat side against the blade.
+5. **Use steady, even strokes.** Do not force it. A sharp blade does the work.
+6. **Stop when the piece gets small.** Finish the last bit with a knife, or save it for stock.
+7. **Wash carefully.** Clean the blade with a brush, not your fingers.
 
-It comes with a soft and comfortable grip located on the guide that adds safety and control when slicing your veggies. Furthermore, its dishwasher safe to enhance quick and easy cleanup. The good news is that the mandoline is backed up with a one year warranty.
+Our full guide on [how to use a mandoline](/blog/how-to-use-a-mandoline/) walks through setup, cuts, gloves and cleaning in more detail.
 
-**Pros** 
+## Cut-Resistant Gloves: The Cheapest Safety Upgrade
 
-* It’s easy to grip due to the soft handles
-* Backed up with a one year warranty
-* It’s designed with four slicing thickness
-* The plastic is BPA free and strong.
+A cut-resistant glove is the single best thing to buy with a mandoline. It costs little and protects the hand that holds the food.
 
-**Cons** 
+Look for a glove with a cut rating printed on it. Many kitchen gloves list an ANSI cut level. A higher level means more protection. Food-safe gloves are usually machine washable.
 
-* Its pusher doesn’t spike the food.
+Wear the glove on the hand holding the food or the guard. Your other hand steadies the mandoline and stays away from the blade.
 
-### **9. [MIU France Stainless Steel Mandoline](https://www.amazon.com/MIU-France-Stainless-Mandoline-Vegetable/dp/B00BLXI9W6/?tag=kitchenpot-20)**
+A glove is not armor. It resists slicing but not stabbing, and a very sharp blade can still get through with enough force. Use it together with the guard, not instead of it.
 
-When looking forward to impressing your family with a fantastic veggie and fruit cutter, then this is the best pick. This is a versatile mandoline slicer used with vegetables and fruits as it features three blades. The serrated blade is used for waffle and crinkle cuts, while the straight blade is used for clean cuts and julienne blade for shredding and sticks.
+Gloves also help with other sharp jobs. Grating and cleaning a food processor blade are both safer with one on. For hot jobs, you need a different glove. Our guide to the [best heat-resistant gloves for cooking](/blog/10-best-heat-resistant-gloves-for-cooking/) covers those.
 
-Additionally, each blade’s thickness can be adjusted easily using the fingertip control dial. Furthermore, the locking tab maintains the blade in position. MIU comes with a large-sized food holder that grips your food strongly when cutting them, thus protecting your fingers and knuckles.
+## Getting Even Slices Every Time
 
-This fantastic unit features a non-slip grip located on the base and on its foldable legs to add stability when in use. This stylish food slicer features an innovative design with maximum durability promising to serve you for long.
+A few habits make mandoline slices look professional.
 
-[Check Price on Amazon](https://www.amazon.com/MIU-France-Stainless-Mandoline-Vegetable/dp/B00BLXI9W6/?tag=kitchenpot-20)
+- **Chill soft produce.** Cold tomatoes, zucchini and cheese slice more cleanly.
+- **Trim to a flat side.** A flat face sits firmly against the plate.
+- **Keep pressure even.** Uneven pressure gives wedge-shaped slices.
+- **Use one smooth stroke.** Sawing back and forth tears the food.
+- **Slice onto parchment for baking.** It keeps slices in order for gratins and tarts.
 
-**Pros**
+If your cutting board slides, put a damp towel under it. An [over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) gives you a stable spot with scraps falling straight into the sink.
 
-* The mandoline features an innovative design
-* Easy use as it comes with an adjustable blade thickness
-* It has a non-slip grip on the base 
-* It’s a versatile model used in numerous cutting solutions.
+## Ceramic vs Stainless Steel Blades
 
-**Cons**
+The blade material changes how a mandoline behaves.
 
-* The straight blade model calls for more force when using compared to the diagonal or V-blade.
+**Ceramic blades** are extremely hard and sharp. Kyocera says its ceramic holds an edge up to 10 times longer than steel. Ceramic will not rust and does not react with acidic foods. It can chip if dropped or used on very hard foods.
 
-### **10. [Prepworks by Progressive Julienne and Adjust-A-Slice Mandoline](https://www.amazon.com/Prepworks-by-Progressive-Adjust-A-Slice-Mandoline/dp/B001QGPHXM/?tag=kitchenpot-20)** 
+**Stainless steel blades** are tougher. They handle hard vegetables and heavy use without chipping. They need sharpening or replacement eventually.
 
-Receive nice and even slices with this easy to use mandoline from Progressive international. The mandoline comes with an extended slicing surface that can accommodate both larger and smaller fruits like tomatoes, onions, apples, and kiwi.
+Ceramic knives and blades need special sharpening. Our guide on [how to sharpen ceramic knives](/blog/how-to-sharpen-ceramic-knives/) covers the method. For steel, our [knife sharpener guide](/blog/best-knife-sharpener/) covers the options.
 
-The mandoline comes with an angles blade to provide an efficient slicing ability leading to desired results. The angled blade can cut up to three thickness options—thick, medium, and thin. The non-skid base and the ridges help in adding more stability to the mandoline slicer on a bowl rim or a flat surface.
+## What to Make With a Mandoline
 
-**[Check Price on Amazon](https://www.amazon.com/Prepworks-by-Progressive-Adjust-A-Slice-Mandoline/dp/B001QGPHXM/?tag=kitchenpot-20)**
+A mandoline is at its best when you need a lot of thin, even slices.
 
-You can also safeguard your food with the finger guard included sliding the mandoline on the blade for uniformly sized slices. Also, the slide button is essential for safe storage and cleaning. The mandoline is dishwasher safe for easy cleaning ability and backed up with an extended warranty.
+- **Potato gratin and scalloped potatoes.** Even slices cook evenly. Our guide to the [best bakeware sets](/blog/best-bakeware-sets/) covers baking dishes, and our guide on [how long potatoes last](/blog/how-long-do-potatoes-last/) helps with storage.
+- **Homemade chips and fries.** Thin slices make crisp chips. A crinkle blade, like the one on the de Buyer Access, makes crinkle-cut fries. Our guide on [how to cook frozen french fries in an air fryer](/blog/how-to-cook-frozen-french-fries-in-an-air-fryer/) gives times you can adapt, and our guide to the [best oil for an air fryer](/blog/best-oil-for-air-fryer/) covers oils.
+- **Coleslaw.** Shred cabbage fine on the wide Kyocera.
+- **Cucumber salad.** Paper-thin slices soak up dressing.
+- **Stir-fry vegetables.** Julienne carrots and peppers cook fast in a wok. Our guide to the [best wok for an electric stove](/blog/best-wok-for-electric-stove/) covers pans.
+- **Sushi.** Thin cucumber and radish strips roll neatly. See our guide to the [best sushi making kit](/blog/best-sushi-making-kit/).
+- **Apple tarts.** Thin, even apple slices bake beautifully. A crank peeler speeds up peeling. See our [apple peeler corer slicer](/blog/best-electric-apple-peeler-corer-slicer/) guide.
 
-**Pros**
+## Mandoline vs Food Processor vs Knife
 
-* Its dishwasher safe making the cleaning task hassle-free
-* It’s accompanied by a lifetime warranty
-* It’s easy to use the mandoline cutter
-* The angled blade is designed to slice up to three thickness options.
+Each tool has a place.
 
-**Cons**
+A **knife** is best for small jobs and control. A sharp chef's knife handles most daily prep. Our guide to the [best knife set under $100](/blog/best-knife-set-under-100/) covers affordable sets.
 
-* Some users complain that the mandoline is heavy compared to other models.
+A **mandoline** is best for thin, even slices. It is faster than a knife and more precise than most food processors.
 
-## Best Mandoline Slicers – A Comprehensive Buyers’ Guide
+A **food processor** is best for big volumes. Its slicing disc is fast but gives less control over thickness. See our picks for the [best food processor under $100](/blog/best-food-processor-under-100/).
 
-If you are looking for the best mandoline slicers, then you must undertake extensive research to only pick that which will serve your interests.
+For dicing, a [vegetable chopper](/blog/best-vegetable-choppers/) is often quicker than any of them.
 
-### **Factors to Consider When Buying Your Best Mandoline Slicer**
+## Cleaning and Storing a Mandoline
 
-* **Mandoline Adjustability**
+Clean a mandoline right after use. Starch and juice dry fast.
 
-Your best mandoline slicer will either have fixed or variable thickness. The simple ones will have been designed to have one thickness, which can be limiting. As such, you should only buy such mandolines if you’re comfortable with that particular thickness.
+- **Rinse immediately.** Hold it under running water, blade facing away.
+- **Use a brush.** Never wipe the blade with a sponge or cloth in your hand.
+- **Check the dishwasher rules.** Kyocera's adjustable slicers are dishwasher safe. The Kobra and Komi are hand wash only.
+- **Dry fully.** Steel parts can spot or rust if left wet.
+- **Store it covered.** Keep blades in their case or container.
 
-* **Ease of Cleaning**
+Store a mandoline where you will not reach blindly for it. Our tips on [organizing kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) and [small kitchen cabinet organization](/blog/small-kitchen-cabinet-organization-ideas/) cover safe storage. Moving your knives to a [magnetic knife strip](/blog/best-magnetic-knife-strip/) frees drawer space for a mandoline and its blades.
 
-When buying your best mandoline slicer, you should always inquire about whether it’s dishwasher-safe. This will guarantee ease of cleaning.
+## Which Mandoline Should You Buy?
 
-On the flip side, dishwasher-safe mandolines expose you to the risk of cuts as you reach for them into the dishwasher. As such, you should always exercise maximum caution when washing the blades.
+Buy the **de Buyer Kobra** if you slice often and want a steady, finely adjustable, stand-up mandoline.
 
-* **Availability of Additional Blades**
+Pick the **Kyocera Adjustable CSN-202** if you want a cheap, simple slicer that fits in a drawer.
 
-If you want a reliable and versatile mandoline slicer, you should consider one with several types of blades. This enables you to get wavy cuts, julienne cuts, and other standard cuts.
+Choose the **Kyocera Wide Adjustable CSN-402BK** if you slice cabbage and large vegetables.
 
-* **Safety**
+Get the **Kyocera Multi-Slicer Set** if you want slicing, julienne and grating in one stored set.
 
-How safe is your best mandoline slicer? You should ensure that the blades are not too exposed when not in use. Additionally, a mandoline slicer with an easy-to-use handle reduces the risk of cutting your skin significantly.
+Go with the **de Buyer Komi** if you want slicing and julienne in a compact tool, or step up to the **Access** for crinkle and waffle cuts.
 
-## Best Mandoline Slicers – Bottom Line
+## Related Guides
 
-Buying the best mandoline slicer for your kitchen will undoubtedly revolutionize your cooking experiences. It simplifies the preparation processes and makes cooking fun!
-
-However, selecting the best mandoline slicer can be hectic. This is due to the availability of many brands in the market, which can be confusing. To even complicate the matter, there are many diverse features of each mandoline!
-
-If you’ve tried buying your best mandoline slicer to no avail, then you shouldn’t worry. This article provides a comprehensive guide on all the factors you should consider when shopping.
-
-Additionally, it incorporates a comprehensive and well-thought-out list of the best mandoline slicers in the market.
-
-We implore you to go through the reviews and read the buyers guide to make an informed decision.
-
-Once you’re through with the purchasing process, you’ll certainly enjoy every minute you spend cooking. Preparing the veggies and cutting the spices will be a breeze henceforth!
+- [Best Electric Potato Peeler](/blog/best-electric-potato-peeler/)
+- [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
+- [Best Meat Slicer for Home Use](/blog/best-meat-slicer-for-home-use/)
+- [Space-Saving Baking Tool Essentials](/blog/space-saving-baking-tool-essentials/)
+- [Small Kitchen Gadgets Worth Buying When You Cook for One](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/)
+- [Easy Meal Prep Ideas for One Person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/)
+- [Best Air Fryers Under $100](/blog/best-air-fryers-under-100/)
