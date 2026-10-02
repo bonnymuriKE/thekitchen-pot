@@ -1,49 +1,49 @@
 ---
-title: "Why Does My Electric Kettle Have White Flakes Inside?"
+title: Why Does My Electric Kettle Have White Flakes Inside?
 slug: why-does-my-electric-kettle-have-white-flakes
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-10-02
 modDate: 2026-10-02
 author: boniface-muriuki
-image: ""
+image: /images/blog/default-cover.jpg
 excerpt: Those white flakes aren't dirt, and your kettle isn't broken. It's
-  limescale, mineral deposits left behind as hard water evaporates, and it's
-  one of the easiest kitchen problems to fix with things already in your
-  pantry.
-description: Why electric kettles get white flakes inside, whether limescale is safe, and how to remove it with vinegar, citric acid, or a commercial descaler.
-category: Coffee & Beverage
+  limescale, mineral deposits left behind as hard water evaporates, and it's one
+  of the easiest kitchen problems to fix with things already in your pantry.
+description: Why electric kettles get white flakes inside, whether limescale is
+  safe, and how to remove it with vinegar, citric acid, or a commercial
+  descaler.
+category: Beverages Equipment
 tags:
   - why does my kettle have white flakes
   - electric kettle limescale
   - how to descale an electric kettle
 faq:
-  - question: "Are white flakes in my kettle dangerous?"
-    answer: No. The flakes are limescale, mineral deposits from hard water,
-      and they're generally not considered harmful to ingest. They can affect
-      taste and, over time, your kettle's performance, which is the real
-      reason to deal with them.
-  - question: "What causes white flakes in an electric kettle?"
-    answer: Hard water contains dissolved calcium and magnesium. When water
-      boils and evaporates, those minerals stay behind and build up on the
-      heating element and interior walls as visible white flakes or a chalky
-      film.
-  - question: "How do I remove limescale from an electric kettle?"
-    answer: Fill the kettle halfway with equal parts water and white vinegar,
-      or dissolve a tablespoon or two of citric acid in water, bring it to a
-      boil, then let it sit for 15 to 30 minutes before scrubbing gently and
-      rinsing thoroughly with fresh water.
-  - question: "How often should I descale my electric kettle?"
-    answer: About once a month if you live in a hard water area. If your
-      water is naturally soft, you may only need to descale every few months.
-      A visible white film or slower boiling are both signs it's time.
-  - question: "Does limescale affect how well my kettle works?"
-    answer: Yes. A layer of scale insulates the heating element, forcing it
-      to work harder and longer to boil the same amount of water. This can
-      mean a slower boil, more noise, and slightly higher energy use over time.
-  - question: "Can I use lemon juice instead of vinegar to descale a kettle?"
-    answer: Yes. Both are mild acids that dissolve mineral deposits. Lemon
-      juice works similarly to vinegar and leaves a milder smell, though
-      vinegar is generally more effective on heavier buildup.
+  - question: Are white flakes in my kettle dangerous?
+    answer: No. The flakes are limescale, mineral deposits from hard water, and
+      they're generally not considered harmful to ingest. They can affect taste
+      and, over time, your kettle's performance, which is the real reason to
+      deal with them.
+  - question: What causes white flakes in an electric kettle?
+    answer: Hard water contains dissolved calcium and magnesium. When water boils
+      and evaporates, those minerals stay behind and build up on the heating
+      element and interior walls as visible white flakes or a chalky film.
+  - question: How do I remove limescale from an electric kettle?
+    answer: Fill the kettle halfway with equal parts water and white vinegar, or
+      dissolve a tablespoon or two of citric acid in water, bring it to a boil,
+      then let it sit for 15 to 30 minutes before scrubbing gently and rinsing
+      thoroughly with fresh water.
+  - question: How often should I descale my electric kettle?
+    answer: About once a month if you live in a hard water area. If your water is
+      naturally soft, you may only need to descale every few months. A visible
+      white film or slower boiling are both signs it's time.
+  - question: Does limescale affect how well my kettle works?
+    answer: Yes. A layer of scale insulates the heating element, forcing it to work
+      harder and longer to boil the same amount of water. This can mean a slower
+      boil, more noise, and slightly higher energy use over time.
+  - question: Can I use lemon juice instead of vinegar to descale a kettle?
+    answer: Yes. Both are mild acids that dissolve mineral deposits. Lemon juice
+      works similarly to vinegar and leaves a milder smell, though vinegar is
+      generally more effective on heavier buildup.
 showTableOfContents: true
 source: decap
 ---
@@ -228,4 +228,6 @@ Pick a day each month, the same day you might clean out your fridge or wipe down
 
 ## **The Bottom Line**
 
-White flakes in your kettle are limescale, not dirt or damage. They're generally safe, just unpleasant and eventually a drag on performance. Boil a vinegar or citric acid solution, let it sit, then rinse well. Do this monthly in hard water areas. A quieter, faster-boiling kettle is the reward.
+White flakes in your kettle are limescale, not dirt or damage. They're generally safe, just unpleasant and eventually a drag on performance. 
+
+Boil a vinegar or citric acid solution, let it sit, then rinse well. Do this monthly in hard water areas. A quieter, faster-boiling kettle is the reward.
