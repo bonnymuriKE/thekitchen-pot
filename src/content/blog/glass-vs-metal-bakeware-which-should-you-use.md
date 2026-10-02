@@ -120,17 +120,17 @@ Metal earns its place for a different set of dishes.
 
 A [USA Pan 9x13 Nonstick Rectangular Cake Pan](https://www.amazon.com/USA-Pan-Bakeware-Rectangular-Aluminized/dp/B0029JOC6I/?tag=kitchenpot-20) is a solid, versatile choice here, made from aluminized steel that heats evenly and releases cleanly thanks to its nonstick coating.
 
-## Glass vs. Metal at a Glance
+## Glass vs. Metal Baking Pans at a Glance
 
-| | Glass | Metal |
-| --- | --- | --- |
-| Heats up | Slowly | Quickly |
-| Holds heat after baking | Yes, significantly | Minimally |
-| Best for | Casseroles, acidic dishes | Cookies, cakes, bread |
-| Reactive with acidic food | No | Can be, if uncoated |
-| Microwave safe | Yes | No |
-| Thermal shock risk | Yes, avoid sudden changes | No |
-| Typical temperature adjustment | Lower by about 25°F vs. metal recipes | As written |
+|                                | Glass                                 | Metal                 |
+| ------------------------------ | ------------------------------------- | --------------------- |
+| Heats up                       | Slowly                                | Quickly               |
+| Holds heat after baking        | Yes, significantly                    | Minimally             |
+| Best for                       | Casseroles, acidic dishes             | Cookies, cakes, bread |
+| Reactive with acidic food      | No                                    | Can be, if uncoated   |
+| Microwave safe                 | Yes                                   | No                    |
+| Thermal shock risk             | Yes, avoid sudden changes             | No                    |
+| Typical temperature adjustment | Lower by about 25°F vs. metal recipes | As written            |
 
 ## A Safety Note on Thermal Shock
 
