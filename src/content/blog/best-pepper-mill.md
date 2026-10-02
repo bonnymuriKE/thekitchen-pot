@@ -1,39 +1,71 @@
 ---
-excerpt: "Six pepper mills worth owning, from a $25 OXO to a $200 Pepper Cannon, with a plain-English look at how burrs, grind settings and output actually work."
+excerpt: Six pepper mills worth owning, from a $25 OXO to a $200 Pepper Cannon,
+  with a plain-English look at how burrs, grind settings and output actually
+  work.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Pepper Mill (6 Picks by Burr Type and Grind Control)"
+title: Best Pepper Mill (6 Picks by Burr Type and Grind Control)
 source: wordpress
 slug: best-pepper-mill
 pubDate: 2020-08-07
 modDate: 2026-09-22
-image: ""
+image: /images/Best-pepper-mills.jpg
+description: Find the best pepper mill for your kitchen, compared by burr type,
+  grind range and output, with six current picks, verified specs and honest pros
+  and cons.
 category: Cookware Equipment
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A wooden pepper mill and a stainless steel pepper grinder next to a pile of cracked black peppercorns
 tags:
   - best-pepper-mill
   - pepper-mills
   - pepper-grinders
   - kitchen-tools
-authorImageAlt: kitchenpot1
-description: "Find the best pepper mill for your kitchen, compared by burr type, grind range and output, with six current picks, verified specs and honest pros and cons."
-seo: "A pepper mill is only as good as its burrs and its grind adjustment. This guide explains how both work, then compares six current pepper mills from Cole & Mason, Peugeot, MannKitchen, Unicorn, OXO and Fletchers' Mill."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What is the difference between a pepper mill and a pepper grinder?"
-    answer: "In everyday use the two words mean the same thing. If anyone draws a line, a mill usually refers to a manual unit with a rotating burr you turn by hand or crank, while grinder is often used loosely for both manual and electric models. Buy on the mechanism and the grind range, not the name on the box."
-  - question: "Why do pepper mills use steel burrs and salt mills use ceramic?"
-    answer: "Peppercorns are hard and oily, so steel burrs with sharp cutting teeth crack and shear them cleanly. Salt is corrosive, and a carbon steel or case-hardened steel mechanism will rust if salt sits in it. Ceramic and alumina mechanisms do not corrode, so they handle salt for years. Using one mill for both is the fastest way to ruin a good pepper mill."
-  - question: "How do I adjust a pepper mill from fine to coarse?"
-    answer: "Almost every manual mill adjusts by changing the gap between the inner and outer burr. On Peugeot and Cole & Mason models you turn a ring or knob to a preset click. On Unicorn and many older mills you loosen or tighten a thumbscrew at the base. Tighter equals finer. Turn the adjuster only when the mill is empty of pressure, not mid-grind."
-  - question: "Is an expensive pepper mill actually worth it?"
-    answer: "It depends on how much pepper you use. A $25 mill grinds fine pepper perfectly well and is a sensible buy for most kitchens. Spending more buys a wider and more repeatable grind range, a sturdier mechanism with a long warranty, and far more pepper per turn. If you crank pepper at every meal, that output difference is what you feel."
-  - question: "How do I stop my pepper mill from clogging or grinding unevenly?"
-    answer: "Use whole black peppercorns under about 5mm and keep the mill dry. Oversized or damp corns jam the burr, and moisture makes pepper dust cake inside. Never grind salt, wet brines or oily seeds in a steel pepper mechanism. If output slows, empty the mill, tap it out, brush the burr with a dry pastry brush and refill."
-  - question: "Which grind size should I use for which food?"
-    answer: "Fine grind dissolves into sauces, eggs and dressings without visible specks. Medium is the everyday table grind for soups, pasta and roasted vegetables. Coarse suits steak crusts, cracked pepper on cheese and cured meats, and pickling brines, where you want texture and a slower release of heat."
+  - question: What is the difference between a pepper mill and a pepper grinder?
+    answer: In everyday use the two words mean the same thing. If anyone draws a
+      line, a mill usually refers to a manual unit with a rotating burr you turn
+      by hand or crank, while grinder is often used loosely for both manual and
+      electric models. Buy on the mechanism and the grind range, not the name on
+      the box.
+  - question: Why do pepper mills use steel burrs and salt mills use ceramic?
+    answer: Peppercorns are hard and oily, so steel burrs with sharp cutting teeth
+      crack and shear them cleanly. Salt is corrosive, and a carbon steel or
+      case-hardened steel mechanism will rust if salt sits in it. Ceramic and
+      alumina mechanisms do not corrode, so they handle salt for years. Using
+      one mill for both is the fastest way to ruin a good pepper mill.
+  - question: How do I adjust a pepper mill from fine to coarse?
+    answer: Almost every manual mill adjusts by changing the gap between the inner
+      and outer burr. On Peugeot and Cole & Mason models you turn a ring or knob
+      to a preset click. On Unicorn and many older mills you loosen or tighten a
+      thumbscrew at the base. Tighter equals finer. Turn the adjuster only when
+      the mill is empty of pressure, not mid-grind.
+  - question: Is an expensive pepper mill actually worth it?
+    answer: It depends on how much pepper you use. A $25 mill grinds fine pepper
+      perfectly well and is a sensible buy for most kitchens. Spending more buys
+      a wider and more repeatable grind range, a sturdier mechanism with a long
+      warranty, and far more pepper per turn. If you crank pepper at every meal,
+      that output difference is what you feel.
+  - question: How do I stop my pepper mill from clogging or grinding unevenly?
+    answer: Use whole black peppercorns under about 5mm and keep the mill dry.
+      Oversized or damp corns jam the burr, and moisture makes pepper dust cake
+      inside. Never grind salt, wet brines or oily seeds in a steel pepper
+      mechanism. If output slows, empty the mill, tap it out, brush the burr
+      with a dry pastry brush and refill.
+  - question: Which grind size should I use for which food?
+    answer: Fine grind dissolves into sauces, eggs and dressings without visible
+      specks. Medium is the everyday table grind for soups, pasta and roasted
+      vegetables. Coarse suits steak crusts, cracked pepper on cheese and cured
+      meats, and pickling brines, where you want texture and a slower release of
+      heat.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A wooden pepper mill and a stainless steel pepper grinder next to a
+  pile of cracked black peppercorns
+seo: A pepper mill is only as good as its burrs and its grind adjustment. This
+  guide explains how both work, then compares six current pepper mills from Cole
+  & Mason, Peugeot, MannKitchen, Unicorn, OXO and Fletchers' Mill.
 ---
 Pre-ground pepper is mostly dust. The aroma sits in volatile oils that start escaping the moment a peppercorn cracks, which is why a decent mill changes how your food tastes.
 
@@ -43,12 +75,12 @@ Below are six current mills worth your money, plus a plain explanation of how th
 
 ## Quick Picks
 
-- **Best overall:** [Cole & Mason Derwent Pepper Mill](https://www.amazon.com/Cole-and-Mason-Derwent-Pepper-Mill/dp/B003OICYZO/?tag=kitchenpot-20)
-- **Best for life:** [Peugeot Paris u'Select 9-Inch Pepper Mill](https://www.amazon.com/Peugeot-Paris-uSelect-9-Inch-Pepper-Mill/dp/B000RAC7U4/?tag=kitchenpot-20)
-- **Best for heavy pepper users:** [MANNKITCHEN Pepper Cannon](https://www.amazon.com/MANNKITCHEN-Pepper-Cannon/dp/B09T7BWJNP/?tag=kitchenpot-20)
-- **Best value workhorse:** [Unicorn Magnum Plus 9-Inch Pepper Mill](https://www.amazon.com/Unicorn-Magnum-Plus-9-Inch-Pepper-Mill/dp/B0000CFB4N/?tag=kitchenpot-20)
-- **Best budget mill:** [OXO Good Grips Contoured Mess-Free Pepper Grinder](https://www.amazon.com/OXO-Good-Grips-Contoured-Mess-Free-Pepper-Grinder/dp/B08DL86ZCQ/?tag=kitchenpot-20)
-- **Best wooden table mill:** [Fletchers' Mill Federal 8-Inch Pepper Mill](https://www.amazon.com/Fletchers-Mill-Federal-8-Inch-Pepper-Mill/dp/B00DQAYWXC/?tag=kitchenpot-20)
+* **Best overall:** [Cole & Mason Derwent Pepper Mill](https://www.amazon.com/Cole-and-Mason-Derwent-Pepper-Mill/dp/B003OICYZO/?tag=kitchenpot-20)
+* **Best for life:** [Peugeot Paris u'Select 9-Inch Pepper Mill](https://www.amazon.com/Peugeot-Paris-uSelect-9-Inch-Pepper-Mill/dp/B000RAC7U4/?tag=kitchenpot-20)
+* **Best for heavy pepper users:** [MANNKITCHEN Pepper Cannon](https://www.amazon.com/MANNKITCHEN-Pepper-Cannon/dp/B09T7BWJNP/?tag=kitchenpot-20)
+* **Best value workhorse:** [Unicorn Magnum Plus 9-Inch Pepper Mill](https://www.amazon.com/Unicorn-Magnum-Plus-9-Inch-Pepper-Mill/dp/B0000CFB4N/?tag=kitchenpot-20)
+* **Best budget mill:** [OXO Good Grips Contoured Mess-Free Pepper Grinder](https://www.amazon.com/OXO-Good-Grips-Contoured-Mess-Free-Pepper-Grinder/dp/B08DL86ZCQ/?tag=kitchenpot-20)
+* **Best wooden table mill:** [Fletchers' Mill Federal 8-Inch Pepper Mill](https://www.amazon.com/Fletchers-Mill-Federal-8-Inch-Pepper-Mill/dp/B00DQAYWXC/?tag=kitchenpot-20)
 
 ## How a pepper mill actually grinds
 
@@ -72,31 +104,31 @@ Ceramic is also why a lot of budget "salt and pepper" mills feel underwhelming o
 
 Every adjustment system does the same physical thing: it moves the inner burr up or down relative to the outer ring, changing the gap between them.
 
-- **Tighter gap** means pepper cannot leave until it has been cut small. That is your fine grind.
-- **Wider gap** means bigger fragments escape after one or two cuts. That is coarse.
+* **Tighter gap** means pepper cannot leave until it has been cut small. That is your fine grind.
+* **Wider gap** means bigger fragments escape after one or two cuts. That is coarse.
 
 How that gap is controlled is where mills differ. A thumbscrew at the base, like the Unicorn's, is infinitely variable but you have to find your setting by feel and remember it. A click-stop ring, like Peugeot's u'Select or Cole & Mason's Gourmet Precision, locks the burr into fixed positions so the same number always gives the same grind. A few mills, including the Pepper Cannon, use a fine-threaded collar that sweeps a huge range.
 
-| Grind | Rough particle size | What it suits |
-| --- | --- | --- |
-| Fine | Powder to 0.5mm | Eggs, sauces, vinaigrettes, baking |
-| Medium-fine | About 0.5 to 1mm | Everyday table pepper, soups, pasta |
-| Medium | About 1 to 1.5mm | Roasted vegetables, stews, rubs |
-| Coarse | About 1.5 to 2.5mm | Steak crust, cheese boards, cured meats |
-| Cracked | 2.5mm and up | Pickling brine, pepper-crusted roasts |
+| Grind       | Rough particle size | What it suits                           |
+| ----------- | ------------------- | --------------------------------------- |
+| Fine        | Powder to 0.5mm     | Eggs, sauces, vinaigrettes, baking      |
+| Medium-fine | About 0.5 to 1mm    | Everyday table pepper, soups, pasta     |
+| Medium      | About 1 to 1.5mm    | Roasted vegetables, stews, rubs         |
+| Coarse      | About 1.5 to 2.5mm  | Steak crust, cheese boards, cured meats |
+| Cracked     | 2.5mm and up        | Pickling brine, pepper-crusted roasts   |
 
 One habit worth building: adjust the setting before you fill the hopper, or at least give the knob a quarter-turn backwards first. Forcing the adjuster while peppercorns are jammed in the burr is how the cheap ones strip.
 
 ## Pepper mills compared
 
-| Mill | Mechanism | Grind control | Height | Typical price |
-| --- | --- | --- | --- | --- |
-| Cole & Mason Derwent | Carbon steel, Gourmet Precision | 6 preset click settings | 7.5 in | About $50 to $60 |
-| Peugeot Paris u'Select | Case-hardened steel | 6 preset settings at base | 9 in | About $45 to $60 |
-| MANNKITCHEN Pepper Cannon | Hardened high-carbon stainless | Stepless, 8 to 60+ mesh | 7.25 in | About $200 |
-| Unicorn Magnum Plus | Steel | Base thumbscrew, stepless | 9 in | About $45 |
-| OXO Contoured Mess-Free | Ceramic | 5 settings | About 6 in | About $23 to $30 |
-| Fletchers' Mill Federal | Adjustable, hardwood body | Top knob, stepless | 8 in | About $49 |
+| Mill                      | Mechanism                       | Grind control             | Height     | Typical price    |
+| ------------------------- | ------------------------------- | ------------------------- | ---------- | ---------------- |
+| Cole & Mason Derwent      | Carbon steel, Gourmet Precision | 6 preset click settings   | 7.5 in     | About $50 to $60 |
+| Peugeot Paris u'Select    | Case-hardened steel             | 6 preset settings at base | 9 in       | About $45 to $60 |
+| MANNKITCHEN Pepper Cannon | Hardened high-carbon stainless  | Stepless, 8 to 60+ mesh   | 7.25 in    | About $200       |
+| Unicorn Magnum Plus       | Steel                           | Base thumbscrew, stepless | 9 in       | About $45        |
+| OXO Contoured Mess-Free   | Ceramic                         | 5 settings                | About 6 in | About $23 to $30 |
+| Fletchers' Mill Federal   | Adjustable, hardwood body       | Top knob, stepless        | 8 in       | About $49        |
 
 ## How we chose
 
@@ -104,12 +136,12 @@ No first-hand testing here. These picks come from manufacturer specs and mechani
 
 ## 1. Cole & Mason Derwent Pepper Mill: Best Overall
 
-- **Mechanism:** Carbon steel Gourmet Precision pepper burr
-- **Grind settings:** 6 preset levels, selected by a dial at the base
-- **Body:** Stainless steel with a clear acrylic window
-- **Height:** 7.5 inches (190mm)
+* **Mechanism:** Carbon steel Gourmet Precision pepper burr
+* **Grind settings:** 6 preset levels, selected by a dial at the base
+* **Body:** Stainless steel with a clear acrylic window
+* **Height:** 7.5 inches (190mm)
 
-This is the mill most kitchens should own. The Derwent pairs a carbon steel pepper mechanism with six click-stop grind settings, so "the setting I use for eggs" and "the setting I use for steak" are repeatable numbers rather than guesses. Food Network named the Derwent its best pepper mill overall, pointing to the clear body and the fact that the mechanism stays put while you grind.
+This is the mill most kitchens should own. The Derwent pairs a carbon steel pepper mechanism with six click-stop grind settings, so "the setting I use for eggs" and "the setting I use for steak" are repeatable numbers rather than guesses. 
 
 The acrylic window solves a small but constant annoyance: you can see when you are running low instead of discovering it mid-recipe. Refilling means unscrewing the top cap, and the opening is wide enough to pour from a bag without a funnel.
 
@@ -117,18 +149,18 @@ Owner reviews cluster around the same two things. The praise is about even, gene
 
 **What we like:**
 
-- Six repeatable click settings, so you can return to a grind exactly.
-- Carbon steel burr cuts peppercorns cleanly rather than crushing them.
-- Clear window shows the peppercorn level at a glance.
-- Stainless body wipes clean and does not absorb pepper oils.
-- Sits at a price most people will pay without flinching.
-- Cole & Mason backs the mechanism with a lifetime guarantee.
+* Six repeatable click settings, so you can return to a grind exactly.
+* Carbon steel burr cuts peppercorns cleanly rather than crushing them.
+* Clear window shows the peppercorn level at a glance.
+* Stainless body wipes clean and does not absorb pepper oils.
+* Sits at a price most people will pay without flinching.
+* Cole & Mason backs the mechanism with a lifetime guarantee.
 
 **What to know before you buy:**
 
-- The coarsest setting is finer than serious steak cooks want.
-- Carbon steel means salt is off-limits in this mill, permanently.
-- The printed instructions are notoriously tiny; the setting dial is easier to work out by turning it.
+* The coarsest setting is finer than serious steak cooks want.
+* Carbon steel means salt is off-limits in this mill, permanently.
+* The printed instructions are notoriously tiny; the setting dial is easier to work out by turning it.
 
 **Who should buy it:** Anyone who wants one good pepper mill that will be on the counter for a decade. It pairs naturally with the sort of everyday gear in our [small kitchen gadgets worth buying](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/) list.
 
@@ -136,10 +168,10 @@ Owner reviews cluster around the same two things. The praise is about even, gene
 
 ## 2. Peugeot Paris u'Select 9-Inch Pepper Mill: Best for Life
 
-- **Mechanism:** Case-hardened steel, double row of grinding grooves
-- **Grind settings:** 6 preset u'Select positions on a ring at the base
-- **Body:** PEFC-certified beech wood, made in France
-- **Height:** 9 inches (22cm)
+* **Mechanism:** Case-hardened steel, double row of grinding grooves
+* **Grind settings:** 6 preset u'Select positions on a ring at the base
+* **Body:** PEFC-certified beech wood, made in France
+* **Height:** 9 inches (22cm)
 
 Peugeot made pepper mills before it made cars, and the mechanism is the reason the name stuck. The burr has two zones: wide outer grooves that crack the peppercorn open, and finer inner grooves that grind the fragments to size. That sequence is why the output is unusually even at every setting rather than just at the fine end.
 
@@ -149,18 +181,18 @@ Two rules keep that guarantee intact. Keep the mill dry, and never put salt in i
 
 **What we like:**
 
-- Two-stage burr gives a notably even grind across the range.
-- Six marked settings you can actually memorise.
-- Lifetime guarantee on the grinding mechanism.
-- Beech body is warm in the hand and ages well.
-- Tall enough to grind comfortably over a big pot.
-- Available in the same shape as a matching salt mill if you want a pair later.
+* Two-stage burr gives a notably even grind across the range.
+* Six marked settings you can actually memorise.
+* Lifetime guarantee on the grinding mechanism.
+* Beech body is warm in the hand and ages well.
+* Tall enough to grind comfortably over a big pot.
+* Available in the same shape as a matching salt mill if you want a pair later.
 
 **What to know before you buy:**
 
-- Wood needs a dry wipe, not a soak, and definitely not a dishwasher.
-- Salt will destroy the steel mechanism, so this is a pepper-only mill.
-- You cannot see the fill level through wood; you refill by weight and habit.
+* Wood needs a dry wipe, not a soak, and definitely not a dishwasher.
+* Salt will destroy the steel mechanism, so this is a pepper-only mill.
+* You cannot see the fill level through wood; you refill by weight and habit.
 
 **Who should buy it:** Cooks who want a mill they will hand down rather than replace, and anyone who likes a wooden mill on the table next to good [dinnerware](/blog/7-best-dinnerware-sets/) and a well-kept [knife set](/blog/best-knife-set-under-100/).
 
@@ -168,11 +200,11 @@ Two rules keep that guarantee intact. Keep the mill dry, and never put salt in i
 
 ## 3. MANNKITCHEN Pepper Cannon: Best for Heavy Pepper Users
 
-- **Mechanism:** Hardened high-carbon stainless steel burrs
-- **Grind range:** 8 to 60+ mesh, stepless
-- **Body:** Anodized aerospace-grade aluminium, 1.07 lb
-- **Capacity:** 1/2 cup hopper plus a 1/3 cup base cup
-- **Height:** 7.25 inches
+* **Mechanism:** Hardened high-carbon stainless steel burrs
+* **Grind range:** 8 to 60+ mesh, stepless
+* **Body:** Anodized aerospace-grade aluminium, 1.07 lb
+* **Capacity:** 1/2 cup hopper plus a 1/3 cup base cup
+* **Height:** 7.25 inches
 
 If you season a steak and your wrist gives out before the crust does, this is the fix. The Pepper Cannon uses an oversized burr set, and MannKitchen's own comparison is that it does in about seven cranks what a standard mill needs roughly seventy turns to do. That is a function of burr diameter: a bigger cutting circumference processes far more peppercorns per rotation.
 
@@ -182,18 +214,18 @@ The removable base cup doubles as a lid and as a catch-cup, so you can grind a p
 
 **What we like:**
 
-- Enormous output per turn, which is the entire point.
-- 8 to 60+ mesh range covers powder through cracked pepper.
-- All-metal build with a 5-year warranty against defects.
-- Base cup works as a lid and as a measuring catch-cup.
-- Fills through a wide top opening without a funnel.
-- Heavy enough to stay put on the counter while you grind.
+* Enormous output per turn, which is the entire point.
+* 8 to 60+ mesh range covers powder through cracked pepper.
+* All-metal build with a 5-year warranty against defects.
+* Base cup works as a lid and as a measuring catch-cup.
+* Fills through a wide top opening without a funnel.
+* Heavy enough to stay put on the counter while you grind.
 
 **What to know before you buy:**
 
-- It lists around $200, which is more than most people spend on any single tool.
-- Stepless adjustment means no numbered settings to return to.
-- At just over a pound it is heavy for one-handed table use.
+* It lists around $200, which is more than most people spend on any single tool.
+* Stepless adjustment means no numbered settings to return to.
+* At just over a pound it is heavy for one-handed table use.
 
 **Who should buy it:** Anyone who cooks a lot of steak, uses pepper by the tablespoon, or mixes their own rubs. If you are building out a small counter, read our [countertop organization ideas](/blog/countertop-organization-ideas-for-a-small-kitchen/) before you commit the space.
 
@@ -201,11 +233,11 @@ The removable base cup doubles as a lid and as a catch-cup, so you can grind a p
 
 ## 4. Unicorn Magnum Plus 9-Inch Pepper Mill: Best Value Workhorse
 
-- **Mechanism:** Steel grinding mechanism
-- **Grind control:** Thumbscrew at the base, medium-fine to extra coarse
-- **Capacity:** About 1 and 1/4 cups of peppercorns
-- **Refill:** Side-loading door
-- **Height:** 9 inches
+* **Mechanism:** Steel grinding mechanism
+* **Grind control:** Thumbscrew at the base, medium-fine to extra coarse
+* **Capacity:** About 1 and 1/4 cups of peppercorns
+* **Refill:** Side-loading door
+* **Height:** 9 inches
 
 This is the mill that turns up in restaurant kitchens, and it has almost nothing going for it visually. The body is plain ABS plastic. What it has is a big steel mechanism, a side door so you can refill without unscrewing anything, and a hopper that holds over a cup of peppercorns, so a busy kitchen fills it once a week rather than twice a service.
 
@@ -215,18 +247,18 @@ At roughly a third of the Pepper Cannon's price it delivers a good share of the 
 
 **What we like:**
 
-- Huge hopper means far fewer refills.
-- Side-loading door makes refilling a five-second job.
-- Strong output per turn for the money.
-- Properly coarse at the top of its range.
-- Plastic body shrugs off a drop that would dent metal or split wood.
-- Simple mechanism with very little to go wrong.
+* Huge hopper means far fewer refills.
+* Side-loading door makes refilling a five-second job.
+* Strong output per turn for the money.
+* Properly coarse at the top of its range.
+* Plastic body shrugs off a drop that would dent metal or split wood.
+* Simple mechanism with very little to go wrong.
 
 **What to know before you buy:**
 
-- It looks like kitchen equipment, not tableware.
-- The thumbscrew gives no repeatable numbers.
-- It does not go as fine as a click-stop mill at its lowest setting.
+* It looks like kitchen equipment, not tableware.
+* The thumbscrew gives no repeatable numbers.
+* It does not go as fine as a click-stop mill at its lowest setting.
 
 **Who should buy it:** Cooks who value output and refill speed over looks, and anyone who has worn out two cheap mills already. It earns its counter space the way a good [meat slicer](/blog/best-meat-slicer-for-home-use/) does: by saving you effort every single time.
 
@@ -234,10 +266,10 @@ At roughly a third of the Pepper Cannon's price it delivers a good share of the 
 
 ## 5. OXO Good Grips Contoured Mess-Free Pepper Grinder: Best Budget Mill
 
-- **Mechanism:** Adjustable ceramic grinder
-- **Grind settings:** 5
-- **Design:** Grinder sits at the top, so it stores grinder-up
-- **Extras:** Arrives pre-loaded with peppercorns, non-slip body
+* **Mechanism:** Adjustable ceramic grinder
+* **Grind settings:** 5
+* **Design:** Grinder sits at the top, so it stores grinder-up
+* **Extras:** Arrives pre-loaded with peppercorns, non-slip body
 
 The clever bit here is geometry. On a normal mill the burr sits at the bottom, so every time you set it down a little pepper dust falls out and builds a grey ring on the table. OXO flips it: the ceramic grinder lives at the top, you invert the mill to grind, and when you stand it back up the leftover dust falls back inside the body instead of onto the counter.
 
@@ -247,18 +279,18 @@ Ceramic is the compromise. It resists corrosion, so OXO sells a matching salt gr
 
 **What we like:**
 
-- The top-mounted grinder really does keep the counter clean.
-- Costs a fraction of the premium mills.
-- Five settings and a clear body you can read at a glance.
-- Wide fill opening that does not need a funnel.
-- Non-slip grip suits smaller or weaker hands.
-- Ceramic will not corrode, so a matching salt version exists.
+* The top-mounted grinder really does keep the counter clean.
+* Costs a fraction of the premium mills.
+* Five settings and a clear body you can read at a glance.
+* Wide fill opening that does not need a funnel.
+* Non-slip grip suits smaller or weaker hands.
+* Ceramic will not corrode, so a matching salt version exists.
 
 **What to know before you buy:**
 
-- Lower output per turn than any steel-burr mill here.
-- Small hopper means frequent refills if you use a lot of pepper.
-- The coarse end is not really coarse.
+* Lower output per turn than any steel-burr mill here.
+* Small hopper means frequent refills if you use a lot of pepper.
+* The coarse end is not really coarse.
 
 **Who should buy it:** Anyone furnishing a first kitchen, a rental, or a second set for the dining table. It fits the same brief as the rest of our [first-apartment kitchen basics](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/), and it travels well enough to live in a [camping cookware](/blog/best-camping-cookware/) box.
 
@@ -266,10 +298,10 @@ Ceramic is the compromise. It resists corrosion, so OXO sells a matching salt gr
 
 ## 6. Fletchers' Mill Federal 8-Inch Pepper Mill: Best Wooden Table Mill
 
-- **Mechanism:** Adjustable grinding mechanism, fine to coarse
-- **Body:** Sustainably sourced hardwood, made in Maine
-- **Sizes:** 4, 6 and 8 inch
-- **Finishes:** Eight, including walnut, maple, cobalt and seafoam
+* **Mechanism:** Adjustable grinding mechanism, fine to coarse
+* **Body:** Sustainably sourced hardwood, made in Maine
+* **Sizes:** 4, 6 and 8 inch
+* **Finishes:** Eight, including walnut, maple, cobalt and seafoam
 
 Fletchers' Mill has been turning these in Maine for decades, and the Federal is the shape most people picture when they think "pepper mill": a turned hardwood column with a knob on top. Adjustment is the classic system, where you tighten or loosen the top knob to close or open the burr gap.
 
@@ -279,18 +311,18 @@ The 8-inch height is the sweet spot for table use. The 6-inch version is easier 
 
 **What we like:**
 
-- Classic turned-hardwood look that suits a set table.
-- Made in Maine from sustainably sourced hardwood.
-- Three heights and eight finishes to match your kitchen.
-- Simple top-knob adjustment with no settings to learn.
-- Mid-range price for a US-made wooden mill.
-- Lighter in the hand than the metal mills here.
+* Classic turned-hardwood look that suits a set table.
+* Made in Maine from sustainably sourced hardwood.
+* Three heights and eight finishes to match your kitchen.
+* Simple top-knob adjustment with no settings to learn.
+* Mid-range price for a US-made wooden mill.
+* Lighter in the hand than the metal mills here.
 
 **What to know before you buy:**
 
-- The knob adjustment is stepless, so you cannot return to a number.
-- Like any wooden mill, it must be wiped dry and kept away from the sink.
-- Capacity is smaller than the tall plastic and metal mills.
+* The knob adjustment is stepless, so you cannot return to a number.
+* Like any wooden mill, it must be wiped dry and kept away from the sink.
+* Capacity is smaller than the tall plastic and metal mills.
 
 **Who should buy it:** Cooks who set the table properly and want the mill to be part of it.
 
@@ -308,11 +340,11 @@ Ask two questions. How wide is the range, and can you return to a setting? Click
 
 ### Capacity and refilling
 
-| Hopper size | Roughly | Suits |
-| --- | --- | --- |
-| Small (under 1/4 cup) | A week or two of table use | Dining table, second mill |
-| Medium (1/4 to 1/2 cup) | A month of normal cooking | Most home kitchens |
-| Large (1 cup or more) | Months, or weeks of heavy use | Rub makers, big families |
+| Hopper size             | Roughly                       | Suits                     |
+| ----------------------- | ----------------------------- | ------------------------- |
+| Small (under 1/4 cup)   | A week or two of table use    | Dining table, second mill |
+| Medium (1/4 to 1/2 cup) | A month of normal cooking     | Most home kitchens        |
+| Large (1 cup or more)   | Months, or weeks of heavy use | Rub makers, big families  |
 
 A side-loading door or a wide screw-off cap is worth more than an extra inch of capacity. If you dread refilling, you will let the mill run empty.
 
@@ -328,11 +360,11 @@ A 9-inch mill is lovely until you try to fit it in a cabinet. Measure the shelf.
 
 The mill is half the equation. What you feed it matters just as much.
 
-- **Black peppercorns** are picked unripe and dried. Tellicherry corns are simply larger black corns picked later, so they have more developed flavour. They are the default for any steel mill.
-- **White peppercorns** are ripe corns with the outer skin removed. Milder heat, more earthy, good in pale sauces.
-- **Green peppercorns**, dried, are softer and can gum up a fine setting.
-- **Pink peppercorns** are not true pepper and are brittle. They work in a mixed blend but grind unevenly on their own.
-- **Mixed rainbow blends** look good in a clear mill but grind unevenly because the corns differ in hardness.
+* **Black peppercorns** are picked unripe and dried. Tellicherry corns are simply larger black corns picked later, so they have more developed flavour. They are the default for any steel mill.
+* **White peppercorns** are ripe corns with the outer skin removed. Milder heat, more earthy, good in pale sauces.
+* **Green peppercorns**, dried, are softer and can gum up a fine setting.
+* **Pink peppercorns** are not true pepper and are brittle. They work in a mixed blend but grind unevenly on their own.
+* **Mixed rainbow blends** look good in a clear mill but grind unevenly because the corns differ in hardness.
 
 Buy whole corns in small amounts and keep them somewhere cool and dark, the same way you would treat any spice or a bag of [potatoes](/blog/how-long-do-potatoes-last/) in a well-run pantry. A [lazy Susan](/blog/8-best-lazy-susan-organizers-for-your-kitchen/) in a corner cabinet keeps refill jars reachable instead of buried. Ground pepper loses its punch within weeks; whole corns hold it for a year or more. If you are reorganising your storage, our guide to [organising a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) has practical ideas for spice storage that does not eat counter space.
 
@@ -353,37 +385,37 @@ Electric mills solve one real problem: they let you season with one hand while t
 
 They cost you output and consistency. Most battery mills use small ceramic burrs and a low-torque motor, so they grind more slowly than a good manual mill and struggle with big peppercorns. They also add batteries or a charging cable to your counter.
 
-| | Manual mill | Electric mill |
-| --- | --- | --- |
-| Output per second | Higher with a steel burr | Usually lower |
-| Grind range | Wider, especially coarse | Narrower |
-| One-handed use | Difficult | Easy |
-| Maintenance | Almost none | Batteries or charging |
-| Typical price | $25 to $60 | $30 to $70 |
+|                   | Manual mill              | Electric mill         |
+| ----------------- | ------------------------ | --------------------- |
+| Output per second | Higher with a steel burr | Usually lower         |
+| Grind range       | Wider, especially coarse | Narrower              |
+| One-handed use    | Difficult                | Easy                  |
+| Maintenance       | Almost none              | Batteries or charging |
+| Typical price     | $25 to $60               | $30 to $70            |
 
 If the one-handed part matters most to you, look at rechargeable models and matched sets before you buy a manual mill. And if counter outlets are already fought over in your kitchen, our notes on [energy-efficient small appliances](/blog/most-energy-efficient-small-kitchen-appliances/) are worth a look before you add another charging base.
 
 ## Which pepper mill should you buy?
 
-- **You want one good mill and you are done thinking about it:** [Cole & Mason Derwent](https://www.amazon.com/Cole-and-Mason-Derwent-Pepper-Mill/dp/B003OICYZO/?tag=kitchenpot-20).
-- **You want to buy once and never again:** [Peugeot Paris u'Select](https://www.amazon.com/Peugeot-Paris-uSelect-9-Inch-Pepper-Mill/dp/B000RAC7U4/?tag=kitchenpot-20).
-- **You use pepper by the spoonful:** [MANNKITCHEN Pepper Cannon](https://www.amazon.com/MANNKITCHEN-Pepper-Cannon/dp/B09T7BWJNP/?tag=kitchenpot-20).
-- **You want restaurant output for a normal price:** [Unicorn Magnum Plus](https://www.amazon.com/Unicorn-Magnum-Plus-9-Inch-Pepper-Mill/dp/B0000CFB4N/?tag=kitchenpot-20).
-- **You want something decent for under $30:** [OXO Contoured Mess-Free](https://www.amazon.com/OXO-Good-Grips-Contoured-Mess-Free-Pepper-Grinder/dp/B08DL86ZCQ/?tag=kitchenpot-20).
-- **You want wood on the table:** [Fletchers' Mill Federal](https://www.amazon.com/Fletchers-Mill-Federal-8-Inch-Pepper-Mill/dp/B00DQAYWXC/?tag=kitchenpot-20).
+* **You want one good mill and you are done thinking about it:** [Cole & Mason Derwent](https://www.amazon.com/Cole-and-Mason-Derwent-Pepper-Mill/dp/B003OICYZO/?tag=kitchenpot-20).
+* **You want to buy once and never again:** [Peugeot Paris u'Select](https://www.amazon.com/Peugeot-Paris-uSelect-9-Inch-Pepper-Mill/dp/B000RAC7U4/?tag=kitchenpot-20).
+* **You use pepper by the spoonful:** [MANNKITCHEN Pepper Cannon](https://www.amazon.com/MANNKITCHEN-Pepper-Cannon/dp/B09T7BWJNP/?tag=kitchenpot-20).
+* **You want restaurant output for a normal price:** [Unicorn Magnum Plus](https://www.amazon.com/Unicorn-Magnum-Plus-9-Inch-Pepper-Mill/dp/B0000CFB4N/?tag=kitchenpot-20).
+* **You want something decent for under $30:** [OXO Contoured Mess-Free](https://www.amazon.com/OXO-Good-Grips-Contoured-Mess-Free-Pepper-Grinder/dp/B08DL86ZCQ/?tag=kitchenpot-20).
+* **You want wood on the table:** [Fletchers' Mill Federal](https://www.amazon.com/Fletchers-Mill-Federal-8-Inch-Pepper-Mill/dp/B00DQAYWXC/?tag=kitchenpot-20).
 
 One more thing worth doing tonight: grind a little pepper onto a white plate at your current setting and look at it. If it is a mix of dust and gravel, the burr is worn or the mill was never up to much, and any mill on this page will be an upgrade.
 
 ## Related Guides
 
-- [Best Salt and Pepper Grinders](/blog/best-salt-and-pepper-grinders/)
-- [Best Knife Set Under $100](/blog/best-knife-set-under-100/)
-- [Best Knife Sharpener](/blog/best-knife-sharpener/)
-- [Best Metal Spatula Sets](/blog/best-metal-spatula-set/)
-- [Best Airtight Food Storage Containers](/blog/best-airtight-food-storage-containers/)
-- [Best Mandoline Slicers](/blog/best-mandoline-slicers/)
-- [Best Cookware Set Under $200](/blog/best-cookware-set-under-200/)
-- [Best Cookware Sizes for Cooking for One](/blog/best-cookware-sizes-for-cooking-for-one/)
-- [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
-- [How to Sharpen Ceramic Knives](/blog/how-to-sharpen-ceramic-knives/)
-- [What Is Stainless Steel Cookware?](/blog/what-is-stainless-steel-cookware/)
+* [Best Salt and Pepper Grinders](/blog/best-salt-and-pepper-grinders/)
+* [Best Knife Set Under $100](/blog/best-knife-set-under-100/)
+* [Best Knife Sharpener](/blog/best-knife-sharpener/)
+* [Best Metal Spatula Sets](/blog/best-metal-spatula-set/)
+* [Best Airtight Food Storage Containers](/blog/best-airtight-food-storage-containers/)
+* [Best Mandoline Slicers](/blog/best-mandoline-slicers/)
+* [Best Cookware Set Under $200](/blog/best-cookware-set-under-200/)
+* [Best Cookware Sizes for Cooking for One](/blog/best-cookware-sizes-for-cooking-for-one/)
+* [How to Store Pots and Pans in a Small Kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/)
+* [How to Sharpen Ceramic Knives](/blog/how-to-sharpen-ceramic-knives/)
+* [What Is Stainless Steel Cookware?](/blog/what-is-stainless-steel-cookware/)
