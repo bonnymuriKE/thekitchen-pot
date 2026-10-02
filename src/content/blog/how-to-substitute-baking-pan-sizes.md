@@ -1,51 +1,51 @@
 ---
-title: "How to Substitute Baking Pan Sizes"
+title: How to Substitute Baking Pan Sizes
 slug: how-to-substitute-baking-pan-sizes
 layout: ../../layouts/BlogLayout.astro
-pubDate: 2026-09-29
-modDate: 2026-09-29
+pubDate: 2026-10-02
+modDate: 2026-10-02
 author: boniface-muriuki
-image: ""
+image: /images/blog/default-cover.jpg
 excerpt: Not owning the exact pan a recipe calls for shouldn't mean you can't
-  make it. Here's how to figure out what you can substitute, a volume
-  conversion chart for the most common pan sizes, and how to adjust
-  temperature and time so the swap actually works.
-description: How to substitute baking pan sizes using a volume conversion chart, plus how to adjust oven temperature and bake time when you swap pans.
+  make it. Here's how to figure out what you can substitute, a volume conversion
+  chart for the most common pan sizes, and how to adjust temperature and time so
+  the swap actually works.
+description: How to substitute baking pan sizes using a volume conversion chart,
+  plus how to adjust oven temperature and bake time when you swap pans.
 category: Bakeware
 tags:
   - how to substitute baking pan sizes
   - baking pan size conversion chart
   - what to do if you don't have the right pan size
 faq:
-  - question: "Can I use a 9x13 pan instead of two 9-inch round pans?"
-    answer: Yes. Two 9-inch round pans hold about 16 cups combined, close
-      enough to a 9x13 pan's roughly 14 to 15 cups that the swap works well
-      for most cake recipes, though your bake time may run a few minutes
-      longer in the single rectangular pan.
-  - question: "How do I know what size pan I actually have?"
-    answer: Measure across the top, inside edge to inside edge, not including
-      the rim. For volume, pour water into the pan by the cupful until it's
-      full to the brim, and count the cups. That number is the pan's true
-      capacity.
-  - question: "Do I need to change the oven temperature if I use a different pan size?"
-    answer: Usually, yes, if the new pan is noticeably deeper or shallower
-      than the original. A deeper pan generally needs a slightly lower
-      temperature and longer bake time. A shallower pan generally needs a
-      slightly higher temperature and shorter bake time.
-  - question: "What happens if I use a pan that's too small for the batter?"
-    answer: The batter can overflow as it rises, dripping onto the oven
-      floor and creating smoke. Batter should fill a pan no more than about
-      two-thirds full, so always check volume before pouring, not after.
-  - question: "Can I substitute a loaf pan for a round cake pan?"
-    answer: Only if the volumes are close and you're prepared to adjust bake
-      time significantly. A loaf pan concentrates the same batter into a
-      deeper, narrower shape, which usually means a longer bake at a slightly
-      lower temperature to cook through without burning the top.
-  - question: "Is it safe to guess pan substitutions, or should I always calculate?"
-    answer: A quick calculation takes less time than a ruined cake. Compare
-      volumes using the chart and method in this guide rather than guessing
-      based on how the pans look side by side, since shape affects baking
-      time even when volume matches closely.
+  - question: Can I use a 9x13 pan instead of two 9-inch round pans?
+    answer: Yes. Two 9-inch round pans hold about 16 cups combined, close enough to
+      a 9x13 pan's roughly 14 to 15 cups that the swap works well for most cake
+      recipes, though your bake time may run a few minutes longer in the single
+      rectangular pan.
+  - question: How do I know what size pan I actually have?
+    answer: Measure across the top, inside edge to inside edge, not including the
+      rim. For volume, pour water into the pan by the cupful until it's full to
+      the brim, and count the cups. That number is the pan's true capacity.
+  - question: Do I need to change the oven temperature if I use a different pan size?
+    answer: Usually, yes, if the new pan is noticeably deeper or shallower than the
+      original. A deeper pan generally needs a slightly lower temperature and
+      longer bake time. A shallower pan generally needs a slightly higher
+      temperature and shorter bake time.
+  - question: What happens if I use a pan that's too small for the batter?
+    answer: The batter can overflow as it rises, dripping onto the oven floor and
+      creating smoke. Batter should fill a pan no more than about two-thirds
+      full, so always check volume before pouring, not after.
+  - question: Can I substitute a loaf pan for a round cake pan?
+    answer: Only if the volumes are close and you're prepared to adjust bake time
+      significantly. A loaf pan concentrates the same batter into a deeper,
+      narrower shape, which usually means a longer bake at a slightly lower
+      temperature to cook through without burning the top.
+  - question: Is it safe to guess pan substitutions, or should I always calculate?
+    answer: A quick calculation takes less time than a ruined cake. Compare volumes
+      using the chart and method in this guide rather than guessing based on how
+      the pans look side by side, since shape affects baking time even when
+      volume matches closely.
 showTableOfContents: true
 source: decap
 ---
