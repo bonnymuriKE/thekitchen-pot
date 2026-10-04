@@ -5,44 +5,45 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-10-02
 modDate: 2026-10-02
 author: boniface-muriuki
-image: ""
-excerpt: If your building bans open flame, the fuel choice is already made
-  for you. If it doesn't, here's the real cost of running a gas grill versus
-  an electric one, plus which one actually makes sense for a balcony.
-description: Gas vs. electric grill running costs compared, with real wattage and propane pricing, plus which one actually fits apartment balcony rules.
-category: Gas and Charcoal Grills
+image: /images/blog/default-cover.jpg
+excerpt: If your building bans open flame, the fuel choice is already made for
+  you. If it doesn't, here's the real cost of running a gas grill versus an
+  electric one, plus which one actually makes sense for a balcony.
+description: Gas vs. electric grill running costs compared, with real wattage
+  and propane pricing, plus which one actually fits apartment balcony rules.
+category: Gas And Charcoal Grills
 tags:
   - gas vs electric grill
   - electric vs gas bbq cost
   - cheapest grill to run on a balcony
-smallSpacePillar: balcony-patio-grilling
 faq:
-  - question: "Is an electric grill cheaper to run than a gas grill?"
-    answer: Usually by a small margin, though both cost relatively little per
-      meal. A typical electric grill costs roughly 10 to 20 cents per hour to
-      run, while a gas grill's cost depends on local propane prices, but
-      generally lands in a similar range for an average grilling session.
-  - question: "Can I use a gas grill on my apartment balcony?"
-    answer: Often, but not always. Many buildings restrict gas and propane
-      grills on balconies, especially above the ground floor, due to fire
-      code restrictions on open-flame cooking in multi-unit buildings. Always
-      check your lease and local fire code before assuming it's allowed.
-  - question: "Are electric grills always allowed on apartment balconies?"
-    answer: In most cases, yes. Electric grills carry no open flame and no
-      fuel tank, which is why they're commonly the only grill type explicitly
+  - question: Is an electric grill cheaper to run than a gas grill?
+    answer: Usually by a small margin, though both cost relatively little per meal.
+      A typical electric grill costs roughly 10 to 20 cents per hour to run,
+      while a gas grill's cost depends on local propane prices, but generally
+      lands in a similar range for an average grilling session.
+  - question: Can I use a gas grill on my apartment balcony?
+    answer: Often, but not always. Many buildings restrict gas and propane grills on
+      balconies, especially above the ground floor, due to fire code
+      restrictions on open-flame cooking in multi-unit buildings. Always check
+      your lease and local fire code before assuming it's allowed.
+  - question: Are electric grills always allowed on apartment balconies?
+    answer: In most cases, yes. Electric grills carry no open flame and no fuel
+      tank, which is why they're commonly the only grill type explicitly
       permitted in buildings that restrict gas and charcoal cooking outdoors.
-  - question: "Do electric grills get hot enough to actually sear food?"
-    answer: Many electric grills can reach 500 to 650 degrees Fahrenheit,
-      which is hot enough for a real sear and genuine grill marks, though they
-      typically heat up a bit slower than a gas grill's open flame.
-  - question: "How much does it cost to run an electric grill for an hour?"
-    answer: A typical 1,500 to 1,600-watt electric grill costs roughly 15 to
-      20 cents per hour at the current U.S. average residential electricity
-      rate, though this varies by your specific model and local utility rate.
-  - question: "What's the real advantage of an electric grill besides apartment rules?"
-    answer: Consistent, even heat with no flare-ups from dripping fat, no
-      propane tank to run out mid-cook, and the ability to plug in anywhere
-      with an outlet, including places gas and charcoal simply aren't allowed.
+  - question: Do electric grills get hot enough to actually sear food?
+    answer: Many electric grills can reach 500 to 650 degrees Fahrenheit, which is
+      hot enough for a real sear and genuine grill marks, though they typically
+      heat up a bit slower than a gas grill's open flame.
+  - question: How much does it cost to run an electric grill for an hour?
+    answer: A typical 1,500 to 1,600-watt electric grill costs roughly 15 to 20
+      cents per hour at the current U.S. average residential electricity rate,
+      though this varies by your specific model and local utility rate.
+  - question: What's the real advantage of an electric grill besides apartment rules?
+    answer: Consistent, even heat with no flare-ups from dripping fat, no propane
+      tank to run out mid-cook, and the ability to plug in anywhere with an
+      outlet, including places gas and charcoal simply aren't allowed.
+smallSpacePillar: balcony-patio-grilling
 showTableOfContents: true
 source: decap
 ---
