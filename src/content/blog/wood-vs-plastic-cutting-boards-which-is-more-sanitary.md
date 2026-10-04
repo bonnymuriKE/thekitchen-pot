@@ -5,49 +5,50 @@ layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-10-04
 modDate: 2026-10-04
 author: boniface-muriuki
-image: ""
-excerpt: Plastic became the "safe" choice decades ago, but the research
-  behind that recommendation tells a more complicated story. Here's what food
-  science actually says about wood versus plastic, and a practical system
-  for using both.
-description: Wood vs. plastic cutting boards compared using real food safety research, including why wood can self-sanitize and when plastic is still the better choice.
-category: Kitchen Tools & Gadgets
+image: /images/blog/default-cover.jpg
+excerpt: Plastic became the "safe" choice decades ago, but the research behind
+  that recommendation tells a more complicated story. Here's what food science
+  actually says about wood versus plastic, and a practical system for using
+  both.
+description: Wood vs. plastic cutting boards compared using real food safety
+  research, including why wood can self-sanitize and when plastic is still the
+  better choice.
+category: Kitchenware
 tags:
   - wood vs plastic cutting board
   - which cutting board is more sanitary
   - best cutting board for raw meat
 faq:
-  - question: "Is a wood or plastic cutting board more sanitary?"
-    answer: Research from UC Davis found that bacteria applied to wood
-      surfaces died off quickly and were hard to recover, while bacteria on
-      plastic surfaces persisted and were easier to recover, even after
-      washing. Wood performed better in these specific studies, which
-      surprised many people given plastic's reputation as the safer choice.
-  - question: "Why did plastic become the recommended cutting board material?"
-    answer: The USDA recommended plastic over wood in home and commercial
-      kitchens, but UC Davis researchers later found no scientific study had
-      ever backed that recommendation. It was based on an assumption that a
-      non-porous surface must be safer, not on actual testing.
-  - question: "Do knife grooves in a cutting board harbor bacteria?"
-    answer: In plastic, yes, since grooves trap moisture and bacteria at the
-      surface where they can survive. In wood, deep knife marks behave more
-      like new wood, since the wood's structure still draws bacteria below
-      the surface where it dies off.
-  - question: "Should I use different cutting boards for meat and produce?"
-    answer: Yes, regardless of material. Food safety researchers generally
-      recommend a dedicated board for raw meat and a separate one for
-      produce, bread, and other ready-to-eat food, to avoid cross-contamination
-      no matter which material you choose.
-  - question: "Can you put a wood cutting board in the dishwasher?"
-    answer: No. The heat and prolonged water exposure cause wood to warp,
-      crack, and eventually split. Wood boards should be hand washed and
-      dried promptly, then oiled periodically to maintain the surface.
-  - question: "Do plastic cutting boards shed microplastics into food?"
-    answer: Research has found that plastic cutting boards can be a source
-      of microplastic contamination in food, particularly as knife use
-      creates grooves and wear over time. This is a newer area of research
-      and part of why the simple "plastic is safer" assumption is being
-      revisited.
+  - question: Is a wood or plastic cutting board more sanitary?
+    answer: Research from UC Davis found that bacteria applied to wood surfaces died
+      off quickly and were hard to recover, while bacteria on plastic surfaces
+      persisted and were easier to recover, even after washing. Wood performed
+      better in these specific studies, which surprised many people given
+      plastic's reputation as the safer choice.
+  - question: Why did plastic become the recommended cutting board material?
+    answer: The USDA recommended plastic over wood in home and commercial kitchens,
+      but UC Davis researchers later found no scientific study had ever backed
+      that recommendation. It was based on an assumption that a non-porous
+      surface must be safer, not on actual testing.
+  - question: Do knife grooves in a cutting board harbor bacteria?
+    answer: In plastic, yes, since grooves trap moisture and bacteria at the surface
+      where they can survive. In wood, deep knife marks behave more like new
+      wood, since the wood's structure still draws bacteria below the surface
+      where it dies off.
+  - question: Should I use different cutting boards for meat and produce?
+    answer: Yes, regardless of material. Food safety researchers generally recommend
+      a dedicated board for raw meat and a separate one for produce, bread, and
+      other ready-to-eat food, to avoid cross-contamination no matter which
+      material you choose.
+  - question: Can you put a wood cutting board in the dishwasher?
+    answer: No. The heat and prolonged water exposure cause wood to warp, crack, and
+      eventually split. Wood boards should be hand washed and dried promptly,
+      then oiled periodically to maintain the surface.
+  - question: Do plastic cutting boards shed microplastics into food?
+    answer: Research has found that plastic cutting boards can be a source of
+      microplastic contamination in food, particularly as knife use creates
+      grooves and wear over time. This is a newer area of research and part of
+      why the simple "plastic is safer" assumption is being revisited.
 showTableOfContents: true
 source: decap
 ---
@@ -127,7 +128,9 @@ A well-made option like the [John Boos Walnut Edge Grain Reversible Cutting Boar
 
 Interestingly, yes, and not entirely in the direction you might expect.
 
-Research has found that wood boards treated with linseed or mineral oil didn't absorb bacteria into the interior quite as readily as untreated wood did, at least within the first 24 hours after contamination, which left slightly more bacteria sitting at the surface during that window. This doesn't mean you should skip oiling your board, since oil is still essential for preventing the wood from drying out, cracking, and splitting over time. It does mean that regular, thorough cleaning matters just as much on an oiled board as it does on any other surface.
+Research has found that wood boards treated with linseed or mineral oil didn't absorb bacteria into the interior quite as readily as untreated wood did, at least within the first 24 hours after contamination, which left slightly more bacteria sitting at the surface during that window. 
+
+This doesn't mean you should skip oiling your board, since oil is still essential for preventing the wood from drying out, cracking, and splitting over time. It does mean that regular, thorough cleaning matters just as much on an oiled board as it does on any other surface.
 
 Oiling a wood cutting board is a close cousin of seasoning cast iron, both are about maintaining a protective layer on a porous or semi-porous surface. Our [Lodge cast iron skillet review](/blog/lodge-cast-iron-skillet-review/) covers the same maintenance mindset applied to cookware.
 
@@ -183,13 +186,17 @@ By the time the actual research caught up decades later, plastic was already the
 
 The assumption behind the old plastic recommendation isn't unique to cutting boards, and it's worth recognizing the pattern elsewhere.
 
-A similar instinct drives some of the skepticism around nonstick cookware, where a smooth, sealed coating is often assumed to be inherently cleaner or safer than an uncoated surface without much testing behind that assumption either. Our explainer on [what nonstick cookware really is](/blog/what-is-nonstick-cookware/) covers what the coating actually does and doesn't do, which is a useful parallel read if this cutting board research changed how you think about surface claims in general.
+A similar instinct drives some of the skepticism around nonstick cookware, where a smooth, sealed coating is often assumed to be inherently cleaner or safer than an uncoated surface without much testing behind that assumption either. 
+
+Our explainer on [what nonstick cookware really is](/blog/what-is-nonstick-cookware/) covers what the coating actually does and doesn't do, which is a useful parallel read if this cutting board research changed how you think about surface claims in general.
 
 ## Can a Wood Cutting Board Warp Like Cookware Does?
 
 Yes, and for a very similar reason to why pans warp on a stovetop.
 
-Uneven moisture exposure, like soaking one side of a wood board while the other stays dry, or running it through a dishwasher's intense heat cycle, causes the wood to expand and contract unevenly, leading to warping, cupping, or cracking. Our guide on [how to fix a warped pan](/blog/how-to-fix-a-warped-pan/) covers the same underlying thermal and moisture stress principle applied to metal cookware, and the prevention advice overlaps more than you'd expect: avoid extreme, uneven temperature and moisture changes, whatever the material.
+Uneven moisture exposure, like soaking one side of a wood board while the other stays dry, or running it through a dishwasher's intense heat cycle, causes the wood to expand and contract unevenly, leading to warping, cupping, or cracking. 
+
+Our guide on [how to fix a warped pan](/blog/how-to-fix-a-warped-pan/) covers the same underlying thermal and moisture stress principle applied to metal cookware, and the prevention advice overlaps more than you'd expect: avoid extreme, uneven temperature and moisture changes, whatever the material.
 
 ## Does This Apply to Bamboo Cutting Boards Too?
 
@@ -203,7 +210,9 @@ Bamboo is also more prone to splitting along its grain than true hardwoods like 
 
 A third category exists mostly outside typical home kitchens, but it's worth knowing about if you want the benefits of both materials at once.
 
-NSF-certified composite and rubber cutting boards are common in commercial kitchens specifically because they combine a dense, knife-gentle surface with a non-porous structure that holds up to repeated commercial dishwashing and sanitizing. They're generally more expensive and harder to find for home use than standard wood or plastic options, which is why they haven't become a mainstream home kitchen choice despite their advantages.
+NSF-certified composite and rubber cutting boards are common in commercial kitchens specifically because they combine a dense, knife-gentle surface with a non-porous structure that holds up to repeated commercial dishwashing and sanitizing. 
+
+They're generally more expensive and harder to find for home use than standard wood or plastic options, which is why they haven't become a mainstream home kitchen choice despite their advantages.
 
 ## Which Material Is Gentler on Your Knives?
 
@@ -246,4 +255,6 @@ Washing and drying cookware promptly after contact with raw meat matters just as
 
 ## **The Bottom Line**
 
-Plastic's reputation as the safer choice was never actually backed by research. Wood self-sanitizes in a way plastic can't. Plastic sanitizes more easily in a dishwasher. Use a dedicated board for raw meat. Use a separate one for produce and ready-to-eat food. That system matters more than which material wins on paper.
+Plastic's reputation as the safer choice was never actually backed by research. Wood self-sanitizes in a way plastic can't. 
+
+Plastic sanitizes more easily in a dishwasher. Use a dedicated board for raw meat. Use a separate one for produce and ready-to-eat food. That system matters more than which material wins on paper.
