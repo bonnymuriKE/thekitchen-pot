@@ -1,51 +1,52 @@
 ---
-title: "Why Is Your French Press Coffee Always Gritty?"
+title: Why Is Your French Press Coffee Always Gritty?
 slug: why-is-your-french-press-coffee-always-gritty
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-10-04
 modDate: 2026-10-04
 author: boniface-muriuki
-image: ""
-excerpt: You press the plunger down, pour your first cup, and there it is
-  again. That gritty sludge at the bottom. You're not doing it wrong. You're
-  just missing one or two small things, and they're easy to fix.
-description: Why French press coffee turns out gritty, and the three real fixes, from grind size to plunge technique, that actually stop it for good.
-category: Coffee & Beverage
+image: /images/blog/default-cover.jpg
+excerpt: You press the plunger down, pour your first cup, and there it is again.
+  That gritty sludge at the bottom. You're not doing it wrong. You're just
+  missing one or two small things, and they're easy to fix.
+description: Why French press coffee turns out gritty, and the three real fixes,
+  from grind size to plunge technique, that actually stop it for good.
+category: Beverages Equipment
 tags:
   - why is my french press coffee gritty
   - french press grounds in coffee
   - how to fix gritty french press coffee
 faq:
-  - question: "Why does my French press coffee always have grounds in it?"
-    answer: Almost always, your grind is too fine. A French press filter is
-      a mesh screen, not paper, so it can only catch grounds above a certain
-      size. Fine grounds, the kind a blade grinder produces, slip straight
-      through. A coarser, more even grind fixes this most of the time.
-  - question: "Is some sediment in French press coffee normal?"
-    answer: Yes. A thin layer of fine sediment at the bottom of the cup is
-      just how French press works, even with a perfect grind. What's not
-      normal is a mouthful of grit with every sip. That points to a real
-      fixable cause, not just "how French press is."
-  - question: "Does a blade grinder ruin French press coffee?"
-    answer: It makes gritty coffee far more likely. Blade grinders chop
-      beans unevenly, leaving a mix of chunks and fine dust in the same
-      batch. That dust is exactly what slips through the mesh. A burr
-      grinder produces a much more even grind and fixes this at the source.
-  - question: "Should I stir my French press before plunging?"
-    answer: Gently, yes. A light stir after the first minute of steeping
-      helps break up any dry clumps of grounds floating on top. Pressing
-      down hard and fast afterward is what stirs up sediment and pushes fine
-      grounds past the mesh, so plunge slowly instead.
-  - question: "How long should French press coffee steep?"
-    answer: About four minutes is the standard. Steeping too long doesn't
-      cause grittiness directly, but it does make coffee taste bitter and
-      muddy, which people often confuse with grittiness. Pour out the coffee
-      right after plunging instead of leaving it to sit in the press.
-  - question: "Can a worn French press filter cause grittiness?"
-    answer: Yes. The mesh screen wears down over months of use, and the
-      metal plate underneath it can warp slightly out of shape. Once it no
-      longer sits flush against the glass, grounds find their way around the
-      edges instead of through the holes.
+  - question: Why does my French press coffee always have grounds in it?
+    answer: Almost always, your grind is too fine. A French press filter is a mesh
+      screen, not paper, so it can only catch grounds above a certain size. Fine
+      grounds, the kind a blade grinder produces, slip straight through. A
+      coarser, more even grind fixes this most of the time.
+  - question: Is some sediment in French press coffee normal?
+    answer: Yes. A thin layer of fine sediment at the bottom of the cup is just how
+      French press works, even with a perfect grind. What's not normal is a
+      mouthful of grit with every sip. That points to a real fixable cause, not
+      just "how French press is."
+  - question: Does a blade grinder ruin French press coffee?
+    answer: It makes gritty coffee far more likely. Blade grinders chop beans
+      unevenly, leaving a mix of chunks and fine dust in the same batch. That
+      dust is exactly what slips through the mesh. A burr grinder produces a
+      much more even grind and fixes this at the source.
+  - question: Should I stir my French press before plunging?
+    answer: Gently, yes. A light stir after the first minute of steeping helps break
+      up any dry clumps of grounds floating on top. Pressing down hard and fast
+      afterward is what stirs up sediment and pushes fine grounds past the mesh,
+      so plunge slowly instead.
+  - question: How long should French press coffee steep?
+    answer: About four minutes is the standard. Steeping too long doesn't cause
+      grittiness directly, but it does make coffee taste bitter and muddy, which
+      people often confuse with grittiness. Pour out the coffee right after
+      plunging instead of leaving it to sit in the press.
+  - question: Can a worn French press filter cause grittiness?
+    answer: Yes. The mesh screen wears down over months of use, and the metal plate
+      underneath it can warp slightly out of shape. Once it no longer sits flush
+      against the glass, grounds find their way around the edges instead of
+      through the holes.
 showTableOfContents: true
 source: decap
 ---
