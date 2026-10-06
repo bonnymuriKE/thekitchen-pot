@@ -1,208 +1,258 @@
 ---
-excerpt: "What can I cook in an electric skillet? The answer: almost everything!
-  Explore quick, tasty recipes from stir-fries to pancakes using just one
-  electric skillet."
+excerpt: "What can you cook in an electric skillet? Breakfasts, stir-fries, steaks, one-pan pastas, braises, desserts and more, with a temperature chart, simple recipes and tips for getting the best results."
 showTableOfContents: true
 authorId: kitchenpot1
-title: What Can I Cook in an Electric Skillet? 5 Irresistible Recipes
+title: "What Can I Cook in an Electric Skillet? 25+ Ideas, Temps and Recipes"
 source: wordpress
 slug: what-can-i-cook-in-an-electric-skillet
 pubDate: 2020-09-06
-modDate: 2025-02-27
+modDate: 2026-10-06
 image: ""
 category: Cookware Equipment
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: What Can I Cook in an Electric Skillet? 5 Irresistible Recipes
+coverAlt: "A large electric skillet on a countertop with a glass lid tilted open over a chicken and vegetable stir-fry"
 tags:
   - electric-skillet
   - griddles
   - nonstick-pans
 authorImageAlt: kitchenpot1
-description: "What can I cook in an electric skillet? The answer: almost everything! Explore quick, tasty recipes from stir-fries to pancakes using just one electric skillet."
-seo: What can I cook in an electric skillet? Well, you'll realize that a skillet
-  is one of the most versatile cooking appliance in your kitchen. This article
-  gives 5 best recipes you should consider.
+description: "What can I cook in an electric skillet? Breakfast, stir-fries, steaks, one-pan pasta, braises and desserts, with a temperature chart, recipes and pro tips."
+seo: "What can I cook in an electric skillet? Breakfasts, stir-fries, steaks, pasta, braises and desserts, with a temperature chart, easy recipes and handy tips."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "What can you cook in an electric skillet?"
+    answer: "Almost anything you would cook in a frying pan or shallow pot: eggs, pancakes, bacon, burgers, chicken, stir-fries, one-pan pasta, chili, braises, rice dishes and even simple cakes."
+  - question: "Can you bake in an electric skillet?"
+    answer: "Yes, within limits. With the lid on and low heat, it can bake skillet cakes, cornbread, cobblers and biscuits. Place a rack or a few balls of foil under a pan for gentler heat."
+  - question: "Can you deep fry in an electric skillet?"
+    answer: "You can shallow fry safely. For deeper frying, use only as much oil as the manual allows, keep it well below the rim and never leave it unattended."
+  - question: "Is an electric skillet better than a frying pan?"
+    answer: "It holds a set temperature more steadily and has a bigger cooking surface, and it frees up a burner. A stovetop pan heats and cools faster and is better for hard searing."
+  - question: "Can you put an electric skillet in the dishwasher?"
+    answer: "Many can go in the dishwasher once the heat control is removed. Check your manual, and never put the heat control in water."
 ---
-An electric skillet is one of the most versatile cooking appliances you’ll ever get! If you recently acquired one, you can be sure that your cooking experience will change for the better.
+An electric skillet is a large, deep frying pan with its own heating element and thermostat. It holds a steady temperature, so it can fry, sauté, simmer, braise and even bake.
 
-So, what can I cook in an electric skillet?
+It is one of the most versatile small appliances you can own. Here is what to cook in one, at what temperature, and how to get the best results.
 
-Well, you can cook multiple dishes ranging from meat, vegetarian dishes, pasta, and many other side dishes! 
+**The short version:** An electric skillet can cook breakfast, stir-fries, burgers, chicken, one-pan pasta, chili, braises and simple desserts. Use about 300°F to 350°F for most cooking, 375°F to 400°F for searing, and 200°F to 250°F to simmer or keep food warm. A 16-inch model such as the [Presto 06852](https://www.amazon.com/Presto-06852-16-Inch-Electric-Skillet/dp/B0007XRTDG/?tag=kitchenpot-20) is big enough for a family meal.
 
-Yes, this versatile cooking appliance will help you experiment with many recipes with minimal disappointments. 
+## Why Use an Electric Skillet?
 
-This article answers the “what can I cook in an electric skillet” conclusively. You’ll get tips on how to use the skillet and various recipes you can try with the appliance.
+- **Steady temperature.** The thermostat holds the heat you set, which helps with pancakes and frying.
+- **Big cooking surface.** Many skillets are 12 to 16 inches across, larger than most stovetop pans.
+- **Frees up the stove.** Useful for holidays or when cooking several dishes.
+- **Portable.** Cook anywhere with an outlet: a dorm, an RV, a buffet table.
+- **Keep-warm setting.** Low heat keeps food ready to serve.
 
-## What is an Electric Skillet
+Kohl's lists the Presto 06852 with a 200°F to 400°F range, 1500 watts, a glass cover and a cooking surface that is dishwasher safe with the heat control removed.
 
-If you love convenience when cooking, then you should get yourself an electric skillet. This is a frying/ cooking pan that uses electricity. 
+## Electric Skillet Temperature Chart
 
-All you’ll be required to do is plug in your electric skillet into your power source and voila! You start your cooking escapades without any hassle. 
+| Food | Temperature | Notes |
+| --- | --- | --- |
+| Keeping food warm | 200°F to 225°F | Lid on |
+| Simmering sauces, chili, soups | 225°F to 275°F | Small bubbles only |
+| Eggs | 250°F to 300°F | Low and gentle |
+| Pancakes and French toast | 350°F to 375°F | Test with a drop of water |
+| Bacon | 325°F to 350°F | Start in a cool skillet |
+| Sautéing vegetables | 325°F to 350°F | Stir often |
+| Chicken pieces | 325°F to 350°F | Cook to 165°F inside |
+| Burgers and pork chops | 350°F to 375°F | Flip once |
+| Searing steak | 375°F to 400°F | Preheat fully |
+| Shallow frying | 350°F to 375°F | Follow your manual's oil limit |
 
-Unlike traditional cooking pans, you’ll not require a stovetop to accomplish your cooking task. In fact, some electric skillets come with a heating surface for guaranteed efficiency. 
+Dials vary between brands, so treat this as a starting point. A [meat thermometer](/blog/best-meat-thermometer-for-smoking/) is the best way to check doneness.
 
-## What to Consider When Buying an Electric Skillet
+## Breakfast Ideas
 
-If you’ve decided that you want an electric skillet, you should always consider a few factors to ensure that you only settle for the best.
+An electric skillet's wide surface is ideal for cooking breakfast for a crowd.
 
-**Size of your Electric Skillet** 
+- **Pancakes:** Cook six or more at once. Preheat to about 350°F to 375°F.
+- **French toast:** Even heat gives golden slices without burnt spots.
+- **Bacon:** Start in a cool skillet and set it to about 325°F to 350°F so the fat renders slowly.
+- **Scrambled eggs:** Low heat and a little butter.
+- **Fried eggs:** Cook a dozen at once. For poached eggs, see [how to use egg poachers](/blog/how-to-use-egg-poachers/).
+- **Breakfast hash:** Fry diced potatoes, onions and peppers, then add sausage and crack eggs on top. Cover until set.
+- **Breakfast tacos:** Warm tortillas and cook fillings in one pan.
 
-Your best electric skillet should always cook enough meals for your family. Luckily, there are different sizes available in the market today. 
+For pancake lovers, see also the [best griddle pan for pancakes](/blog/best-griddle-pan-for-pancakes/).
 
-**Added Features**
+## Main Dish Ideas
 
-Some skillets will offer additional features that will make cooking easier and more fulfilling. The features may include automated temperature control features and timers. 
+### Stir-Fries
 
-If you’d love to have easy control of your cooking escapades, then you can settle for automated electric skillets. They feature simple one-touch buttons and easy-to-read timers, which will eliminate any worries of overcooking. 
+Heat the skillet to 375°F to 400°F. Cook the meat first, set it aside, then stir-fry vegetables and add a sauce. The large surface stops food from steaming.
 
-**Material of Construction**
+For a classic wok option, see the [best wok for an electric stove](/blog/best-wok-for-electric-stove/).
 
-Electric skillets are available in different materials. The one you choose depends on your needs and preferences. Here are the most common materials used in electric skillet construction:
+### Chicken
 
-* **Cast Iron Electric Skillets.** These are some of the most inexpensive and efficient electric skillets in the market. If you fail to pre-season them well, they can be relatively hard to maintain. Fortunately, some of the most common brands such as the [Lodge Seasoned Cast Iron Skillet](https://www.amazon.com/Lodge-Seasoned-Cast-Iron-Skillet/dp/B00006JSUB/?tag=kitchenpot-20) are pres-seasoned, thus making your maintenance work easier. Additionally, [these skillets](https://www.amazon.com/Presto-06852-16-Inch-Electric-Skillet/dp/B0007XRTDG/?tag=kitchenpot-20) have a natural non-stick coating. 
-* **Aluminum Electric Skillets.** Aluminum is one of the most widely used materials for skillet construction. A majority of [these skillets](https://www.amazon.com/Professional-Aluminum-Non-stick-Electric-Skillet/dp/B07B7JFCPX/?tag=kitchenpot-20) are also covered using a non-stick coating (usually Teflon or ceramic). If you buy one with Teflon coating, you should be careful not to use a metal spatula lest you remove the coating. Also, you should never use the pan with temperatures exceeding 400 degrees Fahrenheit. 
-* **Nonstick Stainless Steel Skillets.** Stainless steel skillet with non-stick coating requires optimum care to ensure that you avoid wearing off of the coating. Unless following the manufacturer’s advice, you should avoid using a dishwasher. Additionally, avoid using temperatures exceeding 400 F.
-* **Ceramic Electric Skillets.** [These skillets](https://www.amazon.com/Presto-06856-Electric-Skillet-CERAMIC/dp/B01GD1JSZM/?tag=kitchenpot-20) are warp-proof and offer exciting cooking experiences. It has nonstick surfaces to ensure that you cook your food without the stress of food sticking on the surface. 
-* **[Copper Electric Skillets](https://www.amazon.com/s?k=copper+electric+skillet&tag=kitchenpot-20)**.These skillets heat fast and evenly. However, they equally lose heat fast! As such, the appliances are highly useful when cooking food that doesn’t require long consistent heating, such as seafood and other delicate protein sources.
+Chicken thighs, breasts and tenders cook well at about 325°F to 350°F. Brown them, then add a splash of stock, cover and let them finish cooking. Cook to 165°F inside.
 
-Whichever electric skillet you select, ensure that it has a warranty. Additionally, it has a detailed user instructions book. You should follow all the recommendations to the letter. 
+Not sure how much to buy? See [how much a chicken breast weighs](/blog/how-much-does-a-chicken-breast-weigh/).
 
-## Electric Skillet Recipes
+### Burgers and Steaks
 
-Like earlier indicated, electric skillets are versatile and you can cook virtually anything with them. This section gives a few recipes to consider:
+Burgers cook evenly at about 350°F to 375°F. For steak, preheat to 400°F and pat the meat dry. Electric skillets do not get as hot as cast iron, so for a deep crust, a [cast iron skillet](/blog/lodge-cast-iron-skillet-review/) on the stove is still better.
 
-### **Top 5 Electric Skillet Recipes to Try**
+### Pork Chops
 
-**Electric Skillets Appetizers Recipes**
+Sear the chops, then lower the heat and cover to finish. Add sliced apples and onions for a one-pan dinner.
 
-Before you start enjoying your main dish, you can prepare a few side dishes and appetizers using your best electric skillet. Here are several of the appetizer recipes to consider.
+### Fish
 
-1. **Crimini Mushrooms** 
+Cook fillets at about 325°F to 350°F in a little butter or oil. Flip once. For delicate whole fish, a [fish poacher](/blog/best-fish-poacher/) is gentler.
 
-This is a unique side dish meal that combines mushrooms, soy sauce, and chicken broth. Its composition ensures that you don’t get too full but rather boost your appetite.
+### Sausages
 
-**What you Need** 
+Brown sausages, then add a little water and cover to cook through. Add peppers and onions for sausage and peppers. For an oven method, see [how to cook sausages in the oven](/blog/how-to-cook-sausages-in-the-oven/).
 
-* Crimini mushrooms
-* 1 tablespoon butter
-* Approximately 1 cup of chicken broth
-* 1 tablespoon of soy sauce
+## One-Pan Meals
 
-**Cooking Procedure**
+The deep sides and lid make an electric skillet ideal for one-pan cooking.
 
-* Clean your mushroom using a damp sponge (preferred method). Alternatively, you can wash them using clean water 
-* Slice the crimini mushrooms into 4 pieces 
-* Add your butter to your electric skillet and let it melt on medium heat 
-* Add you mushrooms and saute them for approximately 10 minutes while stirring regularly 
-* Add you chicken broth and soy sauce and stir
-* Cook for 10 more minutes
-* Serve while hot
+- **One-pan pasta:** Add dry pasta, broth, tomatoes and seasoning. Simmer with the lid on until the pasta is tender.
+- **Skillet lasagna:** Layer broken noodles, sauce, meat and cheese, then cover and simmer.
+- **Chili:** Brown the meat, add beans, tomatoes and spices, and simmer for an hour.
+- **Fried rice:** Use cold, cooked rice for the best texture. Here is [how to cook rice in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/).
+- **Jambalaya or paella-style rice:** Toast the rice, add stock and simmer covered.
+- **Fajitas:** Sizzle sliced chicken or beef with peppers and onions.
+- **Curry:** Simmer meat or vegetables in sauce on low heat.
 
-This menu is enough to serve 4 people. 
+## Braising and Slow Cooking
 
-**2. Chicken Fajitas with Creamy Vegetables**
+An electric skillet can braise like a Dutch oven on low heat.
 
-This recipe requires approximately 50 minutes. The ingredients below are ideal for cooking a meal for six. 
+- **Pot roast:** Brown a small roast, add stock and vegetables, then cover and simmer at about 225°F to 250°F for 2 to 3 hours.
+- **Short ribs:** Brown, add liquid and braise until tender.
+- **Swiss steak:** Brown round steak, add tomatoes and onions, and simmer.
+- **Pulled chicken:** Simmer chicken thighs in barbecue sauce, then shred.
 
-**What You Need** 
+Check the liquid level often, and top up if needed.
 
-* 1 tablespoon of olive oil
-* 2 tablespoons of cumin
-* 3 limes (for lime juice)
-* Crushed Red Pepper (use [pepper millers](https://thekitchenpot.com/blog/best-pepper-mill/))
-* Approximately 1 pound of chicken breasts 
-* An onion 
+## Sides and Snacks
 
-**Cooking Procedure**
+- **Grilled cheese and quesadillas:** Cook several at once.
+- **Roasted vegetables:** Sauté with the lid off for browning.
+- **Fried potatoes:** Slice thin and fry until golden. See [how long potatoes last](/blog/how-long-do-potatoes-last/) for storage.
+- **Corn on the cob:** Simmer in a little water with the lid on.
+- **Popcorn:** Use the lid and shake the skillet carefully.
+- **Reheated pizza:** Covered, on low, for a crisp base. See [how to reheat pizza](/blog/how-to-reheat-pizza/).
 
-* Mix the olive oil, cumin, lime juice, and paper in a bowl
-* Season your chicken breast with salt and pepper. Add it to the bowl
-* Refrigerate it for 1 hour
-* Heat your oil in an electric skillet and add your chicken
-* Stir it slowly until ready. Serve while hot 
+## Desserts and Baking
 
-3. **Steak and Potato Toast** 
+With the lid on, an electric skillet works as a small oven.
 
-**What you Need**
+- **Skillet cake:** Pour batter into the greased skillet, cover and cook on low until set.
+- **Cobbler:** Simmer fruit, add biscuit dough on top, then cover until cooked.
+- **Cornbread:** Bake covered on low heat.
+- **Upside-down cake:** Melt butter and sugar, add fruit and pour batter on top.
+- **Cinnamon rolls:** Bake canned rolls covered on low.
+- **Bananas Foster:** Cook bananas in butter, brown sugar and cinnamon.
 
-* Boneless beef steak
-* Freshly ground pepper
-* 1/2 cup of sour cream
-* Freshly grated horseradish 
-* 20 ml (2 tablespoons) of white/red wine
-* Olive oil
-* 1 pound thinly sliced potatoes 
-* Parsley leaves 
+Keep the lid closed and the heat low for even baking. If you bake often, see the [best small ovens and toaster ovens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/).
 
-**Cooking Procedure**
+## Easy Recipe: Chicken and Vegetable Stir-Fry
 
-* To season your steak, add salt and pepper in a bowl. Mix the spices and add vinegar. Mix the meat and let it sit for some time. 
-* In your electric skillet, add 1 tablespoon of olive oil and let it heat over medium to high heat
-* Add your steak and let it cook for 15 minutes 
+**Serves 4**
 
-To cook your potatoes, you should follow the following steps:
+- 1 lb boneless chicken breast or thighs, thinly sliced
+- 1 tablespoon cornstarch
+- 2 tablespoons oil
+- 4 cups mixed vegetables (peppers, broccoli, snap peas, carrots)
+- 3 cloves garlic, minced
+- 1 tablespoon grated ginger
+- 1/4 cup soy sauce
+- 2 tablespoons honey
+- 1 tablespoon rice vinegar
 
-* In a clean skillet, add 2 teaspoons of olive oil and heat over medium heat
-* Add your potatoes and let them cook until they are tender and brown
-* Season the potatoes with black pepper and salt to your liking. Top them with cream mixed with parsley/rosemary herbs
+1. Toss the chicken with the cornstarch.
+2. Heat the skillet to 375°F. Add 1 tablespoon of oil and cook the chicken until browned and cooked through. Remove it.
+3. Add the rest of the oil and the vegetables. Stir-fry for 3 to 4 minutes.
+4. Add the garlic and ginger and cook for 30 seconds.
+5. Mix the soy sauce, honey and vinegar, and add it with the chicken.
+6. Toss until glossy. Serve over rice.
 
-4. **Appetizer Meatballs -Sweet and Sour**
+No cornstarch? See [what to use instead of cornstarch](/blog/what-to-use-instead-of-cornstarch/).
 
-Meatballs offer one of the most versatile side dishes ever. The versatility allows you to make them sour or sweet to suit your desires. 
+## Easy Recipe: One-Pan Tomato Pasta
 
-Even better, cooking meatballs requires a few ingredients and has a straightforward cooking process.
+This is one of the easiest meals to make in an electric skillet. The pasta cooks right in the sauce, so there is no pot of water to drain.
 
-**What You Need**
+Start by softening a chopped onion and two cloves of garlic in a tablespoon of olive oil at about 300°F. Then add 12 oz of short dry pasta, such as penne or rotini, a 28-oz can of crushed tomatoes and about 3 cups of broth. Season with salt, pepper and a teaspoon of dried basil or oregano.
 
-* 2 eggs
-* Lean minced beef 
-* Spices (garlic, lemon juice, chili sauce, and pepper)
-* Salt
-* Bread crumbs
+Bring it to a simmer, then turn the dial down to about 250°F and put the lid on. Stir every few minutes so the pasta does not stick. After 12 to 15 minutes, the pasta should be tender and the sauce thick.
 
-**Cooking Procedure**
+Stir in a handful of spinach and a little grated Parmesan before serving. If the sauce gets too thick before the pasta is cooked, add a splash more broth.
 
-* Mix all the ingredients and form them into balls of your ideal size
-* Place some butter in your electric skillet and let it simmer in low heat until fully melted 
-* Place the balls in the electric skillet and let it simmer for approximately 30 minutes
-* Once they’ve browned, remove them from the electric skillet and serve
+## How to Choose an Electric Skillet
 
-5. **Electric Skillet Steak and Mushroom** 
+If you are shopping for one, these features matter most.
 
-This is a unique meal that requires you to have an oven-safe skillet. It produces an unforgettable taste that’ll leave you tantalized. 
+**Size.** A 12-inch skillet suits one or two people. A 16-inch skillet feeds a family and fits a whole batch of pancakes. Rectangular skillets offer more usable space than round ones.
 
-**What You Need** 
+**Depth.** Deeper sides, around 2 to 3 inches, handle one-pan pasta, chili and braises without spilling.
 
-* 10 ounces of boneless beef 
-* 5 ounces of broccoli rabe 
-* Frozen peas
-* Fresh mushrooms
-* 2 tablespoons of canola oil
-* 2 tablespoons of cornstarch
-* Salt and 1 tablespoon of mustard 
-* I cup of beef broth
+**Coating.** Most electric skillets are nonstick. Ceramic coatings avoid PTFE, while traditional nonstick tends to last longer. Stainless steel skillets brown better but need more oil.
 
-**Cooking Procedure** 
+**Temperature range.** Look for a range from about 200°F up to 400°F or more, so the skillet can both keep food warm and sear.
 
-* Cut the beef into sizable pieces (preferably 1 inch thick) and season it with your spices
-* Preheat your oven to approximately 350 degrees Fahrenheit and cut your mushrooms into large pieces
-* Set you skillet temperature to Medium-High and heat your oil
-* Add your beef and broccoli rabe and cook for approximately 4 minutes 
-* Place your frozen peas around the meat and place your skillet in the oven. Cook the meat until it browns 
-* Remove it from the oven and add your mushrooms. Cook it using electricity for approximately 5 minutes 
-* In a glass dish, mix the mustard, beef broth, salt, and cornstarch. Add the mixture to the skillet and cook until you achieve a thick broth.
-* Serve with veggies
+**Lid.** A glass lid lets you watch food without lifting it. A steam vent helps food stay crisp.
 
-Whenever you’re cooking your meals, you should feel free to use your ideal spices. Also, ensure that you only add spices to your liking but follow the cooking procedure provided.
+**Cleaning.** A removable heat control makes the pan easy to wash, and many are dishwasher safe once it is removed.
 
-## What Can I Cook in an Electric Skillet – the Bottom Line
+## Common Mistakes to Avoid
 
-If you’re wondering what to cook in your electric skillet, then this article is for you. We have compiled the top 5 recipes that will leave your guests mesmerized at your cooking expertise. 
+The most common mistake is not preheating long enough. Food added to a cool skillet sticks and cooks unevenly, so wait for the indicator light.
 
-If you’ve recently bought an electric skillet and the question “what can I cook in an electric skillet” keeps lingering in your mind, then you’re sorted!
+Another is using metal utensils, which scratch nonstick coatings over time. Pouring cold water into a hot skillet is also risky, as the sudden change can warp the pan.
 
-Even better, this article highlights several materials that can be used in the construction of electric skillets. The guide comes in handy to ensure that you have an easy time when shopping for the best electric skillet.
+Finally, many people forget that the dial is not perfectly accurate. If food browns too fast, turn it down 25 degrees, and keep notes on what works for your skillet.
 
-We implore you to read through the recipes and implement them. Your cooking will be better than it has ever been! Whether it is the main meal, breakfast, or side dishes, you won’t go wrong with these recipes.
+## Safety Tips
+
+Place the skillet on a flat, heat-safe surface with space around it. Keep the cord away from the counter edge so no one can pull it down.
+
+Never immerse the heat control in water. Unplug the skillet before cleaning, and let it cool fully first. When shallow frying, keep the oil well below the rim and never leave the skillet unattended.
+
+## Tips for Cooking in an Electric Skillet
+
+- **Preheat fully.** Wait for the indicator light to go off before adding food.
+- **Do not overcrowd.** Food steams instead of browning.
+- **Use the lid wisely.** On for simmering, baking and melting cheese. Off for browning and crisping.
+- **Use soft utensils.** Wood, silicone or nylon protect the nonstick coating. Learn more in [what is nonstick cookware](/blog/what-is-nonstick-cookware/).
+- **Skip cooking spray.** It can build a sticky film on nonstick coatings.
+- **Use the vent.** Many lids have a steam vent; open it for crispier food.
+
+## How to Clean an Electric Skillet
+
+1. Unplug the skillet and let it cool completely.
+2. Remove the heat control. Never put it in water.
+3. Wash the skillet in warm, soapy water, or in the dishwasher if the manual allows.
+4. For stuck food, soak with warm water and a little dish soap.
+5. Dry the probe socket fully before using the skillet again.
+
+Our guide on [how to clean an electric griddle](/blog/how-to-clean-electric-griddle/) covers similar steps.
+
+## Electric Skillet vs Stovetop Pan
+
+An electric skillet is better for steady heat, big batches and cooking away from the stove. A stovetop pan is better for fast heat changes and hard searing.
+
+For stovetop choices, see the [best saute pan](/blog/best-saute-pan/), the [best nonstick pans](/blog/best-nonstick-pans-with-buying-guide/) and the [difference between a skillet and a frying pan](/blog/difference-between-skillet-and-frying-pan/).
+
+## Electric Skillets in Small Kitchens
+
+An electric skillet can replace a stovetop in a dorm, studio or RV. It also adds a second "burner" when cooking for a group.
+
+See the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) and [easy meal prep ideas for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/). To store it, try ideas from [how to store pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/).
+
+## Related Guides
+
+- [What Can You Cook in a Roaster Oven](/blog/what-can-you-cook-in-a-roaster-oven/)
+- [Best Pepper Mill](/blog/best-pepper-mill/)
+- [How to Use a NuWave Oven](/blog/how-to-use-a-nuwave-oven/)
+- [Best Camping Cookware](/blog/best-camping-cookware/)
+- [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
+- [Most Energy-Efficient Small Kitchen Appliances](/blog/most-energy-efficient-small-kitchen-appliances/)

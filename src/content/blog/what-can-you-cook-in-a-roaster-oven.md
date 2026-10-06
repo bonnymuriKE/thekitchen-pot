@@ -1,125 +1,228 @@
 ---
-excerpt: What can you cook in a roaster oven? Way more than turkey. Think
-  casseroles, chili, lasagna, or cake. You can also use it to roast, bake, or
-  slow cook food like a pro!
+excerpt: "What can you cook in a roaster oven? Turkey and ham, plus roasts, casseroles, chili, soups, baked potatoes, bread, cakes and party food, with a temperature and time chart and tips for each."
 showTableOfContents: true
 authorId: kitchenpot1
-title: What Can You Cook In a Roaster Oven? 9 Incredible Foods
+title: "What Can You Cook in a Roaster Oven? 25+ Ideas Beyond Turkey"
 source: wordpress
 slug: what-can-you-cook-in-a-roaster-oven
 pubDate: 2020-05-25
-modDate: 2025-01-23
+modDate: 2026-10-06
 image: ""
 category: How To Guides
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: What Can You Cook In a Roaster Oven? 9 Incredible Foods
+coverAlt: "An electric roaster oven with the lid off, showing a golden roast turkey on a rack, next to trays of side dishes"
 tags:
   - cook-turkey
   - roaster-oven
   - what-to-cook-in-roaster-oven
 authorImageAlt: kitchenpot1
-description: "What can you cook in a roaster oven? Way more than turkey. Think casseroles, chili, lasagna, or cake. You can also use it to roast, bake, or slow cook food like a pro!"
-seo: What can you cook in a roaster oven? Well, as celebrations nigh, you're
-  likely to wish your electric roaster oven away, right? Not so fast! This is
-  how you can utilize it.
+description: "What can you cook in a roaster oven? Turkey, ham, roasts, casseroles, chili, soups, potatoes, bread and cakes, with a time and temperature chart, and tips."
+seo: "What can you cook in a roaster oven? Turkey, ham, roasts, casseroles, chili, soups, potatoes, bread and cakes, with a time and temperature chart and tips."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "What can you cook in a roaster oven besides turkey?"
+    answer: "Ham, beef and pork roasts, whole chickens, casseroles, lasagna, chili, soups, baked potatoes, corn on the cob, meatballs, bread, cakes and cobblers all work well."
+  - question: "Do you put water in the bottom of a roaster oven?"
+    answer: "Not usually. Food goes in the removable insert pan, and the heating element is in the outer body. Some recipes add liquid to the insert pan for moisture. Check your manual, as a few models differ."
+  - question: "Does a roaster oven cook faster than a regular oven?"
+    answer: "Often a little faster, because the space is smaller and the lid traps heat. Start checking the internal temperature earlier than an oven recipe suggests."
+  - question: "Can you bake a cake in a roaster oven?"
+    answer: "Yes. Put the cake pan on the rack inside the insert so it is not touching the bottom, then bake with the lid on. Keep the lid closed and check with a toothpick."
+  - question: "Can you use a roaster oven as a slow cooker?"
+    answer: "Yes. Set it to a low temperature, around 200°F to 250°F, and cook with the lid on. Its large size suits big batches of chili, stew or pulled pork."
 ---
-In the United States, the quintessential Thanksgiving dinner often revolves around a perfectly roasted turkey, making a **[roaster oven](https://www.amazon.com/Hamilton-Beach-22-Quart-Self-Basting-Stainless/dp/B01N0GN7N4/?tag=kitchenpot-20)** a staple in many households. This kitchen appliance is a hero during the holiday season.
+A roaster oven is a big electric pot with a lid that works like a small oven on your counter. Most people buy one for a holiday turkey, but it can do far more.
 
-However, most of us are unaware of other uses of **[Roaster Oven](https://www.amazon.com/RoyalCraft-18-Quart-Electric-Roaster-Oven/dp/B0CKMTYT88/?tag=kitchenpot-20)**. Is it only useful for cooking Turkey and other large roasts? Or can you use it to cook other mouthwatering delicacies?
+It roasts, bakes, slow cooks, steams and keeps food warm for a crowd. Here is what you can cook in one, with times, temperatures and tips.
 
-While we largely associate it solely with cooking large roasts, it turns out that its capabilities extend far beyond that.
+**The short version:** A roaster oven can cook turkey, ham, roasts, chicken, casseroles, lasagna, chili, soups, baked potatoes, corn, meatballs, bread and cakes. Use about 325°F to 350°F for roasting and baking and 200°F to 250°F for slow cooking. Keep the lid on and cook to internal temperature. A large roaster such as this [Sunvivi roaster oven](https://www.amazon.com/Sunvivi-Roaster-Oven-Electric-Removable/dp/B0BCPW5W9H/?tag=kitchenpot-20) can free your main oven during the holidays.
 
-In this article, I explore the untapped potential of this **[kitchen appliance](https://www.amazon.com/Electric-Roaster-Turkey-Viewing-Stainless/dp/B0BHW8MV6P/?tag=kitchenpot-20)**, sharing my surprising culinary adventures. Join me as I unveil the unexpected and delightful dishes that you can cook using this often underestimated appliance!
+## How a Roaster Oven Works
 
-## **What is a Roaster Oven?**
+A roaster oven has three main parts: an outer body with a heating element, a removable insert pan and a lid. Most also come with a lift-out rack.
 
-A roaster oven is a compact, standalone oven that excels at roasting and baking, with a design optimized for even heat distribution. What distinguishes it from **[conventional ovens](https://thekitchenpot.com/blog/instant-pot-vs-ninja-foodi/)** is its unique shape – typically oval or rectangular, featuring a lid that traps heat efficiently.
+The element heats the air around the insert, and the lid traps heat and moisture. That makes it cook a lot like a regular oven, but in a smaller space.
 
-This design is especially advantageous when cooking large cuts of meat, like the iconic Thanksgiving turkey, as it allows for consistent and thorough cooking. Besides, it has a highly responsive temperature control, often ranging from low to high (up to 450 degrees) settings, making it incredibly adaptable for various cooking techniques.
+Sizes usually run from about 18 to 26 quarts. Hamilton Beach lists its current 22-quart model with a 125°F to 450°F range and says it doubles your oven space. Its older 22-quart stainless model, which fit a 28-pound turkey, is now listed as no longer available.
 
-Beyond roasting, it can effortlessly handle baking, slow cooking, and even serving as a buffet warmer. This multifunctionality makes it an indispensable appliance for both seasoned cooks and kitchen novices alike.
+## Roaster Oven Time and Temperature Chart
 
-Equipped with a removable **[cooking pan](https://thekitchenpot.com/blog/best-saute-pan/)**, the roaster oven simplifies cleanup, and its portable nature ensures versatility in placement within the kitchen.
+| Food | Temperature | Approx. Time | Done When |
+| --- | --- | --- | --- |
+| Whole turkey (14 to 18 lb) | 325°F to 350°F | About 3 to 4 hours | 165°F in thigh and breast |
+| Bone-in ham (precooked) | 325°F | About 10 to 15 min per lb | 140°F |
+| Beef roast | 325°F to 350°F | About 20 to 25 min per lb | 135°F medium-rare |
+| Pork shoulder | 250°F to 300°F | 5 to 7 hours | 195°F to 205°F for pulling |
+| Whole chicken | 350°F | About 1.5 hours | 165°F |
+| Baked potatoes | 400°F | About 1 hour | Soft when pierced |
+| Lasagna or casseroles | 350°F | About 1 to 1.5 hours | Bubbling and hot |
+| Chili or soup | 225°F to 300°F | 1 to 4 hours | Hot throughout |
+| Cake (in a pan) | 325°F to 350°F | 35 to 60 minutes | Toothpick comes out clean |
 
-Whether you’re hosting a festive feast, experimenting with new recipes, or simply seeking a reliable tool for everyday cooking, a roaster oven proves to be an invaluable asset, promising delicious results and a seamless culinary experience. In essence, it’s not merely an appliance; it’s a culinary companion that unlocks a world of cooking possibilities.
+These are only guides. Roasters vary, and a [meat thermometer](/blog/best-meat-thermometer-for-smoking/) is the best way to know when meat is done.
 
-## **What Can You Cook in a Roaster Oven? 9 Best Foods**
+## Holiday Roasts
 
-**1. Turkey or Roast**
+### Turkey
 
-What can you cook in a roaster oven? Well, a majority of people will provide turkey as the straightforward answer to the question. It’s a popular delicacy that’s ideally prepared using a roaster oven.
+Turkey is the classic use. A roaster frees your oven for sides and keeps the bird moist.
 
-When roasting a Turkey, remove the rack from the **[roaster oven](https://www.amazon.com/Sunvivi-Roaster-Oven-Electric-Removable/dp/B0BCPW5W9H/?tag=kitchenpot-20)** then pour about ½ cup of water inside the **[baking pan](https://thekitchenpot.com/blog/best-griddle-pan-for-pancakes/)**. The water creates some form of condensation that keeps your meat moist during the cooking process.
+1. Thaw and dry the turkey, then season it.
+2. Place it on the rack in the insert pan, breast side up.
+3. Cook at 325°F to 350°F with the lid on.
+4. Avoid lifting the lid, as heat escapes fast.
+5. Check that the thickest part of the thigh and breast reach 165°F.
+6. Rest for 20 to 30 minutes before carving.
 
-Replace the rack then place the cover on the roaster. Having done that, plug-in the oven then preheat it for about 20-25 minutes to ready it for baking the process. 15-lb Turkey or beef roast requires a baking temperature of 325 to 350 degrees Fahrenheit.
+Roaster ovens brown less than a regular oven. For crisper skin, brush the turkey with butter and leave the lid off for the last 30 minutes, or turn the heat up briefly.
 
-Serve your meal while still hot.
+### Ham
 
-**2. Cookies** 
+A precooked ham reheats perfectly in a roaster. Add a cup of water or juice to the pan, cover and heat at 325°F. Brush on glaze for the last 30 minutes.
 
-Begin by powering on the roaster oven. Put on a lid then preheat the machine up to the recommended temperature. After you are done with preheating, remove the lid then cover the rack using a foil.
+### Beef and Pork Roasts
 
-After preheating, remove the lid and line the rack with foil. Replace the lid then continue **[baking](https://thekitchenpot.com/blog/best-panini-press-for-home-use/)** your cookies for the recommended time. Move your cookies to a separate plate immediately after baking.
+Brown roasts in a skillet first for more flavor, then finish in the roaster. Add onions, carrots and potatoes around the meat for a one-pot meal. A [meat slicer](/blog/best-meat-slicer-for-home-use/) helps with thin, even slices.
 
-**3. Baking Bread**
+### Whole Chickens
 
-When baking bread in a roaster **[oven](https://thekitchenpot.com/blog/milo-dutch-oven-review/)**, use a loaf pan. Pour the dough on a loaf pan then place it on the rack after you preheat the oven. Replace the lid then bake using the recommended time.
+Roast two or three chickens at once for a crowd. Place them on the rack so they are not touching.
 
-Place the baked bread on a stovetop or a rivet after you are through with baking.
+## Slow Cooking and Big Batches
 
-**4. Delicious Ham** 
+A roaster works like a giant slow cooker. It is ideal for parties, church suppers and meal prep.
 
-When **[preparing meat](https://thekitchenpot.com/blog/how-to-cook-sausages-in-the-oven/)** like Easter ham, it’s vital to use an oven rack that accompanies the roaster. The rack is stainless steel and helps in keeping off the ham away from the bottom side of the portable roaster oven.
+- **Chili:** Brown meat first, then add beans, tomatoes and spices. Simmer for a few hours.
+- **Pulled pork:** Cook a pork shoulder low and slow, then shred.
+- **Beef stew:** Simmer chunks of beef with root vegetables.
+- **Soups:** Chicken noodle, vegetable or potato soup for a crowd.
+- **Meatballs:** Keep cooked meatballs warm in sauce for hours.
+- **Sloppy joes and barbecue beef:** Easy to keep warm for a buffet.
 
-Switch on the electric roaster oven up to 325°F then add some liquid such as broth or water on the lower side of the **[roaster oven](https://www.amazon.com/Sunvivi-Roaster-Oven-Electric-Removable/dp/B0BCPW5W9H/?tag=kitchenpot-20)**. After that, put the ham on the rack. And with that done, season the ham using your best seasonings such as garlic powder, pepper, and onion powder.
+For smaller batches, an electric pressure cooker is quicker; see [what is an Instant Pot](/blog/what-is-an-instant-pot/) and [Instant Pot vs Ninja Foodi](/blog/instant-pot-vs-ninja-foodi/).
 
-**5. Seaming Vegetables** 
+## Casseroles and Pasta Bakes
 
-Do you want large quantities of perfectly steamed broccoli, carrots, and cauliflower? If yes, then a roaster oven does the task perfectly. 
+- **Lasagna:** Assemble it right in the insert or in a pan that fits on the rack.
+- **Macaroni and cheese:** Bake in a pan or make a big batch in the insert.
+- **Scalloped potatoes:** Layer sliced potatoes with cream and cheese.
+- **Green bean casserole:** Perfect on holidays when the oven is full.
+- **Breakfast casserole:** Eggs, bread, sausage and cheese, baked for a group.
 
-Just add some boiling water on the roaster pan to prevent scorching, then place your veggies inside a colander or cooking well. Ensure you spread them out in an even layer on the rack then let them steam for some time until they achieve the desired doneness.
+Using a pan on the rack gives gentler, more even heat than cooking directly in the insert. See our [best bakeware sets](/blog/best-bakeware-sets/) for pans that fit.
 
-**6. Harvest Apple cake** 
+## Vegetables and Sides
 
-An apple cake is a famous dessert baked with apples being the chief ingredient. It’s made through slicing apple fruit to add taste to the plain cake base. It’s nice for autumn and the dessert stays moist and nice when cooked using a roaster oven.
+- **Baked potatoes:** Wrap them in foil or bake them unwrapped on the rack. A roaster holds a lot of potatoes at once.
+- **Sweet potatoes:** Bake whole until soft.
+- **Corn on the cob:** Add an inch of water, then cover and cook until tender. For the grill, see [how to grill corn on the cob](/blog/how-to-grill-corn-on-the-cob/).
+- **Roasted vegetables:** Toss in oil and spread out in the insert.
+- **Stuffing:** Bake it in a pan on the rack.
+- **Rice:** Bake rice with broth in a covered pan. Or see [how to cook rice in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/).
 
-Preheat your roaster **[oven](https://thekitchenpot.com/blog/how-to-use-a-nuwave-oven/)** up to 350°F. Add all the ingredients needed to make a harvest apple cake then mix. Stir in apples and pecans then add into the prepared pan.
+Peeling lots of potatoes is easier with an [electric potato peeler](/blog/best-electric-potato-peeler/). Store extras well; here is [how long potatoes last](/blog/how-long-do-potatoes-last/).
 
-Add the contents on a roaster **[oven](https://thekitchenpot.com/blog/best-fish-poacher/)** then bake for 70 minutes
+## Baking in a Roaster Oven
 
-**7. Seasoned Rice**
+You can bake many oven recipes in a roaster with a little care.
 
-You cook fluffy or large batches of rice even though you lack a [rice cooker](https://thekitchenpot.com/blog/best-rice-cookers-for-brown-rice/). Just place it in the roaster oven using a broth, water, and butter. Take away the insert pan and the rack from the roaster oven as they are not needed while cooking seasoned rice.
+- **Cakes:** Place a cake pan on the rack and keep the lid closed.
+- **Bread:** Bake loaves in loaf pans on the rack. For shaping, see the [best bread proofing baskets](/blog/best-bread-proofing-basket-reviews/).
+- **Cobblers and crisps:** Bake fruit desserts for a crowd.
+- **Brownies and bars:** Bake in a square pan on the rack.
+- **Cornbread:** A good side for chili.
 
-With that, replace the cover on your roaster then heat it to 375°F. Add your ingredients then stir to mix then bake your rice for 1 1/2 hours.
+Baked goods brown less on top than in a regular oven. That is normal.
 
-**8. Party Meatballs**
+## Seafood and Steaming
 
-Amazingly simple to make using a roaster **[oven](https://thekitchenpot.com/blog/nuwave-oven-vs-air-fryers/)**. This great party appetizer can serve a great crowd. Heat your roaster oven to 250°F.
+- **Shrimp and crab boil:** Fill the insert with water, potatoes, corn and sausage, then add seafood at the end.
+- **Lobster or crab legs:** Steam them with an inch of water on the rack.
+- **Fish fillets:** Bake on a lined pan with butter and herbs.
 
-Allow the meatballs thaw in a refrigerator overnight then after that, add them inside an insert pan. Using a mixing bowl, beat all the sauces and jellies together then add the meatballs. Cover and bake them until heated through.
+For whole fish, a [fish poacher](/blog/best-fish-poacher/) is another option.
 
-**9. Oven Roasted Beef**
+## Keeping Food Warm
 
-Roasted beef is the epitome of easy, delicious, and quick cooking. Heat your roaster oven to 250°F then add the ingredients. Using a medium bowl, whisk water and soup together and a seasoning packet. Add the vegetables and beef.
+A roaster's low setting makes it a great buffet warmer. Keep mashed potatoes, gravy, meatballs, pulled pork or dinner rolls warm for hours. Keep hot food at 140°F or above for food safety. Add a splash of broth or water to dishes like mashed potatoes and pulled pork so they do not dry out over a long party.
 
-Cover the mixture then roast for 3 hours until the meat is tender.
+## Easy Recipe: Roaster Oven Pulled Pork
 
-## **Features of a Roaster Oven** 
+Pulled pork is one of the best reasons to own a roaster oven. It feeds a crowd and needs almost no attention.
 
-What can you cook in a roaster oven? Well, for a roaster oven to cook a range of dishes in your kitchen, it must have the following features:
+Start with an 8 to 10 lb bone-in pork shoulder. Rub it all over with a mix of brown sugar, paprika, garlic powder, salt and pepper. If you have time, wrap it and leave it in the fridge overnight.
 
-1. **Self-basting lid.** This is an essential feature as it helps in boosting the juiciness of the roasted meat, thus guaranteeing scrumptiousness. 
-2. **Removable rack.** It keeps away the meat from drippings and grease at the bottom. Many models have handles on the sides to easily lift the meat immediately when it’s ready.
-3. **Quality Heating Component.** Most roaster **[ovens](https://thekitchenpot.com/blog/7-best-over-the-range-microwaves/)** come with a unique heating system element ¨Circle of Heat¨ that covers the oven thus improving the food quality.
-4. **Cold handles.** During the cooking process, you can easily burn your hands as the roaster oven surfaces get hot. However, a cold handle will always remain cold during the entire cooking process and you can easily hold the lid. 
-5. **Removable pan. S**ome roaster ovens have enamel-coated removable pans. This helps you add your food on the pan before placing it on the roaster oven for cooking. Most of them also have porcelain pans that contribute to healthy cooking.
-6. **Transparent lid.** Clear window allows you to monitor the cooking process of your meat without necessarily opening the lid.
+Place the pork on the rack in the insert, and add about a cup of apple juice or broth to the pan. Cover and cook at about 275°F to 300°F for 6 to 8 hours. It is ready when the meat pulls apart easily and reaches about 195°F to 205°F inside.
 
-## **What Can You Cook in a Roster Oven – Final Words** 
+Lift the pork out, rest it for 20 minutes, then shred it with two forks. Skim the fat from the pan juices and stir some back into the meat with your favorite barbecue sauce. Return it to the roaster on the warm setting to serve.
 
-You can make use of the electric roaster oven the same way you use the old oven. A **[roaster oven](https://www.amazon.com/Proctor-Silex-Commercial-Stainless-32921/dp/B08BMK59NM/?tag=kitchenpot-20)** is a versatile kitchen appliance. Bake, roast, slow-cook, and steam with less hassle. Plus, it’s just perfect for cooking large batches of foods for crowded gatherings or social events.
+## Planning a Holiday Meal With a Roaster
 
-Adding a pan liner on the inside part of the roaster **[oven](https://thekitchenpot.com/blog/griswold-cast-iron-skillet-review/)** makes it a large crockpot that can be used to cook soup, stew, and many other dishes.
+The biggest benefit of a roaster is freeing up your main oven. On a holiday, plan which appliance cooks each dish.
+
+A common plan is to cook the turkey or ham in the roaster. That leaves the oven free for stuffing, casseroles, rolls and pies. The stovetop handles gravy, potatoes and vegetables.
+
+Work backward from serving time. Start the turkey first, as it takes the longest, and remember it needs to rest. While it rests, use the roaster's warm setting for sides, or move the turkey to a board and use the roaster for mashed potatoes.
+
+If you have two roasters, one can cook and one can keep food warm. Many families borrow a second roaster for big gatherings.
+
+## How to Choose a Roaster Oven
+
+Size is the first decision. An 18-quart roaster suits most families and holds a turkey of around 18 to 20 pounds. A 22 to 26-quart roaster handles larger birds and bigger batches, but takes more storage space.
+
+Look for a wide temperature range, ideally from a warm setting up to about 450°F. A removable insert pan makes cleaning far easier. A glass window in the lid lets you check food without losing heat. A self-basting lid, which drips condensation back onto the food, helps keep meat moist.
+
+Also check the maker's store for stock before you buy. When we checked, Hamilton Beach had its red 22-quart model in stock, while its stainless 22-quart and 20-quart models were out of stock.
+
+## Food Safety Tips
+
+Roaster ovens cook large amounts of food, so food safety matters. Always thaw turkey fully in the fridge before roasting. Never cook a frozen turkey in a roaster, as it may stay in the unsafe range too long.
+
+Do not stuff the turkey; bake stuffing separately to make sure both reach a safe temperature. Refrigerate leftovers within two hours, and use them within a few days. See [how long chicken lasts in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/) for a guide that applies to most cooked poultry.
+
+## Energy Use
+
+A roaster oven heats a smaller space than a full-size oven, so it often uses less energy for the same job. It also keeps the kitchen cooler in summer.
+
+For more ways to save, see [how to reduce kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/) and the [most energy-efficient small kitchen appliances](/blog/most-energy-efficient-small-kitchen-appliances/).
+
+## Tips for Cooking in a Roaster Oven
+
+- **Preheat.** Let the roaster heat with the lid on for 15 to 20 minutes before adding food.
+- **Keep the lid closed.** Each peek can add cooking time.
+- **Use the rack.** It lifts food off the bottom for even heat.
+- **Use a thermometer.** Cook meat to temperature, not time.
+- **Do not overfill.** Leave space for heat to circulate.
+- **Brown first.** For better flavor, sear meat in a skillet before roasting.
+
+## How to Clean a Roaster Oven
+
+1. Unplug the roaster and let it cool completely.
+2. Remove the insert pan and rack.
+3. Wash them in warm, soapy water. Soak baked-on food.
+4. Wipe the outer body with a damp cloth. Never put it in water.
+5. Dry everything before storing.
+
+Check your manual before putting parts in the dishwasher.
+
+## Roaster Oven vs Other Appliances
+
+A roaster oven is best for big holiday roasts and large batches. A countertop dome oven or air fryer is better for smaller, crispier meals; see [how to use a NuWave oven](/blog/how-to-use-a-nuwave-oven/) and [NuWave oven vs air fryers](/blog/nuwave-oven-vs-air-fryers/).
+
+For everyday cooking for one or two, see the [best small ovens and toaster ovens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) and [what you can cook in an electric skillet](/blog/what-can-i-cook-in-an-electric-skillet/).
+
+## Storing a Roaster Oven in a Small Kitchen
+
+Roaster ovens are bulky, so most people store them out of season. Keep the rack and lid inside the insert to save space.
+
+See [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) and [how to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) for space-saving storage.
+
+## Related Guides
+
+- [Best Over-the-Range Microwaves](/blog/7-best-over-the-range-microwaves/)
+- [How to Cook Sausages in the Oven](/blog/how-to-cook-sausages-in-the-oven/)
+- [Best Saute Pan](/blog/best-saute-pan/)
+- [Best Panini Press for Home Use](/blog/best-panini-press-for-home-use/)
+- [Best Griddle Pan for Pancakes](/blog/best-griddle-pan-for-pancakes/)
+- [How Many Watts Does an Instant Pot Use](/blog/how-many-watts-does-an-instant-pot-use/)

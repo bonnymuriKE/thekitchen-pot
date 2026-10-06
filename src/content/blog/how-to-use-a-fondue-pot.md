@@ -1,208 +1,333 @@
 ---
-excerpt: "Dust off your fondue pot and host the ultimate party! 3 easy,
-  crowd-pleasing recipes to impress guests. We also offer secrets to prevent
-  clumping, burning & separation. "
+excerpt: "How to use a fondue pot for cheese, chocolate, broth and oil fondue: set-up, heat sources, safety, step-by-step recipes, dippers, troubleshooting and cleaning, plus fondue pots to consider."
 showTableOfContents: true
 authorId: kitchenpot1
-title: How to Use a Fondue Pot -3 Unique Recipes
+title: "How to Use a Fondue Pot: Cheese, Chocolate, Broth and Oil (With Recipes)"
 source: wordpress
 slug: how-to-use-a-fondue-pot
 pubDate: 2021-01-26
-modDate: 2025-01-26
+modDate: 2026-10-06
 image: ""
 category: How To Guides
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: How to Use a Fondue Pot -3 Unique Recipes
+coverAlt: "A cast iron fondue pot of melted cheese over a small burner, with long forks holding cubes of bread and vegetables"
 tags:
   - air-fryer-basket
   - best-air-fryers
   - induction-cooking
 authorImageAlt: kitchenpot1
-description: "Dust off your fondue pot and host the ultimate party! 3 easy, crowd-pleasing recipes to impress guests. We also offer secrets to prevent clumping, burning & separation."
-seo: Have you ever heard of a fondue pot? What is it? Here is how to use a
-  fondue pot to make the best cheese, chocolate, and vegetable fondue for your
-  guests! Read on
+description: "How to use a fondue pot for cheese, chocolate, broth and oil: heat sources, step-by-step recipes, dip ideas, safety, fixes, cleaning plus pots to consider."
+seo: "How to use a fondue pot: cheese, chocolate, broth and oil methods, fuel and electric options, step-by-step recipes, dippers, safety, fixes and cleaning tips."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "Do you heat fondue on the stove first?"
+    answer: "Usually, yes. For a fuel-burner set, melt the cheese or chocolate on the stove first, then move the pot to the burner to keep it warm. Electric fondue pots can melt and hold food in one pot."
+  - question: "What fuel do you use in a fondue pot?"
+    answer: "Most burner sets use gel fuel or liquid fondue fuel, depending on the burner. Chocolate sets often use a tealight. Always use the fuel your set's instructions call for."
+  - question: "Why is my cheese fondue stringy or clumpy?"
+    answer: "The heat is usually too high, or the cheese was added too fast. Lower the heat, add cheese a handful at a time and stir. A little lemon juice or a cornstarch slurry can bring it back together."
+  - question: "Can you use any pot for oil fondue?"
+    answer: "No. Oil fondue needs a metal pot made for high heat, such as stainless steel or cast iron. Ceramic cheese pots can crack at oil temperatures."
+  - question: "How much fondue do you need per person?"
+    answer: "Plan on about 1/2 cup of cheese fondue per person as a main course, or less as an appetizer. For chocolate fondue, about 1/4 cup per person is usually enough for dessert."
+  - question: "Can you put a fondue pot in the dishwasher?"
+    answer: "Some electric fondue pots have dishwasher-safe pots, but the base and cord must never get wet. Enameled cast iron and ceramic pots are best washed by hand."
 ---
-A fondue pot is one of the oldest kitchen appliances that just never loses its usefulness. This appliance will help you to unlock your A-game in matters serving desserts and appetizers.
+A fondue pot keeps a shared pot of melted cheese, chocolate, broth or hot oil warm at the table. Everyone dips bite-size pieces on long forks.
 
-The pot originates from Swiss and is famous for fondue’s communal serving (melted cheese blended with wine and a little seasoning).
+Using one is easy once you match the pot, heat source and food. Here is how to set it up, what to make and how to keep it from burning or splitting.
 
-This article answers all your questions on how to use a fondue pot. We also recommend the top 3 fondue pots that you should consider.
-
-## What is a Fondue Pot?
-
-This pot has a base that’s heated by either a candle or a spirit lamp. It has long-stemmed forks used in consuming the constituents of the fondue pot. 
-
-This pot is essential when you’re serving a meal to a small group of people. It has the following main fondue utensils:
-
-* **A Fork/ Skewer.** This is an essential part that comes with a fondue pot. When you buy your fondue pot, you will also get several skewers. The skewers are color-coded to prevent a mix-up and help you identify yours without a hassle.
-* **A Plate.** You can have a plate for cooked food and another one for uncooked food. 
-* **A Fondue Fork.** The pot comes with a fork that you can use for cooking. You should avoid using this fork for eating since it can become quite hot, and it’s easy to spread germs if you do so. 
-* **Napkins.** Whenever you buy a fondue pot, you will get several napkins to help wipe off food drops and the utensils. 
-
-## Types of Fuels for Fondue Pot
-
-A fondue pot can use different types of fuel. While it was initially designed to use candle and spirit lamp, technology has led to modifications allowing more fuel use. Some of the fondue pot fuels that you can use include:
-
-1. **Electricity**
-
-Electric fondue pots come with features that enable you to adjust temperatures to suit your recipes. It has a base, bowl, and a temperature knob.
-
-Compared to traditional fondue pots, the electric model is easy to use and convenient. Just plug in and switch on power! It is also safer than the ones that use candles and spirit lamps. 
-
-**2. Candle-Lit Fondue Pot** 
-
-This is common with dessert fondue pots, which are relatively smaller. They do not require much heat, making candles the ideal heat source. 
-
-If your fondue pot has a bigger dish, using a candle to heat it will be slower, and you may experience uneven heating. As such, go for this option only if your fondue bowl is small. 
-
-**3. Butane Fondue Burner** 
-
-This model has a small burner tank that stores butane. It is ideal for making cheese fondue, broth, or beef fondue. However, it’s high heat content makes it unideal for preparing chocolate fondue. 
-
-**4. Alcohol Burners Fondue**
-
-Most of the alcohol burners are adjustable. You can adjust the flame and the heat capacity, making it ideal for cooking almost every fondue, including chocolate and cheese. 
-
-**5. Gel Fondue**
-
-The gel fondue burner uses the same mechanism as butane and alcohol burners. However, it does not produce much heat. As such, it is only ideal when making cheese and chocolate fondue. If making oil or broth recipes, then you should consider other types of burners. 
+**The short version:** Melt cheese or chocolate on the stove, then move it to the fondue pot to keep warm. Use low heat, stir often and never fill an oil pot more than half full. Electric pots such as the [Oster 3-quart fondue pot](https://www.amazon.com/Oster-FPSTFN7700W-TECO-Titanium-Infused-DuraCeramic/dp/B0778251K9/?tag=kitchenpot-20) control heat for you. A cast iron set such as the [Swissmar Lugano](https://www.amazon.com/Swissmar-KF-66517-Lugano-2-Quart-9-Piece/dp/B005MWFWYA/?tag=kitchenpot-20) gives the classic look.
 
 ## Types of Fondue Pots
 
-Fondue pots are made from different materials. The common fondue pot materials available in the market include:
+Different fondues need different pots. Using the wrong pot is the most common reason fondue burns or a pot cracks.
 
-**Enamel Cast Iron** 
+| Pot Type | Best For | Heat Source | Notes |
+| --- | --- | --- | --- |
+| Ceramic or stoneware (caquelon) | Cheese, chocolate | Burner or tealight | Wide and shallow; not for oil |
+| Enameled cast iron | Cheese, chocolate, broth, oil | Burner or stovetop | Holds heat well; heavy |
+| Stainless steel | Broth, oil | Burner or electric | Narrow top limits oil spatter |
+| Electric | All types | Built-in element | Thermostat makes it easier |
+| Small chocolate pot | Chocolate | Tealight | Very gentle heat |
 
-While these pots heat relatively slowly, they retain heat for longer. They come in different attractive designs. 
+Cast iron and electric pots are the most versatile. A traditional ceramic caquelon is lovely for cheese, but keep it away from hot oil.
 
-**[Swissmar Lugano 2-Quart Cast Iron Cheese Fondue Set](https://www.amazon.com/Swissmar-KF-66517-Lugano-2-Quart-9-Piece/dp/B005MWFWYA/?tag=kitchenpot-20)**
+## Heat Sources Explained
 
-Features
+### Gel Fuel
 
-* 9-piece fondue set
-* Enameled cast iron fondue pot;
-* Rests on rechaud/stand or can be used at stovetop
-* Paste burner includes 1 swissmar, 3-ounce fire-gel container
-* Set includes 6 fondue forks and 1 recipe; use wooden or non-stick utensils to prepare fondue
-* Set measures 15 by 10-3/4 by 9-inch; weighs 12 pounds
+Gel fuel comes in small cans that sit in the burner. It is easy to light and less likely to spill than liquid fuel. Many people find it the most convenient choice.
 
-[Check Latest Price on Amazon](https://www.amazon.com/Swissmar-KF-66517-Lugano-2-Quart-9-Piece/dp/B005MWFWYA/?tag=kitchenpot-20)
+### Liquid Fuel
 
-**Ceramic**
+Some burners take liquid fondue fuel. It burns hot and is good for oil and broth fondue. Fill the burner only when it is cool and the flame is out, and wipe up any spills before lighting.
 
-These pots heat slower than the cast iron ones. However, they retain heat for a longer time. If you want to prepare fondue with ingredients with low melting point (such as cheese and chocolate), then these pots are ideal.
+### Tealights
 
-**[Oster Fondue Pot | Titanium Infused DuraCeramic Fondue Maker](https://www.amazon.com/Oster-FPSTFN7700W-TECO-Titanium-Infused-DuraCeramic/dp/B0778251K9/?tag=kitchenpot-20)**
+Tealights give very gentle heat. They are made for chocolate fondue, which burns easily. They are not hot enough for cheese held for a long time, or for oil.
 
-Features
+### Electric
 
-* Cooks up to 30% faster
-* Removable, adjustable temperature control
-* Titanium infused DuraCeramic non-stick ceramic coating, won’t flake or peel
-* Magnetic breakaway cord for added safety
-* Includes 8 fondue forks & Fork holder ring
+An electric fondue pot has a thermostat and a heating element in the base. You can melt and hold food in the same pot, and there is no open flame. It is the easiest choice for beginners and families.
 
-[Check Latest Price on Amazon](https://www.amazon.com/Oster-FPSTFN7700W-TECO-Titanium-Infused-DuraCeramic/dp/B0778251K9/?tag=kitchenpot-20)
+## Fondue Pots Worth Considering
 
-**Stainless Steel Fondue**
+If you do not have a fondue pot yet, here are three types worth a look. Check current stock on each listing.
 
-These are the most popular fondue pots. They heat up very fast and are durable. However, these fondue pots may burn your chocolate due to the rapid heating. If you must use them when melting chocolate, ensure that you use the least amount of heat possible. 
+### Swissmar Lugano 9-Piece Cast Iron Set
 
-**[Cuisinart CFO-3SS Electric Fondue Maker, Brushed Stainless](https://www.amazon.com/Cuisinart-CFO-3SS-Electric-Fondue-Maker/dp/B00018RR48/?tag=kitchenpot-20)**
+The [Swissmar Lugano](https://www.amazon.com/Swissmar-KF-66517-Lugano-2-Quart-9-Piece/dp/B005MWFWYA/?tag=kitchenpot-20) is a traditional burner set. Crate and Barrel's listing describes a 2-quart enameled cast iron pot, a wrought iron stand and tray, six forks and a burner that takes liquid fuel or gel packs. The pot can also go on the stovetop or in the oven.
 
-Features
+**Pros:**
 
-* Electric fondue set suitable for chocolate, cheese, broth or oil
-* brushed stainless-steel 3-quart bowl with nonstick interior
-* Removable temperature control is adjustable for wide range of recipes
-* Includes base, bowl, temperature probe, 8 fondue forks, and fork rack
+- Works for cheese, chocolate, broth and oil
+- Cast iron keeps fondue warm and even
+- Classic look for the table
 
-[Check Latest Price on Amazon](https://www.amazon.com/Cuisinart-CFO-3SS-Electric-Fondue-Maker/dp/B00018RR48/?tag=kitchenpot-20)
+**Cons:**
 
-## How to Use a Fondue Pot 
+- Heavy, and fuel is sold separately
 
-You can use a fondue pot to prepare different recipes. In this section, we’ll detail how to use a fondue pot to prepare three everyday meals.
+### Oster 3-Quart Electric Fondue Pot
 
-**Fondue Bourguignon**
+The [Oster 3-quart fondue pot](https://www.amazon.com/Oster-FPSTFN7700W-TECO-Titanium-Infused-DuraCeramic/dp/B0778251K9/?tag=kitchenpot-20) is an electric option. Oster lists its 3-quart fondue pot at 1000 watts, with a nonstick surface, an adjustable, removable temperature control and eight forks.
 
-This is a technique for using your fondue pot to prepare meat and other raw vegetables in an organic oil (canola, peanut, vegetable, or any other organic oil).
+**Pros:**
 
-* Clean and dry the meat and vegetables to prevent oil splattering
-* Once dry, place all your ingredients in a hot fondue pot
-* Add oil and heat it until it becomes hot enough (it should brown a piece of bread in less than 30 seconds)
-* Transfer it to its holder and cook the meat/veggies for your desired time
+- No flame or fuel needed
+- Adjustable temperature for oil, broth, cheese or chocolate
+- Eight forks for a bigger group
 
-**Cheese Fondue**
+**Cons:**
 
-A cheese party is phenomenal. It becomes better when you invite your friends to well-prepared cheese fondue. Here’s how to achieve that:
+- Needs an outlet near the table
 
-* Ensure that you heat cheese fondue properly before you transfer it to the fondue pot. 
-* Rub the inner pot with garlic to add flavor. Once you transfer it, keep stirring using a spatula.
-* When ready, a crust will be left at the bottom. Scrap the delicious part and serve it to your guests.
+### GREECHO 2.6-Quart Electric Fondue Pot
 
-We recommend the use of electric fondue to control the temperature adequately. Cheese fondue can be quite delicate, and extreme temperatures will not yield the desired results.
+The [GREECHO electric fondue pot](https://www.amazon.com/GREECHO-Stainless-Chocolate-Separated-Color-Coded/dp/B09TTFD6C1/?tag=kitchenpot-20) is a stainless steel pot on a separate heating base. Its Amazon listing describes 1200 watts, preset modes for cheese, chocolate and broth, and six color-coded forks.
 
-**Chocolate and Dessert Fondue**
+**Pros:**
 
-To get the best results with chocolate fondue, ensure that you use chocolates with more than 50% cocoa content. 
+- Presets take the guesswork out of heat
+- Pot lifts off the base for washing
+- Color-coded forks so guests know which is theirs
 
-* Heat your chocolate and cream (mixture) over a double burner and keep stirring
-* Once the mixture is uniformly mixed and ready, you should transfer it to the fondue pot and serve.
-* Use a small amount of heat to keep the mixture warm for your ideal duration.
+**Cons:**
 
-Never heat your chocolate directly since it will turn into a lump. Instead, you should always use a double boiler. 
+- Smaller than some 3-quart pots
 
-## Tips on How to Use a Fondue Pot Effectively
+Cuisinart's popular CFO-3SS electric fondue pot is now listed as discontinued on Cuisinart's site, so look at the options above instead.
 
-* Initially Use a Stove. At the initial stages of your cooking, you should use your **[stove cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money/)** to heat the fondue to the required temperature. Once you achieve the right temperature, you should transfer it to the fondue pot to keep it warm under constant temperature. This applies to all other meals.
-* **Use a Trivet.** Placing your fondue pot on a trivet will protect your table from the hot pot and eliminate any chances of fire accidents. 
-* **Use Flavorful Beverages to Prepare Fondue.** When preparing your fondue, we recommend that you use dry wines. Avoid water as much as you can. 
-* **Limit the Number of People Using One Fondue.** We recommend that you limit the fondue users to four per pot. 
-* **Provide a Variety.** You should avoid serving a one-course meal as a fondue. It will be boring and monotonous!
-* **Keep the Amount of Food in the Fondue Pot at the Minimum.** Having too much food in the pot will lead to a spattering of oil and broth, which will look awkward.
-* **Keep Your Fruits and Vegetables Fresh.** To prevent your fruits from turning brown, we recommend that you squeeze lemon juice and splash it over the veggies. 
+## What You Need
 
-The primary reason for having a fondue pot is to have fun. It is best for a party setup or use a small family as the members bond. As such, you should do everything possible to create a friendly environment and limit the number of users per fondue pot to four. 
+- A fondue pot and its stand, burner or base
+- The right fuel, if it is a burner set
+- Fondue forks (one or two per person)
+- Small plates for each guest
+- A heatproof board or trivet under the pot
+- A saucepan for melting on the stove
+- A wooden spoon or silicone spatula
+- Dippers cut into bite-size pieces
 
-## **Security Measures When Using Fondue Pot**
+## How to Make Cheese Fondue
 
-When using your fondue pot, you should undertake the following precautionary measures:
+Cheese fondue is the classic Swiss dish. A creamy, smooth result depends on gentle heat and slow stirring.
 
-* **Keep an Eye on Your Fondue Pot.** You should keep your pot where you can see it. Always be careful when dealing with children -close supervision will be mandatory.
-* **Never Use Water to Put Off Fire.** In case a fire erupts, you should never use water since it will only help it spread further. Remember that the fondue pot uses spirit! Instead, you should get a lid to cover the pot, thus denying the fire oxygen. 
-* **Never Use a Fondue Fork for Eating.** The fork is entirely meant for cooking. It can get dangerously hot. Additionally, using it will help spread germs, which will be unhealthy. 
+### Ingredients (Serves 4)
 
-## How to Clean Your Fondue Pot
+- 1 garlic clove, cut in half
+- 1 cup dry white wine
+- 1 tablespoon lemon juice
+- 8 oz Gruyère, grated
+- 8 oz Emmental, grated
+- 1 tablespoon cornstarch
+- 1 tablespoon kirsch (optional)
+- A pinch of nutmeg and black pepper
 
-Before you start cleaning, you should always ensure that your fondue pot has cooled down entirely. 
+### Steps
 
-* Use warm and soapy water
-* We recommend that you hand wash. However, ceramic fondue pot is dishwasher-friendly
-* Avoid using harsh cleaning agents and abrasive scouring pads
-* Once clean, ensure that you dry it before storage
+1. **Toss the cheese with cornstarch.** This helps the cheese melt smoothly and stops it splitting.
+2. **Rub the pot with garlic.** Rub the cut side over the inside of your saucepan or fondue pot.
+3. **Warm the wine and lemon juice.** Heat over medium-low until steaming and just bubbling at the edges. Do not boil.
+4. **Add cheese a handful at a time.** Stir in a zigzag or figure-eight pattern until each handful melts.
+5. **Season.** Stir in the kirsch, nutmeg and pepper.
+6. **Move to the fondue pot.** Set it over a low flame or low electric setting.
+7. **Stir often while eating.** Ask guests to swirl their forks through the pot as they dip.
 
-## How to Use a Fondue Pot -The Bottom Line
+The lemon juice adds acidity that helps keep the cheese smooth. Our guide on [how much juice is in one lemon](/blog/how-much-juice-is-in-one-lemon/) helps you buy the right amount. No cornstarch? See [what to use instead of cornstarch](/blog/what-to-use-instead-of-cornstarch/).
 
-A fondue pot offers a brilliant way to serve broths and desserts to your guests. However, you must use it properly if you’re to get your desired results.
+### Alcohol-Free Cheese Fondue
 
-This article provides a comprehensive guide on how to use a fondue pot to achieve incredible cheese, chocolate, vegetable, and other types of fondue. 
+Swap the wine for low-sodium chicken or vegetable broth with an extra tablespoon of lemon juice. Skip the kirsch. The texture stays smooth, and the flavor is milder.
 
-Additionally, you’ll get a review of the best three fondue pots to consider. Is owning a fondue pot worth it? Read through this article to find out the benefits you’ll accrue by owning one. 
+## Choosing the Right Cheese
 
-## How to Use a Fondue Pot- Frequently Asked Questions
+Good fondue cheeses melt smoothly and have plenty of flavor. Firm Alpine cheeses are the classic choice.
 
-1. ### How do I set up my fondue pot?
+| Cheese | Flavor | Role in Fondue |
+| --- | --- | --- |
+| Gruyère | Nutty, rich | The backbone of most Swiss fondue |
+| Emmental | Mild, sweet | Melts well and softens strong flavors |
+| Comté | Nutty, fruity | A good swap for Gruyère |
+| Appenzeller | Sharp, spicy | Adds punch in small amounts |
+| Fontina | Mild, creamy | Very smooth melt |
+| Sharp cheddar | Tangy | Good in beer-cheese fondue |
 
-   Fondue pots use alcohol, butane, or electric heat. As such, you should set it up in a safe place (preferably a stable and heat-resistant surface such as ceramic). Additionally, ensure that you keep it away from children.
-2. ### What fuel do you use with a fondue pot?
+Grate the cheese yourself rather than buying pre-shredded. Bagged cheese has anti-caking powder that can make fondue grainy. Let the grated cheese come to room temperature before adding it.
 
-   Fondue pots come with different types of burners. It can use butane, gel, alcohol, or electricity. u003cbru003eAlways know the type of your fondue burner and only use the recommended fuel.
-3. ### What do I use to heat a fondue pot?
+Avoid very soft or very aged cheeses on their own. Soft cheese turns runny, and very aged cheese tends to split.
 
-   You can use candles, spirit lamps, or electricity. Your choice will depend on the type of fondue burner. Always follow the manufacturer’s recommendations to the letter.
-4. ### Do I put water in a fondue pot?
+## Fondue Variations to Try
 
-   Before you start heating the fondue pot, ensure that it has your ingredients or water. However, we recommend using beverages such as dry wine instead of water when preparing fondue.
+- **Beer and cheddar fondue.** Use a mild lager or ale instead of wine, sharp cheddar instead of Swiss cheese, and add a teaspoon of mustard.
+- **Italian fonduta.** Melt fontina with milk, butter and egg yolks for a silky sauce.
+- **Queso fondue.** Melt Monterey Jack with a little milk, green chiles and cumin. Serve with tortilla chips.
+- **Three-cheese fondue.** Add a little Appenzeller or Comté to the classic mix.
+- **Caramel fondue.** Melt caramels with a splash of cream for apple slices.
+- **White chocolate fondue.** Use gentle heat, as white chocolate scorches quickly.
+
+## How to Make Chocolate Fondue
+
+Chocolate burns at a low temperature, so gentle heat is the key.
+
+### Ingredients (Serves 4 to 6)
+
+- 8 oz good quality dark or milk chocolate, chopped
+- 2/3 cup heavy cream
+- 1 teaspoon vanilla extract
+- A pinch of salt
+
+### Steps
+
+1. Heat the cream in a small saucepan until steaming.
+2. Take it off the heat and add the chopped chocolate.
+3. Let it sit for one minute, then stir until smooth.
+4. Stir in the vanilla and salt.
+5. Pour into the fondue pot and keep warm over a tealight or the lowest electric setting.
+
+For very gentle melting, use a [double boiler](/blog/how-to-use-a-double-boiler/). A [candy thermometer](/blog/7-best-candy-thermometer/) helps if you want to keep the chocolate below about 120°F.
+
+### Chocolate Fondue Dippers
+
+- Strawberries, banana slices and apple wedges
+- Marshmallows
+- Pound cake or brownie cubes
+- Pretzels and shortbread
+- Dried apricots
+
+## How to Make Broth Fondue
+
+Broth fondue is lighter than cheese or oil. Guests cook thin slices of raw meat and vegetables in simmering stock.
+
+1. Heat about 4 cups of good broth on the stove with garlic, ginger or herbs.
+2. Pour it into a metal or cast iron fondue pot, filling it about half full.
+3. Keep it at a steady simmer on the burner or electric base.
+4. Cook thin slices of beef, chicken, shrimp and vegetables for 1 to 3 minutes.
+
+Cook chicken until it is fully cooked through, to 165°F. Slice meat very thin so it cooks quickly. A [meat slicer for home use](/blog/best-meat-slicer-for-home-use/) makes even, thin slices easy, and you can [check the temperature with a meat thermometer](/blog/best-meat-thermometer-for-smoking/).
+
+## How to Make Oil Fondue (Fondue Bourguignonne)
+
+Oil fondue means cooking cubes of meat in hot oil at the table. It is delicious, but it needs the most care.
+
+1. Use a metal or cast iron pot made for oil. Never use ceramic.
+2. Fill the pot no more than one-third to one-half full with peanut, canola or vegetable oil.
+3. Heat the oil on the stovetop to about 350°F to 375°F, checking with a thermometer.
+4. Carefully move the pot to the lit burner or electric base.
+5. Pat the meat dry before cooking. Water makes hot oil spit.
+6. Cook 1-inch cubes of beef for about 1 minute for rare, longer for well done.
+
+Serve with dipping sauces such as garlic aioli, horseradish cream and béarnaise. For oil smoke points, see the [best oil for an air fryer](/blog/best-oil-for-air-fryer/).
+
+**Safety note:** Keep a lid nearby to smother any flare-up. Never use water on an oil fire. Keep children and pets away from the table during oil fondue.
+
+## Best Dippers for Cheese Fondue
+
+- **Bread:** Crusty baguette or sourdough cubes, each with some crust
+- **Vegetables:** Blanched broccoli, cauliflower, carrots and asparagus
+- **Potatoes:** Small boiled new potatoes
+- **Meat:** Cooked sausage, ham or chicken
+- **Fruit:** Apple and pear slices
+- **Pickles:** Cornichons and pickled onions
+
+Blanch firm vegetables first so they are tender. A [bamboo steamer](/blog/how-to-use-a-bamboo-steamer/) or [steamer basket](/blog/best-steamer-basket-for-instant-pot/) works well. A [vegetable chopper](/blog/best-vegetable-choppers/) speeds up prep for a crowd.
+
+## How Much to Make
+
+| Fondue Type | As an Appetizer | As a Main Course |
+| --- | --- | --- |
+| Cheese | About 1/4 cup per person | About 1/2 cup per person |
+| Chocolate | About 1/4 cup per person | Not usually a main |
+| Broth | About 1 cup per person | About 1 cup per person |
+| Oil fondue meat | About 4 oz per person | About 6 to 8 oz per person |
+
+## Fondue Safety Tips
+
+- **Place the pot on a stable, heatproof surface.** Use the stand's tray or a trivet.
+- **Keep the pot in the middle of the table.** Away from edges, curtains and paper napkins.
+- **Never refill a lit burner.** Let it cool and refill away from the table.
+- **Use the right pot for oil.** Ceramic can crack and spill hot oil.
+- **Do not eat from the fondue fork.** It gets very hot, and with raw meat it is unsafe. Slide food onto your plate and use a regular fork.
+- **Watch the cord.** Electric pots should have the cord routed so no one trips on it.
+
+## Fondue Etiquette
+
+A few customs keep a fondue night fun and clean:
+
+- **No double-dipping.** Put the food on your plate before eating.
+- **Swirl as you dip.** This keeps cheese moving and stops it burning.
+- **Lost bread, pay a forfeit.** In Swiss tradition, dropping your bread means a small playful penalty, like buying the next round.
+- **Save the crust.** The toasted cheese crust at the bottom, called la religieuse, is a treat to share at the end.
+
+## Troubleshooting Fondue
+
+| Problem | Likely Cause | Fix |
+| --- | --- | --- |
+| Cheese is stringy | Heat too high | Lower the heat and stir |
+| Cheese is clumpy or separated | Cheese added too fast, or not enough acid | Add a squeeze of lemon and stir hard |
+| Fondue too thick | Cooled down or too much cheese | Add a splash of warm wine or broth |
+| Fondue too thin | Too much liquid | Add more cheese tossed in cornstarch |
+| Chocolate seized | Water got in, or overheated | Stir in warm cream a spoon at a time |
+| Oil spitting | Wet food | Pat food dry before cooking |
+
+## How to Clean a Fondue Pot
+
+1. Let the pot cool fully.
+2. For cheese, soak the pot in warm, soapy water to loosen the crust.
+3. Use a soft sponge or nylon brush. Avoid steel wool on enamel or nonstick.
+4. For oil, let the oil cool, then pour it into a sealed container and throw it away. Never pour oil down the drain.
+5. Wipe an electric base with a damp cloth only. Never put it in water.
+6. Dry everything fully before storing.
+
+Enameled cast iron needs the same care as other enameled pans; see our [Le Creuset cast iron skillet](/blog/le-creuset-cast-iron-skillet/) guide for tips. If you set a cast iron pot on a ceramic stove, read [how to protect a glass top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/).
+
+## Can You Use a Fondue Pot on an Induction Cooktop?
+
+Only if the pot is magnetic. Enameled cast iron and many stainless pots work on induction. Ceramic pots and many aluminum electric pots do not.
+
+To check, hold a magnet to the bottom. If it sticks firmly, it will work. See [how to use non-induction cookware on an induction cooktop](/blog/how-to-use-non-induction-cookware-on-induction-cooktop/) and the [best induction cooktops for the money](/blog/best-induction-cooktop-for-the-money/).
+
+## Hosting a Fondue Night
+
+Fondue is ideal for small gatherings. Plan one cheese pot for every four to six guests.
+
+Serve a green salad on the side to cut the richness. For plates and bowls, see the [best dinnerware sets](/blog/7-best-dinnerware-sets/). Leftover cheese fondue can be chilled and reheated gently for a sauce. Use leftover cooked chicken within a few days; see [how long chicken lasts in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/).
+
+## Fondue in a Small Kitchen
+
+Fondue is a smart way to host when you have little counter space. Most of the cooking happens at the table, so you only need one burner for the first melt.
+
+A compact electric pot can double as a warmer for dips and sauces. If you are tight on space, see the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) and [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/).
+
+Store the pot, forks and burner together in one box so nothing goes missing. Keep spare gel fuel in a cool, dry cupboard away from the stove, and check the cans before a party. Running out of fuel halfway through dinner is the most common fondue night problem. A spare tealight or two is handy for chocolate pots as well. Wash and dry the forks well before storing them so they do not rust or stain. Ideas in [small kitchen cabinet organization](/blog/small-kitchen-cabinet-organization-ideas/) can help you find a spot for it.
+
+## Related Guides
+
+- [Best Cookware for Induction Cooktop](/blog/best-cookware-for-induction-cooktop/)
+- [Lodge Cast Iron Skillet Review](/blog/lodge-cast-iron-skillet-review/)
+- [How to Clean a Meat Thermometer](/blog/how-to-clean-a-meat-thermometer/)
+- [How Much Does a Chicken Breast Weigh](/blog/how-much-does-a-chicken-breast-weigh/)
+- [Can You Freeze Cream Cheese](/blog/can-you-freeze-cream-cheese/)
+- [Best Hot Dog Steamer and Bun Warmer](/blog/best-hot-dog-steamer-and-bun-warmer/)

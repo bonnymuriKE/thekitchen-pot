@@ -1,360 +1,386 @@
 ---
-excerpt: "Tiny kitchen? NuWave induction cooktop saves space, heats instantly &
-  is easy to clean. It is also safer, faster and more efficient. See why it’s a
-  must! "
+excerpt: "NuWave induction cooktop review: the PIC Pro Chef, Gold Pro, Flex Pro and Flex compared on power, temperature range and size, with two Duxtop alternatives, plus who a portable induction burner suits."
 showTableOfContents: true
 authorId: kitchenpot1
-title: NuWave Induction Cooktop Review - 3 Reasons You Should Have It
+title: "NuWave Induction Cooktop Review (4 PIC Models and 2 Alternatives for 2026)"
 source: wordpress
 slug: nuwave-induction-cooktop-review
 pubDate: 2021-01-23
-modDate: 2025-01-18
+modDate: 2026-10-06
 image: ""
 category: Small Appliances
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: NuWave Induction Cooktop Review - 3 Reasons You Should Have It
+coverAlt: "A black portable NuWave induction cooktop with a skillet on top in a small apartment kitchen"
 tags:
   - best-induction-cooktops
   - cookware-for-induction-cooktop
   - induction-cooking
   - nuwave-oven-vs-air-fryer
+  - portable-cooktop
 authorImageAlt: kitchenpot1
-description: "Tiny kitchen? NuWave induction cooktop saves space, heats instantly & is easy to clean. It is also safer, faster and more efficient. See why it’s a must!"
-seo: Induction cooking is a convenient and efficient method. If you want to buy
-  an induction cooktop, then read through this NuWave Induction cooktop review
-  to make an informed decision.
+description: "NuWave induction cooktop review: the PIC Pro Chef, Gold Pro, Flex Pro and Flex compared on power, temperature and size, plus Duxtop 9600LS and 8100MC, too."
+seo: "NuWave induction cooktop review: PIC Pro Chef, PIC Gold Pro, PIC Flex Pro and PIC Flex compared, plus Duxtop 9600LS and 8100MC alternatives, with wattage and temperature ranges."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "Which NuWave induction cooktop is best?"
+    answer: "The NuWave PIC Pro Chef is the best NuWave in this guide for serious cooking. NuWave lists it at $199.99 with temperatures from 100°F to 575°F in 5° steps, and the Amazon listing describes it as NSF certified and commercial grade. For everyday use at a lower price, the PIC Gold Pro is the pick."
+  - question: "Is a NuWave induction cooktop worth it?"
+    answer: "Yes, if you need an extra burner, cook in a dorm, RV or studio, or want precise temperature control. Induction heats fast and the surface stays cooler than a coil burner. You do need magnetic cookware."
+  - question: "What pans work on a NuWave induction cooktop?"
+    answer: "Pans with a magnetic base: cast iron, enameled cast iron, carbon steel and most stainless steel. Test with a fridge magnet; if it sticks firmly to the bottom, the pan will work. Plain aluminum, copper and glass will not."
+  - question: "Is NuWave better than Duxtop?"
+    answer: "They suit different buyers. NuWave models set temperature in fine 5° to 10° steps and go up to 575°F on the Pro Chef and Gold Pro. Duxtop's 9600LS was CNN Underscored's top pick for even cooking, and the 8100MC is a strong budget option."
+  - question: "Can you use a NuWave induction cooktop on a regular outlet?"
+    answer: "Yes. Portable induction burners plug into a standard 120-volt household outlet. Avoid sharing that circuit with other high-power appliances like a kettle or microwave."
 ---
-Cooking from your kitchen can be monotonous, right? You’d need to try outdoor recipes with your family as you bond. But there is a problem:
+A NuWave induction cooktop is a portable burner that heats the pan directly with a magnetic field. It boils water fast, simmers gently and plugs into any standard outlet.
 
-You only own a heavy electric cooktop!
+NuWave sells several PIC (Precision Induction Cooktop) models. They look alike but differ in power, temperature range and size.
 
-If you’ve found yourself in such a situation, then you should consider investing in a portable NuWave induction cooktop.
+**The short version:** The [NuWave PIC Pro Chef](https://www.amazon.com/NuWave-Commercial-Grade-NSF-Certified-Programmable-Capabilities/dp/B085J2PQRB/?tag=kitchenpot-20) is the best NuWave for serious cooking, with temperatures up to 575°F in 5° steps. The [NuWave PIC Gold Pro](https://www.amazon.com/Nuwave-Gold-Pro-Heat-Resistant-Adjustable/dp/B0F79L8TTJ/?tag=kitchenpot-20) is the everyday pick. For a non-NuWave option, CNN Underscored named the [Duxtop 9600LS](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20) its best overall portable induction cooktop.
 
-Before you purchase one, read this comprehensive NuWave induction cooktop review to make an informed decision.
+## Our Picks at a Glance
 
-## Unique Features of Nuwave Induction Cooktop – Summary
+- **Best NuWave overall:** [NuWave PIC Pro Chef Induction Cooktop](https://www.amazon.com/NuWave-Commercial-Grade-NSF-Certified-Programmable-Capabilities/dp/B085J2PQRB/?tag=kitchenpot-20)
+- **Best everyday NuWave:** [NuWave PIC Gold Pro Induction Cooktop](https://www.amazon.com/Nuwave-Gold-Pro-Heat-Resistant-Adjustable/dp/B0F79L8TTJ/?tag=kitchenpot-20)
+- **Best mid-size NuWave:** [NuWave PIC Flex Pro Induction Cooktop](https://www.amazon.com/Nuwave-Precision-Shatter-Resistant-100%C2%B0-500%C2%B0F-30503V01/dp/B0GV1NW3T5/?tag=kitchenpot-20)
+- **Best compact NuWave:** [NuWave PIC Flex Induction Cooktop](https://www.amazon.com/Precision-Induction-Cooktop-Temperature-Efficient/dp/B08YJ6ZPFJ/?tag=kitchenpot-20)
+- **Best alternative:** [Duxtop 9600LS Portable Induction Cooktop](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20)
+- **Best budget alternative:** [Duxtop 8100MC Portable Induction Cooktop](https://www.amazon.com/Duxtop-8100MC-Portable-Induction-Countertop/dp/B0045QEPYM/?tag=kitchenpot-20)
 
-**Cool to Touch** 
+NuWave listed the Pro Chef, Gold Pro, Flex Pro and Flex as in stock on its own store when we checked. The original PIC Gold and the PIC Double were sold out there. Prices change often.
 
-This is an incredible safety feature! **While your Nuwave Induction Cooktop heats the pan, its surface remains cold**. Yes, you can touch it without the slightest burn on your hand.
+| Model | Max Power | Temperature Range | Steps | Coil or Surface | Price Seen |
+| --- | --- | --- | --- | --- | --- |
+| NuWave PIC Pro Chef | 1800W, per listing | 100°F to 575°F | 5° | 8-inch coil, per listing | $199.99 at NuWave |
+| NuWave PIC Gold Pro | Adjustable | 100°F to 575°F | 5° | 8-inch coil, 12-inch surface | $179.99 at NuWave |
+| NuWave PIC Flex Pro | 1400W | 100°F to 500°F | 81 settings | 10.25-inch surface | $99.99 at NuWave |
+| NuWave PIC Flex | 1300W | 100°F to 500°F | 45 settings | 6.5-inch coil | From $89.99 at NuWave |
+| Duxtop 9600LS | 1800W | About 130°F to 460°F, per CNN | Preset levels | Full-size | About $112 on sale, per CNN |
+| Duxtop 8100MC | 1800W | Preset levels | Preset levels | Compact | About $58 on sale, per CNN |
 
-**LCD Control Panel**
+## 1. [NuWave PIC Pro Chef](https://www.amazon.com/NuWave-Commercial-Grade-NSF-Certified-Programmable-Capabilities/dp/B085J2PQRB/?tag=kitchenpot-20): Best NuWave Overall
 
-The Nuwave Induction Cooktop has a **simple-to-operate LCD that allows you to adjust cooking settings straightforwardly**. It has 5-10 degrees temperature increment/ decrease buttons for ease of use. 
+- **Power:** 1800W, per the Amazon listing
+- **Temperature:** 100°F to 575°F in 5° increments, per NuWave
+- **Coil:** 8-inch, per the listing
+- **Certification:** NSF certified, commercial grade, per the listing
+- **Maker's price:** $199.99, in stock
 
-**Wipe it Clean**
+The Pro Chef is NuWave's most capable single burner. It reaches 575°F for searing and drops to 100°F for melting chocolate or keeping sauces warm.
 
-Cleaning your Nuwave Induction Cooktop is a breeze. Due to its cool touch feature, spills do not stick to the surface, and you’ll remove them fast by wiping them away.
+The 5° steps give real control. You can hold oil at exactly 350°F for frying or simmer a sauce without scorching.
 
-**No Visible Flames**
+The listing describes it as NSF certified and commercial grade, so it suits catering, food trucks and home cooks who use it daily.
 
-This Nuwave Precision Cooker has no hot coils or open flames. It retains its color and only heats the pan through magnetic induction. As such, there is no risk of fire or burn accidents. 
+The 8-inch coil heats the base of most skillets and saucepans evenly. Pans from 8 to 12 inches across are the best match; very large pans heat more at the center than at the edges.
 
-**Saves You Money**
+The listing describes it as programmable, which makes it easy to hold a temperature and walk away from a simmering pot.
 
-Unlike electric and gas cooktops, the Nuwave induction cooktop heats the pan directly, saving energy and money!
+**What we like:**
 
-This simple, lightweight, and highly efficient kitchen appliance offers unmatched convenience. You can carry it to any location of choice. 
+- Wide 100°F to 575°F range
+- Fine 5° temperature steps
+- NSF certified, per the listing
+- Full 1800W power
 
-Read on as we tell you about our first-hand experience with the appliance. We’ll highlight all the hits and the misses to ensure that you make an informed decision. 
+**What to know before you buy:**
 
-## What is NuWave Induction Cooktop?
+- Most expensive single NuWave
+- Needs magnetic cookware
 
-NuWave induction cooktop is a lightweight burner cooktop that’s highly portable. It has diverse settings that help you cook food and keep it warm for some time.
+**Who should buy it:** Serious home cooks and small food businesses.
 
-These unique NuWave cooktop features make it ideal for outdoor cooking. Additionally, the burner has an LCD control panel that makes it easy to program your cooking.
+[Check Price on Amazon](https://www.amazon.com/NuWave-Commercial-Grade-NSF-Certified-Programmable-Capabilities/dp/B085J2PQRB/?tag=kitchenpot-20)
 
-## **Benefits of Owning a Nuwave Induction Cooktop**
+## 2. [NuWave PIC Gold Pro](https://www.amazon.com/Nuwave-Gold-Pro-Heat-Resistant-Adjustable/dp/B0F79L8TTJ/?tag=kitchenpot-20): Best Everyday NuWave
 
-Several advantages make using a NuWave induction cooktop more fulfilling than using other conventional cooktops. These benefits include:
+- **Temperature:** 100°F to 575°F in 5° increments, per NuWave
+- **Coil:** 8-inch; 12-inch cooking surface, per the listing
+- **Wattage:** Adjustable, per the listing
+- **Surface:** Shatterproof, scratch-resistant ceramic glass, per NuWave
+- **Safety:** Shuts off when cookware is removed
+- **Maker's price:** $179.99, in stock
 
-**Unique Programming Capabilities** 
+The Gold Pro is the updated version of NuWave's long-selling PIC Gold. NuWave says it adds a new control panel with a clearer LED display.
 
-When using the NuWave cooktop, you’ll be able to achieve precise temperatures with a simple touch of a button. It has an easy-to-use LCD control panel that allows you to set the temperature and the cooking duration of your meals. 
+It has the same 100°F to 575°F range as the Pro Chef. Adjustable wattage lets you lower the power if you share a circuit with other appliances.
 
-Even better, the cookware has a delay & sear function, which allows you to set all the cooking requirements but start the cooking at your convenient time. 
+The 12-inch glass surface holds large skillets steadily. NuWave says it will not run without cookware on top and shuts off when you lift the pan.
 
-**Saves Energy**
+**What we like:**
 
-The Nuwave Precision Cooktop (PIC) is designed to save 70%-90% energy compared to traditional electric or gas stovetops. 
+- Same temperature range as the Pro Chef
+- Adjustable wattage for shared circuits
+- Clear updated display
+- Shuts off when the pan is removed
 
-As such, this cooktop is economical and practical. It allows you to adjust the wattage, enabling you to determine energy consumption. For example, when using the NUWAVE Lightweight Induction Cooktop, you will have the option to use 600 watts, 900 watts, or 1500 watts. 
+**What to know before you buy:**
 
-**High Portability** 
+- Costs nearly as much as the Pro Chef
+- Not NSF listed like the Pro Chef
 
-If you own a **[standard induction cooktop](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money/)**, it won’t be easy to use it outdoors. As such, you’ll need the lightweight and highly portable NuWave induction cooktop to enjoy outdoor escapades with your family. 
+**Who should buy it:** Home cooks who want an extra burner for daily use.
 
-The NuWave cooktop weighs between 5 and 9 pounds, an ideal weight to allow ease of movement. You can use it anywhere as long as you have AC power. 
+[Check Price on Amazon](https://www.amazon.com/Nuwave-Gold-Pro-Heat-Resistant-Adjustable/dp/B0F79L8TTJ/?tag=kitchenpot-20)
 
-**Dynamic Settings**
+## 3. [NuWave PIC Flex Pro](https://www.amazon.com/Nuwave-Precision-Shatter-Resistant-100%C2%B0-500%C2%B0F-30503V01/dp/B0GV1NW3T5/?tag=kitchenpot-20): Best Mid-Size NuWave
 
-This cooktop has features that enable you to keep your meals warm, sear your meat, grill, or undertake any other cooking escapade. PIC2 and PIC Gold NuWave models allow you to use 52 different temperature settings.
+- **Power:** 600, 900 or 1400W, per the listing
+- **Temperature:** 81 settings from 100°F to 500°F, per the listing
+- **Surface:** 10.25-inch shatter-resistant glass
+- **Controls:** IMD touch display with LED
+- **Safety:** Auto shutoff
+- **Maker's price:** $99.99, in stock
 
-On the other hand, the PIC Pro and PIC Platinum have 94 temperature settings. This allows you to cook different meals using specific temperatures and keep your food warm for any given time. 
+The Flex Pro sits between the compact Flex and the larger Gold Pro. Its 10.25-inch surface fits most everyday pans.
 
-Even better, temperature adjustability is a breeze! The LCD control panel has (+) and (-) buttons that allow you to adjust the temperature in increments/ decrements of 5-10 degrees. 
+It tops out at 500°F, which is enough for searing, frying and boiling. Three wattage levels help on weaker circuits or in RVs.
 
-**Relatively Small-Sized**
+The touch display is easy to wipe clean, with no buttons to trap spills.
 
-On top of being lightweight, these portable NuWave cooktops are relatively small. As such, they occupy less space, making traveling with them simple. 
+**What we like:**
 
-Each of the NuWave cooktops has an ideal cooking surface of approximately 12 inches. Its base is broad, thus ensuring stability and eliminating any chance of spillage accidents. 
+- Half the price of the Gold Pro
+- Three wattage settings
+- Easy-clean touch display
+- Fits most pans
 
-**Easy to Clean**
+**What to know before you buy:**
 
-The NuWave cooktops have a flat and smooth cooking surface. Even when food spills on it, it does not stick. 
+- Lower 500°F maximum
+- Less power than 1800W models
 
-As such, you will only require a kitchen towel to wipe off the mess in seconds! 
+**Who should buy it:** Apartments and dorms that want a capable burner at a fair price.
 
-**Enhanced Security Features**
+[Check Price on Amazon](https://www.amazon.com/Nuwave-Precision-Shatter-Resistant-100%C2%B0-500%C2%B0F-30503V01/dp/B0GV1NW3T5/?tag=kitchenpot-20)
 
-These cooktops use magnetic fields to achieve the heating effect. As such, it cannot heat unless you place an **induction-ready pan** on it. Here is a summary of the security features associated with NuWave induction cooktops:
+## 4. [NuWave PIC Flex](https://www.amazon.com/Precision-Induction-Cooktop-Temperature-Efficient/dp/B08YJ6ZPFJ/?tag=kitchenpot-20): Best Compact NuWave
 
-* Only the pan surface gets heated up. O**ther parts of the cooking surface remain cold**, thus eliminating the chance of accidental burns. 
-* Focused heating ensures that the **burner cools almost immediately after removing the pan**.
-* **Automatic shut-off.** Once you remove the pan from the burner, the heating process stops immediately. As such, you can walk away after removing the pan without the worry that you’ll burn your kitchen. 
-* **No open flames.** These cooktops have no open flames that guarantee safety, even when you have children and pets around. 
+- **Power:** 600 to 1300W, per the listing
+- **Temperature:** 45 settings from 100°F to 500°F, per the listing
+- **Coil:** 6.5-inch
+- **Maker's price:** From $89.99, in stock
 
-While the LCD panel will remain lit when plugged in, the cooktop does not heat unless the pan is in place. As such, you do not have to unplug it every time, thus adding another layer of unmatched convenience. 
+The Flex is NuWave's smallest induction burner. Its 6.5-inch coil suits small saucepans and skillets up to about 10 inches.
 
-## 3 Best Nuwave Induction Cooktop Review
+It is light and easy to pack. That makes it popular for dorms, RVs, hotel rooms and boats.
 
-### 1. [NuWave Precision Induction Cooktop 1300 Watts](https://www.amazon.com/NuWave-Precision-Induction-Cooktop-Watts/dp/B00DP6BJE2/?tag=kitchenpot-20) – Our Best Pick
+Lower power means it boils water more slowly than 1800W models. But it also draws less from weaker outlets.
 
-Features
+NuWave also sells it bundled with a nonstick fry pan.
 
-* Uses 70% less energy compared to electric and gas cooktops
-* Highly portable and ideal for outdoor cooking
-* Simple LCD control panel
-* Lightweight and easy to clean
+**What we like:**
 
-[Check Latest Price on Amazon](https://www.amazon.com/NuWave-Precision-Induction-Cooktop-Watts/dp/B00DP6BJE2/?tag=kitchenpot-20)
+- Smallest and lightest NuWave
+- Lower power suits RVs and boats
+- Lowest price
+- Bundle option with a pan
 
-This NuWave PIC is ideal for use with any induction-ready cookware (any pan with a magnetic bottom). It has six different pre-programmed temperature settings to allow you to adjust the temperature based on your recipe.
+**What to know before you buy:**
 
-The cookware can cook using 52 different temperatures that range from 100 degrees Fahrenheit to 575 degrees Fahrenheit (adjustable in 10 degrees units)
+- Small coil heats large pans unevenly
+- Slower to boil
 
-Additionally, this cooktop has an automatic shut-off feature. Whenever you remove the pan from the cooktop, it will stop heating until you place another induction-ready cookware on it.
+**Who should buy it:** Dorms, RVs and travel.
 
-The cooktop is lightweight, and you can carry it whenever you want. You can use it for various functions, including deep-frying, sautéing, boiling, simmering, slow cooking, and grilling. Even better, the cooktop uses 70% less energy, thus economical.
+[Check Price on Amazon](https://www.amazon.com/Precision-Induction-Cooktop-Temperature-Efficient/dp/B08YJ6ZPFJ/?tag=kitchenpot-20)
 
-### 2. [NUWAVE Lightweight Induction Cooktop With 10.5 in Fry Pan](https://www.amazon.com/NUWAVE-30242-Lightweight-Induction-Cooktop/dp/B01A1H33FA/?tag=kitchenpot-20)
+## 5. [Duxtop 9600LS](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20): Best Alternative
 
-Features
+- **Power:** 1800W
+- **Temperature:** About 130°F to 460°F, per CNN Underscored
+- **Features:** Timer, boil and keep-warm presets, child safety lock
+- **Size:** About 11.5 x 14 inches, per CNN
 
-**Item Dimensions LxWxH**
+[CNN Underscored](https://amp.cnn.com/cnn/cnn-underscored/reviews/best-portable-induction-cooktop) named the Duxtop 9600LS its best overall portable induction cooktop. Its testers said it cooked more evenly than any other burner they tried and boiled 2 quarts of water in 4 minutes.
 
-16.5 x 15 x 13.5 inches
+It has handy presets for boiling and keeping food warm, plus a child lock. The touch panel is responsive.
 
-**Item Weight**
+Its top temperature is lower than the NuWave Pro Chef, but it is plenty for everyday cooking.
 
-9 Pounds
+**What we like:**
 
-**Burner type**
+- Even heating, per CNN's testing
+- Fast boiling
+- Child lock and presets
+- Timer
 
-Radiant
+**What to know before you buy:**
 
-[Check Latest Price on Amazon](https://www.amazon.com/NUWAVE-30242-Lightweight-Induction-Cooktop/dp/B01A1H33FA/?tag=kitchenpot-20)
+- Lower maximum temperature than NuWave's top models
+- Fewer fine temperature steps
 
-This NuWave Induction cooktop weighs 9 pounds, approximately 3 pounds more than our number one pick. Here is its box inclusion:
+**Who should buy it:** Anyone who wants proven even heating from another brand.
 
-* 10.5 inches hard anodized fry pan
-* 36 inches power cord
-* Nuwave induction cooktop 
-* User manual & instructional DVD
-* Cooking guide & a cookbook
+[Check Price on Amazon](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20)
 
-Its settings allow you to adjust the wattage: you can choose to use 600 watts, 900 watts, or 1500 watts. Its 12-inch cook surface is heat-resistant, and it has 8 inches heating coil for a premium cooking experience. 
+## 6. [Duxtop 8100MC](https://www.amazon.com/Duxtop-8100MC-Portable-Induction-Countertop/dp/B0045QEPYM/?tag=kitchenpot-20): Best Budget Alternative
 
-> The 10.5 inches fry pan is not nonstick per se. It would be best if you season it before you start cooking.
+- **Power:** 1800W
+- **Controls:** Tactile buttons for power and temperature
+- **Features:** Timer
+- **Price seen:** About $58 on sale, per CNN Underscored
 
-This NuWave cooktop has 52 temperature settings that allow you to cook at temperatures ranging from 100°F to 575°F. It has 10 degrees increment to guarantee ease of temperature control.
+The 8100MC is Duxtop's budget burner. CNN Underscored found it performed nearly as well as the 9600LS and boiled water in about 3.5 minutes.
 
-Additionally, the cooktop has six pre-programmed temperature settings ideal for different menus. It also has delay and sear functions, enabling you to enjoy warm meals long after you finish cooking. 
+It has simple push buttons rather than a touch panel. Some cooks prefer that, since buttons are easier to press with wet fingers.
 
-### 3. [NuWave Precision Induction Cooktop Pro Chef Commercial-Grade](https://www.amazon.com/NuWave-Commercial-Grade-NSF-Certified-Programmable-Capabilities/dp/B085J2PQRB/?tag=kitchenpot-20)
+It lacks a lock and presets. For a basic extra burner, that is a fair trade for the price.
 
-Features
+**What we like:**
 
-**Brand**
+- Very low price
+- Fast boiling, per CNN's testing
+- Simple tactile buttons
+- Full 1800W power
 
-NuWave
+**What to know before you buy:**
 
-**Color**
+- No child lock
+- No presets
 
-Black
+**Who should buy it:** Budget buyers who need a reliable extra burner.
 
-**Burner type**
+[Check Price on Amazon](https://www.amazon.com/Duxtop-8100MC-Portable-Induction-Countertop/dp/B0045QEPYM/?tag=kitchenpot-20)
 
-Radiant
+## How Induction Cooking Works
 
-[Check Latest Price on Amazon](https://www.amazon.com/NuWave-Commercial-Grade-NSF-Certified-Programmable-Capabilities/dp/B085J2PQRB/?tag=kitchenpot-20)
+An induction cooktop has a copper coil under a glass top. When you switch it on, the coil creates a magnetic field. That field makes a magnetic pan heat up directly.
 
-This 1800-watt NuWave PIC Pro Chef cooktop has a series of magnetic induction coils in its 8 inches cooking surface. These coils will generate enough magnetic fields to heat your **[best induction cookware](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/)**, and cook your meals fast. 
+The glass itself does not get very hot, except from contact with the hot pan. That is why induction is safer around kids and cooler in summer.
 
-It is NSF-certified due to its top-notch functionality and durability standards. The cooktop glass is hardened enough and will not shatter, unless extreme force is exerted (it passed a drop test that had an impact of 1.5 ft-lbs)
+Because the pan heats directly, induction is fast and responsive. Turn the power down and the pan cools quickly, like gas.
 
-When using this NuWave cooktop, you will enjoy precise temperature control. You will be able to use the exact temperature that you need for a specific recipe. It can cook from as low as 140°F to as high as 575°F. Its highly intuitive digital LCD allows you to adjust the temperature in 5 degrees increment. 
+## Pros and Cons of a Portable Induction Burner
 
-Additionally, this cooktop has smart cooking features that make cooking fun. It has 100 hours of memory that enables you to set a program for your favorite cooking procedures. Its delay function allows you to initiate the cooking at your convenient time. You can also adjust the wattage to save on power!
+**Pros:**
 
-## Disadvantages of Using NuWave Induction Cooktop
+- Very fast boiling
+- Precise temperature control
+- Cooler kitchen and safer surface
+- Easy to clean flat glass
+- Plugs into a standard outlet
+- Portable for dorms, RVs and patios
 
-* **Cookware Compatibility Challenge.** You can only use the induction cooktop if you have induction-ready cookware. These are cookware made from a magnetic material (some of the cookware may only be magnetic on the base, and they will work fine with the cooktop).
-* **It can be Noisy.** Cooking using the NuWave induction cooktop can be noisy. The process generates manageable buzzing noises. It is worse when you’re using relatively lightweight pans. 
-* **Relatively Pricey.** These cooktops may set you back several hundred dollars. However, the investment is worth it. 
+**Cons:**
 
-## Induction Cookware Guide
+- Needs magnetic cookware
+- Can buzz or hum at high power
+- One burner only on most models
+- Large pans may overhang a small coil
 
-Not all cookware will be compatible with your induction cooktop. The compatibility will depend on the magnetic properties of the material used.
+## Cookware for NuWave Induction Cooktops
 
-> For the [cookware to be induction-compatible](https://thekitchenpot.com/blog/best-cookware-for-induction-cooktop/), it must be made from a magnetic material such as cast iron and stainless steel.
+Use pans with a magnetic base. A fridge magnet test tells you quickly.
 
-If a cookware is made from other materials but has a magnetic base, then it will work well with an induction cooktop. For example, a ceramic pan with an iron base.
+- **Cast iron:** Works well. See the [Lodge cast iron skillet review](/blog/lodge-cast-iron-skillet-review/).
+- **Stainless steel:** Most clad stainless works, like the [Cuisinart MultiClad Pro set](/blog/cuisinart-mcp-12n-multiclad-pro-stainless-steel-12-piece-cookware-set/).
+- **Carbon steel:** Works, but can warp on high power; see [carbon steel on induction](/blog/carbon-steel-on-induction-does-it-work-will-it-warp/).
+- **Aluminum and copper:** Will not work unless the base is magnetic.
 
-## Best Alternatives of NuWave Induction Cooktops
+For full recommendations, see the [best cookware for an induction cooktop](/blog/best-cookware-for-induction-cooktop/). To use pans you already own, read [how to use non-induction cookware on an induction cooktop](/blog/how-to-use-non-induction-cookware-on-induction-cooktop/).
 
-### **1. Duxtop Portable Induction Cooktop**
+## Who Should Buy a Portable Induction Cooktop
 
-Duxtop Cooktops are among the best sellers in Amazon and other online stores. They are lightweight and highly effective when you need an outdoor cooking experience. 
+**Small kitchens and studios.** One induction burner can stand in for a full stove. See [how to cook a full meal with only two burners](/blog/how-to-cook-a-full-meal-with-only-two-burners/).
 
-#### **Features that make Duxtop more Dynamic than Nuwave**
+**Dorms and rentals.** Where open flames are banned, induction is often allowed. Check your lease first.
 
-* The Duxtop portable induction cooktop uses 120V/15 amp electrical outlet and has a digital control panel for easy operation.
-*  The cooktop has a digital timer that allows a 1-minute increment, allowing you to set a cook time of up to 170 minutes.
-* You can set the temperature using a 10-degrees increment to set the cooking temperature of 140 °F to 460 °F. 
-* To ensure that control power consumption, the cooktop allows ten power levels ranging from 200 to 1800 watts.
-* The cooktops have a durable 7-blade fan that helps in dissipating heat, thus guaranteeing longevity.
-* Auto-pan detection feature. The cooktop shuts down automatically if no pan is placed on the cooking surface within 60 seconds. 
+**Extra burner for holidays.** Add a burner on the counter for gravy, sauces or a pot of stock.
 
-#### 3 Duxtop Induction Cooktops to Consider
+**Energy savers.** Induction puts more of its energy into the pan than gas or coil. See [how to reduce kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/).
 
-##### **\>** [Duxtop 1800W Portable Induction Cooktop Countertop Burner, Gold 8100MC/BT-180G3](https://www.amazon.com/Duxtop-8100MC-Portable-Induction-Countertop/dp/B0045QEPYM/?tag=kitchenpot-20)
+For more single and double burners, see the [best induction cooktop for the money](/blog/best-induction-cooktop-for-the-money/).
 
-Features
+## Safety Tips
 
-**Brand**
+- Keep the cooktop on a flat, heat-safe surface with space for air vents.
+- Do not run it on the same circuit as other high-power appliances.
+- Keep credit cards and phones away from the surface; the magnetic field can affect them.
+- People with pacemakers should ask their doctor about induction use.
+- Let the glass cool before wiping it.
 
-Duxtop
+## Cleaning and Care
 
-**Material**
+Wipe the glass with a damp cloth once it cools. A quick wipe after each use stops grease from baking on the next time you cook. For stuck-on spills, use a ceramic cooktop cleaner and a soft pad.
 
-Glass+PP
+Never use steel wool or abrasive powder on the glass. Keep the air vents clear of dust.
 
-**Color**
+## NuWave Air Fryers and Ovens
 
-Gold
+NuWave also makes countertop ovens and air fryers. See [how to use a NuWave oven](/blog/how-to-use-a-nuwave-oven/) and [NuWave oven vs air fryers](/blog/nuwave-oven-vs-air-fryers/).
 
-**Item Dimensions LxWxH**
+## What to Cook on a Portable Induction Burner
 
-13 x 11.5 x 2.5 inches
+A single induction burner handles more than most people expect.
 
-**Control Console**
+- **Pasta and soup.** A tall [stockpot with a lid](/blog/best-stockpot-with-a-lid/) boils fast on 1800W models.
+- **Searing steaks and chops.** The Pro Chef and Gold Pro reach 575°F, hot enough for a strong crust in cast iron.
+- **Pancakes.** Set a fixed temperature and every pancake browns the same. A flat [griddle pan](/blog/best-griddle-pan-for-pancakes/) with a magnetic base works well.
+- **Braises.** A heavy [sauté pan](/blog/best-saute-pan/) or Dutch oven holds a gentle simmer for hours.
+- **Deep frying.** Precise temperature control keeps oil steady, which is safer and gives crisper results.
+- **Fondue and hot pot.** A portable burner on the dining table is perfect for shared meals; see [how to use a fondue pot](/blog/how-to-use-a-fondue-pot/).
 
-Push Button
+## Induction vs Gas vs Electric Coil
 
-[Check Latest Price on Amazon](https://www.amazon.com/Duxtop-8100MC-Portable-Induction-Countertop/dp/B0045QEPYM/?tag=kitchenpot-20)
+**Induction** is the fastest and most precise. The surface stays cooler, and spills do not burn on. It needs magnetic pans.
 
-##### \> [Duxtop Portable Induction Cooktop, Countertop Burner Induction Hot Plate with LCD Sensor Touch 1800 Watts, Silver 9600LS/BT-200DZ](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20)
+**Gas** responds instantly and works with any pan. It heats the kitchen, needs ventilation and is harder to clean.
 
-Features
+**Electric coil and radiant glass** work with most flat pans but heat and cool slowly. Thin pans can warp on them; see [coil stove cookware: what works and what warps](/blog/coil-stove-cookware-what-works-what-warps/). Heavy cast iron can also scratch glass tops, so read [how to protect a glass-top stove from cast iron](/blog/how-to-protect-glass-top-stove-from-cast-iron/).
 
-**Brand**
+## Why Induction Burners Buzz
 
-Duxtop
+A soft hum or buzz at high power is normal. It comes from the magnetic field vibrating the pan, and it is louder with thin or multi-layer pans.
 
-**Material**
+Lowering the power or using a heavier pan usually quiets it. Clicking can also come from the cooling fan cycling on and off. For more, see [what your cookware sounds are telling you](/blog/what-your-cookware-sounds-are-telling-you/).
 
-Glass panel
+A warped pan rocks on the flat glass and heats poorly. If yours rocks, here is [how to fix a warped pan](/blog/how-to-fix-a-warped-pan/).
 
-**Color**
+## Taking an Induction Burner Camping or on the Road
 
-Silver
+Portable induction works anywhere with a reliable outlet: RVs on hookup, cabins, boats and campsite power posts.
 
-**Item Dimensions LxWxH**
+Use the lower wattage settings on weak or shared circuits. The Flex and Flex Pro are the easiest to run on limited power.
 
-14 x 11.4 x 2.5 inches
+Pair it with light, magnetic pans. Our guide to the [best camping cookware](/blog/best-camping-cookware/) covers nesting sets that pack small.
 
-**Burner type**
+## Setting Up a Small-Kitchen Cooking Station
 
-Radiant
+A portable burner plus a few small appliances can replace a full stove in a studio. A [rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/) and a toaster oven cover most other cooking.
 
-**Control Console**
+Keep the burner on a heat-safe board, with a small rack nearby for one pan and a lid. See [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) for layout tips.
 
-Touch
+## Single vs Double Induction Burners
 
-[Check Latest Price on Amazon](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20)
+A single burner suits most small kitchens and extra-burner needs. It is light and stores in a cabinet.
 
-##### \> [Duxtop 1800W Portable Induction Cooktop Countertop Burner, Black 9100MC/BT-M20B](https://www.amazon.com/Secura-9100MC-Portable-Induction-Countertop/dp/B00GMCAM2G/?tag=kitchenpot-20)
+A double burner gives you a near-complete stove, but the two zones usually share one power supply. Running both at full power is slower than two separate single burners.
 
-Features
+NuWave's PIC Double and Double Pro were sold out on NuWave's store when we checked. If you need two zones now, two single burners on separate circuits often cook faster.
 
-**Brand**
+## Which NuWave Induction Cooktop Should You Buy?
 
-Duxtop
+Buy the **PIC Pro Chef** for the widest range, finest control and NSF build.
 
-**Material**
+Pick the **PIC Gold Pro** for an everyday burner with the same 575°F maximum.
 
-Glass+ABS
+Choose the **PIC Flex Pro** for a capable mid-size burner at a low price.
 
-**Color**
+Get the **PIC Flex** for dorms, RVs and travel.
 
-Black
+Go with the **Duxtop 9600LS** for proven even heating from another brand.
 
-**Item Dimensions LxWxH**
+Choose the **Duxtop 8100MC** for the lowest price.
 
-16.3 x 12.7 x 3.8 inches
+## Related Guides
 
-**Burner type**
-
-Radiant
-
-**Control Console**
-
-Push Button
-
-[Check Latest Price on Amazon](https://www.amazon.com/Secura-9100MC-Portable-Induction-Countertop/dp/B00GMCAM2G/?tag=kitchenpot-20)
-
-### 2. CUSIMAX Induction Cooktop 1800W Portable Induction Burner
-
-Features
-
-* Voltage: 120 V
-* Power: 200W-1800 W
-* Frequency: 60 Hz
-* Temperature: 140℉ to 464℉
-* Timer: 1-180 minutes
-* Unit Size: 290mm\*380mm\*60mm
-* Package Weight: 6.80LB
-
-This induction cooktop has uniformly distributed electromagnetic coils, which allows even heat distribution. It has nine power (ranging from 200 to 1800w)  and ten temperature (140℉ to 464℉) settings, which gives you the flexibility to set the heat you need depending on your menu. 
-
-You will require magnetic cookware to use this burner. If your cookware is not ideal, the cooktop will show an E0 error. Cast iron, stainless steel, and enameled cast iron are perfect cookware. You can also use other cookware as long as they have a base made of a magnetic material. 
-
-Additionally, this cooktop has a Child Lock feature for guaranteed safety. No open flame will be visible, further making it ideal for the elderly, children, and pet lovers. 
-
-***Read a [comprehensive guide on other induction cooktops](https://thekitchenpot.com/blog/best-induction-cooktop-for-the-money/) you can consider***
-
-## NuWave Induction Cooktop Review – The Bottom Line
-
-NuWave induction cooktop uses magnetic fields to heat induction-ready pans. It is lightweight and small-sized, allowing you to use it outdoors. 
-
-Additionally, this cooktop has several SMART features that make it better than traditional electric and gas cooktops. For example, the Nuwave induction cooktop does not get hot on the cooking surface, thus guaranteeing safety.
-
-These cooktops offer LCD control panels for ease of control. You can adjust cooking temperatures and timings, enabling you to undertake different functions such as searing, warming, boiling, and grilling. 
-
-This NuWave induction cooktop review offers a comprehensive analysis of this appliance. Read through it before deciding which induction cooktop to buy. 
-
-## NuWave Induction Cooktop Frequently Asked Questions 
-
-1. ### Is the NuWave induction cooktop good?
-
-   Yes, NuWave offers some of the best induction cooktops in the market. The cooktop has several SMART features such as digital timers, LCD control panel, and button-control temperature settings. These features guarantee convenience and efficacy. 
-2. ### How does NuWave induction cooktop work?
-
-   It works through magnetic induction. The cooktop has several magnetic coils underneath the cooking surface. These coils produce magnetic fields that get into contact with the magnetic cookware, thus generating heat. It cannot work unless you use magnetic cookware. 
-3. ### What does e01 mean in the NuWave induction cooktop?
-
-   This is an error message signaling that the temperature of the IGBT sensor is over high. / The sensor is open/short circuit. To solve it, you should place induction-ready cookware (cookware whose base is magnetic)
+- [Most Energy-Efficient Small Kitchen Appliances](/blog/most-energy-efficient-small-kitchen-appliances/)
+- [Best Small Kitchen Appliances for Cooking for One](/blog/best-small-kitchen-appliances-for-cooking-for-one/)
+- [Best Compact Energy Star Appliances for Small Kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/)
+- [Best Portable Grills for Apartment Living](/blog/best-portable-grills-for-apartment-living/)
+- [Best Waterless Cookware](/blog/best-waterless-cookware-reviews/)
+- [Easy Meal Prep Ideas for One Person in a Small Kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/)
+- [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)

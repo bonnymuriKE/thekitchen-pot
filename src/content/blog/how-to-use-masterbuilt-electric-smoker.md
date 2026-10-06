@@ -1,19 +1,17 @@
 ---
-excerpt: Ready to smoke like a pro? Learn how to use Masterbuilt electric smoker
-  in 5 simple steps that make BBQ brilliance effortlessly. It’s a must-have for
-  any meat lover.
+excerpt: "How to use a Masterbuilt electric smoker: pre-seasoning, loading wood chips, using the water bowl, setting time and temperature, smoking times for popular meats, cleaning and fixing common problems."
 showTableOfContents: true
 authorId: kitchenpot1
-title: How to Use Masterbuilt Electric Smoker - 5 Simple Steps
+title: "How to Use a Masterbuilt Electric Smoker: Step-by-Step Guide"
 source: wordpress
 slug: how-to-use-masterbuilt-electric-smoker
 pubDate: 2021-01-26
-modDate: 2025-02-12
+modDate: 2026-10-06
 image: ""
 category: Gas And Charcoal Grills
 author: Boniface Muriuki
 authorImage: ""
-coverAlt: How to Use Masterbuilt Electric Smoker - 5 Simple Steps
+coverAlt: "A Masterbuilt digital electric smoker with the door open, showing racks of ribs and a water bowl inside"
 tags:
   - best-smoker-box-for-gas-grills
   - charcoal-and-gas-grill-combo
@@ -21,287 +19,241 @@ tags:
   - infrared-grills-for-the-money
   - offset-smokers-for-beginners
 authorImageAlt: kitchenpot1
-description: "Ready to smoke like a pro? Learn how to use Masterbuilt electric smoker in 5 simple steps that make BBQ brilliance effortlessly. It’s a must-have for any meat lover."
-seo: Wondering how to use Masterbuilt electric smoker? While it may appear
-  complicated at first, this guide will simplify it for you. Read on and smoke
-  your meat like a pro!
+description: "How to use a Masterbuilt electric smoker: pre-seasoning, wood chips, the water bowl, temperatures, smoking times for meats, cleaning, and the common fixes."
+seo: "How to use a Masterbuilt electric smoker: pre-seasoning, wood chips, water bowl, temperature, smoking times for ribs, brisket and chicken, cleaning and fixes."
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+faq:
+  - question: "Do you need to season a Masterbuilt electric smoker?"
+    answer: "Yes. Masterbuilt's 710 manual says to run the smoker at 275°F for 3 hours with the water bowl in place but empty, adding 1/2 cup of wood chips for the last 45 minutes."
+  - question: "How often do you add wood chips to a Masterbuilt electric smoker?"
+    answer: "Add more chips when the previous load has stopped smoking. Masterbuilt's manual says never to load more than 1 1/2 cups at a time and not to use wood chunks or pellets."
+  - question: "Do you put water in a Masterbuilt electric smoker?"
+    answer: "Usually, yes. Fill the water bowl to the fill line with water or juice to add moisture and catch drips. Leave it empty during pre-seasoning."
+  - question: "Can you use a Masterbuilt electric smoker in a garage?"
+    answer: "No. Masterbuilt says its electric smokers are for outdoor household use only and should not be used in enclosed areas such as garages or covered patios."
+  - question: "Do you soak wood chips for an electric smoker?"
+    answer: "It is not necessary. Dry chips smoke sooner and more cleanly. Many cooks skip soaking completely."
 ---
-If grilling and smoking meat is your forte, then you’ll opine that the Masterbuilt electric smoker is a game-changer. The dynamic appliance is, by far, the most convenient and efficient smoker you’ll find in the market today.
+A Masterbuilt electric smoker is one of the easiest ways to start smoking meat. You set the temperature, add wood chips and let it hold steady heat for hours.
 
-If you’ve recently acquired the **[Masterbuilt smoker](https://www.amazon.com/Masterbuilt-130B-Digital-Electric-Smoker/dp/B07CN38M23/?tag=kitchenpot-20)**, you may have realized that it appears complicated at first. It is easy for a beginner to freak out thinking that operating the smoker is a complicated maze. 
+Here is how to pre-season it, load chips, use the water bowl and smoke popular cuts with confidence.
 
-Before you regret buying the smoker, read this guide on how to use Masterbuilt electric smoker, and you’ll realize how easy it is to use it. Once you have the tips, you’ll appreciate the day you decided to purchase one!
+**The short version:** Pre-season the smoker at 275°F for 3 hours, adding 1/2 cup of wood chips for the last 45 minutes. To cook, fill the water bowl, set the temperature (usually 225°F to 250°F) and load up to 1 1/2 cups of chips through the side loader. Add more chips only when the smoke stops. Cook to internal temperature, not time. A digital model such as the [Masterbuilt 30-inch digital electric smoker](https://www.amazon.com/Masterbuilt-130B-Digital-Electric-Smoker/dp/B07CN38M23/?tag=kitchenpot-20) makes this very easy.
 
-It will offer exceptional convenience and unmatched efficacy that will enable you to grill your meat like a pro. The smoking element is well-thought-out, and you can be sure that all you’ll get is a tasty BBQ that will leave you yearning for the next grilling session. 
+## How a Masterbuilt Electric Smoker Works
 
-## Masterbuilt Electric Smoker Review -Overview
+An electric smoker is an insulated cabinet with a heating element at the bottom. A wood chip tray sits above the element, so the chips smolder and make smoke.
 
-1. **[Masterbuilt MB20071117 Digital Electric Smoker, 30 inch, Black](https://www.amazon.com/Masterbuilt-130B-Digital-Electric-Smoker/dp/B07CN38M23/?tag=kitchenpot-20) – Best Overall**
+Above that is a water bowl, and then the cooking racks. The digital controller holds the temperature you set.
 
-Features
+Masterbuilt's patented side wood chip loader lets you add chips without opening the door. That keeps heat and smoke inside.
 
-**Brand**
+Masterbuilt's current range includes 30-inch and 40-inch digital models and the 710 WiFi model. Masterbuilt lists the 40-inch model with 970 square inches of cooking space on four racks and a maximum of 275°F. The 710 WiFi adds app control and built-in meat probes.
 
-Masterbuilt
+When we checked Masterbuilt's store, the 30-inch with window, the 40-inch and the 710 WiFi were in stock. The basic 30-inch digital model was sold out.
 
-**Model Name**
+## Parts of a Masterbuilt Electric Smoker
 
-Digital Electric
+- **Control panel:** Sets the temperature and cooking time.
+- **Heating element:** At the bottom of the cabinet.
+- **Wood chip tray and side loader:** Where the chips go.
+- **Water bowl:** Adds moisture and catches drips.
+- **Cooking racks:** Usually three or four chrome-coated racks.
+- **Drip pan or grease tray:** Catches fat at the bottom or back.
+- **Meat probe:** On many digital models, it reads the internal temperature.
+- **Air damper:** On top; controls airflow and smoke.
 
-**Power Source**
+## Before First Use: Pre-Seasoning
 
-Corded Electric
+New smokers have manufacturing oils and residue inside. Pre-seasoning burns these off and coats the inside with a light layer of smoke.
 
-**Color**
+Masterbuilt's [710 manual](https://www.manualslib.com/manual/3366639/Masterbuilt-710.html) gives these steps:
 
-Black
+1. Make sure the water bowl is in place, but leave it empty.
+2. Set the temperature to 275°F.
+3. Run the smoker for 3 hours.
+4. During the last 45 minutes, add 1/2 cup of wood chips through the loader.
+5. Let the smoker cool completely.
 
-**Material**
+Check your own manual, as steps can differ slightly by model.
 
-Steel
+## Choosing Wood Chips
 
-**Item Weight**
+Masterbuilt electric smokers are designed for wood chips. The manual says not to use wood chunks or pellets.
 
-45.9 Pounds
+| Wood | Flavor | Best With |
+| --- | --- | --- |
+| Hickory | Strong, bacon-like | Pork, ribs, beef |
+| Apple | Mild, sweet | Pork, chicken, fish |
+| Cherry | Mild, fruity, deep color | Pork, poultry |
+| Mesquite | Very strong, earthy | Beef, in small amounts |
+| Pecan | Medium, nutty | Pork, poultry |
+| Oak | Medium, balanced | Brisket, beef |
+| Alder | Light, delicate | Salmon and fish |
 
-**Item Dimensions LxWxH**
+Mild fruit woods are a good choice for beginners. Mesquite can turn bitter over a long smoke, so use it sparingly or mix it with another wood.
 
-19.88 x 20.47 x 33.26 inches
+You do not need to soak chips. Dry chips start smoking faster and burn cleaner.
 
-**fuel type**
+## How to Use a Masterbuilt Electric Smoker Step by Step
 
-Electric
+### 1. Set Up Outdoors
 
-[Check Latest Price on Amazon](https://www.amazon.com/Masterbuilt-130B-Digital-Electric-Smoker/dp/B07CN38M23/?tag=kitchenpot-20)
+Place the smoker on a flat, stable surface outdoors. Masterbuilt says to keep it at least 10 feet from walls, rails, overhangs and other combustible materials. Never use it in a garage, shed or enclosed patio.
 
-2. **[Masterbuilt MB20070210 Analog Electric Smoker with 3 Smoking Racks, 30 inch, Black](https://www.amazon.com/Masterbuilt-MES-35B-Electric-Smoker/dp/B07NQLF9WD/?tag=kitchenpot-20)**
+If you have a small outdoor space, see our [balcony grilling safety tips and rules](/blog/balcony-grilling-safety-tips-and-rules/) first. Many buildings ban smokers on balconies.
 
-Features
+### 2. Prepare the Meat
 
-**Brand**
+Trim excess fat and apply a dry rub. Many cooks rub the meat the night before and keep it in the fridge. A [meat tenderizer](/blog/how-does-a-meat-tenderizer-work/) can help with tough cuts.
 
-Masterbuilt
+### 3. Fill the Water Bowl
 
-**Model Name**
+Fill the water bowl to the fill line. Masterbuilt's manual says you can use water or juices such as apple or pineapple juice. You can also add fruit slices, onions or herbs.
 
-Analog Electric Smoker
+### 4. Preheat the Smoker
 
-**Power Source**
+Set the temperature and let the smoker heat up for about 30 to 45 minutes. Keep the air damper open.
 
-Corded Electric
+### 5. Add Wood Chips
 
-**Color**
+Load wood chips through the side loader. Never use more than 1 1/2 cups at a time, per Masterbuilt.
 
-Black
+Turn the loader to dump the chips into the tray, then return it to the loading position so smoke stays inside.
 
-**Material**
+### 6. Load the Meat
 
-Cast Iron
+Place the meat on the racks, leaving space between pieces for smoke to flow. Put fattier cuts on lower racks if you want drips to land in the water bowl, not on other food.
 
-**Item Weight**
+Insert the meat probe into the thickest part, away from bone.
 
-49.9 Pounds
+### 7. Set the Time
 
-**Item Dimensions LxWxH**
+Set the cook time on the control panel. Allow extra time, as smoking times vary a lot.
 
-20 x 21.69 x 40.15 inches
+### 8. Add More Chips as Needed
 
-**fuel type**
+Add chips only when the last batch has stopped smoking. Most of the smoke flavor goes in during the first few hours, so you do not need to keep adding chips for the whole cook.
 
-Electric
+### 9. Check the Internal Temperature
 
-[Check Latest Price on Amazon](https://www.amazon.com/Masterbuilt-MES-35B-Electric-Smoker/dp/B07NQLF9WD/?tag=kitchenpot-20)
+Cook to temperature, not time. A [meat thermometer for smoking](/blog/best-meat-thermometer-for-smoking/) is the best tool. The built-in probe is handy, but a second thermometer is a good check.
 
-3. **[Masterbuilt MB20073519 Bluetooth Digital Electric Smoker with Broiler, 30 inch, Black](https://www.amazon.com/Masterbuilt-MB20073519-Bluetooth-Digital-Electric/dp/B07NQTTPGY/?tag=kitchenpot-20)**
+### 10. Rest and Serve
 
-Features
+Rest large cuts before slicing. Brisket and pork shoulder benefit from an hour or more wrapped in foil or butcher paper. A [meat slicer for home use](/blog/best-meat-slicer-for-home-use/) helps with thin, even brisket slices.
 
-**Brand**
+## Smoking Times and Temperatures
 
-Masterbuilt
+| Meat | Smoker Temp | Approx. Time | Target Internal Temp |
+| --- | --- | --- | --- |
+| Pork ribs (baby back) | 225°F to 250°F | 4 to 6 hours | Tender; about 195°F to 203°F |
+| Pork shoulder | 225°F to 250°F | About 1.5 hours per lb | 195°F to 205°F for pulling |
+| Beef brisket | 225°F to 250°F | About 1 to 1.5 hours per lb | 195°F to 205°F |
+| Whole chicken | 250°F to 275°F | 3 to 4 hours | 165°F in the breast |
+| Chicken wings | 250°F to 275°F | About 2 hours | 165°F or higher |
+| Salmon | 200°F to 225°F | 1 to 2 hours | 145°F |
+| Sausages | 225°F | 2 to 3 hours | 160°F for pork |
 
-**Model Name**
+Times are only a guide. Weather, meat size and how often you open the door all change cooking time.
 
-Bluetooth Digital
+## Using the Water Bowl
 
-**Power Source**
+The water bowl does three jobs: it adds moisture, steadies the temperature and catches drips.
 
-Corded Electric
+- **Fill it before each cook.**
+- **Check it on long smokes.** Top it up with hot water if it runs low.
+- **Add flavor.** Apple juice, beer or herbs add a subtle flavor.
+- **Use less water for crispy skin.** For poultry, some cooks use less water so the skin dries and crisps.
 
-**Color**
+## Tips for Better Smoking
 
-Black
+- **Keep the door closed.** Every time you open it, heat and smoke escape.
+- **Smoke at the right time.** Cold meat absorbs more smoke, so put it in straight from the fridge.
+- **Do not overdo the smoke.** Too much smoke makes meat bitter. Thin, blue smoke is ideal.
+- **Use the top damper.** Keep it at least partly open to prevent stale, sooty smoke.
+- **Protect the smoker from wind.** Cold wind can stop the smoker reaching temperature.
+- **Keep notes.** Write down times, temperatures and wood for each cook.
 
-**Material**
+## How to Clean a Masterbuilt Electric Smoker
 
-Stainless Steel
+1. **Let it cool completely** and unplug it.
+2. **Remove racks, water bowl, chip tray and drip pan.**
+3. **Wash the racks and bowl** in warm, soapy water.
+4. **Empty ash from the chip tray** once it is cool.
+5. **Wipe the inside walls** with a damp cloth. Do not scrub off all the seasoning.
+6. **Empty and clean the grease tray.**
+7. **Dry everything and cover the smoker** when it is not in use.
 
-**Item Weight**
+Never spray water on the control panel or heating element. Wash the meat probe gently; see [how to clean a meat thermometer](/blog/how-to-clean-a-meat-thermometer/).
 
-54 Pounds
+## Common Problems and Fixes
 
-**Item Dimensions LxWxH**
+| Problem | Likely Cause | Fix |
+| --- | --- | --- |
+| Not enough smoke | Chips burned out or too few | Add chips when the smoke stops |
+| Bitter meat | Too much smoke, or damper closed | Use fewer chips; open the damper |
+| Will not reach temperature | Cold weather, wind or open door | Use a cover or windbreak; keep the door shut |
+| Chips not smoking | Element not hot yet | Wait for preheat to finish |
+| Error code on display | Probe or controller issue | Check the manual and reseat connections |
+| Meat dry | Overcooked or water bowl empty | Cook to temperature; keep the bowl filled |
 
-19.88 x 20.66 x 33.46 inches
+## Safety Tips
 
-**fuel type**
+- **Outdoor use only.** Never use the smoker indoors or in a garage.
+- **Use heat-resistant gloves.** Racks and trays get very hot. See the [best heat-resistant gloves for cooking](/blog/10-best-heat-resistant-gloves-for-cooking/).
+- **Use a grounded outdoor outlet.** Avoid long, light-duty extension cords.
+- **Keep children and pets away.**
+- **Let ash cool before disposal.**
 
-Electric
+## Electric vs Other Smokers
 
-[Check Latest Price on Amazon](https://www.amazon.com/Masterbuilt-MB20073519-Bluetooth-Digital-Electric/dp/B07NQTTPGY/?tag=kitchenpot-20)
+Electric smokers are the easiest to use, but they produce less smoke flavor and bark than charcoal or offset smokers. Propane smokers reach higher temperatures and work away from an outlet.
 
-## Why Smoking Meat is Important
+To compare, see [how to use an electric smoker](/blog/how-to-use-an-electric-smoker/), the [best propane smoker](/blog/best-propane-smoker/) and the [best offset smoker for beginners](/blog/best-offset-smoker-for-beginners/). If you have a gas grill, a [smoker box](/blog/best-smoker-box-for-gas-grills/) adds smoke flavor; here is [how to use a smoker box on a gas grill](/blog/how-to-use-a-smoker-box-on-a-gas-grill/).
 
-If you’re wondering why you should hassle all through to smoke your meat, then you’ve probably not tasted smoked meat.
+## Easy First Cook: Smoked Chicken Wings
 
-If you have, then I guess you did not get adequately smoked meat. I challenge you to look for a friend or restaurant where smoking is what they love doing. Taste the meat once it is ready.
+Wings are a good first cook. They are cheap, quick and forgiving.
 
-You will instantly notice the difference in taste!
+1. Pat 2 to 3 lb of wings dry and toss them in a dry rub.
+2. Fill the water bowl about halfway, and preheat the smoker to 250°F.
+3. Add 1/2 to 1 cup of apple or cherry chips.
+4. Lay the wings on the racks in a single layer.
+5. Smoke for about 1.5 to 2 hours, until they reach at least 165°F.
+6. For crispier skin, finish them on a hot grill or in an oven for a few minutes.
 
-Smoked meat has an unmatched aroma and flavor. It also **tenderizes the meat**, ensuring that you focus on eating without the worry of chewy pieces. 
+Leftover wings reheat well; here is [how to reheat chicken wings](/blog/how-to-reheat-chicken-wings/) without drying them out.
 
-## How to Use Masterbuilt Electric Smoker in 5 Easy Steps 
+## Storing Smoked Meat
 
-Are you wondering how to achieve the best results using your Masterbuilt electric smoker? Here’s a comprehensive guide. Ensure that you follow each step to the letter to achieve phenomenal results.
+Smoked meat keeps well if you cool and store it properly.
 
-**1. Seasoning Your Masterbuilt Electric Smoker**
+- **Cool it quickly.** Get leftovers into the fridge within two hours.
+- **Use airtight containers.** They keep meat moist and stop smoke smells spreading through the fridge. See the [best airtight food storage containers](/blog/best-airtight-food-storage-containers/).
+- **Eat within a few days.** Most cooked meat keeps 3 to 4 days in the fridge. Here is [how long chicken lasts in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/).
+- **Freeze extras.** Pulled pork and sliced brisket freeze well in portions.
 
-Do not attempt to start your grilling escapades before seasoning your smoker! If you do, you’ll experience sticky grates, and your meals are likely to burn. Seasoning it will offer the following benefits:
+## Smoking in a Small Outdoor Space
 
-* **Enhance Safety.** New smokers have left oils and dirt. Some of its components may lead to a harsh smell that’ll render your BBQ inedible. Seasoning the grill helps in eliminating the odor and dirt, thus ensuring top-notch safety.
-* **Increase its efficacy.** Seasoning your smoker will enhance its usability. The grates will become ready to handle your meals without them sticking to the surface. As such, you’ll have a better smoking escapade if you season your smoker. 
+Electric smokers suit small yards and patios well. They need no charcoal or propane tank, and they hold steady heat with little attention.
 
-To achieve these benefits and enjoy healthy meat, then follow the following seasoning steps:
+Space and safety still matter. Keep the 10-foot clearance Masterbuilt asks for, and check your lease or building rules first. Our guides to [setting up a small patio for grilling](/blog/how-to-set-up-a-small-patio-for-grilling/), the [best small grills for balconies and patios](/blog/best-small-grills-for-balconies-and-patios/) and the [best portable grills for apartment living](/blog/best-portable-grills-for-apartment-living/) cover other options for tight spaces.
 
-* Ensure that the smoker, hooks, and racks are in place. **You should never put water in the water pan!**
-* Plugin the electric smoker and press the power button to start the smoker
-* Set the temperature to 275 degrees Fahrenheit and let it set the timer to approximately 3 hours
-* After 2 hours, add half a cup of your favorite wood chips to the **[smoker box](https://thekitchenpot.com/blog/best-smoker-box-for-gas-grills/)**. Let them heat for the remaining one hour. 
-* Switch off your smoker and let it cool. Once it cools, then it will be ready for use! 
+## What to Serve With Smoked Meat
 
-Ensure that you follow all the steps. This will help to remove dirt and impurities from the manufacturer. 
+Classic sides include coleslaw, baked beans, potato salad and corn. Grilled corn is easy; see [how to grill corn on the cob](/blog/how-to-grill-corn-on-the-cob/).
 
-**2. Ingredients Preparation** 
+Smoked meat also pairs well with crisp pickles, cornbread and a simple green salad to cut the richness. Keep your knives sharp for carving with a good [knife sharpener](/blog/best-knife-sharpener/), as a dull blade tears the bark and shreds tender brisket.
 
-After seasoning is complete, it is now time to put your smoker to the real test. First, you should prepare your meat – whichever you want to smoke. 
+For carving and slicing, a sharp knife matters. See our [Wusthof knives review](/blog/wusthof-knives-review/).
 
-It could be turkey, chicken, goat ribs, brisket, beef, fish, sausage, and pulled pork, among others. The smoker is highly versatile, and you can smoke virtually anything, including veggies. 
+## Related Guides
 
-***To get the best flavors, we recommend that you marinate your meat overnight. This will allow it to absorb the herbs and spices, thus enhancing its flavor.***
-
-Prepare the ingredients by chopping them, seasoning (with herbs and oils), and readying them for the smoking process. 
-
-**3. Preheat the Masterbuilt Electric Smoker**
-
-Once you’re through with preparing your ingredients, you should turn on your smoker and allow it to preheat to get the best-smoked meals. 
-
-If you put your meat into a cold smoker, it will take longer to achieve the best smoking temperature, and the results will not be appealing. 
-
-To avoid this disappointment, you should follow the following preheating steps:
-
-* Place your preferred wood chips into the smoker box (**[while the smoker is still cold](https://thekitchenpot.com/blog/how-to-use-a-smoker-box-on-a-gas-grill/))**
-* Turn on your smoker and set it to your desired temperature (based on your Masterbuilt electric smoker recipe). If you’re cooking meat, you should set your temperature at approximately 225 degrees Fahrenheit.
-* After approximately 30 minutes (or when the smoker gets to your desired temp), add more wood chips.
-* When you’re ready to start cooking, you can fill the water pan with water (some people will prefer wine, vinegar, cola, and other beverages to achieve a unique taste) 
-
-Now that your smoker is already producing smoke and you have water in the tray, it’s time to start the smoking process!
-
-**4. Smoking Your Meat**
-
-Place your meat on the grates and give it time to cook. Ensure that you use the right temperature for the proper meal (check with your recipe. However, it should be 225 degrees Fahrenheit to 250 degrees Fahrenheit for most meals.
-
-***We recommend that you buy the [best meat thermometer for smoking](https://thekitchenpot.com/blog/best-meat-thermometer-for-smoking/). This will enable you to keep a check on your temperature and determine when your meat is ready.*** 
-
-Additionally, you should set your time to ensure that you do not overcook or undercook your meat. Ensure that you have water on the water pan to achieve substantial moisture, thus guaranteeing moist and delicious meat. 
-
-**5. Keep Adding Water and Wood Chips**
-
-Once in a while, you should check whether the wood chips are yielding the required smoke. If not, then you should add some. Always ensure a consistent flow of smoke to achieve an irresistible smoky taste.
-
-Also, ensure that you top up the water in case it’s running too low. This way, you will get a moist meal. 
-
-If you want to **[raise your smoker](https://www.amazon.com/Masterbuilt-MB20101114-Smoker-Wheels-Black/dp/B07G5C61LG/?tag=kitchenpot-20)** for ease of use, then you can consider buying a **[Masterbuilt stand](https://www.amazon.com/Masterbuilt-20101113-Digital-Electric-30-Inch/dp/B00BJ28G36/?tag=kitchenpot-20)**.
-
-## How To Know Your Meat is Cooked
-
-If you’re having trouble determining whether your meat is cooked, then you should use a meat thermometer to determine the temperature of the thickest part of the meat.
-
-Here is a chart to guide you on how to use the meat thermometer for smoking:
-
-**Degree**
-
-**Temperature of the Core**
-
-Medium
-
-140-145 degrees F
-
-Medium-Well
-
-150-155 degrees F
-
-Well Cooked
-
-160 degrees F
-
-Brisket
-
-165 to 175 degrees F
-
-Alternatively, you can use the following tips to determine the doneness of your meat:
-
-* Pierce the thickest part of your meat with a fork. Ensure that the juices run clear
-* Cut the meat with a **[knife](https://thekitchenpot.com/blog/wusthof-knives-review/)** and check whether it’s steaming. The innermost part of the meat should be steaming.
-* Check the meat’s color. Cooked meat should not be pink.
-
-## How to Clean Your Masterbuilt Electric Smoker after Use 
-
-Cleaning your smoker is one of the most crucial maintenance tips. After you switch it off, you should let it cool for several hours before embarking on cleaning.
-
-The cleaning should aim at removing grease, dirt, residue, and burnt food. We advise that you do after a few hours. If you let it cool, you can be sure that the cleaning will not be a pleasant exercise. 
-
-## Masterbuilt Electric Smoker Recipes
-
-This smoker is one of the most versatile kitchen appliances that you’ll ever find. It allows you to cook different meals without a hassle. Some of the popular meals you can cook with the Masterbuilt electric smoker include:
-
-* **Smoked pork shoulder**
-* **Smoked chicken breast** 
-* **Smoked chicken thighs** 
-* **Smoked turkey brine**
-* **Traeger smoked turkey**
-* **Smoked Boston butt**
-* **Smoked salmon brine**
-* **Smoked brisket rub**
-
-These are just a few of the meals you can cook in the smoker. To achieve the best results, ensure that you follow the smoking procedure we’ve detailed herein. Do not skip a step lest you regret your smoking escapades. 
-
-*Always use you **[heat-resistant gloves when grilling](https://thekitchenpot.com/blog/10-best-heat-resistant-gloves-for-cooking/)** your meat to avoid burns*
-
-You must maintain the ideal water levels and add wood chips to enhance the flavor. 
-
-## How to use Masterbuilt Electric Smoker -The Bottom Line
-
-Buying a Masterbuilt electric smoker is, without a doubt, an outstanding achievement. However, you will never enjoy using it unless you learn the ropes early enough.
-
-If you just acquired a Masterbuilt electric smoker, this guide will help you get the best results. We’ve provided the six most crucial you should follow.
-
-If you were wondering how to use a Masterbuilt smoker, then worry no more! We’ve got your back. 
-
-## How to Use Masterbuilt Electric Smoker -FAQ
-
-### Should I soak wood chips when using a Masterbuilt electric smoker?
-
-Masterbuilt recommends soaking your favorite wood chips for 12 hours. However, our experience with the appliance is different. We recommend not soaking the wood chips. It is entirely not necessary. If you need more flavor, you can always get it during the marination stage.
-
-### How often should I add wood chips to a Masterbuilt electric smoker?
-
-After every 3 hours, one cup of the wood chips should last for 3-4 hours. However, you can add wood chips as often as you want to achieve your ideal smoking level.
-
-### Where do I place the water pan in a Masterbuilt electric smoker?
-
-Always use water when smoking to achieve a moist and flavorful meal. You can put the water pan on the bottom of the rack. You can also place it on any grease tray that is not in use.
-
-### Is a Masterbuilt electric smoker any good?
-
-Yes, this is one of the most solid smokers you can get. It is well insulated to offer a fast, efficient, and convenient grilling and smoking experience.
+- [How to Use a Charcoal Grill](/blog/how-to-use-a-charcoal-grill/)
+- [Best Gas and Charcoal Grill Combo](/blog/best-gas-and-charcoal-grill-combo/)
+- [Best Infrared Grills for the Money](/blog/best-infrared-grills-for-the-money/)
+- [How to Set Up a Small Patio for Grilling](/blog/how-to-set-up-a-small-patio-for-grilling/)
+- [Small Space Grilling Accessories You Actually Need](/blog/small-space-grilling-accessories-you-actually-need/)
+- [How Long Does Chicken Last in the Fridge](/blog/how-long-does-chicken-last-in-the-fridge/)
+- [What Is a Grill](/blog/what-is-a-grill/)
