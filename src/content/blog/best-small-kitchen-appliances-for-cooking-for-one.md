@@ -1,34 +1,52 @@
 ---
-title: "Best Small Kitchen Appliances for Cooking for One (9 Compact Picks)"
+title: Best Small Kitchen Appliances for Cooking for One (9 Compact Picks)
 slug: best-small-kitchen-appliances-for-cooking-for-one
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-10-07
 author: Boniface Muriuki
-image: ""
-coverAlt: "A small air fryer, a compact toaster oven and a 3-cup rice cooker on a narrow apartment kitchen counter"
-excerpt: "Full-size appliances are built for families. If you cook for one in a small kitchen, these nine compact appliances from Cosori, Breville, Instant Pot, Zojirushi, Keurig, Duxtop, Toshiba and Dash are sized for single portions and small counters."
-description: "Best small kitchen appliances for cooking for one: nine compact picks, from a 2-quart air fryer and mini toaster oven to a 3-quart Instant Pot and kettles."
-seo: "Best small kitchen appliances for cooking for one: a 2-quart air fryer, mini toaster oven, 3-quart Instant Pot, 3-cup rice cooker, induction burner and more."
+image: /images/blog/default-cover.jpg
+excerpt: Full-size appliances are built for families. If you cook for one in a
+  small kitchen, these nine compact appliances from Cosori, Breville, Instant
+  Pot, Zojirushi, Keurig, Duxtop, Toshiba and Dash are sized for single portions
+  and small counters.
+description: "Best small kitchen appliances for cooking for one: nine compact
+  picks, from a 2-quart air fryer and mini toaster oven to a 3-quart Instant Pot
+  and kettles."
 category: Small Appliances
 tags:
   - small kitchen appliances for cooking for one
   - compact appliances for one person
   - apartment kitchen appliances
 faq:
-  - question: "What is the most useful small appliance for one person?"
-    answer: "A small air fryer or a compact toaster oven. Both cook single portions faster than a full oven and without heating the kitchen. Choose an air fryer for crispy food, or a toaster oven if you also want toast and small bakes."
-  - question: "What size air fryer is best for one person?"
-    answer: "About 2 to 4 quarts. A 2-quart basket fits one portion of fries, wings or vegetables. Go up to 4 quarts if you often cook for two or batch cook."
-  - question: "Is a 3-quart Instant Pot big enough for one?"
-    answer: "Yes. Instant Pot says the Duo Mini makes up to three servings. It cooks rice, beans, soups and small batches of stew, with leftovers for a day or two."
-  - question: "Which appliances should someone cooking for one skip?"
-    answer: "Skip full-size stand mixers, 12-cup coffee makers, 6-quart-plus slow cookers and large food processors. They are sized for batch cooking you will rarely do and take up too much space."
-  - question: "Can one appliance replace several in a small kitchen?"
-    answer: "Often, yes. A toaster oven can bake, roast and toast, and a multicooker can pressure cook, slow cook, steam and make rice. Two well-chosen appliances can replace four single-purpose ones."
+  - question: What is the most useful small appliance for one person?
+    answer: A small air fryer or a compact toaster oven. Both cook single portions
+      faster than a full oven and without heating the kitchen. Choose an air
+      fryer for crispy food, or a toaster oven if you also want toast and small
+      bakes.
+  - question: What size air fryer is best for one person?
+    answer: About 2 to 4 quarts. A 2-quart basket fits one portion of fries, wings
+      or vegetables. Go up to 4 quarts if you often cook for two or batch cook.
+  - question: Is a 3-quart Instant Pot big enough for one?
+    answer: Yes. Instant Pot says the Duo Mini makes up to three servings. It cooks
+      rice, beans, soups and small batches of stew, with leftovers for a day or
+      two.
+  - question: Which appliances should someone cooking for one skip?
+    answer: Skip full-size stand mixers, 12-cup coffee makers, 6-quart-plus slow
+      cookers and large food processors. They are sized for batch cooking you
+      will rarely do and take up too much space.
+  - question: Can one appliance replace several in a small kitchen?
+    answer: Often, yes. A toaster oven can bake, roast and toast, and a multicooker
+      can pressure cook, slow cook, steam and make rice. Two well-chosen
+      appliances can replace four single-purpose ones.
 smallSpacePillar: cooking-for-one
 showTableOfContents: true
+coverAlt: A small air fryer, a compact toaster oven and a 3-cup rice cooker on a
+  narrow apartment kitchen counter
 source: decap
+seo: "Best small kitchen appliances for cooking for one: a 2-quart air fryer,
+  mini toaster oven, 3-quart Instant Pot, 3-cup rice cooker, induction burner
+  and more."
 ---
 Full-size appliances are built for families. A 6-quart air fryer, a 12-cup coffee maker and a big slow cooker are too much for one person and one small counter.
 
@@ -40,47 +58,47 @@ Here are nine compact appliances sized for single portions, plus how to choose t
 
 Before buying, look at the last two weeks of meals. The right appliance depends on them.
 
-- **Mostly roasted vegetables, chicken and frozen foods?** An air fryer or toaster oven.
-- **Grains, beans, soups and stews?** A multicooker or rice cooker.
-- **Coffee or tea every morning?** A single-serve brewer or kettle.
-- **Short of burners?** An induction burner.
+* **Mostly roasted vegetables, chicken and frozen foods?** An air fryer or toaster oven.
+* **Grains, beans, soups and stews?** A multicooker or rice cooker.
+* **Coffee or tea every morning?** A single-serve brewer or kettle.
+* **Short of burners?** An induction burner.
 
 Most solo cooks need two or three of these, not all nine.
 
 ## Our Picks at a Glance
 
-- **Best small air fryer:** [Cosori Lite 2.1-Quart Air Fryer](https://www.amazon.com/Cosori-Lite-Small-Air-Fryer-Gray/dp/B0BDFRZX3F/?tag=kitchenpot-20)
-- **Best compact toaster oven:** [Breville Mini Smart Oven BOV450XL](https://www.amazon.com/Breville-BOV450XL-Mini-Smart-Oven/dp/B006CVVA7I/?tag=kitchenpot-20)
-- **Best multicooker for one:** [Instant Pot Duo Mini 3-Quart](https://www.amazon.com/Instant-Pot-Duo-Mini-3-Qt/dp/B06Y1YD5W7/?tag=kitchenpot-20)
-- **Best small rice cooker:** [Zojirushi Micom 3-Cup NS-LGC05](https://www.amazon.com/Zojirushi-NS-LGC05XB-Micom-3-Cup-Rice-Cooker/dp/B01EVHWNVG/?tag=kitchenpot-20)
-- **Best extra burner:** [Duxtop 9600LS Portable Induction Cooktop](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20)
-- **Best compact microwave:** [Toshiba 0.7 Cu Ft Microwave MM-EM07PA](https://www.amazon.com/TOSHIBA-Microwave-ChefDefrost-MM-EM07PA-BK/dp/B0F7RB5BQ8/?tag=kitchenpot-20)
-- **Best single-serve coffee maker:** [Keurig K-Mini](https://www.amazon.com/Keurig-K-Mini-Single-Serve-Coffee/dp/B07GV2S1GS/?tag=kitchenpot-20)
-- **Best electric kettle:** [Cosori Gooseneck Electric Kettle](https://www.amazon.com/COSORI-Electric-Gooseneck-Variable-Stainless/dp/B07T1CH2HH/?tag=kitchenpot-20)
-- **Best tiny treat maker:** [Dash Mini Waffle Maker](https://www.amazon.com/DASH-Mini-Waffle-Maker-Nonstick/dp/B01NAM6F2J/?tag=kitchenpot-20)
+* **Best small air fryer:** [Cosori Lite 2.1-Quart Air Fryer](https://www.amazon.com/Cosori-Lite-Small-Air-Fryer-Gray/dp/B0BDFRZX3F/?tag=kitchenpot-20)
+* **Best compact toaster oven:** [Breville Mini Smart Oven BOV450XL](https://www.amazon.com/Breville-BOV450XL-Mini-Smart-Oven/dp/B006CVVA7I/?tag=kitchenpot-20)
+* **Best multicooker for one:** [Instant Pot Duo Mini 3-Quart](https://www.amazon.com/Instant-Pot-Duo-Mini-3-Qt/dp/B06Y1YD5W7/?tag=kitchenpot-20)
+* **Best small rice cooker:** [Zojirushi Micom 3-Cup NS-LGC05](https://www.amazon.com/Zojirushi-NS-LGC05XB-Micom-3-Cup-Rice-Cooker/dp/B01EVHWNVG/?tag=kitchenpot-20)
+* **Best extra burner:** [Duxtop 9600LS Portable Induction Cooktop](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20)
+* **Best compact microwave:** [Toshiba 0.7 Cu Ft Microwave MM-EM07PA](https://www.amazon.com/TOSHIBA-Microwave-ChefDefrost-MM-EM07PA-BK/dp/B0F7RB5BQ8/?tag=kitchenpot-20)
+* **Best single-serve coffee maker:** [Keurig K-Mini](https://www.amazon.com/Keurig-K-Mini-Single-Serve-Coffee/dp/B07GV2S1GS/?tag=kitchenpot-20)
+* **Best electric kettle:** [Cosori Gooseneck Electric Kettle](https://www.amazon.com/COSORI-Electric-Gooseneck-Variable-Stainless/dp/B07T1CH2HH/?tag=kitchenpot-20)
+* **Best tiny treat maker:** [Dash Mini Waffle Maker](https://www.amazon.com/DASH-Mini-Waffle-Maker-Nonstick/dp/B01NAM6F2J/?tag=kitchenpot-20)
 
-We checked each maker's site before listing these. Cosori, Breville, Instant Pot and Dash showed them in stock; Zojirushi, Keurig, Toshiba and Duxtop list them as current products. Instant Pot's Duo Mini has at times been sold only by third-party sellers on Amazon, so check the seller. Prices change often.
 
-| Appliance | Capacity | Footprint (W x D x H) | Power | Maker's Price |
-| --- | --- | --- | --- | --- |
-| Cosori Lite air fryer | 2.1 qt | 10.1 x 8.3 x 10.5 in | 900 W | $59.99 |
-| Breville Mini Smart Oven | 4 slices or 11-in pizza | 16 x 13.6 x 8.8 in | 1800 W | $159.95 |
-| Instant Pot Duo Mini | 3 qt | 10 x 11.4 x 11.2 in | Not listed | $89.99 |
-| Zojirushi NS-LGC05 | 3 cups uncooked | 9.1 x 11.9 x 7.5 in | 450 W | See listing |
-| Duxtop 9600LS | One burner | Compact | 1800 W | See listing |
-| Toshiba MM-EM07PA | 0.7 cu ft | 17.1 x 12.2 x 9.5 in | 700 W | See listing |
-| Keurig K-Mini | One cup | About 4.5 in wide | Not listed | See listing |
-| Cosori gooseneck kettle | 0.8 L | Small | 1200 W | $69.99 |
-| Dash Mini Waffle | 4-in waffle | 2.8 x 6.4 x 5 in | 350 W | $12.99 |
+
+| Appliance                | Capacity                | Footprint (W x D x H) | Power      | Maker's Price |
+| ------------------------ | ----------------------- | --------------------- | ---------- | ------------- |
+| Cosori Lite air fryer    | 2.1 qt                  | 10.1 x 8.3 x 10.5 in  | 900 W      | $59.99        |
+| Breville Mini Smart Oven | 4 slices or 11-in pizza | 16 x 13.6 x 8.8 in    | 1800 W     | $159.95       |
+| Instant Pot Duo Mini     | 3 qt                    | 10 x 11.4 x 11.2 in   | Not listed | $89.99        |
+| Zojirushi NS-LGC05       | 3 cups uncooked         | 9.1 x 11.9 x 7.5 in   | 450 W      | See listing   |
+| Duxtop 9600LS            | One burner              | Compact               | 1800 W     | See listing   |
+| Toshiba MM-EM07PA        | 0.7 cu ft               | 17.1 x 12.2 x 9.5 in  | 700 W      | See listing   |
+| Keurig K-Mini            | One cup                 | About 4.5 in wide     | Not listed | See listing   |
+| Cosori gooseneck kettle  | 0.8 L                   | Small                 | 1200 W     | $69.99        |
+| Dash Mini Waffle         | 4-in waffle             | 2.8 x 6.4 x 5 in      | 350 W      | $12.99        |
 
 ## 1. [Cosori Lite 2.1-Quart Air Fryer](https://www.amazon.com/Cosori-Lite-Small-Air-Fryer-Gray/dp/B0BDFRZX3F/?tag=kitchenpot-20): Best Small Air Fryer
 
-- **Model:** CAF-LI211 (gray)
-- **Capacity:** 2.1 quarts
-- **Power:** 900 watts
-- **Temperature:** 170 to 400°F
-- **Functions:** Air fry, roast, bake and reheat
-- **Maker's price:** $59.99, in stock in gray, red and green
+* **Model:** CAF-LI211 (gray)
+* **Capacity:** 2.1 quarts
+* **Power:** 900 watts
+* **Temperature:** 170 to 400°F
+* **Functions:** Air fry, roast, bake and reheat
+* **Maker's price:** $59.99, in stock in gray, red and green
 
 A small air fryer is the best all-round appliance for one person. It crisps a portion of fries, roasts vegetables, cooks a chicken breast and reheats leftovers far better than a microwave.
 
@@ -92,15 +110,15 @@ Most 5 to 6-quart air fryers are too big for one person. Food spreads out, and y
 
 **What we like:**
 
-- Sized for single servings, per Cosori
-- Small footprint for tight counters
-- Air fries, roasts, bakes and reheats
-- Affordable
+* Sized for single servings, per Cosori
+* Small footprint for tight counters
+* Air fries, roasts, bakes and reheats
+* Affordable
 
 **What to know before you buy:**
 
-- Too small to cook for guests
-- Basket holds one portion of fries at a time
+* Too small to cook for guests
+* Basket holds one portion of fries at a time
 
 **Who should buy it:** Solo cooks who want crispy food without heating an oven.
 
@@ -108,11 +126,11 @@ Most 5 to 6-quart air fryers are too big for one person. Food spreads out, and y
 
 ## 2. [Breville Mini Smart Oven BOV450XL](https://www.amazon.com/Breville-BOV450XL-Mini-Smart-Oven/dp/B006CVVA7I/?tag=kitchenpot-20): Best Compact Toaster Oven
 
-- **Capacity:** 4 slices of toast or an 11-inch pizza
-- **Power:** 1800 watts, four quartz elements with Element IQ
-- **Functions:** Toast, bagel, bake, broil, pizza, roast, cookies and reheat
-- **Size:** 16 x 13.6 x 8.8 inches
-- **Maker's price:** $159.95, in stock
+* **Capacity:** 4 slices of toast or an 11-inch pizza
+* **Power:** 1800 watts, four quartz elements with Element IQ
+* **Functions:** Toast, bagel, bake, broil, pizza, roast, cookies and reheat
+* **Size:** 16 x 13.6 x 8.8 inches
+* **Maker's price:** $159.95, in stock
 
 A good toaster oven can replace a full oven for one person. It bakes, roasts, broils and toasts, and it preheats in a fraction of the time.
 
@@ -126,15 +144,15 @@ It fits a quarter sheet pan, which makes it ideal for roasting single portions. 
 
 **What we like:**
 
-- Replaces a full oven for most single-portion cooking
-- Eight cooking functions
-- Element IQ heating for even results, per Breville
-- Fits a quarter sheet pan
+* Replaces a full oven for most single-portion cooking
+* Eight cooking functions
+* Element IQ heating for even results, per Breville
+* Fits a quarter sheet pan
 
 **What to know before you buy:**
 
-- Pricier than basic toaster ovens
-- No air fry setting on this model
+* Pricier than basic toaster ovens
+* No air fry setting on this model
 
 **Who should buy it:** Solo cooks who want to bake and roast without a full oven.
 
@@ -142,11 +160,11 @@ It fits a quarter sheet pan, which makes it ideal for roasting single portions. 
 
 ## 3. [Instant Pot Duo Mini 3-Quart](https://www.amazon.com/Instant-Pot-Duo-Mini-3-Qt/dp/B06Y1YD5W7/?tag=kitchenpot-20): Best Multicooker for One
 
-- **Capacity:** 3 quarts, up to 3 servings
-- **Programs:** Pressure cook, slow cook, rice, steam, sauté, yogurt and warm
-- **Size:** 10 x 11.4 x 11.2 inches
-- **Dishwasher safe:** Lid and inner pot
-- **Maker's price:** $89.99, in stock
+* **Capacity:** 3 quarts, up to 3 servings
+* **Programs:** Pressure cook, slow cook, rice, steam, sauté, yogurt and warm
+* **Size:** 10 x 11.4 x 11.2 inches
+* **Dishwasher safe:** Lid and inner pot
+* **Maker's price:** $89.99, in stock
 
 A multicooker does the work of several appliances. The Duo Mini pressure cooks, slow cooks, steams, sautés, makes rice and keeps food warm.
 
@@ -158,15 +176,15 @@ The 6-quart Instant Pot is the most popular size, but it is often too big for on
 
 **What we like:**
 
-- Seven appliances in one, per Instant Pot
-- Right size for one person plus leftovers
-- Dishwasher-safe lid and pot
-- Cooks beans and tough meat fast
+* Seven appliances in one, per Instant Pot
+* Right size for one person plus leftovers
+* Dishwasher-safe lid and pot
+* Cooks beans and tough meat fast
 
 **What to know before you buy:**
 
-- Some recipes are written for 6-quart pots and need halving
-- Check the Amazon seller, as it is sometimes sold only by third parties
+* Some recipes are written for 6-quart pots and need halving
+* Check the Amazon seller, as it is sometimes sold only by third parties
 
 **Who should buy it:** Solo cooks who like soups, beans, grains and stews.
 
@@ -174,12 +192,12 @@ The 6-quart Instant Pot is the most popular size, but it is often too big for on
 
 ## 4. [Zojirushi Micom 3-Cup NS-LGC05](https://www.amazon.com/Zojirushi-NS-LGC05XB-Micom-3-Cup-Rice-Cooker/dp/B01EVHWNVG/?tag=kitchenpot-20): Best Small Rice Cooker
 
-- **Model:** NS-LGC05XB (stainless black)
-- **Capacity:** 3 cups uncooked (0.54 liters)
-- **Power:** 450 watts
-- **Settings:** White, sushi, brown, GABA brown, long grain, steel-cut oatmeal and quick cooking
-- **Size:** 9.1 x 11.9 x 7.5 inches
-- **Maker's status:** Current model on Zojirushi's site
+* **Model:** NS-LGC05XB (stainless black)
+* **Capacity:** 3 cups uncooked (0.54 liters)
+* **Power:** 450 watts
+* **Settings:** White, sushi, brown, GABA brown, long grain, steel-cut oatmeal and quick cooking
+* **Size:** 9.1 x 11.9 x 7.5 inches
+* **Maker's status:** Current model on Zojirushi's site
 
 If you eat rice several times a week, a dedicated rice cooker is worth it. It makes perfect rice and keeps it warm without a pot on the stove.
 
@@ -191,15 +209,15 @@ It is pricier than basic rice cookers. The trade-off is consistent rice and a ke
 
 **What we like:**
 
-- Small 3-cup size suits one person
-- Fuzzy logic adjusts cooking for each rice type
-- Cooks steel-cut oatmeal too
-- Retractable cord, per the Amazon listing
+* Small 3-cup size suits one person
+* Fuzzy logic adjusts cooking for each rice type
+* Cooks steel-cut oatmeal too
+* Retractable cord, per the Amazon listing
 
 **What to know before you buy:**
 
-- Expensive for a small rice cooker
-- Slower than a stovetop pot
+* Expensive for a small rice cooker
+* Slower than a stovetop pot
 
 **Who should buy it:** Solo cooks who eat rice several times a week.
 
@@ -207,11 +225,11 @@ It is pricier than basic rice cookers. The trade-off is consistent rice and a ke
 
 ## 5. [Duxtop 9600LS Portable Induction Cooktop](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20): Best Extra Burner
 
-- **Model:** 9600LS / BT-200DZ
-- **Power:** 1800 watts, 20 levels from 100 to 1800 W
-- **Temperature:** 20 settings from 100 to 460°F
-- **Extras:** 10-hour timer, keep warm and child lock
-- **Cookware:** Magnetic pans at least 5 inches across
+* **Model:** 9600LS / BT-200DZ
+* **Power:** 1800 watts, 20 levels from 100 to 1800 W
+* **Temperature:** 20 settings from 100 to 460°F
+* **Extras:** 10-hour timer, keep warm and child lock
+* **Cookware:** Magnetic pans at least 5 inches across
 
 Many studios and small apartments have only two burners, or none. A portable induction burner adds a fast, safe cooking zone you can store in a cupboard.
 
@@ -223,15 +241,15 @@ You need magnetic cookware, such as cast iron or most stainless steel. See [how 
 
 **What we like:**
 
-- CNN Underscored's best portable induction cooktop
-- Precise power and temperature control
-- Stores away when not in use
-- Safer than a hot coil
+* CNN Underscored's best portable induction cooktop
+* Precise power and temperature control
+* Stores away when not in use
+* Safer than a hot coil
 
 **What to know before you buy:**
 
-- Needs magnetic cookware
-- Pans must be at least 5 inches across, per Duxtop
+* Needs magnetic cookware
+* Pans must be at least 5 inches across, per Duxtop
 
 **Who should buy it:** Anyone with one or two burners, or no stove at all.
 
@@ -239,11 +257,11 @@ You need magnetic cookware, such as cast iron or most stainless steel. See [how 
 
 ## 6. [Toshiba 0.7 Cu Ft Microwave MM-EM07PA](https://www.amazon.com/TOSHIBA-Microwave-ChefDefrost-MM-EM07PA-BK/dp/B0F7RB5BQ8/?tag=kitchenpot-20): Best Compact Microwave
 
-- **Capacity:** 0.7 cubic feet
-- **Power:** 700 watts, 11 power levels
-- **Size:** 17.1 x 12.2 x 9.5 inches
-- **Turntable:** 9.6 inches
-- **Extras:** 10 presets, ChefDefrost, eco mode and mute button
+* **Capacity:** 0.7 cubic feet
+* **Power:** 700 watts, 11 power levels
+* **Size:** 17.1 x 12.2 x 9.5 inches
+* **Turntable:** 9.6 inches
+* **Extras:** 10 presets, ChefDefrost, eco mode and mute button
 
 A full-size microwave takes up a big chunk of a small counter. A 0.7 cubic foot model handles everything one person needs: reheating, steaming vegetables and defrosting.
 
@@ -257,15 +275,15 @@ If you have an over-the-range spot, see the [best over-the-range microwaves](/bl
 
 **What we like:**
 
-- Small footprint for tight counters
-- Mute button and eco mode
-- Ten presets including defrost
-- Affordable
+* Small footprint for tight counters
+* Mute button and eco mode
+* Ten presets including defrost
+* Affordable
 
 **What to know before you buy:**
 
-- 700 watts heats slower than larger models
-- Small turntable will not fit a large dinner plate
+* 700 watts heats slower than larger models
+* Small turntable will not fit a large dinner plate
 
 **Who should buy it:** Solo cooks who mostly reheat and defrost.
 
@@ -273,11 +291,11 @@ If you have an over-the-range spot, see the [best over-the-range microwaves](/bl
 
 ## 7. [Keurig K-Mini](https://www.amazon.com/Keurig-K-Mini-Single-Serve-Coffee/dp/B07GV2S1GS/?tag=kitchenpot-20): Best Single-Serve Coffee Maker
 
-- **Width:** About 4.5 inches
-- **Reservoir:** None; fill with water for each cup
-- **Brew size:** 8 to 12 ounces, per Keurig
-- **Cord:** Stores inside the machine
-- **Color:** Black (other colors available)
+* **Width:** About 4.5 inches
+* **Reservoir:** None; fill with water for each cup
+* **Brew size:** 8 to 12 ounces, per Keurig
+* **Cord:** Stores inside the machine
+* **Color:** Black (other colors available)
 
 A 12-cup coffee maker is wasteful when you drink one or two cups. The K-Mini brews one cup at a time and is one of the slimmest coffee makers available.
 
@@ -289,15 +307,15 @@ If you want hotter coffee or more brew sizes, see our [best Keurig coffee makers
 
 **What we like:**
 
-- One of the slimmest coffee makers available
-- Brews one cup at a time with no waste
-- Cord stores inside
-- Fits travel mugs
+* One of the slimmest coffee makers available
+* Brews one cup at a time with no waste
+* Cord stores inside
+* Fits travel mugs
 
 **What to know before you buy:**
 
-- Coffee runs lukewarm, per Tom's Guide
-- No reservoir, so you fill it every time
+* Coffee runs lukewarm, per Tom's Guide
+* No reservoir, so you fill it every time
 
 **Who should buy it:** Solo coffee drinkers with very little counter space.
 
@@ -305,12 +323,12 @@ If you want hotter coffee or more brew sizes, see our [best Keurig coffee makers
 
 ## 8. [Cosori Gooseneck Electric Kettle](https://www.amazon.com/COSORI-Electric-Gooseneck-Variable-Stainless/dp/B07T1CH2HH/?tag=kitchenpot-20): Best Electric Kettle
 
-- **Model:** CO108-NK (matte black)
-- **Capacity:** 0.8 liters
-- **Power:** 1200 watts
-- **Presets:** 170, 180, 195, 205 and 212°F
-- **Keep warm:** Up to 60 minutes
-- **Maker's price:** $69.99, in stock
+* **Model:** CO108-NK (matte black)
+* **Capacity:** 0.8 liters
+* **Power:** 1200 watts
+* **Presets:** 170, 180, 195, 205 and 212°F
+* **Keep warm:** Up to 60 minutes
+* **Maker's price:** $69.99, in stock
 
 An electric kettle boils water faster than a stovetop and frees a burner. A 0.8-liter kettle is right for one person: enough for a pour-over, a pot of tea or instant oats.
 
@@ -322,14 +340,14 @@ For more, see [how electric kettles work](/blog/how-do-electric-kettles-work/) a
 
 **What we like:**
 
-- Small 0.8-liter size suits one person
-- Five temperature presets
-- Precise gooseneck pour
-- Keeps water warm for up to an hour
+* Small 0.8-liter size suits one person
+* Five temperature presets
+* Precise gooseneck pour
+* Keeps water warm for up to an hour
 
 **What to know before you buy:**
 
-- Too small to fill a large pot quickly
+* Too small to fill a large pot quickly
 
 **Who should buy it:** Tea and pour-over coffee drinkers.
 
@@ -337,11 +355,11 @@ For more, see [how electric kettles work](/blog/how-do-electric-kettles-work/) a
 
 ## 9. [Dash Mini Waffle Maker](https://www.amazon.com/DASH-Mini-Waffle-Maker-Nonstick/dp/B01NAM6F2J/?tag=kitchenpot-20): Best Tiny Treat Maker
 
-- **Model:** DMW001 (black)
-- **Waffle size:** 4 inches
-- **Power:** 350 watts
-- **Size:** 2.8 x 6.4 x 5 inches; 1.5 lb
-- **Maker's price:** $12.99, in stock in black
+* **Model:** DMW001 (black)
+* **Waffle size:** 4 inches
+* **Power:** 350 watts
+* **Size:** 2.8 x 6.4 x 5 inches; 1.5 lb
+* **Maker's price:** $12.99, in stock in black
 
 A full waffle iron makes four waffles at a time and takes a cupboard shelf. The Dash Mini makes one 4-inch waffle and fits in a drawer.
 
@@ -351,14 +369,14 @@ It is not essential, but it costs little and takes almost no space. It is a nice
 
 **What we like:**
 
-- Fits in a drawer
-- Single-portion waffles with no leftovers
-- Very cheap
-- Makes hash browns and small sandwiches too
+* Fits in a drawer
+* Single-portion waffles with no leftovers
+* Very cheap
+* Makes hash browns and small sandwiches too
 
 **What to know before you buy:**
 
-- Makes one small waffle at a time
+* Makes one small waffle at a time
 
 **Who should buy it:** Solo cooks who want waffles without a bulky iron.
 
@@ -380,24 +398,24 @@ Store occasional appliances in a cupboard. The waffle maker and rice cooker can 
 
 Both cook single portions well. The choice depends on what you cook.
 
-| Feature | Small Air Fryer | Compact Toaster Oven |
-| --- | --- | --- |
-| Crispy food | Better | Good |
-| Toast | No | Yes |
-| Baking | Limited | Good |
-| Footprint | Smaller | Wider |
-| Cleanup | Basket | Tray and crumb tray |
+| Feature     | Small Air Fryer | Compact Toaster Oven |
+| ----------- | --------------- | -------------------- |
+| Crispy food | Better          | Good                 |
+| Toast       | No              | Yes                  |
+| Baking      | Limited         | Good                 |
+| Footprint   | Smaller         | Wider                |
+| Cleanup     | Basket          | Tray and crumb tray  |
 
 If you eat a lot of frozen foods and roasted vegetables, choose the air fryer. If you want toast and small bakes, choose the toaster oven. For a deeper look, see [NuWave oven vs air fryers](/blog/nuwave-oven-vs-air-fryers/) and the [best small ovens and toaster ovens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/).
 
 ## What to Skip When You Cook for One
 
-- **Full-size stand mixers.** Heavy and huge. A hand mixer or stick blender covers small batches.
-- **12-cup coffee makers.** You will pour most of it away.
-- **6-quart-plus slow cookers.** Too big for one portion. The 3-quart Instant Pot slow cooks too.
-- **Full-size food processors.** A 3-cup mini chopper suits single portions.
-- **Bread machines.** Bulky and single-use.
-- **Large countertop grills.** A skillet or air fryer does the same job.
+* **Full-size stand mixers.** Heavy and huge. A hand mixer or stick blender covers small batches.
+* **12-cup coffee makers.** You will pour most of it away.
+* **6-quart-plus slow cookers.** Too big for one portion. The 3-quart Instant Pot slow cooks too.
+* **Full-size food processors.** A 3-cup mini chopper suits single portions.
+* **Bread machines.** Bulky and single-use.
+* **Large countertop grills.** A skillet or air fryer does the same job.
 
 ## Energy Use and Small Appliances
 
@@ -415,11 +433,11 @@ Plug high-wattage appliances into separate outlets where possible. Avoid running
 
 ## Common Mistakes to Avoid
 
-- **Buying the family size.** A 6-quart air fryer or 12-cup rice cooker wastes space and energy.
-- **Buying for one recipe.** If you will only use it for one dish, skip it.
-- **Ignoring the footprint.** Measure your counter before ordering.
-- **Owning two appliances that do the same job.** You rarely need an air fryer and an air fryer toaster oven.
-- **Leaving everything on the counter.** Store rarely used appliances in a cupboard.
+* **Buying the family size.** A 6-quart air fryer or 12-cup rice cooker wastes space and energy.
+* **Buying for one recipe.** If you will only use it for one dish, skip it.
+* **Ignoring the footprint.** Measure your counter before ordering.
+* **Owning two appliances that do the same job.** You rarely need an air fryer and an air fryer toaster oven.
+* **Leaving everything on the counter.** Store rarely used appliances in a cupboard.
 
 ## Pair Appliances With the Right Cookware
 
@@ -429,9 +447,9 @@ See [best cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cook
 
 ## Related Guides
 
-- [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
-- [Easy Meal Prep Ideas for One Person in a Small Kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/)
-- [How to Cook a Full Meal With Only Two Burners](/blog/how-to-cook-a-full-meal-with-only-two-burners/)
-- [Best Compact Energy Star Appliances for Small Kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/)
-- [Coolest Kitchen Appliances to Buy](/blog/coolest-kitchen-appliances-to-buy/)
-- [How to Clean an Air Fryer Basket](/blog/how-to-clean-an-air-fryer-basket/)
+* [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
+* [Easy Meal Prep Ideas for One Person in a Small Kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/)
+* [How to Cook a Full Meal With Only Two Burners](/blog/how-to-cook-a-full-meal-with-only-two-burners/)
+* [Best Compact Energy Star Appliances for Small Kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/)
+* [Coolest Kitchen Appliances to Buy](/blog/coolest-kitchen-appliances-to-buy/)
+* [How to Clean an Air Fryer Basket](/blog/how-to-clean-an-air-fryer-basket/)
