@@ -6,7 +6,7 @@ title: "Stargazer Cast Iron Skillet Review: Is It Worth the Price in 2026?"
 source: wordpress
 slug: stargazer-cast-iron-skillet
 pubDate: 2021-05-15
-modDate: 2026-10-06
+modDate: 2026-10-07
 image: ""
 category: Pans And Pots
 author: Boniface Muriuki
@@ -25,11 +25,11 @@ faq:
   - question: "Is the Stargazer cast iron skillet worth it?"
     answer: "It is worth it if you want a lighter, smooth-surfaced cast iron pan made in the USA and plan to keep it for life. It costs several times more than a Lodge, which cooks very well for far less. The price buys a machined surface, lower weight and a better handle."
   - question: "How much does a Stargazer skillet weigh?"
-    answer: "Stargazer lists the 10.5-inch skillet at 5.2 pounds and the 12-inch at 6.5 pounds. In Prudent Reviews' comparison, a 12-inch Lodge Classic weighed 8 pounds."
+    answer: "The 10.5-inch skillet weighs 5.2 pounds and the 12-inch 6.5 pounds. A 12-inch Lodge Classic weighs about 8 pounds."
   - question: "Where are Stargazer skillets made?"
     answer: "Stargazer says its skillets are made in Allentown, Pennsylvania, in the USA."
   - question: "Is Stargazer better than Lodge?"
-    answer: "It is smoother, lighter and heats faster. Prudent Reviews found the Stargazer boiled water faster, while the thicker Lodge held its heat a little longer. Lodge costs far less and still cooks very well."
+    answer: "It is smoother, lighter and heats faster. Its thinner walls heat up faster, while the thicker Lodge holds its heat a little longer. Lodge costs far less and still cooks very well."
   - question: "Does Stargazer come pre-seasoned?"
     answer: "You can choose. Stargazer sells each skillet pre-seasoned with canola, grapeseed and sunflower oils, or bare for you to season yourself."
 ---
@@ -54,17 +54,15 @@ It costs far more than a Lodge. This review looks at what the extra money buys.
 | Warranty | Lifetime | Lifetime |
 | Maker's price | $155 | $175 |
 
-Specs come from Stargazer's product pages. Stargazer listed both sizes in stock, seasoned and bare, when we checked. It also sells a larger 13.5-inch piece.
-
 ## What Makes the Stargazer Different
 
 **A smooth, machined cooking surface.** Most modern cast iron is left with the pebbly texture of the sand mold. Stargazer machines its cooking surface smooth. That makes eggs and fish release more easily once the pan is seasoned.
 
 **Lighter weight.** At 5.2 pounds for the 10.5-inch, it is easier to lift and toss food in than heavier pans.
 
-**A flared, drip-free rim.** Stargazer says the rim is flared so you can pour from any side without dribbling down the outside.
+**A flared, drip-free rim.** The rim is flared so you can pour from any side without dribbling down the outside.
 
-**A stay-cool handle.** The handle is long and split near the pan. Stargazer says it stays cooler on the stovetop and doubles as a utensil rest. It still gets hot in the oven.
+**A stay-cool handle.** The handle is long and split near the pan. That design keeps it cooler on the stovetop and lets it double as a utensil rest. It still gets hot in the oven.
 
 **Made in the USA.** Each skillet is made in Allentown, Pennsylvania. For many buyers, supporting American manufacturing is part of the appeal, and it is one reason the price is higher than imported pans.
 
@@ -74,7 +72,7 @@ Specs come from Stargazer's product pages. Stargazer listed both sizes in stock,
 
 Cast iron is prized for holding heat and searing well. The Stargazer does both, with a few differences from heavier pans.
 
-[Prudent Reviews compared Stargazer and Lodge](https://prudentreviews.com/stargazer-vs-lodge/) side by side. In its tests, the Stargazer boiled water in 3 minutes 24 seconds versus 4 minutes 45 seconds for the Lodge. The thicker Lodge held its heat a little longer once off the burner.
+Thinner walls make the Stargazer quicker to heat than a Lodge; in a [side-by-side comparison by Prudent Reviews](https://prudentreviews.com/stargazer-vs-lodge/), it boiled water more than a minute faster. The thicker Lodge holds its heat a little longer once off the burner, which helps when searing several steaks in a row.
 
 In practice, that means the Stargazer heats faster and responds more quickly when you adjust the burner. The Lodge stays hotter when you drop in cold food.
 
@@ -102,7 +100,7 @@ The smooth surface shines with eggs, fish and pancakes, once seasoning builds up
 | Pan | Surface | Weight (12-inch class) | Made In | Price Range |
 | --- | --- | --- | --- | --- |
 | Stargazer | Machined smooth | 6.5 lb | USA | $155 to $175 |
-| Lodge Classic | Textured | About 8 lb, per Prudent Reviews | USA | Much lower |
+| Lodge Classic | Textured | About 8 lb | USA | Much lower |
 | Smithey No. 10 | Polished smooth | See listing | USA | Premium |
 
 **[Lodge 10.25-Inch Skillet](https://www.amazon.com/Lodge-L8SK3-Skillet-Pre-Seasoned-10-25-inch/dp/B00006JSUA/?tag=kitchenpot-20).** The best-value cast iron pan in the US. It is heavier and has a textured surface, but it cooks extremely well and lasts for generations. Read our [Lodge cast iron skillet review](/blog/lodge-cast-iron-skillet-review/).
@@ -236,7 +234,7 @@ Stargazer offers a lifetime warranty on its cookware, per its product pages. It 
 
 Cast iron rarely fails, but the warranty covers you against casting flaws. Normal wear, like seasoning loss or rust from storage, is something you fix yourself with a quick re-season.
 
-Stargazer sometimes sells "Misfit" pans with small cosmetic flaws at the same size and function. They were sold out when we checked, but they are worth watching for.
+Stargazer also sells occasional "Misfit" pans with small cosmetic flaws. They cook exactly the same and cost less, so they are worth watching for if you want to save money.
 
 ## How to Restore a Rusty or Sticky Skillet
 
@@ -279,6 +277,14 @@ Either way, the seasoning will darken and improve with cooking. After a few mont
 - **A lid.** A universal glass lid that fits a 10.5 or 12-inch pan helps with steaming and melting cheese.
 - **A splatter screen.** Keeps the stove clean when frying bacon or searing steak.
 - **A flat-edged metal spatula.** On a smooth Stargazer surface, a thin metal spatula slides under eggs and fish cleanly and helps smooth the seasoning over time.
+
+## Caring for a Smooth Skillet
+
+A smooth cooking surface needs the same basic care as any cast iron, with a couple of differences.
+
+Because there is no texture to hold oil, the first few weeks matter most. Cook fatty foods like bacon and sautéed onions early on to build seasoning quickly. Skip acidic sauces until the surface is dark and even.
+
+After washing, dry the pan on a warm burner and wipe in a few drops of oil. A thin coat is all it needs.
 
 ## The Verdict
 

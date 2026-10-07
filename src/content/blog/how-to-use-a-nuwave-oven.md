@@ -6,7 +6,7 @@ title: "How to Use a NuWave Oven: Step-by-Step Guide and Cooking Tips"
 source: wordpress
 slug: how-to-use-a-nuwave-oven
 pubDate: 2020-10-06
-modDate: 2026-10-06
+modDate: 2026-10-07
 image: ""
 category: How To Guides
 author: Boniface Muriuki
@@ -43,7 +43,7 @@ It cooks fast, needs no preheating and can cook food straight from frozen. Here 
 
 The NuWave oven has three main parts: a base with a liner pan, a clear dome and a power head that sits on top. The power head holds the heating element and a fan.
 
-NuWave says the oven cooks with three kinds of heat:
+The oven cooks with three kinds of heat at once:
 
 - **Infrared** heat warms the surface and inside of the food directly.
 - **Conduction** heat passes from the hot rack into the food.

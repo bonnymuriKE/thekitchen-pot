@@ -6,7 +6,7 @@ title: "Forged vs Stamped Knives: Differences and 6 Best Picks for 2026"
 source: wordpress
 slug: forged-vs-stamped-knives
 pubDate: 2021-01-30
-modDate: 2026-10-06
+modDate: 2026-10-07
 image: ""
 category: Kitchenware
 author: Boniface Muriuki
@@ -48,8 +48,6 @@ The method affects weight, balance and price. It matters less for sharpness than
 - **Best stamped overall:** [Victorinox Fibrox Pro 8-Inch Chef's Knife](https://www.amazon.com/Victorinox-Fibrox-Pro-Chefs-Knife-8-Inch/dp/B008M5U1C2/?tag=kitchenpot-20)
 - **Best budget stamped:** [Mercer Culinary Millennia 8-Inch Chef's Knife](https://www.amazon.com/Mercer-Culinary-M22608-Millennia-8-Inch/dp/B000PS2XI4/?tag=kitchenpot-20)
 - **Best stamped German-style:** [Henckels Statement 8-Inch Chef's Knife](https://www.amazon.com/HENCKELS-Razor-Sharp-Engineered-Lightweight-Dishwasher/dp/B00MYI0UJC/?tag=kitchenpot-20)
-
-All six are long-running models widely stocked on Amazon. Prices change often, so check the listing.
 
 | Knife | Method | Bolster | Weight Feel | Origin | Price Tier |
 | --- | --- | --- | --- | --- | --- |
@@ -95,7 +93,7 @@ The trade-off is weight. Some cooks tire of it during long prep sessions. The fu
 
 - **Method:** Forged
 - **Bolster:** Curved, sloping half bolster
-- **Made in:** Germany, per Zwilling's listing
+- **Made in:** Germany
 - **Care:** Listed as dishwasher safe; hand washing is better for the edge
 
 The Zwilling Pro takes a different approach to the bolster. It slopes back, so your thumb and finger rest on the blade in a natural pinch grip.
@@ -122,7 +120,7 @@ It still feels solid and balanced like a German knife, but it is a little more n
 
 ## 3. [Shun Classic 8-Inch Chef's Knife](https://www.amazon.com/Shun-Classic-8-Chefs-Knife/dp/B0000Y7KNQ/?tag=kitchenpot-20): Best Japanese Clad-Steel Knife
 
-- **Steel:** VG-MAX core with Damascus stainless cladding, per Shun's listings
+- **Steel:** VG-MAX core with Damascus stainless cladding
 - **Bolster:** None
 - **Handle:** Pakkawood, D-shaped
 - **Made in:** Japan
@@ -214,7 +212,7 @@ At its price, it makes a great second knife or a first knife for a student.
 
 - **Method:** Stamped from a single piece of steel
 - **Handle:** Triple-riveted, traditional style
-- **Feel:** Lightweight, per the listing
+- **Feel:** Lightweight
 
 The Henckels Statement gives you the look of a German knife at a stamped-knife price. It has a traditional riveted handle but a lighter, stamped blade.
 
@@ -372,6 +370,12 @@ If you prefer a matched set, see the [best knife set under $100](/blog/best-knif
 In a small kitchen, a wall-mounted magnetic strip frees counter and drawer space. Drawer inserts with slots also protect edges.
 
 For more ideas, see [how to organize kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) and our [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/).
+
+## How Often to Sharpen
+
+Hone either type of knife on a steel every few uses to keep the edge straight. Sharpen it properly once or twice a year, or when it starts to slip on a tomato skin.
+
+Harder Japanese steel holds an edge longer but can chip if you twist it in bone or frozen food. Softer German steel needs honing more often but forgives rough handling.
 
 ## Related Guides
 

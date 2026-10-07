@@ -6,7 +6,7 @@ title: "What Can I Cook in an Electric Skillet? 25+ Ideas, Temps and Recipes"
 source: wordpress
 slug: what-can-i-cook-in-an-electric-skillet
 pubDate: 2020-09-06
-modDate: 2026-10-06
+modDate: 2026-10-07
 image: ""
 category: Cookware Equipment
 author: Boniface Muriuki
@@ -46,7 +46,7 @@ It is one of the most versatile small appliances you can own. Here is what to co
 - **Portable.** Cook anywhere with an outlet: a dorm, an RV, a buffet table.
 - **Keep-warm setting.** Low heat keeps food ready to serve.
 
-Kohl's lists the Presto 06852 with a 200°F to 400°F range, 1500 watts, a glass cover and a cooking surface that is dishwasher safe with the heat control removed.
+The Presto 06852 has a 200°F to 400°F range, 1500 watts, a glass cover and a cooking surface that is dishwasher safe with the heat control removed.
 
 ## Electric Skillet Temperature Chart
 

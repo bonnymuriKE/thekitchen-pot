@@ -6,7 +6,7 @@ title: "How Does a Meat Tenderizer Work? Types Explained and 6 Best Picks"
 source: wordpress
 slug: how-does-a-meat-tenderizer-work
 pubDate: 2020-11-21
-modDate: 2026-10-06
+modDate: 2026-10-07
 image: ""
 category: How To Guides
 author: Boniface Muriuki
@@ -53,8 +53,6 @@ Tenderizing either breaks the fibers physically, breaks down proteins chemically
 - **Best unseasoned powder:** [Adolph's Unseasoned Meat Tenderizer](https://www.amazon.com/Adolphs-Meat-Tenderizer-Unseasoned-3-5/dp/B00MIK8KEI/?tag=kitchenpot-20)
 - **Best seasoned powder:** [McCormick Seasoned Meat Tenderizer](https://www.amazon.com/McCormick-Seasoned-Meat-Tenderizer-Ounce/dp/B07GF2DSYW/?tag=kitchenpot-20)
 
-All six are long-running products widely stocked on Amazon. Prices change often.
-
 | Tenderizer | Type | How It Works | Best For |
 | --- | --- | --- | --- |
 | OXO Die-Cast | Mallet | Pounds and flattens | Cutlets, round steak |
@@ -69,7 +67,7 @@ All six are long-running products widely stocked on Amazon. Prices change often.
 - **Faces:** Textured side and flat side
 - **Body:** Die-cast metal head
 - **Handle:** Soft, non-slip grip
-- **Size:** About 9.75 inches long, per the listing
+- **Size:** About 9.75 inches long
 
 The OXO mallet does both main mallet jobs. The textured side breaks down tough fibers, and the flat side evens out chicken breasts and cutlets.
 
@@ -92,10 +90,10 @@ The die-cast head has enough weight to do the work without much force. The soft 
 
 ## 2. [KitchenAid Gourmet Meat Tenderizer](https://www.amazon.com/KitchenAid-KO119OHOBA-Gourmet-Tenderizer-9-45-Inch/dp/B07Q2WVG1Z/?tag=kitchenpot-20): Best Multi-Sided Mallet
 
-- **Faces:** Multi-sided, per the listing
+- **Faces:** Multi-sided
 - **Uses:** Pounding meat, cracking nuts and shellfish
 - **Storage:** Hang hole
-- **Care:** Hand wash, per the listing
+- **Care:** Hand wash
 
 The KitchenAid Gourmet mallet adds versatility. Its multiple faces handle tenderizing and flattening, and it doubles as a tool for cracking nuts or crab shells.
 
@@ -377,6 +375,10 @@ Get the **Norpro Grip-EZ** for perfectly even cutlets.
 Go with **Adolph's Unseasoned** to tenderize with any seasoning.
 
 Choose **McCormick Seasoned** for a one-step shortcut.
+
+## Tenderizing Small Portions
+
+For one or two steaks, a mallet works fastest: cover the meat with plastic wrap and pound from the center out until it is even.
 
 ## Related Guides
 

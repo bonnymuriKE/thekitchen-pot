@@ -6,7 +6,7 @@ title: "How to Use a Mr. Coffee Iced Tea Maker (Step by Step, Plus Cleaning)"
 source: wordpress
 slug: how-to-use-mr-coffee-iced-tea-maker
 pubDate: 2020-10-13
-modDate: 2026-10-06
+modDate: 2026-10-07
 image: ""
 category: How To Guides
 author: Boniface Muriuki
@@ -39,11 +39,9 @@ Most models work the same way: ice in the pitcher, water in the reservoir, tea i
 
 **The short version:** Fill the pitcher with ice to the ice line and the reservoir with cold water to the water line. Put 6 to 8 regular tea bags in the brew basket, set the strength and switch it on. The tea steeps, then drains over the ice. Stir and serve. If you are shopping, check stock on the [Mr. Coffee 2-quart iced tea maker](https://www.amazon.com/Mr-Coffee-2-Quart-Maker-Black/dp/B07QKFZBLJ/?tag=kitchenpot-20), as dedicated tea makers are harder to find than they were.
 
-## A Note on Availability
+## Can You Still Buy a Mr. Coffee Iced Tea Maker?
 
-When we checked for our [best iced tea maker](/blog/best-iced-tea-maker/) guide, Mr. Coffee's store no longer showed its Tea Café iced tea maker. Its Perfect Brew machine with iced tea settings was out of stock.
-
-Amazon sellers may still carry Mr. Coffee iced tea makers. If they run out, the best iced tea maker guide covers pitchers and brewers that are easier to find. The steps below work for most Mr. Coffee models you may already own.
+Mr. Coffee's dedicated iced tea makers are getting harder to find new, though Amazon sellers still carry them. If you cannot find one, our [best iced tea maker](/blog/best-iced-tea-maker/) guide covers pitchers and brewers that do the same job. The steps below work for most Mr. Coffee models you may already own.
 
 ## Parts of a Mr. Coffee Iced Tea Maker
 
@@ -260,6 +258,10 @@ A dedicated iced tea maker is fast and easy. Pitchers and kettles are good alter
 - **Coffee maker with iced settings:** Some coffee machines have iced tea or iced coffee modes.
 
 See the [best iced tea maker](/blog/best-iced-tea-maker/) guide for in-stock options.
+
+## A Quick Tip for Clear Tea
+
+Pour the finished tea into a pitcher and let it cool on the counter before refrigerating. That one step stops most cloudiness.
 
 ## Related Guides
 

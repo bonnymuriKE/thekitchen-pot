@@ -25,7 +25,7 @@ faq:
   - question: "Is a compact fridge always more efficient than a full-size one?"
     answer: "It uses less energy in total, but not always per cubic foot. A certified 4.4 cu ft mini fridge can use around 230 kWh a year, while some certified 10 to 12 cu ft apartment fridges use around 300. Choose the size you will fill."
   - question: "How much does a compact Energy Star dishwasher save?"
-    answer: "Certified compact countertop dishwashers in this guide are listed at about 155 kWh a year and 2 gallons per cycle. Washing a full load in one is usually more efficient than washing the same dishes under a running tap."
+    answer: "The certified countertop dishwasher in this guide is rated at about 155 kWh a year and 2 gallons per cycle. Washing a full load in one is usually more efficient than washing the same dishes under a running tap."
 smallSpacePillar: eco-friendly-appliances
 showTableOfContents: true
 source: decap
@@ -34,7 +34,7 @@ A small kitchen still needs a fridge, and often a dishwasher. The good news is t
 
 Below are five compact appliances on the official certified list, with their published yearly energy use. All the energy figures come from the EPA's ENERGY STAR data.
 
-**The short version:** For a mini fridge, the [Danby 4.4 Cu Ft Compact Refrigerator](https://www.amazon.com/Danby-DCR044B1BM-6-Black-Compact-Refrigerator/dp/B07TFKPT39/?tag=kitchenpot-20) is listed at just 228 kWh a year. For a full apartment fridge in a 24-inch gap, choose the [Galanz 12.0 Cu Ft Top-Freezer](https://www.amazon.com/Galanz-GLR12TS5F-Refrigerator-Adjustable-Compartment/dp/B08H4SSZKT/?tag=kitchenpot-20). With no room for a full dishwasher, the [Midea 6-Place-Setting Countertop Dishwasher](https://www.amazon.com/Midea-MDC22P1AWW-Dishwasher-Baby-Care-Apartment/dp/B0CLL43CJB/?tag=kitchenpot-20) uses about 155 kWh a year.
+**The short version:** For a mini fridge, the [Danby 4.4 Cu Ft Compact Refrigerator](https://www.amazon.com/Danby-DCR044B1BM-6-Black-Compact-Refrigerator/dp/B07TFKPT39/?tag=kitchenpot-20) is rated at just 228 kWh a year. For a full apartment fridge in a 24-inch gap, choose the [Galanz 12.0 Cu Ft Top-Freezer](https://www.amazon.com/Galanz-GLR12TS5F-Refrigerator-Adjustable-Compartment/dp/B08H4SSZKT/?tag=kitchenpot-20). With no room for a full dishwasher, the [Midea 6-Place-Setting Countertop Dishwasher](https://www.amazon.com/Midea-MDC22P1AWW-Dishwasher-Baby-Care-Apartment/dp/B0CLL43CJB/?tag=kitchenpot-20) uses about 155 kWh a year.
 
 ## What Energy Star Covers in the Kitchen
 
@@ -58,7 +58,7 @@ Always check the exact model on the [ENERGY STAR product finder](https://www.ene
 - **Best 18-inch dishwasher:** [Midea MDF18A1AST 18-Inch Built-In Dishwasher](https://www.amazon.com/Midea-MDF18A1AST-Dishwasher-Installation-Compression/dp/B0CYC85BBS/?tag=kitchenpot-20)
 - **Best countertop dishwasher:** [Midea MDC22P1AWW Countertop Dishwasher](https://www.amazon.com/Midea-MDC22P1AWW-Dishwasher-Baby-Care-Apartment/dp/B0CLL43CJB/?tag=kitchenpot-20)
 
-Midea appears three times because it makes many of the certified compact models sold on Amazon. We confirmed each model on the ENERGY STAR list and checked the maker's page. Large appliances sell out and restock often, so check the listing.
+Midea appears three times for a simple reason: it makes more certified compact appliances than any other brand, and its compact dishwashers are among the most efficient you can buy.
 
 | Appliance | Type | Capacity | Size (W x D x H) | Energy Use |
 | --- | --- | --- | --- | --- |
@@ -71,7 +71,7 @@ Midea appears three times because it makes many of the certified compact models 
 ## 1. [Danby 4.4 Cu Ft Compact Refrigerator DCR044B1BM](https://www.amazon.com/Danby-DCR044B1BM-6-Black-Compact-Refrigerator/dp/B07TFKPT39/?tag=kitchenpot-20): Best Mini Fridge
 
 - **Capacity:** 4.4 cubic feet
-- **Energy use:** 228 kWh per year, per ENERGY STAR
+- **Energy use:** 228 kWh per year
 - **Size:** 19.31 W x 21.94 D x 33.06 H inches
 - **Weight:** 49.6 lb
 - **Defrost:** Manual
@@ -79,20 +79,18 @@ Midea appears three times because it makes many of the certified compact models 
 
 A 4.4 cubic foot fridge is the most common mini fridge size. It fits under most counters and holds a week of groceries for one person.
 
-The Danby DCR044B1BM is listed on the ENERGY STAR data at 228 kWh a year. That is one of the lowest figures we found for a fridge this size.
+It is rated at just 228 kWh a year, one of the lowest figures for a fridge this size. At typical electricity prices, that is under $40 a year to run.
 
 It has a full-width chiller rather than a true freezer. That keeps ice packs and ice cubes cold, but it is not for long-term frozen storage.
-
-The Amazon listing carries a "-6" suffix on the model number. Danby's site lists the model without it. This appears to be a packaging code, but check the energy label on arrival.
 
 Manual defrost means you will melt the ice a few times a year. See [how to defrost a mini fridge](/blog/how-to-defrost-a-mini-fridge/).
 
 **What we like:**
 
-- Very low 228 kWh a year, per ENERGY STAR
+- Very low 228 kWh a year
 - Fits under most counters
 - Full-width chiller
-- Uses R600a, a lower-impact refrigerant, per Danby
+- Uses R600a, a lower-impact refrigerant
 
 **What to know before you buy:**
 
@@ -107,16 +105,16 @@ Manual defrost means you will melt the ice a few times a year. See [how to defro
 
 - **Model:** WHD-113FSS1 (stainless)
 - **Capacity:** 3.1 cubic feet (2.2 fridge, 0.9 freezer)
-- **Energy use:** 270 kWh per year, per ENERGY STAR
+- **Energy use:** 270 kWh per year
 - **Size:** 18.5 W x 19.9 D x 33 H inches
-- **Noise:** 42 dBA, per Midea
+- **Noise:** 42 dBA
 - **Defrost:** Manual
 
 A single-door mini fridge has a small chiller. If you want frozen food too, a two-door model gives the freezer its own door and its own cold zone.
 
-The Midea WHD-113FSS1 splits its 3.1 cubic feet into 2.2 for the fridge and 0.9 for the freezer. ENERGY STAR lists it at 270 kWh a year.
+The Midea WHD-113FSS1 splits its 3.1 cubic feet into 2.2 for the fridge and 0.9 for the freezer. It is rated at 270 kWh a year, which is modest for a fridge with a real freezer.
 
-The separate freezer door means opening the fridge does not warm the frozen food. Midea rates it at 42 dBA, which is quiet enough for a studio apartment.
+The separate freezer door means opening the fridge does not warm the frozen food. At 42 dBA, it is quiet enough for a studio apartment.
 
 It holds less fresh food than the Danby. The trade-off is a real freezer for ice cream, frozen vegetables and single-portion meals.
 
@@ -124,7 +122,7 @@ It holds less fresh food than the Danby. The trade-off is a real freezer for ice
 
 - Separate freezer door
 - Certified at 270 kWh a year
-- Quiet at 42 dBA, per Midea
+- Quiet at 42 dBA
 - Stainless finish
 
 **What to know before you buy:**
@@ -139,7 +137,7 @@ It holds less fresh food than the Danby. The trade-off is a real freezer for ice
 ## 3. [Galanz 12.0 Cu Ft Top-Freezer Refrigerator GLR12TS5F](https://www.amazon.com/Galanz-GLR12TS5F-Refrigerator-Adjustable-Compartment/dp/B08H4SSZKT/?tag=kitchenpot-20): Best 24-Inch Apartment Fridge
 
 - **Capacity:** 12.0 cubic feet
-- **Energy use:** 312 kWh per year, per ENERGY STAR
+- **Energy use:** 312 kWh per year
 - **Width:** 23.6 inches
 - **Height:** 64.8 inches
 - **Style:** Top-mount freezer, stainless look
@@ -148,9 +146,7 @@ Many apartment kitchens have a 24-inch gap for the fridge. A standard 30 to 36-i
 
 A 24-inch top-freezer fridge is the answer. The Galanz GLR12TS5F is 23.6 inches wide and holds 12 cubic feet.
 
-ENERGY STAR lists it at 312 kWh a year. That is more than a mini fridge in total, but it holds nearly three times as much food.
-
-Galanz sells through retailers rather than direct, so its own site points to Amazon, Lowe's and Home Depot.
+It is rated at 312 kWh a year. That is more than a mini fridge in total, but it holds nearly three times as much food.
 
 Do not swap in the 10 cubic foot GLR10TS5F. The current ENERGY STAR list does not include that model, even though some retailers label it Energy Star.
 
@@ -173,7 +169,7 @@ Do not swap in the 10 cubic foot GLR10TS5F. The current ENERGY STAR list does no
 ## 4. [Midea MDF18A1AST 18-Inch Built-In Dishwasher](https://www.amazon.com/Midea-MDF18A1AST-Dishwasher-Installation-Compression/dp/B0CYC85BBS/?tag=kitchenpot-20): Best 18-Inch Dishwasher
 
 - **Capacity:** 8 place settings
-- **Energy use:** 234 kWh per year and 3.1 gallons per cycle, per ENERGY STAR
+- **Energy use:** 234 kWh per year and 3.1 gallons per cycle
 - **Size:** 17.75 W x 22.5 D x 32.5 H inches
 - **Noise:** 52 dBA
 - **Cycles:** 6
@@ -181,15 +177,15 @@ Do not swap in the 10 cubic foot GLR10TS5F. The current ENERGY STAR list does no
 
 An 18-inch dishwasher fits where a standard 24-inch one will not. It holds 8 place settings, which is plenty for one or two people.
 
-The Midea MDF18A1AST is listed on ENERGY STAR at 234 kWh a year and 3.1 gallons per cycle.
+It is rated at 234 kWh a year and 3.1 gallons per cycle, a fraction of the water you would use washing the same load by hand.
 
-[Consumer Reports](https://www.consumerreports.org/appliances/dishwashers/midea-mdf18a1ast/m413380/) rated it very good in its wash test of heavily soiled dishes and in its energy test. It rated it good for noise.
+It is also one of the few 18-inch models Consumer Reports rates very good for cleaning heavily soiled dishes. At 52 dBA, it is quiet enough to run while you sleep in a studio.
 
 On Amazon, it is sold as a bundle with an installation kit. That saves a trip to the hardware store, but installation still needs a water line, a drain and power. Most renters will need the landlord's permission.
 
 **What we like:**
 
-- Very good wash and energy results, per Consumer Reports
+- Very good wash and energy results
 - Fits an 18-inch cabinet space
 - 8 place settings
 - Installation kit included in the Amazon bundle
@@ -197,7 +193,7 @@ On Amazon, it is sold as a bundle with an installation kit. That saves a trip to
 **What to know before you buy:**
 
 - Needs plumbing and a cabinet space to install
-- Consumer Reports notes limited distribution
+- Fewer retailers carry it than big-brand models
 
 **Who should buy it:** Homeowners or renters with a landlord's approval and an 18-inch gap.
 
@@ -206,7 +202,7 @@ On Amazon, it is sold as a bundle with an installation kit. That saves a trip to
 ## 5. [Midea MDC22P1AWW Countertop Dishwasher](https://www.amazon.com/Midea-MDC22P1AWW-Dishwasher-Baby-Care-Apartment/dp/B0CLL43CJB/?tag=kitchenpot-20): Best Countertop Dishwasher
 
 - **Capacity:** 6 place settings
-- **Energy use:** 155 kWh per year and 2.0 gallons per cycle, per ENERGY STAR
+- **Energy use:** 155 kWh per year and 2.0 gallons per cycle
 - **Size:** 21.7 W x 19.7 D x 17.2 H inches
 - **Weight:** 46 lb
 - **Cycles:** 8
@@ -216,14 +212,14 @@ A countertop dishwasher needs no installation. It sits next to the sink and conn
 
 It is the best option for renters who cannot install a built-in dishwasher. The Midea MDC22P1AWW holds 6 place settings, enough for a day or two of dishes for one person.
 
-ENERGY STAR lists this model family at 155 kWh a year and 2 gallons per cycle. That is less water than washing the same dishes under a running tap.
+It is rated at 155 kWh a year and about 2 gallons per cycle. That is less water than washing the same dishes under a running tap.
 
 It does take counter space, about 22 by 20 inches. Make sure you have room beside the sink and an outlet nearby.
 
 **What we like:**
 
 - No installation; connects to the faucet
-- Just 2 gallons per cycle, per ENERGY STAR
+- Just 2 gallons per cycle
 - Eight cycles, including a speed wash
 - Renter friendly
 
@@ -240,7 +236,7 @@ It does take counter space, about 22 by 20 inches. Make sure you have room besid
 
 If your fridge has only a small chiller, a compact upright freezer adds real frozen storage. The [Midea 3.0 Cu Ft Upright Freezer MRU03M2ABB](https://www.amazon.com/Midea-MRU03M2ABB-Upright-Freezer-Black/dp/B07QKNP318/?tag=kitchenpot-20) is on the ENERGY STAR list at 240 kWh a year.
 
-Midea lists it at 19.7 inches wide and 33.9 inches tall, so it fits beside a mini fridge or in a closet. It is manual defrost and, per Midea, garage ready.
+At 19.7 inches wide and 33.9 inches tall, it fits beside a mini fridge or in a closet. It is manual defrost and built to run in a garage.
 
 A freezer makes cooking for one much easier. You can freeze single portions instead of eating the same meal four days in a row.
 
@@ -280,7 +276,7 @@ A countertop dishwasher takes counter space, which is scarce. It is worth it if 
 
 It is less worth it if you eat out often or own few dishes. In that case, a dish rack over the sink may be enough.
 
-Compare it to your sink habits. Washing under a running tap can use several gallons a minute, while the Midea countertop model uses about 2 gallons per cycle, per ENERGY STAR.
+Compare it to your sink habits. Washing under a running tap can use several gallons a minute, while the Midea countertop model uses about 2 gallons per cycle
 
 ## Renters: What You Can and Cannot Install
 

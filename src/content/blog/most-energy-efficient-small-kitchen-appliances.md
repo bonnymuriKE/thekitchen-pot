@@ -1,17 +1,15 @@
 ---
-title: Most Energy-Efficient Small Kitchen Appliances (2026 Buyer's Guide)
+title: "Most Energy-Efficient Small Kitchen Appliances (8 Picks for 2026)"
 slug: most-energy-efficient-small-kitchen-appliances
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
-modDate: 2026-09-21
+modDate: 2026-10-07
 author: Boniface Muriuki
 image: ""
-excerpt: Small kitchens don't have to mean small savings. The right compact
-  appliances can cook your meals using a fraction of the energy a full-size
-  oven or stove needs. Here's exactly which small kitchen appliances save the
-  most electricity, and how to shop for them without guessing.
-description: Discover the most energy-efficient small kitchen appliances that
-  cut your electric bill while saving space in an apartment or studio.
+coverAlt: "A portable induction burner, an electric kettle, a small air fryer and a smart plug on a compact kitchen counter"
+excerpt: "A full-size oven is the least efficient way to cook one meal. These eight small appliances, from Duxtop, Cuisinart, Cosori, Breville, Instant Pot, Zojirushi, Toshiba and Kasa, cook small portions with less energy and help you see what each one really uses."
+description: "Most energy-efficient small kitchen appliances: eight picks, from an induction burner and a kettle to a small air fryer, plus a smart plug that tracks use."
+seo: "Most energy-efficient small kitchen appliances: an induction burner, electric kettle, small air fryer, toaster oven, Instant Pot, rice cooker, microwave and an energy-monitoring plug."
 category: Small Appliances
 tags:
   - energy efficient small kitchen appliances
@@ -19,155 +17,383 @@ tags:
   - low energy cooking appliances
 faq:
   - question: "What is the most energy-efficient way to cook at home?"
-    answer: Countertop appliances that heat a small, enclosed space, like a
-      toaster oven, air fryer, or slow cooker, are generally more
-      energy-efficient than a full-size oven or stovetop burner, because they
-      heat less air and fewer materials to reach cooking temperature.
-  - question: "Do small appliances really save more energy than a full-size stove?"
-    answer: Yes, in most cases. A full-size oven has to heat a large metal box
-      and hold that heat for the whole cooking time. A toaster oven or air
-      fryer heats a much smaller space, so it uses less electricity for the
-      same task, especially for small portions.
-  - question: "Is an Energy Star label worth paying attention to on small appliances?"
-    answer: "Energy Star mostly certifies larger appliances like refrigerators
-      and dishwashers rather than countertop gadgets, but when it applies, it's
-      a reliable, third-party-verified signal that the appliance meets
-      efficiency standards set by the U.S. Environmental Protection Agency."
-  - question: "Which small kitchen appliance uses the most electricity?"
-    answer: Of the common countertop appliances, an electric kettle or a full-size
-      slow cooker running for many hours can use a meaningful amount of
-      electricity, but both still typically use less total energy than
-      running a stovetop burner or oven for the same job.
-  - question: "Can I save energy without buying any new appliances?"
-    answer: Yes. Using lids on pots, matching pan size to burner size, and
-      cooking in batches all reduce energy use with the appliances you
-      already own, before you spend anything on new ones.
+    answer: "For small meals, a countertop appliance that heats a small space or heats the pan directly is usually most efficient. Induction burners, microwaves, electric kettles, toaster ovens and air fryers all beat a full oven for single portions."
+  - question: "Is induction more efficient than gas or electric?"
+    answer: "Yes. Induction is up to three times more efficient than gas and up to 10% more efficient than a smooth-top electric range, because it heats the pan directly instead of the air around it."
+  - question: "Do small appliances have Energy Star ratings?"
+    answer: "Mostly no. ENERGY STAR covers fridges, freezers and dishwashers, but not toaster ovens, air fryers, kettles or microwaves. Judge countertop appliances by size, wattage and how long they run."
+  - question: "Does a high-wattage appliance always use more energy?"
+    answer: "No. Energy use is watts multiplied by time. An 1800-watt induction burner that boils water in a few minutes can use less energy than a lower-wattage coil that takes much longer."
+  - question: "How can I see how much energy an appliance uses?"
+    answer: "Plug it into an energy-monitoring smart plug, such as the Kasa EP25. The app shows real-time and historical power use, so you can compare appliances and spot ones that draw power on standby."
 smallSpacePillar: eco-friendly-appliances
 showTableOfContents: true
 source: decap
 ---
-If your kitchen is the size of a walk-in closet, you've probably already noticed that a full-size oven feels like overkill for reheating leftovers or baking four cookies. It turns out that's not just a space problem. It's also an energy problem.
+A full-size oven is the least efficient way to cook one meal. It heats a large metal box for 15 minutes before your food goes in.
 
-Small kitchen appliances aren't just convenient for apartments and studios. Many of them genuinely use less electricity than their full-size counterparts, because they're heating a smaller space to do the same job. That means lower energy bills, less wasted heat in your kitchen, and a lighter footprint overall.
+Small appliances heat a small space, or the pan itself, so they waste far less. Here are eight that cook efficiently, and one gadget that shows what each appliance really uses.
 
-Here's a real breakdown of the most energy-efficient small kitchen appliances worth having, what to look for when you shop, and a few habits that save power no matter what's on your counter.
+**The short version:** Replace a burner with the [Duxtop 9600LS induction cooktop](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20); induction is up to three times more efficient than gas. Boil water in the [Cuisinart PerfecTemp kettle](https://www.amazon.com/Cuisinart-Electric-Kettle-Temperature-Presets/dp/B003KYSLNQ/?tag=kitchenpot-20) instead of a pot. Then plug things into a [Kasa EP25 energy-monitoring smart plug](https://www.amazon.com/Kasa-Smart-Plug-Energy-Monitoring/dp/B0B14C719T/?tag=kitchenpot-20) to see what they really use.
 
-## Why Smaller Appliances Often Use Less Energy
+## Why Small Appliances Save Energy
 
-A standard oven has to heat a large metal box, usually to 350°F or higher, and keep it there for the whole cooking time. That takes a lot of energy, especially in the first few minutes while it preheats. A countertop appliance with a smaller interior reaches the same temperature faster and holds less heated air, so it uses less electricity to do it.
+Energy use is power multiplied by time. A small appliance saves energy in two ways.
 
-This is the whole idea behind "right-sizing" your cooking equipment. If you're only cooking for one or two people, a full-size appliance is almost always the least efficient option on your counter, not because it's poorly made, but because it's bigger than the job requires.
+- **It heats less.** A toaster oven or air fryer heats a few liters of air, not a full oven cavity.
+- **It runs for less time.** Small spaces heat quickly, so there is little or no preheating.
 
-### 1. Toaster Ovens and Convection Countertop Ovens
+Some appliances heat the food or pan directly. Induction heats the pan through a magnetic field. A microwave heats the water in the food. A kettle puts the heating element right in the water.
 
-A [toaster oven](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) is one of the most efficient tools in a small kitchen. It preheats faster than a full oven, uses a fraction of the energy for the same 20-minute bake, and works well for reheating, toasting, roasting a small tray of vegetables, or baking a small batch of anything.
+The U.S. Department of Energy puts the gap plainly: induction appliances are [up to three times more efficient than gas stoves](https://www.energy.gov/articles/making-switch-induction-stoves-or-cooktops). A single portable induction burner is also the cheapest way to try it without replacing a stove.
 
-**Renter-friendly:** yes, it's a plug-in countertop unit with zero installation.
+## Our Picks at a Glance
 
-**What to get:** a countertop convection toaster oven with an interior large enough for a quarter-sheet pan, usually $60 to $150. Convection models circulate hot air, which cooks food faster and more evenly, using even less energy than a basic toaster oven.
+- **Most efficient extra burner:** [Duxtop 9600LS Portable Induction Cooktop](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20)
+- **Best electric kettle:** [Cuisinart PerfecTemp Cordless Electric Kettle CPK-17P1](https://www.amazon.com/Cuisinart-Electric-Kettle-Temperature-Presets/dp/B003KYSLNQ/?tag=kitchenpot-20)
+- **Best small air fryer:** [Cosori Lite 2.1-Quart Air Fryer](https://www.amazon.com/Cosori-Lite-Small-Air-Fryer-Gray/dp/B0BDFRZX3F/?tag=kitchenpot-20)
+- **Best oven replacement:** [Breville Mini Smart Oven BOV450XL](https://www.amazon.com/Breville-BOV450XL-Mini-Smart-Oven/dp/B006CVVA7I/?tag=kitchenpot-20)
+- **Best for long-cooking foods:** [Instant Pot Duo Mini 3-Quart](https://www.amazon.com/Instant-Pot-Duo-Mini-3-Qt/dp/B06Y1YD5W7/?tag=kitchenpot-20)
+- **Best low-wattage rice cooker:** [Zojirushi Micom 3-Cup NS-LGC05](https://www.amazon.com/Zojirushi-NS-LGC05XB-Micom-3-Cup-Rice-Cooker/dp/B01EVHWNVG/?tag=kitchenpot-20)
+- **Best small microwave:** [Toshiba 0.9 Cu Ft Microwave ML-EM09PA](https://www.amazon.com/TOSHIBA-ML-EM09PA-Small-Microwave-Oven/dp/B0DPQPGC75/?tag=kitchenpot-20)
+- **Best energy monitor:** [Kasa Smart Plug EP25 With Energy Monitoring, 4-Pack](https://www.amazon.com/Kasa-Smart-Plug-Energy-Monitoring/dp/B0B14C719T/?tag=kitchenpot-20)
 
-### 2. Air Fryers
+| Appliance | Power | Replaces | Why It Saves Energy |
+| --- | --- | --- | --- |
+| Duxtop 9600LS | 1800 W | A stove burner | Heats the pan directly |
+| Cuisinart CPK-17P1 | 1500 W | A pot of water on the stove | Element sits in the water |
+| Cosori Lite 2.1 qt | 900 W | The oven for small portions | Tiny cooking space, no preheat |
+| Breville Mini Smart Oven | 1800 W | The full oven | Small cavity heats fast |
+| Instant Pot Duo Mini | 700 W | Hours of simmering | Pressure cuts cooking time |
+| Zojirushi NS-LGC05 | 450 W | A pot on the stove | Low wattage, sealed lid |
+| Toshiba ML-EM09PA | 900 W | Oven or stove for reheating | Heats the food, not the air |
+| Kasa EP25 | Monitors up to 1.8 kW | Guesswork | Shows real energy use |
 
-[Air fryers](/blog/best-air-fryers-under-100/) are essentially small convection ovens, and they've become popular for a good reason. They heat up almost instantly, cook in a compact chamber, and typically finish a meal in less time than an oven would need just to preheat.
+## 1. [Duxtop 9600LS Portable Induction Cooktop](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20): Most Efficient Extra Burner
 
-**Renter-friendly:** yes.
+- **Model:** 9600LS / BT-200DZ
+- **Power:** 1800 W, 20 levels from 100 to 1800 W
+- **Temperature:** 20 settings from 100 to 460°F
+- **Extras:** 10-hour timer, keep warm and child lock
+- **Cookware:** Magnetic pans at least 5 inches across
 
-**What to get:** a basket-style air fryer sized for one to three servings if you're cooking for yourself or a couple, usually $50 to $120. Buying a size that matches your household means you're not running a larger unit half-empty.
+Induction is the most efficient way to heat a pan. Gas loses most of its heat around the sides of the pot, and a coil heats itself before it heats the pan. Induction skips both by heating the pan directly, so far more of the energy ends up in your food.
 
-### 3. Electric Kettles
+A portable burner gets you those savings without replacing your stove. We recommend the Duxtop because it gets the details right. Its 20 power levels let you hold a true low simmer, which cheaper burners struggle with, and it is compact enough to live in a cupboard.
 
-If you make tea, coffee, or need hot water for cooking, an [electric kettle](/blog/how-do-electric-kettles-work/) heats water far faster and more efficiently than a stovetop kettle or microwave. Because the heating element sits directly in the water, almost all the energy goes into heating the water itself rather than the surrounding pot or air.
+It also stops heating the moment you lift the pan, so no energy goes into an empty burner. If you leave it on with no pan, it shuts itself off after about a minute.
 
-**Renter-friendly:** yes.
+You need magnetic cookware. Cast iron and most stainless steel work. See [how to use non-induction cookware on an induction cooktop](/blog/how-to-use-non-induction-cookware-on-induction-cooktop/) and [how to choose energy-efficient cookware](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/).
 
-**What to get:** a basic electric kettle with an automatic shutoff, usually $20 to $50. There's no need for a fancy model. Automatic shutoff is the one feature that matters most, since it prevents wasted energy from a kettle left running.
+**What we like:**
 
-### 4. Slow Cookers
+- Induction is about 85% efficient
+- Holds a low simmer without scorching
+- Fast to boil water
+- Stores in a cupboard
 
-Slow cookers use very little power for the amount of time they run, because they hold a low, steady temperature rather than repeatedly heating up like a stovetop burner does. Over a full day of cooking, a slow cooker often uses less total electricity than an oven would use for a much shorter roast.
+**What to know before you buy:**
 
-**Renter-friendly:** yes.
+- Needs magnetic cookware
 
-**What to get:** a small to medium slow cooker (2 to 4 quarts) if you're cooking for one or two people, usually $25 to $60. A smaller size means less wasted capacity and slightly less energy to run.
+**Who should buy it:** Renters and anyone with an old coil or gas stove.
 
-### 5. Microwaves
+[Check Price on Amazon](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20)
 
-Microwaves are one of the most efficient appliances in any kitchen for reheating and simple cooking, because they heat food directly rather than heating the air around it. For small portions, a microwave will almost always beat an oven or stovetop on both time and energy.
+## 2. [Cuisinart PerfecTemp Cordless Electric Kettle CPK-17P1](https://www.amazon.com/Cuisinart-Electric-Kettle-Temperature-Presets/dp/B003KYSLNQ/?tag=kitchenpot-20): Best Electric Kettle
 
-**Renter-friendly:** yes.
+- **Capacity:** 1.7 liters
+- **Power:** 1500 W
+- **Presets:** 6 temperatures
+- **Keep warm:** 30 minutes
+- **Safety:** Auto shutoff and boil-dry protection
+- **Typical price:** About $130
 
-**What to get:** a compact countertop microwave (under 1 cubic foot) if counter space is tight, usually $60 to $120. Wattage between 700 and 1000 is plenty for most small-kitchen cooking and reheating tasks.
+An electric kettle is one of the most efficient ways to heat water. The element sits in the water, so almost no heat escapes around the sides like it does from a pot on a burner.
 
-### 6. Induction Cooktops (Portable or Built-In)
+We like the Cuisinart PerfecTemp because it boils quickly for its 1.7-liter size, and its presets stop you heating water further than you need. Green tea wants about 175°F, not a full boil, and a French press about 200°F.
 
-Induction cooking is one of the biggest efficiency upgrades you can make if you're replacing a full stove. Induction heats the pan directly through electromagnetic energy rather than heating a coil or flame first, so far less heat is wasted into the air around the pan.
+Boil only the water you need. A full 1.7-liter kettle for one cup of tea wastes energy. See [how electric kettles work](/blog/how-do-electric-kettles-work/) and [how to clean an electric kettle](/blog/how-to-clean-an-electric-kettle/), since scale buildup slows heating.
 
-**Renter-friendly:** a portable single-burner induction cooktop is yes, since it just plugs in and sits on the counter. A built-in induction range is a bigger commitment, best left to homeowners or long-term renters with landlord approval.
+**What we like:**
 
-**What to get:** a [single-burner portable induction cooktop](/blog/best-induction-cooktop-for-the-money/), usually $40 to $100, if you want to try induction cooking without replacing your whole stove. You will need induction-compatible cookware, which is anything a magnet sticks to, like [cast iron](/blog/lodge-cast-iron-skillet-review/) or many stainless steel pans.
+- Quick to boil for its size
+- Six presets avoid over-boiling
+- Cordless pour from a 360-degree base
+- 3-year limited warranty
 
-### 7. Mini or Compact Refrigerators
+**What to know before you buy:**
 
-A full-size refrigerator runs 24 hours a day, every day, which makes it one of the biggest energy users in any kitchen, small or large. If you live alone or don't need much storage, a compact fridge sized to your actual needs uses meaningfully less electricity over a year than an oversized one running mostly empty.
+- Pricey for a kettle
+- 30-minute keep warm uses extra energy if left on
 
-**Renter-friendly:** yes, in most cases, though check whether your unit includes one already.
+**Who should buy it:** Tea and coffee drinkers who boil water daily.
 
-**What to get:** an Energy Star-certified [compact refrigerator](/blog/best-mini-fridge-for-beer/), usually $150 to $350 depending on size. Look for the Energy Star label specifically here, since refrigerators are one category where it's a reliable, verified signal of lower energy use.
+[Check Price on Amazon](https://www.amazon.com/Cuisinart-Electric-Kettle-Temperature-Presets/dp/B003KYSLNQ/?tag=kitchenpot-20)
 
-### 8. Multicookers (Pressure Cooker / Slow Cooker Combos)
+## 3. [Cosori Lite 2.1-Quart Air Fryer](https://www.amazon.com/Cosori-Lite-Small-Air-Fryer-Gray/dp/B0BDFRZX3F/?tag=kitchenpot-20): Best Small Air Fryer
 
-A [multicooker](/blog/what-is-an-instant-pot/) that combines pressure cooking, slow cooking, and sometimes rice cooking into one unit can be more efficient than owning several single-purpose appliances, simply because pressure cooking dramatically shortens cook time for foods that would otherwise need hours in the oven or on the stovetop, like beans, tough cuts of meat, or grains. Less cook time generally means less total energy, even though the wattage while running is moderate to high.
+- **Model:** CAF-LI211 (gray)
+- **Capacity:** 2.1 quarts
+- **Power:** 900 W
+- **Temperature:** 170 to 400°F
+- **Typical price:** About $60
 
-**Renter-friendly:** yes.
+An air fryer is a small convection oven. For one or two portions, it cooks faster than a full oven and needs little or no preheat.
 
-**What to get:** a 6 to 8 quart multicooker with pressure cooking and slow cooking functions, usually $60 to $120. If you already own a separate slow cooker and don't cook things that benefit from pressure cooking, you don't need to add this to your counter just for the sake of it.
+The Cosori Lite runs at just 900 watts, half of many larger air fryers. Its 2.1-quart basket fits one portion, so you are not heating space you do not use.
 
-## How to Compare Energy Use Between Appliances
+Bigger is not better for efficiency. A 6-quart air fryer heats three times the space to cook the same single portion.
 
-You don't need to be an electrician to get a rough sense of how much energy an appliance uses. Two numbers matter most:
+For more air fryer options, see the [best air fryers under $100](/blog/best-air-fryers-under-100/), and keep it working well with [how to clean an air fryer basket](/blog/how-to-clean-an-air-fryer-basket/).
 
-* **Wattage.** This tells you how much power the appliance draws while running. A 1500-watt appliance uses more electricity per hour than a 700-watt one, all else being equal. You'll usually find this number printed on a label on the bottom or back of the appliance, or listed in the product specifications online.
-* **Run time.** Wattage alone doesn't tell the whole story. A low-wattage slow cooker running for eight hours can use more total energy than a high-wattage air fryer running for 15 minutes. What actually matters is watts multiplied by hours used, which gives you the real energy cost.
+**What we like:**
 
-When you're comparing two similar appliances, look at both numbers together rather than assuming the lower-wattage option is automatically cheaper to run.
+- Low 900-watt draw
+- Sized for single portions
+- Little or no preheating
+- Affordable
 
-To put this into perspective, imagine a 1,200-watt air fryer that runs for 20 minutes to cook dinner, compared to a 150-watt slow cooker that runs for 7 hours on the same night. The air fryer draws far more power in the moment, but because it only runs for a third of an hour, its total energy use for that meal ends up in a similar range to the slow cooker running most of the day at a much lower draw. Neither appliance is automatically the "winner" here. It depends entirely on the specific wattage and run time of the models you own, which is exactly why checking both numbers matters more than trusting a general reputation for efficiency.
+**What to know before you buy:**
 
-### When a Small Appliance Isn't Actually Saving You Energy
+- Too small for cooking for guests
 
-Buying a compact, well-reviewed appliance doesn't guarantee efficient results if it's used the wrong way. A few situations to watch for:
+**Who should buy it:** Solo cooks who use the oven for small portions.
 
-* **Running a half-full air fryer basket repeatedly** instead of cooking a full batch once uses more total energy than necessary for the same amount of food.
-* **Using a high-wattage setting when a lower one would finish the job just as well**, like air frying at maximum heat for something that only needs a gentle warm-through.
-* **Leaving a slow cooker on the "keep warm" setting for hours after the food is done**, which draws power for no real benefit once dinner is ready to eat.
-* **Choosing a larger appliance "to be safe"** when a smaller one would comfortably handle your actual portion sizes.
+[Check Price on Amazon](https://www.amazon.com/Cosori-Lite-Small-Air-Fryer-Gray/dp/B0BDFRZX3F/?tag=kitchenpot-20)
 
-None of these mistakes are complicated to fix. They just take a little awareness of how you're actually using the appliance day to day, not just what's printed on the box.
+## 4. [Breville Mini Smart Oven BOV450XL](https://www.amazon.com/Breville-BOV450XL-Mini-Smart-Oven/dp/B006CVVA7I/?tag=kitchenpot-20): Best Oven Replacement
 
-## Habits That Save Energy No Matter What You Own
+- **Capacity:** 4 slices of toast or an 11-inch pizza
+- **Power:** 1800 W, four quartz elements
+- **Functions:** 8, including bake, roast, broil and reheat
+- **Size:** 16 x 13.6 x 8.8 inches
+- **Typical price:** About $160
 
-Buying efficient appliances only gets you halfway there. How you use them matters just as much.
+A toaster oven does most of what a full oven does, in a fraction of the space. A full oven heats several cubic feet of air for one tray of food. A compact oven heats a box not much bigger than the tray, so it is ready in minutes and runs for less time.
 
-* **Match appliance size to your portion.** Cooking one baked potato in a full-size oven wastes most of the energy heating empty space. Use the smallest appliance that fits the job.
-* **Keep lids on pots and pans.** A covered pot holds heat in, which means it reaches temperature faster and needs less energy to stay there.
-* **Avoid opening the oven or air fryer door repeatedly.** Every time you open the door, heat escapes and the appliance has to work harder to recover it.
-* **Batch cook when you can.** Running one appliance once for a bigger batch is more efficient than running it multiple times for smaller portions.
-* **Unplug appliances you're not using.** Many countertop appliances draw a small amount of power even when off, sometimes called phantom or standby power. It's small per device, but it adds up across a kitchen full of gadgets.
+The Breville Mini Smart Oven has a small cavity that heats quickly. Breville's Element IQ system directs power to the elements that need it for each setting.
 
-## **Common Mistakes to Avoid**
+It fits a quarter sheet pan, which is right for a single portion of roasted vegetables or a small batch of cookies. It is not the cheapest toaster oven, but it heats more evenly than budget models, so you are less likely to run it longer to finish food that browned unevenly.
 
-* **Buying more appliance than you need.** A large air fryer or slow cooker isn't automatically better. If you're cooking for one or two people, a smaller model saves both counter space and energy.
-* **Ignoring wattage when comparing similar appliances.** Two toaster ovens can look almost identical but have very different power draws. Check the label before you buy.
-* **Assuming all "eco" labeling means the same thing.** Marketing terms like "eco mode" vary by brand and aren't independently verified the way Energy Star certification is.
-* **Running appliances half-empty.** A dishwasher, fridge, or slow cooker that's mostly empty still uses close to the same energy as a full one. Right-size your purchase to your actual household.
+For more models, see the [best small ovens and toaster ovens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/).
 
-**Related Guides**
+**What we like:**
 
-* [Eco-Friendly Alternatives to Common Kitchen Appliances](/blog/eco-friendly-alternatives-to-common-kitchen-appliances/)
-* [Best Compact Energy Star Appliances for Small Kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/)
-* [How to Reduce Kitchen Energy Use in a Small Apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/)
-* [How to Choose Energy-Efficient Cookware for a Small Kitchen](/blog/how-to-choose-energy-efficient-cookware-for-a-small-kitchen/)
+- Replaces the full oven for most small meals
+- Heats quickly
+- Eight cooking functions
+- Fits a quarter sheet pan
 
-## **The Bottom Line**
+**What to know before you buy:**
 
-The most energy-efficient small kitchen appliances are almost always the ones sized to what you actually cook. A toaster oven, air fryer, electric kettle, and compact fridge will handle most day-to-day cooking for one or two people using far less electricity than a full-size kitchen setup. Start with the appliance you use most often, check its wattage, and build your small-kitchen lineup one efficient piece at a time.
+- Pricier than basic toaster ovens
+- No air fry setting
+
+**Who should buy it:** Anyone who uses the full oven for small portions.
+
+[Check Price on Amazon](https://www.amazon.com/Breville-BOV450XL-Mini-Smart-Oven/dp/B006CVVA7I/?tag=kitchenpot-20)
+
+## 5. [Instant Pot Duo Mini 3-Quart](https://www.amazon.com/Instant-Pot-Duo-Mini-3-Qt/dp/B06Y1YD5W7/?tag=kitchenpot-20): Best for Long-Cooking Foods
+
+- **Capacity:** 3 quarts, up to 3 servings
+- **Programs:** Pressure cook, slow cook, rice, steam, sauté, yogurt and warm
+- **Size:** 10 x 11.4 x 11.2 inches
+- **Typical price:** About $90
+
+Some foods take hours on the stove: dried beans, tough cuts of meat and stock. An electric pressure cooker cooks them in a fraction of the time.
+
+Pressure raises the boiling point of water, so food cooks hotter and faster. The pot is sealed and insulated, so little heat escapes.
+
+The 3-quart Duo Mini suits one or two people. A 6-quart pot is more popular, but it heats twice the space for a small batch. See [how many watts an Instant Pot uses](/blog/how-many-watts-does-an-instant-pot-use/) for more on its power draw.
+
+**What we like:**
+
+- Cuts hours off beans, stews and stock
+- Sealed pot loses little heat
+- Seven functions in one appliance
+- Right size for one or two
+
+**What to know before you buy:**
+
+- Recipes for 6-quart pots need halving
+
+**Who should buy it:** Anyone who cooks beans, grains or stews often.
+
+[Check Price on Amazon](https://www.amazon.com/Instant-Pot-Duo-Mini-3-Qt/dp/B06Y1YD5W7/?tag=kitchenpot-20)
+
+## 6. [Zojirushi Micom 3-Cup NS-LGC05](https://www.amazon.com/Zojirushi-NS-LGC05XB-Micom-3-Cup-Rice-Cooker/dp/B01EVHWNVG/?tag=kitchenpot-20): Best Low-Wattage Rice Cooker
+
+- **Capacity:** 3 cups uncooked (0.54 liters)
+- **Power:** 450 W
+- **Settings:** White, brown, sushi, GABA, long grain, steel-cut oatmeal and quick
+- **Size:** 9.1 x 11.9 x 7.5 inches
+
+This rice cooker runs at just 450 watts. That is a quarter of a typical stove burner's power, and the lid stays sealed so heat stays in.
+
+A rice cooker also stops you leaving a pot simmering longer than needed. It switches to keep-warm the moment the rice is done.
+
+It cooks as little as half a cup of rice, so you are not cooking more than you will eat. See [how to cook rice in a rice cooker](/blog/how-to-cook-rice-in-a-rice-cooker/) and the [best rice cooker for brown rice](/blog/best-rice-cooker-for-brown-rice/).
+
+**What we like:**
+
+- Very low 450-watt draw
+- Switches to keep-warm automatically
+- Cooks small amounts well
+- Also cooks steel-cut oats
+
+**What to know before you buy:**
+
+- Expensive for a small rice cooker
+- Keep-warm uses some energy if left on for hours
+
+**Who should buy it:** Solo cooks who eat rice several times a week.
+
+[Check Price on Amazon](https://www.amazon.com/Zojirushi-NS-LGC05XB-Micom-3-Cup-Rice-Cooker/dp/B01EVHWNVG/?tag=kitchenpot-20)
+
+## 7. [Toshiba 0.9 Cu Ft Microwave ML-EM09PA](https://www.amazon.com/TOSHIBA-ML-EM09PA-Small-Microwave-Oven/dp/B0DPQPGC75/?tag=kitchenpot-20): Best Small Microwave
+
+- **Capacity:** 0.9 cubic feet
+- **Power:** 900 W, 11 power levels
+- **Size:** 18.7 x 14.7 x 10.7 inches
+- **Turntable:** 10.6 inches
+- **Finish:** Black stainless steel
+
+A microwave heats the water in food rather than the air around it. For reheating and steaming vegetables, it uses far less energy than an oven or stovetop.
+
+The Toshiba ML-EM09PA is a compact 0.9 cubic foot model at 900 watts. Its 10.6-inch turntable fits a standard dinner plate, unlike some 0.7 cubic foot models.
+
+It has a mute button and child lock, plus six auto menus for common jobs like popcorn and reheating.
+
+Use the microwave for what it does best: reheating, steaming and defrosting. For browning and crisping, the air fryer or toaster oven is better.
+
+**What we like:**
+
+- Heats food directly, wasting little energy
+- 900 watts heats faster than 700-watt models
+- Fits a dinner plate
+- Mute button
+
+**What to know before you buy:**
+
+- Wider than 0.7 cubic foot models
+
+**Who should buy it:** Anyone who reheats leftovers on the stove or in the oven.
+
+[Check Price on Amazon](https://www.amazon.com/TOSHIBA-ML-EM09PA-Small-Microwave-Oven/dp/B0DPQPGC75/?tag=kitchenpot-20)
+
+## 8. [Kasa Smart Plug EP25 With Energy Monitoring, 4-Pack](https://www.amazon.com/Kasa-Smart-Plug-Energy-Monitoring/dp/B0B14C719T/?tag=kitchenpot-20): Best Energy Monitor
+
+- **Model:** EP25P4 (4-pack)
+- **Max load:** 15 A, 1.8 kW at 120 V
+- **Size:** 2.61 x 1.49 x 1.57 inches
+- **App data:** Real-time, daily, weekly and monthly power use
+- **Works with:** Alexa, Google Home, SmartThings and Siri
+
+You cannot save energy you cannot see. An energy-monitoring plug shows what each appliance uses, in real time and over weeks.
+
+Plug your kettle, coffee maker or rice cooker into the Kasa EP25, and the app shows how many kilowatt-hours each one uses, live and as daily, weekly and monthly totals. You might find that a coffee maker's warming plate or a rice cooker left on keep-warm uses more than you thought.
+
+We like the Kasa because it needs no hub or subscription, and the 4-pack covers the main appliances in a small kitchen. Keep the toaster oven and induction burner off it, though; at 1800 watts they sit right at the plug's limit.
+
+It also catches standby power. Many appliances draw a little power all day when switched off but still plugged in. Schedule the plug to cut power overnight.
+
+**What we like:**
+
+- No hub or subscription needed
+- Shows real-time and historical energy use
+- Cuts standby power on a schedule
+- Four plugs for the main kitchen appliances
+
+**What to know before you buy:**
+
+- Needs 2.4 GHz Wi-Fi
+- Not for appliances over 1.8 kW
+
+**Who should buy it:** Anyone who wants to measure, not guess, their energy use.
+
+[Check Price on Amazon](https://www.amazon.com/Kasa-Smart-Plug-Energy-Monitoring/dp/B0B14C719T/?tag=kitchenpot-20)
+
+## Which Appliance for Which Job?
+
+| Job | Most Efficient Option | Avoid |
+| --- | --- | --- |
+| Boil water | Electric kettle | A pot on a gas burner |
+| Reheat leftovers | Microwave | The full oven |
+| Roast one portion | Air fryer or toaster oven | The full oven |
+| Simmer or sauté | Induction burner | Old coil burner |
+| Cook beans or stew | Pressure cooker | Hours of simmering |
+| Cook rice | Rice cooker | Uncovered pot |
+| Bake a big batch | Full oven, filled | Several toaster oven runs |
+
+The full oven still makes sense for big batches. If you fill both racks with roasting trays, it can be efficient. It is wasteful for one tray.
+
+## Watts vs Time: How to Read Energy Use
+
+A higher wattage does not mean more energy used. Energy is power multiplied by time.
+
+An 1800-watt induction burner might boil a quart of water in about five minutes. A 1200-watt coil burner might take ten. In that case, the induction burner uses less total energy.
+
+To estimate cost, use this formula: watts x hours ÷ 1,000 = kWh. Then multiply kWh by your electricity rate.
+
+For example, a 900-watt air fryer running for 20 minutes uses 0.3 kWh. At 17 cents per kWh, that costs about 5 cents.
+
+## Standby Power: The Hidden Drain
+
+Many kitchen appliances draw power even when switched off. Clocks, displays, chargers and warming plates all count.
+
+- **Unplug rarely used appliances.** The waffle maker and slow cooker do not need to stay plugged in.
+- **Use a smart plug or power strip.** Cut power to a coffee station overnight.
+- **Turn off keep-warm functions.** Rice cookers and kettles use energy to hold heat.
+
+## Efficient Habits With Any Appliance
+
+- **Match the appliance to the portion.** Use the toaster oven for one tray, not the full oven.
+- **Do not preheat longer than needed.** Small appliances often need no preheat at all.
+- **Keep lids on.** Covered pots boil faster and use less energy.
+- **Keep appliances clean.** Scale in a kettle and grease in an air fryer slow heating.
+- **Cook in batches.** Cook two meals at once while the appliance is hot.
+
+For more ideas, see [how to reduce kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/).
+
+## A Week of Efficient Cooking for One
+
+Here is how these appliances fit into a normal week without the big oven or more than one burner.
+
+**Sunday prep:** Cook a pot of beans or a stew in the Instant Pot, and a batch of rice in the rice cooker. Portion them into containers; see [easy meal prep ideas for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) and the [best airtight food storage containers](/blog/best-airtight-food-storage-containers/).
+
+**Weeknight dinners:** Roast a chicken thigh and vegetables in the air fryer or toaster oven in about 20 minutes. Sauté greens on the induction burner while it cooks.
+
+**Leftovers:** Reheat in the microwave rather than the oven. It takes two minutes instead of fifteen.
+
+**Mornings:** Boil just enough water in the kettle for tea, coffee or oats.
+
+That routine uses a fraction of the energy of preheating a full oven most nights. It also keeps a small apartment cooler in summer. For more ideas, see [how to cook a full meal with only two burners](/blog/how-to-cook-a-full-meal-with-only-two-burners/).
+
+## What About Energy Star?
+
+ENERGY STAR covers fridges, freezers and dishwashers, but not countertop appliances like these. For certified compact fridges and dishwashers, see the [best compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/).
+
+For countertop appliances, use the habits above and the right size for your household.
+
+## Efficient Appliances in a Small Kitchen
+
+Two or three of these appliances can replace the full stove and oven for most solo cooks. An induction burner, a toaster oven and a kettle cover nearly every meal.
+
+That also frees up space. See [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) and [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) to fit them in.
+
+## Greener Swaps Beyond Appliances
+
+Efficient appliances are one part of a greener kitchen. Non-electric tools, reusable storage and the right cookware matter too.
+
+See [eco-friendly alternatives to common kitchen appliances](/blog/eco-friendly-alternatives-to-common-kitchen-appliances/) and [best cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/).
+
+## Related Guides
+
+- [Coolest Kitchen Appliances to Buy](/blog/coolest-kitchen-appliances-to-buy/)
+- [NuWave Induction Cooktop Review](/blog/nuwave-induction-cooktop-review/)
+- [Best Induction Cooktop for the Money](/blog/best-induction-cooktop-for-the-money/)
+- [What Is an Instant Pot](/blog/what-is-an-instant-pot/)
+- [NuWave Oven vs Air Fryers](/blog/nuwave-oven-vs-air-fryers/)
+- [Best Tea Kettle for Gas Stove](/blog/best-tea-kettle-for-gas-stove/)
+- [Best Cookware for Induction Cooktop](/blog/best-cookware-for-induction-cooktop/)

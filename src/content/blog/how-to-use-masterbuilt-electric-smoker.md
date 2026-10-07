@@ -6,7 +6,7 @@ title: "How to Use a Masterbuilt Electric Smoker: Step-by-Step Guide"
 source: wordpress
 slug: how-to-use-masterbuilt-electric-smoker
 pubDate: 2021-01-26
-modDate: 2026-10-06
+modDate: 2026-10-07
 image: ""
 category: Gas And Charcoal Grills
 author: Boniface Muriuki
@@ -48,9 +48,7 @@ Above that is a water bowl, and then the cooking racks. The digital controller h
 
 Masterbuilt's patented side wood chip loader lets you add chips without opening the door. That keeps heat and smoke inside.
 
-Masterbuilt's current range includes 30-inch and 40-inch digital models and the 710 WiFi model. Masterbuilt lists the 40-inch model with 970 square inches of cooking space on four racks and a maximum of 275°F. The 710 WiFi adds app control and built-in meat probes.
-
-When we checked Masterbuilt's store, the 30-inch with window, the 40-inch and the 710 WiFi were in stock. The basic 30-inch digital model was sold out.
+Masterbuilt's current range includes 30-inch and 40-inch digital models and the 710 WiFi model. The 40-inch model has 970 square inches of cooking space on four racks and a maximum of 275°F. The 710 WiFi adds app control and built-in meat probes.
 
 ## Parts of a Masterbuilt Electric Smoker
 
@@ -99,7 +97,7 @@ You do not need to soak chips. Dry chips start smoking faster and burn cleaner.
 
 ### 1. Set Up Outdoors
 
-Place the smoker on a flat, stable surface outdoors. Masterbuilt says to keep it at least 10 feet from walls, rails, overhangs and other combustible materials. Never use it in a garage, shed or enclosed patio.
+Place the smoker on a flat, stable surface outdoors. Masterbuilt's manual calls for at least 10 feet of clearance from walls, rails, overhangs and other combustible materials. Never use it in a garage, shed or enclosed patio.
 
 If you have a small outdoor space, see our [balcony grilling safety tips and rules](/blog/balcony-grilling-safety-tips-and-rules/) first. Many buildings ban smokers on balconies.
 
@@ -117,7 +115,7 @@ Set the temperature and let the smoker heat up for about 30 to 45 minutes. Keep 
 
 ### 5. Add Wood Chips
 
-Load wood chips through the side loader. Never use more than 1 1/2 cups at a time, per Masterbuilt.
+Load wood chips through the side loader. Never use more than 1 1/2 cups at a time
 
 Turn the loader to dump the chips into the tray, then return it to the loading position so smoke stays inside.
 
@@ -247,6 +245,10 @@ Classic sides include coleslaw, baked beans, potato salad and corn. Grilled corn
 Smoked meat also pairs well with crisp pickles, cornbread and a simple green salad to cut the richness. Keep your knives sharp for carving with a good [knife sharpener](/blog/best-knife-sharpener/), as a dull blade tears the bark and shreds tender brisket.
 
 For carving and slicing, a sharp knife matters. See our [Wusthof knives review](/blog/wusthof-knives-review/).
+
+## Smoking in Cold Weather
+
+Electric smokers lose heat in cold or windy weather. Place the smoker out of the wind and allow extra time, often an hour or more on a long cook.
 
 ## Related Guides
 

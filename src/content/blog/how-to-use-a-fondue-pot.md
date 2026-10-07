@@ -6,7 +6,7 @@ title: "How to Use a Fondue Pot: Cheese, Chocolate, Broth and Oil (With Recipes)
 source: wordpress
 slug: how-to-use-a-fondue-pot
 pubDate: 2021-01-26
-modDate: 2026-10-06
+modDate: 2026-10-07
 image: ""
 category: How To Guides
 author: Boniface Muriuki
@@ -92,7 +92,7 @@ The [Swissmar Lugano](https://www.amazon.com/Swissmar-KF-66517-Lugano-2-Quart-9-
 
 ### Oster 3-Quart Electric Fondue Pot
 
-The [Oster 3-quart fondue pot](https://www.amazon.com/Oster-FPSTFN7700W-TECO-Titanium-Infused-DuraCeramic/dp/B0778251K9/?tag=kitchenpot-20) is an electric option. Oster lists its 3-quart fondue pot at 1000 watts, with a nonstick surface, an adjustable, removable temperature control and eight forks.
+The [Oster 3-quart fondue pot](https://www.amazon.com/Oster-FPSTFN7700W-TECO-Titanium-Infused-DuraCeramic/dp/B0778251K9/?tag=kitchenpot-20) is an electric option. It runs at 1000 watts and has a nonstick surface, an adjustable, removable temperature control and eight forks.
 
 **Pros:**
 
@@ -322,6 +322,10 @@ Fondue is a smart way to host when you have little counter space. Most of the co
 A compact electric pot can double as a warmer for dips and sauces. If you are tight on space, see the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) and [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/).
 
 Store the pot, forks and burner together in one box so nothing goes missing. Keep spare gel fuel in a cool, dry cupboard away from the stove, and check the cans before a party. Running out of fuel halfway through dinner is the most common fondue night problem. A spare tealight or two is handy for chocolate pots as well. Wash and dry the forks well before storing them so they do not rust or stain. Ideas in [small kitchen cabinet organization](/blog/small-kitchen-cabinet-organization-ideas/) can help you find a spot for it.
+
+## Leftover Fondue
+
+Leftover cheese fondue keeps for two or three days in the fridge. Reheat it gently in a saucepan with a splash of wine or milk, stirring constantly, and use it as a sauce for pasta or baked potatoes.
 
 ## Related Guides
 

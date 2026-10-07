@@ -6,7 +6,7 @@ title: "How Much Juice Is in One Lemon? Conversion Chart and Tips"
 source: wordpress
 slug: how-much-juice-is-in-one-lemon
 pubDate: 2021-02-09
-modDate: 2026-10-06
+modDate: 2026-10-07
 image: ""
 category: How To Guides
 author: Boniface Muriuki
@@ -23,7 +23,7 @@ seo: "How much juice is in one lemon? About 3 tablespoons from a medium lemon. C
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
   - question: "How much juice is in one lemon?"
-    answer: "A medium lemon gives about 3 tablespoons of juice, and a large lemon about 4 tablespoons (1/4 cup), according to A Couple Cooks' yield guide. Small or dry lemons give less, often 1 to 2 tablespoons."
+    answer: "A medium lemon gives about 3 tablespoons of juice, and a large lemon about 4 tablespoons (1/4 cup). Small or dry lemons give less, often 1 to 2 tablespoons."
   - question: "How many lemons make 1 cup of juice?"
     answer: "About 6 medium lemons or 4 large lemons make 1 cup of juice. Buy one or two extra in case some are dry."
   - question: "How much zest is in one lemon?"
@@ -92,11 +92,11 @@ Yields for medium and large lemons, and the 1/2 cup and 1 cup counts, follow [A 
 
 ## Best Tools for Juicing Lemons
 
-**Handheld lever press.** The [Chef'n FreshForce Citrus Juicer](https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/?tag=kitchenpot-20) uses a dual-gear lever, per the listing, to squeeze hard with little hand effort. It is the best choice for a few lemons at a time.
+**Handheld lever press.** The [Chef'n FreshForce Citrus Juicer](https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/?tag=kitchenpot-20) uses a dual-gear lever to squeeze hard with little hand effort. It is the best choice for a few lemons at a time.
 
-**Electric reamer.** The [Cuisinart CCJ-500 Pulp Control Citrus Juicer](https://www.amazon.com/Cuisinart-CCJ-500-Control-Brushed-Stainless/dp/B004VS32HA/?tag=kitchenpot-20) spins a cone as you press the fruit down. It has three pulp settings and fits small limes to large grapefruits, per the listing. Use it for lemonade or batches of juice.
+**Electric reamer.** The [Cuisinart CCJ-500 Pulp Control Citrus Juicer](https://www.amazon.com/Cuisinart-CCJ-500-Control-Brushed-Stainless/dp/B004VS32HA/?tag=kitchenpot-20) spins a cone as you press the fruit down. It has three pulp settings and fits small limes to large grapefruits. Use it for lemonade or batches of juice.
 
-**Budget electric juicer.** The [BLACK+DECKER CJ625 Citrus Juicer](https://www.amazon.com/Electric-CJ625-Activated-Adjustable-Dishwasher-Safe/dp/B001EU9VSM/?tag=kitchenpot-20) is pressure activated, holds 32 ounces, has adjustable pulp control and dishwasher-safe parts, per the listing.
+**Budget electric juicer.** The [BLACK+DECKER CJ625 Citrus Juicer](https://www.amazon.com/Electric-CJ625-Activated-Adjustable-Dishwasher-Safe/dp/B001EU9VSM/?tag=kitchenpot-20) is pressure activated, holds 32 ounces, has adjustable pulp control and dishwasher-safe parts.
 
 **Wooden reamer.** A simple, cheap hand tool. Twist it into half a lemon over a bowl.
 

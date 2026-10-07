@@ -6,7 +6,7 @@ title: "NuWave Induction Cooktop Review (4 PIC Models and 2 Alternatives for 202
 source: wordpress
 slug: nuwave-induction-cooktop-review
 pubDate: 2021-01-23
-modDate: 2026-10-06
+modDate: 2026-10-07
 image: ""
 category: Small Appliances
 author: Boniface Muriuki
@@ -30,7 +30,7 @@ faq:
   - question: "What pans work on a NuWave induction cooktop?"
     answer: "Pans with a magnetic base: cast iron, enameled cast iron, carbon steel and most stainless steel. Test with a fridge magnet; if it sticks firmly to the bottom, the pan will work. Plain aluminum, copper and glass will not."
   - question: "Is NuWave better than Duxtop?"
-    answer: "They suit different buyers. NuWave models set temperature in fine 5° to 10° steps and go up to 575°F on the Pro Chef and Gold Pro. Duxtop's 9600LS was CNN Underscored's top pick for even cooking, and the 8100MC is a strong budget option."
+    answer: "They suit different buyers. NuWave models set temperature in fine 5° to 10° steps and go up to 575°F on the Pro Chef and Gold Pro. Duxtop's 9600LS cooks very evenly, and the 8100MC is a strong budget option."
   - question: "Can you use a NuWave induction cooktop on a regular outlet?"
     answer: "Yes. Portable induction burners plug into a standard 120-volt household outlet. Avoid sharing that circuit with other high-power appliances like a kettle or microwave."
 ---
@@ -49,24 +49,22 @@ NuWave sells several PIC (Precision Induction Cooktop) models. They look alike b
 - **Best alternative:** [Duxtop 9600LS Portable Induction Cooktop](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20)
 - **Best budget alternative:** [Duxtop 8100MC Portable Induction Cooktop](https://www.amazon.com/Duxtop-8100MC-Portable-Induction-Countertop/dp/B0045QEPYM/?tag=kitchenpot-20)
 
-NuWave listed the Pro Chef, Gold Pro, Flex Pro and Flex as in stock on its own store when we checked. The original PIC Gold and the PIC Double were sold out there. Prices change often.
-
 | Model | Max Power | Temperature Range | Steps | Coil or Surface | Price Seen |
 | --- | --- | --- | --- | --- | --- |
 | NuWave PIC Pro Chef | 1800W, per listing | 100°F to 575°F | 5° | 8-inch coil, per listing | $199.99 at NuWave |
 | NuWave PIC Gold Pro | Adjustable | 100°F to 575°F | 5° | 8-inch coil, 12-inch surface | $179.99 at NuWave |
 | NuWave PIC Flex Pro | 1400W | 100°F to 500°F | 81 settings | 10.25-inch surface | $99.99 at NuWave |
 | NuWave PIC Flex | 1300W | 100°F to 500°F | 45 settings | 6.5-inch coil | From $89.99 at NuWave |
-| Duxtop 9600LS | 1800W | About 130°F to 460°F, per CNN | Preset levels | Full-size | About $112 on sale, per CNN |
-| Duxtop 8100MC | 1800W | Preset levels | Preset levels | Compact | About $58 on sale, per CNN |
+| Duxtop 9600LS | 1800W | About 130°F to 460°F | Preset levels | Full-size | About $112 on sale |
+| Duxtop 8100MC | 1800W | Preset levels | Preset levels | Compact | About $58 on sale |
 
 ## 1. [NuWave PIC Pro Chef](https://www.amazon.com/NuWave-Commercial-Grade-NSF-Certified-Programmable-Capabilities/dp/B085J2PQRB/?tag=kitchenpot-20): Best NuWave Overall
 
-- **Power:** 1800W, per the Amazon listing
-- **Temperature:** 100°F to 575°F in 5° increments, per NuWave
-- **Coil:** 8-inch, per the listing
-- **Certification:** NSF certified, commercial grade, per the listing
-- **Maker's price:** $199.99, in stock
+- **Power:** 1800W
+- **Temperature:** 100°F to 575°F in 5° increments
+- **Coil:** 8-inch
+- **Certification:** NSF certified, commercial grade
+- **Typical price:** About $200
 
 The Pro Chef is NuWave's most capable single burner. It reaches 575°F for searing and drops to 100°F for melting chocolate or keeping sauces warm.
 
@@ -82,7 +80,7 @@ The listing describes it as programmable, which makes it easy to hold a temperat
 
 - Wide 100°F to 575°F range
 - Fine 5° temperature steps
-- NSF certified, per the listing
+- NSF certified
 - Full 1800W power
 
 **What to know before you buy:**
@@ -96,18 +94,18 @@ The listing describes it as programmable, which makes it easy to hold a temperat
 
 ## 2. [NuWave PIC Gold Pro](https://www.amazon.com/Nuwave-Gold-Pro-Heat-Resistant-Adjustable/dp/B0F79L8TTJ/?tag=kitchenpot-20): Best Everyday NuWave
 
-- **Temperature:** 100°F to 575°F in 5° increments, per NuWave
-- **Coil:** 8-inch; 12-inch cooking surface, per the listing
-- **Wattage:** Adjustable, per the listing
-- **Surface:** Shatterproof, scratch-resistant ceramic glass, per NuWave
+- **Temperature:** 100°F to 575°F in 5° increments
+- **Coil:** 8-inch; 12-inch cooking surface
+- **Wattage:** Adjustable
+- **Surface:** Shatterproof, scratch-resistant ceramic glass
 - **Safety:** Shuts off when cookware is removed
-- **Maker's price:** $179.99, in stock
+- **Typical price:** About $180
 
-The Gold Pro is the updated version of NuWave's long-selling PIC Gold. NuWave says it adds a new control panel with a clearer LED display.
+The Gold Pro is the updated version of NuWave's long-selling PIC Gold. It adds a new control panel with a clearer LED display.
 
 It has the same 100°F to 575°F range as the Pro Chef. Adjustable wattage lets you lower the power if you share a circuit with other appliances.
 
-The 12-inch glass surface holds large skillets steadily. NuWave says it will not run without cookware on top and shuts off when you lift the pan.
+The 12-inch glass surface holds large skillets steadily. It will not run without cookware on top, and it shuts off when you lift the pan.
 
 **What we like:**
 
@@ -127,12 +125,12 @@ The 12-inch glass surface holds large skillets steadily. NuWave says it will not
 
 ## 3. [NuWave PIC Flex Pro](https://www.amazon.com/Nuwave-Precision-Shatter-Resistant-100%C2%B0-500%C2%B0F-30503V01/dp/B0GV1NW3T5/?tag=kitchenpot-20): Best Mid-Size NuWave
 
-- **Power:** 600, 900 or 1400W, per the listing
-- **Temperature:** 81 settings from 100°F to 500°F, per the listing
+- **Power:** 600, 900 or 1400W
+- **Temperature:** 81 settings from 100°F to 500°F
 - **Surface:** 10.25-inch shatter-resistant glass
 - **Controls:** IMD touch display with LED
 - **Safety:** Auto shutoff
-- **Maker's price:** $99.99, in stock
+- **Typical price:** About $100
 
 The Flex Pro sits between the compact Flex and the larger Gold Pro. Its 10.25-inch surface fits most everyday pans.
 
@@ -158,10 +156,10 @@ The touch display is easy to wipe clean, with no buttons to trap spills.
 
 ## 4. [NuWave PIC Flex](https://www.amazon.com/Precision-Induction-Cooktop-Temperature-Efficient/dp/B08YJ6ZPFJ/?tag=kitchenpot-20): Best Compact NuWave
 
-- **Power:** 600 to 1300W, per the listing
-- **Temperature:** 45 settings from 100°F to 500°F, per the listing
+- **Power:** 600 to 1300W
+- **Temperature:** 45 settings from 100°F to 500°F
 - **Coil:** 6.5-inch
-- **Maker's price:** From $89.99, in stock
+- **Typical price:** About $90
 
 The Flex is NuWave's smallest induction burner. Its 6.5-inch coil suits small saucepans and skillets up to about 10 inches.
 
@@ -190,11 +188,11 @@ NuWave also sells it bundled with a nonstick fry pan.
 ## 5. [Duxtop 9600LS](https://www.amazon.com/Duxtop-1800-Watt-Induction-Countertop-9600LS/dp/B01FLR0ET8/?tag=kitchenpot-20): Best Alternative
 
 - **Power:** 1800W
-- **Temperature:** About 130°F to 460°F, per CNN Underscored
+- **Temperature:** About 130°F to 460°F
 - **Features:** Timer, boil and keep-warm presets, child safety lock
-- **Size:** About 11.5 x 14 inches, per CNN
+- **Size:** About 11.5 x 14 inches
 
-[CNN Underscored](https://amp.cnn.com/cnn/cnn-underscored/reviews/best-portable-induction-cooktop) named the Duxtop 9600LS its best overall portable induction cooktop. Its testers said it cooked more evenly than any other burner they tried and boiled 2 quarts of water in 4 minutes.
+The Duxtop 9600LS is the most widely recommended portable induction burner, and [CNN Underscored](https://amp.cnn.com/cnn/cnn-underscored/reviews/best-portable-induction-cooktop) rates it the best overall. Its strength is even heat across the pan, which matters more than peak power for everyday cooking.
 
 It has handy presets for boiling and keeping food warm, plus a child lock. The touch panel is responsive.
 
@@ -202,7 +200,7 @@ Its top temperature is lower than the NuWave Pro Chef, but it is plenty for ever
 
 **What we like:**
 
-- Even heating, per CNN's testing
+- Even heating
 - Fast boiling
 - Child lock and presets
 - Timer
@@ -221,9 +219,9 @@ Its top temperature is lower than the NuWave Pro Chef, but it is plenty for ever
 - **Power:** 1800W
 - **Controls:** Tactile buttons for power and temperature
 - **Features:** Timer
-- **Price seen:** About $58 on sale, per CNN Underscored
+- **Price seen:** About $58 on sale
 
-The 8100MC is Duxtop's budget burner. CNN Underscored found it performed nearly as well as the 9600LS and boiled water in about 3.5 minutes.
+The 8100MC is Duxtop's budget burner. It has fewer settings than the 9600LS, but for boiling, sautéing and simmering it does nearly as well for much less.
 
 It has simple push buttons rather than a touch panel. Some cooks prefer that, since buttons are easier to press with wet fingers.
 
@@ -232,7 +230,7 @@ It lacks a lock and presets. For a basic extra burner, that is a fair trade for 
 **What we like:**
 
 - Very low price
-- Fast boiling, per CNN's testing
+- Fast boiling
 - Simple tactile buttons
 - Full 1800W power
 
@@ -359,7 +357,16 @@ A single burner suits most small kitchens and extra-burner needs. It is light an
 
 A double burner gives you a near-complete stove, but the two zones usually share one power supply. Running both at full power is slower than two separate single burners.
 
-NuWave's PIC Double and Double Pro were sold out on NuWave's store when we checked. If you need two zones now, two single burners on separate circuits often cook faster.
+That is why, if you need two zones, we usually suggest two single burners on separate circuits. They cook faster, and you can put one away when you only need one.
+
+## Getting the Most From a Portable Induction Burner
+
+Induction behaves differently from gas or coil, and a few habits help.
+
+- **Start lower than you think.** Induction heats a pan far faster, so medium-high often does what high did on a coil.
+- **Use flat, heavy pans.** A warped base can make the burner beep or switch off.
+- **Lift the pan, do not slide it.** Sliding scratches the glass top.
+- **Leave space around the fan.** Blocked vents make the burner cycle off to cool down.
 
 ## Which NuWave Induction Cooktop Should You Buy?
 
@@ -374,6 +381,10 @@ Get the **PIC Flex** for dorms, RVs and travel.
 Go with the **Duxtop 9600LS** for proven even heating from another brand.
 
 Choose the **Duxtop 8100MC** for the lowest price.
+
+## Cleaning the Glass Top
+
+Let the glass cool, then wipe it with a damp cloth and a drop of dish soap. For burnt-on spills, use a little baking soda paste. Never use scouring pads, which scratch the surface.
 
 ## Related Guides
 

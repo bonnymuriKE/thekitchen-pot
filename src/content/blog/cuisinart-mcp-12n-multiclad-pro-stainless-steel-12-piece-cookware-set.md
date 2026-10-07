@@ -6,7 +6,7 @@ title: "Cuisinart MultiClad Pro 12-Piece Review (MCP-12N): Is It Worth It in 202
 source: wordpress
 slug: cuisinart-mcp-12n-multiclad-pro-stainless-steel-12-piece-cookware-set
 pubDate: 2021-02-28
-modDate: 2026-10-06
+modDate: 2026-10-07
 image: ""
 category: Cookware Equipment
 author: Boniface Muriuki
@@ -23,7 +23,7 @@ seo: "Cuisinart MultiClad Pro MCP-12N review: tri-ply stainless with aluminum co
 authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
   - question: "Is the Cuisinart MultiClad Pro set worth it?"
-    answer: "For most home cooks, yes. It is fully clad tri-ply stainless with an aluminum core, works on induction, goes in the dishwasher and carries a lifetime warranty, per Cuisinart. It costs a fraction of All-Clad D3 and cooks in a similar way."
+    answer: "For most home cooks, yes. It is fully clad tri-ply stainless with an aluminum core, works on induction, goes in the dishwasher and carries a lifetime warranty. It costs a fraction of All-Clad D3 and cooks in a similar way."
   - question: "What comes in the Cuisinart MCP-12N set?"
     answer: "1.5 and 3-quart saucepans with lids, a 3.5-quart sauté pan with lid, an 8-quart stockpot with lid, a steamer insert with lid that fits the 3-quart saucepan, and 8 and 10-inch skillets."
   - question: "How hot can Cuisinart MultiClad Pro go in the oven?"
@@ -45,16 +45,14 @@ This review covers the build, what you get, how it cooks and how it compares to 
 | --- | --- |
 | Construction | Triple-ply: stainless steel with an aluminum core, bonded through the base and sides |
 | Pieces | 12 (6 cooking vessels, steamer insert, 5 lids) |
-| Oven safe | Up to 500°F, per Cuisinart |
+| Oven safe | Up to 500°F |
 | Induction | Yes |
-| Dishwasher safe | Yes, per Cuisinart |
+| Dishwasher safe | Yes |
 | Lids | Stainless steel |
 | Handles | Riveted stainless Cool Grip |
-| Warranty | Lifetime, per Cuisinart |
-| Price | $299.95 on Cuisinart's store (low stock when we checked) |
-| Weight | About 26 lb for the boxed set, per Cuisinart |
-
-Cuisinart's own store listed the set as low stock when we checked. The Amazon listing is the easiest place to find it, and it often sells for less than list price.
+| Warranty | Lifetime |
+| Price | About $300 list; often less on Amazon |
+| Weight | About 26 lb for the boxed set |
 
 ## What You Get in the Box
 
@@ -103,7 +101,7 @@ To reduce sticking, learn [how to season stainless steel pans](/blog/how-to-seas
 - Fully clad tri-ply at a fair price
 - Works on every cooktop, including induction
 - Oven safe to 500°F with stainless lids
-- Dishwasher safe, per Cuisinart
+- Dishwasher safe
 - Lifetime warranty
 - Steamer insert included
 
@@ -119,11 +117,11 @@ The handles are riveted stainless steel with Cuisinart's Cool Grip design. They 
 
 Some owners find the handles slim. If you can, hold a pan in a store before you buy. A folded towel or a silicone handle sleeve makes them easier to grip when the pan is full and heavy.
 
-The lids are stainless steel, not glass. You cannot see through them, but they handle the full 500°F oven temperature and will not shatter. Cuisinart says the rims are sealed and dripless, which makes pouring cleaner.
+The lids are stainless steel, not glass. You cannot see through them, but they handle the full 500°F oven temperature and will not shatter. The tapered, drip-free rims make pouring cleaner.
 
 ## Care and Cleaning
 
-Cuisinart says the set is dishwasher safe. Hand washing keeps the mirror finish brighter for longer.
+The set is dishwasher safe, but hand washing keeps the mirror finish brighter for longer.
 
 - **Daily:** Warm soapy water and a soft sponge, then dry right away.
 - **Stuck food:** Simmer a little water in the pan, then scrape with a wooden spoon.
@@ -139,14 +137,14 @@ For a full guide, see [how to clean stainless steel pans](/blog/how-to-clean-sta
 | Cuisinart MultiClad Pro 12-pc | 3 | 500°F | Overseas | About $200 to $300 |
 | All-Clad D3 10-pc | 3 | 600°F | USA | About $800 to $1,130 |
 | Tramontina Signature Tri-Ply 10-pc | 3 | See listing | Brazil | Under $300 |
-| Misen 5-ply 5-pc | 5 | 800°F, per Misen | China | $424 |
+| Misen 5-ply 5-pc | 5 | 800°F | China | $424 |
 | Cooks Standard 10-pc | 3 | 500°F | Overseas | About $200 |
 
 **[All-Clad D3 10-Piece](https://www.amazon.com/All-Clad-Tri-Ply-Cookware-Dishwasher-Stainless/dp/B005H8KD3E/?tag=kitchenpot-20).** The benchmark tri-ply set, bonded in Pennsylvania and rated to 600°F. It costs several times more. Read our [All-Clad D3 review](/blog/all-clad-d3-cookware-set-review/) for the full picture, and [All-Clad D3 vs D5](/blog/all-clad-d3-vs-d5/) if you are weighing a thicker option.
 
-**[Tramontina Signature Tri-Ply Clad 10-Piece](https://www.amazon.com/Tramontina-80116-248DS-Induction-Ready-NSF-Certified/dp/B00JDL0TA8/?tag=kitchenpot-20).** Made in Brazil and NSF certified, per the listing. It is the most direct rival on price and build.
+**[Tramontina Signature Tri-Ply Clad 10-Piece](https://www.amazon.com/Tramontina-80116-248DS-Induction-Ready-NSF-Certified/dp/B00JDL0TA8/?tag=kitchenpot-20).** Made in Brazil and NSF certified. It is the most direct rival on price and build.
 
-**[Misen 5-Ply Stainless Set](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=cuisinart-mcp-12n-multiclad-pro-stainless-steel-12-piece-cookware-set&ued=https%3A%2F%2Fmisen.com%2Fproducts%2Fstainless-cookware-set).** Five layers and a 3 mm build hold heat longer. Misen lists the 5-piece at $424 with a lifetime warranty and a 60-day trial.
+**[Misen 5-Ply Stainless Set](https://www.awin1.com/cread.php?awinmid=92257&awinaffid=1956629&clickref=cuisinart-mcp-12n-multiclad-pro-stainless-steel-12-piece-cookware-set&ued=https%3A%2F%2Fmisen.com%2Fproducts%2Fstainless-cookware-set).** Five layers and a 3 mm build hold heat longer. The 5-piece set runs about $424 and comes with a lifetime warranty and a 60-day trial.
 
 **[Cooks Standard 10-Piece Multi-Ply Clad](https://www.amazon.com/Cooks-Standard-10-Piece-Multi-Ply-Stainless/dp/B00421AYJK/?tag=kitchenpot-20).** The cheapest fully clad option, with a similar piece mix but no sauté pan.
 
@@ -156,7 +154,7 @@ For a full guide, see [how to clean stainless steel pans](/blog/how-to-clean-sta
 
 - **First stainless set buyers.** It is the easiest way into fully clad cookware without a big bill.
 - **Induction cooks.** It works on induction out of the box.
-- **Dishwasher households.** Cuisinart says it can go in the dishwasher.
+- **Dishwasher households.** It is dishwasher safe.
 - **Anyone replacing worn nonstick.** Stainless lasts for decades with basic care.
 
 ## Who Should Skip It
@@ -253,7 +251,7 @@ For families of three or more, the 12-piece set is the right size. Add a 12-inch
 
 ## The Lifetime Warranty
 
-Cuisinart lists a lifetime warranty on this set. Cookware warranties like this generally cover manufacturing defects, such as layers separating, handles coming loose or lids that do not fit.
+The set carries a lifetime warranty. Cookware warranties like this generally cover manufacturing defects, such as layers separating, handles coming loose or lids that do not fit.
 
 They usually do not cover wear and tear, discoloration, scratches or damage from overheating, dropping or misuse. Keep your receipt and register the set with Cuisinart to make any claim easier.
 
@@ -284,6 +282,14 @@ The Cuisinart MultiClad Pro 12-piece set gives you real fully clad tri-ply cookw
 It is not as refined as All-Clad, and it lacks a 12-inch skillet. But for most home cooks, it delivers most of the performance for a fraction of the cost.
 
 Buy it if you want a durable stainless set that will outlast several rounds of nonstick. Pair it with one nonstick pan for eggs and you have a complete kitchen.
+
+## Getting Used to Stainless Steel
+
+If you are coming from nonstick, stainless takes a week or two to learn.
+
+Preheat the empty pan on medium for a minute or two. Flick in a drop of water: when it beads up and skates around, the pan is ready. Add oil, let it shimmer, then add the food. Leave it alone until it releases on its own; forcing it early is what makes food stick.
+
+The brown bits left behind are flavor. Add a splash of stock or wine and scrape them up for an instant pan sauce.
 
 ## Related Guides
 

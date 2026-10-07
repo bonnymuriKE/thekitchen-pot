@@ -6,7 +6,7 @@ title: "What Can You Cook in a Roaster Oven? 25+ Ideas Beyond Turkey"
 source: wordpress
 slug: what-can-you-cook-in-a-roaster-oven
 pubDate: 2020-05-25
-modDate: 2026-10-06
+modDate: 2026-10-07
 image: ""
 category: How To Guides
 author: Boniface Muriuki
@@ -44,7 +44,7 @@ A roaster oven has three main parts: an outer body with a heating element, a rem
 
 The element heats the air around the insert, and the lid traps heat and moisture. That makes it cook a lot like a regular oven, but in a smaller space.
 
-Sizes usually run from about 18 to 26 quarts. Hamilton Beach lists its current 22-quart model with a 125°F to 450°F range and says it doubles your oven space. Its older 22-quart stainless model, which fit a 28-pound turkey, is now listed as no longer available.
+Sizes usually run from about 18 to 26 quarts. A 22-quart roaster, the most common size, fits a large holiday turkey, and most models heat from a warm setting up to about 450°F.
 
 ## Roaster Oven Time and Temperature Chart
 
@@ -173,8 +173,6 @@ Size is the first decision. An 18-quart roaster suits most families and holds a 
 
 Look for a wide temperature range, ideally from a warm setting up to about 450°F. A removable insert pan makes cleaning far easier. A glass window in the lid lets you check food without losing heat. A self-basting lid, which drips condensation back onto the food, helps keep meat moist.
 
-Also check the maker's store for stock before you buy. When we checked, Hamilton Beach had its red 22-quart model in stock, while its stainless 22-quart and 20-quart models were out of stock.
-
 ## Food Safety Tips
 
 Roaster ovens cook large amounts of food, so food safety matters. Always thaw turkey fully in the fridge before roasting. Never cook a frozen turkey in a roaster, as it may stay in the unsafe range too long.
@@ -217,6 +215,10 @@ For everyday cooking for one or two, see the [best small ovens and toaster ovens
 Roaster ovens are bulky, so most people store them out of season. Keep the rack and lid inside the insert to save space.
 
 See [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) and [how to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) for space-saving storage.
+
+## Adapting Oven Recipes for a Roaster
+
+Most oven recipes work in a roaster at the same temperature. Start checking 20 to 30 minutes early, because the smaller space often cooks a little faster. Keep the lid closed as much as possible; every peek adds time.
 
 ## Related Guides
 
