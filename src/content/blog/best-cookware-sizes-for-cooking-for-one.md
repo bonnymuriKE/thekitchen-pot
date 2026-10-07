@@ -1,34 +1,52 @@
 ---
-title: "Best Cookware Sizes for Cooking for One (Plus 9 Pans Worth Buying)"
+title: Best Cookware Sizes for Cooking for One (Plus 9 Pans Worth Buying)
 slug: best-cookware-sizes-for-cooking-for-one
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-10-07
 author: Boniface Muriuki
-image: ""
-coverAlt: "An 8-inch skillet, a small saucepan, a 3-quart enameled pot and a quarter sheet pan lined up on a small kitchen counter"
-excerpt: "Most cookware sets are sized for a family of four. If you cook for one, the right sizes matter more than the brand. Here is exactly what size each pan should be, plus nine real pans in those sizes from Lodge, All-Clad, Tramontina, GreenPan, Pyrex, Nordic Ware and Our Place."
-description: "Best cookware sizes for cooking for one: what size skillet, saucepan, pot, baking dish and sheet pan to buy, plus nine real pans in those sizes to own now."
-seo: "Best cookware sizes for cooking for one: 8-inch skillets, 2-quart saucepans, 3-quart pots, small baking dishes and quarter sheet pans, with nine real picks."
+image: /images/blog/default-cover.jpg
+excerpt: Most cookware sets are sized for a family of four. If you cook for one,
+  the right sizes matter more than the brand. Here is exactly what size each pan
+  should be, plus nine real pans in those sizes from Lodge, All-Clad,
+  Tramontina, GreenPan, Pyrex, Nordic Ware and Our Place.
+description: "Best cookware sizes for cooking for one: what size skillet,
+  saucepan, pot, baking dish and sheet pan to buy, plus nine real pans in those
+  sizes to own now."
 category: Cookware Equipment
 tags:
   - cookware sizes for cooking for one
   - single serving cookware
   - pot and pan sizes for one person
 faq:
-  - question: "What size skillet is best for cooking for one?"
-    answer: "An 8-inch skillet handles most single portions: two eggs, one chicken breast, a grilled cheese or a small stir-fry. Add a 10-inch skillet if you often cook one-pan meals or batch cook."
-  - question: "What size saucepan does one person need?"
-    answer: "A 1.5 to 2-quart saucepan with a lid. It cooks rice, oatmeal, sauces and a bowl of soup without the liquid spreading too thin or boiling off too fast."
-  - question: "Do I need a big stockpot if I only cook for myself?"
-    answer: "Usually not. A 3-quart pot cooks pasta for one or two and small batches of soup. Only buy a 6 to 8-quart stockpot if you make stock or batch cook every week."
-  - question: "How many pots and pans does one person need?"
-    answer: "Most solo cooks need five pieces: an 8-inch skillet, a 2-quart saucepan, a 3-quart pot, a small baking dish and a quarter sheet pan. Add a 10-inch skillet if you cook one-pan dinners."
-  - question: "Is a cookware set worth it for one person?"
-    answer: "Rarely. Most sets include a 12-inch skillet and a large stockpot that a solo cook seldom uses. Buying three to five open-stock pieces in the right sizes usually costs less and saves cabinet space."
+  - question: What size skillet is best for cooking for one?
+    answer: "An 8-inch skillet handles most single portions: two eggs, one chicken
+      breast, a grilled cheese or a small stir-fry. Add a 10-inch skillet if you
+      often cook one-pan meals or batch cook."
+  - question: What size saucepan does one person need?
+    answer: A 1.5 to 2-quart saucepan with a lid. It cooks rice, oatmeal, sauces and
+      a bowl of soup without the liquid spreading too thin or boiling off too
+      fast.
+  - question: Do I need a big stockpot if I only cook for myself?
+    answer: Usually not. A 3-quart pot cooks pasta for one or two and small batches
+      of soup. Only buy a 6 to 8-quart stockpot if you make stock or batch cook
+      every week.
+  - question: How many pots and pans does one person need?
+    answer: "Most solo cooks need five pieces: an 8-inch skillet, a 2-quart
+      saucepan, a 3-quart pot, a small baking dish and a quarter sheet pan. Add
+      a 10-inch skillet if you cook one-pan dinners."
+  - question: Is a cookware set worth it for one person?
+    answer: Rarely. Most sets include a 12-inch skillet and a large stockpot that a
+      solo cook seldom uses. Buying three to five open-stock pieces in the right
+      sizes usually costs less and saves cabinet space.
 smallSpacePillar: cooking-for-one
 showTableOfContents: true
+coverAlt: An 8-inch skillet, a small saucepan, a 3-quart enameled pot and a
+  quarter sheet pan lined up on a small kitchen counter
 source: decap
+seo: "Best cookware sizes for cooking for one: 8-inch skillets, 2-quart
+  saucepans, 3-quart pots, small baking dishes and quarter sheet pans, with nine
+  real picks."
 ---
 Most cookware sets are built for a family of four. They come with a 12-inch skillet, a stockpot big enough for a holiday and three saucepans you will never fill.
 
@@ -38,38 +56,38 @@ If you cook for one, getting the sizes right matters more than the brand. Here i
 
 ## Cookware Size Chart for One
 
-| Piece | Best Size for One | Size Up If | Skip |
-| --- | --- | --- | --- |
-| Skillet | 8 inches | You batch cook or make one-pan dinners (10 inches) | 12 inches |
-| Saucepan | 1.5 to 2 quarts | You cook grains for two | 4 quarts and up |
-| Pot | 3 quarts | You make soup to freeze (4 quarts) | 8-quart stockpot |
-| Baking dish | 8 x 8 inches | You meal prep casseroles | 9 x 13 inches |
-| Sheet pan | Quarter sheet (about 9 x 13 inches) | You roast for meal prep (half sheet) | Full sheet |
+| Piece       | Best Size for One                   | Size Up If                                         | Skip             |
+| ----------- | ----------------------------------- | -------------------------------------------------- | ---------------- |
+| Skillet     | 8 inches                            | You batch cook or make one-pan dinners (10 inches) | 12 inches        |
+| Saucepan    | 1.5 to 2 quarts                     | You cook grains for two                            | 4 quarts and up  |
+| Pot         | 3 quarts                            | You make soup to freeze (4 quarts)                 | 8-quart stockpot |
+| Baking dish | 8 x 8 inches                        | You meal prep casseroles                           | 9 x 13 inches    |
+| Sheet pan   | Quarter sheet (about 9 x 13 inches) | You roast for meal prep (half sheet)               | Full sheet       |
 
 Use this table as your shopping list. Every pick below fits one of these slots.
 
 ## Our Picks at a Glance
 
-- **Best 8-inch nonstick skillet:** [Tramontina Professional Fusion 8-Inch Nonstick](https://www.amazon.com/Tramontina-Professional-Fusion-8-Inch-Nonstick-Frying-Pan/dp/B01N8S7YKZ/?tag=kitchenpot-20)
-- **Best 8-inch cast iron skillet:** [Lodge 8-Inch Pre-Seasoned Cast Iron Skillet](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-8-Inch/dp/B00008GKDG/?tag=kitchenpot-20)
-- **Best 8-inch stainless skillet:** [All-Clad D3 8-Inch Fry Pan](https://www.amazon.com/All-Clad-D3-Stainless-Steel-8-Inch-Fry-Pan/dp/B004T6PS1C/?tag=kitchenpot-20)
-- **Best 10-inch one-pan skillet:** [GreenPan Valencia Pro 10-Inch Ceramic Nonstick](https://www.amazon.com/GreenPan-Valencia-Pro-Ceramic-Nonstick-10-Inch-Frying-Pan/dp/B00K6G9GI0/?tag=kitchenpot-20)
-- **Best small saucepan:** [Tramontina Tri-Ply Clad 2-Quart Covered Saucepan](https://www.amazon.com/Tramontina-Signature-Tri-Ply-Clad-2-Quart-Sauce-Pan/dp/B00JAQ4DNU/?tag=kitchenpot-20)
-- **Best 3-quart pot:** [Lodge 3-Quart Enameled Cast Iron Dutch Oven](https://www.amazon.com/Lodge-3-Quart-Enameled-Cast-Iron-Dutch-Oven/dp/B000N4WMUE/?tag=kitchenpot-20)
-- **Best small baking dish:** [Pyrex Deep 8-Inch Square Baking Dish With Lid](https://www.amazon.com/Pyrex-Deep-8-Inch-Square-Glass-Baking-Dish-Sage-Lid/dp/B087TNQPGL/?tag=kitchenpot-20)
-- **Best quarter sheet pan:** [Nordic Ware Naturals Quarter Sheet](https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial-Quarter-Sheet/dp/B000RYPHRK/?tag=kitchenpot-20)
-- **Best all-in-one pan:** [Our Place Mini Always Pan](https://www.amazon.com/Our-Place-Mini-Always-Pan-8-5-Inch/dp/B0CV5PJNYB/?tag=kitchenpot-20)
+* **Best 8-inch nonstick skillet:** [Tramontina Professional Fusion 8-Inch Nonstick](https://www.amazon.com/Tramontina-Professional-Fusion-8-Inch-Nonstick-Frying-Pan/dp/B01N8S7YKZ/?tag=kitchenpot-20)
+* **Best 8-inch cast iron skillet:** [Lodge 8-Inch Pre-Seasoned Cast Iron Skillet](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-8-Inch/dp/B00008GKDG/?tag=kitchenpot-20)
+* **Best 8-inch stainless skillet:** [All-Clad D3 8-Inch Fry Pan](https://www.amazon.com/All-Clad-D3-Stainless-Steel-8-Inch-Fry-Pan/dp/B004T6PS1C/?tag=kitchenpot-20)
+* **Best 10-inch one-pan skillet:** [GreenPan Valencia Pro 10-Inch Ceramic Nonstick](https://www.amazon.com/GreenPan-Valencia-Pro-Ceramic-Nonstick-10-Inch-Frying-Pan/dp/B00K6G9GI0/?tag=kitchenpot-20)
+* **Best small saucepan:** [Tramontina Tri-Ply Clad 2-Quart Covered Saucepan](https://www.amazon.com/Tramontina-Signature-Tri-Ply-Clad-2-Quart-Sauce-Pan/dp/B00JAQ4DNU/?tag=kitchenpot-20)
+* **Best 3-quart pot:** [Lodge 3-Quart Enameled Cast Iron Dutch Oven](https://www.amazon.com/Lodge-3-Quart-Enameled-Cast-Iron-Dutch-Oven/dp/B000N4WMUE/?tag=kitchenpot-20)
+* **Best small baking dish:** [Pyrex Deep 8-Inch Square Baking Dish With Lid](https://www.amazon.com/Pyrex-Deep-8-Inch-Square-Glass-Baking-Dish-Sage-Lid/dp/B087TNQPGL/?tag=kitchenpot-20)
+* **Best quarter sheet pan:** [Nordic Ware Naturals Quarter Sheet](https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial-Quarter-Sheet/dp/B000RYPHRK/?tag=kitchenpot-20)
+* **Best all-in-one pan:** [Our Place Mini Always Pan](https://www.amazon.com/Our-Place-Mini-Always-Pan-8-5-Inch/dp/B0CV5PJNYB/?tag=kitchenpot-20)
 
-We checked each maker's store before listing these. Every pick was in stock there, except the Nordic Ware page, which showed mixed stock signals. Prices change often, so check the listing.
+## Best Picks Explained
 
 ## 1. [Tramontina Professional Fusion 8-Inch Nonstick](https://www.amazon.com/Tramontina-Professional-Fusion-8-Inch-Nonstick-Frying-Pan/dp/B01N8S7YKZ/?tag=kitchenpot-20): Best 8-Inch Nonstick Skillet
 
-- **Size:** 8 inches
-- **Material:** Heavy-gauge aluminum with nonstick coating
-- **Oven safe:** Up to 400°F, per Tramontina
-- **Cooktops:** Gas, electric and ceramic glass (not induction)
-- **Dishwasher safe:** Yes, per Tramontina
-- **Maker's price:** $29.96, in stock
+* **Size:** 8 inches
+* **Material:** Heavy-gauge aluminum with nonstick coating
+* **Oven safe:** Up to 400°F, per Tramontina
+* **Cooktops:** Gas, electric and ceramic glass (not induction)
+* **Dishwasher safe:** Yes, per Tramontina
+* **Maker's price:** $29.96, in stock
 
 If you only buy one pan, make it an 8-inch nonstick. It handles the meals a solo cook makes most often: eggs, a grilled cheese, a quesadilla or one fish fillet.
 
@@ -79,15 +97,15 @@ Heavy aluminum heats fast and evenly, which matters in a small pan. A thin, chea
 
 **What we like:**
 
-- Rivet-free cooking surface is easy to wipe clean
-- Oven safe to 400°F, per Tramontina
-- Lifetime warranty
-- Light enough to toss eggs one-handed
+* Rivet-free cooking surface is easy to wipe clean
+* Oven safe to 400°F, per Tramontina
+* Lifetime warranty
+* Light enough to toss eggs one-handed
 
 **What to know before you buy:**
 
-- Does not work on induction
-- Nonstick coatings wear out in a few years
+* Does not work on induction
+* Nonstick coatings wear out in a few years
 
 **Who should buy it:** Anyone who wants one easy pan for eggs and quick single portions.
 
@@ -95,12 +113,12 @@ Heavy aluminum heats fast and evenly, which matters in a small pan. A thin, chea
 
 ## 2. [Lodge 8-Inch Pre-Seasoned Cast Iron Skillet](https://www.amazon.com/Lodge-Pre-Seasoned-Cast-Iron-Skillet-8-Inch/dp/B00008GKDG/?tag=kitchenpot-20): Best 8-Inch Cast Iron Skillet
 
-- **Model:** L5SK3
-- **Size:** 8 inches; about 8.7 inches across the top
-- **Weight:** About 3.6 lb, per KaTom's listing
-- **Cooktops:** Any, including induction, plus oven, grill and campfire
-- **Made in:** USA
-- **Maker's price:** $21.95, in stock
+* **Model:** L5SK3
+* **Size:** 8 inches; about 8.7 inches across the top
+* **Weight:** About 3.6 lb, per KaTom's listing
+* **Cooktops:** Any, including induction, plus oven, grill and campfire
+* **Made in:** USA
+* **Maker's price:** $21.95, in stock
 
 [America's Test Kitchen](https://www.americastestkitchen.com/equipment_reviews/2338) named the Lodge 8-inch its best 8-inch cast iron skillet. ATK said it browned foods deeply and toasted almonds evenly.
 
@@ -112,15 +130,15 @@ Lodge seasons it with vegetable oil at the factory. For care tips, see our [Lodg
 
 **What we like:**
 
-- America's Test Kitchen's best 8-inch cast iron skillet
-- Works on every cooktop, including induction
-- Made in the USA and very affordable
-- Lasts for generations with basic care
+* America's Test Kitchen's best 8-inch cast iron skillet
+* Works on every cooktop, including induction
+* Made in the USA and very affordable
+* Lasts for generations with basic care
 
 **What to know before you buy:**
 
-- Heavier than aluminum or stainless
-- Needs drying and oiling after washing
+* Heavier than aluminum or stainless
+* Needs drying and oiling after washing
 
 **Who should buy it:** Solo cooks who want a cheap pan for searing and baking.
 
@@ -128,12 +146,12 @@ Lodge seasons it with vegetable oil at the factory. For care tips, see our [Lodg
 
 ## 3. [All-Clad D3 8-Inch Fry Pan](https://www.amazon.com/All-Clad-D3-Stainless-Steel-8-Inch-Fry-Pan/dp/B004T6PS1C/?tag=kitchenpot-20): Best 8-Inch Stainless Skillet
 
-- **Model:** 4108
-- **Material:** 3-ply bonded stainless steel with aluminum core
-- **Oven safe:** Up to 600°F, per All-Clad
-- **Cooktops:** All, including induction
-- **Weight:** 2.01 lb
-- **Maker's price:** $139.99, in stock
+* **Model:** 4108
+* **Material:** 3-ply bonded stainless steel with aluminum core
+* **Oven safe:** Up to 600°F, per All-Clad
+* **Cooktops:** All, including induction
+* **Weight:** 2.01 lb
+* **Maker's price:** $139.99, in stock
 
 A stainless skillet lasts for decades. It browns food better than nonstick and handles high heat, metal utensils and the oven.
 
@@ -145,15 +163,15 @@ Stainless takes some practice. Preheat the pan, add oil and let food release on 
 
 **What we like:**
 
-- ATK highly recommends the 8-inch size
-- Oven safe to 600°F, per All-Clad
-- Works on induction
-- Will outlast any nonstick pan
+* ATK highly recommends the 8-inch size
+* Oven safe to 600°F, per All-Clad
+* Works on induction
+* Will outlast any nonstick pan
 
 **What to know before you buy:**
 
-- Expensive for an 8-inch pan
-- Hand wash only, per All-Clad
+* Expensive for an 8-inch pan
+* Hand wash only, per All-Clad
 
 **Who should buy it:** Cooks who want one pan to last a lifetime.
 
@@ -161,12 +179,12 @@ Stainless takes some practice. Preheat the pan, add oil and let food release on 
 
 ## 4. [GreenPan Valencia Pro 10-Inch Ceramic Nonstick](https://www.amazon.com/GreenPan-Valencia-Pro-Ceramic-Nonstick-10-Inch-Frying-Pan/dp/B00K6G9GI0/?tag=kitchenpot-20): Best 10-Inch One-Pan Skillet
 
-- **Size:** 10 inches
-- **Material:** Hard-anodized aluminum with Thermolon ceramic nonstick
-- **Oven safe:** Up to 600°F and broiler safe, per GreenPan
-- **Cooktops:** All, including induction
-- **Weight:** 2.31 lb
-- **Maker's price:** $79.99, available
+* **Size:** 10 inches
+* **Material:** Hard-anodized aluminum with Thermolon ceramic nonstick
+* **Oven safe:** Up to 600°F and broiler safe, per GreenPan
+* **Cooktops:** All, including induction
+* **Weight:** 2.31 lb
+* **Maker's price:** $79.99, available
 
 A 10-inch skillet is the one size-up worth making. It fits a protein, a starch and a vegetable together, which is what a one-pan dinner for one needs.
 
@@ -178,15 +196,15 @@ Ceramic nonstick still loses some slickness over time. Cook on low to medium hea
 
 **What we like:**
 
-- The 12-inch size won ATK's ceramic nonstick review
-- PFAS-free ceramic coating
-- Works on induction and in the oven to 600°F
-- Room for one-pan meals and batch cooking
+* The 12-inch size won ATK's ceramic nonstick review
+* PFAS-free ceramic coating
+* Works on induction and in the oven to 600°F
+* Room for one-pan meals and batch cooking
 
 **What to know before you buy:**
 
-- No lid included with this version
-- Ceramic coatings lose slickness faster than PTFE
+* No lid included with this version
+* Ceramic coatings lose slickness faster than PTFE
 
 **Who should buy it:** Solo cooks who like one-pan dinners or cook two portions at once.
 
@@ -194,12 +212,12 @@ Ceramic nonstick still loses some slickness over time. Cook on low to medium hea
 
 ## 5. [Tramontina Tri-Ply Clad 2-Quart Covered Saucepan](https://www.amazon.com/Tramontina-Signature-Tri-Ply-Clad-2-Quart-Sauce-Pan/dp/B00JAQ4DNU/?tag=kitchenpot-20): Best Small Saucepan
 
-- **Model:** 80116/022DS
-- **Size:** 2 quarts, with stainless lid
-- **Material:** Tri-ply, aluminum core between 18/10 stainless steel
-- **Oven safe:** Up to 500°F, per Tramontina
-- **Cooktops:** All, including induction
-- **Maker's price:** $59.95, in stock (a 1.5-quart is $54.95)
+* **Model:** 80116/022DS
+* **Size:** 2 quarts, with stainless lid
+* **Material:** Tri-ply, aluminum core between 18/10 stainless steel
+* **Oven safe:** Up to 500°F, per Tramontina
+* **Cooktops:** All, including induction
+* **Maker's price:** $59.95, in stock (a 1.5-quart is $54.95)
 
 A 2-quart saucepan is the most useful pot a solo cook owns. It cooks one or two portions of rice, oatmeal, a sauce or a bowl of soup.
 
@@ -211,14 +229,14 @@ If you mostly heat soup or cook oatmeal for one, the 1.5-quart version saves a l
 
 **What we like:**
 
-- America's Test Kitchen's best buy small saucepan
-- Even heating from tri-ply construction
-- Works on induction and in the oven
-- Lid included
+* America's Test Kitchen's best buy small saucepan
+* Even heating from tri-ply construction
+* Works on induction and in the oven
+* Lid included
 
 **What to know before you buy:**
 
-- Dented in ATK's abuse test
+* Dented in ATK's abuse test
 
 **Who should buy it:** Every solo cook. This is the pot you will use most.
 
@@ -226,12 +244,12 @@ If you mostly heat soup or cook oatmeal for one, the 1.5-quart version saves a l
 
 ## 6. [Lodge 3-Quart Enameled Cast Iron Dutch Oven](https://www.amazon.com/Lodge-3-Quart-Enameled-Cast-Iron-Dutch-Oven/dp/B000N4WMUE/?tag=kitchenpot-20): Best 3-Quart Pot
 
-- **Model:** EC3D43 (Red)
-- **Size:** 3 quarts, with lid
-- **Oven safe:** Up to 500°F, per Lodge
-- **Cooktops:** All, including induction
-- **Weight:** 9.5 lb
-- **Maker's price:** $59.90, in stock
+* **Model:** EC3D43 (Red)
+* **Size:** 3 quarts, with lid
+* **Oven safe:** Up to 500°F, per Lodge
+* **Cooktops:** All, including induction
+* **Weight:** 9.5 lb
+* **Maker's price:** $59.90, in stock
 
 A 3-quart pot is the right upper limit for one person. It boils pasta for one or two, makes a pot of chili for three days and braises two chicken thighs.
 
@@ -243,15 +261,15 @@ At 9.5 pounds, it is heavy when full. That is the trade-off for even heat and a 
 
 **What we like:**
 
-- Browns, braises, simmers and bakes
-- Works on induction and in the oven
-- Much cheaper than French enameled pots
-- Several colors in stock
+* Browns, braises, simmers and bakes
+* Works on induction and in the oven
+* Much cheaper than French enameled pots
+* Several colors in stock
 
 **What to know before you buy:**
 
-- Heavy at 9.5 pounds
-- Enamel can chip if dropped
+* Heavy at 9.5 pounds
+* Enamel can chip if dropped
 
 **Who should buy it:** Solo cooks who make soups, stews and braises.
 
@@ -259,11 +277,11 @@ At 9.5 pounds, it is heavy when full. That is the trade-off for even heat and a 
 
 ## 7. [Pyrex Deep 8-Inch Square Baking Dish With Lid](https://www.amazon.com/Pyrex-Deep-8-Inch-Square-Glass-Baking-Dish-Sage-Lid/dp/B087TNQPGL/?tag=kitchenpot-20): Best Small Baking Dish
 
-- **Size:** 8 x 8 x 2.7 inches; 2.6 quarts
-- **Material:** Tempered glass with BPA-free plastic lid
-- **Safe for:** Preheated oven, microwave, freezer and dishwasher
-- **Warranty:** 2-year limited
-- **Maker's price:** $15.99, in stock
+* **Size:** 8 x 8 x 2.7 inches; 2.6 quarts
+* **Material:** Tempered glass with BPA-free plastic lid
+* **Safe for:** Preheated oven, microwave, freezer and dishwasher
+* **Warranty:** 2-year limited
+* **Maker's price:** $15.99, in stock
 
 A 9 x 13-inch pan is a family size. For one person, an 8-inch square dish bakes a small lasagna, roasts two chicken thighs or makes a pan of brownies.
 
@@ -275,14 +293,14 @@ Glass can crack with sudden temperature changes. Do not move it from the fridge 
 
 **What we like:**
 
-- Right size for one to two portions with leftovers
-- Lid turns it into a storage container
-- Deeper than a standard 8-inch dish
-- Very affordable
+* Right size for one to two portions with leftovers
+* Lid turns it into a storage container
+* Deeper than a standard 8-inch dish
+* Very affordable
 
 **What to know before you buy:**
 
-- Glass can crack with sudden temperature changes
+* Glass can crack with sudden temperature changes
 
 **Who should buy it:** Solo cooks who bake casseroles and like leftovers.
 
@@ -290,12 +308,12 @@ Glass can crack with sudden temperature changes. Do not move it from the fridge 
 
 ## 8. [Nordic Ware Naturals Quarter Sheet](https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial-Quarter-Sheet/dp/B000RYPHRK/?tag=kitchenpot-20): Best Quarter Sheet Pan
 
-- **Model:** 45300
-- **Size:** About 12.1 x 8.8 x 1.1 inches inside
-- **Material:** Uncoated aluminum with galvanized steel rim
-- **Oven safe:** Up to 500°F, per Nordic Ware
-- **Made in:** USA
-- **Maker's price:** $14.00
+* **Model:** 45300
+* **Size:** About 12.1 x 8.8 x 1.1 inches inside
+* **Material:** Uncoated aluminum with galvanized steel rim
+* **Oven safe:** Up to 500°F, per Nordic Ware
+* **Made in:** USA
+* **Maker's price:** $14.00
 
 A half sheet pan is the standard home size, but it is often too big for one portion. It also may not fit a small oven or toaster oven.
 
@@ -307,15 +325,15 @@ Uncoated aluminum browns food evenly. It will discolor over time, which is norma
 
 **What we like:**
 
-- Fits most toaster ovens and small ovens
-- The same line won ATK's baking sheet review
-- Made in the USA
-- Very cheap
+* Fits most toaster ovens and small ovens
+* The same line won ATK's baking sheet review
+* Made in the USA
+* Very cheap
 
 **What to know before you buy:**
 
-- Hand wash to keep it looking new
-- Check stock, as the maker's page showed mixed signals
+* Hand wash to keep it looking new
+* Check stock, as the maker's page showed mixed signals
 
 **Who should buy it:** Anyone roasting single portions, especially in a toaster oven.
 
@@ -323,12 +341,12 @@ Uncoated aluminum browns food evenly. It will discolor over time, which is norma
 
 ## 9. [Our Place Mini Always Pan](https://www.amazon.com/Our-Place-Mini-Always-Pan-8-5-Inch/dp/B0CV5PJNYB/?tag=kitchenpot-20): Best All-in-One Pan
 
-- **Size:** 8.5 inches; 1.2 quarts
-- **Material:** Aluminum with ceramic nonstick coating
-- **Oven safe:** Up to 450°F, per Our Place
-- **Cooktops:** All, including induction
-- **Includes:** Domed lid and beechwood spatula
-- **Maker's price:** $70.49, in stock in several colors
+* **Size:** 8.5 inches; 1.2 quarts
+* **Material:** Aluminum with ceramic nonstick coating
+* **Oven safe:** Up to 450°F, per Our Place
+* **Cooktops:** All, including induction
+* **Includes:** Domed lid and beechwood spatula
+* **Maker's price:** $70.49, in stock in several colors
 
 If you want one small pan that does most jobs, the Mini Always Pan is designed for that. It is deeper than a skillet, so it can fry an egg, simmer a sauce or steam vegetables with the lid on.
 
@@ -340,15 +358,15 @@ Our Place says it is hand wash only and offers a 3-year warranty.
 
 **What we like:**
 
-- Fries, sautés, simmers and steams
-- Lid and spatula included
-- Works on induction
-- Attractive enough to serve from
+* Fries, sautés, simmers and steams
+* Lid and spatula included
+* Works on induction
+* Attractive enough to serve from
 
 **What to know before you buy:**
 
-- Pricier than a basic 8-inch skillet
-- Hand wash only
+* Pricier than a basic 8-inch skillet
+* Hand wash only
 
 **Who should buy it:** Solo cooks with tiny kitchens who want one pan for most meals.
 
@@ -400,13 +418,13 @@ For roasting, a quarter sheet pan is ideal for one. It also fits most toaster ov
 
 For most people cooking for one, this short lineup covers daily cooking:
 
-| Piece | Our Pick | Approx. Maker Price |
-| --- | --- | --- |
-| 8-inch skillet | Tramontina Fusion or Lodge cast iron | $22 to $30 |
-| 2-quart saucepan | Tramontina Tri-Ply | $60 |
-| 3-quart pot | Lodge enameled Dutch oven | $60 |
-| 8-inch baking dish | Pyrex Deep with lid | $16 |
-| Quarter sheet pan | Nordic Ware Naturals | $14 |
+| Piece              | Our Pick                             | Approx. Maker Price |
+| ------------------ | ------------------------------------ | ------------------- |
+| 8-inch skillet     | Tramontina Fusion or Lodge cast iron | $22 to $30          |
+| 2-quart saucepan   | Tramontina Tri-Ply                   | $60                 |
+| 3-quart pot        | Lodge enameled Dutch oven            | $60                 |
+| 8-inch baking dish | Pyrex Deep with lid                  | $16                 |
+| Quarter sheet pan  | Nordic Ware Naturals                 | $14                 |
 
 That is five pieces for about $170 to $180 at maker prices. That is less than many 10-piece sets, and every piece gets used.
 
@@ -442,9 +460,9 @@ If weight is a concern, drain pasta with a spider or slotted spoon instead of ti
 
 ## When It Makes Sense to Size Up
 
-- **You batch cook weekly.** A 4-quart pot and a 10-inch skillet let you cook three or four portions at once. See [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/).
-- **You host a few times a year.** One larger piece covers that without a second set.
-- **You cook one-pan meals.** A 10-inch skillet gives room for protein, starch and vegetables together.
+* **You batch cook weekly.** A 4-quart pot and a 10-inch skillet let you cook three or four portions at once. See [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/).
+* **You host a few times a year.** One larger piece covers that without a second set.
+* **You cook one-pan meals.** A 10-inch skillet gives room for protein, starch and vegetables together.
 
 The goal is to match cookware to what you cook most of the time, with one larger piece for the odd big batch.
 
@@ -462,11 +480,11 @@ See [how to cook a full meal with only two burners](/blog/how-to-cook-a-full-mea
 
 ## Common Mistakes to Avoid
 
-- **Buying a full set for the "value."** Most sets include two or three pieces a solo cook rarely uses.
-- **Cooking single portions in oversized pans.** It leads to uneven cooking and wasted oil and energy.
-- **Skipping lids.** A lid speeds up boiling and is essential for rice.
-- **Buying cheap, thin pans.** Thin pans warp and scorch. If one has already warped, see [how to fix a warped pan](/blog/how-to-fix-a-warped-pan/).
-- **Overspending on nonstick.** Even good nonstick wears out. Spend more on stainless and cast iron, which last.
+* **Buying a full set for the "value."** Most sets include two or three pieces a solo cook rarely uses.
+* **Cooking single portions in oversized pans.** It leads to uneven cooking and wasted oil and energy.
+* **Skipping lids.** A lid speeds up boiling and is essential for rice.
+* **Buying cheap, thin pans.** Thin pans warp and scorch. If one has already warped, see [how to fix a warped pan](/blog/how-to-fix-a-warped-pan/).
+* **Overspending on nonstick.** Even good nonstick wears out. Spend more on stainless and cast iron, which last.
 
 ## How Long Should Your Cookware Last?
 
@@ -478,9 +496,9 @@ Buying one good piece in each size usually costs less over time than replacing c
 
 ## Related Guides
 
-- [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
-- [Best Small Kitchen Appliances for Cooking for One](/blog/best-small-kitchen-appliances-for-cooking-for-one/)
-- [Small Kitchen Gadgets Worth Buying When You Cook for One](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/)
-- [Best Nonstick Pans With Buying Guide](/blog/best-nonstick-pans-with-buying-guide/)
-- [Is Expensive Cookware Actually Worth It?](/blog/is-expensive-cookware-actually-worth-it/)
-- [Best Bakeware for Small Kitchens](/blog/best-bakeware-for-small-kitchens/)
+* [How to Stock a Small Kitchen for Solo Cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/)
+* [Best Small Kitchen Appliances for Cooking for One](/blog/best-small-kitchen-appliances-for-cooking-for-one/)
+* [Small Kitchen Gadgets Worth Buying When You Cook for One](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/)
+* [Best Nonstick Pans With Buying Guide](/blog/best-nonstick-pans-with-buying-guide/)
+* [Is Expensive Cookware Actually Worth It?](/blog/is-expensive-cookware-actually-worth-it/)
+* [Best Bakeware for Small Kitchens](/blog/best-bakeware-for-small-kitchens/)
