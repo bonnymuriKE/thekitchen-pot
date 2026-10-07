@@ -51,7 +51,7 @@ Tenderizing either breaks the fibers physically, breaks down proteins chemically
 - **Best needle tenderizer:** [Jaccard 48-Blade Meat Tenderizer](https://www.amazon.com/Jaccard-200348-Supertendermatic-48-Blade-Tenderizer/dp/B001347JK6/?tag=kitchenpot-20)
 - **Best meat pounder:** [Norpro Grip-EZ Stainless Steel Meat Pounder](https://www.amazon.com/Norpro-Grip-EZ-Stainless-Steel-Pounder/dp/B00004UE7C/?tag=kitchenpot-20)
 - **Best unseasoned powder:** [Adolph's Unseasoned Meat Tenderizer](https://www.amazon.com/Adolphs-Meat-Tenderizer-Unseasoned-3-5/dp/B00MIK8KEI/?tag=kitchenpot-20)
-- **Best seasoned powder:** [McCormick Seasoned Meat Tenderizer](https://www.amazon.com/McCormick-Seasoned-Meat-Tenderizer-3-37/dp/B0005XMQRW/?tag=kitchenpot-20)
+- **Best seasoned powder:** [McCormick Seasoned Meat Tenderizer](https://www.amazon.com/McCormick-Seasoned-Meat-Tenderizer-Ounce/dp/B07GF2DSYW/?tag=kitchenpot-20)
 
 All six are long-running products widely stocked on Amazon. Prices change often.
 
@@ -193,9 +193,10 @@ Sprinkle it evenly, pierce the meat lightly with a fork, and let it sit before c
 
 [Check Price on Amazon](https://www.amazon.com/Adolphs-Meat-Tenderizer-Unseasoned-3-5/dp/B00MIK8KEI/?tag=kitchenpot-20)
 
-## 6. [McCormick Seasoned Meat Tenderizer](https://www.amazon.com/McCormick-Seasoned-Meat-Tenderizer-3-37/dp/B0005XMQRW/?tag=kitchenpot-20): Best Seasoned Powder
+## 6. [McCormick Seasoned Meat Tenderizer](https://www.amazon.com/McCormick-Seasoned-Meat-Tenderizer-Ounce/dp/B07GF2DSYW/?tag=kitchenpot-20): Best Seasoned Powder
 
 - **Type:** Seasoned enzyme tenderizer
+- **Size:** 3.12 oz jar
 - **Use:** Tenderizes and seasons in one step
 
 McCormick's seasoned tenderizer combines tenderizing enzymes with seasoning. It saves a step on busy weeknights.
@@ -215,7 +216,7 @@ It suits steaks, chops and stir-fry beef. Check the salt content and skip extra 
 
 **Who should buy it:** Busy cooks who want one-step seasoning.
 
-[Check Price on Amazon](https://www.amazon.com/McCormick-Seasoned-Meat-Tenderizer-3-37/dp/B0005XMQRW/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/McCormick-Seasoned-Meat-Tenderizer-Ounce/dp/B07GF2DSYW/?tag=kitchenpot-20)
 
 ## How a Meat Mallet Works
 
