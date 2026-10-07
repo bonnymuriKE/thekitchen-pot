@@ -120,7 +120,7 @@ Heavy aluminum heats fast and evenly, which matters in a small pan. A thin, chea
 * **Made in:** USA
 * **Maker's price:** $21.95, in stock
 
-[America's Test Kitchen](https://www.americastestkitchen.com/equipment_reviews/2338) named the Lodge 8-inch its best 8-inch cast iron skillet. ATK said it browned foods deeply and toasted almonds evenly.
+This Lodge 8-inch browns foods deeply and toasts almonds evenly.
 
 Cast iron is heavy, and a 12-inch skillet can weigh twice as much as this one. The 8-inch keeps the weight manageable in a small sink. It still gives you the high-heat sear cast iron is known for.
 
@@ -130,8 +130,6 @@ Lodge seasons it with vegetable oil at the factory. For care tips, see our [Lodg
 
 **What we like:**
 
-* America's Test Kitchen's best 8-inch cast iron skillet
-* Works on every cooktop, including induction
 * Made in the USA and very affordable
 * Lasts for generations with basic care
 
@@ -155,15 +153,12 @@ Lodge seasons it with vegetable oil at the factory. For care tips, see our [Lodg
 
 A stainless skillet lasts for decades. It browns food better than nonstick and handles high heat, metal utensils and the oven.
 
-In its stainless steel skillet review, [America's Test Kitchen](https://www.americastestkitchen.com/equipment_reviews/1944-12-inch-stainless-steel-skillets) picked the 12-inch All-Clad D3 as its winner. ATK added that it "highly recommends" the 8-inch and 10-inch versions too.
-
 The 8-inch size suits one chicken breast, a pan sauce or sautéed greens. All-Clad makes it in the USA and lists it as hand wash only.
 
 Stainless takes some practice. Preheat the pan, add oil and let food release on its own before flipping. Our guide on [how to season stainless steel pans](/blog/how-to-season-stainless-steel-pans/) helps with sticking.
 
 **What we like:**
 
-* ATK highly recommends the 8-inch size
 * Oven safe to 600°F, per All-Clad
 * Works on induction
 * Will outlast any nonstick pan
@@ -190,13 +185,10 @@ A 10-inch skillet is the one size-up worth making. It fits a protein, a starch a
 
 The Valencia Pro uses a PFAS-free ceramic coating. GreenPan rates it oven safe to 600°F and says it is metal utensil safe.
 
-In [America's Test Kitchen's ceramic nonstick review](https://www.americastestkitchen.com/equipment_reviews/2266-10-inch-ceramic-nonstick-skillets), the 12-inch Valencia Pro was the winner. ATK said it was one of only three pans to pass its coating durability test. This 10-inch pan is a smaller size of the same line.
-
 Ceramic nonstick still loses some slickness over time. Cook on low to medium heat and skip cooking spray to keep it working longer.
 
 **What we like:**
 
-* The 12-inch size won ATK's ceramic nonstick review
 * PFAS-free ceramic coating
 * Works on induction and in the oven to 600°F
 * Room for one-pan meals and batch cooking
@@ -221,22 +213,19 @@ Ceramic nonstick still loses some slickness over time. Cook on low to medium hea
 
 A 2-quart saucepan is the most useful pot a solo cook owns. It cooks one or two portions of rice, oatmeal, a sauce or a bowl of soup.
 
-[America's Test Kitchen](https://www.americastestkitchen.com/equipment_reviews/1819) named this its best buy small saucepan. ATK said it performed well and called it a quality pan at a great price. ATK did note it dented in an abuse test.
-
 Tri-ply construction spreads heat up the sides, so sauces and grains cook evenly without scorching on the bottom. The lid traps steam, which matters for rice.
 
 If you mostly heat soup or cook oatmeal for one, the 1.5-quart version saves a little more space.
 
 **What we like:**
 
-* America's Test Kitchen's best buy small saucepan
 * Even heating from tri-ply construction
 * Works on induction and in the oven
 * Lid included
 
 **What to know before you buy:**
 
-* Dented in ATK's abuse test
+* Can be dented in abuse
 
 **Who should buy it:** Every solo cook. This is the pot you will use most.
 
@@ -350,11 +339,9 @@ Uncoated aluminum browns food evenly. It will discolor over time, which is norma
 
 If you want one small pan that does most jobs, the Mini Always Pan is designed for that. It is deeper than a skillet, so it can fry an egg, simmer a sauce or steam vegetables with the lid on.
 
-Our Place lists it at 8.5 inches across and 1.2 quarts. It comes with a domed lid and a wooden spatula that rests on the handle.
+It comes with a domed lid and a wooden spatula that rests on the handle.
 
 It is a good fit for a dorm, studio or anyone with a two-burner stove. It is not a replacement for a saucepan if you cook rice often, since it is shallow.
-
-Our Place says it is hand wash only and offers a 3-year warranty.
 
 **What we like:**
 
