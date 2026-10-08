@@ -32,11 +32,15 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Good small kitchen remodel ideas on a budget start with one question: how much do you actually need to change? Most small kitchens need less than their owners think.
+Leave the sink, stove and walls where they are. That one rule keeps small kitchen remodel ideas on a budget affordable, because moving plumbing, gas lines or walls is what blows small budgets apart.
 
-A full gut job is rarely the best use of money in a small room. A smart refresh or cosmetic remodel can fix the storage, counters and look for a fraction of the price. Below are three scope tiers, rough costs, and the specific products we would buy at each step.
+Most small kitchens need less change than their owners expect. A smart refresh or cosmetic remodel can fix the storage, counters and look for a fraction of what a gut job costs. Below are three scope tiers, rough costs, and the specific products we would buy at each step.
 
-**The short version:** Keep the layout if it works, because moving the sink, stove or walls is what blows small budgets. Pick a tier: a refresh (about $1,500 to $6,000), a cosmetic remodel (about $10,000 to $25,000) or a mid remodel (about $25,000 to $50,000). Spend on drawers, hinges, counters and lighting. Save on trendy finishes and oversized appliances. Hire licensed pros for all electrical, plumbing and gas work.
+**In a hurry?**
+
+- Keep the layout if it works. Then pick a tier: a refresh (about $1,500 to $6,000), a cosmetic remodel (about $10,000 to $25,000) or a mid remodel (about $25,000 to $50,000).
+- Put the money into drawers, hinges, counters and lighting. Save on trendy finishes and oversized appliances.
+- Hand all electrical, plumbing and gas work to licensed pros.
 
 ## Remodel or Refresh: Which One Do You Need?
 
@@ -286,7 +290,9 @@ Pick ideas that will still work in ten years:
 
 Efficient appliances and LED lighting cut bills for years too. Our guide to [reducing kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/) shows where the savings come from.
 
-## Common Mistakes in a Budget Kitchen Remodel
+## Remodel Mistakes That Waste the Most Money
+
+In a small kitchen, each of these eats a share of the budget you could have spent on storage.
 
 - **Moving the sink or stove without a strong reason.** Relocating plumbing and gas can add $10,000 or more. Keep them where they are unless the layout truly does not work.
 - **Picking finishes before the storage plan.** Choose tile last. Plan drawers, shelves and appliance sizes first.

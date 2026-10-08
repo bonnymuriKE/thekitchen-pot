@@ -32,11 +32,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-The best small kitchen island ideas start with one question: how much floor do you really have? Get that number right and almost any kitchen can gain prep space.
+A fixed island needs about 9 feet of clear floor once the aisles are counted. That is why most of these small kitchen island ideas roll, fold or sit against a wall.
 
-Most people pick an island they like the look of, then squeeze it in. Below, we give you the clearance rules first, then the island and cart types that work in tight rooms.
+Most people pick an island they like the look of, then squeeze it in. We work the other way round: the clearance rules first, then the island and cart types that work in tight rooms. Get the floor numbers right and almost any kitchen can gain prep space.
 
-**The short version:** Measure your room before you shop. You need at least 36 inches of clear floor around any island, and 42 inches on the sides where you cook. If you cannot spare that, buy a rolling cart about 16 to 20 inches deep and 36 inches tall, with locking wheels and a lower shelf. Add seating only if you can give each stool 24 inches of width and a 12 to 15-inch overhang. Fill the storage underneath with daily items, not overflow.
+**Bottom line:** Measure before you shop. Any island needs at least 36 inches of clear floor around it, and 42 inches on the sides where you cook. Short of that, a rolling cart about 16 to 20 inches deep and 36 inches tall, with locking wheels and a lower shelf, does the same job. Seating only works if each stool gets 24 inches of width and a 12 to 15-inch overhang. Keep daily items, not overflow, in the storage underneath.
 
 ## Can You Put an Island in a Small Kitchen?
 
@@ -95,7 +95,7 @@ A small kitchen island on wheels is our first pick for most apartments. It gives
 
 Yes, for most small kitchens. A 20-by-36-inch cart adds 5 square feet of work surface. That is often more than the main counter has free. It also adds storage underneath.
 
-Our pick for most kitchens is the [HOMCOM Rolling Kitchen Island Cart with Drop Leaf](https://www.amazon.com/HOMCOM-Rolling-Kitchen-Island-Cart-Drop-Leaf/dp/B0713R15D7/?tag=kitchenpot-20). It has a wood top, two drawers, two storage cabinets and lockable wheels. The leaf folds down when the aisle gets tight and lifts when you need more surface.
+For most kitchens, the one to buy is the [HOMCOM Rolling Kitchen Island Cart with Drop Leaf](https://www.amazon.com/HOMCOM-Rolling-Kitchen-Island-Cart-Drop-Leaf/dp/B0713R15D7/?tag=kitchenpot-20). It has a wood top, two drawers, two storage cabinets and lockable wheels. The leaf folds down when the aisle gets tight and lifts when you need more surface.
 
 The cart earns its place when you use it for one clear job. Make it your main prep station, a baking station or a landing spot beside the stove. A cart that holds mail is just furniture in the way. For more ways to add surface, see [how to make more counter space in a small kitchen](/blog/make-more-counter-space-in-a-small-kitchen/).
 
@@ -301,9 +301,9 @@ Follow these rules:
 
 Buying less helps too. Our guide to [stocking a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) keeps overflow from landing on the cart. Only buy [small kitchen gadgets worth the space](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 
-## Common Mistakes With Small Kitchen Islands
+## What Not to Do With a Small Kitchen Island
 
-These are the mistakes we see most often:
+Each of these turns a helpful island into an obstacle:
 
 - **Buying before measuring.** An island that looked small in the store can block the dishwasher at home. Tape it out first.
 - **Choosing too deep a cart.** A 24-inch-deep cart in an 8-foot room leaves 36 inches on each side only if it sits dead center. Go 18 to 20 inches deep instead.

@@ -32,11 +32,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Learning how to store knives without a block frees up a surprising amount of counter space. A block takes a full square of counter, and most of its slots hold knives you never use.
+A full knife block holds a dozen or more blades. Most cooks use three. Store knives without a knife block and you win back a whole corner of counter in a small kitchen.
 
-The good news is that knives store better almost anywhere else. Below we show you where to put them, which products to buy, how to protect the edges and how to keep the whole setup safe around children.
+Those three knives also stay sharper somewhere else. Below is where to put them, which products to buy, how to protect the edges and how to keep the setup safe around children.
 
-**The short version:** For most small kitchens, a magnetic knife strip on the wall is the best swap for a knife block. It uses no counter or drawer space and keeps blades sharp. If you have no free wall, use an in-drawer knife tray, or put edge guards on each knife. In a home with small children, keep knives in one drawer with a magnetic child lock. Whatever you choose, never store knives loose.
+**Short answer:** Put a magnetic knife strip on the wall if you have 12 inches of bare backsplash near your prep space. It costs no counter or drawer room and keeps edges off hard surfaces. No free wall? Give the knives one drawer with an in-drawer tray, or sleeve each blade in an edge guard. With small children at home, choose the drawer and add a magnetic child lock. Loose knives in a drawer are the one setup to rule out.
 
 ## How Do You Store Knives Without a Knife Block?
 
@@ -156,7 +156,7 @@ For a full set, the [Noble Home & Chef In-Drawer Bamboo Knife Block](https://www
 
 Most small kitchens have narrow drawers. For those, the [Joseph Joseph DrawerStore Compact Knife Organizer](https://www.amazon.com/Joseph-DrawerStore-Knife-Organizer-Bamboo/dp/B08QH2VR9S/?tag=kitchenpot-20) holds up to 9 knives in bamboo slots and leaves room beside it for other tools. The budget [OXO Good Grips Compact Knife Drawer Organizer](https://www.amazon.com/OXO-Grips-Compact-Drawer-Organizer/dp/B09B1BTJJQ/?tag=kitchenpot-20) is narrow enough to share a drawer with spatulas and tongs.
 
-If you own good German knives and want a tray that matches, the [WÜSTHOF 7-Slot In-Drawer Knife Storage](https://www.amazon.com/Wusthof-Drawer-Storage-Tray-Slots/dp/B000066SYQ/?tag=kitchenpot-20) is a solid wood tray built for them. It is worth the extra money if you have spent real money on the knives. Our [Wüsthof knives review](/blog/wusthof-knives-review/) covers which of their knives are worth that spend.
+If you own good German knives and want a tray that matches, the [WÜSTHOF 7-Slot In-Drawer Knife Storage](https://www.amazon.com/Wusthof-Drawer-Storage-Tray-Slots/dp/B000066SYQ/?tag=kitchenpot-20) is a solid wood tray built for them. Spend the extra on it if the knives themselves cost real money. Our [Wüsthof knives review](/blog/wusthof-knives-review/) covers which of their knives are worth that spend.
 
 ### Pick and Measure the Drawer
 
@@ -301,7 +301,7 @@ If you do screw a strip into the wall, two small holes in drywall are easy to fi
 
 Once the knives are sorted, the drawer next to them is often the next mess. Our [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) and our [small kitchen hacks](/blog/small-kitchen-hacks/) are good next steps.
 
-## Common Knife Storage Mistakes
+## What Usually Goes Wrong With Knife Storage
 
 - **Storing knives loose in a drawer.** It dulls edges and cuts fingers. Use a tray or guards every time.
 - **Dragging knives off a magnetic strip.** Tilt the edge away and lift. Never slide it down the strip.

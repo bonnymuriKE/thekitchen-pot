@@ -32,17 +32,15 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-If you are trying to work out how to organize a small kitchen without cabinets, you are not stuck. You just need storage that stands on the floor or hangs on the wall.
+One 36-inch wire shelving unit, a rolling cart and a wall rail are enough to organize a small kitchen without cabinets. The twist: what you get rid of matters more than what you buy.
 
-Many studios and older rentals come with a sink, a stove and little else. This guide shows you what to buy, where each item lives, and how to keep open storage calm.
+Doors hide a lot of sins. Take them away and every spare mug, mismatched lid and duplicate spatula sits in plain view, in your way. That is common in studios and older rentals that come with a sink, a stove and little else. Below is what to buy, where each item lives and how to keep open storage calm.
 
-**The short version:** Pick one tall freestanding unit, like a wire shelving unit or bakers rack, as your main "cabinet." Add a rolling cart beside the stove and a wall rail for daily tools. Store dishes near the sink, pans near the stove and food in clear, sealed containers. Cut what you own to what fits, because open storage shows every extra item.
+**Bottom line:** Treat one tall freestanding unit, wire shelving or a bakers rack, as your main "cabinet." Park a rolling cart by the stove and hang daily tools on a wall rail. Dishes live near the sink, pans near the stove, food in clear sealed containers. Then pare down to what fits, because open storage puts every extra item on show.
 
 ## Start by Cutting Down What You Own
 
-Cabinet-free kitchens punish extra stuff. With doors, a messy shelf is hidden. Without them, every spare mug is on display and in your way.
-
-So before you buy a single shelf, sort everything into three piles: use weekly, use monthly and rarely use. Keep the weekly pile in the kitchen. Move the monthly pile to a bin on a high shelf. Donate or store the rest somewhere else in the home.
+Before you buy a single shelf, sort everything into three piles: use weekly, use monthly and rarely use. Keep the weekly pile in the kitchen. Move the monthly pile to a bin on a high shelf. Donate or store the rest somewhere else in the home.
 
 For a solo cook or a couple, this is a working set that fits easily in open storage:
 
@@ -112,7 +110,7 @@ A bakers rack is the softer-looking cousin. It usually has a wood or metal top s
 
 A rolling cart is the most flexible piece you can own in a cabinet-free kitchen. It parks in a gap, moves to where you need it, and adds a small work surface.
 
-We like a three-tier cart beside the stove as a "cooking station." The [Honey-Can-Do 3-Tier Metal Rolling Cart](https://www.amazon.com/Honey-Can-Do-3-Tier-Metal-Rolling-Cart/dp/B077STDKJM/?tag=kitchenpot-20) is our pick, since its three deep metal tiers hold a skillet without bowing. Use the top tier for oils, salt and pepper. Put the middle tier to work for spatulas, tongs and a spoon rest. Give the bottom tier to one or two pans.
+We like a three-tier cart beside the stove as a "cooking station." The [Honey-Can-Do 3-Tier Metal Rolling Cart](https://www.amazon.com/Honey-Can-Do-3-Tier-Metal-Rolling-Cart/dp/B077STDKJM/?tag=kitchenpot-20) is the one to get, since its three deep metal tiers hold a skillet without bowing. Use the top tier for oils, salt and pepper. Put the middle tier to work for spatulas, tongs and a spoon rest. Give the bottom tier to one or two pans.
 
 Slim carts, about 5 to 7 inches wide, slide into the gap between the fridge and the wall. They are great for cans, spice jars and bottles. The [Honey-Can-Do 3-Tier Slim Rolling Cart with Metal Basket Drawers](https://www.amazon.com/Honey-Can-Do-3-Tier-Slim-Rolling-Cart-Basket-Drawers/dp/B09RQCX46D/?tag=kitchenpot-20) uses basket drawers, so small jars can't fall off the sides. For more on putting gaps and walls to work, see our [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/).
 
@@ -256,7 +254,7 @@ Set a limit: no more than three items stay on the counter full time. For most pe
 
 For more tricks, see our [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/). If baking gear is crowding the counter, our list of [space-saving baking tools](/blog/space-saving-baking-tool-essentials/) helps you trim it down. Our [compact baking sheet and pan sizes](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) guide shows which pans fit a narrow shelf.
 
-## Common Mistakes When Organizing a Kitchen Without Cabinets
+## Eight Things We Would Never Do in a Cabinet-Free Kitchen
 
 1. **Buying storage before cutting down.** You end up with more shelves full of things you never use. Sort first, then buy.
 2. **Mixing too many bin styles.** Five kinds of baskets make the room feel crowded. Stick to one style and one color.

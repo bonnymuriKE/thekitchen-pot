@@ -32,13 +32,17 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-The right small kitchen colors can make a cramped room feel wider and brighter. The wrong ones make it feel like a closet, even with clear counters.
+Paint chips lie. Small kitchen colors that look clean on a 2-inch card can turn gray, yellow or flat across four walls, and a tight room has nowhere to hide it.
 
-Most people pick a paint chip they like in the store, and it looks gray, yellow or flat at home. That comes down to light, undertone and how your surfaces work together. Here is a simple system, ready-made palettes and the no-paint fixes we would buy.
+The fix is rarely a braver color. It is light, undertone and three or four surfaces that agree with each other. Below is a simple system, six ready-made palettes and the no-paint fixes we would buy for a rental.
 
-**The short version:** Pick light colors with an LRV of 70 or higher for walls and upper cabinets. Match the undertone (the hidden warm or cool tint) to your light and to the things you cannot change, like the counter and floor. Use satin or eggshell on walls and satin or semi-gloss on cabinets. Keep any dark or bold color low in the room, and limit the whole kitchen to one main color, one accent and one wood or metal.
+**The short version:**
 
-## Why Color Matters More in a Small Kitchen
+- Walls and upper cabinets: light and muted, LRV 70 or higher, in satin or eggshell.
+- Undertone: let the counter and floor decide, because you can repaint a wall in a day and you cannot swap a counter.
+- Dark or bold color goes low, and the whole room gets one main color, one accent and one wood or metal.
+
+## How Color Pushes Walls Back
 
 Color controls how much light stays in the room and how many times your eye has to stop.
 
@@ -140,7 +144,7 @@ Most small kitchens should be mostly light. A dark small kitchen can look good o
 - The counter, backsplash and ceiling stay light.
 - You add under-cabinet lights so the counter never sits in shadow.
 
-Dark lowers and a dark counter need that light most. Renters can plug in the [Enbrighten 18-Inch Plug-In Under Cabinet Light](https://www.amazon.com/Enbrighten-18-Inch-Plug-In-Under-Cabinet-Light-Dimmable/dp/B0DK46DHRD/?tag=kitchenpot-20). It dims and has five white settings, so you can lock it at 2700K or 3000K to match your bulbs. For a permanent install in a kitchen you own, the [WAC Lighting 30-Inch 3-CCT LED Light Bar](https://www.amazon.com/WAC-Lighting-30-Inch-3-CCT-LED-Light-Bar/dp/B087CD4PXX/?tag=kitchenpot-20) is worth the extra money. It has a CRI of 90, so tile and paint colors look true on the counter.
+Dark lowers and a dark counter need that light most. Renters can plug in the [Enbrighten 18-Inch Plug-In Under Cabinet Light](https://www.amazon.com/Enbrighten-18-Inch-Plug-In-Under-Cabinet-Light-Dimmable/dp/B0DK46DHRD/?tag=kitchenpot-20). It dims and has five white settings, so you can lock it at 2700K or 3000K to match your bulbs. For a permanent install in a kitchen you own, the [WAC Lighting 30-Inch 3-CCT LED Light Bar](https://www.amazon.com/WAC-Lighting-30-Inch-3-CCT-LED-Light-Bar/dp/B087CD4PXX/?tag=kitchenpot-20) costs more but earns it. It has a CRI of 90, so tile and paint colors look true on the counter.
 
 Go light if the kitchen has one small window or none, faces north, or is a narrow galley. In a galley, two long runs of dark cabinets make the aisle feel like a tunnel. Our [galley kitchen ideas](/blog/galley-kitchen-ideas/) cover other ways to open up a narrow room.
 
@@ -162,7 +166,7 @@ Grease is the enemy of any paint near the stove. A working hood keeps it off the
 
 ## Small Kitchen Color Schemes That Work
 
-A color scheme is the set of colors you use across the whole room. We use a simple split for small kitchens, often called the 60-30-10 rule:
+A color scheme is the set of colors you use across the whole room. A simple split works best in small kitchens, often called the 60-30-10 rule:
 
 - **60 percent main color:** Walls and upper cabinets, light and quiet.
 - **30 percent second color:** Lower cabinets, counter or wood.
@@ -225,7 +229,7 @@ The backsplash and counter sit right in your line of sight, so they often matter
 - **Keep the tile close in tone to the wall or cabinets.** A white tile under white cabinets reads as one surface.
 - **Save pattern for one small area.** A patterned tile behind the stove only can work. A whole wall of pattern makes the room busy.
 
-Renters can cover an old backsplash with peel-and-stick tile. Our pick is [Smart Tiles Peel and Stick Backsplash in Subway Soft White](https://www.amazon.com/Smart-Tiles-Peel-Stick-Backsplash-Subway/dp/B07XCHLLGP/?tag=kitchenpot-20). Its glossy, gel-like surface catches light like real glazed tile, and the soft white sits calmly under white or cream cabinets. On a tight budget, [Art3d Peel and Stick White Subway Backsplash](https://www.amazon.com/Art3d-Peel-Stick-Backsplash-White-Subway/dp/B08PP2NZMD/?tag=kitchenpot-20) comes in 12 by 12 inch sheets, and ten sheets cover about 10 square feet. For one short wall that needs more sparkle, [Lovdeco Beveled Antique Mirror Subway Tile](https://www.amazon.com/Lovdeco-Peel-Stick-Beveled-Mirror-Subway-Tile/dp/B09VP9NPVR/?tag=kitchenpot-20) is real mirror glass in 3 by 6 inch pieces. It bounces light and depth back into the room, but it is harder to remove than vinyl. Keep any peel-and-stick away from the area right behind the burners unless the package says it is rated for heat. Our [small kitchen ideas on a budget](/blog/small-kitchen-ideas-on-a-budget/) include more low-cost surface updates.
+Renters can cover an old backsplash with peel-and-stick tile. The one to get is [Smart Tiles Peel and Stick Backsplash in Subway Soft White](https://www.amazon.com/Smart-Tiles-Peel-Stick-Backsplash-Subway/dp/B07XCHLLGP/?tag=kitchenpot-20). Its glossy, gel-like surface catches light like real glazed tile, and the soft white sits calmly under white or cream cabinets. On a tight budget, [Art3d Peel and Stick White Subway Backsplash](https://www.amazon.com/Art3d-Peel-Stick-Backsplash-White-Subway/dp/B08PP2NZMD/?tag=kitchenpot-20) comes in 12 by 12 inch sheets, and ten sheets cover about 10 square feet. For one short wall that needs more sparkle, [Lovdeco Beveled Antique Mirror Subway Tile](https://www.amazon.com/Lovdeco-Peel-Stick-Beveled-Mirror-Subway-Tile/dp/B09VP9NPVR/?tag=kitchenpot-20) is real mirror glass in 3 by 6 inch pieces. It bounces light and depth back into the room, but it is harder to remove than vinyl. Keep any peel-and-stick away from the area right behind the burners unless the package says it is rated for heat. Our [small kitchen ideas on a budget](/blog/small-kitchen-ideas-on-a-budget/) include more low-cost surface updates.
 
 ### Counter Colors
 
@@ -293,7 +297,7 @@ Paint chips are too small to judge. Always test on your own walls.
 
 Before you paint, wash the walls with a degreasing cleaner. Paint does not stick well to kitchen grease. Fill small gaps along the counter and trim with caulk, which also closes entry points for bugs, as we explain in [how to keep pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/).
 
-## Common Mistakes With Small Kitchen Colors
+## Color Mistakes We See All the Time
 
 - **Picking from a tiny chip.** A color looks darker and stronger on four walls. Test a large sample.
 - **Ignoring the undertone.** A blue-gray next to a creamy counter looks dirty.

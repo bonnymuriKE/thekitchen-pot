@@ -33,11 +33,15 @@ smallSpacePillar: cooking-for-one
 showTableOfContents: true
 source: decap
 ---
-Learning how to cook for one person without wasting food is mostly about planning. Most recipes serve four, and most packages are sized for families.
+The family pack looks like the bargain until half of it rots by Friday. To cook for one person without wasting food, the plan has to start at the shelf, not the stove.
 
-So you buy a bunch of cilantro for one taco night, and the rest turns to slime by Friday. The fix is a simple plan where every ingredient you buy has three jobs. Below is our full system, with a sample week, storage tricks and the small pans that make single portions easy.
+Recipes serve four and packages are sized for families, so the cilantro you bought for one taco night turns to slime in the crisper. Our fix gives every perishable you buy three jobs. Below is the full system, with a sample week, storage tricks and the small pans that make single portions easy.
 
-**The short version:** Plan around ingredients, not recipes. Every perishable item you buy should feed at least three meals that taste different. Store produce so it lasts, cook in small pans, and freeze extra portions the day you cook them. Keep a 'use first' bin in the fridge and eat from it before you shop again.
+**The quick fix:**
+
+- Before anything perishable goes in the cart, name three different meals it will end up in.
+- Freeze extra portions the same day you cook them, one serving per container.
+- Keep a clear "use first" bin in the fridge, and eat your way through it before you shop again.
 
 ## How to Cook for One Person Without Wasting Food: The Three-Meal Rule
 
@@ -230,13 +234,13 @@ Big packs are often cheaper per pound. They only save money if you can store the
 
 A vacuum sealer pulls the air out of the bag, so meat and fish last much longer in the freezer with good quality. Split a family pack of chicken thighs into bags of two, seal them, and freeze them flat.
 
-The [FoodSaver PowerVac VS0150](https://www.amazon.com/FoodSaver-PowerVac-VS0150/dp/B08BF3GB5Q/?tag=kitchenpot-20) is a compact, budget-friendly sealer that handles this job well in a small kitchen. If you seal often or freeze sauces and marinades, the [Anova Precision Vacuum Sealer Pro](https://www.amazon.com/Anova-Precision-Vacuum-Sealer-Pro/dp/B08F8SMSC4/?tag=kitchenpot-20) is worth the extra money. It has a built-in bag cutter, roll storage and a moist mode for wet foods. Learn the basics in [how to use a vacuum sealer](/blog/how-to-use-a-vacuum-sealer/), and compare more models in [the best vacuum sealers](/blog/best-vacuum-sealer-for-sous-vide/).
+The [FoodSaver PowerVac VS0150](https://www.amazon.com/FoodSaver-PowerVac-VS0150/dp/B08BF3GB5Q/?tag=kitchenpot-20) is a compact, budget-friendly sealer that handles this job well in a small kitchen. If you seal often or freeze sauces and marinades, the [Anova Precision Vacuum Sealer Pro](https://www.amazon.com/Anova-Precision-Vacuum-Sealer-Pro/dp/B08F8SMSC4/?tag=kitchenpot-20) is the upgrade to pay for. It has a built-in bag cutter, roll storage and a moist mode for wet foods. Learn the basics in [how to use a vacuum sealer](/blog/how-to-use-a-vacuum-sealer/), and compare more models in [the best vacuum sealers](/blog/best-vacuum-sealer-for-sous-vide/).
 
 Not ready for a sealer? A reusable bag with the air pressed out works for short stays. The [Stasher Silicone Reusable Sandwich Bag](https://www.amazon.com/Stasher-Silicone-Reusable-Sandwich-Bag-Clear/dp/B01DZQT9CU/?tag=kitchenpot-20) is made of platinum silicone with a pinch-press seal. It goes from freezer to microwave to dishwasher, and it is the right size for half a block of cheese or two burger patties.
 
 ## How to Cook for One on a Budget
 
-Cooking for one on a budget is mostly about not throwing money in the trash. Our budget rules:
+Cooking for one on a budget comes down to not throwing money in the trash. Our budget rules:
 
 1. **Buy the size you will use, not the cheapest per ounce.** A big bag of spinach is no bargain if half of it rots.
 2. **Shop the bulk bins and the deli counter.** You can buy three carrots, a quarter pound of cheese or one cup of lentils.
@@ -276,7 +280,7 @@ You do not need a yard. Many cities collect food scraps, and many farmers market
 
 The [OXO Good Grips Easy-Clean Compost Bin, 1.75 Gal](https://www.amazon.com/OXO-Good-Grips-Easy-Clean-Compost/dp/B07ZDRTFYN/?tag=kitchenpot-20) is a good size for one person. It holds about a week of scraps, and its smooth inside walls rinse clean. A lid that seals keeps out smells and fruit flies. If flies are already a problem, our guide to [keeping pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/) has the fixes. For more ways to cut kitchen waste, see [eco-friendly alternatives to common kitchen appliances](/blog/eco-friendly-alternatives-to-common-kitchen-appliances/).
 
-## Common Mistakes That Waste Food When You Cook for One
+## Where Most People Go Wrong When Cooking for One
 
 - **Shopping for recipes, not ingredients.** Seven recipes means seven half-used packages. Start from three or four anchors.
 - **Buying the family pack without a plan.** Split and freeze it the day you get home, or buy smaller.

@@ -32,15 +32,15 @@ smallSpacePillar: cooking-for-one
 showTableOfContents: true
 source: decap
 ---
-One pan meals for one solve two small-kitchen problems at once: no room to work and no wish to wash four pots for one plate of food.
+Plenty of solo cooks think a proper dinner needs three pots going at once. It doesn't. One pan meals for one give you protein, vegetables and a starch from a single skillet, sheet pan or pot.
 
-This guide gives you ten real recipes for a skillet, a quarter sheet pan and a small pot, with amounts, temperatures and times. You also get the pans that make them easy and the habits that keep food crisp instead of soggy.
+What changes is timing, not equipment. Dense food goes in first, quick food goes in last, and the pan never gets crowded. Below are ten recipes with amounts, temperatures and times, plus the pans that make them easy.
 
-**The short version:** Most dinners for one fit in a 10-inch skillet, a 9-by-13-inch quarter sheet pan or a 3-quart pot. Start dense foods first, add quick ones later, and never crowd the pan. Cook chicken to 165°F, ground meat to 160°F and fish to 145°F, and check with a thermometer. Cook once, eat once, wash one pan.
+**Short answer:** Reach for a 10-inch skillet, a 9-by-13-inch quarter sheet pan or a 3-quart pot, because nearly every dinner for one fits in one of those. Leave space between pieces so they brown. Then check with a thermometer: chicken at 165°F, ground meat at 160°F, fish at 145°F. One pan in, one pan to wash.
 
-## Why One Pan Meals for One Work in a Small Kitchen
+## What a Single Pan Saves You in a Small Kitchen
 
-A one-pan dinner is a full meal (protein, vegetable and often a starch) cooked in a single vessel. Here is why we push this style for solo cooks:
+For a solo cook in a tight space, cooking in a single vessel adds up fast:
 
 - **One burner, not three.** A two-burner stove or a single induction plate is enough. If you only have two burners, our guide on [cooking a full meal with only two burners](/blog/how-to-cook-a-full-meal-with-only-two-burners/) shows how to juggle more.
 - **Less counter space.** You prep into the pan, not into five bowls.
@@ -252,7 +252,7 @@ Color and cooking time do not tell you if meat is safe. A thermometer does, and 
 | Egg dishes | 160°F, or until whites and yolks are firm |
 | Leftovers, reheated | 165°F |
 
-Push the probe into the thickest part, away from bone and away from the hot pan. The [ThermoPro TP19H Digital Meat Thermometer](https://www.amazon.com/ThermoPro-TP19H/dp/B07XXSYLL8/?tag=kitchenpot-20) is a budget instant-read with a folding probe and a backlit display. If you want a faster reading and a magnet to stick it on the fridge, the [Lavatools Javelin PRO Duo](https://www.amazon.com/Lavatools-Javelin-PRO-Duo/dp/B07D3MBSZV/?tag=kitchenpot-20) is worth the extra money.
+Push the probe into the thickest part, away from bone and away from the hot pan. The [ThermoPro TP19H Digital Meat Thermometer](https://www.amazon.com/ThermoPro-TP19H/dp/B07XXSYLL8/?tag=kitchenpot-20) is a budget instant-read with a folding probe and a backlit display. If you want a faster reading and a magnet to stick it on the fridge, spend more on the [Lavatools Javelin PRO Duo](https://www.amazon.com/Lavatools-Javelin-PRO-Duo/dp/B07D3MBSZV/?tag=kitchenpot-20).
 
 Raw chicken keeps only 1 to 2 days in the fridge. Our guide on [how long chicken lasts in the fridge](/blog/how-long-does-chicken-last-in-the-fridge/) covers cooked chicken too. Store raw meat on the bottom shelf in a tray or sealed container.
 
@@ -311,7 +311,9 @@ Plan your week so the recipes share ingredients. Buy one 4-thigh pack of chicken
 
 Keep canned tomatoes, canned beans, rice, short pasta, broth, garlic and onions on hand, and any night can become a one-pan meal. Our list of [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) covers the rest.
 
-## Common Mistakes with One-Pan Meals for One
+## Seven Things We Would Never Do With One Pan
+
+Each of these turns a quick solo dinner into a smoky, soggy or ruined pan.
 
 - **Using a pan that is too big.** Oil burns in the empty spots and smoke fills the room. Match the pan to the portion.
 - **Using a pan that is too small.** Crowded food steams. If pieces touch, size up or cook in two rounds.

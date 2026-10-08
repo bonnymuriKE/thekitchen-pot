@@ -32,17 +32,15 @@ smallSpacePillar: cooking-for-one
 showTableOfContents: true
 source: decap
 ---
-Cheap meals for one person are easy to get wrong. You buy a family pack, cook one serving, and throw half of it away a week later.
+Rice, lentils, eggs, canned beans and a head of cabbage cover most cheap meals for one person. The catch is that the cheapest food is the food you actually finish.
 
-The fix is a short list of recipes that share ingredients, a couple of batch-cooking sessions and a few small tools. Below are eight real recipes, a full weekly plan and one shopping list that feeds all of it.
+A family pack of chicken looks like a bargain until half of it goes grey in the fridge. So the recipes below share ingredients on purpose. You get eight of them, a seven-day plan and one shopping list that feeds the whole week.
 
-**The short version:** Build your week on cheap staples: rice, oats, pasta, lentils, canned beans, canned tomatoes, eggs and cabbage or frozen vegetables. Pick recipes that reuse the same ingredients, so nothing goes to waste. Cook two big batches a week and portion them into single servings. A small rice cooker, an 8- or 10-inch skillet, a quarter sheet pan and good containers do most of the work, and most meals land at a few dollars a serving.
+**What to do first:** Stock the staples (rice, oats, pasta, lentils, canned beans, canned tomatoes, eggs, and cabbage or frozen vegetables), then pick recipes that reuse them. Cook twice a week in big batches and split everything into single portions. A small rice cooker, an 8- or 10-inch skillet, a quarter sheet pan and decent containers handle almost all of it, and most meals come in at a few dollars a serving.
 
-## What Makes a Meal Cheap When You Cook for One?
+## Three Habits That Keep a Solo Kitchen Cheap
 
-A cheap meal for one is not just cheap ingredients. It is cheap ingredients that you actually finish. Waste is the biggest cost for solo cooks.
-
-Three things keep a solo kitchen cheap:
+For solo cooks, spoiled leftovers cost more than any price difference at the store. These three habits close that gap:
 
 - **Shared ingredients.** One head of cabbage goes into fried rice, noodles and bowls.
 - **Batch cooking.** Four portions take about the same time and energy as one.
@@ -331,7 +329,7 @@ A boiled egg is also one of the cheapest healthy snacks. The [Dash Rapid Egg Coo
 
 ## How to Meal Plan on a Budget for One
 
-Meal planning for one is mostly about overlap. Here is the method behind our plan.
+Meal planning for one comes down to overlap: every ingredient should show up in at least two meals. This is the method behind our plan.
 
 1. **Start with what you have.** Check the fridge, freezer and shelves first. Plan meals that use those items before they spoil.
 2. **Pick four or five recipes, not seven.** Repeating meals is what makes cooking for one cheap. You will eat each recipe two or three times.
@@ -365,7 +363,9 @@ Small swaps add up fast when you cook for one. These are the ones we would make 
 
 Spices turn cheap staples into meals you want to eat. Cumin, paprika, garlic powder, chili flakes and cinnamon cover every recipe in this guide. See our [spice storage ideas for small kitchens](/blog/spice-storage-ideas-for-small-kitchens/) to keep them where you can reach them.
 
-## Common Mistakes That Make Solo Cooking Expensive
+## Where Most People Go Wrong on a Solo Food Budget
+
+These habits push a solo food bill up week after week.
 
 - **Buying for a family.** The big pack looks cheaper per pound, but not if half of it spoils. Buy big only for things that keep, like rice, oats and frozen food.
 - **Cooking a new recipe every night.** Seven different recipes means seven sets of ingredients. Repeat meals instead.

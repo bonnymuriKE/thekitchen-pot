@@ -33,11 +33,15 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Finding room for a dish drying rack in a small kitchen is hard. A standard rack eats about 2 square feet of counter, which can be half your prep space.
+You rinse the last pan, turn to set it down, and the dish drying rack has already swallowed the only clear stretch of counter in your small kitchen. Dinner prep waits.
 
-The good news is that the rack does not have to live on the counter at all. Below is where to put it, which types free the most space, the exact products we recommend and how to keep any rack from turning slimy.
+A standard rack covers about 2 square feet, which in a tiny kitchen can be half your prep space. It does not need to live there. Below is where the rack should go, which types free the most counter, the exact products we recommend and how to keep any rack from turning slimy.
 
-**The short version:** Move drying over or into the sink. An over-the-sink rack frees the most counter if you have open space above the sink. A roll-up rack laid across the basin is the best cheap fix and rolls away after each load. If the rack must sit on the counter, use a compact or fold-flat model on the drain side of the sink. Empty the tray daily and clean the rack weekly so it never grows mold.
+**The short version:**
+
+- Dry over or inside the sink first. An over-the-sink rack frees the most counter when there is open space above the basin, and a roll-up rack across the sink is the cheap fix that rolls away after each load.
+- If the rack has to sit on the counter, buy a compact or fold-flat model and park it on the drain side.
+- Empty the tray every day and scrub the rack once a week, so mold never gets a start.
 
 ## Where Should a Dish Rack Go in a Small Kitchen?
 
@@ -130,7 +134,7 @@ The [OXO Good Grips Compact Dish Rack](https://www.amazon.com/OXO-Good-Grips-Com
 
 ### Fold-Flat Racks for Bigger Loads
 
-The [OXO Good Grips Aluminum Fold Flat Dish Drying Rack](https://www.amazon.com/OXO-Good-Grips-Aluminum-Fold-Flat-Dish-Rack/dp/B09BVYVFZQ/?tag=kitchenpot-20) is worth the extra money if you need full capacity only some of the time. It has two tiers and a drainboard, and it collapses flat when you are done. Slide it beside the fridge or in the gap next to the stove.
+The [OXO Good Grips Aluminum Fold Flat Dish Drying Rack](https://www.amazon.com/OXO-Good-Grips-Aluminum-Fold-Flat-Dish-Rack/dp/B09BVYVFZQ/?tag=kitchenpot-20) earns its higher price if you need full capacity only some of the time. It has two tiers and a drainboard, and it collapses flat when you are done. Slide it beside the fridge or in the gap next to the stove.
 
 ### What to Look for in Any Counter Rack
 
@@ -269,7 +273,7 @@ The cabinet under the sink is the natural home for all of them. The [Simple Hous
 
 If you have almost no cabinets, see [how to organize a small kitchen without cabinets](/blog/organize-a-small-kitchen-without-cabinets/) for shelves and racks that work in the open.
 
-## Common Dish Rack Mistakes in a Small Kitchen
+## Dish Rack Mistakes That Waste the Most Space
 
 - **Buying a full-size rack by habit.** A standard rack is built for a family kitchen. Most small households need half that space or less.
 - **Putting the rack away from the sink.** It drips across the counter and the floor. Keep it beside or over the sink.

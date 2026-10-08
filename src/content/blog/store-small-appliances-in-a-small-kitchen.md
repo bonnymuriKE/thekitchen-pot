@@ -32,11 +32,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Learning how to store small appliances in a small kitchen starts with one question: how often do you use each one? That answer decides where it lives.
+A waffle maker used twice a year can block your prep space every single day. Store small appliances in a small kitchen by how often you use them, not by size, and that space comes back.
 
-Most small kitchens lose their counter to appliances that get used once a month. Below is the system we recommend: a simple rule for what stays out, the best storage options for everything else, and the safe places to actually run the hot ones.
+Most small kitchens lose their counter to machines that come out once a month. Below is the system we recommend: what earns a spot on the counter, the best storage for everything else, and the safe places to actually run the hot ones.
 
-**The short version:** Daily appliances stay on the counter, weekly ones stay within easy reach, and monthly ones get stored away. Use appliance garages, rolling carts and pull-out shelves to make the weekly group easy to grab. Let every appliance cool and dry before you store it, and tame the cords. Never run an air fryer, toaster oven or microwave inside a cabinet or under upper cabinets.
+**Bottom line:** Sort every appliance by use. Daily ones stay out, weekly ones live within easy reach, and monthly ones go away. Appliance garages, rolling carts and pull-out shelves make the weekly group quick to grab. Let each machine cool and dry before it goes in a cabinet, wrap the cords, and never run an air fryer, toaster oven or microwave inside a cabinet or under the uppers.
 
 ## How to Store Small Appliances in a Small Kitchen: The Frequency Rule
 
@@ -47,7 +47,7 @@ Our rule of thumb is simple. **Where an appliance lives depends on how often you
 - **Monthly:** It gets stored away, up high, down low or in another room.
 - **Yearly or less:** It goes to a closet, under a bed or out the door.
 
-Fetching a coffee maker every morning is a chore you will soon quit. A waffle maker left out for twice-a-year use wastes space every day.
+Fetching a coffee maker from a cabinet every morning is a chore you will soon quit.
 
 | How often you use it | Where it lives | Typical examples |
 |---|---|---|
@@ -289,9 +289,9 @@ Go up and out. A sturdy wall shelf can hold light appliances that make no heat, 
 
 If you are short on all storage, our [small kitchen storage ideas](/blog/small-kitchen-storage-ideas/) roundup covers every spot in the room, and our [small kitchen ideas on a budget](/blog/small-kitchen-ideas-on-a-budget/) keep the cost low.
 
-## Common Mistakes When Storing Small Appliances
+## What Usually Goes Wrong With Appliance Storage
 
-These are the mistakes we see most.
+Each of these costs you counter space, a cabinet finish or a sore back.
 
 - **Running an air fryer or toaster oven under the cabinets.** The heat and steam damage the cabinet over time and can be a fire risk. Pull it into open air every time.
 - **Storing heavy appliances up high.** Keep anything over about 5 pounds below shoulder height, and very heavy ones between knee and waist.

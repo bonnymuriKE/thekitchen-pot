@@ -33,11 +33,15 @@ smallSpacePillar: cooking-for-one
 showTableOfContents: true
 source: decap
 ---
-Learning how to scale down a recipe is the most useful skill a solo cook can have. Nearly every recipe is written for four to eight people.
+Half a can of beans going fuzzy in the fridge. A 9x13 pan for one dinner. One egg you cannot split. That is life when you never scale down a recipe written for six.
 
-Cutting it down is simple math, but the math is only half the job. Eggs, pan sizes and cooking times do not shrink in a straight line. Below is our full method, with the conversion charts we keep taped inside a cabinet door.
+Nearly every recipe is written for four to eight people. Cutting one down is simple math, but the math is only half the job, because eggs, pan sizes and cooking times do not shrink in a straight line. Below is our full method, with the conversion charts we keep taped inside a cabinet door.
 
-**The short version:** Divide the servings you want by the servings the recipe makes, and multiply every ingredient by that number. Turn awkward amounts into tablespoons or grams using the chart below. Split eggs by weight (about 50 grams per large egg). Use a pan with about half the surface area, keep the oven temperature the same, and start checking for doneness at about two-thirds of the original time.
+**The short version:**
+
+- **Do the math once:** divide the servings you want by the servings the recipe makes, multiply every ingredient by that number, and turn awkward amounts into tablespoons or grams with the chart below.
+- **Split eggs by weight:** a large egg is about 50 grams out of the shell, so half is about 25 grams.
+- **Shrink the pan, not the heat:** use a pan with about half the surface area, keep the oven temperature the same, and start checking for doneness at about two-thirds of the original time.
 
 ## How to Scale Down a Recipe in 5 Steps
 
@@ -144,7 +148,7 @@ A third of a 6-serving recipe gives you two servings. The amounts you will hit m
 
 The best way to scale down ingredients in a recipe is to stop using cups. Grams divide cleanly. Half of 250 grams is 125 grams, with no fractions and no leveling.
 
-A digital scale is the single tool we would buy first for small-batch cooking. The [Escali Primo Digital Kitchen Scale](https://www.amazon.com/Escali-Primo-Digital-Kitchen-Scale/dp/B0007GAWNW/?tag=kitchenpot-20) is a compact, budget pick that weighs in 1-gram steps up to 11 pounds. It stands on its edge in a cabinet. For big bowls that hide the screen, the [OXO Good Grips 11-Pound Scale With Pull-Out Display](https://www.amazon.com/OXO-Good-Grips-Stainless-Steel-Food-Scale-Pull-Out-Display/dp/B079D9B82W/?tag=kitchenpot-20) is worth the extra money, because the display slides out from under the bowl.
+A digital scale is the single tool we would buy first for small-batch cooking. The [Escali Primo Digital Kitchen Scale](https://www.amazon.com/Escali-Primo-Digital-Kitchen-Scale/dp/B0007GAWNW/?tag=kitchenpot-20) is a compact, budget pick that weighs in 1-gram steps up to 11 pounds. It stands on its edge in a cabinet. Big bowls hide the screen on most scales. The [OXO Good Grips 11-Pound Scale With Pull-Out Display](https://www.amazon.com/OXO-Good-Grips-Stainless-Steel-Food-Scale-Pull-Out-Display/dp/B079D9B82W/?tag=kitchenpot-20) solves that. It costs more, but the display slides out from under the bowl.
 
 Press "tare" (it resets the scale to zero) after each ingredient, and weigh everything into one bowl. A scale is also on our list of [small kitchen gadgets worth buying when you cook for one](/blog/small-kitchen-gadgets-worth-buying-when-you-cook-for-one/).
 
@@ -314,7 +318,7 @@ Small pans store well too. A quarter sheet, an 8-inch square and two 6-inch roun
 
 If you want appliances sized for one, our list of the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) covers mini rice cookers, small air fryers and compact ovens.
 
-## Common Mistakes When Scaling Down Recipes
+## Where Most People Go Wrong Scaling Down a Recipe
 
 - **Using the original pan.** This is the biggest one. Match the pan to the new amount using the area chart, or the food will dry out and burn.
 - **Halving the cooking time.** Time depends on thickness. Check early, but do not set the timer for half.

@@ -32,11 +32,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-If you have ever chopped onions on a cutting board balanced on the stove, this guide is for you. Here is how to make more counter space in a small kitchen.
+Tidying will not save you. To make more counter space in a small kitchen, you have to add surface: over the sink, over a cold stove, on the wall or on wheels.
 
-Clearing the counter helps, but it has a limit. Once it is clear and still too small, you need new surface. This guide shows where to find it and how to use it safely.
+Anyone who has chopped onions on a board balanced across the stove knows where decluttering stops. Below is where to find new surface, what to buy for each spot and how to use it safely.
 
-**The short version:** Add surface in places your kitchen already has: over the sink, over a cold stove, on an empty wall and on wheels. Our first pick for most kitchens is a rolling cart about 36 inches tall with a wood top. Add an over-the-sink cutting board for daily chopping. If the wall allows it, a fold-down shelf gives you a full prep station that disappears when you are done.
+**What to do first:** Roll in a cart about 36 inches tall with a wood top. It matches counter height, parks anywhere and can carry the microwave off the counter for good. Then lay an over-the-sink cutting board across the basin for daily chopping. With a free stretch of wall, a fold-down shelf adds a full prep station that folds flat when dinner is done.
 
 ## How Much Counter Space Do You Need in a Kitchen?
 
@@ -113,7 +113,7 @@ It is not a cutting surface. Pair it with a cutting board: rack on one side, boa
 
 A cold stove is 3 to 4 square feet of flat space. A standard range is 30 inches wide. A compact apartment range is often 20 or 24 inches wide. When you are not cooking, that space is free.
 
-A stove cover is a flat board that sits over the burners. Wooden ones are often called noodle boards. They have side rails that drop over the edges of the cooktop so the board does not slide. Our pick is the [SwallowLiving Noodle Board Stove Cover](https://www.amazon.com/SwallowLiving-Noodle-Board-Stove-Cover-Handles/dp/B0CR2TJSL1/?tag=kitchenpot-20). It is solid acacia with handles, so it lifts off in one move, and it fits gas or electric stoves. It also works as a sink cover.
+A stove cover is a flat board that sits over the burners. Wooden ones are often called noodle boards. They have side rails that drop over the edges of the cooktop so the board does not slide. The one to get is the [SwallowLiving Noodle Board Stove Cover](https://www.amazon.com/SwallowLiving-Noodle-Board-Stove-Cover-Handles/dp/B0CR2TJSL1/?tag=kitchenpot-20). It is solid acacia with handles, so it lifts off in one move, and it fits gas or electric stoves. It also works as a sink cover.
 
 ### Stove Cover Safety Rules
 
@@ -292,7 +292,7 @@ When you replace an appliance, pick one that does two jobs. A toaster oven cover
 
 Smaller pans help too. A quarter sheet pan is 9 by 13 inches and fits on a cart or stove cover. See our guide to [compact baking sheet and pan sizes](/blog/compact-baking-sheet-and-pan-sizes-for-small-kitchens/) and our [space-saving baking tool essentials](/blog/space-saving-baking-tool-essentials/).
 
-## Common Mistakes When Adding Counter Space
+## Counter Space Mistakes We See All the Time
 
 - **Buying a cart with a wire top.** It looks useful, but you cannot chop on it. Pay a bit more for wood.
 - **Ignoring height.** A cart or table that sits 4 inches below the counter is tiring to work at. Match 34 to 36 inches.

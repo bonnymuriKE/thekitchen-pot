@@ -33,13 +33,13 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-If you want to know how to organize a corner cabinet, start here. Corners hide the most space in a small kitchen, and most of it sits where your arm cannot reach.
+Why does the pan you shoved into the corner never come back out? Because you cannot see it or reach it. To organize a corner cabinet, you bring the back of it to the door.
 
-The good news is that every corner cabinet can work. The trick is to match the fix to the type of corner you have. Below we show you how to tell which type you own, what to buy for it, and what to store inside so you stop crawling in on your knees.
+Every corner can be made to work, but the fix depends on its shape. Below we show how to tell which type you own, what to buy for it, and what to store inside so you stop kneeling on the floor to find a lid.
 
-**The short version:** First, figure out your corner type: a lazy susan corner with an L-shaped door, a blind corner where one cabinet hides behind another, or an upper corner. For lazy susan corners, add or replace the spinning shelves. For blind corners, use a pull-out that brings the back section to the door, or long bins with handles if you rent. In every corner, keep daily items in the front and rarely used items in the back.
+**If you only do one thing:** Identify your corner before you buy anything. An L-shaped door means a lazy susan corner, so add or replace the spinning shelves. A cabinet hiding behind its neighbor is a blind corner, which needs a pull-out that slides the back section forward, or long handled bins if you rent. Whatever the type, daily items go in front and rarely used ones go in back.
 
-## Why Corner Cabinets Are So Hard to Use
+## Where the Space in a Corner Cabinet Goes
 
 A corner is where two runs of cabinets meet at a right angle. Standard base cabinets are 24 inches deep, so the corner box ends up much deeper than a normal cabinet. The back of it can sit 30 inches or more from your hand.
 
@@ -120,7 +120,7 @@ Then set the front section up for daily use. The [AmzAge No-Drill Pull Out Cabin
 
 ### The Blind Corner Load Plan
 
-Here is how we would load a blind corner with no pull-out:
+To load a blind corner with no pull-out:
 
 1. Put the longest bin at the far back of the blind side. Fill it with holiday dishes or backup paper goods.
 2. Put a second bin in front of it with things you use monthly, like a roasting pan or cake pans.
@@ -259,7 +259,7 @@ Here is how the main ways to bring a corner out to you compare.
 
 | Option | Best for | Install | Renter-safe? | Cost level |
 |---|---|---|---|---|
-| Blind corner pull-out (two tiers, four baskets) | Blind corners with an 18-inch-plus opening | Screws to floor and side | Only with permission | Worth the extra money |
+| Blind corner pull-out (two tiers, four baskets) | Blind corners with an 18-inch-plus opening | Screws to floor and side | Only with permission | Highest price |
 | Half-moon swing-out | Blind corners with a narrow opening | Screws to floor and side | Only with permission | Mid-price |
 | Built-in lazy susan | L-shaped corners | Center post, a few screws | Only with permission | Mid-price |
 | Freestanding turntables | Any corner shelf | None | Yes | Budget |
@@ -276,9 +276,9 @@ Instead, work around the pipes. Use a U-shaped or L-shaped shelf that wraps the 
 
 Never store food or food containers under a sink. A slow leak can soak them without you noticing.
 
-## Common Mistakes With Corner Cabinets
+## Corner Cabinet Habits to Drop
 
-These are the mistakes we see most often:
+Each of these slowly turns an organized corner back into a jumble.
 
 - **Buying before measuring.** A blind corner pull-out that is one inch too wide for the opening is useless. Measure the clear opening, not the door.
 - **Putting a round lazy susan in a blind corner.** You will only reach the slice behind the door. Use a pull-out or bins.

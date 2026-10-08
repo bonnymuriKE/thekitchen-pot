@@ -33,11 +33,15 @@ smallSpacePillar: cooking-for-one
 showTableOfContents: true
 source: decap
 ---
-How long do leftovers last? Most cooked leftovers last 3 to 4 days in the fridge and stay safe indefinitely in a 0°F freezer. The hard part is keeping track.
+You reach past the milk on Thursday night and find Sunday's chili, smelling perfectly fine. So how long do leftovers last? Three to four days, which means this one is finished.
 
-In a small household, you cook four portions, eat one, and the rest drift to the back of a tiny fridge. Below is our full chart by food, the rules for cooling, storing and reheating, and a simple rotation system that gets every portion eaten on time.
+Smell will not tell you, because the bacteria that make people sick rarely leave a trace. Most cooked leftovers last 3 to 4 days in the fridge and stay safe indefinitely in a 0°F freezer. The hard part is keeping track. In a small household, you cook four portions, eat one, and the rest drift to the back of a tiny fridge. Below is our full chart by food, the rules for cooling, storing and reheating, and a simple rotation system that gets every portion eaten on time.
 
-**The short version:** Get cooked food into the fridge within 2 hours, or 1 hour when it is above 90°F. Keep the fridge at 40°F or below and the freezer at 0°F. Eat cooked leftovers within 3 to 4 days, or freeze them by day 2 or 3. Reheat everything to 165°F. When you cannot remember how old something is, throw it out.
+**In a hurry?**
+
+- **Cool it fast:** get cooked food into the fridge within 2 hours, or within 1 hour when it is above 90°F.
+- **Watch the clock:** eat it within 3 to 4 days in a fridge at 40°F or below, or freeze it by day 2 or 3 in a 0°F freezer.
+- **Heat it through:** reheat everything to 165°F, and throw out anything you cannot date.
 
 ## How Long Do Leftovers Last in the Fridge?
 
@@ -117,7 +121,7 @@ Put a thermometer on the middle shelf, toward the front, and read it the next mo
 
 The cheapest way to do this is the [Taylor 5924 Large Dial Refrigerator and Freezer Thermometer](https://www.amazon.com/Taylor-Classic-Fridge-Freezer-Thermometer/dp/B000BPE88E/?tag=kitchenpot-20). Its 3-inch dial has the fridge, freezer and danger zones printed right on it. It reads from -20°F to 80°F and hangs from a wire shelf or stands on a glass one. Buy two, one for each compartment.
 
-If you want to see both temperatures without opening the doors, the [AcuRite Digital Wireless Fridge and Freezer Thermometer](https://www.amazon.com/AcuRite-Refrigerator-Thermometer-Temperature-Customizable/dp/B004QJVU78/?tag=kitchenpot-20) is worth the extra money. It has one wireless sensor for each compartment and a display that sits on the counter. It sounds an alarm when either one gets too warm and remembers the highest reading. That high reading tells you whether food was safe after a power cut.
+If you want to see both temperatures without opening the doors, the [AcuRite Digital Wireless Fridge and Freezer Thermometer](https://www.amazon.com/AcuRite-Refrigerator-Thermometer-Temperature-Customizable/dp/B004QJVU78/?tag=kitchenpot-20) is the one to get. It has one wireless sensor for each compartment and a display that sits on the counter. It sounds an alarm when either one gets too warm and remembers the highest reading. That high reading tells you whether food was safe after a power cut.
 
 Small and mini fridges need this most. They often run warmer than you think, especially when packed full or iced up. If yours has a thick layer of frost, see [how to defrost a mini fridge](/blog/how-to-defrost-a-mini-fridge/) before you trust it with leftovers. If you are shopping for a new one, our list of [compact Energy Star appliances for small kitchens](/blog/best-compact-energy-star-appliances-for-small-kitchens/) includes fridges that hold temperature well.
 
@@ -291,7 +295,7 @@ The easiest way to beat the 4-day clock is to plan a second meal from the first 
 
 For timing on a small stove, see [how to cook a full meal with only two burners](/blog/how-to-cook-a-full-meal-with-only-two-burners/). For more ways to stretch a batch, our [easy meal prep ideas for one person](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) and our [cheap meals for one person](/blog/cheap-meals-for-one-person/) are good next reads. To use up every last bit, see how to [cook for one without wasting food](/blog/cook-for-one-without-wasting-food/).
 
-## Common Leftover Mistakes
+## Leftover Mistakes We See All the Time
 
 - **Leaving food on the stove to cool.** It spends hours in the danger zone. Pack it within 2 hours, warm or not.
 - **Storing a whole pot in the fridge.** The middle stays warm far too long. Divide it into shallow containers.

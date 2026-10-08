@@ -32,11 +32,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Renter-friendly kitchen upgrades let you fix a dated, awkward rental kitchen without drills, paint or arguments. Every idea here comes off clean, so your deposit comes back in full.
+Will new cabinet pulls cost you your deposit? Not if the old ones go back on the same holes, and that is the test behind every renter-friendly kitchen upgrade in this guide.
 
-The trick is not finding cheap upgrades. It is choosing ones you can reverse in an afternoon, and setting yourself up before you change anything. Below we cover what to do, what to ask about first, and how to undo each change before you hand back the keys.
+A dated rental kitchen can change a lot without drills, paint or arguments with the landlord. The skill is picking changes you can reverse in an afternoon, and documenting the room before you touch anything. Below we cover what to do, what to ask about first, and how to undo each change before you hand back the keys.
 
-**The short version:** Photograph the whole kitchen on move-in day and email the photos to yourself and your landlord. Stick to reversible changes: new pulls on the old holes, removable contact paper, peel-and-stick tile over existing tile, plug-in lights and freestanding storage. Keep every original part in a labeled bag. Test every adhesive in a hidden spot first, and get written permission for paint, plumbing or wiring.
+**Bottom line:** Take move-in photos of every surface and email them to yourself and your landlord before you change a thing. Then stay with what peels, unplugs or unscrews: pulls on the old holes, removable contact paper, peel-and-stick tile over existing tile, plug-in lights and freestanding storage. Bag and label every original part. Patch-test each adhesive somewhere hidden, and get paint, plumbing or wiring approved in writing.
 
 ## How Can I Upgrade My Rental Kitchen?
 
@@ -291,7 +291,7 @@ Never run an air fryer, toaster oven or microwave inside a closed cabinet or tuc
 
 If your rental is a narrow galley, our [galley kitchen ideas](/blog/galley-kitchen-ideas/) cover layout tricks that need no construction.
 
-## Common Mistakes That Cost Renters Their Deposit
+## Don't Make These Deposit-Losing Mistakes
 
 - **Skipping move-in photos.** Without proof, every existing flaw becomes your flaw at move-out.
 - **Trusting the label instead of a test patch.** "Removable" means removable from the surface the maker tested on. Your wall may be different.

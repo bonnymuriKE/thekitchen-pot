@@ -33,15 +33,15 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Good small L-shaped kitchen ideas are about more than looks. They decide where the sink, stove and fridge go, what happens in the corner and how you use the open side.
+Mind the corner. It is where two cooks collide and cabinets turn into dead space, so every one of these small L-shaped kitchen ideas keeps the sink and the stove out of it.
 
-An L-shape is the most forgiving layout for a small room. It still has one weak spot and a few easy traps. Below is our full plan, with the measurements, the work zones, the corner fixes and the point where a U-shape makes more sense.
+Get the corner right and the rest of an L is easy to live with, apart from a few traps. Below is our full plan: where the sink, stove and fridge go, the measurements, the work zones, the corner fixes and the point where a U-shape makes more sense.
 
-**The short version:** Put the sink on one leg, the stove on the other and the fridge at the open end of a leg. Keep both the sink and the stove out of the corner, and leave a 42-inch aisle in front of the counters. Fit the corner base cabinet with a lazy Susan or a pull-out, and use the open side for a peninsula, a cart or a small table instead of a full island. Switch to a U-shape only if the room is at least 8 feet wide and the third wall is free.
+**If you only do one thing:** Move the sink and the stove out of the corner, one on each leg, with the fridge at the open end of a leg. The rest follows from there. Leave a 42-inch aisle in front of the counters and fit a lazy Susan or pull-out in the corner base cabinet. On the open side, use a peninsula, cart or small table rather than a full island. A U-shape only makes sense once the room is at least 8 feet wide and the third wall is free.
 
-## Is an L-Shaped Layout Good for a Small Kitchen?
+## When an L-Shape Is the Right Call for a Small Kitchen
 
-Yes. For most small, square-ish rooms, the L is the layout we recommend first. An L-shaped kitchen runs cabinets and counters along two walls that meet at a corner. The other two sides stay open.
+For most small, square-ish rooms, the L is the layout we recommend first. An L-shaped kitchen runs cabinets and counters along two walls that meet at a corner. The other two sides stay open.
 
 That open side is the big win. It gives you:
 
@@ -288,7 +288,7 @@ If you do go U-shaped, plan both corners before you buy anything. Lose them, and
 
 Put the sink at the bottom of the U, with the stove and fridge on the two sides. Do not put the dishwasher right across from the oven, or the two open doors will block the aisle. Keep the third wall lighter, with open shelves or shorter uppers, so the room does not close in. If you are remodeling, our [small kitchen remodel ideas on a budget](/blog/small-kitchen-remodel-ideas-on-a-budget/) show where the money goes furthest.
 
-## Common Small L-Shaped Kitchen Mistakes
+## What Usually Goes Wrong in a Small L-Shaped Kitchen
 
 - **Putting the sink or stove in the corner.** Two people collide and the corner counter fills with clutter. Keep 15 to 24 inches of counter between the corner and each one.
 - **Ignoring the corner math.** Each leg loses 2 feet to the corner. Plan appliances on what is left.

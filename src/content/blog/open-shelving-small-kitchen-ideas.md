@@ -33,15 +33,15 @@ showTableOfContents: true
 source: decap
 ---
 
-Open shelving in a small kitchen can make the room feel twice as wide. It can also turn into a dusty, greasy wall of clutter. The difference is where you hang it and what you put on it.
+Yes, open shelving works in a small kitchen, as long as it holds what you reach for every week and never hangs over the stove. The surprise is how much of each shelf should stay empty.
 
-This guide gives you our plain rules: when open shelves beat cabinets, how deep and high to hang them, how much weight they can really hold, and how to keep them clean. We also name the shelves, brackets and containers we would buy for the job.
+Two well-placed shelves can make a cramped wall feel twice as wide. Two badly placed ones become a dusty, greasy wall of clutter. Below are our rules for depth, height and weight, how to keep the shelves clean, and the shelves, brackets and containers we would buy.
 
-**The short version:** Use open shelves for things you use at least once a week, like plates, glasses, mugs and staples in matching jars. Hang them 8 to 12 inches deep, starting about 18 inches above the counter, and screw them into studs or proper hollow-wall anchors. Never hang a shelf directly above the stove. Keep a third of each shelf empty, and everything else goes behind a door.
+**The quick fix:** Swap one section of upper cabinets for two shelves 8 to 12 inches deep, the lower one about 18 inches above the counter. Screw them into studs or proper hollow-wall anchors. Put only weekly items on them: plates, glasses, mugs and staples in matching jars. Leave a third of every shelf bare and send everything else behind a door.
 
-## Is Open Shelving Good for a Small Kitchen?
+## What You Gain and Lose When the Doors Come Off
 
-For most small kitchens, yes, in the right spot. A row of upper cabinets is a heavy box that sits at eye level and eats light. Swap one section for two open shelves and the wall opens up. You also save the time spent opening doors, which matters when you cook every day.
+A row of upper cabinets is a heavy box that sits at eye level and eats light. Swap one section for two open shelves and the wall opens up. You also save the time spent opening doors, which matters when you cook every day.
 
 But open shelves do not fully replace cabinets. Mess shows. Rarely used items collect dust, shelves near the stove collect grease, and they hold less per foot.
 
@@ -178,7 +178,7 @@ This is the question that decides whether open shelving works for you. Our rule:
 
 ### Use Matching Airtight Containers
 
-Dry goods look better and stay fresher in matching clear containers. They also keep pantry pests out, which matters on an open shelf. For a full set, the [OXO Good Grips 10-Piece POP Container Set](https://www.amazon.com/OXO-Good-Grips-10-Piece-POP-Container-Set/dp/B07TBBL1C2/?tag=kitchenpot-20) is worth the extra money. The square containers sit tight side by side, stack neatly, and seal with one push of the button. On a budget, the [Vtopmart 4-Piece 5.2L Canister Set](https://www.amazon.com/Vtopmart-4-Piece-5-2L-Canister-Set/dp/B07PF8NV7N/?tag=kitchenpot-20) holds a full bag of flour, sugar or rice in each canister.
+Dry goods look better and stay fresher in matching clear containers. They also keep pantry pests out, which matters on an open shelf. For a full set, the [OXO Good Grips 10-Piece POP Container Set](https://www.amazon.com/OXO-Good-Grips-10-Piece-POP-Container-Set/dp/B07TBBL1C2/?tag=kitchenpot-20) is the set to spend on. The square containers sit tight side by side, stack neatly, and seal with one push of the button. On a budget, the [Vtopmart 4-Piece 5.2L Canister Set](https://www.amazon.com/Vtopmart-4-Piece-5-2L-Canister-Set/dp/B07PF8NV7N/?tag=kitchenpot-20) holds a full bag of flour, sugar or rice in each canister.
 
 Our [airtight food storage guide](/blog/best-airtight-food-storage-containers/) compares more options. To keep moths and weevils out of what you store, read [how to keep pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/).
 
@@ -268,7 +268,7 @@ Open shelving does not have to mean a board on a wall.
 
 For budget-friendly versions of these ideas, see our [small kitchen ideas on a budget](/blog/small-kitchen-ideas-on-a-budget/). If you are planning a bigger change, our [budget small kitchen remodel ideas](/blog/small-kitchen-remodel-ideas-on-a-budget/) show where open shelves fit in a full refresh.
 
-## Common Mistakes With Open Shelving in a Small Kitchen
+## Open Shelving Traps to Avoid in a Small Kitchen
 
 1. **Hanging a shelf above the stove.** Heat, steam and grease ruin what sits there, and you have to reach over burners to get to it. Keep that wall for a range hood.
 2. **Using the anchors in the box.** Many shelves ship with thin plastic anchors. They are fine for a picture, not for plates. Use studs or toggle bolts.

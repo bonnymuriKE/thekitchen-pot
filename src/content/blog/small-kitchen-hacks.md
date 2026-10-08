@@ -33,11 +33,15 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-The best small kitchen hacks do not add furniture. They use space you already have and ignore: the air over the sink, the back of a door, the side of the fridge.
+Never buy furniture to fix a cramped kitchen while the air over your sink sits empty. Every one of the small kitchen hacks below follows that rule.
 
-A good hack is cheap, quick and safe, and it makes a daily task easier. Below are the tricks we recommend, sorted by where they go in the kitchen, with the specific product that makes each one work.
+Space you already own is free. The back of a door, the side of the fridge and the gap beside it are doing nothing in most kitchens, and claiming them costs less than any cart or cabinet. A hack earns its place when it is cheap, quick and safe, and makes a daily task easier. Below are the tricks we recommend, sorted by where they go, with the specific product that makes each one work.
 
-**The short version:** Start with the spots you touch every day. Bridge the sink with a rack, cover the stove when it is off, add risers inside cabinets and hang mugs under a shelf. Use the backs of doors, the side of the fridge and the gap beside it. Keep heat-producing appliances out of cabinets and away from cart shelves, and check weight limits on anything that sticks on.
+**Quick answer:**
+
+- **Daily spots first:** bridge the sink with a rack, cover the stove when it is off, add risers inside cabinets and hang mugs under a shelf.
+- **Then the forgotten surfaces:** the backs of doors, the side of the fridge and the gap beside it.
+- **Two safety lines:** keep heat-producing appliances out of cabinets and off cart shelves, and check the weight limit on anything that sticks on.
 
 ## What Are the Best Small Kitchen Hacks?
 
@@ -231,9 +235,9 @@ Space you feel matters too. A few small kitchen tricks make the room read larger
 
 Our full guide on [how to make a small kitchen look bigger](/blog/make-a-small-kitchen-look-bigger/) covers paint, mirrors and open shelving.
 
-## Common Small Kitchen Hack Mistakes
+## Small Kitchen Habits to Drop
 
-Most failed hacks fail for the same few reasons.
+When a hack flops, one of these is nearly always the cause.
 
 - **Buying before measuring.** An organizer that is half an inch too wide is useless. Measure every shelf, drawer and door gap first.
 - **Running heat appliances in the wrong place.** Never use an air fryer, toaster oven or microwave inside a cabinet, on a lower cart shelf or right under an upper cabinet. Pull it out into open air every time.

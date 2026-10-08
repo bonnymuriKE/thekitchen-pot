@@ -33,15 +33,17 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-If you want to know how to organize Tupperware in a small kitchen, start by owning less of it. Most messy container cabinets hold too many shapes, not too few shelves.
+Most people blame the cabinet. Wrong culprit. To organize Tupperware in a small kitchen, cut the number of shapes, because round tubs and square boxes from five brands never nest on any shelf.
 
-Food storage containers pile up fast. Takeout tubs, a gift set, a few odd glass bowls and lids that fit nothing. Below is our plan to cut that pile down to one set that nests, choose a lid system and give it a home that stays tidy.
+Takeout tubs, a gift set, a few odd glass bowls and lids that fit nothing pile up fast. Below is how to cut that pile down to one set that nests, pick a lid system and give it a home that stays tidy.
 
-**The short version:** Pull every container out and keep only the ones with a matching lid. Replace the mixed pile with one set in two or three sizes that nest inside each other. Store the bases nested in a deep drawer or on a pull-out shelf, and file the lids upright beside them. Set a number, such as 10 containers for one person, and keep to it.
+**Quick answer:**
 
-## Why Your Food Storage Containers Keep Turning Into a Mess
+- Pull every container out and keep only the ones with a matching lid.
+- Replace the leftovers with one nesting set in two or three sizes, and set a cap, such as 10 containers for one person.
+- Nest the bases in a deep drawer or on a pull-out shelf, and file the lids upright right beside them.
 
-The problem is almost never the cabinet. It is the mix.
+## Mixed Shapes Are the Real Problem
 
 When every container is a different brand and shape, nothing nests. A round tub will not sit inside a square box. A tall soup tub will not fit under a short shelf. So you stack them in leaning towers, and the lids slide into the gaps.
 
@@ -274,7 +276,7 @@ Wash containers soon after you empty them. Dried tomato sauce stains plastic, an
 
 Clean containers that dry on the counter for hours eat up workspace. Dry and put them away the same day. For more ways to keep the counter clear, see our [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/).
 
-## Common Mistakes When Organizing Food Storage Containers
+## What Not to Do With Food Storage Containers
 
 - **Buying organizers before you cull.** You end up organizing clutter. Cull first, then measure, then buy.
 - **Keeping every size a set comes with.** If you never use the tiny 1/2-cup cups, give them away.

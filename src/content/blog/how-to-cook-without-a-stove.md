@@ -33,17 +33,15 @@ smallSpacePillar: cooking-for-one
 showTableOfContents: true
 source: decap
 ---
-Knowing how to cook without a stove matters more than people think. Broken ranges, kitchen remodels, dorm rooms and tiny studios leave a lot of us with no burner at all.
+Never trust one appliance to do a stove's whole job. That is rule one when you cook without a stove, whether the range died or the dorm never had one.
 
-The good news is that a few plug-in appliances can cook almost anything a stove can. Below is our map of which appliance cooks what, how to make pasta, rice and eggs with no burner, and how to run it all safely.
+A burner boils, simmers and fries. An oven roasts and bakes. No plug-in box does all five well, but two of them chosen with care will cover a normal week of meals. Below is which appliance cooks what, how to make pasta, rice and eggs with no burner, and how to run it all safely.
 
-**The short version:** For most people, the best way to cook without a stove is a portable induction burner plus a rice cooker, a small multi-cooker or an air fryer. A kettle and a microwave fill the gaps for quick meals. Keep every heat appliance on an open counter with air around it, plug only one into each circuit at a time, and never run one inside a cabinet. Check your lease or dorm rules before you buy a hot plate.
+**The short version:** Pair a portable induction burner with a rice cooker, a small multi-cooker or an air fryer. Let a kettle and a microwave handle the quick jobs. Every heat appliance lives on open counter with air around it, one per circuit, never inside a cabinet. Read your lease or dorm rules before buying anything that looks like a hot plate.
 
 ## How Can I Cook Without a Stove?
 
-You cook without a stove by splitting the stove's jobs across small appliances. A stove does three things: it boils, it simmers and it fries. An oven does two more: it roasts and it bakes.
-
-No single plug-in appliance does all five well. But two or three of them, chosen with care, cover everything most people cook in a normal week.
+Split the stove's jobs across small appliances. Give the boiling and searing to one, the slow, wet cooking to another, and the crisping to a third if you need it.
 
 If your kitchen still has a stove but only two working burners, you may not need all this. Our guide on [how to cook a full meal with only two burners](/blog/how-to-cook-a-full-meal-with-only-two-burners/) covers that case. This guide is for when the stove is gone, broken or banned.
 

@@ -34,11 +34,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-The best small kitchen table ideas start with a tape measure, not a store. Most tables that feel wrong are simply the wrong size for the floor around them.
+Measure the floor before you shop. A 30-inch table with a chair on each side needs far more room than it looks, and that gap is where most small kitchen table ideas go wrong.
 
-A table needs more room than its own footprint. Chairs slide back, people walk behind them, and the fridge door has to open. Get those numbers right, and even a tight galley or studio corner can hold a real place to eat.
+A table needs more room than its own footprint. Chairs slide back, people walk behind them, and the fridge door has to open. Most tables that feel wrong are simply the wrong size for the floor around them. Get those numbers right, and even a tight galley or studio corner can hold a real place to eat.
 
-**The short version:** A table for two should be 24 to 30 inches across, and a table for four should be 36 to 44 inches round or about 30 by 48 inches. Leave 36 inches behind every chair, or more if it sits in a walkway. Pick round for the middle of the room, square or rectangle for a wall or corner, and a drop-leaf or wall-mounted table if the space must do other jobs. A bench against the wall saves the most room of all.
+**Short answer:** Size comes first, shape second. Two people need a table 24 to 30 inches across. Four need a 36 to 44-inch round or a rectangle of about 30 by 48 inches. Every chair side needs 36 inches behind it, and more where people walk past. Round tables belong in the open, squares and rectangles belong against a wall or in a corner, and drop-leaf or wall-mounted tables suit a room that has other jobs to do. When the floor is tightest, a bench against the wall wins.
 
 ## Small Kitchen Table Ideas Start With Three Measurements
 
@@ -123,7 +123,7 @@ A drop-leaf table has hinged flaps, called leaves, that fold down against the ba
 
 This is the table we recommend most for small apartments. You get a narrow console against the wall on a normal day and a real dining table when people come over. A gateleg table is a type of drop-leaf with legs that swing out to hold each leaf. It is very stable, so it suits families.
 
-Our pick here is the [Livinia Wings Gate-Leg Drop Leaf Dining Table](https://www.amazon.com/Livinia-Wings-Gate-Leg-Drop-Leaf-Table/dp/B0BRP19JQW/?tag=kitchenpot-20). It is solid hardwood, folds to a narrow console and opens to seat two to four. It also hides six drawers in the base and arrives fully assembled, which matters when you are carrying it up three flights of stairs.
+The one we'd buy is the [Livinia Wings Gate-Leg Drop Leaf Dining Table](https://www.amazon.com/Livinia-Wings-Gate-Leg-Drop-Leaf-Table/dp/B0BRP19JQW/?tag=kitchenpot-20). It is solid hardwood, folds to a narrow console and opens to seat two to four. It also hides six drawers in the base and arrives fully assembled, which matters when you are carrying it up three flights of stairs.
 
 When you shop for one, check these points:
 
@@ -269,7 +269,7 @@ A small kitchen table is where you eat, but also where you prep, pay bills and w
 
 Right-sized dishes help too. [Dinnerware sets](/blog/7-best-dinnerware-sets/) with 10-inch plates leave more room on a 30-inch table than 12-inch plates do. The [Corelle Vitrelle 18-Piece Set](https://www.amazon.com/Corelle-Vitrelle-18-Piece-Winter-Frost-White/dp/B00R790CLY/?tag=kitchenpot-20) is our pick for small tables: the plates are thin and light, and a stack of six takes only a few inches of cabinet height. Keep only the [cookware sizes you use](/blog/best-cookware-sizes-for-cooking-for-one/), and a small countertop oven from our [toaster oven guide](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) can cook dinner for two without heating the whole room.
 
-## Common Mistakes With Small Kitchen Tables
+## Don't Make These Small Kitchen Table Mistakes
 
 - **Measuring only the table.** A 36-inch table needs about 9 feet of floor once you add chair space on two sides. Always plan the table plus 36 inches on each chair side.
 - **Blocking the work triangle.** A table that sits between the stove, sink and fridge forces you to walk around it while cooking. Keep the path between those three clear.

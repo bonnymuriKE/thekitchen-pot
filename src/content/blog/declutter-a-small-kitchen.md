@@ -33,11 +33,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-If you want to know how to declutter a kitchen, start with this truth: most small kitchens are not short on storage. They are holding too much stuff.
+Stop shopping for bins. Most small kitchens are not short on storage, they are holding too much, and the only way to declutter a kitchen like that is to take things out.
 
-No bin or shelf fixes that. Removing things does. Below is our cull-first process, zone by zone, with plain keep and toss rules for each category. Organizers come last, and only the few that still make sense once the extras are gone.
+An organizer just stores the overflow more neatly. Below is our cull-first process, zone by zone, with plain keep and toss rules for each category. Organizers come last, and only the few that still earn a place once the extras are gone.
 
-**The short version:** Clear the counters first so you have room to sort. Then work one zone at a time: utensils, cabinets, food containers, pantry, fridge, appliances and under the sink. Keep what you used in the last 12 months and have space for, and let the rest go. Live with the cleared kitchen for a week. Only then buy the few organizers that solve a problem you can still see.
+**Quick answer:** Clear the counters so you have somewhere to sort. Then take one zone per session, in this order: utensils, cabinets, food containers, pantry, fridge, appliances, under the sink. Anything you used in the past 12 months and have room for stays; the rest leaves the house. Give the emptier kitchen a week before you buy a single organizer, and then buy only for problems you can still see.
 
 ## Where Do I Start Decluttering My Kitchen?
 
@@ -296,7 +296,7 @@ Staying clear takes a few small habits.
 
 Plan meals around what is in the fridge, too. Our [easy meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) help use up food before it turns into clutter.
 
-## Common Decluttering Mistakes
+## Eight Things We Would Never Do When Decluttering
 
 - **Buying organizers first.** You end up storing clutter neatly instead of removing it.
 - **Doing the whole kitchen at once.** You run out of energy with everything on the floor. Go zone by zone.

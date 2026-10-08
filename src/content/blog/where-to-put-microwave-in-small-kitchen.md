@@ -32,11 +32,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Figuring out where to put the microwave in a small kitchen is harder than it sounds. It is bulky, it gets hot and it eats prime counter space.
+Not the fridge top. That is where most people put the microwave in a small kitchen, and it is the worst spot: too high, poorly vented and wobbly.
 
-You have more options than the counter: a cart, a shelf, a wall bracket, over the stove or a drawer. Below we rank all seven, explain the one spot to skip, and show you how to set it up safely.
+A microwave is bulky, it throws heat and it wants prime counter space. You have more choices than you think: a cart, a shelf, a wall bracket, over the stove or a drawer. Below we rank all seven and show how to set each one up safely.
 
-**The short version:** For most small kitchens, the best spot is a counter corner you cannot use well for prep anyway, followed closely by a sturdy rolling cart or an open shelf. Over-the-range and built-in models free the most space but need an installer and a dedicated circuit. Wherever it goes, follow the manual's clearance, never run it in a closed cabinet, and keep its bottom no higher than about shoulder height. Skip the top of the fridge.
+**What to do first:** Look for a counter corner you never prep on. That dead space is the best home for most microwaves, with a sturdy rolling cart or open shelf close behind. Over-the-range and built-in models save the most room but need an installer and their own circuit. Wherever it lands, give it the clearance in the manual, keep it out of closed cabinets and keep its bottom at or below shoulder height.
 
 ## Where Should a Microwave Go in a Small Kitchen?
 
@@ -91,7 +91,7 @@ The downside: it still takes counter space. With one short run of counter, read 
 
 ## Spot 2: Rolling Cart, Best When Counter Space Is Gone
 
-A sturdy cart is our pick when you have no counter to spare. It holds the microwave at about counter height and adds storage underneath.
+When you have no counter to spare, go with a sturdy cart. It holds the microwave at about counter height and adds storage underneath.
 
 Pick a cart with these features:
 
@@ -102,7 +102,7 @@ Pick a cart with these features:
 
 Park the cart beside an outlet and leave it there. Use the shelves below for plates, mugs and dry snacks.
 
-Our pick is the [HOMCOM Rolling Kitchen Island Cart with Drop Leaf](https://www.amazon.com/HOMCOM-Rolling-Kitchen-Island-Cart-Drop-Leaf/dp/B0713R15D7/?tag=kitchenpot-20). The microwave sits on its open wood top, the wheels lock, and the drop leaf folds up to give you a landing spot right beside the door. Its two drawers and two cabinets hold plates and snacks. If you want more drawers, the [Giantex Kitchen Island Cart with Drop-Leaf Tabletop](https://www.amazon.com/Giantex-Kitchen-Island-Cart-Drop-Leaf/dp/B07ZKL9PYL/?tag=kitchenpot-20) has three drawers, a large cabinet and a side towel rack. With either cart, confirm the top's weight rating covers your microwave before you load it.
+The one to get is the [HOMCOM Rolling Kitchen Island Cart with Drop Leaf](https://www.amazon.com/HOMCOM-Rolling-Kitchen-Island-Cart-Drop-Leaf/dp/B0713R15D7/?tag=kitchenpot-20). The microwave sits on its open wood top, the wheels lock, and the drop leaf folds up to give you a landing spot right beside the door. Its two drawers and two cabinets hold plates and snacks. If you want more drawers, the [Giantex Kitchen Island Cart with Drop-Leaf Tabletop](https://www.amazon.com/Giantex-Kitchen-Island-Cart-Drop-Leaf/dp/B07ZKL9PYL/?tag=kitchenpot-20) has three drawers, a large cabinet and a side towel rack. With either cart, confirm the top's weight rating covers your microwave before you load it.
 
 Carts need floor space, so keep the main walkway at 42 inches for one cook. Our [small kitchen island ideas](/blog/small-kitchen-island-ideas/) explain how much floor a cart really needs, and our [small kitchen storage ideas](/blog/small-kitchen-storage-ideas/) show other ways to use the space underneath.
 
@@ -284,9 +284,9 @@ Our guide to the [best small ovens and toaster ovens for baking in small kitchen
 
 Whatever you use, reheat leftovers to 165°F. Stir halfway through in a microwave, since they heat unevenly and leave cold spots.
 
-## Common Mistakes When Placing a Microwave
+## Placement Mistakes That Waste the Most Space
 
-The mistakes we see most:
+Each of these costs you counter, airflow or a safe reach:
 
 - **Microwave on top of the fridge.** Too high, poorly vented and shaky. Move it.
 - **Pushing it flat against the wall.** The back vents need air. Pull it forward to the clearance in the manual.

@@ -32,11 +32,15 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-These small kitchen storage ideas work zone by zone, so you can fix the spots you waste without adding a single cabinet.
+Look up. In most cramped kitchens, the wasted space sits above the plate stacks, behind the doors and on bare walls. Our small kitchen storage ideas go after those spots first.
 
-Most small kitchens are not short on space. They are short on space in use. Below are more than 50 ideas, grouped by zone, with links to our deeper guides when you want the full method.
+You do not need another cabinet. You need to put the space you already have to work. Below are more than 50 ideas, grouped by zone, with links to our deeper guides when you want the full method.
 
-**The short version:** Declutter first, then work zone by zone. Add risers and bins inside cabinets, racks on the doors and one rail on the wall. Use the side of the fridge, the space under the sink and the gap beside the fridge for slim storage. Put rarely used items above the cabinets, and keep food in square containers in one spot.
+**In a hurry?**
+
+- Declutter first, then fix one zone at a time: risers and bins inside cabinets, racks on the doors, one rail on the wall.
+- Claim the spots most people ignore, like the side of the fridge, the space under the sink and the gap beside the fridge.
+- Send rarely used items above the cabinets, and keep food in square containers in one place.
 
 ## How Do I Get More Storage in a Small Kitchen?
 
@@ -282,7 +286,7 @@ Use the fridge well, too. Keep it at 40°F or below and eat leftovers within 3 t
 
 ## What Are the Best Storage Solutions for a Tiny Kitchen?
 
-The best storage solutions for a tiny kitchen are cheap, flexible and need no drilling. If we had $100 to spend on a studio kitchen, here is how we would split it.
+The best storage solutions for a tiny kitchen are cheap, flexible and need no drilling. Give us $100 for a studio kitchen and this is the split.
 
 | Solution | What it frees | Rough cost | Renter-friendly? |
 |---|---|---|---|
@@ -350,7 +354,7 @@ Here is how we would set up a typical small galley kitchen with eight cabinets a
 
 Only the coffee maker, the knife strip and a tray of oil and salt stay on the counter.
 
-## Common Small Kitchen Storage Mistakes
+## Where Most People Go Wrong With Small Kitchen Storage
 
 - **Buying organizers before decluttering.** Cut first, then buy what fills a real gap.
 - **Storing by category instead of use.** Your favorite pan belongs by the stove, not with the other pans in the far corner.

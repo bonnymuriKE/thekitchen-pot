@@ -32,11 +32,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Knowing how to organize under the kitchen sink turns the most awkward cabinet in the house into useful storage. Pipes, a disposal and dampness make it tricky.
+The cabinet under your sink is wet, dark and full of pipes, and that is exactly why it ends up as a dumping ground. To organize under the kitchen sink, you work around the plumbing, not against it.
 
-Most under-sink cabinets fail for the same reasons. Bottles get shoved in around the drain, trash bags slide behind the pipes, and a slow drip goes unnoticed for months. Below is the plan we recommend, from measuring around the plumbing to choosing organizers that fit, storing cleaners safely and catching leaks early.
+A slow drip can also go unnoticed down there for months. Below is the plan, from measuring around the plumbing to choosing organizers that fit, storing cleaners safely and catching leaks early.
 
-**The short version:** Empty the cabinet, check for drips and lay down a waterproof mat first. Then measure each open zone around the pipes and garbage disposal, and fill each zone with one organizer that fits it. Hang spray bottles on a tension rod, put flat items on the door and give trash its own pull-out if there is room. Keep chemicals locked or up high if children visit, and never store bleach next to ammonia.
+**Bottom line:** Treat the cabinet as a set of separate zones, not one box. Check for drips and lay a waterproof mat before anything goes back in. Then give each gap around the pipes and disposal its own organizer: sprays on a tension rod, flat items on the door, trash on a pull-out if it fits. If children visit, chemicals go behind a lock or up high, and bleach never sits beside ammonia.
 
 ## How to Organize Under the Kitchen Sink in 7 Steps
 
@@ -318,9 +318,9 @@ In a narrow galley, the sink cabinet is often the only base cabinet near the cle
 
 If you are replacing the sink itself, a single-bowl model often leaves more room below than a double bowl. Our guides to the [best white undermount kitchen sink](/blog/best-white-undermount-kitchen-sink/) and [what gauge stainless steel sink is best](/blog/what-gauge-stainless-steel-sink-is-best/) can help you choose.
 
-## Common Mistakes When Organizing Under the Sink
+## Under-Sink Habits to Drop
 
-These are the mistakes we see most often. Each one either wastes space or causes damage.
+Each of these either wastes space or quietly damages the cabinet.
 
 - **Buying organizers before measuring.** A drawer that fits the cabinet width but not the pipe gap is useless. Measure each zone first.
 - **Blocking the shut-off valves.** In a leak, every second counts. Keep a clear path to both valves.

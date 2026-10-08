@@ -33,11 +33,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Picking the right small kitchen layout ideas comes down to inches. A few inches of aisle or landing space decide whether a tiny kitchen feels easy or cramped.
+Why does a galley with plenty of cabinets still feel cramped? Usually a few inches of aisle or landing space are missing, not square footage, and the small kitchen layout ideas here are built around finding them.
 
-This guide compares the four layouts that work in small rooms: one-wall, galley, L-shape and U-shape. We give you the clearance numbers, the landing space rules and who each layout suits, so you can plan your kitchen or rearrange the one you rent.
+We compare the four layouts that work in small rooms: one-wall, galley, L-shape and U-shape. You get the clearance numbers, the landing space rules and who each layout suits, so you can plan a kitchen from scratch or rearrange the one you rent.
 
-**The short version:** An L-shape is the best all-round layout for most small kitchens. A galley packs the most counter into a long, narrow room. A one-wall layout is the only real choice in most studios. A U-shape works only if the room is at least about 8 feet wide. Whatever you pick, keep the aisle at 42 inches, give every appliance a landing spot, and keep the sink, stove and fridge within a few steps of each other.
+**What to do first:** Measure wall to wall, then let the room choose. Studios almost always end up one-wall. A long, narrow room takes a galley, which packs the most counter into the least floor. A near-square corner suits an L-shape, the best all-rounder for most small kitchens. Save the U-shape for rooms at least about 8 feet wide. Whichever you land on, hold three lines: a 42-inch aisle, a landing spot beside every appliance, and the sink, stove and fridge a few steps apart.
 
 ## The Four Small Kitchen Layouts Compared
 

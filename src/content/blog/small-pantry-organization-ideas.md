@@ -33,11 +33,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-These small pantry organization ideas are for anyone with a pantry that fills up too fast. A reach-in closet or one tall cabinet can hold far more than you think.
+Picture two identical reach-in pantries. In one, three forgotten cans of tomatoes hide behind the cereal. In the other, every can faces front. Small pantry organization ideas, not extra shelves, made that difference.
 
-The trouble is rarely the size. It is food stacked three deep, cans nobody can see and bags of flour slumping across a whole shelf. Fix the layout, and the same pantry holds more, wastes less food and stays tidy. Below is the full system we recommend, from measuring to a weekly routine.
+The tidy pantry is not bigger. Its food sits one row deep, the flour lives in a canister instead of a slumped bag, and every shelf has a single job. Below is that system, from the tape measure to a 10-minute weekly reset.
 
-**The short version:** Empty the pantry, toss expired food and sort what is left into groups. Give every shelf one job based on height: daily food at eye level, heavy things low, backstock up high. Fix deep shelves with pull-out bins and wire shelves with liners. Put small items on the door, decant only the bagged dry goods you use often, and label every bin and shelf.
+**The quick fix:** Pull everything out, bin the expired food and group the rest. Assign shelves by height, with daily food at eye level, heavy items low and backstock up top. Put pull-out bins on deep shelves and liners on wire ones. Move small packets to the door, decant only the bagged staples you open often, and label every bin.
 
 ## How to Organize a Small Pantry: Measure Before You Buy Anything
 
@@ -257,7 +257,7 @@ Baking sheets fit here too. Stand them on edge in a file-style rack on a low she
 
 ## Common Small Pantry Organization Mistakes
 
-These are the mistakes we see most often in small pantries.
+Each of these can undo a pantry that looked great on day one.
 
 - **Buying bins before measuring.** Bins that do not fit the shelf waste the space you were trying to save.
 - **Daily food on the top shelf.** If you need a step stool for your coffee, the zones are wrong.

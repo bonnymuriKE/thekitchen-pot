@@ -32,11 +32,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Learning how to organize a small fridge is mostly about giving each shelf one job. Do that, and a tiny fridge holds a full week of food.
+A cramped fridge costs you twice: the duplicate jar bought because the first was hidden, and the leftovers found on day six. The fix when you organize a small fridge is one job per shelf.
 
-Most small fridges fail the same way. Raw meat sits above the salad, and leftovers hide behind the mustard. Below is the layout we recommend for apartment-size fridges, narrow fridges and mini fridges, plus how to set up the freezer so you can find things.
+Do that, and a tiny fridge holds a full week of food. Most small fridges fail the same way. Raw meat sits above the salad, and leftovers hide behind the mustard. Below is the layout we recommend for apartment-size fridges, narrow fridges and mini fridges, plus how to set up the freezer so you can find things.
 
-**The short version:** Keep the fridge at 40°F or below and the freezer at 0°F. Put ready-to-eat food on top, dairy and eggs in the middle, and raw meat in a tray on the bottom shelf. Use the door for condiments and juice, never milk or eggs. Freeze food flat, label everything with a date, and spend 10 minutes each week clearing out old food before you shop.
+**The quick fix:** Set the fridge to 40°F or below and the freezer to 0°F. Stack by how much cooking a food needs: ready-to-eat on top, dairy and eggs in the middle, raw meat in a tray on the bottom shelf. The door gets condiments and juice, never milk or eggs. Freeze food flat, date every label, and take 10 minutes before each weekly shop to clear out what is past it.
 
 ## How to Organize a Small Fridge: Start With a Clean Slate
 
@@ -191,7 +191,7 @@ Flat-freezing is the single best trick for a small freezer. Here is how to do it
 
 The same [Nordic Ware Natural Aluminum Quarter Sheet](https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Quarter-Sheet/dp/B000RYPHRK/?tag=kitchenpot-20) you use for raw meat is the right size for this job, since it fits in most small freezers. For soup and stock, the [Souper Cubes 1-Cup Freezer Tray](https://www.amazon.com/Souper-Cubes-1-Cup-Freezer-Tray-Lid/dp/B07GSSR5V2/?tag=kitchenpot-20) freezes 4 one-cup blocks with a rigid rim and a lid. Pop the blocks out and bag them, and they stack like bricks.
 
-A flat bag about half an inch thick freezes fast and thaws fast. It also stacks or stands in a narrow gap that a round tub could never use. To push out even more air, a vacuum sealer works well. The [FoodSaver VS2150](https://www.amazon.com/FoodSaver-VS2150/dp/B099NTSWD9/?tag=kitchenpot-20) is a solid budget sealer. For lots of bulk meat, the [Anova Precision Vacuum Sealer Pro](https://www.amazon.com/Anova-Precision-Vacuum-Sealer-Pro/dp/B08F8SMSC4/?tag=kitchenpot-20) is worth the extra money. It has a built-in bag cutter, roll storage and a moist mode for wet foods. Our guide on [how to use a vacuum sealer](/blog/how-to-use-a-vacuum-sealer/) shows the basics, and it helps stop freezer burn.
+A flat bag about half an inch thick freezes fast and thaws fast. It also stacks or stands in a narrow gap that a round tub could never use. To push out even more air, a vacuum sealer works well. The [FoodSaver VS2150](https://www.amazon.com/FoodSaver-VS2150/dp/B099NTSWD9/?tag=kitchenpot-20) is a solid budget sealer. For lots of bulk meat, the [Anova Precision Vacuum Sealer Pro](https://www.amazon.com/Anova-Precision-Vacuum-Sealer-Pro/dp/B08F8SMSC4/?tag=kitchenpot-20) is the upgrade to make. It has a built-in bag cutter, roll storage and a moist mode for wet foods. Our guide on [how to use a vacuum sealer](/blog/how-to-use-a-vacuum-sealer/) shows the basics, and it helps stop freezer burn.
 
 ### Label Everything
 
@@ -301,7 +301,7 @@ These habits also cut your power bill. Our guides on [how to reduce kitchen ener
 
 The top of a fridge is not storage either. A fridge covered in cereal boxes looks cluttered and can trap heat. Clear it, as we show in [how to make a small kitchen look bigger](/blog/make-a-small-kitchen-look-bigger/). If you need the space, our [countertop organization ideas](/blog/countertop-organization-ideas-for-a-small-kitchen/) and tips to [make more counter space in a small kitchen](/blog/make-more-counter-space-in-a-small-kitchen/) offer better homes for that stuff.
 
-## Common Small Fridge Organization Mistakes
+## Mistakes That Waste the Most Fridge Space
 
 - **Raw meat on a high shelf.** One leaky package can spoil the whole fridge. Keep it low, in a tray or sealed container, in every fridge.
 - **Milk in the door.** It spoils days early. Move it to the back of a shelf.

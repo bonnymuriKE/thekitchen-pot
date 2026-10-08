@@ -33,11 +33,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Knowing what to put on top of kitchen cabinets turns a dusty strip of dead space into real storage. In a small kitchen, that strip may be the biggest empty shelf you have.
+Most advice on what to put on top of kitchen cabinets is decor: faux ivy and silk flowers. In a small kitchen, that wastes what may be your biggest empty shelf.
 
-Most people either leave it bare or fill it with fake plants that turn sticky. We think it should hold the things you use a few times a year, packed so they stay clean. Below is our full plan for the cabinet tops and the space above the fridge.
+Fake greenery traps grease you cannot wash off, and open displays gather dust you never see from the floor. That strip should hold the things you use a few times a year, packed so they stay clean. Below is our full plan for the cabinet tops and the space above the fridge.
 
-**The short version:** Use the tops of your cabinets for light, non-food items you need a few times a year, like holiday platters, a roasting pan and party supplies. Pack them in lidded bins or baskets with handles, and line the tops with washable mats. Keep everything off the cabinets over and beside the stove, because heat and grease rise there. Above the fridge, use pull-forward bins for trays and spare paper goods.
+**In a hurry?** Store light, non-food things you need a few times a year up there: holiday platters, the roasting pan, party supplies. Put them in lidded bins or handled baskets on washable liner mats. Leave the tops over and beside the stove empty, since heat and grease rise there. Above the fridge, pull-forward bins hold trays and spare paper goods.
 
 ## What to Put on Top of Kitchen Cabinets: Our Short List
 
@@ -291,9 +291,9 @@ Daily spices, oils, snacks and coffee gear need easy reach, not the cabinet tops
 
 For more places to tuck things in, see our [small kitchen storage ideas](/blog/small-kitchen-storage-ideas/) and [small pantry organization ideas](/blog/small-pantry-organization-ideas/). If your counters are the problem, start with [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/).
 
-## Common Mistakes With the Top of Kitchen Cabinets
+## Traps to Avoid on Top of Kitchen Cabinets
 
-These are the mistakes we see most often in small kitchens.
+The first one on this list is a safety issue, not a style choice.
 
 - **Storing anything above the stove.** This is the big one. Heat and grease rise straight up, and baskets, paper and plastic are fuel. Leave the cabinet tops over and beside the range hood empty.
 - **Putting food up there.** The top of the cabinets is the warmest spot in the room. Oils turn rancid, spices fade and cans get forgotten.

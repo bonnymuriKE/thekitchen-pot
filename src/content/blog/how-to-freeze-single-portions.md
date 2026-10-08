@@ -33,11 +33,15 @@ smallSpacePillar: cooking-for-one
 showTableOfContents: true
 source: decap
 ---
-Learning how to freeze single portions is the fastest way to stop eating the same pot of chili five nights in a row, or throwing half of it away.
+Chili for the fifth night running. A frosted tub with no label. A brick of soup that needs all day to thaw. All three go away once you freeze single portions the right way.
 
-When you cook for one, a full batch is still the smartest way to cook. The trick is what happens after dinner. Below is our full method. It covers cooling, containers, fitting it all in a tiny freezer and getting a good meal back out.
+A full batch is still the smartest way to cook for one. What matters is the hour after dinner. Below is our full method: cooling, containers, fitting it all in a tiny freezer and getting a good meal back out.
 
-**The short version:** Cool cooked food fast and get it into the fridge within 2 hours. Divide it into one-meal amounts, freeze it flat or in pre-sized blocks, and label every portion with the name and date. Keep your freezer at 0°F and eat most cooked leftovers within 2 to 3 months. Thaw in the fridge and reheat to 165°F.
+**In a hurry?**
+
+- Get cooked food cool and into the fridge within 2 hours, then split it into one-meal amounts.
+- Freeze soups and grains flat or in pre-sized blocks, and write the name and date on every one.
+- Hold the freezer at 0°F, eat cooked leftovers within 2 to 3 months, thaw in the fridge and reheat to 165°F.
 
 ## What Is the Best Way to Freeze Single Portions?
 
@@ -107,7 +111,7 @@ If you prefer light plastic, the [Rubbermaid Brilliance 14-Piece Set](https://ww
 
 A vacuum sealer pulls almost all the air out of a bag before sealing it. That makes it the strongest defense against freezer burn, especially for raw meat and fish you want to keep longer.
 
-The [FoodSaver VS2150](https://www.amazon.com/FoodSaver-VS2150/dp/B099NTSWD9/?tag=kitchenpot-20) is a solid everyday machine for portioning meat and leftovers. If your counter is already full, the compact [FoodSaver PowerVac VS0150](https://www.amazon.com/FoodSaver-PowerVac-VS0150/dp/B08BF3GB5Q/?tag=kitchenpot-20) stores upright in a cabinet. If you also cook sous vide or seal often, the [Anova Precision Vacuum Sealer Pro](https://www.amazon.com/Anova-Precision-Vacuum-Sealer-Pro/dp/B08F8SMSC4/?tag=kitchenpot-20) is worth the extra money. It has a built-in bag cutter, roll storage and a moist mode for wet foods.
+The [FoodSaver VS2150](https://www.amazon.com/FoodSaver-VS2150/dp/B099NTSWD9/?tag=kitchenpot-20) is a solid everyday machine for portioning meat and leftovers. If your counter is already full, the compact [FoodSaver PowerVac VS0150](https://www.amazon.com/FoodSaver-PowerVac-VS0150/dp/B08BF3GB5Q/?tag=kitchenpot-20) stores upright in a cabinet. If you also cook sous vide or seal often, the [Anova Precision Vacuum Sealer Pro](https://www.amazon.com/Anova-Precision-Vacuum-Sealer-Pro/dp/B08F8SMSC4/?tag=kitchenpot-20) is the one to buy. It has a built-in bag cutter, roll storage and a moist mode for wet foods.
 
 Freeze soups and stews solid in a tray or bag before vacuum sealing them. Otherwise the machine sucks liquid into the seal. Our guide on [how to use a vacuum sealer](/blog/how-to-use-a-vacuum-sealer/) covers the rest, and our review of the [best vacuum sealers](/blog/best-vacuum-sealer-for-sous-vide/) compares more machines.
 
@@ -308,7 +312,7 @@ Some quick reheating methods for one portion:
 
 Food thawed in the fridge can be refrozen without cooking, though it loses some quality. Food thawed in cold water or the microwave should be cooked before you freeze it again.
 
-## Common Mistakes When Freezing Single Portions
+## Common Mistakes With Frozen Portions
 
 - **Freezing food while it is still hot.** It warms everything around it and freezes slowly into big ice crystals. Chill it in the fridge first.
 - **Letting a big pot cool on the stove.** A full pot can sit in the danger zone for hours. Split it or use an ice bath, and get it in the fridge within 2 hours.

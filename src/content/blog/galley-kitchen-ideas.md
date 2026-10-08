@@ -33,13 +33,13 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Good galley kitchen ideas turn a narrow corridor into the most efficient kitchen in the house. Two counters face each other, and everything sits a step away.
+You pull the oven door open, it stops a hand's width from the opposite cabinet, and you step around the trash can with a hot tray. The galley kitchen ideas below start from that aisle.
 
-The trouble is that most galleys are set up badly. The aisle gets cluttered, one side does all the work, the light is poor and the room feels like a tunnel. This guide fixes each of those, wall by wall, with real measurements and a plan you can follow this weekend.
+A galley can be the most efficient kitchen in the house, because everything sits one step and a turn away. It goes wrong when the floor fills up, one side does all the work and a single ceiling light leaves both counters in shadow. We fix each of those, wall by wall, with real measurements.
 
-**The short version:** Aim for a 42-inch aisle and keep the floor completely clear. Make one side the hot side (stove and prep) and the other the wet side (sink and cleanup), or keep sink and stove together if you can. Store up the walls and to the ceiling, not on the counter or floor. Light both runs with under-cabinet strips, brighten the end wall, and use a rolling cart instead of an island unless the room is very wide.
+**Short answer:** Give yourself a 42-inch aisle and leave nothing on the floor. Assign the runs: stove and prep on one, sink and cleanup on the other, unless you can put both on the same side. Storage goes up the walls to the ceiling. Each run gets its own under-cabinet light, the end wall gets brightened, and a rolling cart stands in for an island.
 
-## What Makes a Galley Kitchen Different
+## The Galley's Strengths and Its Three Weak Spots
 
 A galley kitchen is two parallel counter runs with a walkway between them, named after the kitchen on a ship. There is no blind corner cabinet, and you reach almost anything with one step and a turn.
 
@@ -212,7 +212,7 @@ Lighting is where most galleys fail. A single ceiling fixture sits behind you, s
 
 Run LED strips under the upper cabinets on both runs, full length. Mount them toward the front edge of the cabinet bottom, so the light falls across the counter instead of glaring off the backsplash.
 
-For renters, the [Enbrighten 22-Inch Plug-In Linkable LED Under Cabinet Light](https://www.amazon.com/Enbrighten-22-Inch-Linkable-Plug-In-Under-Cabinet-Light/dp/B01MQXV843/?tag=kitchenpot-20) is our pick. It gives warm 3000K light, and several bars link together so a whole run works from one outlet. If you own and can hardwire, the [Kichler 4U Series 30-Inch LED Under Cabinet Light](https://www.amazon.com/Kichler-4U-Series-30-Inch-LED-Under-Cabinet-Light/dp/B01ETARS2O/?tag=kitchenpot-20) is only 1 inch tall, also 3000K, and dimmable.
+Renters should get the [Enbrighten 22-Inch Plug-In Linkable LED Under Cabinet Light](https://www.amazon.com/Enbrighten-22-Inch-Linkable-Plug-In-Under-Cabinet-Light/dp/B01MQXV843/?tag=kitchenpot-20). It gives warm 3000K light, and several bars link together so a whole run works from one outlet. If you own and can hardwire, the [Kichler 4U Series 30-Inch LED Under Cabinet Light](https://www.amazon.com/Kichler-4U-Series-30-Inch-LED-Under-Cabinet-Light/dp/B01ETARS2O/?tag=kitchenpot-20) is only 1 inch tall, also 3000K, and dimmable.
 
 If one side has no upper cabinets, mount a slim LED bar under a shelf, or use a plug-in wall light aimed at the counter.
 
@@ -304,9 +304,9 @@ Here is the order we would follow, start to finish.
 
 Bare counters and a clear floor also leave pests nothing to find. See [how to keep pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/). Then stock only what fits, using [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 
-## Common Galley Kitchen Mistakes
+## What Not to Do in a Galley Kitchen
 
-These are the mistakes we see most often in narrow kitchens.
+Every one of these shrinks a narrow room faster than any storage buy can win it back.
 
 - **Parking things in the aisle.** A trash can or cart in the middle of the floor blocks the whole kitchen. Keep the aisle empty from end to end.
 - **Clutter and rails on both walls.** Two busy walls make the room feel half its width. Keep one side calm.

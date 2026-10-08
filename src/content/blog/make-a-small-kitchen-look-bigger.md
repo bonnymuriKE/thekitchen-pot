@@ -31,11 +31,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Learning how to make a small kitchen look bigger is mostly about light, color and clutter. You cannot move the walls, but you can change what the eye sees.
+A cramped kitchen costs more than looks. You cook less, order takeout more and leave groceries on the floor. Make a small kitchen look bigger and most of that goes away.
 
-Most small kitchens feel cramped for the same few reasons: dark corners, busy counters, heavy cabinets and too many colors fighting each other. Fix those, and the same square footage feels open. Below are the 15 tricks we recommend, in the order we would do them.
+You cannot move the walls, but you can change what the eye sees. Dark corners, busy counters, heavy cabinets and five competing colors do most of the damage. Below are the 15 tricks we recommend, in the order we would tackle them.
 
-**The short version:** Clear the counters first, because that alone changes the room. Then go light and consistent on color, and add under-cabinet lighting so no corner sits in shadow. Swap busy hardware, window treatments and rugs for slim, simple ones. Finally, right-size your appliances and set up work zones so the kitchen works as well as it looks.
+**Short answer:** Clearing the counters changes the room more than any purchase. After that, settle on one light color family and put LED strips under the upper cabinets. Swap fussy hardware, curtains and rugs for slim, plain ones. Last, shrink oversized appliances and set up work zones so the room works as well as it looks.
 
 ## How to Make a Small Kitchen Look Bigger: The Three Rules
 
@@ -169,7 +169,7 @@ Small kitchens are short on floor space, not height.
 
 ### Trick 10: Take Storage Vertical
 
-Using the wall frees the counter, and a clear counter makes the room look bigger. A [magnetic knife strip](/blog/best-magnetic-knife-strip/) replaces a bulky knife block. A rail with S-hooks holds spatulas and ladles. The [Fasthomegoods stainless wall rail with 10 S-hooks](https://www.amazon.com/Fasthomegoods-Stainless-Steel-Kitchen-Wall-Rail-S-Hooks/dp/B00X1N67QO/?tag=kitchenpot-20) is our pick for the backsplash wall. It screws into the wall, so patch the holes when you move out. A slim shelf above the sink holds dish soap and a plant.
+Using the wall frees the counter, and a clear counter makes the room look bigger. A [magnetic knife strip](/blog/best-magnetic-knife-strip/) replaces a bulky knife block. A rail with S-hooks holds spatulas and ladles. The [Fasthomegoods stainless wall rail with 10 S-hooks](https://www.amazon.com/Fasthomegoods-Stainless-Steel-Kitchen-Wall-Rail-S-Hooks/dp/B00X1N67QO/?tag=kitchenpot-20) is the one we would hang on the backsplash wall. It screws into the wall, so patch the holes when you move out. A slim shelf above the sink holds dish soap and a plant.
 
 Use one material and finish for all of it, such as matte black or brushed steel. Our [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) walk through every option, from pegboards to over-door racks.
 
@@ -310,7 +310,9 @@ Take a second photo from the same spot, then live with it for a week before buyi
 | Paint cabinets | Owners only | 2 to 3 days | Medium |
 | Counter-depth or 24-inch appliances | Owners only | Varies | High |
 
-## Common Mistakes That Make a Small Kitchen Look Smaller
+## Habits to Drop If You Want a Bigger-Looking Kitchen
+
+Each of these quietly undoes the work above.
 
 - **Buying organizers before decluttering.** More bins just hold more stuff. Sort first, then buy only what fills a real gap.
 - **Filling every shelf.** Open shelves packed edge to edge look worse than closed cabinets. Leave space empty on purpose.

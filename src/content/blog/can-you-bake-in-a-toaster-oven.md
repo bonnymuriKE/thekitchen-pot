@@ -33,11 +33,15 @@ smallSpacePillar: small-space-bakeware
 showTableOfContents: true
 source: decap
 ---
-Can you bake in a toaster oven? Yes. Cookies, muffins, small cakes and even bread all bake well in one.
+The timer still says eight minutes, but your first try to bake in a toaster oven already smells of scorched sugar. You open the door: cookies black underneath, raw in the middle.
 
-But a toaster oven is not a shrunken wall oven. The heat sits closer to the food, the temperature swings more, and big pans do not fit. Below is how to get good results, with the pan sizes, rack rules and temperature fixes that make the difference.
+That batch does not mean the little oven cannot bake. It can, and cookies, muffins, small cakes and even bread come out well. The heat just sits closer to the food, the temperature swings more and big pans do not fit. Below are the pan sizes, rack rules and temperature fixes that change the result.
 
-**The short version:** Yes, you can bake in a toaster oven. Use small pans that leave about an inch of air on every side. Bake on the middle or lower rack, at least 2 inches below the top element. Check the real temperature with an oven thermometer, lower it by 25°F if your oven has a convection fan, and start checking for doneness at about two-thirds of the recipe time. Only run it on an open counter with nothing above it.
+**Quick answer:**
+
+- Pick pans that leave about an inch of air on every side, and bake on the middle or lower rack, at least 2 inches below the top element.
+- Trust an oven thermometer over the dial, drop 25°F for convection, and check for doneness at two-thirds of the recipe time.
+- Run it only on open counter with nothing overhead.
 
 ## Can You Bake in a Toaster Oven?
 
@@ -255,7 +259,7 @@ For baking, size matters more than features. Our full roundup of [the best small
 
 **Bake and air fry in one.** The [NuWave Bravo Pro Smart Air Fryer Toaster Oven](https://www.amazon.com/Nuwave-Bravo-Smart-Oven-Cozy/dp/B0DCGGYKTK/?tag=kitchenpot-20) has a 21-quart cavity and adjusts from 50°F to 450°F. The strong convection fan bakes evenly, and the low range lets you proof dough. Our [NuWave oven vs air fryer comparison](/blog/nuwave-oven-vs-air-fryers/) explains where it fits.
 
-**Replaces a full oven.** If this will be your only oven, the [Breville Smart Oven Air Fryer Pro](https://www.amazon.com/Breville-BOV900BSS-Smart-Oven-Air-Fryer-Pro/dp/B01N5UPTZS/?tag=kitchenpot-20) is worth the extra money. It has a 1-cubic-foot interior that takes a 9-by-13 pan or a 13-inch pizza, plus a convection fan. That means quarter sheets, 8-inch square pans and full-size recipes. It is big, so measure your counter first.
+**Replaces a full oven.** If this will be your only oven, the [Breville Smart Oven Air Fryer Pro](https://www.amazon.com/Breville-BOV900BSS-Smart-Oven-Air-Fryer-Pro/dp/B01N5UPTZS/?tag=kitchenpot-20) is where we would spend more. It has a 1-cubic-foot interior that takes a 9-by-13 pan or a 13-inch pizza, plus a convection fan. That means quarter sheets, 8-inch square pans and full-size recipes. It is big, so measure your counter first.
 
 | Oven size | Typical fit | Best pans | Good for |
 |---|---|---|---|
@@ -265,7 +269,7 @@ For baking, size matters more than features. Our full roundup of [the best small
 
 Picking between a toaster oven and an air fryer? Our list of the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) compares both for solo cooks.
 
-## Common Toaster Oven Baking Mistakes
+## What Usually Goes Wrong in Toaster Oven Baking
 
 - **Using a pan that touches the walls.** No airflow means burnt edges and a raw middle. Leave about an inch on every side.
 - **Using dark or glass pans.** Dark pans over-brown bottoms in a small oven. Most glass bakeware is not rated for toaster ovens, so check the label before you use it.

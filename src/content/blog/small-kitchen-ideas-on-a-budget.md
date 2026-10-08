@@ -32,11 +32,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-A small kitchen feels cramped, cluttered and a little tired. A remodel is out of the question. These small kitchen ideas on a budget fix that for less than you think.
+Clear out first, then spend on light and hooks, not new cabinets. Most small kitchen ideas on a budget only pay off in that order, and the first step costs nothing.
 
-We sorted every upgrade by cost: free, under $25, under $100 and under $300. Each one tells you what it gains you, whether that is a shelf of storage, a foot of counter, or a kitchen that simply looks better.
+The surprise is where the bigger money should go. At the $300 end, paint and new hardware on the doors you already own change the room more than any organizer. Every upgrade below is sorted by cost: free, under $25, under $100 and under $300. Each one tells you what it gains, whether that is a shelf of storage, a foot of counter or a kitchen that simply looks better.
 
-**The short version:** Start with the free stuff: clear out what you do not use and move everyday items to the easy-to-reach spots. Then spend small money on shelf risers, hooks, drawer dividers and a magnetic knife strip. If you have about $100, add a slim rolling cart and LED under-cabinet lights. With $300, paint the cabinet doors and swap the hardware, which changes the whole look without a contractor.
+**If you only do one thing:** Pull out everything you have not used in a year, then put daily items between hip and shoulder height. It is free, and it frees more space than any $25 organizer. Spend money only after that, on whatever still feels tight.
 
 ## How Can I Improve My Small Kitchen on a Budget?
 
@@ -169,7 +169,7 @@ A rail is a metal bar with hooks and small baskets. Mount one along the backspla
 
 ### Matching Food Containers
 
-Clear, square containers stack tighter than bags and round jars, and they keep pests out. A set of four to six covers flour, rice, pasta and cereal. The [OXO Good Grips POP 10-Piece Container Set](https://www.amazon.com/OXO-Good-Grips-POP-10-Piece-Container-Set/dp/B07TBBL1C2/?tag=kitchenpot-20) is worth the extra money if you want one set that does it all. The push-button lids seal airtight, and the square shapes line up edge to edge on a shelf. See our [best airtight food storage containers](/blog/best-airtight-food-storage-containers/) and [how to keep pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/).
+Clear, square containers stack tighter than bags and round jars, and they keep pests out. A set of four to six covers flour, rice, pasta and cereal. The [OXO Good Grips POP 10-Piece Container Set](https://www.amazon.com/OXO-Good-Grips-POP-10-Piece-Container-Set/dp/B07TBBL1C2/?tag=kitchenpot-20) is the set to splurge on if you want one that does it all. The push-button lids seal airtight, and the square shapes line up edge to edge on a shelf. See our [best airtight food storage containers](/blog/best-airtight-food-storage-containers/) and [how to keep pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/).
 
 ## Under $300: Bigger Moves for Small Spaces on a Budget
 
@@ -221,7 +221,7 @@ Decor in a small kitchen should make the room feel bigger or be useful. Our rule
 
 ### Lighting Changes the Mood Most
 
-If you can only do one decorating project, do lighting. Swap a cold, blue ceiling bulb for a warm white LED. Our pick is the [Philips Ultra Definition 2700K LED A19 Bulb](https://www.amazon.com/Philips-Ultra-Definition-LED-A19-Bulbs-2700K-8-Pack/dp/B0B927WMTY/?tag=kitchenpot-20). It has a CRI of 90 or more, a score for how true colors look, so raw chicken and ripe tomatoes look the way they should. Add under-cabinet lights. A kitchen with warm, even light looks cleaner and more expensive than one with a single harsh bulb.
+If you can only do one decorating project, do lighting. Swap a cold, blue ceiling bulb for a warm white LED, such as the [Philips Ultra Definition 2700K LED A19 Bulb](https://www.amazon.com/Philips-Ultra-Definition-LED-A19-Bulbs-2700K-8-Pack/dp/B0B927WMTY/?tag=kitchenpot-20). It has a CRI of 90 or more, a score for how true colors look, so raw chicken and ripe tomatoes look the way they should. Add under-cabinet lights. A kitchen with warm, even light looks cleaner and more expensive than one with a single harsh bulb.
 
 LED bulbs also use far less power. More ways to cut your bills are in [how to reduce kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/).
 
@@ -312,7 +312,7 @@ Here is how we would spend $300 on a typical small rental kitchen, from first st
 
 That is about $300 for doubled shelves, a clear counter, better light and an updated look.
 
-## Common Mistakes on a Small Kitchen Budget
+## Don't Make These Budget Mistakes
 
 - **Buying organizers before decluttering.** You end up organizing things you should have thrown out. Purge first.
 - **Not measuring.** A bin that is 1 inch too deep will not let the cabinet door close. Measure width, depth and height before you buy anything.

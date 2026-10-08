@@ -32,13 +32,17 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-The best spice storage ideas for a small kitchen solve two problems at once. They save space, and they keep your spices tasting like something.
+Ground cumin holds its best flavor for about 6 to 12 months, and less in the warm cabinet over a stove. Spice storage ideas for a small kitchen have to beat that clock and save space at the same time.
 
-Most small kitchens get this wrong. Spices end up in a crowded cabinet above the stove, three rows deep, with duplicates hiding in the back. Below is where to put them instead, which organizer fits which kitchen, and how to cut your collection down to the jars you actually use.
+Most small kitchens lose on both counts: jars three rows deep above the range, with a second paprika hiding at the back. Below is where to put them instead, which organizer fits which kitchen, and how to cut the collection down to the jars you actually reach for.
 
-**The short version:** Keep spices cool, dark and dry, within a step or two of the stove but never above it. A shallow drawer with a tiered insert is the best spot if you can free one up. If not, use a rack on the inside of a cabinet door, magnetic tins on the side of the fridge, or tiered risers in a cabinet. Label the tops or the fronts so you can read every jar without moving another. Most cooks need about 12 to 20 spices, not 40.
+**What to do first:**
 
-## Why Spice Storage Matters More Than You Think
+- Take every jar out of the cabinet above the stove. Their new home sits one to three feet to the side, at counter height or below, somewhere cool, dark and dry.
+- Free a shallow drawer for a tiered insert if you can. No spare drawer? Use a door rack, magnetic tins on the fridge side or tiered risers on a shelf.
+- Cut down to the 12 to 20 spices you cook with, and put labels where you will read them without moving another jar.
+
+## What Heat, Light and Air Do to Spices
 
 Spices do not spoil the way milk does. They fade. The flavor lives in natural oils, and those oils break down with heat, light, air and moisture. A stale spice is not dangerous. It just makes food taste dull.
 
@@ -58,7 +62,7 @@ Before you organize anything, know what you are protecting. Ground spices have f
 
 Our rule of thumb is the rub test. Shake a pinch into your palm and rub it with a finger. If the smell jumps out, it is fine. If you have to search for it, replace it.
 
-Buy whole spices for anything you use often and can grind, such as pepper, cumin and nutmeg. A [good salt and pepper grinder](/blog/best-salt-and-pepper-grinders/) keeps pepper fresh for years. Our pick is the [Cole & Mason Derwent Pepper Mill](https://www.amazon.com/Cole-and-Mason-Derwent-Pepper-Mill/dp/B003OICYZO/?tag=kitchenpot-20), which lets you set the grind from fine to coarse. For cumin, coriander and other whole seeds, the [FinaMill USB Rechargeable Spice Grinder](https://www.amazon.com/FinaMill-USB-Rechargeable-Spice-Grinder/dp/B0CJLRXM7Z/?tag=kitchenpot-20) takes swappable pods, so one slim grinder handles several spices without mixing flavors.
+Buy whole spices for anything you use often and can grind, such as pepper, cumin and nutmeg. A [good salt and pepper grinder](/blog/best-salt-and-pepper-grinders/) keeps pepper fresh for years. For pepper, buy the [Cole & Mason Derwent Pepper Mill](https://www.amazon.com/Cole-and-Mason-Derwent-Pepper-Mill/dp/B003OICYZO/?tag=kitchenpot-20). It lets you set the grind from fine to coarse. For cumin, coriander and other whole seeds, the [FinaMill USB Rechargeable Spice Grinder](https://www.amazon.com/FinaMill-USB-Rechargeable-Spice-Grinder/dp/B0CJLRXM7Z/?tag=kitchenpot-20) takes swappable pods, so one slim grinder handles several spices without mixing flavors.
 
 ## Where Should You Store Spices in a Small Kitchen?
 
@@ -138,7 +142,7 @@ Choose a door beside the prep counter. Skip the cabinet under the sink, which is
 
 Magnetic spice tins are small round tins with magnets on the back. They stick to the side of the fridge, a steel backsplash panel or a metal strip on the wall. They take zero cabinet or counter space.
 
-Our pick is the [Talented Kitchen Magnetic Spice Tins, 12 Pack](https://www.amazon.com/Talented-Kitchen-Magnetic-Spice-Tins/dp/B01FY69CPS/?tag=kitchenpot-20). Each metal tin holds about 3 ounces, has a sift-and-pour lid, and the set comes with preprinted labels. If you would rather keep your current jars, the [Roysili Magnetic Spice Rack for Refrigerator](https://www.amazon.com/Roysili-Magnetic-Refrigerator-Organizer-Spice-Rack/dp/B07WZG66D1/?tag=kitchenpot-20) is a set of two small shelves that cling to the fridge side. Each holds up to 5 pounds, with no drilling.
+For tins, get the [Talented Kitchen Magnetic Spice Tins, 12 Pack](https://www.amazon.com/Talented-Kitchen-Magnetic-Spice-Tins/dp/B01FY69CPS/?tag=kitchenpot-20). Each metal tin holds about 3 ounces, has a sift-and-pour lid, and the set comes with preprinted labels. If you would rather keep your current jars, the [Roysili Magnetic Spice Rack for Refrigerator](https://www.amazon.com/Roysili-Magnetic-Refrigerator-Organizer-Spice-Rack/dp/B07WZG66D1/?tag=kitchenpot-20) is a set of two small shelves that cling to the fridge side. Each holds up to 5 pounds, with no drilling.
 
 ### Where to Put Them
 
@@ -178,7 +182,7 @@ If jars keep vanishing at the back of a deep upper shelf, a pull-down organizer 
 
 ### Pull-Out Racks
 
-A skinny gap between the fridge and the wall can become a spice pantry. Built-in pull-outs need a cabinet install, so we use the [3-Tier Slim Rolling Cart](https://www.amazon.com/3-Tier-Slim-Rolling-Cart/dp/B07QRH2PZS/?tag=kitchenpot-20) instead. It rolls into the gap and slides out when you cook. Keep it away from the oven side.
+A skinny gap between the fridge and the wall can become a spice pantry. Built-in pull-outs need a cabinet install, so a [3-Tier Slim Rolling Cart](https://www.amazon.com/3-Tier-Slim-Rolling-Cart/dp/B07QRH2PZS/?tag=kitchenpot-20) is the easier fix. It rolls into the gap and slides out when you cook. Keep it away from the oven side.
 
 ## Spice Racks for Counters and Walls
 
@@ -311,9 +315,9 @@ Our guide on [how to keep pests out of a small kitchen](/blog/how-to-keep-pests-
 
 Most dried spices do not need the fridge. Moving jars in and out creates condensation. The exceptions are red pepper spices like paprika, which hold color longer cold, and oily seeds like sesame and poppy. Keep those sealed on a door shelf. Our guide to [organizing a small fridge](/blog/organize-a-small-fridge/) shows where a few jars fit without crowding the food.
 
-## Common Spice Storage Mistakes
+## Spice Storage Traps to Avoid
 
-These are the mistakes we see most in small kitchens:
+Each of these quietly costs you flavor, money or a drawer:
 
 - **Storing spices above the stove.** Heat and steam fade flavor faster than anything else.
 - **Keeping spices on a sunny windowsill or open shelf.** Light bleaches color and flavor.

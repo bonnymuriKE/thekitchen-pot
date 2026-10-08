@@ -33,11 +33,11 @@ smallSpacePillar: cooking-for-one
 showTableOfContents: true
 source: decap
 ---
-Learning how to grocery shop for one person is mostly learning what not to buy. Most stores, packs and recipes are sized for families, so solo shoppers throw away food and money.
+Slimy spinach in the crisper. A family pack of chicken going gray. Moldy bread by Thursday. That is what happens when you grocery shop for one person in a store sized for four.
 
-The fix is a different system, not just a smaller cart. Below is our weekly list template, a budget framework that works without exact numbers, and the storage setup that keeps one person's food fresh in a small kitchen.
+Most packs and recipes are built for families, so solo shoppers throw away food and money every week. The fix is a different system, not a smaller cart. Below is our weekly list template, a budget framework that works without exact numbers, and the storage setup that keeps one person's food fresh in a small kitchen.
 
-**The short version:** Shop once a week with a list built around three dinners that share ingredients. Buy sturdy produce, lean on the freezer aisle, and buy fragile items in small amounts. Split and freeze meat and bread the day you get home. Set your budget from your own receipts, then cut whatever keeps landing in the trash.
+**If you only do one thing:** Plan three dinners that share ingredients before you leave the house, and shop for those alone. Everything else follows from it. Sturdy produce and the freezer aisle fill the gaps, fragile items come home in small amounts, and meat and bread get split and frozen the same day. After a month, read your receipts and stop buying whatever keeps landing in the trash.
 
 ## How to Grocery Shop for One Person: The Core Rules
 
@@ -230,7 +230,7 @@ For flat packs of meat, the [Stasher Silicone Reusable Sandwich Bag](https://www
 
 Flat bags are easy to lose in a small freezer. The [YouCopia FreezeUp Freezer Bin](https://www.amazon.com/YouCopia-FreezeUp-Freezer-Bin-Adjustable-Dividers/dp/B098FXJ5NS/?tag=kitchenpot-20) has six adjustable dividers that hold flat bags upright like files. You flip through them instead of digging.
 
-If you buy meat on sale or in bulk, a vacuum sealer is worth the extra money. It pulls the air out of the bag, which stops freezer burn, the dry gray patches that ruin texture. The [Anova Precision Vacuum Sealer Pro](https://www.amazon.com/Anova-Precision-Vacuum-Sealer-Pro/dp/B08F8SMSC4/?tag=kitchenpot-20) has a built-in bag cutter and roll storage, plus a moist mode for marinated meat. It is a full countertop size, so store it in a cabinet between uses. See [how to use a vacuum sealer](/blog/how-to-use-a-vacuum-sealer/) for the steps and [best vacuum sealer for sous vide](/blog/best-vacuum-sealer-for-sous-vide/) for more models.
+If you buy meat on sale or in bulk, a vacuum sealer pays for itself. It pulls the air out of the bag, which stops freezer burn, the dry gray patches that ruin texture. The [Anova Precision Vacuum Sealer Pro](https://www.amazon.com/Anova-Precision-Vacuum-Sealer-Pro/dp/B08F8SMSC4/?tag=kitchenpot-20) has a built-in bag cutter and roll storage, plus a moist mode for marinated meat. It is a full countertop size, so store it in a cabinet between uses. See [how to use a vacuum sealer](/blog/how-to-use-a-vacuum-sealer/) for the steps and [best vacuum sealer for sous vide](/blog/best-vacuum-sealer-for-sous-vide/) for more models.
 
 Label every bag with the date and what is inside. A freezer full of mystery bags is just a slower trash can.
 
@@ -293,7 +293,7 @@ Food you cannot see is food you forget, so set up the kitchen to help.
 
 For more ways to make room in a tiny kitchen, see our [small kitchen storage ideas](/blog/small-kitchen-storage-ideas/) and [studio apartment kitchen ideas](/blog/studio-apartment-kitchen-ideas/).
 
-## Common Grocery Mistakes When You Shop for One
+## Nine Things We Would Never Do When Shopping for One
 
 - **Planning seven dinners.** You will cook three or four. Plan three and let leftovers and the freezer fill the rest.
 - **Buying the family pack "because it is cheaper."** It is only cheaper if you split and freeze it the same day.

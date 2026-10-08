@@ -32,13 +32,13 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-These one wall kitchen ideas solve the problem every single-wall kitchen has: one short run of counter must hold the fridge, sink, stove and all your storage.
+A single wall is the most underrated kitchen layout there is. Most one wall kitchen ideas treat it as a compromise, but a well-planned run cooks as smoothly as a galley twice its size.
 
-The good news is that a one-wall kitchen can work very well. It comes down to three things: the order you put things in, how much counter sits between them, and how high you stack storage. Below is exactly how we would plan one.
+It does ask a lot of one short stretch: the fridge, sink, stove and every dish you own. Three choices decide whether it works: the order of the appliances, how much counter sits between them and how high you stack storage. Below is exactly how we would plan one.
 
-**The short version:** Put the fridge at one end, the sink in the middle and the stove near the other end, with counter between each. Aim for a run of 12 to 14 feet if you have the choice. Stack storage up to the ceiling and swap base cabinet doors for drawers. If you are short on prep space, add a rolling cart or an island, but only if the floor allows it.
+**If you only do one thing:** Line the appliances up fridge, sink, stove, with counter between each, and put the fridge at an end, never in the middle. Then go vertical: storage to the ceiling and drawers instead of base cabinet doors. Aim for 12 to 14 feet of run if you get a say, and add a rolling cart or island only when the floor allows it.
 
-## What a One-Wall Kitchen Layout Is and Why It Works
+## Where a One-Wall Kitchen Layout Wins and Where It Pinches
 
 A one-wall kitchen layout puts every cabinet, appliance and counter along a single wall. There is no corner and no second run of counter. You will find it in studios, lofts, basement apartments and open-plan homes where the kitchen faces the living room.
 
@@ -216,7 +216,7 @@ A one-wall kitchen usually sits in full view of the living area. Good design mak
 
 You stand with your back to the ceiling light, so your own shadow falls on the counter. Fix that with under-cabinet LED strips mounted toward the front edge, running the full length of the wall. Use 2700K to 3000K bulbs with a CRI of 90 or higher everywhere. CRI stands for color rendering index, and a high number keeps food looking true.
 
-For a renter with an outlet nearby, the [Enbrighten 22-Inch Plug-In Linkable LED Under Cabinet Light](https://www.amazon.com/Enbrighten-22-Inch-Linkable-Plug-In-Under-Cabinet-Light/dp/B01MQXV843/?tag=kitchenpot-20) is 3000K and links bar to bar from one plug. If you own and can hardwire, the [WAC Lighting 30-Inch 3-CCT LED Light Bar](https://www.amazon.com/WAC-Lighting-30-Inch-3-CCT-LED-Light-Bar/dp/B087CD4PXX/?tag=kitchenpot-20) is worth the extra money: 90 CRI, and you pick 2700K or 3000K at install. Our [small kitchen lighting ideas](/blog/small-kitchen-lighting-ideas/) cover every layer.
+For a renter with an outlet nearby, the [Enbrighten 22-Inch Plug-In Linkable LED Under Cabinet Light](https://www.amazon.com/Enbrighten-22-Inch-Linkable-Plug-In-Under-Cabinet-Light/dp/B01MQXV843/?tag=kitchenpot-20) is 3000K and links bar to bar from one plug. If you own and can hardwire, the [WAC Lighting 30-Inch 3-CCT LED Light Bar](https://www.amazon.com/WAC-Lighting-30-Inch-3-CCT-LED-Light-Bar/dp/B087CD4PXX/?tag=kitchenpot-20) earns its higher price: 90 CRI, and you pick 2700K or 3000K at install. Our [small kitchen lighting ideas](/blog/small-kitchen-lighting-ideas/) cover every layer.
 
 ### Keep the Color Calm
 
@@ -253,9 +253,9 @@ If you own and plan to sell, these changes give a one-wall kitchen the most appe
 
 If you are updating on a tight budget, our [small kitchen remodel ideas on a budget](/blog/small-kitchen-remodel-ideas-on-a-budget/) show where the money does the most good.
 
-## Common One-Wall Kitchen Mistakes
+## What Not to Do in a One-Wall Kitchen
 
-These are the mistakes we see most often in single-wall kitchens.
+Every one of these wastes counter you cannot get back on a single run.
 
 - **Fridge in the middle.** It splits the counter into two useless halves. Move it to an end.
 - **Stove against a side wall.** Pot handles need room, and the wall takes the heat and grease. Keep at least 15 inches of counter on one side, and some on both if you can.

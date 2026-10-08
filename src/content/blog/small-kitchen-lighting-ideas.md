@@ -33,11 +33,11 @@ smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
-Good small kitchen lighting ideas start with one fact: a single ceiling light is never enough. It lights the floor and leaves your counters in your own shadow.
+An 8-by-10-foot kitchen needs roughly 2,400 to 3,200 lumens. The lone ceiling bulb most rentals come with gives about 800, which is why small kitchen lighting so often feels dim.
 
-The fix is not more fixtures everywhere. It is the right light in three places, with the right bulbs. Below is our full plan, with the numbers you need and the plug-in options that work in a rental.
+Piling on fixtures is not the fix. The right light in three places, with matching bulbs, is. Below is the full plan, with the numbers and the plug-in options that work in a rental.
 
-**The short version:** Light a small kitchen in three layers: a flush ceiling fixture for general light, LED strips under the upper cabinets for the counters, and one small accent light. Aim for about 30 to 40 lumens per square foot overall and more on the counters. Use the same color temperature everywhere, 2700K to 3000K, with a CRI of 90 or higher. Renters can do almost all of this with plug-in and rechargeable lights.
+**The quick fix:** Put a flush ceiling fixture overhead, LED strips under the upper cabinets and one small accent light. Target 30 to 40 lumens per square foot, with extra on the counters. Keep every bulb at the same color temperature, 2700K to 3000K, and CRI 90 or higher. Renters can do nearly all of it with plug-in and rechargeable lights.
 
 ## What Is the Best Lighting for a Small Kitchen?
 
@@ -164,7 +164,7 @@ A diffused strip has a frosted cover that gives one smooth line of light. Bare L
 
 **Plug-in bars** are the right answer for most small kitchens and every rental. Our main pick is the [Enbrighten 22-Inch Plug-In Linkable LED Under Cabinet Light](https://www.amazon.com/Enbrighten-22-Inch-Linkable-Plug-In-Under-Cabinet-Light/dp/B01MQXV843/?tag=kitchenpot-20). It puts out 698 lumens at 3000K, about 380 lumens per foot, and links to more bars from one outlet. For a short stretch beside the stove, the budget [Enbrighten 10-Inch Plug-In LED Under Cabinet Light](https://www.amazon.com/Enbrighten-10-Inch-Plug-In-Under-Cabinet-Light/dp/B01MZ1QWP4/?tag=kitchenpot-20) gives 275 lumens at the same 3000K. If you want to dim the counter at night, step up to the [Enbrighten 18-Inch Dimmable Under Cabinet Light with 5 White Settings](https://www.amazon.com/Enbrighten-18-Inch-Plug-In-Under-Cabinet-Light-Dimmable/dp/B0DK46DHRD/?tag=kitchenpot-20). You choose anywhere from 2700K to 6500K, so it can match any ceiling bulb.
 
-**Hardwired bars** are for owners with a switched circuit or an electrician on the job. The [WAC Lighting 30-Inch 3-CCT LED Light Bar](https://www.amazon.com/WAC-Lighting-30-Inch-3-CCT-LED-Light-Bar/dp/B087CD4PXX/?tag=kitchenpot-20) is worth the extra money. It has a CRI of 90, gives 1,075 lumens and lets you set 2700K, 3000K or 3500K at install.
+**Hardwired bars** are for owners with a switched circuit or an electrician on the job. The [WAC Lighting 30-Inch 3-CCT LED Light Bar](https://www.amazon.com/WAC-Lighting-30-Inch-3-CCT-LED-Light-Bar/dp/B087CD4PXX/?tag=kitchenpot-20) is the one to spend more on. It has a CRI of 90, gives 1,075 lumens and lets you set 2700K, 3000K or 3500K at install.
 
 **LED tape** suits a custom job, like a long run or the top of the cabinets. Use [LEDupdates High CRI 95 LED Strip Light, 3000K](https://www.amazon.com/LEDupdates-12V-High-CRI-95-LED-Strip-Light-3000K/dp/B07VVMTQ5T/?tag=kitchenpot-20), which you cut to length. It needs a separate 12-volt power supply, and it belongs inside an aluminum channel with a frosted cover so you never see the dots.
 
@@ -299,7 +299,7 @@ Here is the order we would follow. Most renters can finish it in one afternoon.
 7. **Add one accent light.** A lamp on a shelf, a sconce at the end of a galley or a puck in a glass cabinet.
 8. **Check at night.** If you cast a shadow at any work spot, it needs more task light.
 
-## Common Small Kitchen Lighting Mistakes
+## Lighting Mistakes We See All the Time
 
 - **Relying on one ceiling light.** You work in your own shadow. Add under-cabinet light.
 - **Mixing color temperatures.** Warm ceiling light with cool strips looks patchy. Match every bulb.

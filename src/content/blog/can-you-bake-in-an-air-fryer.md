@@ -33,15 +33,19 @@ smallSpacePillar: small-space-bakeware
 showTableOfContents: true
 source: decap
 ---
-Can you bake in an air fryer? Yes. Cakes, cookies, muffins and even yeast bread all bake well in one, as long as you change the temperature and use a pan that fits.
+Heating a whole oven for four cookies. A toaster oven that scorches every top. A cake recipe sized for eight people. You can bake in an air fryer instead, and it fixes all three.
 
-That makes an air fryer a real option if your oven is tiny, broken or too big to heat for four cookies. Below is the conversion rule we follow, the pan sizes that fit each basket, and small-batch examples with real times.
+Cakes, cookies, muffins and even yeast bread come out well, as long as you lower the heat and use a pan that fits. Below is the conversion we follow, the pan sizes for each basket, and small-batch examples with real times.
 
-**The short version:** Lower the recipe's oven temperature by about 25°F and start checking at about three quarters of the time. Use a pan that leaves half an inch of air around it: a 6-inch round fits most 4-quart baskets. Bake small batches, cover the top with foil if it browns too fast, and never preheat with loose parchment in the basket.
+**Quick answer:**
 
-## Can You Bake in an Air Fryer?
+- Take about 25°F off the oven temperature and start checking at roughly three quarters of the bake time.
+- Pick a pan with half an inch of air all around it. A 6-inch round fits most 4-quart baskets.
+- Bake in small batches, tent the top with foil if it browns early, and never preheat with loose parchment in the basket.
 
-You can. An air fryer is a small countertop convection oven. Convection means a fan blows hot air around the food. In an air fryer, that fan sits very close to the food in a tight space, so it bakes fast and needs a few recipe changes.
+## What an Air Fryer Bakes Well (and What It Doesn't)
+
+An air fryer is a small countertop convection oven. Convection means a fan blows hot air around the food. In an air fryer, that fan sits very close to the food in a tight space, so it bakes fast and needs a few recipe changes.
 
 Here is what an air fryer bakes well:
 
@@ -111,7 +115,7 @@ Measure the flat floor of your basket, not the top rim, because most baskets tap
 
 For most 4-quart and 5-quart baskets, start with the [Universal Air Fryer Accessories 6-Inch Cake Barrel and Pizza Pan, 2-Piece Set](https://www.amazon.com/Universal-Air-Fryer-6-Inch-Cake-Barrel-Pizza-Pan/dp/B08NCLQN5F/?tag=kitchenpot-20). A cake barrel is a deep round pan with a handle, so you can lift it out of a hot basket. This budget set fits 3.2 to 5.8-quart air fryers.
 
-If you own a 5.8 or 6-quart basket, the [COSORI Air Fryer Accessories XL, Set of 6](https://www.amazon.com/COSORI-Air-Fryer-Accessories-XL-Set-of-6/dp/B08GT97F16/?tag=kitchenpot-20) is worth the extra money. It includes a cake pan, a pizza pan and a rack with skewers, all nonstick and dishwasher safe.
+If you own a 5.8 or 6-quart basket, spend a little more on the [COSORI Air Fryer Accessories XL, Set of 6](https://www.amazon.com/COSORI-Air-Fryer-Accessories-XL-Set-of-6/dp/B08GT97F16/?tag=kitchenpot-20). It includes a cake pan, a pizza pan and a rack with skewers, all nonstick and dishwasher safe.
 
 For better cakes, use straight-sided pans. The [Fat Daddio's Anodized Aluminum Round Cake Pans, 6 x 2 Inch](https://www.amazon.com/Fat-Daddios-Anodized-Aluminum-Round-Cake-Pans/dp/B01HDKCFAC/?tag=kitchenpot-20) come as a pair. Light aluminum heats evenly without over-browning the sides, and the straight 2-inch walls give clean layers.
 
@@ -175,7 +179,7 @@ Yes. Quick breads and yeast breads both work, as long as you keep the size small
 
 ### Can You Bake Bread in an Air Fryer With Yeast?
 
-Yes. The rise happens outside the air fryer, and the bake happens inside. Here is how we do a batch of four dinner rolls:
+Yes. The rise happens outside the air fryer, and the bake happens inside. For a batch of four dinner rolls:
 
 1. Make your dough as the recipe says and let it rise once until doubled.
 2. Shape four rolls of about 2 ounces each. Set them in a greased 6-inch pan or cake barrel, close but not touching.
@@ -258,7 +262,7 @@ Never run it inside a cabinet, on a lower shelf of a rolling cart, or tucked und
 
 Short on room to set it up? Our guide to [making more counter space in a small kitchen](/blog/make-more-counter-space-in-a-small-kitchen/) has ideas. When you are done baking, the right home for it is covered in [how to store small appliances in a small kitchen](/blog/store-small-appliances-in-a-small-kitchen/).
 
-## Common Mistakes When Baking in an Air Fryer
+## Don't Make These Air Fryer Baking Mistakes
 
 - **Using the oven temperature.** The top burns and the middle stays raw. Always drop about 25°F.
 - **Skipping the preheat.** Cookies spread flat and cakes get dense bottoms. Preheat for 3 to 5 minutes.
