@@ -3,7 +3,7 @@ title: "Renter-Friendly Kitchen Upgrades That Won't Cost Your Deposit"
 slug: renter-friendly-kitchen-upgrades
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-10-07
-modDate: 2026-10-07
+modDate: 2026-10-08
 author: Boniface Muriuki
 image: ""
 coverAlt: "A small rental kitchen with marble-look contact paper on the counter, white peel-and-stick backsplash tile, slim brass cabinet pulls and warm plug-in under-cabinet lights"
@@ -67,11 +67,9 @@ If the lease comes with a move-in checklist, write down every flaw, even small o
 
 A phone call is not proof. When you ask about any change, send a short email or text that names the exact change and how you will undo it. For example: "I'd like to replace the cabinet pulls with new ones that use the same holes. I'll keep the originals and put them back before I move out. Is that okay?"
 
-Save the reply. It still stands if the property manager changes.
-
 ### Keep Every Original Part
 
-Every time you remove something, put it in a zip-top bag and label it: "upper cabinet pulls, 12 pulls, 24 screws." Keep all the bags in one box in a closet. Lost original pulls are a common small deposit charge.
+Every time you remove something, put it in a zip-top bag and label it: "upper cabinet pulls, 12 pulls, 24 screws." Keep all the bags in one box in a closet.
 
 ### Test Adhesives Before You Commit
 
@@ -104,6 +102,8 @@ Read your lease first. Look for a clause about "alterations" or "improvements." 
 | New faucet | Ask first | Plumbing; a leak can cause water damage below |
 | Swapping a ceiling or wall light fixture | Ask first | Wiring; some landlords require a licensed electrician |
 
+If a weak, drippy faucet is the problem, ask about a swap. The [Moen Adler One-Handle Pulldown Kitchen Faucet](https://www.amazon.com/Moen-Adler-Pulldown-Kitchen-Faucet-87233SRS/dp/B082VWC75W/?tag=kitchenpot-20) fits 1-hole or 3-hole sinks with its deck plate, so it suits most rental sinks. It is reversible only if you keep the old faucet and reinstall it before you leave.
+
 Deposit laws vary by state and city. In many places, normal wear and tear cannot come out of your deposit, but damage can. A few small nail holes are often treated as wear. Peeled paint and stained counters usually are not.
 
 ## Can I Paint Kitchen Cabinets in a Rental?
@@ -116,7 +116,7 @@ Some landlords say yes to tired, builder-grade cabinets. If yours does, get the 
 
 If the answer is no, you still have options.
 
-- **Vinyl film or contact paper on the door fronts.** Pick a thick film in a solid color or wood grain. Lay the doors flat and wrap the fronts only, since edges wear and peel first.
+- **Vinyl film or removable wallpaper on the door fronts.** Pick a thick film in a solid color or wood grain. For a soft, plain look, [Tempaper Scout Removable Peel and Stick Wallpaper](https://www.amazon.com/Tempaper-Scout-Removable-Peel-Stick-Wallpaper/dp/B0977M5B77/?tag=kitchenpot-20) is repositionable and fully reversible, and one 28-square-foot roll covers several doors. Lay the doors flat and wrap the fronts only, since edges wear and peel first.
 - **Take off one or two doors.** Turning a short run of uppers into open shelves makes a small kitchen feel lighter. Ask first, then bag the doors, hinges and screws together and store the doors flat under a bed.
 - **Line the shelves.** Removable shelf liner hides stained shelf bottoms, and it protects the shelves from new stains. Our [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/) show how to set up the inside once it looks clean.
 
@@ -129,12 +129,12 @@ New pulls are the fastest visual upgrade in a rental kitchen. A full kitchen tak
 Here is how to do it without drilling a single new hole.
 
 1. **Measure the hole spacing.** Measure from the center of one screw hole to the center of the other. This is called the center-to-center measurement. Common sizes are 3 inches, 96 mm (about 3.78 inches) and 128 mm (about 5.04 inches).
-2. **Buy pulls with the exact same spacing.** Bring one old pull to the store if you can. Close enough is not good enough, because a pull that is 1/8 inch off will not fit.
-3. **Check the screw length.** Doors and drawer fronts vary in thickness. Most new pulls come with screws, but keep the old screws too, in case the new ones are too short or too long.
+2. **Buy pulls with the exact same spacing.** A pull that is 1/8 inch off will not fit. For 128 mm holes, the [Ravinte Matte Black Slim Cabinet Pulls, 5 Inch Hole Center](https://www.amazon.com/Ravinte-Matte-Black-Cabinet-Pulls-5-Inch/dp/B09D83G753/?tag=kitchenpot-20) come 25 to a pack, enough for most small kitchens. For 3-inch holes, the [Amerdeco Brushed Brass Cabinet Pulls, 3 Inch Hole Center](https://www.amazon.com/Amerdeco-Brushed-Brass-Cabinet-Pulls-3-Inch/dp/B0B9X2PL5J/?tag=kitchenpot-20) warm up a white or wood kitchen. Both are fully reversible, since they use the old holes.
+3. **Check the screw length.** Doors and drawer fronts vary in thickness. Keep the old screws too, in case the new ones are too short or too long.
 4. **Bag the originals as you go.**
 5. **Use one finish.** Matte black, brushed brass or brushed nickel all work. Mixed finishes look busy in a small room.
 
-Single knobs are even easier, since any knob fits a single hole. If doors already have extra holes from a past swap, note them in your move-in photos and leave them alone.
+Single knobs are even easier, since any knob fits a single hole. The [Alzassbg Matte Black Cabinet Knobs](https://www.amazon.com/Alzassbg-Matte-Black-Cabinet-Knobs/dp/B08L8P4JJ2/?tag=kitchenpot-20) are 1-1/4 inches across, come 25 to a pack with screws, and unscrew in seconds at move-out. If doors already have extra holes from a past swap, note them in your move-in photos and leave them alone.
 
 ## How Do You Cover Ugly Countertops in a Rental?
 
@@ -142,7 +142,7 @@ You cover ugly rental countertops with either a removable film or a loose top th
 
 ### Option 1: Removable Contact Paper
 
-A renter-friendly kitchen countertop cover made of vinyl film is the cheapest fix. Buy thick film made for counters, not thin shelf paper. It hides seams better and survives daily wiping.
+A renter-friendly kitchen countertop cover made of vinyl film is the cheapest fix. Buy thick film made for counters, not thin shelf paper. Our pick is [HOLOMEY Marble Contact Paper for Countertops](https://www.amazon.com/HOLOMEY-Marble-Contact-Paper-Countertops/dp/B0B9WYTJK7/?tag=kitchenpot-20). The roll is 31 inches wide, so it covers a 25-inch-deep counter and wraps the front edge in one piece, with no seam. It is waterproof and removable, so it is reversible on laminate.
 
 To apply it well:
 
@@ -171,6 +171,8 @@ Peel-and-stick tile is a popular rental kitchen idea, and a risky one. The tile 
 - Over existing ceramic tile. The glossy glaze releases adhesive well, and you hide dated tile at the same time.
 - Over glossy or semi-gloss paint, after a 48-hour test patch.
 
+On a budget, the [Art3d Peel and Stick Backsplash White Subway](https://www.amazon.com/Art3d-Peel-Stick-Backsplash-White-Subway/dp/B08PP2NZMD/?tag=kitchenpot-20) gives you 10 thick 12 x 12-inch sheets, about 10 square feet, with printed grout lines. If you can spend more, [Smart Tiles Peel and Stick Backsplash in Subway Soft White](https://www.amazon.com/Smart-Tiles-Peel-Stick-Backsplash-Subway/dp/B07XCHLLGP/?tag=kitchenpot-20) has a raised, gel-like surface that reads more like real tile. Both are reversible over tile; over paint, only if your test patch comes off clean.
+
 **Where it is risky:**
 
 - Over flat or matte paint. The adhesive can bond to the paint more strongly than the paint bonds to the wall.
@@ -179,7 +181,7 @@ Peel-and-stick tile is a popular rental kitchen idea, and a risky one. The tile 
 
 ### The Panel Trick for Painted Walls
 
-If your backsplash area is painted drywall, skip sticking tile to the wall. Instead, stick the tile to a thin, light panel cut to size, such as thin plywood or hardboard. Then lean the panel against the wall on the counter, or hold it in place with a few removable mounting strips you have tested. When you move, the whole panel comes off and goes with you.
+If your backsplash area is painted drywall, skip sticking tile to the wall. Instead, stick the tile to a thin, light panel cut to size, such as thin plywood or hardboard. Then lean the panel against the wall on the counter, or hold it in place with [Command X-Large Picture Hanging Strips](https://www.amazon.com/Command-X-Large-Picture-Hanging-Strips-20lb/dp/B0B3SR5M71/?tag=kitchenpot-20), tested first. Each set holds up to 20 pounds and releases with a pull tab, so the wall stays untouched. When you move, the whole panel comes off and goes with you.
 
 Keep the backsplash behind the stove easy to wipe. Grease builds up there fast, which is one reason good [kitchen ventilation](/blog/small-kitchen-guide-range-hood-ventilation-cooking-smell/) matters even in a rental.
 
@@ -187,9 +189,9 @@ Keep the backsplash behind the stove easy to wipe. Grease builds up there fast, 
 
 Most rentals have one ceiling fixture that leaves the counter in your own shadow. You can fix that with no wiring.
 
-- **Under-cabinet LED strips or puck lights.** Choose plug-in strips if there is an outlet nearby, or rechargeable battery lights if not. Mount them toward the front edge of the cabinet bottom so the light spreads across the whole counter.
-- **Plug-in wall sconces.** These hang on a single small nail or screw and plug into an outlet. Run the cord down the wall in a paintable cord cover attached with tested strips.
-- **Bulb swaps.** Replace every bulb with the same color temperature. Color temperature is how warm or cool the light looks, measured in kelvins (K). We use 2700K to 3000K in kitchens, with a CRI of 90 or higher. CRI shows how true colors look under the bulb.
+- **Under-cabinet lights.** Mount them toward the front edge of the cabinet bottom so the light spreads across the counter. With an outlet nearby, the [Enbrighten 10-Inch Plug-In LED Under Cabinet Light](https://www.amazon.com/Enbrighten-10-Inch-Plug-In-Under-Cabinet-Light/dp/B01MZ1QWP4/?tag=kitchenpot-20) gives a warm 3000K glow and has its own on/off switch. It mounts with two small screws, so send a quick email first; it unplugs and comes down in minutes. With no outlet, [LEASTYLE Wireless Puck Lights with Remote](https://www.amazon.com/LEASTYLE-Puck-Lights-with-Remote-Wireless/dp/B07K84PSPX/?tag=kitchenpot-20) run on AAA batteries and stick on with adhesive. Order the warm white version, and they come off clean.
+- **Plug-in wall sconces.** These hang on a single small screw and plug into an outlet. The [Possini Euro Design Circles Plug-In Wall Sconce](https://www.amazon.com/Possini-Euro-Circles-Plug-In-Wall-Sconce-Cord-Cover/dp/B002ST8JR2/?tag=kitchenpot-20) comes with its own cord cover, so there is no loose cord. At move-out you leave only a screw hole or two to fill.
+- **Bulb swaps.** Replace every bulb with the same color temperature. Color temperature is how warm or cool the light looks, measured in kelvins (K). We use 2700K to 3000K in kitchens, with a CRI of 90 or higher. CRI shows how true colors look under the bulb. [Philips Ultra Definition LED A19 Bulbs, 2700K](https://www.amazon.com/Philips-Ultra-Definition-LED-A19-Bulbs-2700K-8-Pack/dp/B0B927WMTY/?tag=kitchenpot-20) hit both marks, at 800 lumens each, and fit the sconce above too.
 
 Keep the old bulbs and put them back at move-out, unless your landlord wants the new ones. LED bulbs also lower your bill, as we explain in [how to reduce kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/).
 
@@ -202,14 +204,14 @@ Storage is where renters spend the most and damage the most. The goal is to add 
 ### Use What Holds Itself Up
 
 - **Tension rods.** Put one under the sink to hang spray bottles, or stand two upright in a cabinet to file baking sheets. Our guide to [organizing under the kitchen sink](/blog/organize-under-the-kitchen-sink/) shows the full setup.
-- **Over-the-door racks.** Hang a slim rack on a pantry or cabinet door for wraps, spices or lids. Add felt pads where it touches the door so it does not scuff the paint.
-- **Shelf risers and turntables.** These double the usable space in a cabinet. They lift right out at move-out.
-- **Rolling carts.** A slim cart beside the fridge or stove holds oils, spices or small appliances. See [how to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) for where food can live instead of the counter.
+- **Over-the-door racks.** The [madesmart Over-Door Wrap Organizer](https://www.amazon.com/madesmart-Over-Door-Wrap-Organizer/dp/B0792FF476/?tag=kitchenpot-20) hooks over a cabinet door with soft-grip hooks and holds foil, wrap and parchment in two bins. It needs no tools and lifts right off. Add felt pads where any rack touches the door.
+- **Shelf risers.** The [YouCopia UpSpace Adjustable-Height Shelf Riser](https://www.amazon.com/YouCopia-UpSpace-Adjustable-Height-Shelf-Riser/dp/B07XVQWCS5/?tag=kitchenpot-20) is 16 inches wide with legs that adjust to your stacks, so it doubles a shelf. It is freestanding and lifts right out.
+- **Rolling carts.** The [Honey-Can-Do 3-Tier Slim Rolling Cart](https://www.amazon.com/Honey-Can-Do-3-Tier-Slim-Rolling-Cart-Basket-Drawers/dp/B09RQCX46D/?tag=kitchenpot-20) slides into the gap beside the fridge and holds oils and spices in metal basket drawers. Nothing attaches, so it rolls out with you. See [how to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/) for where food can live instead of the counter.
 - **Freestanding shelves.** A narrow bakers rack adds a wall of storage without touching the wall.
 
 ### Use the Surfaces You Already Have
 
-The side of your fridge is metal. Magnetic spice tins, towel holders and hook racks stick to it with no glue. Keep them light and away from the vents.
+The side of your fridge is metal, and magnets leave no trace. [Talented Kitchen Magnetic Spice Tins](https://www.amazon.com/Talented-Kitchen-Magnetic-Spice-Tins/dp/B01FY69CPS/?tag=kitchenpot-20) come as 12 three-ounce tins with labels, and they clear a whole cabinet shelf. Keep anything on the fridge light and away from the vents.
 
 A [magnetic knife strip](/blog/best-magnetic-knife-strip/) usually needs screws. Ask first, or mount it on the side of a freestanding shelf instead.
 
@@ -221,10 +223,8 @@ Sometimes a wall rail or a floating shelf is worth asking for. If your landlord 
 
 ## Soft Upgrades That Change the Whole Feel
 
-Some of the best rental kitchen makeover moves have nothing to do with tools.
-
-- **A washable runner.** A long, low-pile runner hides a worn or ugly floor. Put a rug pad under it so it does not slide or leave color marks on vinyl.
-- **A café curtain on a tension rod.** A short curtain over the bottom half of the window adds privacy and color, with no brackets.
+- **A washable runner.** A long, low-pile runner hides a worn or ugly floor. The [PURRUGS Machine Washable Kitchen Runner](https://www.amazon.com/PURRUGS-Machine-Washable-Kitchen-Runner-Rug/dp/B0CJBKVW8D/?tag=kitchenpot-20) is 2 x 6 feet, low enough to clear cabinet doors, with a non-slip back. Lift a corner now and then to check it leaves no marks on vinyl.
+- **A café curtain on a tension rod.** A short curtain over the bottom half of the window adds privacy and color. The [Kenney Twist & Fit Tension Curtain Rod](https://www.amazon.com/Kenney-Twist-Fit-Tension-Curtain-Rod-48-84/dp/B08CSLGHY1/?tag=kitchenpot-20) fits inside frames 48 to 84 inches wide and twists to lock, with no brackets or holes.
 - **Matching containers.** Clear, matching jars on one shelf look calmer than a row of mixed bags. Our [best airtight food storage containers](/blog/best-airtight-food-storage-containers/) roundup helps you pick.
 - **Drawer dividers.** They lift out at move-out. See [how to organize kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/).
 
@@ -270,11 +270,11 @@ Follow the package directions. For stretch-release strips, pull the tab straight
 
 ### Patch Small Holes Only If Your Lease Expects It
 
-If you hung something with permission, fill small nail holes with lightweight spackle, let it dry and sand it flat. Ask your landlord before touching up paint. A badly matched touch-up looks worse than a tiny hole.
+If you hung something with permission, fill small nail holes with lightweight spackle, let it dry and sand it flat. Ask your landlord before touching up paint.
 
 ### Clean Like an Inspector
 
-Many kitchen deposit charges are for cleaning, not damage. Degrease the range hood filter, wipe inside the cabinets, clean the oven and defrost the freezer. For a mini fridge, see [how to defrost a mini fridge](/blog/how-to-defrost-a-mini-fridge/). A clean, empty unit also draws no bugs. Our guide on [how to keep pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/) covers the habits that help.
+Many kitchen deposit charges are for cleaning, not damage. Degrease the range hood filter, wipe inside the cabinets, clean the oven and defrost the freezer. For a mini fridge, see [how to defrost a mini fridge](/blog/how-to-defrost-a-mini-fridge/). Our guide on [how to keep pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/) covers the habits that keep bugs away.
 
 Then retake your move-in photos from the same spots and email them, just as you did on day one.
 
@@ -293,15 +293,11 @@ If your rental is a narrow galley, our [galley kitchen ideas](/blog/galley-kitch
 
 ## Common Mistakes That Cost Renters Their Deposit
 
-These are the mistakes we see most often in rental kitchens.
-
 - **Skipping move-in photos.** Without proof, every existing flaw becomes your flaw at move-out.
 - **Trusting the label instead of a test patch.** "Removable" means removable from the surface the maker tested on. Your wall may be different.
 - **Putting film or tile right behind the burners.** Heat softens the glue and can melt the vinyl. Leave that strip bare unless the product is heat rated.
 - **Throwing away the original pulls.** Replacing a full set of discontinued pulls can cost far more than the new ones did.
 - **Drilling into tile.** One cracked tile can mean a costly repair if the landlord cannot find a match.
-- **Asking by phone.** If permission is not in writing, it is hard to prove later.
-- **Waiting until moving day to undo things.** Stubborn glue takes time. Start two weeks out.
 
 Avoid these, and you get a better kitchen now and a full deposit later. For bigger changes once you own a place, see our [small kitchen remodel ideas on a budget](/blog/small-kitchen-remodel-ideas-on-a-budget/).
 

@@ -3,7 +3,7 @@ title: "Small Kitchen Ideas on a Budget: Cheap Upgrades That Add Space and Style
 slug: small-kitchen-ideas-on-a-budget
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-10-07
-modDate: 2026-10-07
+modDate: 2026-10-08
 author: Boniface Muriuki
 image: ""
 coverAlt: "A small apartment kitchen with open shelves, a slim rolling cart beside the fridge, warm under-cabinet lights and new black cabinet pulls"
@@ -50,8 +50,6 @@ Here is the order we recommend:
 4. **Improve the work space.** Free up counter and add light where you chop.
 5. **Change the look.** Paint, hardware and decor come last, once the room works.
 
-Every step makes the next one cheaper. Clear out a third of your stuff, and you need a third fewer containers.
-
 No pantry? Start with [how to organize a small kitchen with no pantry](/blog/how-to-organize-a-small-kitchen-with-no-pantry/). It covers where food should live when there is no closet for it.
 
 ### What Each Budget Tier Gets You
@@ -65,7 +63,7 @@ No pantry? Start with [how to organize a small kitchen with no pantry](/blog/how
 
 ## Start Free: Small Kitchen Hacks on a Budget That Cost Nothing
 
-The cheapest upgrade is the stuff you remove. A small kitchen usually is not short on space. It is short on space for the things you really use.
+The cheapest upgrade is the stuff you remove.
 
 ### Run a One-Year Purge
 
@@ -106,21 +104,23 @@ This tier gives the most space per dollar. Nothing here needs drilling, so it al
 
 A standard upper cabinet is about 12 inches deep, and many shelves have 10 to 14 inches of open height. A short stack of plates uses only part of that height. The rest is wasted air. A wire riser splits that height into two levels, so you can stack plates below and bowls on top.
 
+For the cheapest fix, the [GEDLIRE Metal Wire Cabinet Shelf Organizer](https://www.amazon.com/GEDLIRE-Cabinet-Shelf-Organizer-Set-of-2/dp/B098SXMTWP/?tag=kitchenpot-20) comes as a set of two 13 by 9.4-inch shelves. One pack sorts two cabinets. If you can spend a little more, the [YouCopia UpSpace Adjustable-Height Shelf Riser](https://www.amazon.com/YouCopia-UpSpace-Adjustable-Height-Shelf-Riser/dp/B07XVQWCS5/?tag=kitchenpot-20) has legs that adjust, so you can set the gap to fit your tallest bowls. It is 16 inches wide and 9 inches deep, which suits a standard upper shelf.
+
 Measure before you buy. You want at least 4 inches above the riser for bowls. There are more ways to split up shelves in our [small kitchen cabinet organization ideas](/blog/small-kitchen-cabinet-organization-ideas/).
 
 ### Hooks and Tension Rods
 
-Put adhesive hooks inside cabinet doors for measuring cups and pot holders, and a row under an upper cabinet for mugs.
+Put adhesive hooks inside cabinet doors for measuring cups and pot holders, and a row under an upper cabinet for mugs. We recommend [Command Large Utility Hooks](https://www.amazon.com/Command-Large-Utility-Hooks/dp/B01I254474/?tag=kitchenpot-20) for this. Each one holds 5 pounds and peels off without damage, so they suit renters.
 
 Under the sink, a tension rod across the cabinet holds spray bottles by their triggers. That clears the cabinet floor for a small bin of sponges and trash bags.
 
 ### Drawer Dividers
 
-A messy utensil drawer wastes half its space. Adjustable dividers keep spatulas, whisks and tongs in their own lanes, so you can fit more and find things faster. For a full drawer plan, see [how to organize kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/).
+A messy utensil drawer wastes half its space. Adjustable dividers keep spatulas, whisks and tongs in their own lanes, so you can fit more and find things faster. The [Royal Craft Wood Bamboo Kitchen Drawer Organizer](https://www.amazon.com/Royal-Craft-Wood-Bamboo-Kitchen-Drawer-Organizer/dp/B07TVDFVV9/?tag=kitchenpot-20) has nine slots, enough for flatware in front and long tools along the sides. For a full drawer plan, see [how to organize kitchen drawers in a small kitchen](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/).
 
 ### Turntables
 
-A turntable, also called a lazy Susan, is a round tray that spins. Use one in deep corner cabinets and on fridge shelves, where items get lost at the back. Our list of [lazy Susan organizers](/blog/8-best-lazy-susan-organizers-for-your-kitchen/) compares the common styles.
+A turntable, also called a lazy Susan, is a round tray that spins. Use one in deep corner cabinets and on fridge shelves, where items get lost at the back. The [Copco Basics 12-Inch Non-Skid Lazy Susan](https://www.amazon.com/Copco-Basics-Non-Skid-Cabinet-Turntable-12-Inch/dp/B0036OQWTU/?tag=kitchenpot-20) is a cheap start. It is only 1.5 inches tall, fits most fridge shelves, and its non-skid top keeps jars from sliding off when you spin it. Our list of [lazy Susan organizers](/blog/8-best-lazy-susan-organizers-for-your-kitchen/) compares the common styles.
 
 ## What Is the Cheapest Way to Add Storage to a Small Kitchen?
 
@@ -134,7 +134,7 @@ Here is where we look first in any small kitchen:
 - **The side of the fridge.** Magnetic hooks or a magnetic rack hold foil, wraps and towels.
 - **The gap beside the fridge.** Many kitchens have a 5 to 8-inch gap here. A slim rolling cart fits right in.
 
-A magnetic knife strip is one of the best cheap moves you can make. It gets rid of a bulky knife block and frees about a square foot of counter. Our picks for the [best magnetic knife strip](/blog/best-magnetic-knife-strip/) cover sizes and how to mount one.
+A magnetic knife strip is one of the best cheap moves you can make. It gets rid of a bulky knife block and frees about a square foot of counter. The [Modern Innovations 16-Inch Stainless Steel Magnetic Knife Bar](https://www.amazon.com/Modern-Innovations-16-Inch-Stainless-Steel-Magnetic-Knife-Bar/dp/B016ISHAC8/?tag=kitchenpot-20) is long enough for a chef's knife, a bread knife and a paring knife side by side. Our picks for the [best magnetic knife strip](/blog/best-magnetic-knife-strip/) cover sizes and how to mount one.
 
 For more wall and door ideas, our full guide to [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) goes cabinet by cabinet.
 
@@ -146,14 +146,14 @@ At this tier, you add new work surface, not just storage. That is where most sma
 
 A rolling cart is the most useful $50 you can spend in a small kitchen. Pick one of two sizes:
 
-- **Slim cart, 5 to 8 inches wide.** Slides into the gap beside the fridge or washer. Holds oils, cans and spices.
-- **Standard cart, about 16 by 30 inches.** Three shelves. Use it as a coffee station, a baking station or extra prep space you roll out when you cook.
+- **Slim cart, 5 to 8 inches wide.** Slides into the gap beside the fridge or washer. Holds oils, cans and spices. The [Honey-Can-Do 3-Tier Slim Rolling Cart with Basket Drawers](https://www.amazon.com/Honey-Can-Do-3-Tier-Slim-Rolling-Cart-Basket-Drawers/dp/B09RQCX46D/?tag=kitchenpot-20) has metal basket drawers that pull out, so nothing gets lost at the back. Measure your gap against its width first.
+- **Standard cart, about 16 by 30 inches.** Three shelves. Use it as a coffee station, a baking station or extra prep space you roll out when you cook. The [Honey-Can-Do 3-Tier Metal Rolling Cart](https://www.amazon.com/Honey-Can-Do-3-Tier-Metal-Rolling-Cart/dp/B077STDKJM/?tag=kitchenpot-20) has three deep metal tiers on casters, the same idea as the IKEA classic.
 
-If you want a cart to work as prep space, pick one with a solid top shelf at about counter height. Standard counters are 36 inches high, so a cart close to that height feels natural to chop on.
+If you want a cart to work as prep space, pick one with a solid top shelf at about counter height. Standard counters are 36 inches high, so a cart close to that height feels natural to chop on. If you can spend more, the [HOMCOM Rolling Kitchen Island Cart with Drop Leaf](https://www.amazon.com/HOMCOM-Rolling-Kitchen-Island-Cart-Drop-Leaf/dp/B0713R15D7/?tag=kitchenpot-20) is the step up. It has a wood top with a leaf that folds down when you need the floor, plus two drawers, two cabinets and wheels that lock while you chop.
 
 ### An Over-the-Sink Cutting Board
 
-A board that sits across the sink turns dead space into prep space. You can rinse vegetables and chop in the same spot, then push scraps straight into a colander. See our [over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) guide for the sizes that fit standard sinks.
+A board that sits across the sink turns dead space into prep space. You can rinse vegetables and chop in the same spot, then push scraps straight into a colander. The [Dexas Over the Sink Cutting Board with Collapsible Colander](https://www.amazon.com/Dexas-Over-the-Sink-Poly-Cutting-Board-with-Collapsible/dp/B07GZBFJ17/?tag=kitchenpot-20) comes with the colander built in, and it folds flat to store. See our [over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) guide for the sizes that fit standard sinks.
 
 ### LED Under-Cabinet Lights
 
@@ -161,17 +161,19 @@ With one ceiling light behind you, you cut in your own shadow. Plug-in LED strip
 
 Pick a warm white, around 2700K to 3000K. The K stands for Kelvin, a measure of how warm or cool light looks. Lower numbers look warmer and more like home. Higher numbers look blue and harsh.
 
+We recommend the [Enbrighten 22-Inch Plug-In Linkable LED Under Cabinet Light](https://www.amazon.com/Enbrighten-22-Inch-Linkable-Plug-In-Under-Cabinet-Light/dp/B01MQXV843/?tag=kitchenpot-20). It is 3000K, puts out about 700 lumens, and has a high, low and off switch on the bar. You can link more bars to it from one outlet, so a longer counter still needs only one plug.
+
 ### A Wall Rail System
 
-A rail is a metal bar with hooks and small baskets. Mount one along the backsplash for spatulas, ladles and paper towels. It clears a full drawer. Rails need screws, so renters should ask first.
+A rail is a metal bar with hooks and small baskets. Mount one along the backsplash for spatulas, ladles and paper towels. It clears a full drawer. The [Fasthomegoods Stainless Steel Kitchen Wall Rail](https://www.amazon.com/Fasthomegoods-Stainless-Steel-Kitchen-Wall-Rail-S-Hooks/dp/B00X1N67QO/?tag=kitchenpot-20) comes with 10 large S-hooks, enough for your daily tools and a towel. Rails need screws, so renters should ask first.
 
 ### Matching Food Containers
 
-Clear, square containers stack tighter than bags and round jars, and they keep pests out. A set of four to six covers flour, rice, pasta and cereal. See our [best airtight food storage containers](/blog/best-airtight-food-storage-containers/) and [how to keep pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/).
+Clear, square containers stack tighter than bags and round jars, and they keep pests out. A set of four to six covers flour, rice, pasta and cereal. The [OXO Good Grips POP 10-Piece Container Set](https://www.amazon.com/OXO-Good-Grips-POP-10-Piece-Container-Set/dp/B07TBBL1C2/?tag=kitchenpot-20) is worth the extra money if you want one set that does it all. The push-button lids seal airtight, and the square shapes line up edge to edge on a shelf. See our [best airtight food storage containers](/blog/best-airtight-food-storage-containers/) and [how to keep pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/).
 
 ## Under $300: Bigger Moves for Small Spaces on a Budget
 
-This tier changes how the kitchen looks and works. These are the upgrades that make people ask if you remodeled.
+These are the upgrades that make people ask if you remodeled.
 
 | Upgrade | Rough cost | Time | What it changes |
 | --- | --- | --- | --- |
@@ -200,7 +202,7 @@ If you rent, do not paint without written permission. Use the hardware and light
 
 ### Get Pots and Pans Out of the Way
 
-Pots and pans eat more cabinet space than anything else. A vertical pan organizer stands them on their sides like files, so you can grab one without lifting the stack. A wall or ceiling rack frees the whole cabinet. Our guides on how to [store pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) and [pots and pans racks](/blog/pots-and-pans-rack-reviews/) compare the options. Lids are a separate headache, and [how to organize pot lids in a small kitchen](/blog/how-to-organize-pot-lids-in-a-small-kitchen/) solves it.
+Pots and pans eat more cabinet space than anything else. A vertical pan organizer stands them on their sides like files, so you can grab one without lifting the stack. The [YouCopia StoreMore Expandable Pan and Lid Rack](https://www.amazon.com/YouCopia-StoreMore-Expandable-Pan-and-Lid-Rack/dp/B09LRHJ6XW/?tag=kitchenpot-20) stretches from 12.5 to 22 inches wide, so it fits most base cabinets, and its dividers move to fit your pans. A wall or ceiling rack frees the whole cabinet. Our guides on how to [store pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) and [pots and pans racks](/blog/pots-and-pans-rack-reviews/) compare the options. Lids are a separate headache, and [how to organize pot lids in a small kitchen](/blog/how-to-organize-pot-lids-in-a-small-kitchen/) solves it.
 
 If your pans are worn out anyway, think about a nesting set when you replace them. Pans that stack inside each other can take half the space of a regular set. See our list of [stackable pots and pans](/blog/7-best-stackable-pots-and-pans/).
 
@@ -210,7 +212,7 @@ One open shelf above the counter holds the plates and glasses you use daily, and
 
 ## Small Kitchen Decorating Ideas on a Budget
 
-Decor in a small kitchen should make the room feel bigger or be useful. Anything else is clutter. Our rules:
+Decor in a small kitchen should make the room feel bigger or be useful. Our rules:
 
 - **Keep the palette short.** Pick two main colors and one metal finish. Too many colors make a small room feel busy.
 - **Go light on the big surfaces.** Walls, cabinets and backsplash look best light. Put stronger color in small things, like a towel, a rug or a plant pot.
@@ -219,13 +221,13 @@ Decor in a small kitchen should make the room feel bigger or be useful. Anything
 
 ### Lighting Changes the Mood Most
 
-If you can only do one decorating project, do lighting. Swap a cold, blue ceiling bulb for a warm white LED. Add under-cabinet lights. A kitchen with warm, even light looks cleaner and more expensive than one with a single harsh bulb.
+If you can only do one decorating project, do lighting. Swap a cold, blue ceiling bulb for a warm white LED. Our pick is the [Philips Ultra Definition 2700K LED A19 Bulb](https://www.amazon.com/Philips-Ultra-Definition-LED-A19-Bulbs-2700K-8-Pack/dp/B0B927WMTY/?tag=kitchenpot-20). It has a CRI of 90 or more, a score for how true colors look, so raw chicken and ripe tomatoes look the way they should. Add under-cabinet lights. A kitchen with warm, even light looks cleaner and more expensive than one with a single harsh bulb.
 
 LED bulbs also use far less power. More ways to cut your bills are in [how to reduce kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/).
 
 ## How Do I Make a Small Kitchen Look Expensive for Cheap?
 
-A kitchen looks expensive when it looks planned. Matching, clean and well lit beats costly every time. These cheap changes have the biggest effect:
+A kitchen looks expensive when it looks planned. These cheap changes have the biggest effect:
 
 1. **Clear the counters.** A bare counter with two or three good items looks high-end. A crowded counter looks cheap, whatever it is made of.
 2. **Swap the cabinet pulls.** New hardware is like new shoes for the room. Matte black, brushed brass and brushed nickel all look current.
@@ -236,18 +238,18 @@ A kitchen looks expensive when it looks planned. Matching, clean and well lit be
 
 ### How to Swap Cabinet Pulls Without New Holes
 
-Measure the distance between the two screw holes on your old pulls, from center to center. Common sizes are 3 inches, 96 mm and 128 mm. Buy new pulls with the same spacing, and you will not need to drill or fill any holes.
+Measure the distance between the two screw holes on your old pulls, from center to center. Common sizes are 3 inches, 96 mm and 128 mm. Buy new pulls with the same spacing, and you will not need to drill or fill any holes. For 3-inch holes, the [Amerdeco Brushed Brass Cabinet Pulls](https://www.amazon.com/Amerdeco-Brushed-Brass-Cabinet-Pulls-3-Inch/dp/B0B9X2PL5J/?tag=kitchenpot-20) come in a 10-pack with screws. For 128 mm holes, the [Ravinte Matte Black Slim Cabinet Pulls](https://www.amazon.com/Ravinte-Matte-Black-Cabinet-Pulls-5-Inch/dp/B09D83G753/?tag=kitchenpot-20) come 25 to a pack, enough for most small kitchens.
 
-If you have knobs, which use one hole, you can switch to any style of knob without drilling. Switching from knobs to pulls means new holes, so renters should stick with knobs.
+Knobs use one hole, so any new knob fits without drilling. Switching from knobs to pulls means new holes, so renters should stick with knobs.
 
 ## How Can I Update My Kitchen Without Replacing Cabinets?
 
-New cabinets are the most expensive part of most kitchen remodels. You can skip them and still get a fresh look. Here is what to do, from least to most work:
+You can skip new cabinets and still get a fresh look. Here is what to do, from least to most work:
 
 - **Clean and fix.** Tighten loose hinges and replace broken drawer slides. Doors that close properly make the whole room feel newer.
 - **Swap hardware.** New pulls or knobs, as above.
 - **Add under-cabinet lights.** These show off the counter and hide the age of the cabinets.
-- **Refresh the backsplash.** Peel-and-stick tile goes over most smooth, clean surfaces. Keep it away from direct stove heat unless the product is rated for it.
+- **Refresh the backsplash.** Peel-and-stick tile goes over most smooth, clean surfaces. The [Smart Tiles Peel and Stick Subway Backsplash](https://www.amazon.com/Smart-Tiles-Peel-Stick-Backsplash-Subway/dp/B07XCHLLGP/?tag=kitchenpot-20) has a raised, glossy subway look and comes off when you move. Keep it away from direct stove heat unless the product is rated for it.
 - **Paint the doors.** The biggest change, covered above.
 - **Remove a few doors.** Taking the doors off one upper cabinet makes instant open shelving. Paint the inside first, because it will now show.
 
@@ -255,12 +257,12 @@ Inside the base cabinets, pull-out bins mean you stop crawling on the floor to r
 
 ## Small Kitchen Ideas on a Budget: IKEA Hacks That Work
 
-IKEA is a good source of cheap kitchen storage, but not every piece suits a small kitchen. Here is what to buy and what to skip.
+Not every IKEA piece suits a small kitchen. Here is what to buy and what to skip.
 
 ### Worth Buying
 
-- **Wall rail systems.** IKEA sells rails with hooks, cups and small shelves. Mount one along the backsplash. It is one of the cheapest ways to clear a drawer.
-- **Three-tier rolling carts.** The classic metal cart fits beside a fridge or at the end of a counter. Use it as a coffee bar or baking station.
+- **Wall rail systems.** Rails with hooks, cups and small shelves clear a drawer for very little.
+- **Three-tier rolling carts.** The classic metal cart fits beside a fridge or at the end of a counter.
 - **Simple wall shelves.** A plain wood shelf on two brackets makes a good open shelf for daily dishes.
 - **Wall-mounted spice racks.** The small wooden spice racks are cheap and easy to paint to match your kitchen. Mount them inside a pantry door or on the backsplash.
 - **Drawer inserts.** Bamboo or plastic dividers fit standard drawers and stop clutter.
@@ -277,7 +279,7 @@ IKEA is a good source of cheap kitchen storage, but not every piece suits a smal
 
 ## Renter-Friendly Upgrades You Can Take With You
 
-Renters need upgrades that leave no damage and move with them. Most of the best budget ideas fit that rule.
+Renters need upgrades that leave no damage and move with them.
 
 | Renter-safe | Ask first | Avoid without permission |
 | --- | --- | --- |
@@ -308,18 +310,14 @@ Here is how we would spend $300 on a typical small rental kitchen, from first st
 7. **Week 4, about $70.** New cabinet pulls with the same hole spacing as the old ones.
 8. **Week 4, about $50.** Four to six matching clear containers for dry goods.
 
-That is about $300. You get doubled cabinet shelves, a clear counter, better light and a kitchen that looks updated.
+That is about $300 for doubled shelves, a clear counter, better light and an updated look.
 
 ## Common Mistakes on a Small Kitchen Budget
-
-These mistakes waste the most money and space in small kitchens.
 
 - **Buying organizers before decluttering.** You end up organizing things you should have thrown out. Purge first.
 - **Not measuring.** A bin that is 1 inch too deep will not let the cabinet door close. Measure width, depth and height before you buy anything.
 - **Filling every wall.** Vertical storage helps, but every surface covered with stuff looks chaotic. Leave some wall blank.
-- **Choosing dark colors for big surfaces.** Dark cabinets and walls make a small kitchen feel smaller. Save dark tones for small accents.
 - **Keeping too many appliances out.** Appliances on the counter are the main reason small kitchens feel cramped. Store the ones you use weekly or less.
-- **Buying big cookware sets.** More pieces mean more storage, not better cooking.
 - **Ignoring airflow.** Grease and steam make every surface look dirty faster. Run the hood every time you cook. See our [small kitchen range hood and ventilation guide](/blog/small-kitchen-guide-range-hood-ventilation-cooking-smell/).
 
 ## Where Not to Save Money

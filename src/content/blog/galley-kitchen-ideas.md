@@ -3,7 +3,7 @@ title: "Galley Kitchen Ideas: How to Design and Organize a Narrow Kitchen"
 slug: galley-kitchen-ideas
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-10-07
-modDate: 2026-10-07
+modDate: 2026-10-08
 author: Boniface Muriuki
 image: ""
 coverAlt: "A narrow galley kitchen with white cabinets on both walls, warm under-cabinet lights, a clear aisle and a bright window at the far end"
@@ -41,11 +41,9 @@ The trouble is that most galleys are set up badly. The aisle gets cluttered, one
 
 ## What Makes a Galley Kitchen Different
 
-A galley kitchen is two parallel counter runs with a walkway between them. The name comes from the kitchen on a ship, where space is tight and every inch has a job.
+A galley kitchen is two parallel counter runs with a walkway between them, named after the kitchen on a ship. There is no blind corner cabinet, and you reach almost anything with one step and a turn.
 
-That shape has real strengths. There is no blind corner cabinet, so every cabinet is fully usable. You reach almost anything with one step and a turn.
-
-It also has three weak points. The aisle is the only floor, so anything left there blocks the whole room. Light from a single window or ceiling fixture rarely reaches both counters. And appliance doors open into the same narrow strip, so they can collide.
+It also has three weak points. Anything left in the aisle blocks the whole room. One window or ceiling fixture rarely lights both counters. And appliance doors open into the same narrow strip.
 
 If you are still deciding between layouts, our [small kitchen layout ideas](/blog/small-kitchen-layout-ideas/) guide compares the galley with L-shape, U-shape and one-wall kitchens. Here we go deep on the galley alone.
 
@@ -53,7 +51,7 @@ If you are still deciding between layouts, our [small kitchen layout ideas](/blo
 
 The ideal galley is about 7.5 feet wide from wall to wall. Standard base cabinets and counters are 24 inches deep on each side. Take those 48 inches away and you are left with a 42-inch aisle, which is the sweet spot for one cook.
 
-At 42 inches you can open the oven and still stand in front of it. You can turn around with a hot pan without hitting the opposite counter. Go much wider and you start walking across a gap with every pot.
+At 42 inches you can open the oven and still stand in front of it, and turn with a hot pan without hitting the opposite counter.
 
 | Wall-to-wall width | Aisle with 24-inch counters both sides | What it means |
 |---|---|---|
@@ -64,11 +62,11 @@ At 42 inches you can open the oven and still stand in front of it. You can turn 
 | 9 to 10 feet | 60 to 72 inches | Room for a rolling cart or slim table in the aisle |
 | 13 feet or more | 108 inches or more | Wide enough for a fixed island with 42 inches on each side |
 
-Measure your own kitchen before you buy anything. Measure counter edge to counter edge, since that is the space you stand in. Then measure how far your oven, dishwasher and fridge doors swing out.
+Before you buy anything, measure counter edge to counter edge, then measure how far your oven, dishwasher and fridge doors swing out.
 
 ### When Your Galley Is Narrower Than 7 Feet
 
-Many older apartments have galleys of 6 to 7 feet. You cannot widen the room, but you can widen the aisle. The trick is to make one run shallower.
+You cannot widen the room, but you can widen the aisle by making one run shallower.
 
 Upper cabinets are only 12 inches deep. Set a run of them on the floor (on a sturdy base or legs) and top them with a 13-inch counter. You gain about 11 inches of aisle on that side. That shallow run becomes a pantry and serving counter, while the full-depth side keeps the sink and stove.
 
@@ -76,13 +74,13 @@ Renters can get a similar effect with freestanding pieces. A 12-inch-deep shelvi
 
 ## Galley Kitchen Layout: The Hot Side and the Wet Side
 
-The best galley kitchen layout gives each run a clear job. When both sides do a bit of everything, you spin back and forth all evening and drip water across the floor.
+The best galley kitchen layout gives each run a clear job. Otherwise you spin back and forth all evening.
 
 ### Option 1: Sink and Stove on the Same Side
 
 This is our first choice if you can plan it. Put the sink and stove on one run with at least 24 inches of clear counter between them. That stretch becomes your main prep zone.
 
-Now you never carry a pot of boiling water across the aisle. You drain pasta, rinse vegetables and cook in one line. The opposite run holds the fridge, the pantry, the dishes and the small appliances. It is your storage and serving side.
+You never carry boiling water across the aisle. The opposite run holds the fridge, the pantry, the dishes and the small appliances. It is your storage and serving side.
 
 ### Option 2: Sink on One Side, Stove on the Other
 
@@ -92,13 +90,13 @@ The rule is simple: offset the sink and stove by about one cabinet width so you 
 
 ### Open-Ended vs Closed-Ended Galleys
 
-An open-ended galley has a door or opening at both ends. People will cut through it, so keep the fridge near one end. Family members can grab a drink without walking into the cooking zone.
+An open-ended galley has an opening at both ends, so people cut through it. Keep the fridge near one end, so nobody walks into the cooking zone for a drink.
 
-A closed-ended galley has a wall at the far end. Put the stove away from the entrance, closer to the far end. The cook works out of the way, and nobody walks past hot pans.
+A closed-ended galley has a wall at the far end. Put the stove closer to that wall, so nobody walks past hot pans.
 
 ### Sharing a Galley With a Second Cook
 
-Two people can share a galley if each takes one run. One preps, the other cooks or cleans, and nobody crosses the aisle with a knife or a hot pan. An aisle of 48 inches makes this easy. Below that, take turns at the stove. Batch cooking also cuts the crowding; our [easy meal prep ideas](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) work for two.
+Two people can share a galley if each takes one run, so nobody crosses the aisle with a knife or a hot pan. Below a 48-inch aisle, take turns at the stove. Batch cooking also cuts the crowding; our [easy meal prep ideas](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/) work for two.
 
 ### Galley Workflow Cheat Sheet
 
@@ -118,22 +116,22 @@ To maximize space in a small galley kitchen, protect two things: the aisle and o
 
 ### Keep the Floor Completely Clear
 
-The aisle is the only floor you have. A trash can, a bag of recycling, a step stool or a pet bowl parked in it shrinks the room by a third. Move all of it.
+A trash can, step stool or pet bowl parked in the aisle shrinks the room by a third. Move all of it.
 
-- **Trash:** Put it in a pull-out under the sink, or use a slim can that tucks into the gap beside the fridge.
+- **Trash:** Put it in a pull-out under the sink, or use a slim can beside the fridge. The [simplehuman 40 Liter Slim Step Trash Can](https://www.amazon.com/simplehuman-40L-Slim-Step-Trash-Can/dp/B004L9L42O/?tag=kitchenpot-20) is about 10 inches wide, and its foot pedal keeps your hands free mid-recipe.
 - **Recycling:** Hang a bag on the inside of a cabinet door, or keep a flat bin on top of the fridge for paper.
-- **Step stool:** Use a folding one that hangs on a hook at the end of a run.
+- **Step stool:** Use a folding one that hangs at the end of a run. The [COSCO 2-Step Big Step Folding Step Stool](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B0032JRVPI/?tag=kitchenpot-20) folds to about 2 inches flat.
 - **Pet bowls:** Move them to the room next door.
 
 ### Win Back One 36-Inch Prep Stretch
 
 Most galleys have plenty of total counter but no single clear stretch to work on. Find the best spot, usually between the sink and the stove, and clear 36 inches of it completely. Our guide to [make more counter space in a small kitchen](/blog/make-more-counter-space-in-a-small-kitchen/) covers every way to add work surface.
 
-Two cheap helpers work well in a galley. An [over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) turns the sink into extra prep space. A stove cover board turns cold burners into a landing spot.
+Two cheap helpers work well in a galley. An [over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) turns the sink into extra prep space; we like the [Lipper International Bamboo Over-the-Sink Expandable Cutting Board](https://www.amazon.com/Lipper-International-Bamboo-Over-the-Sink-Expandable-Cutting-Board/dp/B09ZQ98MKJ/?tag=kitchenpot-20) because it stretches to fit most sinks. The [SwallowLiving Noodle Board Stove Cover](https://www.amazon.com/SwallowLiving-Noodle-Board-Stove-Cover-Handles/dp/B0CR2TJSL1/?tag=kitchenpot-20) turns cold burners into a landing spot. Lift it off before you turn on any burner.
 
 ### Cut the Countertop Appliances
 
-Countertop appliances are the biggest counter thieves in a galley. Keep one or two out, and store the rest. Our method for deciding is in [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/). If you cook for one, the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) guide shows which ones earn their spot.
+Keep one or two countertop appliances out, and store the rest. Our method for deciding is in [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/). If you cook for one, the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) guide shows which ones earn their spot.
 
 ## How Do You Add Storage to a Galley Kitchen?
 
@@ -147,24 +145,24 @@ If you own, fill that gap with taller cabinets or stacked cabinets. If you rent,
 
 ### Use the Backsplash Wall
 
-The 18 inches between counter and upper cabinet is prime storage in a galley. Run a rail with S-hooks along it for spatulas and ladles. Mount a [magnetic knife strip](/blog/best-magnetic-knife-strip/) to retire the knife block. Add a slim 4-inch shelf for spices and oil.
+The 18 inches between counter and upper cabinet is prime storage in a galley. Run a rail with S-hooks along it for spatulas and ladles. The [Fasthomegoods Stainless Steel Wall Rail with 10 S-Hooks](https://www.amazon.com/Fasthomegoods-Stainless-Steel-Kitchen-Wall-Rail-S-Hooks/dp/B00X1N67QO/?tag=kitchenpot-20) screws to the wall and holds a full set of tools. Mount a [magnetic knife strip](/blog/best-magnetic-knife-strip/) to retire the knife block. The [Modern Innovations 16-Inch Stainless Steel Magnetic Knife Bar](https://www.amazon.com/Modern-Innovations-16-Inch-Stainless-Steel-Magnetic-Knife-Bar/dp/B016ISHAC8/?tag=kitchenpot-20) fits a short stretch of backsplash. Add a slim 4-inch shelf for spices and oil.
 
 Keep it to one side of the galley only. Rails on both walls make the aisle feel narrower. Our [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) cover pegboards, rails and wall grids in detail.
 
 ### Use the Ends of Each Run
 
-Each counter run has an exposed side panel at the end. That flat panel holds a lot. Add a row of hooks for aprons and towels, a slim spice rack, or a hanging pot lid holder. A folding step stool can hang there too.
+Each counter run has an exposed side panel at the end. That flat panel holds a lot. Add a row of hooks for aprons and towels, a slim spice rack, or a hanging pot lid holder. [Command Large Utility Hooks](https://www.amazon.com/Command-12-Large-Utility-Hooks/dp/B01I254474/?tag=kitchenpot-20) hold 5 pounds each and peel off clean, so renters can use them too.
 
 ### Fill the Gaps Beside the Fridge and Stove
 
-Most galleys have a 3 to 9-inch gap beside the fridge or between cabinets. A slim rolling pull-out fits there and holds cans, oils and spices. Check the depth so it rolls out flush with the counter front.
+Most galleys have a 3 to 9-inch gap beside the fridge or between cabinets. A slim rolling pull-out fits there and holds cans, oils and spices. The [3-Tier Slim Rolling Cart](https://www.amazon.com/3-tier-slim-rolling-cart/dp/B07QRH2PZS/?tag=kitchenpot-20) is the budget fix. For hidden storage, the [Honey-Can-Do 3-Tier Slim Rolling Cart with Basket Drawers](https://www.amazon.com/Honey-Can-Do-3-Tier-Slim-Rolling-Cart-Basket-Drawers/dp/B09RQCX46D/?tag=kitchenpot-20) keeps small packets from tipping over. Check the depth so it rolls out flush with the counter front.
 
 The side of the fridge also works. Magnetic racks hold foil, wrap and spices, as long as the side is not against the stove.
 
 ### Make the Cabinet Interiors Work Harder
 
-- Add a second shelf in tall lower cabinets so plates and bowls do not stack 10 high.
-- Put pull-out bins in deep lower cabinets so nothing hides at the back.
+- Add a second shelf in tall lower cabinets so plates and bowls do not stack 10 high. The [YouCopia UpSpace Adjustable-Height Shelf Riser](https://www.amazon.com/YouCopia-UpSpace-Adjustable-Height-Shelf-Riser/dp/B07XVQWCS5/?tag=kitchenpot-20) is 16 inches wide with adjustable legs and needs no tools.
+- Put pull-out bins in deep lower cabinets so nothing hides at the back. Renters can use the [AmzAge No-Drill Pull Out Cabinet Organizer](https://www.amazon.com/AmzAge-No-Drill-Pull-Out-Cabinet-Organizer/dp/B0DJ7J7LGY/?tag=kitchenpot-20), which sticks down with adhesive.
 - Hang a bag holder or wrap rack inside a door.
 - Use a turntable in the cabinet under the sink. Our list of [lazy Susan organizers](/blog/8-best-lazy-susan-organizers-for-your-kitchen/) shows the sizes that fit.
 
@@ -193,7 +191,7 @@ Toe-kick drawers are worth a note for bakers. That shallow space under the base 
 
 ## Where Should the Microwave Go in a Galley Kitchen?
 
-The microwave should go off the counter and out of the aisle. In a galley, it is usually the first thing you can move to win back a full 2 feet of counter.
+The microwave should go off the counter and out of the aisle. Moving it wins back a full 2 feet of counter.
 
 | Spot | Works best when | Watch out for |
 |---|---|---|
@@ -204,7 +202,7 @@ The microwave should go off the counter and out of the aisle. In a galley, it is
 | Rolling cart | You rent and want flexibility | Parks at the end of a run, not in the aisle |
 | On top of the fridge | Never | Too high; never lift hot liquid above your shoulders |
 
-An over-the-range model saves the most space, but it replaces your range hood. If you fry or sear often, read our [small kitchen ventilation guide](/blog/small-kitchen-guide-range-hood-ventilation-cooking-smell/) before you choose. If over the range is right for you, our list of [over-the-range microwaves](/blog/7-best-over-the-range-microwaves/) shows the options. If you keep a hood, a slim [under-cabinet range hood](/blog/best-under-cabinet-range-hood/) takes far less visual space than a bulky old one.
+An over-the-range model saves the most space, but it replaces your range hood. If you fry or sear often, read our [small kitchen ventilation guide](/blog/small-kitchen-guide-range-hood-ventilation-cooking-smell/) before you choose. If over the range is right for you, our list of [over-the-range microwaves](/blog/7-best-over-the-range-microwaves/) shows the options. In a tight galley we lean toward the [LG MVEF1337F Low-Profile Over-the-Range Microwave](https://www.amazon.com/LG-MVEF1337F-Low-Profile-Range-Microwave/dp/B0DWJG7KTK/?tag=kitchenpot-20), since its shorter body leaves more headroom over the burners. If you keep a hood, a slim [under-cabinet range hood](/blog/best-under-cabinet-range-hood/) takes far less visual space than a bulky old one.
 
 ## Galley Kitchen Lighting: Light Both Runs
 
@@ -212,15 +210,17 @@ Lighting is where most galleys fail. A single ceiling fixture sits behind you, s
 
 ### Add Under-Cabinet Lights on Both Sides
 
-Run LED strips under the upper cabinets on both runs, full length. Mount them toward the front edge of the cabinet bottom, so the light falls across the counter instead of glaring off the backsplash. Plug-in and battery versions need no wiring.
+Run LED strips under the upper cabinets on both runs, full length. Mount them toward the front edge of the cabinet bottom, so the light falls across the counter instead of glaring off the backsplash.
+
+For renters, the [Enbrighten 22-Inch Plug-In Linkable LED Under Cabinet Light](https://www.amazon.com/Enbrighten-22-Inch-Linkable-Plug-In-Under-Cabinet-Light/dp/B01MQXV843/?tag=kitchenpot-20) is our pick. It gives warm 3000K light, and several bars link together so a whole run works from one outlet. If you own and can hardwire, the [Kichler 4U Series 30-Inch LED Under Cabinet Light](https://www.amazon.com/Kichler-4U-Series-30-Inch-LED-Under-Cabinet-Light/dp/B01ETARS2O/?tag=kitchenpot-20) is only 1 inch tall, also 3000K, and dimmable.
 
 If one side has no upper cabinets, mount a slim LED bar under a shelf, or use a plug-in wall light aimed at the counter.
 
 ### Spread the Ceiling Light Down the Room
 
-One fixture in the middle leaves both ends dim. Two or three flush fixtures spaced down the center line light the room evenly. A track light with heads aimed at each counter also works well.
+One fixture in the middle leaves both ends dim. Use two or three flush fixtures down the center line, or a track light with heads aimed at each counter.
 
-Use the same bulb color everywhere, ideally 2700K to 3000K. K stands for kelvins, the measure of how warm or cool light looks. Pick bulbs with a CRI (color rendering index) of 90 or higher, so food looks true.
+Use the same bulb color everywhere, ideally 2700K to 3000K. K stands for kelvins, the measure of how warm or cool light looks. Pick bulbs with a CRI (color rendering index) of 90 or higher, so food looks true. [Philips Ultra Definition 2700K A19 LED Bulbs](https://www.amazon.com/Philips-Ultra-Definition-LED-A19-Bulbs-2700K-8-Pack/dp/B0B927WMTY/?tag=kitchenpot-20) meet both marks and come in an 8-pack, enough to match every fixture.
 
 ### Light the Far End
 
@@ -235,10 +235,8 @@ You make a galley kitchen look bigger by breaking the tunnel effect. Two identic
 1. **Lighten one side.** Keep one run lighter and calmer, with fewer things on show. Open shelves or no uppers on one side opens the room the most.
 2. **Brighten the end wall.** Paint it the lightest color in the room, or put a mirror or window treatment there. The eye travels to it and the room feels longer.
 3. **Use light colors.** Pick wall paint with an LRV (light reflectance value) of 70 or higher. LRV runs from 0 for black to 100 for white.
-4. **Keep counters bare.** Every object is a stop for the eye. In a narrow room, those stops add up fast.
-5. **Lay one plain runner, or no rug.** A long, low-pile runner in a light color reads as one surface. Small busy mats chop up the floor.
-6. **Use slim hardware in one finish.** Bulky knobs on both walls add visual clutter where you walk.
-
+4. **Keep counters bare.** Every object is a stop for the eye.
+5. **Lay one plain runner, or no rug.** A long, low-pile runner in a light color reads as one surface. The [PURRUGS Machine Washable Kitchen Runner](https://www.amazon.com/PURRUGS-Machine-Washable-Kitchen-Runner-Rug/dp/B0CJBKVW8D/?tag=kitchenpot-20) is 2 by 6 feet, low enough to clear cabinet doors, and goes in the washer.
 Our full guide on how to [make a small kitchen look bigger](/blog/make-a-small-kitchen-look-bigger/) covers color, lighting and sightlines in more depth.
 
 ## Can a Galley Kitchen Have an Island?
@@ -251,9 +249,11 @@ A galley kitchen with island-like function is easy, though. You just need a piec
 
 A rolling cart 16 to 18 inches deep is the best island alternative for a galley. Pick one with locking wheels and a top at 36 inches, so it lines up with your counters. Park it at the open end of the galley or in a gap. Roll it out when you need extra prep space or a landing spot, then roll it back.
 
+The [HOMCOM Rolling Kitchen Island Cart with Drop Leaf](https://www.amazon.com/HOMCOM-Rolling-Kitchen-Island-Cart-Drop-Leaf/dp/B0713R15D7/?tag=kitchenpot-20) is the one we would buy. It has lockable wheels, two drawers and cabinets below, and the leaf folds down when the aisle is busy. If it doubles as a microwave stand, set the microwave on the open top only. Never put a heat appliance on a lower shelf under another shelf.
+
 ### Drop-Leaf or Fold-Down Surface
 
-A wall-mounted drop-leaf table at the end of the galley gives you a work or eating surface that folds flat to about 6 inches. In a 9 to 10-foot galley, a narrow drop-leaf cart can even live in the aisle against one run.
+A wall-mounted drop-leaf table at the end of the galley gives you a work or eating surface that folds flat to about 6 inches.
 
 ## Galley Kitchen Designs for Very Narrow Rooms
 
@@ -286,36 +286,21 @@ For more ideas under a tight budget, see [small kitchen ideas on a budget](/blog
 
 If you own the kitchen, these galley kitchen remodel ideas give the biggest gain for the money. They are listed from smallest job to largest.
 
-1. **Taller upper cabinets.** Replace 30-inch uppers with 42-inch ones, or add a row of small cabinets on top.
-2. **Deep drawers instead of base cabinets.** Drawers 24 inches wide or more hold pots, plates and food, and you can see everything from above.
-3. **A slim pull-out pantry.** Fit a 9 to 12-inch pull-out in the run, usually beside the fridge.
+1. **Taller upper cabinets.** Replace 30-inch uppers with 42-inch ones.
+2. **Deep drawers instead of base cabinets.** You see everything from above.
+3. **A slim pull-out pantry.** Fit a 9 to 12-inch pull-out beside the fridge.
 4. **Counter-depth or compact appliances.** Widen the aisle and line up the fronts.
-5. **A pocket or sliding door.** A swinging door at the galley entrance blocks the end of a run. A pocket door frees that space.
-6. **A pass-through.** Cut a counter-height opening in one wall into the next room. It adds light, a serving spot and a view, and it ends the tunnel feel for good.
-7. **Remove one wall.** Taking out one side turns a galley into a one-wall kitchen with an island. This is the biggest job, and a load-bearing wall needs a professional.
+5. **A pocket or sliding door.** It frees the end of the run a swinging door blocks.
+6. **A pass-through.** A counter-height opening into the next room adds light and a serving spot.
+7. **Remove one wall.** This turns a galley into a one-wall kitchen with an island. A load-bearing wall needs a professional.
 
 ## A Weekend Plan to Reset Your Galley
 
 Here is the order we would follow, start to finish.
 
-**Saturday morning: clear and measure**
-
-1. Take everything off the counters and the floor.
-2. Measure the aisle and every door swing.
-3. Decide which side is hot and which is wet.
-
-**Saturday afternoon: sort and store**
-
-4. Empty one cabinet at a time. Donate duplicates and anything unused for a year.
-5. Put daily items in the drawers and cabinets closest to where you use them.
-6. Move the trash, recycling and step stool off the floor.
-
-**Sunday: walls and light**
-
-7. Fit under-cabinet lights on both runs.
-8. Mount a rail and knife strip on one backsplash only.
-9. Add hooks to the end panels and a pull-out in any gap.
-10. Clear one 36-inch prep stretch and keep it bare.
+1. **Saturday morning:** Clear the counters and floor, measure the aisle and door swings, and pick your hot and wet sides.
+2. **Saturday afternoon:** Empty one cabinet at a time, donate duplicates, and store daily items closest to where you use them.
+3. **Sunday:** Fit lights on both runs, mount a rail and knife strip on one backsplash, add end-panel hooks, and clear one 36-inch prep stretch.
 
 Bare counters and a clear floor also leave pests nothing to find. See [how to keep pests out of a small kitchen](/blog/how-to-keep-pests-out-of-a-small-kitchen/). Then stock only what fits, using [how to stock a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/).
 
@@ -324,9 +309,8 @@ Bare counters and a clear floor also leave pests nothing to find. See [how to ke
 These are the mistakes we see most often in narrow kitchens.
 
 - **Parking things in the aisle.** A trash can or cart in the middle of the floor blocks the whole kitchen. Keep the aisle empty from end to end.
-- **Clutter on both counters.** Two busy walls facing each other make the room feel half its width. Keep one side calm.
+- **Clutter and rails on both walls.** Two busy walls make the room feel half its width. Keep one side calm.
 - **One ceiling light.** It puts every counter in your shadow. Light both runs.
-- **Rails and shelves on both walls.** It narrows the aisle at head height. Use one wall for open storage.
 - **Dishwasher facing the oven.** Two open doors trap you. Offset them by at least one cabinet width.
 - **A deep fridge at the narrow end.** A standard fridge eats aisle space. Choose counter-depth when you replace it.
 - **Forcing an island.** A fixed island in a 9-foot galley leaves two aisles too narrow to use. Choose a cart.

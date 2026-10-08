@@ -3,7 +3,7 @@ title: "Where to Put the Microwave in a Small Kitchen: 7 Spots Ranked"
 slug: where-to-put-microwave-in-small-kitchen
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-10-07
-modDate: 2026-10-07
+modDate: 2026-10-08
 author: Boniface Muriuki
 image: ""
 coverAlt: "A small kitchen with a compact microwave on a sturdy open shelf just below shoulder height, a clear counter beneath it and a plug-in outlet beside it"
@@ -34,15 +34,13 @@ source: decap
 ---
 Figuring out where to put the microwave in a small kitchen is harder than it sounds. It is bulky, it gets hot and it eats prime counter space.
 
-The good news is that you have more options than the counter. A microwave can live on a cart, a shelf, a wall bracket, over the stove or in a drawer. Each spot has its own rules for air, height and power. Below we rank all seven, explain the one spot to skip, and show you how to set it up safely.
+You have more options than the counter: a cart, a shelf, a wall bracket, over the stove or a drawer. Below we rank all seven, explain the one spot to skip, and show you how to set it up safely.
 
 **The short version:** For most small kitchens, the best spot is a counter corner you cannot use well for prep anyway, followed closely by a sturdy rolling cart or an open shelf. Over-the-range and built-in models free the most space but need an installer and a dedicated circuit. Wherever it goes, follow the manual's clearance, never run it in a closed cabinet, and keep its bottom no higher than about shoulder height. Skip the top of the fridge.
 
 ## Where Should a Microwave Go in a Small Kitchen?
 
 A microwave should go where it gets open air, sits at or below shoulder height, plugs straight into a wall outlet and has a landing spot beside or below it. Those four rules matter more than the exact location.
-
-Here is what each rule means in practice:
 
 - **Air:** The microwave pushes out heat and steam through vents. Those vents need open space, usually a few inches. Your manual lists the exact numbers for your model.
 - **Height:** You will lift bowls of boiling soup and steaming water out of it. That should happen at chest level or below, never over your face.
@@ -53,7 +51,7 @@ Any place that meets all four is a good place. If you are still planning the who
 
 ## The 7 Microwave Spots Ranked
 
-We ranked each spot on safety, space saved, cost and whether a renter can do it.
+Ranked on safety, space saved, cost and renter-friendliness:
 
 | Rank | Spot | Saves counter? | Renter-friendly? | Main watch-out |
 |---|---|---|---|---|
@@ -79,7 +77,17 @@ At 36 inches high, the counter puts the microwave at a perfect height. You lift 
 4. Plug it into a wall outlet right there, with no cord crossing the sink or stove.
 5. Keep the counter in front of it clear as your landing spot.
 
-The downside: it still takes counter space. If you have one short run of counter, read how to [make more counter space in a small kitchen](/blog/make-more-counter-space-in-a-small-kitchen/) before you commit. Our [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) show how to keep the rest of the counter clear around it.
+### The Right Microwave for a Corner
+
+Size the microwave to the corner, not the other way around. For a short counter, we recommend the [Toshiba 0.7 Cu Ft Microwave MM-EM07PA](https://www.amazon.com/TOSHIBA-Microwave-ChefDefrost-MM-EM07PA-BK/dp/B0F7RB5BQ8/?tag=kitchenpot-20). It measures about 17.1 x 12.2 x 9.5 inches, so it tucks into a corner and leaves your prep space alone. At 700 watts, it handles reheating and popcorn for one or two people.
+
+If you cook for a household or want faster reheating, step up to the [Toshiba 0.9 Cu Ft Microwave ML-EM09PA](https://www.amazon.com/TOSHIBA-ML-EM09PA-Small-Microwave-Oven/dp/B0DPQPGC75/?tag=kitchenpot-20). It is still compact at 0.9 cubic feet, runs at 900 watts, and its 10.6-inch turntable fits a standard dinner plate.
+
+### Get the Space Above It Back
+
+The space over a counter microwave is usually wasted. The [PUSDON Expandable Microwave Oven Rack](https://www.amazon.com/PUSDON-Expandable-Microwave-Oven-Rack-2-Tier/dp/B08PYF411Z/?tag=kitchenpot-20) is a freestanding two-tier steel shelf that straddles the microwave and holds up to 160 pounds, with no drilling. Set it up so the gap above and beside the microwave is at least what the manual asks for. Store light, dry things up there, like spices or mugs, and never park another heat appliance on it.
+
+The downside: it still takes counter space. With one short run of counter, read how to [make more counter space in a small kitchen](/blog/make-more-counter-space-in-a-small-kitchen/) before you commit. Our [countertop organization ideas for a small kitchen](/blog/countertop-organization-ideas-for-a-small-kitchen/) show how to keep the rest of the counter clear around it.
 
 ## Spot 2: Rolling Cart, Best When Counter Space Is Gone
 
@@ -94,7 +102,9 @@ Pick a cart with these features:
 
 Park the cart beside an outlet and leave it there. Use the shelves below for plates, mugs and dry snacks.
 
-Carts need floor space. Keep your main walkway at 42 inches for one cook, and never under 36 inches. Our [small kitchen island ideas](/blog/small-kitchen-island-ideas/) explain how much floor a cart really needs, and our [small kitchen storage ideas](/blog/small-kitchen-storage-ideas/) show other ways to use the space underneath.
+Our pick is the [HOMCOM Rolling Kitchen Island Cart with Drop Leaf](https://www.amazon.com/HOMCOM-Rolling-Kitchen-Island-Cart-Drop-Leaf/dp/B0713R15D7/?tag=kitchenpot-20). The microwave sits on its open wood top, the wheels lock, and the drop leaf folds up to give you a landing spot right beside the door. Its two drawers and two cabinets hold plates and snacks. If you want more drawers, the [Giantex Kitchen Island Cart with Drop-Leaf Tabletop](https://www.amazon.com/Giantex-Kitchen-Island-Cart-Drop-Leaf/dp/B07ZKL9PYL/?tag=kitchenpot-20) has three drawers, a large cabinet and a side towel rack. With either cart, confirm the top's weight rating covers your microwave before you load it.
+
+Carts need floor space, so keep the main walkway at 42 inches for one cook. Our [small kitchen island ideas](/blog/small-kitchen-island-ideas/) explain how much floor a cart really needs, and our [small kitchen storage ideas](/blog/small-kitchen-storage-ideas/) show other ways to use the space underneath.
 
 ## Spot 3: Open Shelf (Can You Put a Microwave on a Shelf?)
 
@@ -108,7 +118,7 @@ Depth is the first problem. Most wall shelves are 12 inches deep, like upper cab
 
 Strength is the second. Fasten a wall shelf into studs, not drywall anchors. Studs are usually 16 inches apart, center to center, so a 24-inch shelf can catch two.
 
-Air is the third. Keep the sides, top and back open to the space the manual lists. A cubby that barely fits is a cabinet in all but name.
+Air is the third. Keep the sides, top and back open to the space the manual lists.
 
 Our [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) cover shelf and rail options in more detail. If your kitchen lacks uppers entirely, our guide to [organizing a small kitchen without cabinets](/blog/organize-a-small-kitchen-without-cabinets/) shows how shelving units can carry the load.
 
@@ -121,6 +131,8 @@ Only a microwave built for over-the-range use can go there. A regular countertop
 ### The Trade-Offs of an Over-the-Range Microwave
 
 The fan in an OTR is usually weaker than a real range hood, and its shape catches less smoke. If you sear, stir-fry or cook with a lot of oil, a hood does a better job. Read our [small kitchen ventilation guide](/blog/small-kitchen-guide-range-hood-ventilation-cooking-smell/) before you swap one for the other. A slim [under-cabinet range hood](/blog/best-under-cabinet-range-hood/) is the alternative if venting matters more to you than counter space.
+
+You can soften that trade-off with the right model. The [LG MVEF1337F Low-Profile Over-the-Range Microwave](https://www.amazon.com/LG-MVEF1337F-Low-Profile-Range-Microwave/dp/B0DWJG7KTK/?tag=kitchenpot-20) has a 550 CFM fan, which means it moves 550 cubic feet of air a minute, strong for an OTR. Its low-profile body also leaves more headroom over the burners. If you want more inside space instead, the [LG MVEM1825F Over-the-Range Microwave](https://www.amazon.com/LG-MVEM1825F-Over-the-Range-Microwave/dp/B0BJ7SXVDW/?tag=kitchenpot-20) holds 1.8 cubic feet with a 300 CFM fan and sensor cooking.
 
 Height is the other trade-off. An OTR sits high, so shorter cooks may lift hot liquid above shoulder height. If that is you, choose another spot. Never reach over a pot that is cooking below.
 
@@ -145,18 +157,16 @@ Microwave wall brackets hold the unit on two arms. They suit a tiny kitchen whos
 - **They must go into studs.** A loaded microwave pulls hard on the bracket every time you open the door. Drywall alone will not hold it.
 - **The door swing needs room.** Check that the door opens fully without hitting a cabinet, window frame or light.
 - **Renters often cannot drill.** Large screws into studs leave holes your lease may not allow.
-- **Height still matters.** Mount it so the bottom sits no higher than about shoulder height, with a landing spot below.
 
 Mount over counter, never over the sink or stove, so the counter becomes your landing spot.
 
 ## Spot 7: On Top of the Fridge, and Why It Is Usually a Bad Idea
 
-Can you put a microwave on top of the fridge? You can, but we strongly advise against it. It is the most common microwave mistake in tiny kitchens. Here is why:
+You can, but we strongly advise against it. It is the most common microwave mistake in tiny kitchens:
 
-- **It is too high.** Most full-size fridges stand well above shoulder height, often 5 to 6 feet tall. You end up lifting boiling water or soup above your face. One slip means burns to the face, neck and chest.
+- **It is too high.** Most full-size fridges stand well above shoulder height, often 5 to 6 feet tall. You end up lifting boiling water or soup above your face.
 - **It blocks heat on both sides.** Many fridges release heat at the top and back. A microwave sitting there traps that heat, and the fridge works harder. The microwave's own vents get blocked by the cabinet above or the wall behind.
 - **It shakes.** Every door slam nudges the microwave toward the edge.
-- **Many fridge manuals warn against it.** Check yours. Many say not to place appliances or heavy objects on top.
 
 A short under-counter mini fridge is a different case, since its top sits near counter height. Check its manual for a weight limit and keep the vents clear. Our guide to [organizing a small fridge](/blog/organize-a-small-fridge/) covers what that top surface can safely hold.
 
@@ -188,31 +198,31 @@ These rules apply no matter where yours ends up.
 
 ### How High Should a Microwave Be?
 
-The bottom of the microwave should sit no higher than about your shoulder height. For many adults, that is somewhere around 54 inches from the floor, but measure your own shoulder. If more than one person cooks, set it for the shortest one.
+The bottom of the microwave should sit no higher than about your shoulder height. Measure your own shoulder rather than guessing. If more than one person cooks, set it for the shortest one.
 
 Counter height, at 36 inches, is ideal for most people. A drawer under the counter is fine too, but skip floor-level shelves that make you bend with hot food.
 
 ## Dedicated Outlet and Circuit Basics
 
-A countertop microwave can pull close to the full capacity of a standard kitchen circuit while it runs. Add a kettle, toaster or air fryer on the same circuit, and the breaker trips.
+A countertop microwave can pull most of a standard kitchen circuit's capacity. Add a kettle or air fryer on the same circuit, and the breaker trips.
 
 - **Outlet vs circuit.** An outlet is the plug in the wall. A circuit is the wire and breaker that feed one or more outlets. Two outlets side by side often share one circuit.
 - **Plug straight into the wall.** No extension cords and no power strips. They are not made for that much steady current and can overheat.
 - **Use a grounded, three-prong outlet.** Never cut off or bend the third prong.
 - **Watch for trips.** If the breaker trips when the microwave and kettle run together, they share a circuit. Run them one at a time, or move one to an outlet on a different circuit.
-- **Dedicated circuits for installed models.** Over-the-range, built-in and drawer microwaves usually need their own circuit. That is a job for a licensed electrician.
+- **Dedicated circuits for installed models.** Installed microwaves usually need their own circuit, which is a job for a licensed electrician.
 
 To find which outlets share a circuit, flip one breaker off and see which outlets go dead. Our guide on [how to reduce kitchen energy use in a small apartment](/blog/how-to-reduce-kitchen-energy-use-in-a-small-apartment/) explains more about what your appliances draw.
 
 ## Where to Put the Microwave in a Small Galley Kitchen
 
-A galley kitchen has two parallel counters with a narrow aisle between. Keep the microwave out of that aisle. Our picks, in order:
+In a galley, keep the microwave out of the narrow aisle. Our picks, in order:
 
 1. **The end of one run,** farthest from the entry, where it does not crowd the main prep stretch.
 2. **A wall shelf at the closed end,** if the galley ends in a wall instead of a window.
 3. **Over the range,** if you own the place and the stove is on the run with fewer cabinets.
 
-Avoid placing it right across from the stove, where you turn between them with hot pans. Put it on the same side as the fridge if you can, so cold food, prep and reheating stay together. Our [galley kitchen ideas](/blog/galley-kitchen-ideas/) cover the rest of the layout.
+Avoid placing it right across from the stove. Put it on the same side as the fridge if you can, so cold food, prep and reheating stay together. Our [galley kitchen ideas](/blog/galley-kitchen-ideas/) cover the rest of the layout.
 
 ## Where to Put the Microwave in a Tiny Kitchen or Studio
 
@@ -242,9 +252,10 @@ Both get hot, so each needs open air, a safe height and its own wall outlet.
 - **Never stack them.** Do not put an air fryer on top of the microwave, or the other way around. Microwaves often vent through the top, and air fryers blow hot air out the back.
 - **Keep one out, store one.** Leave the one you use most out. Store the other in a low cabinet once it cools.
 - **Separate their outlets.** If they share a circuit, run them one at a time.
-- **Keep air fryers out from under cabinets while they run.** Slide it forward so the hot exhaust does not blow straight into the cabinet above.
+- **Keep air fryers out from under cabinets while they run.** Slide it forward so the hot exhaust does not blow straight into the cabinet above. The [Handy Caddy Sliding Appliance Tray](https://www.amazon.com/Handy-Caddy-Sliding-Appliance-Tray/dp/B003LQZKIC/?tag=kitchenpot-20) makes that a one-hand pull, and budget [appliance glide mats](https://www.amazon.com/Appliance-Glide-Mats/dp/B0993RS1GD/?tag=kitchenpot-20) do the same job with less lift.
+- **Wrap the cord before you store it.** Stick-on [SisBroo Cord Organizers](https://www.amazon.com/SisBroo-Cord-Organizer-Kitchen-Appliances/dp/B0B9JCSXNX/?tag=kitchenpot-20) hold the cord against the back of the air fryer, so it drops into a cabinet without a tangle.
 
-Our list of [best air fryers under $100](/blog/best-air-fryers-under-100/) includes compact models that store easily. Clean the basket often so grease does not build up near other appliances, as shown in [how to clean an air fryer basket](/blog/how-to-clean-an-air-fryer-basket/).
+Pick an air fryer small enough to store. For one or two people, we recommend the [Cosori Lite 2.1-Quart Air Fryer](https://www.amazon.com/Cosori-Lite-Small-Air-Fryer-Gray/dp/B0BDFRZX3F/?tag=kitchenpot-20). It is light and narrow enough to share a counter run with the microwave. If you cook for more, the [Ninja AF101 4-Quart Air Fryer](https://www.amazon.com/Ninja-Air-Fryer-AF101-4-quart/dp/B07FDJMC9Q/?tag=kitchenpot-20) holds 4 quarts and still fits in a base cabinet. Our list of [best air fryers under $100](/blog/best-air-fryers-under-100/) has more compact models. Clean the basket often so grease does not build up near other appliances, as shown in [how to clean an air fryer basket](/blog/how-to-clean-an-air-fryer-basket/).
 
 ## Alternatives: Do You Need a Separate Microwave?
 
@@ -261,9 +272,13 @@ The best way to free space is to own one fewer appliance. Ask whether another ma
 
 A combo unit saves the most space if you use both. It reheats like a normal microwave and crisps with hot air. The trade-off is a smaller crisping space and more cleaning. It still needs the clearance in its manual, so place it like any microwave.
 
+If you own the place and want one box over the stove, the [Frigidaire Gallery GMOS1968AF](https://www.amazon.com/Frigidaire-Gallery-GMOS1968AF-Range-Microwave/dp/B0CMV75YXH/?tag=kitchenpot-20) adds convection and air fry to an over-the-range microwave, with a 400 CFM fan. The [LG Studio MHES1738F](https://www.amazon.com/LG-Studio-MHES1738F-Convection-Microwave/dp/B0BFJPPDT7/?tag=kitchenpot-20) goes further with convection, air fry and steam. Both replace a countertop microwave and an air fryer in one move.
+
 ### Toaster Oven Instead of a Microwave
 
-A toaster oven reheats pizza, fries and roasted vegetables crisp instead of soggy, as our guide on [how to reheat pizza](/blog/how-to-reheat-pizza/) shows. It is slower for soup and coffee, but a pot or kettle covers those.
+A toaster oven reheats pizza, fries and roasted vegetables crisp instead of soggy, as our guide on [how to reheat pizza](/blog/how-to-reheat-pizza/) shows. It is slower for soup and coffee, but a pot or kettle covers those. A [BUYDEEM Stainless Steel Electric Kettle](https://www.awin1.com/cread.php?awinmid=101781&awinaffid=1956629&clickref=where-to-put-microwave-in-small-kitchen&ued=https%3A%2F%2Fus.buydeem.com%2Fproducts%2Fbuydeem-stainless-steel-electric-kettle-k640) boils water for tea, instant oats and noodles faster than a microwave does.
+
+For a small toaster oven that still bakes, we recommend the [Breville Mini Smart Oven BOV450XL](https://www.amazon.com/Breville-BOV450XL-Mini-Smart-Oven/dp/B006CVVA7I/?tag=kitchenpot-20). It handles toast, pizza slices and small bakes in a compact footprint. If you also want to retire an air fryer, the [NuWave Bravo Pro Smart Air Fryer Toaster Oven](https://www.amazon.com/Nuwave-Bravo-Smart-Oven-Cozy/dp/B0DCGGYKTK/?tag=kitchenpot-20) adds air frying to the same box. Both need open air and their own wall outlet.
 
 Our guide to the [best small ovens and toaster ovens for baking in small kitchens](/blog/best-small-ovens-and-toaster-ovens-for-baking-in-small-kitchens/) helps you pick one. For a broader view, see the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) and our list of [eco-friendly alternatives to common kitchen appliances](/blog/eco-friendly-alternatives-to-common-kitchen-appliances/).
 
@@ -276,13 +291,9 @@ The mistakes we see most:
 - **Microwave on top of the fridge.** Too high, poorly vented and shaky. Move it.
 - **Pushing it flat against the wall.** The back vents need air. Pull it forward to the clearance in the manual.
 - **A shelf that is too shallow.** A 12-inch shelf leaves a deep microwave hanging off the front.
-- **Drywall anchors alone.** A wall shelf or bracket for a microwave must go into studs.
-- **Stacking appliances.** A toaster oven, air fryer or fruit bowl on top blocks the vents.
 - **Blocking the walkway.** A cart in the middle of a narrow aisle is a trip hazard while you carry hot food.
 
 ## How to Pick Your Spot in 10 Minutes
-
-Grab a tape measure and the manual.
 
 1. **Measure the microwave** and add the clearance from the manual.
 2. **Measure your shoulder height.** The microwave bottom should sit no higher.

@@ -3,7 +3,7 @@ title: "How to Make More Counter Space in a Small Kitchen (Without Renovating)"
 slug: make-more-counter-space-in-a-small-kitchen
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-10-07
-modDate: 2026-10-07
+modDate: 2026-10-08
 author: Boniface Muriuki
 image: ""
 coverAlt: "A small apartment kitchen with a cutting board bridging the sink, a wooden cover over the stove and a narrow rolling cart pulled up beside the counter"
@@ -34,7 +34,7 @@ source: decap
 ---
 If you have ever chopped onions on a cutting board balanced on the stove, this guide is for you. Here is how to make more counter space in a small kitchen.
 
-Most advice tells you to clear the counter you already have. That helps, but it has a limit. Once the counter is clear and still too small, you need new surface. This guide shows where to find it, how big each option should be and how to use it safely.
+Clearing the counter helps, but it has a limit. Once it is clear and still too small, you need new surface. This guide shows where to find it and how to use it safely.
 
 **The short version:** Add surface in places your kitchen already has: over the sink, over a cold stove, on an empty wall and on wheels. Our first pick for most kitchens is a rolling cart about 36 inches tall with a wood top. Add an over-the-sink cutting board for daily chopping. If the wall allows it, a fold-down shelf gives you a full prep station that disappears when you are done.
 
@@ -54,8 +54,6 @@ Here is our rule of thumb for each job:
 | Coffee or tea station | 12 in wide | 18 in wide |
 
 A standard counter is 24 inches deep and 36 inches high. So a 2-foot run of clear counter is about 4 square feet. That is enough to chop for one meal. It is not enough to chop, hold a mixing bowl and set down a hot pan at the same time.
-
-That is the real problem in a small kitchen. You do not lack surface for one task. You lack surface for the three tasks that happen at once while you cook.
 
 So measure your clear counter now. Use a tape measure, not a guess. If your longest clear stretch is under 24 inches, you need new surface. If it is 24 to 36 inches, one or two additions will make a big difference.
 
@@ -93,15 +91,15 @@ There are two styles. A bridge board rests on the sink rim and spans the whole b
 
 Buy a board at least 2 inches longer than the bowl is wide. That gives 1 inch of grip on each side. Rubber feet or grippy strips stop it from sliding when you press down with a knife.
 
-We like boards with a built-in colander, so scraps go straight into it. Our list of the [best over-the-sink cutting boards](/blog/best-over-the-sink-cutting-board/) covers the main shapes.
+We like boards with a built-in colander, so scraps go straight into it. Our pick for most single sinks is the [Island Bamboo Over the Sink Cutting Board with Collapsible Strainer](https://www.amazon.com/Island-Bamboo-Over-the-Sink-Cutting-Board-with-Collapsible/dp/B071YDN95T/?tag=kitchenpot-20). You chop on bamboo, then push the pieces into the strainer and rinse them in place. If your sink is an odd width, the [Lipper International Bamboo Over-the-Sink Expandable Cutting Board](https://www.amazon.com/Lipper-International-Bamboo-Over-the-Sink-Expandable-Cutting-Board/dp/B09ZQ98MKJ/?tag=kitchenpot-20) slides open to fit, which saves you from guessing. Our list of the [best over-the-sink cutting boards](/blog/best-over-the-sink-cutting-board/) covers the main shapes.
 
 ### The Double-Bowl Trick
 
-If you have a double sink, cover one bowl full time while you cook. Keep the other bowl open for rinsing and draining. That one move adds about 2 square feet of permanent prep space. Lift the board off when you wash dishes.
+If you have a double sink, cover one bowl full time while you cook. Keep the other bowl open for rinsing and draining. That one move adds about 2 square feet of permanent prep space. For this job we like the budget [Dexas Over the Sink Poly Cutting Board with Collapsible Colander](https://www.amazon.com/Dexas-Over-the-Sink-Poly-Cutting-Board-with-Collapsible/dp/B07GZBFJ17/?tag=kitchenpot-20). The plastic board is light enough to lift off with one hand when you wash dishes.
 
 ## Use a Roll-Up Rack Over the Sink
 
-A roll-up rack is a row of coated steel bars joined so it rolls like a mat. Unrolled across the sink, it becomes a flat shelf. Rolled up, it fits in a drawer.
+A roll-up rack is a row of coated steel bars joined so it rolls like a mat. Unrolled across the sink, it becomes a flat shelf. Rolled up, it fits in a drawer. We recommend the [Surpahs Over-the-Sink Roll-Up Dish Drying Rack](https://www.amazon.com/Surpahs-Over-Sink-Roll-Up-Dish-Drying-Rack/dp/B00P8KHRIU/?tag=kitchenpot-20). Its steel rods are coated in silicone, so they will not scratch pans or rust over the sink.
 
 It does three jobs that free up the counter:
 
@@ -109,13 +107,13 @@ It does three jobs that free up the counter:
 - **Rinse station.** Wash produce and let it drain right where it sits.
 - **Cooling spot.** Many silicone-coated racks can hold a hot pot or baking sheet. Check the heat rating before you trust it.
 
-It is not a cutting surface. Pair it with a cutting board: rack on one side, board on the other.
+It is not a cutting surface. Pair it with a cutting board: rack on one side, board on the other. If you want a drying rack that stays put all day, the [OXO Good Grips Extendable Over-the-Sink Dish Rack](https://www.amazon.com/OXO-Good-Grips-Extendable-Over-Sink-Aluminum-Dish-Rack/dp/B09C7YML48/?tag=kitchenpot-20) extends to span the sink and drips straight into it.
 
 ## Cover the Stove When It Is Off
 
 A cold stove is 3 to 4 square feet of flat space. A standard range is 30 inches wide. A compact apartment range is often 20 or 24 inches wide. When you are not cooking, that space is free.
 
-A stove cover is a flat board that sits over the burners. Wooden ones are often called noodle boards. They have side rails that drop over the edges of the cooktop so the board does not slide.
+A stove cover is a flat board that sits over the burners. Wooden ones are often called noodle boards. They have side rails that drop over the edges of the cooktop so the board does not slide. Our pick is the [SwallowLiving Noodle Board Stove Cover](https://www.amazon.com/SwallowLiving-Noodle-Board-Stove-Cover-Handles/dp/B0CR2TJSL1/?tag=kitchenpot-20). It is solid acacia with handles, so it lifts off in one move, and it fits gas or electric stoves. It also works as a sink cover.
 
 ### Stove Cover Safety Rules
 
@@ -139,7 +137,7 @@ If you have four burners and rarely use all of them, cover the two you use least
 
 ## Roll In a Cart or Small Island
 
-A rolling cart is the best single upgrade for most small kitchens. Here is what to look for:
+A rolling cart is the best single upgrade for most small kitchens. Our first pick is the [HOMCOM Rolling Kitchen Island Cart with Drop Leaf](https://www.amazon.com/HOMCOM-Rolling-Kitchen-Island-Cart-Drop-Leaf/dp/B0713R15D7/?tag=kitchenpot-20). It has a wood top, locking wheels, two drawers and two cabinets, and the drop leaf folds down when you need the floor back. If you can spend more, the [Sophia & William Kitchen Island Cart](https://www.amazon.com/Sophia-William-Kitchen-Island-Cart-Drop-Leaf/dp/B09WR793K1/?tag=kitchenpot-20) adds a rubberwood top plus a towel bar and spice rack on the sides. Here is what to look for in any cart:
 
 - **Height: 34 to 36 inches.** That matches a standard counter. You can push it flush against the counter to extend it.
 - **Top: solid wood or butcher block.** Wire tops are useless for prep. A thick wood top takes chopping and heat from a trivet.
@@ -153,17 +151,17 @@ Park it at the end of a counter, beside the fridge or in a corner of the dining 
 
 ### Use the Cart as an Appliance Station
 
-Put the appliance that eats the most counter, such as a microwave or toaster oven, on the bottom shelf. That frees the top for prep and the counter for good. Keep at least 4 inches of open air around heat-making appliances. Our picks for the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) favor small footprints.
+Move the appliance that eats the most counter, such as a microwave or toaster oven, onto the cart's top shelf. Nothing sits above it, so the heat has somewhere to go, and your counter is free for good. Keep the lower shelves for pans, bowls and pantry jars. If a heavy appliance must stay on the counter, set it on a [Handy Caddy Sliding Appliance Tray](https://www.amazon.com/Handy-Caddy-Sliding-Appliance-Tray/dp/B003LQZKIC/?tag=kitchenpot-20). It slides the appliance out from under the cabinets to use, then back again. Keep at least 4 inches of open air around heat-making appliances. Our picks for the [best small kitchen appliances for cooking for one](/blog/best-small-kitchen-appliances-for-cooking-for-one/) favor small footprints.
 
 ## Add a Fold-Down Wall Shelf
 
 A fold-down shelf hangs flat against the wall. When you need it, you lift it up and lock the brackets. It becomes a solid ledge for chopping, mixing or plating. When you are done, it folds down and takes almost no floor space.
 
-This is our favorite fix for galley and one-wall kitchens, which often have an empty wall facing the counter.
+This is our favorite fix for galley and one-wall kitchens, which often have an empty wall facing the counter. For a narrow room, we like the [Furinno Wall-Mounted Drop-Leaf Folding Table](https://www.amazon.com/Furinno-Wall-Mounted-Drop-Leaf-Folding-Table/dp/B00LRF37YI/?tag=kitchenpot-20). It folds flat against the wall, so it costs you nothing when closed. If your walkway is wide, the [COSTWAY Wall Mounted Folding Table](https://www.amazon.com/COSTWAY-Wall-Mounted-Folding-Drop-Leaf-Table/dp/B09JKCG19Y/?tag=kitchenpot-20) gives a much bigger 31.5 by 23.5 inch top that screws into studs.
 
 ### Sizes That Work
 
-- **Depth: 12 to 16 inches.** Deeper than that and it blocks the walkway when open.
+- **Depth: 12 to 16 inches.** Deeper than that and it blocks the walkway when open, unless the room is wide.
 - **Width: 24 to 36 inches.** Enough for a cutting board and a bowl side by side.
 - **Height: 36 inches.** Match the counter so it feels natural to work at.
 
@@ -180,20 +178,20 @@ If you rent, ask your landlord before drilling. Many will allow a few screw hole
 
 ### A Shelf That Holds Storage Too
 
-Mount a slim rail or a row of hooks just above the fold-down shelf. Hang your measuring cups, a colander or a towel there. Our guide to [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) has more ways to use the wall above a work surface.
+Mount a slim rail just above the fold-down shelf. The [Fasthomegoods Stainless Steel Wall Rail with 10 S Hooks](https://www.amazon.com/Fasthomegoods-Stainless-Steel-Kitchen-Wall-Rail-S-Hooks/dp/B00X1N67QO/?tag=kitchenpot-20) comes with 10 hooks for measuring cups, a colander and a towel. It screws into the wall. If you cannot drill, [Command Large Utility Hooks](https://www.amazon.com/Command-Large-Utility-Hooks/dp/B01I254474/?tag=kitchenpot-20) hold up to 5 pounds each and peel off cleanly. Our guide to [vertical storage ideas for small kitchens](/blog/vertical-storage-ideas-for-small-kitchens/) has more ways to use the wall above a work surface.
 
 ## Turn the Dining Table Into a Prep Station
 
 In many small apartments, the dining table is the biggest flat surface you own. Even a table for two gives you 6 square feet or more. Treat it as a real station:
 
 1. **Cover it.** Lay a large cutting board or a silicone mat down first. That protects the finish and catches crumbs.
-2. **Bring a tray.** Carry all your ingredients over on one sheet pan or tray. One trip, not six.
+2. **Bring a tray.** Carry all your ingredients over on one sheet pan. A [Nordic Ware Naturals Quarter Sheet](https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Quarter-Sheet/dp/B000RYPHRK/?tag=kitchenpot-20) is the right size: 9 by 13 inches, light and easy to carry. One trip, not six.
 3. **Set a trash bowl.** Put a bowl on the table for peels and scraps. Empty it once at the end.
 4. **Work in batches.** Do all chopping at the table, then carry the prepped food back to the stove on the tray.
 
 The table is also the best place to roll dough or assemble a big batch of meals. A standard dining table is about 30 inches high. That is a bit low for heavy chopping, but good for rolling and kneading. Our guide to [baking in a small kitchen without extra counter space](/blog/how-to-bake-in-a-small-kitchen-without-extra-counter-space/) uses the table this way.
 
-For weekly batch cooking, see our [meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/). It is built around one prep session at one surface.
+If you have no table at all, the [Livinia Wings Gate-Leg Drop Leaf Table](https://www.amazon.com/Livinia-Wings-Gate-Leg-Drop-Leaf-Table/dp/B0BRP19JQW/?tag=kitchenpot-20) folds down to a narrow console and opens to seat 2 to 4. It arrives assembled and has drawers to hold your prep tools. For weekly batch cooking, see our [meal prep ideas for one person in a small kitchen](/blog/easy-meal-prep-ideas-for-one-person-in-a-small-kitchen/). It is built around one prep session at one surface.
 
 ## Keep a Folding Table for Big Days
 
@@ -219,7 +217,7 @@ Choose a solid shelf at work height, not wire. Strap tall racks to the wall so t
 
 ### Ask About a Pull-Out Board
 
-Some older kitchens already have a pull-out cutting board hidden above a drawer. Check every cabinet front for a thin slot or a small wooden lip. People live in apartments for years without finding it.
+Some older kitchens already have a pull-out cutting board hidden above a drawer. Check every cabinet front for a thin slot or a small wooden lip.
 
 If you own your home, a pull-out board can be added to a base cabinet.
 
@@ -230,11 +228,11 @@ A galley kitchen is long and narrow, with counters on both sides or one run faci
 Here is what works best in a galley:
 
 - **Fold-down shelf on the bare wall.** This is the best fix if one side has no cabinets.
-- **Slim cart at the far end.** Park a narrow cart, 12 to 16 inches deep, where the galley ends. It will not block the walkway.
+- **Slim cart at the far end.** Park a narrow cart, 12 to 16 inches deep, where the galley ends. The [Honey-Can-Do 3-Tier Slim Rolling Cart](https://www.amazon.com/Honey-Can-Do-3-Tier-Slim-Rolling-Cart-Basket-Drawers/dp/B09RQCX46D/?tag=kitchenpot-20) has basket drawers for produce and slides into a gap beside the fridge.
 - **Sink board full time.** In a galley, the sink is often the only gap in a short counter. Covering it matters more here.
 - **Nothing on the floor in the walkway.** Keep at least 36 inches of clear walking space. Less than that and two people cannot pass.
 
-Galleys also lose counter to the corners at each end. Clear those first. Then look up: rails and shelves above the counter take items off the work surface. Our guide to [small kitchen cabinet organization](/blog/small-kitchen-cabinet-organization-ideas/) helps you fit more inside the cabinets so less ends up on top.
+Then look up: rails and shelves above the counter take items off the work surface. Our guide to [small kitchen cabinet organization](/blog/small-kitchen-cabinet-organization-ideas/) helps you fit more inside the cabinets so less ends up on top.
 
 ## What Do You Do If Your Kitchen Has No Counter Space?
 
@@ -252,9 +250,7 @@ Most people only need steps 1 to 5. That alone can turn a kitchen with no counte
 
 ### Cook to Fit the Space
 
-In a kitchen this small, prep everything before you turn on any heat. Wash each tool right after you use it.
-
-Our guide to [stocking a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) covers the short list of tools you need. Fewer tools means fewer things sitting on your new surfaces. Right-sized pans help too. Our guide to the [best cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) shows why an 8-inch skillet needs half the landing space of a 12-inch one.
+Our guide to [stocking a small kitchen for solo cooking](/blog/how-to-stock-a-small-kitchen-for-solo-cooking/) covers the short list of tools you need. Right-sized pans help too. Our guide to the [best cookware sizes for cooking for one](/blog/best-cookware-sizes-for-cooking-for-one/) shows why an 8-inch skillet needs half the landing space of a 12-inch one.
 
 ## What Is the Best Way to Add Prep Space in an Apartment Kitchen?
 
@@ -277,11 +273,11 @@ Chopping at 30 inches strains your back. Chopping at 36 inches suits most adults
 
 ## Free Up the Surface You Add
 
-New surface fills up fast. Within a month, the cart holds mail and you are chopping on a plate again. Plan where things go first.
+New surface fills up fast. Plan where things go first. Store the sink board and flat trays on a [Spectrum Over the Cabinet Door Cutting Board Organizer](https://www.amazon.com/Spectrum-Over-Cabinet-Door-Cutting-Board-Organizer/dp/B0105KF2K2/?tag=kitchenpot-20). It hangs over a cabinet door with no tools.
 
 ### Get Daily Tools Off the Work Surface
 
-- **Knives.** Move the knife block to the wall. A [magnetic knife strip](/blog/best-magnetic-knife-strip/) holds a full set in a 12-inch strip of wall.
+- **Knives.** Move the knife block to the wall. A [magnetic knife strip](/blog/best-magnetic-knife-strip/) holds a full set on a short strip of wall. We like the [Modern Innovations 16-Inch Magnetic Knife Bar](https://www.amazon.com/Modern-Innovations-16-Inch-Stainless-Steel-Magnetic-Knife-Bar/dp/B016ISHAC8/?tag=kitchenpot-20). Its 16-inch stainless bar keeps every blade off the counter and out of the drawer.
 - **Utensils.** A crock of spatulas takes 6 inches of counter. A rail with hooks takes none.
 - **Pots and pans.** Keep them off the cart top. Our guide to [storing pots and pans in a small kitchen](/blog/store-pots-and-pans-in-a-small-kitchen/) has rack and cabinet ideas. Lids are their own problem. See our tips on [organizing pot lids](/blog/how-to-organize-pot-lids-in-a-small-kitchen/).
 - **Small tools.** Peelers, thermometers and measuring spoons belong in a drawer. Our guide to [organizing kitchen drawers](/blog/how-to-organize-kitchen-drawers-in-a-small-kitchen/) shows how to fit them.
