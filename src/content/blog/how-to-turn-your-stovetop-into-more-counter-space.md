@@ -1,63 +1,64 @@
 ---
-title: "How to Turn Your Stovetop Into More Counter Space"
+title: How to Turn Your Stovetop Into More Counter Space
 slug: how-to-turn-your-stovetop-into-more-counter-space
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-10-13
 modDate: 2026-10-13
 author: boniface-muriuki
-image: ""
+image: /images/blog/default-cover.jpg
 excerpt: You've got one strip of counter and a stove that's cold most of the
-  day. A simple board changes that math completely. Here's how to do it
-  safely, what to buy, and the one stove type where this trick doesn't work.
-description: How to turn your stovetop into extra counter space with a stove cover board, including material choices, safe use, and why it won't work on induction.
+  day. A simple board changes that math completely. Here's how to do it safely,
+  what to buy, and the one stove type where this trick doesn't work.
+description: How to turn your stovetop into extra counter space with a stove
+  cover board, including material choices, safe use, and why it won't work on
+  induction.
 category: How To Guides
 tags:
   - how to add counter space to a small kitchen
   - stove top cover board
   - noodle board stove cover
-smallSpacePillar: storage-organization
 faq:
-  - question: "What is a noodle board, and what is it actually for?"
-    answer: It's a flat board, usually wood, bamboo, or stainless steel,
-      sized to sit directly over your stovetop's burners. It turns an unused
-      stove into a flat prep surface, serving tray, or extra landing spot for
-      dishes, on top of the hours a day most stoves sit completely idle.
-  - question: "Is it safe to put a cutting board over my stove?"
-    answer: Yes, as long as the stove is fully off and cool to the touch. A
-      board sitting over a cold stove is no different from any other surface.
-      Never place one over a burner that's still warm, and always remove it
-      before you turn the stove back on.
-  - question: "Does a stove cover work on an induction cooktop?"
-    answer: Not for cooking, and you shouldn't try. Induction needs direct
-      contact between the pan and the glass surface to work at all. A solid
-      board sitting on top blocks that connection completely. You can still
-      use a thin board as counter space when the cooktop is off, just don't
-      expect to cook through it.
-  - question: "What material is best for a stove cover board?"
-    answer: Wood and bamboo are the most common, lightweight and
-      good-looking, but they need the same care as any wood cutting board.
-      Stainless steel is heavier and more durable, resists heat better if
-      you're not perfectly careful about timing, and cleans up faster.
-  - question: "Will a stove cover board damage my stovetop?"
-    answer: Not if it's sized correctly and you're not sliding it around
-      roughly. A board slightly larger than your burner grates, with feet or
-      a non-slip underside, sits securely without scratching a glass or
-      enamel surface.
-  - question: "Can I use a stove cover as a cutting board too?"
-    answer: Many are designed for exactly that, with a juice groove around
-      the edge for raw meat or produce. Just clean and dry it the same way
-      you would any cutting board before setting it back down, and treat it
-      as food-prep surface, not just a decorative cover.
+  - question: What is a noodle board, and what is it actually for?
+    answer: It's a flat board, usually wood, bamboo, or stainless steel, sized to
+      sit directly over your stovetop's burners. It turns an unused stove into a
+      flat prep surface, serving tray, or extra landing spot for dishes, on top
+      of the hours a day most stoves sit completely idle.
+  - question: Is it safe to put a cutting board over my stove?
+    answer: Yes, as long as the stove is fully off and cool to the touch. A board
+      sitting over a cold stove is no different from any other surface. Never
+      place one over a burner that's still warm, and always remove it before you
+      turn the stove back on.
+  - question: Does a stove cover work on an induction cooktop?
+    answer: Not for cooking, and you shouldn't try. Induction needs direct contact
+      between the pan and the glass surface to work at all. A solid board
+      sitting on top blocks that connection completely. You can still use a thin
+      board as counter space when the cooktop is off, just don't expect to cook
+      through it.
+  - question: What material is best for a stove cover board?
+    answer: Wood and bamboo are the most common, lightweight and good-looking, but
+      they need the same care as any wood cutting board. Stainless steel is
+      heavier and more durable, resists heat better if you're not perfectly
+      careful about timing, and cleans up faster.
+  - question: Will a stove cover board damage my stovetop?
+    answer: Not if it's sized correctly and you're not sliding it around roughly. A
+      board slightly larger than your burner grates, with feet or a non-slip
+      underside, sits securely without scratching a glass or enamel surface.
+  - question: Can I use a stove cover as a cutting board too?
+    answer: Many are designed for exactly that, with a juice groove around the edge
+      for raw meat or produce. Just clean and dry it the same way you would any
+      cutting board before setting it back down, and treat it as food-prep
+      surface, not just a decorative cover.
+smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
 ---
 Here's a strange fact about most kitchens: the stove is the single biggest flat surface in the room, and it sits empty most of the day.
 
-If your counter is one narrow strip next to the sink, that's a lot of wasted real estate. A simple board changes the math completely. Here's how to do it without creating a problem you didn't have before.
+If your counter is one narrow strip next to the sink, that's a lot of wasted real space. A **[simple board changes the math completely](https://www.amazon.com/dp/B0GX1SSC95?pd_rd_i=B0GX1SSC95&pd_rd_w=RpTYY&content-id=amzn1.sym.17345c9b-ef8c-4a79-bcd9-8894b1e1e0ea&pf_rd_p=17345c9b-ef8c-4a79-bcd9-8894b1e1e0ea&pf_rd_r=6VHKPK0N1N5K7WEWBRTJ&pd_rd_wg=KQdWE&pd_rd_r=70b27fad-1744-4d34-8573-1c53abe34011&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1&linkCode=ll2&tag=thekitchenpot-20&linkId=8f4fa41f28fd322635dc5e7842d7009e&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl)**. Here's how to do it without creating a problem you didn't have before.
 
 ## The Short Version
 
-A stove cover board, often called a noodle board, sits over your burners when the stove is off and turns that whole area into usable counter space. Wood, bamboo, and stainless are the common materials.
+A **[stove cover board](https://www.amazon.com/dp/B0GJ5PSLJN?psc=1&pd_rd_i=B0GJ5PSLJN&pd_rd_w=6XN03&content-id=amzn1.sym.17345c9b-ef8c-4a79-bcd9-8894b1e1e0ea&pf_rd_p=17345c9b-ef8c-4a79-bcd9-8894b1e1e0ea&pf_rd_r=EVK09STG9JJ0A7AEFC3B&pd_rd_wg=FCVXj&pd_rd_r=3b98a6ac-ba86-4933-836c-2238ba0b9003&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&linkCode=ll2&tag=thekitchenpot-20&linkId=89271c5998c9f6fc5baa61a92170dd01&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl)**, often called a noodle board, sits over your burners when the stove is off and turns that whole area into usable counter space. Wood, bamboo, and stainless are the common materials.
 
 Only use it on a cold stove, and only remove it before you turn the burners back on. And if you cook on induction, skip this one. The board blocks the connection the cooktop needs to actually work.
 
@@ -79,7 +80,9 @@ A [VEVOR Noodle Board Stove Cover](https://www.amazon.com/VEVOR-Noodle-Board-Sto
 
 Only set a board over a stove that's completely off and cool to the touch. That's it. That's the whole safety rule, and it's not complicated, but it's worth saying plainly.
 
-A board over a cold stove behaves exactly like a board sitting on any other counter. There's no special risk. The risk shows up if you forget it's there and turn a burner back on underneath it, or if you set it down while a burner is still carrying residual heat from ten minutes ago. Get in the habit of checking with your hand, not just your eyes, before you set one down.
+A board over a cold stove behaves exactly like a board sitting on any other counter. There's no special risk. 
+
+The risk shows up if you forget it's there and turn a burner back on underneath it, or if you set it down while a burner is still carrying residual heat from ten minutes ago. Get in the habit of checking with your hand, not just your eyes, before you set one down.
 
 ## Why This Doesn't Work on Induction
 
@@ -179,7 +182,7 @@ Grease left on a stovetop can transfer to the underside of the board, and nobody
 
 A little, yes, mostly around fit and surface contact.
 
-Gas stoves have raised grates, so a board needs enough clearance or a flat enough underside to sit level without rocking. Electric coil and glass-top stoves are flatter to begin with, so a board usually sits more securely right out of the box. If you're dealing with an older or uneven coil stove, our guide on [coil stove cookware](/blog/coil-stove-cookware-what-works-what-warps/) covers a related issue, getting a flat, stable surface to sit evenly on grates that don't always cooperate.
+Gas stoves have raised grates, so a **[board needs enough clearance or a flat enough underside ](https://amzn.to/4iiKgGF)**to sit level without rocking. Electric coil and glass-top stoves are flatter to begin with, so a board usually sits more securely right out of the box. If you're dealing with an older or uneven coil stove, our guide on [coil stove cookware](/blog/coil-stove-cookware-what-works-what-warps/) covers a related issue, getting a flat, stable surface to sit evenly on grates that don't always cooperate.
 
 ## Building This Into a Lean, Working Kitchen
 
@@ -204,4 +207,8 @@ If you're setting up a kitchen from scratch, [how to stock a small kitchen for s
 
 ## **The Bottom Line**
 
-Your stove sits empty more hours than it's on. A cover board turns that space into real counter space. Only use it on a cold stove. Always clear it before you cook. Skip this trick on induction. The board blocks the connection the burner needs. For a tight kitchen, it's one of the simplest upgrades around. It won't cost you a single wall or cabinet.
+Your stove sits empty more hours than it's on. A cover board turns that space into real counter space.
+
+Only use it on a cold stove. Always clear it before you cook. Skip this trick on induction. The board blocks the connection the burner needs. 
+
+For a tight kitchen, it's one of the simplest upgrades around. It won't cost you a single wall or cabinet.
