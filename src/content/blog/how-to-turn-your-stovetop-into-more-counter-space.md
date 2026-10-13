@@ -182,7 +182,7 @@ Grease left on a stovetop can transfer to the underside of the board, and nobody
 
 A little, yes, mostly around fit and surface contact.
 
-Gas stoves have raised grates, so a **[board needs enough clearance or a flat enough underside ](https://amzn.to/4iiKgGF)**to sit level without rocking. Electric coil and glass-top stoves are flatter to begin with, so a board usually sits more securely right out of the box. If you're dealing with an older or uneven coil stove, our guide on [coil stove cookware](/blog/coil-stove-cookware-what-works-what-warps/) covers a related issue, getting a flat, stable surface to sit evenly on grates that don't always cooperate.
+Gas stoves have raised grates, so a [board needs enough clearance or a flat enough underside](https://amzn.to/4iiKgGF)to sit level without rocking. Electric coil and glass-top stoves are flatter to begin with, so a board usually sits more securely right out of the box. If you're dealing with an older or uneven coil stove, our guide on [coil stove cookware](/blog/coil-stove-cookware-what-works-what-warps/) covers a related issue, getting a flat, stable surface to sit evenly on grates that don't always cooperate.
 
 ## Building This Into a Lean, Working Kitchen
 
