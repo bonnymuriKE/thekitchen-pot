@@ -7,9 +7,9 @@ modDate: 2026-10-17
 author: Boniface Muriuki
 image: ""
 coverAlt: "A folded two-step kitchen step stool tucked in the narrow gap between a refrigerator and a cabinet in a small kitchen"
-excerpt: "Seven kitchen step stools compared, from a classic COSCO two-step and slim Hailo folding steps to a Little Giant built for 375 pounds and a high-rail model for seniors. Step height, weight ratings, folded thickness and safe use, in plain English."
+excerpt: "Seven kitchen step stools compared, from a classic COSCO two-step and a slim BIRDROCK HOME folding stool to a Little Giant built for 375 pounds and a handle stool for seniors. Height, weight ratings, storage and safe use, in plain English."
 description: "The best step stool for kitchen cabinets is steady, tall enough and easy to store. Compare 7 folding stools by step height, weight rating, handle and fold."
-seo: "The best step stool for kitchen cabinets: COSCO Big Step 2-step and 3-step, Hailo K70, MK60 and K100 TopLine, Little Giant Jumbo Step and the COSCO Retro chair step stool. How tall a stool you need, 2-step vs 3-step, ANSI ratings, handles for seniors and slim stools that fit beside the fridge."
+seo: "The best step stool for kitchen cabinets: COSCO Big Step 2-step and COSCO 3-step, BIRDROCK HOME slim 2-step, Little Giant Jumbo Step, Leekpai stool with handle, SOLADDER 3-step and the COSCO Retro chair step stool. How tall a stool you need, 2-step vs 3-step, ANSI ratings, handles for seniors and slim stools that fit beside the fridge."
 category: Kitchenware
 tags:
   - best step stool for kitchen
@@ -19,7 +19,7 @@ tags:
   - slim step stool for small kitchens
 faq:
   - question: "What is the safest step stool for a kitchen?"
-    answer: "The safest kitchen step stool has wide, ribbed steps, a lock that holds it open, non-slip feet and something to hold. A tall safety rail, like the one on the Hailo K100 TopLine or Little Giant Jumbo Step, lets you keep a hand on the stool while you reach. Pick a weight rating above your body weight plus whatever you carry, and stand on a level, dry floor."
+    answer: "The safest kitchen step stool has wide, ribbed steps, a lock that holds it open, non-slip feet and something to hold. A rail or handle, like the one on the Little Giant Jumbo Step or the Leekpai stool, lets you keep a hand on the stool while you reach. Pick a weight rating above your body weight plus whatever you carry, and stand on a level, dry floor."
   - question: "How tall of a step stool do I need for kitchen cabinets?"
     answer: "For most people, a two-step stool with a top step of about 17 to 20 inches reaches the top shelf of standard upper cabinets. Those shelves sit about 72 to 84 inches off the floor. If you are under about 5 foot 4, or you need the cabinet above the fridge or the top of 42-inch uppers, a three-step stool of about 28 to 30 inches is the safer choice."
   - question: "Is a 2-step or 3-step stool better for the kitchen?"
@@ -27,7 +27,7 @@ faq:
   - question: "What is the difference between a step stool and a step ladder?"
     answer: "A step stool is short, usually one to three steps and under about 32 inches to the top step, and it is meant for quick reaches around the house. A step ladder is taller, with more steps and a top cap you should never stand on. For a kitchen, a step stool is easier to store and fast to open. Save the step ladder for ceilings and light fixtures."
   - question: "How much weight can a kitchen step stool hold?"
-    answer: "Most household step stools are rated from 200 to 375 pounds. In the US, the ANSI duty types are Type III at 200 pounds, Type II at 225, Type I at 250, Type IA at 300 and Type IAA at 375. European stools like Hailo are rated to their own standard, usually 150 kilograms, which is about 330 pounds. The rating must cover you plus anything you hold."
+    answer: "Most household step stools are rated from 200 to 375 pounds. In the US, the ANSI duty types are Type III at 200 pounds, Type II at 225, Type I at 250, Type IA at 300 and Type IAA at 375. The rating must cover you plus anything you hold."
 smallSpacePillar: storage-organization
 showTableOfContents: true
 source: decap
@@ -38,43 +38,43 @@ A real step stool fixes that for not much money. The hard part is picking one th
 
 Still deciding what goes on those high shelves? Our guide to [what to put on top of kitchen cabinets](/blog/what-to-put-on-top-of-kitchen-cabinets/) covers that. This page is about the stool that gets you up there safely.
 
-**The short version:** The [COSCO Two-Step Big Step Folding Step Stool](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B0032JRVPI/?tag=kitchenpot-20) is the best step stool for kitchen use in most homes. It has wide steps, a hand grip, a steel frame and it folds flat. If you need something to hold onto the whole time, get the [Hailo K100 TopLine](https://www.amazon.com/HAILO-K100-Topline-2-Step-Ladder/dp/B00C2MFOKU/?tag=kitchenpot-20) with its tall safety rail. The rule that matters most: buy the height you need for your top shelf, so you never have to stand on the top cap or stretch.
+**The short version:** The [COSCO 2-Step Big Step Folding Stool](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B004DSAMEO/?tag=kitchenpot-20) is the best step stool for kitchen use in most homes. It has wide ribbed steps, a hand grip, a steel frame and it folds flat. If you need something to hold at the top, get the [Little Giant Jumbo Step](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B071GW6P2Z/?tag=kitchenpot-20) with its rotating handrail. The rule that matters most: buy the height you need for your top shelf, so you never have to stand on the top cap or stretch.
 
 ## Our Picks at a Glance
 
-- **Best overall:** [COSCO Two-Step Big Step Folding Step Stool](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B0032JRVPI/?tag=kitchenpot-20)
-- **Best lightweight with a grab rail:** [Hailo K70 StandardLine 2-Step](https://www.amazon.com/HAILO-K70-StandardLine-2-Step-Ladder/dp/B003TQLU5Q/?tag=kitchenpot-20)
-- **Best for tight gaps:** [Hailo MK60 Mini Steel Step Stool](https://www.amazon.com/Hailo-MK60-Mini-Steel-Step-Stool/dp/B002SA9O4S/?tag=kitchenpot-20)
+- **Best overall:** [COSCO 2-Step Big Step Folding Stool](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B004DSAMEO/?tag=kitchenpot-20)
+- **Best for tight gaps:** [BIRDROCK HOME 2 Step Slim Aluminum Step Ladder](https://www.amazon.com/BIRDROCK-HOME-2-Step-Slim-Aluminum-Ladder/dp/B09LCFCRKT/?tag=kitchenpot-20)
 - **Most stable:** [Little Giant Jumbo Step 2-Step](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B071GW6P2Z/?tag=kitchenpot-20)
-- **Best for seniors:** [Hailo K100 TopLine 2-Step With Safety Rail](https://www.amazon.com/HAILO-K100-Topline-2-Step-Ladder/dp/B00C2MFOKU/?tag=kitchenpot-20)
-- **Best for top shelves:** [COSCO Three-Step Big Step Folding Step Stool](https://www.amazon.com/Cosco-Three-Step-Big-Step-Folding-Stool/dp/B0032JRVNU/?tag=kitchenpot-20)
-- **Best step stool with a seat:** [COSCO Stylaire Retro Chair + Step Stool](https://www.amazon.com/Cosco-Stylaire-Retro-Counter-Chair-Step-Stool/dp/B0000B35GY/?tag=kitchenpot-20)
+- **Best for seniors:** [Leekpai Step Stool With Handle](https://www.amazon.com/Leekpai-Step-Stool-Handle-Seniors/dp/B08T741V9V/?tag=kitchenpot-20)
+- **Best for top shelves:** [COSCO 3-Step Step Stool](https://www.amazon.com/Cosco-3-Step-Step-Stool-11402CLGG2/dp/B002DPVAMW/?tag=kitchenpot-20)
+- **Best lightweight 3-step:** [SOLADDER 3 Step Ladder in Woodgrain](https://www.amazon.com/SOLADDER-3-Step-Ladder-Folding-Woodgrain/dp/B07RNZTDJ9/?tag=kitchenpot-20)
+- **Best step stool with a seat:** [COSCO Stylaire Retro Chair + 2-Step Step Stool](https://www.amazon.com/Cosco-Stylaire-Retro-Counter-Chair-Step-Stool/dp/B0000B35GY/?tag=kitchenpot-20)
 
 ## Kitchen Step Stools Compared
 
-| Stool | Top step height | Rating | Weight | Something to hold | Folded thickness |
-| --- | --- | --- | --- | --- | --- |
-| COSCO Two-Step Big Step | About 20 in | 200 lb | 9 lb | Rubber hand grip | Folds flat |
-| Hailo K70 StandardLine | 18.5 in | 330 lb | 7.7 lb | Low grip rail | About 2 in |
-| Hailo MK60 Mini | 17.3 in | 330 lb | 7.9 lb | None (carry handle) | About 1.6 in |
-| Little Giant Jumbo Step | 18 in | 375 lb (Type IAA) | 11.9 lb | Rotating handrail | 4 in |
-| Hailo K100 TopLine | 19.3 in | 330 lb | 11.5 lb | Tall curved rail, about 47 in high | Folds flat |
-| COSCO Three-Step Big Step | About 30 in | 200 lb | 12.4 lb | Rubber hand grip | Folds flat |
-| COSCO Stylaire Retro Chair | About 17 in | 225 lb | 16.6 lb | Chair back | Does not fold |
+| Stool | Steps | Frame | Main strength | Best for |
+| --- | --- | --- | --- | --- |
+| COSCO 2-Step Big Step | 2 | Steel, resin steps | Wide ribbed steps and a hand grip | Most kitchens |
+| BIRDROCK HOME Slim 2-Step | 2 | Aluminum | Very thin fold with a handrail | The gap beside the fridge |
+| Little Giant Jumbo Step | 2 | Aluminum | 375 lb rating and rotating handrail | Heavy lifting, bigger adults |
+| Leekpai Step Stool With Handle | 1 | Metal | Tall handle and 350 lb rating | Seniors, low boosts |
+| COSCO 3-Step Step Stool | 3 | Classic 3-step | Extra height | Cabinet above the fridge |
+| SOLADDER 3 Step Ladder | 3 | Aluminum | Light 3-step with a woodgrain look | Open shelving, shared spaces |
+| COSCO Stylaire Retro Chair | 2 pull-out | Steel and vinyl | A seat and a step in one | Studios with no storage |
 
-*Hailo stools carry a 150 kg rating, about 330 pounds. Top step heights are approximate.*
+## 1. [COSCO 2-Step Big Step Folding Stool](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B004DSAMEO/?tag=kitchenpot-20): Best Overall
 
-## 1. [COSCO Two-Step Big Step Folding Step Stool](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B0032JRVPI/?tag=kitchenpot-20): Best Overall
-
+- **Model:** 11308PBL1E
 - **Type:** Steel-frame folding 2-step stool with resin steps
-- **Top step:** About 20 inches, for a maximum reach of 8 feet 2 inches
-- **Rating:** 200 pounds (ANSI Type III)
+- **Maximum reach:** 8 feet 2 inches for a person 5 foot 6
+- **Rating:** 200 pounds
 - **Weight:** 9 pounds
+- **Spread:** 22 inches between the feet when open
 - **Warranty:** 10-year limited
 
 This is the step stool most kitchens need. Two wide steps put you at the right height for the top shelf of standard upper cabinets. A rubber-covered grip rises above the steps for you to hold as you climb.
 
-The steps are made of ribbed plastic resin over a steel frame. Ribbed treads grip your shoes or socks better than smooth metal. A solid bar runs across the back legs, which keeps the stool from racking side to side when you shift your weight.
+The steps are ribbed plastic resin over a steel frame. Ribbed treads grip your shoes or socks better than smooth metal. A solid bar runs across the back legs, which keeps the stool from racking side to side when you shift your weight. The leg tips will not mark a wood or vinyl floor.
 
 It folds flat in one motion and hangs or leans in a narrow spot. Many owners keep it beside the fridge or behind a pantry door. That makes it a good partner for the ideas in our [small kitchen cabinet organization guide](/blog/small-kitchen-cabinet-organization-ideas/), where the top shelf finally becomes useful.
 
@@ -83,90 +83,61 @@ It folds flat in one motion and hangs or leans in a narrow spot. Many owners kee
 - Wide, ribbed steps that feel secure under a full foot.
 - A hand grip at a natural height for steadying yourself.
 - Light enough to carry in one hand at 9 pounds.
-- A 10-year warranty, which is long for a stool at this price.
+- A 10-year warranty, which is long for a basic stool.
 
 **What to know before you buy:**
 
-- The 200-pound rating is the lowest here. Heavier adults should look at the Little Giant or a Hailo.
+- The 200-pound rating is on the low side. Heavier adults should look at the Little Giant.
 - The grip is a short handle, not a full rail you can hold while reaching.
 
 **Who should buy it:** Most adults in apartments and small homes who need a steady boost to the top shelf a few times a week.
 
-[Check Price on Amazon](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B0032JRVPI/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B004DSAMEO/?tag=kitchenpot-20)
 
-## 2. [Hailo K70 StandardLine 2-Step](https://www.amazon.com/HAILO-K70-StandardLine-2-Step-Ladder/dp/B003TQLU5Q/?tag=kitchenpot-20): Best Lightweight With a Grab Rail
+## 2. [BIRDROCK HOME 2 Step Slim Aluminum Step Ladder](https://www.amazon.com/BIRDROCK-HOME-2-Step-Slim-Aluminum-Ladder/dp/B09LCFCRKT/?tag=kitchenpot-20): Best for Tight Gaps
 
-- **Type:** Aluminum folding 2-step stool
-- **Top step:** 18.5 inches; about 33 inches tall overall
-- **Rating:** 150 kg (about 330 pounds), European standard EN 14183
-- **Weight:** 7.7 pounds
-- **Folded size:** About 2 inches thick
+- **Type:** Slim folding 2-step stool with a handrail
+- **Frame:** Lightweight aluminum
+- **Steps:** Anti-slip treads
+- **Color:** Black
+- **Use:** Indoor
 
-Hailo is a German ladder maker, and the K70 is its light everyday model. It is aluminum, so it weighs less than 8 pounds. Yet it carries a higher rating than the steel COSCO.
+Most folding stools are thin enough to lean against a wall but too bulky for a real gap. This one is built around a slim fold. Closed, it is little more than its two side rails, so it slides into the space between the fridge and a cabinet or behind a pantry door.
 
-The frame rises above the top step into a low grip rail. You can hold it with one hand as you climb and as you step down. The steps are extra wide with non-slip treads, and the feet are non-slip plastic.
+What sets it apart from the COSCO is that it keeps a handrail despite the thin build. The rail rises above the top step, so you have something to hold as you climb and as you step down. The aluminum frame keeps it light enough to pull out of a gap with one hand.
 
-What sets it apart from the COSCO is the weight-to-strength balance. It is easier to lift off a hook or slide out from a gap, which matters if you use it daily. A hinge lock keeps it from folding while you stand on it.
-
-**What we like:**
-
-- Light enough for nearly anyone to carry and open.
-- Rated to about 330 pounds despite the light frame.
-- Folds to about 2 inches thick for storage.
-- A grip rail you can hold while you climb.
-
-**What to know before you buy:**
-
-- The rail is waist-low, so it steadies you on the way up but not while you reach overhead.
-- At 18.5 inches, it is a touch lower than the COSCO two-step.
-
-**Who should buy it:** Anyone who wants a light stool they will actually grab every day, including people who find steel stools heavy.
-
-[Check Price on Amazon](https://www.amazon.com/HAILO-K70-StandardLine-2-Step-Ladder/dp/B003TQLU5Q/?tag=kitchenpot-20)
-
-## 3. [Hailo MK60 Mini Steel Step Stool](https://www.amazon.com/Hailo-MK60-Mini-Steel-Step-Stool/dp/B002SA9O4S/?tag=kitchenpot-20): Best for Tight Gaps
-
-- **Type:** Steel folding 2-step stool with no rail
-- **Top step:** 17.3 inches; 17.7 inches tall overall
-- **Rating:** 150 kg (about 330 pounds)
-- **Weight:** 7.9 pounds
-- **Folded size:** About 1.6 inches thick and 22 inches tall
-
-The MK60 solves one problem very well. It disappears. Folded, it is about as thick as a cutting board and only about 22 inches tall. That means it slides into the gap between the fridge and a cabinet, under a sink, or into a [corner cabinet](/blog/organize-a-corner-kitchen-cabinet/).
-
-Most step stools fold thin but stay tall because of the handle. The MK60 has no handle above the steps. A small carry handle is built into the frame instead. So it fits spaces a taller folded stool cannot, such as a broom closet shelf or the back of a lower cabinet.
-
-The trade is that there is nothing to hold. It is best for steady adults who need a quick 17-inch boost. Two extra-wide steps carry anti-slip mats, and a release button unlocks the hinge.
+The black finish also matters more than it sounds. In an open kitchen or a [one-wall kitchen](/blog/one-wall-kitchen-ideas/), the stool is often in view. A slim black frame reads as a fixture rather than a tool left out.
 
 **What we like:**
 
-- The smallest folded size here, by a wide margin.
-- Steel frame with a high rating for its size.
-- Extra-wide steps with anti-slip mats.
-- Short enough when folded to store inside a lower cabinet.
+- A very slim fold that suits narrow gaps and the back of doors.
+- A handrail you can hold while you climb.
+- Light aluminum that is easy to grab every day.
+- A clean black look for kitchens where storage is on show.
 
 **What to know before you buy:**
 
-- No grab rail, so it is not the right choice for anyone unsteady on their feet.
-- Its 17-inch top step suits standard uppers, not the cabinet above the fridge.
+- It is made for indoor use, so do not take it out to the yard or garage.
+- Two steps suit standard uppers, not the cabinet above the fridge.
 
-**Who should buy it:** Renters and studio dwellers with no spare wall or closet space, who want a stool that hides completely.
+**Who should buy it:** Renters and studio dwellers with no closet to spare, who want a stool with a rail that still hides in a thin gap.
 
-[Check Price on Amazon](https://www.amazon.com/Hailo-MK60-Mini-Steel-Step-Stool/dp/B002SA9O4S/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/BIRDROCK-HOME-2-Step-Slim-Aluminum-Ladder/dp/B09LCFCRKT/?tag=kitchenpot-20)
 
-## 4. [Little Giant Jumbo Step 2-Step](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B071GW6P2Z/?tag=kitchenpot-20): Most Stable
+## 3. [Little Giant Jumbo Step 2-Step](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B071GW6P2Z/?tag=kitchenpot-20): Most Stable
 
 - **Type:** Aluminum folding 2-step stool with a rotating handrail
-- **Top step:** 18 inches, for a maximum reach of 8 feet
+- **Model:** 11902
+- **Standing height:** 18 inches on the top step
 - **Rating:** 375 pounds (ANSI Type IAA, special duty)
 - **Weight:** 11.9 pounds
-- **Folded size:** 4 inches deep, 30 inches tall, 21 inches wide
+- **Folded size:** 4 inches deep, 30 inches tall
 
 Little Giant builds professional ladders, and the Jumbo Step carries that thinking into a kitchen stool. It holds 375 pounds, the highest duty rating a step stool can carry in the US. The steps are extra wide, so your whole foot lands on the tread.
 
 The handrail is the clever part. It rotates. Keep it upright and you have a solid rail to hold at the top. Fold it down and the stool becomes a short staircase you can walk up. A small tool tray on the rail holds a sponge or a lightbulb while you work.
 
-It also has a hinge lock lever and a spreader that holds the legs apart. The result is less flex and wobble than lighter stools.
+It also has a hinge lock and a spreader that holds the legs apart. The result is less flex and wobble than lighter stools.
 
 **What we like:**
 
@@ -177,86 +148,113 @@ It also has a hinge lock lever and a spreader that holds the legs apart. The res
 
 **What to know before you buy:**
 
-- At 4 inches deep folded, it needs more storage room than the Hailos.
+- At 4 inches deep folded, it needs more storage room than the slim stools here.
 - It costs much more than a basic two-step stool.
 
 **Who should buy it:** Bigger adults, anyone who lifts heavy items like a [stand mixer](/blog/best-stand-mixer/) down from a high shelf, and households that want one stool to last for decades. If heavy appliances live up high, our guide to [storing small appliances in a small kitchen](/blog/store-small-appliances-in-a-small-kitchen/) has better spots for them.
 
 [Check Price on Amazon](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B071GW6P2Z/?tag=kitchenpot-20)
 
-## 5. [Hailo K100 TopLine 2-Step With Safety Rail](https://www.amazon.com/HAILO-K100-Topline-2-Step-Ladder/dp/B00C2MFOKU/?tag=kitchenpot-20): Best for Seniors
+## 4. [Leekpai Step Stool With Handle](https://www.amazon.com/Leekpai-Step-Stool-Handle-Seniors/dp/B08T741V9V/?tag=kitchenpot-20): Best for Seniors
 
-- **Type:** Aluminum folding 2-step stool with a tall curved safety rail
-- **Top step:** 19.3 inches; about 47 inches tall overall
-- **Rating:** 150 kg (about 330 pounds)
-- **Weight:** 11.5 pounds
-- **Extras:** Tray, soft-grip feet
+- **Type:** Heavy-duty single step with a tall handle
+- **Rating:** 350 pounds
+- **Step:** Non-slip, grooved surface
+- **Color:** Black
 
-Most step stool grips stop near your knees. The K100's curved safety rail rises to about 47 inches. When you stand on the top step, the rail sits around your hips, so you can keep one hand on it while you reach with the other.
+This stool solves a different problem from the others. It is not built to get you to the top shelf. It is built to give you a small, safe boost with a handle to hold the whole time.
 
-That is the feature people search for when they look up a step stool for seniors with a handle. Holding on while you reach matters more than anything else on the stool. The steps are extra wide and ribbed, and they are set like a short staircase instead of a steep ladder.
+The handle is the reason it is here. It rises well above the step, so you can grip it before you step up, while you stand and as you come down. For anyone with weak knees or shaky balance, that steady hand matters more than height.
 
-The feet have soft-grip soles that hold on tile, wood and vinyl. A small tray at the top of the rail holds a spice jar or a [lazy Susan](/blog/8-best-lazy-susan-organizers-for-your-kitchen/) you are pulling down. Hailo sells this model in the US as the LivingStep Comfort Plus, so you may see both names.
+Use it for the reaches that cause most falls in daily life. The second shelf of an upper cabinet, the back of a deep counter, or a [lazy Susan](/blog/8-best-lazy-susan-organizers-for-your-kitchen/) set just out of reach. The 350-pound rating gives plenty of room for you and what you carry.
 
 **What we like:**
 
-- A tall rail you can hold while reaching, not only while climbing.
-- Stair-like steps that are easier on knees and balance.
-- Soft-grip feet for smooth kitchen floors.
-- A handy tray for small items.
+- A tall handle you can hold from start to finish.
+- A high 350-pound rating.
+- One low step, so there is no climbing involved.
+- A grooved step surface that grips shoes and socks.
 
 **What to know before you buy:**
 
-- The tall rail makes it about 4 feet tall when folded, so plan a spot for it.
-- It costs more than a basic steel two-step.
+- It gives a small boost only, so it will not reach the top shelf of most uppers.
+- It needs some assembly when it arrives.
 
-**Who should buy it:** Older adults, anyone with balance or knee worries, and anyone who simply feels safer holding on the whole time.
+**Who should buy it:** Older adults and anyone with balance or knee worries who mostly needs the lower shelves. Pair it with lower storage for daily items, and keep the top shelf for things you rarely use.
 
-[Check Price on Amazon](https://www.amazon.com/HAILO-K100-Topline-2-Step-Ladder/dp/B00C2MFOKU/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Leekpai-Step-Stool-Handle-Seniors/dp/B08T741V9V/?tag=kitchenpot-20)
 
-## 6. [COSCO Three-Step Big Step Folding Step Stool](https://www.amazon.com/Cosco-Three-Step-Big-Step-Folding-Stool/dp/B0032JRVNU/?tag=kitchenpot-20): Best for Top Shelves
+## 5. [COSCO 3-Step Step Stool](https://www.amazon.com/Cosco-3-Step-Step-Stool-11402CLGG2/dp/B002DPVAMW/?tag=kitchenpot-20): Best for Top Shelves
 
-- **Type:** Steel-frame folding 3-step stool with resin steps
-- **Top step:** About 30 inches, for a maximum reach of 9 feet
-- **Rating:** 200 pounds
-- **Weight:** 12.4 pounds
-- **Warranty:** 10-year limited
+- **Type:** 3-step step stool
+- **Model:** 11402CLGG2
+- **Steps:** Three, for about a step more height than a 2-step stool
 
-Some shelves are simply out of reach for a two-step stool. The cabinet over the fridge is the usual one. Tall 42-inch uppers and the tops of cabinets are others. This three-step version of our top pick adds about 10 inches of height.
+Some shelves are simply out of reach for a two-step stool. The cabinet over the fridge is the usual one. Tall 42-inch uppers and the tops of cabinets are others. A third step closes that gap.
 
-It keeps the same wide ribbed steps, rear leg bar and rubber hand grip as the two-step. It also lets shorter adults reach the top shelf of standard cabinets without stretching onto their toes.
+This is a plain, long-running COSCO design from the same maker as our top pick. It does one job: it puts you high enough to see into the back of a tall cabinet, not just reach the front edge. That matters when the shelf is deep and the item you want sits behind something else.
 
 Use it for the jobs a two-step cannot do safely. Dusting the tops of cabinets, changing an under-cabinet bulb or reaching a [range hood filter](/blog/how-often-to-clean-a-range-hood-filter/) are good examples.
 
 **What we like:**
 
-- About 30 inches of height for the highest cabinets.
-- The same steady, ribbed steps as the two-step.
-- A hand grip above the top step.
-- Folds flat with a 10-year warranty.
+- Three steps for the highest cabinets in the room.
+- Lets shorter adults reach the top shelf without stretching onto their toes.
+- A simple design from a long-established stool maker.
 
 **What to know before you buy:**
 
-- It is taller and heavier to store than a two-step stool.
-- The 200-pound rating will not suit every adult.
+- A 3-step stool is taller and heavier to store than a 2-step.
+- For everyday reaches, a 2-step is quicker to grab.
 
 **Who should buy it:** Shorter adults, kitchens with tall cabinets or a high cabinet above the fridge, and anyone who keeps decor or backup supplies up top.
 
-[Check Price on Amazon](https://www.amazon.com/Cosco-Three-Step-Big-Step-Folding-Stool/dp/B0032JRVNU/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Cosco-3-Step-Step-Stool-11402CLGG2/dp/B002DPVAMW/?tag=kitchenpot-20)
 
-## 7. [COSCO Stylaire Retro Chair + Step Stool](https://www.amazon.com/Cosco-Stylaire-Retro-Counter-Chair-Step-Stool/dp/B0000B35GY/?tag=kitchenpot-20): Best Step Stool With a Seat
+## 6. [SOLADDER 3 Step Ladder in Woodgrain](https://www.amazon.com/SOLADDER-3-Step-Ladder-Folding-Woodgrain/dp/B07RNZTDJ9/?tag=kitchenpot-20): Best Lightweight 3-Step
 
-- **Type:** Counter-height chair with pull-out steps
-- **Top step:** About 17 inches, for a maximum reach of 7 feet 11 inches
-- **Rating:** 225 pounds
+- **Type:** Folding 3-step stool with a hand grip
+- **Frame:** Lightweight aluminum
+- **Rating:** 300 pounds
+- **Steps:** Wide pedals with anti-slip grip
+- **Finish:** Woodgrain
+
+Most 3-step stools are heavy steel, and that weight is why they stay in the closet. This SOLADDER uses an aluminum frame, so a third step does not come with a third more weight to haul around.
+
+The woodgrain finish is the other difference. It looks more like a library ladder than a hardware store tool. That suits kitchens with [open shelving](/blog/open-shelving-small-kitchen-ideas/), where a stool often stays in view.
+
+The wide pedals give your feet more room than the narrow rungs on many light ladders. A hand grip at the top gives you something to hold as you climb.
+
+**What we like:**
+
+- Three steps in a light aluminum frame.
+- A 300-pound rating, higher than many steel 3-step stools.
+- A warm woodgrain look that can stay out.
+- Wide pedals that feel steadier than narrow rungs.
+
+**What to know before you buy:**
+
+- The woodgrain is a printed finish on metal, not real wood.
+- A 3-step stool is still tall when folded, so measure your storage spot.
+
+**Who should buy it:** People who need 3-step height but find steel stools too heavy, and anyone whose stool will be on show.
+
+[Check Price on Amazon](https://www.amazon.com/SOLADDER-3-Step-Ladder-Folding-Woodgrain/dp/B07RNZTDJ9/?tag=kitchenpot-20)
+
+## 7. [COSCO Stylaire Retro Chair + 2-Step Step Stool](https://www.amazon.com/Cosco-Stylaire-Retro-Counter-Chair-Step-Stool/dp/B0000B35GY/?tag=kitchenpot-20): Best Step Stool With a Seat
+
+- **Type:** Counter-height chair with two pull-out steps
+- **Maximum reach:** 7 feet 11 inches
+- **Rating:** 200 pounds
 - **Weight:** 16.6 pounds
-- **Seat:** Cushioned vinyl seat and back
+- **Materials:** Steel frame, cushioned vinyl seat and back
+- **Warranty:** 10-year limited
 
 This is the step stool that never needs a storage spot. It is a counter-height chair first. Two steps slide out from under the seat when you need a boost, then push back in when you are done.
 
-That makes it a good fit for a studio or a [galley kitchen](/blog/galley-kitchen-ideas/) with no closet to spare. It gives you a seat at the counter for coffee or prep work, and a step for the second shelf. For more ways to fit seating in, see our [small kitchen table ideas](/blog/small-kitchen-table-ideas/). The design has a 1950s diner look that suits a retro kitchen.
+That makes it a good fit for a studio or a [galley kitchen](/blog/galley-kitchen-ideas/) with no closet to spare. It gives you a seat at the counter for coffee or prep work, and a step for the second shelf. For more ways to fit seating in, see our [small kitchen table ideas](/blog/small-kitchen-table-ideas/). The red vinyl gives it a 1950s diner look.
 
-Stand on the steps, never on the cushion. With a top step of about 17 inches, it is best for the lower shelves of upper cabinets and the top shelf of a [small fridge](/blog/organize-a-small-fridge/). Do not expect it to reach the cabinet above the fridge.
+Stand on the steps, never on the cushion. With a maximum reach just under 8 feet, it is best for the lower shelves of upper cabinets and the top shelf of a [small fridge](/blog/organize-a-small-fridge/). Do not expect it to reach the cabinet above the fridge.
 
 **What we like:**
 
@@ -268,7 +266,7 @@ Stand on the steps, never on the cushion. With a top step of about 17 inches, it
 **What to know before you buy:**
 
 - It does not fold, so it takes the floor space of a chair.
-- Its step height is the lowest of the full-size stools here.
+- Its reach is the lowest of the full-size stools here.
 
 **Who should buy it:** People in small apartments who need extra seating more than a tall stool, and who mostly reach the first and second shelves.
 
@@ -318,11 +316,11 @@ In the US, step stools and ladders carry an ANSI duty rating. ANSI is the group 
 | Type IA | Extra heavy | 300 lb |
 | Type IAA | Special | 375 lb |
 
-European stools such as Hailo follow their own standard, EN 14183. Hailo rates the stools here to 150 kg, about 330 pounds. Either way, buy a rating with room to spare. A 200-pound adult carrying a heavy [Dutch oven](/blog/best-dutch-oven/) down from a high shelf is already over a 200-pound rating.
+Imported stools often list a plain pound rating instead of an ANSI type. Either way, buy a rating with room to spare. A 200-pound adult carrying a heavy [Dutch oven](/blog/best-dutch-oven/) down from a high shelf is already over a 200-pound rating.
 
 ## What Is the Safest Step Stool for Seniors?
 
-The safest step stool for seniors lets you hold on with one hand at all times. That means a tall rail, not a short grip. The Hailo K100 TopLine and the Little Giant Jumbo Step both have rails you can hold at the top.
+The safest step stool for seniors lets you hold on with one hand at all times. That means a real rail or handle, not a short grip. The Little Giant Jumbo Step has a rail you can hold at the top. The Leekpai stool has a tall handle beside one low step, which suits anyone who only needs a small boost.
 
 Look for these points as well:
 
@@ -338,14 +336,14 @@ The best fix of all may be moving everyday items lower. Our [small kitchen stora
 
 Folded thickness and folded height matter as much as step height. A stool that is hard to put away never comes out, and the dining chair comes back.
 
-Measure the spot first. In many [small kitchen layouts](/blog/small-kitchen-layout-ideas/), the gap between a fridge and a cabinet is only 1 to 3 inches. The Hailo MK60 (about 1.6 inches) and the K70 (about 2 inches) fit many of those gaps. The Little Giant needs about 4 inches.
+Measure the spot first. In many [small kitchen layouts](/blog/small-kitchen-layout-ideas/), the gap between a fridge and a cabinet is only 1 to 3 inches. Slim aluminum stools like the BIRDROCK HOME 2-step and the SOLADDER 3-step fold thin enough for many of those gaps. The Little Giant needs about 4 inches.
 
 Other good spots:
 
 - **Behind a pantry or closet door**, on a pair of strong hooks.
 - **Inside a tall cabinet** beside the broom, as in our [renter-friendly kitchen upgrades](/blog/renter-friendly-kitchen-upgrades/).
 - **On the side of the fridge** with an adhesive hook rated for the weight, if your lease allows it.
-- **Under the sink**, for a short stool like the MK60. Our [under-sink organization guide](/blog/organize-under-the-kitchen-sink/) shows how to keep room for it.
+- **Under the sink**, if your stool folds short enough. Our [under-sink organization guide](/blog/organize-under-the-kitchen-sink/) shows how to keep room for it.
 
 In a [studio apartment kitchen](/blog/studio-apartment-kitchen-ideas/), a chair-style step stool may be the only option that makes sense. It works as seating, so it never needs a storage spot at all.
 
@@ -389,12 +387,12 @@ Spending more buys three things: a higher weight rating, a better rail and a lig
 
 Match the stool to the problem you have.
 
-- **You want one stool that works for most people:** The [COSCO Two-Step Big Step](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B0032JRVPI/?tag=kitchenpot-20).
-- **You want something light with a grip:** The [Hailo K70 StandardLine](https://www.amazon.com/HAILO-K70-StandardLine-2-Step-Ladder/dp/B003TQLU5Q/?tag=kitchenpot-20).
-- **You have no storage space at all:** The [Hailo MK60 Mini](https://www.amazon.com/Hailo-MK60-Mini-Steel-Step-Stool/dp/B002SA9O4S/?tag=kitchenpot-20), which slides into a 2-inch gap.
+- **You want one stool that works for most people:** The [COSCO 2-Step Big Step](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B004DSAMEO/?tag=kitchenpot-20).
+- **You have no storage space at all:** The [BIRDROCK HOME Slim 2-Step](https://www.amazon.com/BIRDROCK-HOME-2-Step-Slim-Aluminum-Ladder/dp/B09LCFCRKT/?tag=kitchenpot-20), which slides into a narrow gap.
 - **You need the highest weight rating:** The [Little Giant Jumbo Step](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B071GW6P2Z/?tag=kitchenpot-20).
-- **You want to hold on while reaching:** The [Hailo K100 TopLine](https://www.amazon.com/HAILO-K100-Topline-2-Step-Ladder/dp/B00C2MFOKU/?tag=kitchenpot-20).
-- **You need the cabinet above the fridge:** The [COSCO Three-Step Big Step](https://www.amazon.com/Cosco-Three-Step-Big-Step-Folding-Stool/dp/B0032JRVNU/?tag=kitchenpot-20).
+- **You want a handle for a small, safe boost:** The [Leekpai Step Stool With Handle](https://www.amazon.com/Leekpai-Step-Stool-Handle-Seniors/dp/B08T741V9V/?tag=kitchenpot-20).
+- **You need the cabinet above the fridge:** The [COSCO 3-Step Step Stool](https://www.amazon.com/Cosco-3-Step-Step-Stool-11402CLGG2/dp/B002DPVAMW/?tag=kitchenpot-20).
+- **You want 3-step height in a light frame:** The [SOLADDER 3 Step Ladder](https://www.amazon.com/SOLADDER-3-Step-Ladder-Folding-Woodgrain/dp/B07RNZTDJ9/?tag=kitchenpot-20).
 - **You need a seat more than a stool:** The [COSCO Stylaire Retro Chair](https://www.amazon.com/Cosco-Stylaire-Retro-Counter-Chair-Step-Stool/dp/B0000B35GY/?tag=kitchenpot-20).
 
 Once you can reach the top shelf, it is worth using it well. Start with our [small kitchen hacks](/blog/small-kitchen-hacks/), then work through how to [declutter a small kitchen](/blog/declutter-a-small-kitchen/) so only the right things go up high.
