@@ -38,13 +38,13 @@ A real step stool fixes that for not much money. The hard part is picking one th
 
 Still deciding what goes on those high shelves? Our guide to [what to put on top of kitchen cabinets](/blog/what-to-put-on-top-of-kitchen-cabinets/) covers that. This page is about the stool that gets you up there safely.
 
-**The short version:** The [COSCO 2-Step Big Step Folding Stool](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B004DSAMEO/?tag=kitchenpot-20) is the best step stool for kitchen use in most homes. It has wide ribbed steps, a hand grip, a steel frame and it folds flat. If you need something to hold at the top, get the [Little Giant Jumbo Step](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B071GW6P2Z/?tag=kitchenpot-20) with its rotating handrail. The rule that matters most: buy the height you need for your top shelf, so you never have to stand on the top cap or stretch.
+**The short version:** The [COSCO 2-Step Big Step Folding Stool](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B004DSAMEO/?tag=kitchenpot-20) is the best step stool for kitchen use in most homes. It has wide ribbed steps, a hand grip, a steel frame and it folds flat. If you need something to hold at the top, get the [Little Giant Jumbo Step](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B0GMWPR9ML/?tag=kitchenpot-20) with its rotating handrail. The rule that matters most: buy the height you need for your top shelf, so you never have to stand on the top cap or stretch.
 
 ## Our Picks at a Glance
 
 - **Best overall:** [COSCO 2-Step Big Step Folding Stool](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B004DSAMEO/?tag=kitchenpot-20)
 - **Best for tight gaps:** [BIRDROCK HOME 2 Step Slim Aluminum Step Ladder](https://www.amazon.com/BIRDROCK-HOME-2-Step-Slim-Aluminum-Ladder/dp/B09LCFCRKT/?tag=kitchenpot-20)
-- **Most stable:** [Little Giant Jumbo Step 2-Step](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B071GW6P2Z/?tag=kitchenpot-20)
+- **Most stable:** [Little Giant Jumbo Step 2-Step](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B0GMWPR9ML/?tag=kitchenpot-20)
 - **Best for seniors:** [Leekpai Step Stool With Handle](https://www.amazon.com/Leekpai-Step-Stool-Handle-Seniors/dp/B08T741V9V/?tag=kitchenpot-20)
 - **Best for top shelves:** [COSCO 3-Step Step Stool](https://www.amazon.com/Cosco-3-Step-Step-Stool-11402CLGG2/dp/B002DPVAMW/?tag=kitchenpot-20)
 - **Best lightweight 3-step:** [SOLADDER 3 Step Ladder in Woodgrain](https://www.amazon.com/SOLADDER-3-Step-Ladder-Folding-Woodgrain/dp/B07RNZTDJ9/?tag=kitchenpot-20)
@@ -124,7 +124,7 @@ The black finish also matters more than it sounds. In an open kitchen or a [one-
 
 [Check Price on Amazon](https://www.amazon.com/BIRDROCK-HOME-2-Step-Slim-Aluminum-Ladder/dp/B09LCFCRKT/?tag=kitchenpot-20)
 
-## 3. [Little Giant Jumbo Step 2-Step](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B071GW6P2Z/?tag=kitchenpot-20): Most Stable
+## 3. [Little Giant Jumbo Step 2-Step](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B0GMWPR9ML/?tag=kitchenpot-20): Most Stable
 
 - **Type:** Aluminum folding 2-step stool with a rotating handrail
 - **Model:** 11902
@@ -153,7 +153,7 @@ It also has a hinge lock and a spreader that holds the legs apart. The result is
 
 **Who should buy it:** Bigger adults, anyone who lifts heavy items like a [stand mixer](/blog/best-stand-mixer/) down from a high shelf, and households that want one stool to last for decades. If heavy appliances live up high, our guide to [storing small appliances in a small kitchen](/blog/store-small-appliances-in-a-small-kitchen/) has better spots for them.
 
-[Check Price on Amazon](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B071GW6P2Z/?tag=kitchenpot-20)
+[Check Price on Amazon](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B0GMWPR9ML/?tag=kitchenpot-20)
 
 ## 4. [Leekpai Step Stool With Handle](https://www.amazon.com/Leekpai-Step-Stool-Handle-Seniors/dp/B08T741V9V/?tag=kitchenpot-20): Best for Seniors
 
@@ -389,7 +389,7 @@ Match the stool to the problem you have.
 
 - **You want one stool that works for most people:** The [COSCO 2-Step Big Step](https://www.amazon.com/Cosco-2-Step-Big-Step-Folding-Stool/dp/B004DSAMEO/?tag=kitchenpot-20).
 - **You have no storage space at all:** The [BIRDROCK HOME Slim 2-Step](https://www.amazon.com/BIRDROCK-HOME-2-Step-Slim-Aluminum-Ladder/dp/B09LCFCRKT/?tag=kitchenpot-20), which slides into a narrow gap.
-- **You need the highest weight rating:** The [Little Giant Jumbo Step](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B071GW6P2Z/?tag=kitchenpot-20).
+- **You need the highest weight rating:** The [Little Giant Jumbo Step](https://www.amazon.com/Little-Giant-Jumbo-Step-2-Step-Stool/dp/B0GMWPR9ML/?tag=kitchenpot-20).
 - **You want a handle for a small, safe boost:** The [Leekpai Step Stool With Handle](https://www.amazon.com/Leekpai-Step-Stool-Handle-Seniors/dp/B08T741V9V/?tag=kitchenpot-20).
 - **You need the cabinet above the fridge:** The [COSCO 3-Step Step Stool](https://www.amazon.com/Cosco-3-Step-Step-Stool-11402CLGG2/dp/B002DPVAMW/?tag=kitchenpot-20).
 - **You want 3-step height in a light frame:** The [SOLADDER 3 Step Ladder](https://www.amazon.com/SOLADDER-3-Step-Ladder-Folding-Woodgrain/dp/B07RNZTDJ9/?tag=kitchenpot-20).
