@@ -6,7 +6,7 @@ title: "Lodge Cast Iron Skillet Review (Specs, Sizes and Who It Suits)"
 source: wordpress
 slug: lodge-cast-iron-skillet-review
 pubDate: 2021-01-21
-modDate: 2026-09-22
+modDate: 2026-10-19
 image: ""
 category: Cookware Equipment
 author: Boniface Muriuki
@@ -245,18 +245,9 @@ Being honest about this is more useful than another paragraph of praise.
 
 **It punishes neglect.** Leave it wet and it rusts. Leave tomato sauce in it overnight and the seasoning dulls. None of that is covered by the warranty. If you want a pan you can abandon in the sink, look at ceramic or stainless instead; our comparison of [stainless steel vs ceramic cookware](/blog/stainless-steel-vs-ceramic-cookware/) lays out both.
 
-## How to Season a Lodge Skillet the Way Lodge Does It
+## Seasoning a Lodge Skillet
 
-Lodge publishes its own method, and it is simpler than most of the advice online.
-
-1. **Wash the pan** in warm, soapy water. Yes, soap. Lodge's own [seasoning instructions](https://www.lodgecastiron.com/pages/how-to-season) start there.
-2. **Dry it completely** with a paper towel or lint-free cloth. Any water left behind becomes rust.
-3. **Rub a very thin layer of oil** over every surface, inside, outside and the handle. Vegetable oil, canola oil or melted shortening all work. Thin is the whole trick; pooled oil bakes into a sticky film.
-4. **Wipe it back off.** The pan should look barely damp, not glossy.
-5. **Bake it upside down** on the centre rack at 450 to 500°F for one hour, with foil on the rack below to catch drips.
-6. **Let it cool in the oven** before you move it.
-
-Lodge does not prescribe a number of rounds. Cooking fatty food in the pan does the same job, which is why bacon and cornbread have a reputation as break-in meals. If you want the chemistry behind why some oils polymerise better than others, our walkthrough of [how to season stainless steel pans](/blog/how-to-season-stainless-steel-pans/) covers the same polymerisation process on a different metal, and [seasoning a red copper pan](/blog/how-to-season-red-copper-pan/) shows how coated pans differ.
+Every Lodge skillet comes pre-seasoned, so you can cook in it on day one. To build or restore the finish, wash and dry the pan and wipe on a very thin coat of oil. Wipe most of it back off, then bake it upside down at 450 to 500°F for an hour. Thin is the whole trick; pooled oil bakes into a sticky film. Our full guide on [how to season a cast iron skillet](/blog/how-to-season-cast-iron-skillet/) covers the best oils, stovetop touch-ups and fixes for sticky or rusty pans. Cooking fatty food in the pan does the same job over time, which is why bacon and cornbread make good first meals. The same idea applies when you [season stainless steel pans](/blog/how-to-season-stainless-steel-pans/), and [seasoning a red copper pan](/blog/how-to-season-red-copper-pan/) shows how coated pans differ.
 
 ## Cleaning a Lodge Skillet Without Wrecking the Seasoning
 

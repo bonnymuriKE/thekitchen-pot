@@ -6,7 +6,7 @@ title: "Best Knife Sharpener (4 In-Stock Picks: Guided, Electric, Whetstone and 
 source: wordpress
 slug: best-knife-sharpener
 pubDate: 2020-07-13
-modDate: 2026-09-30
+modDate: 2026-10-19
 image: ""
 category: Kitchenware
 author: Boniface Muriuki
@@ -229,7 +229,7 @@ It depends on how much you cook and what you cut.
 
 A home cook who cooks most days may need to sharpen every few months. Hone more often, even every few uses. Honing keeps the edge straight so it stays sharp longer.
 
-A simple test tells you when to sharpen. Try slicing a sheet of paper or a ripe tomato. A sharp knife glides through. A dull one tears or slides off the skin.
+A simple test tells you when to sharpen, and our [knife sharpening guide](/blog/how-to-sharpen-a-kitchen-knife/) covers it in more depth. Try slicing a sheet of paper or a ripe tomato. A sharp knife glides through. A dull one tears or slides off the skin.
 
 Cutting boards matter too. Glass, stone and ceramic boards dull knives fast. Wood and plastic are much kinder. Our guide to the [best over-the-sink cutting board](/blog/best-over-the-sink-cutting-board/) covers space-saving options.
 
@@ -245,18 +245,7 @@ Check your knife maker's guidance. Sharpening a Japanese knife at 20° works, bu
 
 ## How to Use a Whetstone
 
-Whetstones take practice, but the basics are simple.
-
-1. **Soak the stone.** Soak water stones until bubbles stop rising.
-2. **Set it on a stable base.** It must not slide.
-3. **Find the angle.** Use a guide, or tilt the blade to about the right angle.
-4. **Push the edge across the coarse side.** Keep light, even pressure. Work from heel to tip.
-5. **Feel for the burr.** A small lip of metal forms on the other side. That means you have sharpened to the edge.
-6. **Repeat on the other side.** Match the strokes.
-7. **Polish on the fine side.** Use lighter strokes to remove the burr.
-8. **Rinse and dry.** Clean the knife and let the stone dry.
-
-Start with a cheap knife while you learn.
+A whetstone takes a little practice, but the idea is simple. Hold a steady angle, sharpen one side until you feel a small burr along the edge, match it on the other side, then finish on the fine grit. Start with a cheap knife while you learn. Keep the stone wet and use light pressure; pushing hard does not make the edge sharper. Our step-by-step guide on [how to sharpen a kitchen knife](/blog/how-to-sharpen-a-kitchen-knife/) walks through the whole process, including grits, angles and how to flatten the stone.
 
 ## Special Knives and Tools
 
