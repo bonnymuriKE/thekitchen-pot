@@ -1,38 +1,62 @@
 ---
-excerpt: "Looking for an electric apple peeler corer slicer? Here is why a hand-crank machine is usually the better buy, plus three in-stock peelers from Johnny Apple Peeler and Norpro."
+excerpt: Looking for an electric apple peeler corer slicer? Here is why a
+  hand-crank machine is usually the better buy, plus three in-stock peelers from
+  Johnny Apple Peeler and Norpro.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Apple Peeler Corer Slicer (Electric vs Crank, 3 In-Stock Picks)"
+title: Best Apple Peeler Corer Slicer (Electric vs Crank, 3 In-Stock Picks)
 source: wordpress
 slug: best-electric-apple-peeler-corer-slicer
 pubDate: 2025-06-21
 modDate: 2026-09-30
-image: ""
+image: /images/Apple-peelers.jpeg
+description: The best apple peeler corer slicers, electric vs crank, with three
+  in-stock picks from Johnny Apple Peeler and Norpro, plus base types, blades
+  and cleanup.
 category: Small Appliances
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: "A hand-crank apple peeler corer slicer mounted on a counter turning an apple into a spiral of thin slices"
 tags:
   - apple-peeler-corer-slicer
   - electric-apple-peeler
   - apple-peeler
   - apple-pie-tools
   - fruit-prep
-authorImageAlt: kitchenpot1
-description: "The best apple peeler corer slicers, electric vs crank, with three in-stock picks from Johnny Apple Peeler and Norpro, plus base types, blades and cleanup."
-seo: "Compare apple peeler corer slicers, electric and hand-crank, with three in-stock picks from Johnny Apple Peeler and Norpro, base types, blades and care tips."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Is there a good electric apple peeler corer slicer?"
-    answer: "Few electric models peel, core and slice in one pass, and most are sold by brands with no store of their own where you can check stock and support. Electric peelers like the Starfrit Rotato Express peel only. For peeling, coring and slicing together, a hand-crank machine like the Johnny Apple Peeler or Norpro Apple Master is usually the better buy."
-  - question: "What is the best apple peeler corer slicer?"
-    answer: "The Johnny Apple Peeler VKP1010 is the best pick in this guide. It has a cast iron body, stainless steel blades and a suction base, and its maker lists a 5-year warranty. It peels, cores and slices an apple into even 1/4-inch slices in one turn of the crank."
-  - question: "Can an apple peeler peel potatoes?"
-    answer: "Yes, most crank apple peelers also peel potatoes. Norpro says its Apple Master handles potatoes, pears and root vegetables, and can make curly fries and potato chips on a stick. Remove the coring blade if you only want to peel. Very large or oddly shaped potatoes may not peel evenly."
-  - question: "Do apple peelers work on soft apples?"
-    answer: "Firm apples work best. Soft or mealy apples can tear on the fork or turn to mush under the blade. Good baking apples such as Granny Smith, Honeycrisp and Braeburn are firm and peel cleanly. Chill soft apples in the fridge before peeling to firm them up."
-  - question: "How do you keep peeled apples from browning?"
-    answer: "Toss the slices in a little lemon juice, or drop them into a bowl of cold water with lemon juice added. The acid slows browning. Work in batches if you are peeling a lot of apples, and move each batch into the acidulated water right away."
+  - question: Is there a good electric apple peeler corer slicer?
+    answer: Few electric models peel, core and slice in one pass, and most are sold
+      by brands with no store of their own where you can check stock and
+      support. Electric peelers like the Starfrit Rotato Express peel only. For
+      peeling, coring and slicing together, a hand-crank machine like the Johnny
+      Apple Peeler or Norpro Apple Master is usually the better buy.
+  - question: What is the best apple peeler corer slicer?
+    answer: The Johnny Apple Peeler VKP1010 is the best pick in this guide. It has a
+      cast iron body, stainless steel blades and a suction base, and its maker
+      lists a 5-year warranty. It peels, cores and slices an apple into even
+      1/4-inch slices in one turn of the crank.
+  - question: Can an apple peeler peel potatoes?
+    answer: Yes, most crank apple peelers also peel potatoes. Norpro says its Apple
+      Master handles potatoes, pears and root vegetables, and can make curly
+      fries and potato chips on a stick. Remove the coring blade if you only
+      want to peel. Very large or oddly shaped potatoes may not peel evenly.
+  - question: Do apple peelers work on soft apples?
+    answer: Firm apples work best. Soft or mealy apples can tear on the fork or turn
+      to mush under the blade. Good baking apples such as Granny Smith,
+      Honeycrisp and Braeburn are firm and peel cleanly. Chill soft apples in
+      the fridge before peeling to firm them up.
+  - question: How do you keep peeled apples from browning?
+    answer: Toss the slices in a little lemon juice, or drop them into a bowl of
+      cold water with lemon juice added. The acid slows browning. Work in
+      batches if you are peeling a lot of apples, and move each batch into the
+      acidulated water right away.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A hand-crank apple peeler corer slicer mounted on a counter turning an
+  apple into a spiral of thin slices
+seo: Compare apple peeler corer slicers, electric and hand-crank, with three
+  in-stock picks from Johnny Apple Peeler and Norpro, base types, blades and
+  care tips.
 ---
 An apple peeler corer slicer turns a whole apple into peeled, cored, even slices in about the time it takes to turn a crank a few times. For pies, crisps, sauce and dried apple rings, it saves real work.
 
