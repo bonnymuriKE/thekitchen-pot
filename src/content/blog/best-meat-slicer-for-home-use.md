@@ -1,39 +1,70 @@
 ---
-excerpt: "Six home meat slicers compared by blade size, motor and drive type, with a plain explanation of what gearing and duty ratings mean and how to get deli-thin slices."
+excerpt: Six home meat slicers compared by blade size, motor and drive type,
+  with a plain explanation of what gearing and duty ratings mean and how to get
+  deli-thin slices.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Meat Slicer for Home Use (6 Picks by Blade Size)"
+title: Best Meat Slicer for Home Use (6 Picks by Blade Size)
 source: wordpress
 slug: best-meat-slicer-for-home-use
 pubDate: 2020-05-31
 modDate: 2026-09-22
-image: ""
+image: /images/Best-meat-slicer-for-home.jpg
+description: The best meat slicer for home use, compared by blade size, motor
+  wattage and drive type, with honest pros and cons, plus tips for cutting
+  deli-thin slices.
 category: Cookware Equipment
-author: Boniface Muriuki
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
-authorImage: ""
-coverAlt: An electric meat slicer on a kitchen counter cutting thin slices from a cooked roast
 tags:
   - best-meat-slicer-for-home-use
   - meat-slicer
   - deli-slicer
   - kitchen-appliances
   - meal-prep
-authorImageAlt: kitchenpot1
-description: "The best meat slicer for home use, compared by blade size, motor wattage and drive type, with honest pros and cons, plus tips for cutting deli-thin slices."
 faq:
-  - question: "What size blade do I need on a home meat slicer?"
-    answer: "A 7 to 7.5-inch blade handles sandwich meat, cheese and bread for a household, and it is the cheapest, lightest option. An 8.5 to 10-inch blade lets you cut across a whole brisket flat, a pork loin or a large roast without trimming it first. Blade diameter sets the biggest slice you can take, so buy for the largest cut you realistically handle."
-  - question: "What is the difference between a gear-driven and a belt-driven meat slicer?"
-    answer: "A belt-driven slicer runs the blade off a rubber belt. It is cheaper and quieter, but the belt slips under load and eventually wears out. A gear-driven slicer transmits power through gears, which holds torque steady through dense food and lasts longer. Gear drive is the main reason a heavier slicer costs more than a light one."
-  - question: "Can you slice frozen meat in a home meat slicer?"
-    answer: "Fully frozen meat will stall or damage most home slicers. Partially frozen is the goal: chill the meat until it is firm on the outside but still yields to a thumb, usually 30 minutes to a couple of hours in the freezer depending on thickness. Firm meat holds its shape against the blade, which is how you get paper-thin slices."
-  - question: "How do you clean a meat slicer safely?"
-    answer: "Unplug it first, then set the thickness plate to zero so the blade edge is shielded. Remove the carriage, blade guard and deflector if they come off, and wash them in hot soapy water. Wipe the blade from the centre outward with a damp cloth, never around the edge. Dry everything fully and apply food-grade lubricant to the slide rod as the maker directs."
-  - question: "How thin can a home meat slicer cut?"
-    answer: "Most home slicers with an adjustable plate reach well under a millimetre at the lowest setting, which is thin enough for prosciutto-style sheets. Getting there depends less on the machine and more on the meat: cold, firm, tightly shaped cuts slice thin, while warm or loose ones tear. A smooth-edge blade also beats a serrated one for thin work."
-  - question: "Is a home meat slicer worth it?"
-    answer: "It pays off if you buy whole roasts, cure your own meat, or eat a lot of sandwiches. Whole cuts cost far less per pound than pre-sliced deli meat, and you control thickness and freshness. It is harder to justify if you slice once a month, since the machine is bulky, takes 10 minutes to clean and needs somewhere to live."
+  - question: What size blade do I need on a home meat slicer?
+    answer: A 7 to 7.5-inch blade handles sandwich meat, cheese and bread for a
+      household, and it is the cheapest, lightest option. An 8.5 to 10-inch
+      blade lets you cut across a whole brisket flat, a pork loin or a large
+      roast without trimming it first. Blade diameter sets the biggest slice you
+      can take, so buy for the largest cut you realistically handle.
+  - question: What is the difference between a gear-driven and a belt-driven meat slicer?
+    answer: A belt-driven slicer runs the blade off a rubber belt. It is cheaper and
+      quieter, but the belt slips under load and eventually wears out. A
+      gear-driven slicer transmits power through gears, which holds torque
+      steady through dense food and lasts longer. Gear drive is the main reason
+      a heavier slicer costs more than a light one.
+  - question: Can you slice frozen meat in a home meat slicer?
+    answer: "Fully frozen meat will stall or damage most home slicers. Partially
+      frozen is the goal: chill the meat until it is firm on the outside but
+      still yields to a thumb, usually 30 minutes to a couple of hours in the
+      freezer depending on thickness. Firm meat holds its shape against the
+      blade, which is how you get paper-thin slices."
+  - question: How do you clean a meat slicer safely?
+    answer: Unplug it first, then set the thickness plate to zero so the blade edge
+      is shielded. Remove the carriage, blade guard and deflector if they come
+      off, and wash them in hot soapy water. Wipe the blade from the centre
+      outward with a damp cloth, never around the edge. Dry everything fully and
+      apply food-grade lubricant to the slide rod as the maker directs.
+  - question: How thin can a home meat slicer cut?
+    answer: "Most home slicers with an adjustable plate reach well under a
+      millimetre at the lowest setting, which is thin enough for
+      prosciutto-style sheets. Getting there depends less on the machine and
+      more on the meat: cold, firm, tightly shaped cuts slice thin, while warm
+      or loose ones tear. A smooth-edge blade also beats a serrated one for thin
+      work."
+  - question: Is a home meat slicer worth it?
+    answer: It pays off if you buy whole roasts, cure your own meat, or eat a lot of
+      sandwiches. Whole cuts cost far less per pound than pre-sliced deli meat,
+      and you control thickness and freshness. It is harder to justify if you
+      slice once a month, since the machine is bulky, takes 10 minutes to clean
+      and needs somewhere to live.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: An electric meat slicer on a kitchen counter cutting thin slices from
+  a cooked roast
 ---
 Deli counters charge a steep premium for the slicing, not the meat. That gap is the whole argument for owning a slicer.
 
