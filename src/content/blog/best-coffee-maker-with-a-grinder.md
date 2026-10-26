@@ -1,40 +1,74 @@
 ---
-excerpt: "Most machines sold as a coffee maker with a grinder use a chopping blade, not a burr. Here are six real picks, sorted by grinder type, price and what they brew."
+excerpt: Most machines sold as a coffee maker with a grinder use a chopping
+  blade, not a burr. Here are six real picks, sorted by grinder type, price and
+  what they brew.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Coffee Maker with a Grinder (Burr vs Blade, 6 Picks)"
+title: Best Coffee Maker with a Grinder (Burr vs Blade, 6 Picks)
 source: wordpress
 slug: best-coffee-maker-with-a-grinder
 pubDate: 2020-04-08
 modDate: 2026-09-22
-image: ""
+image: /images/Best-Coffee-Makers-with-Grinders-Reviews-.jpg
+description: The best coffee maker with a grinder starts with real burrs, not a
+  blade. Six picks compared on grinder type, brew sizes, counter space and
+  cleaning needs.
 category: Beverages Equipment
-author: Boniface Muriuki
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
-authorImage: ""
-coverAlt: A drip coffee maker with a built-in bean hopper grinding whole beans on a kitchen counter
 tags:
   - best-coffee-maker-with-a-grinder
   - grind-and-brew
   - burr-grinder
   - drip-coffee-maker
   - espresso-machine
-authorImageAlt: kitchenpot1
-description: "The best coffee maker with a grinder starts with real burrs, not a blade. Six picks compared on grinder type, brew sizes, counter space and cleaning needs."
-seo: "The best coffee maker with a grinder, compared by grinder type. Six burr and blade grind-and-brew machines from Breville, Cuisinart, Café, De'Longhi and Ninja, with a full buying guide."
 faq:
-  - question: "Is a coffee maker with a built-in grinder worth it?"
-    answer: "It is worth it if the machine uses a burr grinder. Beans go stale fast once they are ground, so grinding right before you brew gives you a sweeter, fuller cup. A machine with a chopping blade grinds unevenly, and that costs you some of the gain. The other trade-off is cleaning, since a built-in grinder adds parts that need a weekly rinse."
-  - question: "What is the difference between a burr grinder and a blade grinder?"
-    answer: "A burr grinder squeezes beans between two toothed surfaces set a fixed distance apart, so every piece comes out close to the same size. A blade grinder spins a small propeller and chops whatever it hits. That leaves a mix of powder and chunks in the same basket. The powder over-extracts and turns bitter while the chunks stay sour, so the cup tastes muddled."
-  - question: "Which coffee makers with grinders are SCA certified?"
-    answer: "Only two grind-and-brew machines appear on the Specialty Coffee Association's certified home brewer list: the Café Specialty Grind and Brew and the GE Profile Smart Grind and Brew. Certification means the brewer hit the association's targets for water temperature, brew time and extraction during testing. Plenty of good machines are not certified, so treat it as a bonus rather than a requirement."
-  - question: "How often should you clean a built-in coffee grinder?"
-    answer: "Wipe the grinder chute and brew basket once a week if you drink coffee daily. Coffee oils build up in the chute and slow the grounds down, which is the most common complaint in owner reviews of grind-and-brew machines. Run a descaling cycle every two to three months, or more often if your tap water is hard."
-  - question: "Can you use pre-ground coffee in a grind and brew machine?"
-    answer: "Yes. Almost every machine here has a grind-off setting that skips the grinder and brews from the basket. Breville, Cuisinart and Café all include one. It is handy when you run out of beans, and it also lets you use decaf without emptying the hopper. Super-automatic espresso machines like the De'Longhi Magnifica Start have a separate pre-ground chute instead."
-  - question: "Do oily dark roast beans jam a built-in grinder?"
-    answer: "They can. Very dark, shiny beans leave oil on the burrs and in the chute, and that residue traps grounds until the path narrows. Owners of grind-and-brew machines report this more than any other fault. Medium roasts cause far less trouble. If you love dark roast, buy smaller bags, keep the hopper low and clean the chute weekly."
+  - question: Is a coffee maker with a built-in grinder worth it?
+    answer: It is worth it if the machine uses a burr grinder. Beans go stale fast
+      once they are ground, so grinding right before you brew gives you a
+      sweeter, fuller cup. A machine with a chopping blade grinds unevenly, and
+      that costs you some of the gain. The other trade-off is cleaning, since a
+      built-in grinder adds parts that need a weekly rinse.
+  - question: What is the difference between a burr grinder and a blade grinder?
+    answer: A burr grinder squeezes beans between two toothed surfaces set a fixed
+      distance apart, so every piece comes out close to the same size. A blade
+      grinder spins a small propeller and chops whatever it hits. That leaves a
+      mix of powder and chunks in the same basket. The powder over-extracts and
+      turns bitter while the chunks stay sour, so the cup tastes muddled.
+  - question: Which coffee makers with grinders are SCA certified?
+    answer: "Only two grind-and-brew machines appear on the Specialty Coffee
+      Association's certified home brewer list: the Café Specialty Grind and
+      Brew and the GE Profile Smart Grind and Brew. Certification means the
+      brewer hit the association's targets for water temperature, brew time and
+      extraction during testing. Plenty of good machines are not certified, so
+      treat it as a bonus rather than a requirement."
+  - question: How often should you clean a built-in coffee grinder?
+    answer: Wipe the grinder chute and brew basket once a week if you drink coffee
+      daily. Coffee oils build up in the chute and slow the grounds down, which
+      is the most common complaint in owner reviews of grind-and-brew machines.
+      Run a descaling cycle every two to three months, or more often if your tap
+      water is hard.
+  - question: Can you use pre-ground coffee in a grind and brew machine?
+    answer: Yes. Almost every machine here has a grind-off setting that skips the
+      grinder and brews from the basket. Breville, Cuisinart and Café all
+      include one. It is handy when you run out of beans, and it also lets you
+      use decaf without emptying the hopper. Super-automatic espresso machines
+      like the De'Longhi Magnifica Start have a separate pre-ground chute
+      instead.
+  - question: Do oily dark roast beans jam a built-in grinder?
+    answer: They can. Very dark, shiny beans leave oil on the burrs and in the
+      chute, and that residue traps grounds until the path narrows. Owners of
+      grind-and-brew machines report this more than any other fault. Medium
+      roasts cause far less trouble. If you love dark roast, buy smaller bags,
+      keep the hopper low and clean the chute weekly.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A drip coffee maker with a built-in bean hopper grinding whole beans
+  on a kitchen counter
+seo: The best coffee maker with a grinder, compared by grinder type. Six burr
+  and blade grind-and-brew machines from Breville, Cuisinart, Café, De'Longhi
+  and Ninja, with a full buying guide.
 ---
 A lot of machines sold as a "coffee maker with a grinder" do not have a real grinder. They have a spinning blade that chops beans into dust and gravel.
 
