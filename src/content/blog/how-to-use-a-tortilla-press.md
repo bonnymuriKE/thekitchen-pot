@@ -1,39 +1,71 @@
 ---
-excerpt: "Cracked edges, dough glued to the plates, tortillas that never puff. Here's how to use a tortilla press the right way, from mixing the masa to the final flip."
+excerpt: Cracked edges, dough glued to the plates, tortillas that never puff.
+  Here's how to use a tortilla press the right way, from mixing the masa to the
+  final flip.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "How to Use a Tortilla Press (Step-by-Step Guide for Soft Corn Tortillas)"
+title: How to Use a Tortilla Press (Step-by-Step Guide for Soft Corn Tortillas)
 source: wordpress
 slug: how-to-use-a-tortilla-press
 pubDate: 2020-05-16
 modDate: 2026-09-22
-image: ""
+image: /images/How-to-Use-a-Tortilla-Press.jpg
+description: "How to use a tortilla press for soft corn tortillas: mix the masa,
+  line the plates with plastic, press to 1/8 inch, then cook on a hot pan until
+  they puff."
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A cast iron tortilla press lined with plastic, with balls of corn masa dough and a stack of fresh tortillas beside it
 tags:
   - how-to-use-a-tortilla-press
   - homemade-corn-tortillas
   - tortilla-press
   - masa-harina
-authorImageAlt: kitchenpot1
-description: "How to use a tortilla press for soft corn tortillas: mix the masa, line the plates with plastic, press to 1/8 inch, then cook on a hot pan until they puff."
-seo: "How to use a tortilla press step by step: masa harina dough ratios, lining the press, dough ball size, pressing thickness, cooking on a comal, fixing cracks and sticking, flour tortillas, and cleaning a cast iron press."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Do you need to line a tortilla press with plastic?"
-    answer: "Yes. Corn masa sticks to bare metal and wood, so you need a liner on both plates. The most common choice is a heavy zip-top freezer bag with the sides cut off, which gives you two sheets joined at the bottom. Thick plastic wrap and parchment paper also work, though parchment can wrinkle. Reuse the same liner for the whole batch and wipe it if dough builds up."
-  - question: "Why are my tortillas cracking around the edges?"
-    answer: "Cracked edges almost always mean the dough is too dry. Masa should feel like soft Play-Doh or cookie dough, moist but not sticky. Knead in more warm water about 1 tablespoon at a time, then press a test ball. When the edges come out smooth instead of split, the dough is ready. Keep the rest of the dough covered with a damp towel so it doesn't dry out."
-  - question: "Can you use a tortilla press for flour tortillas?"
-    answer: "You can, but it's harder than with corn. Gluten in flour dough is stretchy and tends to shrink back after pressing, so many cooks prefer a rolling pin. If you want to use a press, let the dough rest well so the gluten relaxes. Masienda rests its dough for 30 minutes, then another 15 minutes after shaping balls, and presses each tortilla twice."
-  - question: "How thick should a corn tortilla be?"
-    answer: "Aim for about 1/8 inch, which gives you a tortilla around 5 to 6 inches across from a golf ball or ping-pong ball of dough. Thinner tortillas tear when you peel them off the plastic, and thicker ones cook unevenly and rarely puff. If your press makes them too thin, press more gently or stop partway down."
-  - question: "How do you clean a cast iron tortilla press?"
-    answer: "Usually a wipe is enough, since the plastic liner keeps dough off the metal. Victoria, which makes a popular cast iron press, says to wipe it with a dry or lightly oiled cloth after each use. For heavier mess, wash it by hand with warm water and a soft brush, dry it right away, and rub on a thin coat of cooking oil to prevent rust."
-  - question: "Is a cast iron or aluminum tortilla press better?"
-    answer: "Cast iron is heavier, so it does more of the pressing for you and makes even tortillas with less effort. It needs to be dried and oiled to prevent rust. Cast aluminum is lighter, won't rust and costs less, but you may need to push a little harder. Both work well for corn tortillas, so pick based on your budget and storage space."
+  - question: Do you need to line a tortilla press with plastic?
+    answer: Yes. Corn masa sticks to bare metal and wood, so you need a liner on
+      both plates. The most common choice is a heavy zip-top freezer bag with
+      the sides cut off, which gives you two sheets joined at the bottom. Thick
+      plastic wrap and parchment paper also work, though parchment can wrinkle.
+      Reuse the same liner for the whole batch and wipe it if dough builds up.
+  - question: Why are my tortillas cracking around the edges?
+    answer: Cracked edges almost always mean the dough is too dry. Masa should feel
+      like soft Play-Doh or cookie dough, moist but not sticky. Knead in more
+      warm water about 1 tablespoon at a time, then press a test ball. When the
+      edges come out smooth instead of split, the dough is ready. Keep the rest
+      of the dough covered with a damp towel so it doesn't dry out.
+  - question: Can you use a tortilla press for flour tortillas?
+    answer: You can, but it's harder than with corn. Gluten in flour dough is
+      stretchy and tends to shrink back after pressing, so many cooks prefer a
+      rolling pin. If you want to use a press, let the dough rest well so the
+      gluten relaxes. Masienda rests its dough for 30 minutes, then another 15
+      minutes after shaping balls, and presses each tortilla twice.
+  - question: How thick should a corn tortilla be?
+    answer: Aim for about 1/8 inch, which gives you a tortilla around 5 to 6 inches
+      across from a golf ball or ping-pong ball of dough. Thinner tortillas tear
+      when you peel them off the plastic, and thicker ones cook unevenly and
+      rarely puff. If your press makes them too thin, press more gently or stop
+      partway down.
+  - question: How do you clean a cast iron tortilla press?
+    answer: Usually a wipe is enough, since the plastic liner keeps dough off the
+      metal. Victoria, which makes a popular cast iron press, says to wipe it
+      with a dry or lightly oiled cloth after each use. For heavier mess, wash
+      it by hand with warm water and a soft brush, dry it right away, and rub on
+      a thin coat of cooking oil to prevent rust.
+  - question: Is a cast iron or aluminum tortilla press better?
+    answer: Cast iron is heavier, so it does more of the pressing for you and makes
+      even tortillas with less effort. It needs to be dried and oiled to prevent
+      rust. Cast aluminum is lighter, won't rust and costs less, but you may
+      need to push a little harder. Both work well for corn tortillas, so pick
+      based on your budget and storage space.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A cast iron tortilla press lined with plastic, with balls of corn masa
+  dough and a stack of fresh tortillas beside it
+seo: "How to use a tortilla press step by step: masa harina dough ratios, lining
+  the press, dough ball size, pressing thickness, cooking on a comal, fixing
+  cracks and sticking, flour tortillas, and cleaning a cast iron press."
 ---
 The first time you use a tortilla press, it feels like magic. You drop a little ball of dough in, pull the handle down, and out comes a perfect round tortilla in two seconds. The second time, the dough cracks at the edges, sticks to the plastic, and tears when you try to peel it off.
 
