@@ -1,38 +1,66 @@
 ---
-excerpt: "Six induction-ready picks, from tri-ply stainless steel sets to enameled cast iron and PTFE-free ceramic, plus how induction works, the magnet test, and a side-by-side comparison table."
+excerpt: Six induction-ready picks, from tri-ply stainless steel sets to
+  enameled cast iron and PTFE-free ceramic, plus how induction works, the magnet
+  test, and a side-by-side comparison table.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Cookware for Induction Cooktop (6 Picks That Actually Work)"
+title: Best Cookware for Induction Cooktop (6 Picks That Actually Work)
 source: wordpress
 slug: best-cookware-for-induction-cooktop
 pubDate: 2020-06-07
 modDate: 2026-09-22
-image: ""
+image: /images/Best-Cookware-for-Induction-Cooktop.jpg
+description: The best cookware for induction cooktops, from tri-ply stainless
+  and enameled cast iron to ceramic nonstick, plus how the magnet test shows
+  what will work.
 category: Cookware Equipment
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: Stainless steel and enameled cast iron pans sitting on a black glass induction cooktop
 tags:
   - cookware-for-induction-cooktop
   - induction-cookware
   - stainless-steel-cookware
   - cast-iron
   - ceramic-cookware
-authorImageAlt: kitchenpot1
-description: "The best cookware for induction cooktops, from tri-ply stainless and enameled cast iron to ceramic nonstick, plus how the magnet test shows what will work."
-seo: "Looking for the best cookware for an induction cooktop? We compare six induction-compatible sets and pans, including tri-ply stainless steel, cast iron, enameled cast iron and ceramic nonstick, and explain how induction works and how to test your pans with a magnet."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What cookware works on an induction cooktop?"
-    answer: "Induction only works with pans that have a magnetic base. That includes cast iron, enameled cast iron, carbon steel, most magnetic stainless steel and clad cookware, and nonstick or ceramic pans that have a steel plate bonded to the bottom. Plain aluminum, copper, glass and ceramic pans without a magnetic base will not heat at all."
-  - question: "How do I know if my pans are induction compatible?"
-    answer: "Hold a fridge magnet against the bottom of the pan. If it sticks firmly, the pan will work on induction. If it doesn't stick, or barely clings, the pan won't heat properly. You can also look for a coil-shaped induction symbol on the base or packaging, or check the manufacturer's product page."
-  - question: "Can you use cast iron on an induction cooktop?"
-    answer: "Yes. Cast iron is one of the best materials for induction because it is strongly magnetic and holds heat well. The risk is to the glass top, not the pan. Lift heavy cast iron instead of sliding it, keep the bottom clean and smooth, and use medium heat to start, since induction heats cast iron quickly."
-  - question: "Is stainless steel good for induction cooking?"
-    answer: "Fully clad stainless steel is one of the best choices for induction. The magnetic outer steel layer reacts with the cooktop, and the aluminum core spreads that heat across the pan. Not all stainless is magnetic, though. Some 18/10 stainless pans without a magnetic base won't work, so always check the listing or use the magnet test."
-  - question: "Why is my pan making a buzzing noise on induction?"
-    answer: "A low hum or buzz is normal on induction, especially at high power settings. It usually comes from the layers in clad or multi-ply pans vibrating in the magnetic field. It tends to be louder with lighter pans or pans that aren't flat. Turning the power down a notch or using a heavier pan usually quiets it."
+  - question: What cookware works on an induction cooktop?
+    answer: Induction only works with pans that have a magnetic base. That includes
+      cast iron, enameled cast iron, carbon steel, most magnetic stainless steel
+      and clad cookware, and nonstick or ceramic pans that have a steel plate
+      bonded to the bottom. Plain aluminum, copper, glass and ceramic pans
+      without a magnetic base will not heat at all.
+  - question: How do I know if my pans are induction compatible?
+    answer: Hold a fridge magnet against the bottom of the pan. If it sticks firmly,
+      the pan will work on induction. If it doesn't stick, or barely clings, the
+      pan won't heat properly. You can also look for a coil-shaped induction
+      symbol on the base or packaging, or check the manufacturer's product page.
+  - question: Can you use cast iron on an induction cooktop?
+    answer: Yes. Cast iron is one of the best materials for induction because it is
+      strongly magnetic and holds heat well. The risk is to the glass top, not
+      the pan. Lift heavy cast iron instead of sliding it, keep the bottom clean
+      and smooth, and use medium heat to start, since induction heats cast iron
+      quickly.
+  - question: Is stainless steel good for induction cooking?
+    answer: Fully clad stainless steel is one of the best choices for induction. The
+      magnetic outer steel layer reacts with the cooktop, and the aluminum core
+      spreads that heat across the pan. Not all stainless is magnetic, though.
+      Some 18/10 stainless pans without a magnetic base won't work, so always
+      check the listing or use the magnet test.
+  - question: Why is my pan making a buzzing noise on induction?
+    answer: A low hum or buzz is normal on induction, especially at high power
+      settings. It usually comes from the layers in clad or multi-ply pans
+      vibrating in the magnetic field. It tends to be louder with lighter pans
+      or pans that aren't flat. Turning the power down a notch or using a
+      heavier pan usually quiets it.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: Stainless steel and enameled cast iron pans sitting on a black glass
+  induction cooktop
+seo: Looking for the best cookware for an induction cooktop? We compare six
+  induction-compatible sets and pans, including tri-ply stainless steel, cast
+  iron, enameled cast iron and ceramic nonstick, and explain how induction works
+  and how to test your pans with a magnet.
 ---
 You finally have an induction cooktop, or you just moved into an apartment with one. You set your favorite skillet on the glass, press the button, and nothing happens. The display blinks. The pan stays cold. That's the moment most people learn that induction is picky about cookware.
 
