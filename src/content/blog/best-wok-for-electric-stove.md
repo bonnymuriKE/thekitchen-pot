@@ -1,40 +1,73 @@
 ---
-excerpt: "A round-bottom wok touches an electric burner in one spot. Here are six flat-bottom woks that sit level on coils and glass tops, plus how to season and use them."
+excerpt: A round-bottom wok touches an electric burner in one spot. Here are six
+  flat-bottom woks that sit level on coils and glass tops, plus how to season
+  and use them.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Wok for Electric Stove (6 Flat-Bottom Picks That Sit Level)"
+title: Best Wok for Electric Stove (6 Flat-Bottom Picks That Sit Level)
 source: wordpress
 slug: best-wok-for-electric-stove
 pubDate: 2020-06-02
 modDate: 2026-09-22
-image: ""
+image: /images/top-best-woks.jpg
+description: The best wok for electric stove use has a flat bottom that sits
+  level on coils or glass. Six picks in carbon steel, clad stainless, nonstick
+  and cast iron.
 category: Pans And Pots
-author: Boniface Muriuki
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
-authorImage: ""
-coverAlt: A flat-bottom carbon steel wok sitting level on a black glass electric cooktop
 tags:
   - best-wok-for-electric-stove
   - flat-bottom-wok
   - carbon-steel-wok
   - glass-top-stove-cookware
   - stir-fry
-authorImageAlt: kitchenpot1
-description: "The best wok for electric stove use has a flat bottom that sits level on coils or glass. Six picks in carbon steel, clad stainless, nonstick and cast iron."
-seo: "The best wok for an electric stove is flat-bottomed, because a round-bottom wok barely touches a coil or glass cooktop. Six current picks in carbon steel, clad stainless, hard-anodized nonstick and cast iron, plus seasoning steps and heat tips."
 faq:
-  - question: "Can you use a round-bottom wok on an electric stove?"
-    answer: "Not well. A round wok touches a flat coil or glass surface at a single small point, so heat has to spread outward through the metal instead of coming up through the base. The sides stay cool and food steams. A wok ring does not fix it on an electric stove either, because it lifts the pan away from the element and traps heat underneath."
-  - question: "What size wok is best for an electric stove?"
-    answer: "A 13 to 14 inch wok suits most home electric burners. The number that matters more is the flat base, which is usually 5 to 7 inches across. Match that base to your largest element so the whole flat section sits over the heat. A wok much wider than the burner will cook hot in the middle and stay cool at the rim."
-  - question: "Will a wok scratch a glass top stove?"
-    answer: "It can, if the base is rough or you drag it. Smooth carbon steel, clad stainless and hard-anodized aluminum are all safe on glass when you lift rather than slide. Bare cast iron is the risky one. GE advises against cast iron on radiant glass cooktops because the rough surface can scratch and the metal holds heat long enough to trip the cooktop's temperature limiter."
-  - question: "Do you have to season a carbon steel wok?"
-    answer: "Yes. Carbon steel arrives bare or lightly coated, and it will rust without a layer of polymerized oil on it. Seasoning is simple: heat the dry wok, wipe on a very thin film of neutral oil, and heat it until the oil stops smoking. Repeat a few times. The layer darkens and gets slicker every time you cook in it."
-  - question: "Why does my electric stove lose heat when I add food to the wok?"
-    answer: "Electric elements cycle on and off to hold a set temperature, and they cannot surge the way a gas flame can. When cold food hits the pan, the metal loses heat faster than the element can put it back. Preheat longer than you think, cook in two or three smaller batches, and let the pan recover for a minute between them."
-  - question: "Is carbon steel or stainless steel better for a wok on an electric stove?"
-    answer: "Carbon steel for flavor and food release, clad stainless for convenience. Carbon steel is thin, heats fast and builds a natural nonstick layer, but it needs seasoning and hand washing. Clad stainless never rusts, goes in the dishwasher and handles acidic sauces, though food sticks more and the pan is heavier to toss."
+  - question: Can you use a round-bottom wok on an electric stove?
+    answer: Not well. A round wok touches a flat coil or glass surface at a single
+      small point, so heat has to spread outward through the metal instead of
+      coming up through the base. The sides stay cool and food steams. A wok
+      ring does not fix it on an electric stove either, because it lifts the pan
+      away from the element and traps heat underneath.
+  - question: What size wok is best for an electric stove?
+    answer: A 13 to 14 inch wok suits most home electric burners. The number that
+      matters more is the flat base, which is usually 5 to 7 inches across.
+      Match that base to your largest element so the whole flat section sits
+      over the heat. A wok much wider than the burner will cook hot in the
+      middle and stay cool at the rim.
+  - question: Will a wok scratch a glass top stove?
+    answer: It can, if the base is rough or you drag it. Smooth carbon steel, clad
+      stainless and hard-anodized aluminum are all safe on glass when you lift
+      rather than slide. Bare cast iron is the risky one. GE advises against
+      cast iron on radiant glass cooktops because the rough surface can scratch
+      and the metal holds heat long enough to trip the cooktop's temperature
+      limiter.
+  - question: Do you have to season a carbon steel wok?
+    answer: "Yes. Carbon steel arrives bare or lightly coated, and it will rust
+      without a layer of polymerized oil on it. Seasoning is simple: heat the
+      dry wok, wipe on a very thin film of neutral oil, and heat it until the
+      oil stops smoking. Repeat a few times. The layer darkens and gets slicker
+      every time you cook in it."
+  - question: Why does my electric stove lose heat when I add food to the wok?
+    answer: Electric elements cycle on and off to hold a set temperature, and they
+      cannot surge the way a gas flame can. When cold food hits the pan, the
+      metal loses heat faster than the element can put it back. Preheat longer
+      than you think, cook in two or three smaller batches, and let the pan
+      recover for a minute between them.
+  - question: Is carbon steel or stainless steel better for a wok on an electric stove?
+    answer: Carbon steel for flavor and food release, clad stainless for
+      convenience. Carbon steel is thin, heats fast and builds a natural
+      nonstick layer, but it needs seasoning and hand washing. Clad stainless
+      never rusts, goes in the dishwasher and handles acidic sauces, though food
+      sticks more and the pan is heavier to toss.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A flat-bottom carbon steel wok sitting level on a black glass electric cooktop
+seo: The best wok for an electric stove is flat-bottomed, because a round-bottom
+  wok barely touches a coil or glass cooktop. Six current picks in carbon steel,
+  clad stainless, hard-anodized nonstick and cast iron, plus seasoning steps and
+  heat tips.
 ---
 A round-bottom wok on an electric stove touches the burner in about one spot. The rest of the pan just sits there, waiting for heat that never really arrives.
 
