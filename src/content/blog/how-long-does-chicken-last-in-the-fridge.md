@@ -1,40 +1,73 @@
 ---
-excerpt: "Raw chicken keeps 1 to 2 days in the fridge and cooked chicken 3 to 4 days. Here's the full USDA storage chart, how to tell if chicken has gone bad, and how to freeze and thaw it safely."
+excerpt: Raw chicken keeps 1 to 2 days in the fridge and cooked chicken 3 to 4
+  days. Here's the full USDA storage chart, how to tell if chicken has gone bad,
+  and how to freeze and thaw it safely.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "How Long Does Chicken Last in the Fridge? (Raw, Cooked and Frozen)"
+title: How Long Does Chicken Last in the Fridge? (Raw, Cooked and Frozen)
 source: wordpress
 slug: how-long-does-chicken-last-in-the-fridge
 pubDate: 2020-10-28
 modDate: 2026-09-22
-image: ""
+image: /images/raw-chicken-in-fridge.jpg
+description: How long does chicken last in the fridge? Raw chicken keeps 1 to 2
+  days and cooked 3 to 4 days. See the USDA chart, spoilage signs and smart
+  freezing tips.
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: Raw chicken breasts in a sealed glass container on the bottom shelf of a refrigerator
 tags:
   - how-long-does-chicken-last-in-the-fridge
   - chicken-food-safety
   - storing-leftovers
   - freezing-chicken
   - meal-prep
-authorImageAlt: kitchenpot1
-description: "How long does chicken last in the fridge? Raw chicken keeps 1 to 2 days and cooked 3 to 4 days. See the USDA chart, spoilage signs and smart freezing tips."
-seo: "How long does chicken last in the fridge, raw and cooked, based on USDA and FoodSafety.gov guidance. Covers sell-by dates, marinated and rotisserie chicken, signs chicken has gone bad, freezing times, safe thawing and refreezing."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "How long does raw chicken last in the fridge?"
-    answer: "Raw chicken, whether whole or in pieces, lasts 1 to 2 days in a refrigerator set to 40°F or below, according to USDA and FoodSafety.gov. That clock starts when you bring it home. If you won't cook it within that window, freeze it. Frozen at 0°F, it stays safe indefinitely, though quality is best within 9 months for pieces and a year for a whole bird."
-  - question: "How long is cooked chicken good for in the fridge?"
-    answer: "Cooked chicken is good for 3 to 4 days in the fridge. That applies to leftovers, rotisserie chicken, fried chicken, casseroles, chicken soup and chicken salad. Refrigerate it within 2 hours of cooking, or within 1 hour if it's above 90°F outside. If you won't finish it in 3 to 4 days, freeze it in portions instead."
-  - question: "Can you eat chicken after 5 days in the fridge?"
-    answer: "USDA guidance is to eat cooked chicken within 3 to 4 days and cook raw chicken within 1 to 2 days, so 5 days is past both limits. The bacteria that cause food poisoning usually don't change how chicken looks or smells, so it can seem fine and still make you sick. Past the window, throw it out."
-  - question: "How can you tell if chicken has gone bad?"
-    answer: "Spoiled chicken often has a sour or strong off smell, a slimy or sticky surface that stays after rinsing your fingers, or a dull, grayish look. If you notice any of these, throw it away. But passing the sniff test doesn't make old chicken safe. Go by storage time first, and never taste chicken to check it."
-  - question: "Is chicken still good after the sell-by date?"
-    answer: "Often, yes. A sell-by date tells the store how long to display the product, and USDA says it isn't a safety date. What matters is how long you've had it. Cook or freeze raw chicken within 1 to 2 days of buying it. If you freeze it before the date passes, it stays safe as long as it stays frozen."
-  - question: "Can you refreeze chicken that has been thawed?"
-    answer: "You can refreeze raw chicken without cooking it only if you thawed it in the refrigerator and it hasn't been out longer than 1 to 2 days. Chicken thawed in cold water or the microwave should be cooked before you freeze it again. Cooked chicken made from thawed raw chicken can also be frozen. Expect some loss of texture."
+  - question: How long does raw chicken last in the fridge?
+    answer: Raw chicken, whether whole or in pieces, lasts 1 to 2 days in a
+      refrigerator set to 40°F or below, according to USDA and FoodSafety.gov.
+      That clock starts when you bring it home. If you won't cook it within that
+      window, freeze it. Frozen at 0°F, it stays safe indefinitely, though
+      quality is best within 9 months for pieces and a year for a whole bird.
+  - question: How long is cooked chicken good for in the fridge?
+    answer: Cooked chicken is good for 3 to 4 days in the fridge. That applies to
+      leftovers, rotisserie chicken, fried chicken, casseroles, chicken soup and
+      chicken salad. Refrigerate it within 2 hours of cooking, or within 1 hour
+      if it's above 90°F outside. If you won't finish it in 3 to 4 days, freeze
+      it in portions instead.
+  - question: Can you eat chicken after 5 days in the fridge?
+    answer: USDA guidance is to eat cooked chicken within 3 to 4 days and cook raw
+      chicken within 1 to 2 days, so 5 days is past both limits. The bacteria
+      that cause food poisoning usually don't change how chicken looks or
+      smells, so it can seem fine and still make you sick. Past the window,
+      throw it out.
+  - question: How can you tell if chicken has gone bad?
+    answer: Spoiled chicken often has a sour or strong off smell, a slimy or sticky
+      surface that stays after rinsing your fingers, or a dull, grayish look. If
+      you notice any of these, throw it away. But passing the sniff test doesn't
+      make old chicken safe. Go by storage time first, and never taste chicken
+      to check it.
+  - question: Is chicken still good after the sell-by date?
+    answer: Often, yes. A sell-by date tells the store how long to display the
+      product, and USDA says it isn't a safety date. What matters is how long
+      you've had it. Cook or freeze raw chicken within 1 to 2 days of buying it.
+      If you freeze it before the date passes, it stays safe as long as it stays
+      frozen.
+  - question: Can you refreeze chicken that has been thawed?
+    answer: You can refreeze raw chicken without cooking it only if you thawed it in
+      the refrigerator and it hasn't been out longer than 1 to 2 days. Chicken
+      thawed in cold water or the microwave should be cooked before you freeze
+      it again. Cooked chicken made from thawed raw chicken can also be frozen.
+      Expect some loss of texture.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: Raw chicken breasts in a sealed glass container on the bottom shelf of
+  a refrigerator
+seo: How long does chicken last in the fridge, raw and cooked, based on USDA and
+  FoodSafety.gov guidance. Covers sell-by dates, marinated and rotisserie
+  chicken, signs chicken has gone bad, freezing times, safe thawing and
+  refreezing.
 ---
 You bought a pack of chicken on Saturday with big plans, and now it's Tuesday night and you're staring at it in the fridge wondering if it's still okay. Or there's half a rotisserie chicken in there from a few days ago and you can't remember exactly when you bought it. Everyone has been there.
 
