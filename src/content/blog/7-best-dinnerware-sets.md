@@ -1,40 +1,76 @@
 ---
-excerpt: "Seven dinnerware sets chosen by what they are made of: Vitrelle glass, porcelain, stoneware, bone china and melamine. With shelf space, chip resistance and open stock covered."
+excerpt: "Seven dinnerware sets chosen by what they are made of: Vitrelle glass,
+  porcelain, stoneware, bone china and melamine. With shelf space, chip
+  resistance and open stock covered."
 showTableOfContents: true
 authorId: kitchenpot1
-title: "7 Best Dinnerware Sets (Picked by Material, Durability and Storage)"
+title: 7 Best Dinnerware Sets (Picked by Material, Durability and Storage)
 source: Wordpress
 slug: 7-best-dinnerware-sets
 pubDate: 2020-08-13
 modDate: 2026-09-22
-image: ""
+image: /images/Best-Dinnerware-Set.jpg
+description: The best dinnerware sets, compared by material, chip resistance,
+  cabinet space and open stock, from Vitrelle glass and porcelain to stoneware
+  and melamine.
 category: Kitchenware
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A stack of white dinner plates, salad plates and cereal bowls on an open kitchen shelf
 tags:
   - best-dinnerware-sets
   - porcelain-dinnerware
   - stoneware-dinnerware
   - bone-china
   - small-kitchen-storage
-authorImageAlt: kitchenpot1
-description: "The best dinnerware sets, compared by material, chip resistance, cabinet space and open stock, from Vitrelle glass and porcelain to stoneware and melamine."
-seo: "A guide to the best dinnerware sets for everyday use, comparing Vitrelle glass, porcelain, stoneware, bone china and melamine on chip resistance, weight, microwave and dishwasher safety, stacking height and whether you can buy replacement pieces."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What is the most durable material for dinnerware?"
-    answer: "For everyday knocks, Corelle's Vitrelle glass is the toughest mainstream option. It is three layers of glass bonded together, and Corelle sells it as highly resistant to chips and cracks. Bone china is the strongest of the traditional ceramics because the bone ash makes a denser body. Stoneware is the heaviest and the easiest to chip on a hard sink. Melamine will not break at all, but it cannot go in the microwave."
-  - question: "Is porcelain or stoneware better for everyday dishes?"
-    answer: "Porcelain is fired hotter and comes out thinner, lighter and less porous, so it stacks better and resists staining. Stoneware is thicker and heavier, holds heat longer, and gives you that matte, handmade look. If your cabinet space or your wrists are the problem, pick porcelain. If you want the plates to feel substantial and you have the shelf room, pick stoneware."
-  - question: "How many dinnerware sets do I need for a family of four?"
-    answer: "Service for four is the usual starting point, but service for six or eight is easier to live with. Extra plates mean the dishwasher can run once a day instead of twice, and you are covered when someone stays for dinner. Look for sets that include a dinner plate, a salad plate and a bowl per person. Mugs are often sold separately."
-  - question: "Can you put bone china in the microwave and dishwasher?"
-    answer: "Most modern bone china is both microwave and dishwasher safe, and Mikasa lists its Macie bone china set that way. The exception is any piece with a metallic rim in gold, silver or platinum. Metal trim sparks in a microwave and dulls in a dishwasher. Check the bottom of the plate before you assume, because older china and hand-painted pieces often say hand wash only."
-  - question: "Can you buy replacement plates for a dinnerware set?"
-    answer: "Sometimes. Corelle, Fiesta and Lenox all sell individual plates, bowls and mugs in their long-running patterns, which is called open stock. Most discount sets and seasonal patterns are sold only as a boxed set, so one broken plate leaves you short. If you plan to keep a set for years, check that the pattern is sold open stock before you buy it."
-  - question: "Is melamine dinnerware safe to use?"
-    answer: "The FDA considers melamine tableware safe for serving food and drinks, and says the amount that migrates into food is well below its risk level. The rule is that you never heat food on it. The FDA specifically advises against microwaving melamine dinnerware, because heat and acidic food together raise how much melamine moves into the food."
+  - question: What is the most durable material for dinnerware?
+    answer: For everyday knocks, Corelle's Vitrelle glass is the toughest mainstream
+      option. It is three layers of glass bonded together, and Corelle sells it
+      as highly resistant to chips and cracks. Bone china is the strongest of
+      the traditional ceramics because the bone ash makes a denser body.
+      Stoneware is the heaviest and the easiest to chip on a hard sink. Melamine
+      will not break at all, but it cannot go in the microwave.
+  - question: Is porcelain or stoneware better for everyday dishes?
+    answer: Porcelain is fired hotter and comes out thinner, lighter and less
+      porous, so it stacks better and resists staining. Stoneware is thicker and
+      heavier, holds heat longer, and gives you that matte, handmade look. If
+      your cabinet space or your wrists are the problem, pick porcelain. If you
+      want the plates to feel substantial and you have the shelf room, pick
+      stoneware.
+  - question: How many dinnerware sets do I need for a family of four?
+    answer: Service for four is the usual starting point, but service for six or
+      eight is easier to live with. Extra plates mean the dishwasher can run
+      once a day instead of twice, and you are covered when someone stays for
+      dinner. Look for sets that include a dinner plate, a salad plate and a
+      bowl per person. Mugs are often sold separately.
+  - question: Can you put bone china in the microwave and dishwasher?
+    answer: Most modern bone china is both microwave and dishwasher safe, and Mikasa
+      lists its Macie bone china set that way. The exception is any piece with a
+      metallic rim in gold, silver or platinum. Metal trim sparks in a microwave
+      and dulls in a dishwasher. Check the bottom of the plate before you
+      assume, because older china and hand-painted pieces often say hand wash
+      only.
+  - question: Can you buy replacement plates for a dinnerware set?
+    answer: Sometimes. Corelle, Fiesta and Lenox all sell individual plates, bowls
+      and mugs in their long-running patterns, which is called open stock. Most
+      discount sets and seasonal patterns are sold only as a boxed set, so one
+      broken plate leaves you short. If you plan to keep a set for years, check
+      that the pattern is sold open stock before you buy it.
+  - question: Is melamine dinnerware safe to use?
+    answer: The FDA considers melamine tableware safe for serving food and drinks,
+      and says the amount that migrates into food is well below its risk level.
+      The rule is that you never heat food on it. The FDA specifically advises
+      against microwaving melamine dinnerware, because heat and acidic food
+      together raise how much melamine moves into the food.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A stack of white dinner plates, salad plates and cereal bowls on an
+  open kitchen shelf
+seo: A guide to the best dinnerware sets for everyday use, comparing Vitrelle
+  glass, porcelain, stoneware, bone china and melamine on chip resistance,
+  weight, microwave and dishwasher safety, stacking height and whether you can
+  buy replacement pieces.
 ---
 Two dinner plates can look identical and behave nothing alike. One survives a dropped fork. The other loses a chip off the rim.
 
