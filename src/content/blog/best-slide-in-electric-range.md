@@ -1,5 +1,7 @@
 ---
-excerpt: "Six slide-in electric ranges compared on the numbers that matter: oven size, element wattages, cutout dimensions, cleaning method and what you really get if you hold the budget under $1,000."
+excerpt: "Six slide-in electric ranges compared on the numbers that matter: oven
+  size, element wattages, cutout dimensions, cleaning method and what you really
+  get if you hold the budget under $1,000."
 showTableOfContents: true
 authorId: kitchenpot1
 title: "Best Slide-In Electric Range: 6 Picks and What Under $1,000 Buys"
@@ -7,34 +9,67 @@ source: wordpress
 slug: best-slide-in-electric-range
 pubDate: 2020-06-07
 modDate: 2026-09-22
-image: ""
+image: /images/2Best-Slide-In-Electric-Range.jpg
+description: Compare the best slide-in electric range picks, from a $929
+  steam-clean model up to induction, with real element wattages, oven sizes and
+  fit measurements.
 category: Cookware Equipment
-author: Boniface Muriuki
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
-authorImage: ""
-coverAlt: A stainless steel slide-in electric range fitted flush between two kitchen counters
 tags:
   - best-slide-in-electric-range
   - electric-range
   - slide-in-range
   - kitchen-appliances
   - induction-range
-authorImageAlt: kitchenpot1
-description: "Compare the best slide-in electric range picks, from a $929 steam-clean model up to induction, with real element wattages, oven sizes and fit measurements."
-seo: "Shopping for the best slide-in electric range? Compare six current models on oven capacity, element wattages, cutout dimensions, air fry, convection and cleaning, plus a clear explanation of slide-in versus freestanding and what under $1,000 actually buys."
 faq:
-  - question: "What is the difference between a slide-in and a freestanding electric range?"
-    answer: "A freestanding range has finished sides and a tall back panel with the controls on it, so it can stand anywhere. A slide-in has no back panel, unfinished sides, and controls on the front, so it must sit between cabinets and its cooktop overlaps the counter on each side. That overlap is what gives the built-in look and stops crumbs falling down the gaps."
-  - question: "Can you get a good slide-in electric range under $1,000?"
-    answer: "Not a true slide-in, no. The closest is the Frigidaire FCFE3062A, a front control freestanding range listing around $929 with a 5.3 cubic foot oven, five elements including two at 3,000 watts or more, and a 30-minute steam clean cycle. What you give up under $1,000 is convection, air fry and high-heat self-cleaning, not basic cooking ability."
-  - question: "Does a slide-in electric range need a different cutout than a freestanding one?"
-    answer: "The opening is the same 30 inches wide for both. The difference is depth and the counter edge. A slide-in overlaps the countertop by roughly an inch on each side, so the counter must already be cut to 30 inches with a clean, square front edge. Most ranges need 36 inches of height from the floor to the underside of the counter."
-  - question: "Is an induction slide-in range worth the extra money?"
-    answer: "It is if you already own magnetic cookware and you value speed. The Frigidaire Gallery GCFI3060BF runs its largest element at 2,300 watts with a 3,600-watt boost, which brings water to a boil faster than any radiant element here. You also get a cooler kitchen and a flat surface that wipes clean. The catch is that aluminum and copper pans will not work at all."
-  - question: "What size circuit does a slide-in electric range need?"
-    answer: "Almost every 30-inch electric range on this list needs a dedicated 240-volt circuit on a 40-amp breaker. Frigidaire lists a 13 kW connected load for its radiant models and 15 kW for the induction version. If you are replacing an older range, that circuit is usually already in place, but check the breaker size before you order."
+  - question: What is the difference between a slide-in and a freestanding electric
+      range?
+    answer: A freestanding range has finished sides and a tall back panel with the
+      controls on it, so it can stand anywhere. A slide-in has no back panel,
+      unfinished sides, and controls on the front, so it must sit between
+      cabinets and its cooktop overlaps the counter on each side. That overlap
+      is what gives the built-in look and stops crumbs falling down the gaps.
+  - question: Can you get a good slide-in electric range under $1,000?
+    answer: Not a true slide-in, no. The closest is the Frigidaire FCFE3062A, a
+      front control freestanding range listing around $929 with a 5.3 cubic foot
+      oven, five elements including two at 3,000 watts or more, and a 30-minute
+      steam clean cycle. What you give up under $1,000 is convection, air fry
+      and high-heat self-cleaning, not basic cooking ability.
+  - question: Does a slide-in electric range need a different cutout than a
+      freestanding one?
+    answer: The opening is the same 30 inches wide for both. The difference is depth
+      and the counter edge. A slide-in overlaps the countertop by roughly an
+      inch on each side, so the counter must already be cut to 30 inches with a
+      clean, square front edge. Most ranges need 36 inches of height from the
+      floor to the underside of the counter.
+  - question: Is an induction slide-in range worth the extra money?
+    answer: It is if you already own magnetic cookware and you value speed. The
+      Frigidaire Gallery GCFI3060BF runs its largest element at 2,300 watts with
+      a 3,600-watt boost, which brings water to a boil faster than any radiant
+      element here. You also get a cooler kitchen and a flat surface that wipes
+      clean. The catch is that aluminum and copper pans will not work at all.
+  - question: What size circuit does a slide-in electric range need?
+    answer: Almost every 30-inch electric range on this list needs a dedicated
+      240-volt circuit on a 40-amp breaker. Frigidaire lists a 13 kW connected
+      load for its radiant models and 15 kW for the induction version. If you
+      are replacing an older range, that circuit is usually already in place,
+      but check the breaker size before you order.
   - question: "Steam clean or self clean: which should you look for?"
-    answer: "Steam clean runs about 30 minutes at a low temperature and loosens light, fresh spills with water. High-heat self clean runs two to four hours, burns residue to ash and gets baked-on grease that steam will not touch. The best ranges offer both. If a range only has steam clean, plan on wiping the oven regularly rather than letting messes build up."
+    answer: Steam clean runs about 30 minutes at a low temperature and loosens
+      light, fresh spills with water. High-heat self clean runs two to four
+      hours, burns residue to ash and gets baked-on grease that steam will not
+      touch. The best ranges offer both. If a range only has steam clean, plan
+      on wiping the oven regularly rather than letting messes build up.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A stainless steel slide-in electric range fitted flush between two
+  kitchen counters
+seo: Shopping for the best slide-in electric range? Compare six current models
+  on oven capacity, element wattages, cutout dimensions, air fry, convection and
+  cleaning, plus a clear explanation of slide-in versus freestanding and what
+  under $1,000 actually buys.
 ---
 The most common mistake in range shopping happens before anyone looks at a single feature. A slide-in range is not a size. It is a shape, and it only works in a kitchen built for it.
 
