@@ -1,36 +1,74 @@
 ---
-title: "What Is Nonstick Cookware? (The Chemistry, the Safety, the Lifespan)"
+title: What Is Nonstick Cookware? (The Chemistry, the Safety, the Lifespan)
+source: decap
 slug: what-is-nonstick-cookware
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-08-22
 modDate: 2026-09-24
-author: Boniface Muriuki
-image: ""
-coverAlt: A black nonstick frying pan on a stovetop with a fried egg sliding across the surface
-excerpt: "Nonstick cookware is a metal pan with a slippery coating baked onto it. Here is the chemistry behind PTFE and ceramic, what the safety warnings really mean, and when to replace a pan."
-description: "Nonstick cookware explained: how PTFE and ceramic coatings really work, whether scratched pans are safe, what destroys the coating, and when to replace it."
+image: /images/12innonstick_2000x.png
+excerpt: Nonstick cookware is a metal pan with a slippery coating baked onto it.
+  Here is the chemistry behind PTFE and ceramic, what the safety warnings really
+  mean, and when to replace a pan.
+description: "Nonstick cookware explained: how PTFE and ceramic coatings really
+  work, whether scratched pans are safe, what destroys the coating, and when to
+  replace it."
 category: Cookware Equipment
 tags:
   - nonstick cookware
   - ptfe
   - ceramic cookware
   - cookware safety
-showTableOfContents: true
-source: decap
-seo: "What is nonstick cookware? How PTFE and ceramic coatings work, why every coating wears out, whether scratched pans are safe, and how long a nonstick pan should last."
 faq:
-  - question: "What is nonstick cookware made of?"
-    answer: "Almost every nonstick pan is aluminum with a coating bonded to the cooking surface. The aluminum does the heating. The coating does the releasing. Two coatings dominate the market: PTFE, the plastic most people call Teflon, and ceramic, a glass-like silica film applied as a liquid and cured in an oven. A few pans use hard-anodized aluminum or stainless steel as the body instead."
-  - question: "Is nonstick cookware safe to use?"
-    answer: "For normal stovetop cooking, yes. PFOA, the chemical behind most of the old headlines, has not been used to make nonstick coatings in the United States since 2013. The real risk is heat. PTFE starts to break down above about 500°F, which an empty pan on a high burner can reach in a few minutes. Keep the heat at medium and never preheat a nonstick pan dry."
-  - question: "Is it safe to use a scratched nonstick pan?"
-    answer: "A few light scratches are not a health emergency. PTFE is chemically inert, so flakes that come off pass through you without being absorbed. The real problems are practical. A scratched pan sticks, and deep scratches expose bare aluminum that reacts with acidic food. Once the coating is flaking or peeling in sheets, replace the pan."
-  - question: "How long does a nonstick pan last?"
-    answer: "A good coating treated well lasts about five to seven years, a figure the Cookware and Bakeware Alliance has given publicly. Cheap pans and hard use cut that to one to three years. The coating is a wear item, like a tire. High heat, metal utensils, the dishwasher and stacking pans bare inside each other all shorten its life."
-  - question: "What is the difference between PTFE and ceramic nonstick?"
-    answer: "PTFE is a fluorinated plastic that is slippery because nothing sticks to fluorine. Ceramic is a silica coating sprayed on as a liquid gel and cured hard. Ceramic contains no fluorine, so it is PFAS-free, and it tolerates higher heat. PTFE releases food better for longer. Lab testing shows ceramic coatings lose slickness faster with repeated cooking."
-  - question: "Can you fix a nonstick pan that has lost its coating?"
-    answer: "No. The coating is bonded to a grit-blasted metal surface and baked at around 700°F in a factory oven. Nothing sold in a spray can reproduces that. Wiping a worn pan with oil can mask the problem for one or two meals at most. Once a pan sticks no matter what you do, it has reached the end of its life."
+  - question: What is nonstick cookware made of?
+    answer: "Almost every nonstick pan is aluminum with a coating bonded to the
+      cooking surface. The aluminum does the heating. The coating does the
+      releasing. Two coatings dominate the market: PTFE, the plastic most people
+      call Teflon, and ceramic, a glass-like silica film applied as a liquid and
+      cured in an oven. A few pans use hard-anodized aluminum or stainless steel
+      as the body instead."
+  - question: Is nonstick cookware safe to use?
+    answer: For normal stovetop cooking, yes. PFOA, the chemical behind most of the
+      old headlines, has not been used to make nonstick coatings in the United
+      States since 2013. The real risk is heat. PTFE starts to break down above
+      about 500°F, which an empty pan on a high burner can reach in a few
+      minutes. Keep the heat at medium and never preheat a nonstick pan dry.
+  - question: Is it safe to use a scratched nonstick pan?
+    answer: A few light scratches are not a health emergency. PTFE is chemically
+      inert, so flakes that come off pass through you without being absorbed.
+      The real problems are practical. A scratched pan sticks, and deep
+      scratches expose bare aluminum that reacts with acidic food. Once the
+      coating is flaking or peeling in sheets, replace the pan.
+  - question: How long does a nonstick pan last?
+    answer: A good coating treated well lasts about five to seven years, a figure
+      the Cookware and Bakeware Alliance has given publicly. Cheap pans and hard
+      use cut that to one to three years. The coating is a wear item, like a
+      tire. High heat, metal utensils, the dishwasher and stacking pans bare
+      inside each other all shorten its life.
+  - question: What is the difference between PTFE and ceramic nonstick?
+    answer: PTFE is a fluorinated plastic that is slippery because nothing sticks to
+      fluorine. Ceramic is a silica coating sprayed on as a liquid gel and cured
+      hard. Ceramic contains no fluorine, so it is PFAS-free, and it tolerates
+      higher heat. PTFE releases food better for longer. Lab testing shows
+      ceramic coatings lose slickness faster with repeated cooking.
+  - question: Can you fix a nonstick pan that has lost its coating?
+    answer: No. The coating is bonded to a grit-blasted metal surface and baked at
+      around 700°F in a factory oven. Nothing sold in a spray can reproduces
+      that. Wiping a worn pan with oil can mask the problem for one or two meals
+      at most. Once a pan sticks no matter what you do, it has reached the end
+      of its life.
+showTableOfContents: true
+author: Boniface Muriuki
+authorBio: >+
+  Boniface founded The Kitchen Pot to help small-space cooks make the most of
+  limited square footage. He writes and edits guides for apartments, studios,
+  and small kitchens, some based on hands-on testing, others carefully
+  researched, and always labeled as one or the other.
+
+coverAlt: A black nonstick frying pan on a stovetop with a fried egg sliding
+  across the surface
+seo: What is nonstick cookware? How PTFE and ceramic coatings work, why every
+  coating wears out, whether scratched pans are safe, and how long a nonstick
+  pan should last.
 ---
 Nonstick cookware runs on one chemical trick. The coating is so slippery that food has almost nothing to grip. Everything else about these pans follows from that.
 
