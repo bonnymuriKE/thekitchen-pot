@@ -1,11 +1,11 @@
 ---
 title: Why Your Gas Grill Has a Low Flame (And How to Fix It)
+source: decap
 slug: why-your-gas-grill-has-a-weak-flame
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-28
 modDate: 2026-09-28
-author: boniface-muriuki
-image: /images/blog/default-cover.jpg
+image: /images/Emeril-Lagasse-62929-Griddle-Pan.jpg
 excerpt: A low, flickering flame doesn't always mean you're out of propane. Nine
   times out of ten it's a tripped regulator, a clogged burner, or even spiders
   in the gas line. Here's how to diagnose it and get back to full heat in a few
@@ -50,7 +50,12 @@ faq:
       usually cheaper and more reliable to replace the regulator than to keep
       troubleshooting it.
 showTableOfContents: true
-source: decap
+author: boniface-muriuki
+authorBio: >+
+  Boniface founded The Kitchen Pot to help small-space cooks make the most of
+  limited square footage. He writes and edits guides for apartments, studios,
+  and small kitchens, some based on hands-on testing, others carefully
+  researched, and always labeled as one or the other.
 ---
 A low, flickering flame is one of the most common gas grill complaints, and it almost never means what people assume. Before you blame the tank, there are a few more likely culprits worth checking first.
 
