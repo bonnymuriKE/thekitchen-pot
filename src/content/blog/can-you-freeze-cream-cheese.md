@@ -1,39 +1,72 @@
 ---
-excerpt: "Yes, you can freeze cream cheese, but it won't come back the same. Here's how to freeze it, how to thaw it, how to fix the grainy texture, and which recipes it still works in."
+excerpt: Yes, you can freeze cream cheese, but it won't come back the same.
+  Here's how to freeze it, how to thaw it, how to fix the grainy texture, and
+  which recipes it still works in.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Can You Freeze Cream Cheese? (What Happens and How to Use It)"
+title: Can You Freeze Cream Cheese? (What Happens and How to Use It)
 source: wordpress
 slug: can-you-freeze-cream-cheese
 pubDate: 2021-02-05
 modDate: 2026-09-22
-image: ""
+image: /images/can-you-freeze-cream-cheese-1-950x535-1.jpg
+description: Can you freeze cream cheese? Yes, but it turns grainy. Learn how to
+  freeze and thaw cream cheese, how to smooth it out, and which recipes it works
+  well in.
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A block of cream cheese cut into portions on parchment paper next to a labeled freezer bag
 tags:
   - can-you-freeze-cream-cheese
   - freezing-dairy
   - food-storage
   - cooking-for-one
-authorImageAlt: kitchenpot1
-description: "Can you freeze cream cheese? Yes, but it turns grainy. Learn how to freeze and thaw cream cheese, how to smooth it out, and which recipes it works well in."
-seo: "Can you freeze cream cheese? Yes, it's safe, but the texture changes. How to freeze blocks and opened cream cheese, how long it lasts, how to thaw it, how to fix grainy cream cheese, and the best recipes for frozen cream cheese."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Does freezing cream cheese ruin it?"
-    answer: "Freezing doesn't make cream cheese unsafe, but it does change the texture. Ice crystals break up the cheese, and when it thaws, water separates out and leaves it grainy and crumbly. It's no longer great for spreading on bagels or for silky cheesecake, but it works well in cooked dishes like dips, casseroles, sauces, soups and many baked goods."
-  - question: "How long can you freeze cream cheese?"
-    answer: "For the best quality, use frozen cream cheese within about 2 months. Food Network notes that ice crystals and texture damage increase the longer it stays frozen. Food kept frozen at a steady 0°F stays safe beyond that, but the cheese will get drier and more crumbly the longer you wait. Label packages with the date so you know which to use first."
-  - question: "Can you freeze Philadelphia cream cheese?"
-    answer: "Yes. Philadelphia cream cheese can be frozen, but like any brand, the texture becomes gritty and crumbly after thawing. That makes it a poor choice for spreading, but still useful in baking such as pound cake and biscuits, where the texture change doesn't show. Freeze unopened blocks in their original foil, placed inside a freezer bag."
-  - question: "How do you thaw frozen cream cheese?"
-    answer: "The safest way is in the refrigerator. Small portions thaw in a few hours, while a full 8-ounce block needs about 8 hours or overnight. For a faster option, unwrap it and microwave at 50 percent power in 30-second bursts, stirring in between. Don't leave it on the counter to thaw, since perishable dairy shouldn't sit at room temperature for more than 2 hours."
-  - question: "How do you make frozen cream cheese smooth again?"
-    answer: "Once it's fully thawed, drain off any liquid on the surface, then beat the cream cheese with a hand mixer or whisk for a minute or two. Warming it slightly in the microwave first helps. This makes it much smoother, though not quite as silky as fresh. For cooked recipes, melting it into a warm sauce or soup hides the texture completely."
-  - question: "Can you freeze cream cheese frosting?"
-    answer: "Yes. Cream cheese frosting can be frozen, and it's easier to bring back than plain cream cheese because you re-whip it anyway. Freeze it in an airtight container, thaw it overnight in the fridge, then beat it again with a mixer to make it fluffy before using. The National Center for Home Food Preservation also notes cream cheese blended with heavy cream can be frozen for dips and icings."
+  - question: Does freezing cream cheese ruin it?
+    answer: Freezing doesn't make cream cheese unsafe, but it does change the
+      texture. Ice crystals break up the cheese, and when it thaws, water
+      separates out and leaves it grainy and crumbly. It's no longer great for
+      spreading on bagels or for silky cheesecake, but it works well in cooked
+      dishes like dips, casseroles, sauces, soups and many baked goods.
+  - question: How long can you freeze cream cheese?
+    answer: For the best quality, use frozen cream cheese within about 2 months.
+      Food Network notes that ice crystals and texture damage increase the
+      longer it stays frozen. Food kept frozen at a steady 0°F stays safe beyond
+      that, but the cheese will get drier and more crumbly the longer you wait.
+      Label packages with the date so you know which to use first.
+  - question: Can you freeze Philadelphia cream cheese?
+    answer: Yes. Philadelphia cream cheese can be frozen, but like any brand, the
+      texture becomes gritty and crumbly after thawing. That makes it a poor
+      choice for spreading, but still useful in baking such as pound cake and
+      biscuits, where the texture change doesn't show. Freeze unopened blocks in
+      their original foil, placed inside a freezer bag.
+  - question: How do you thaw frozen cream cheese?
+    answer: The safest way is in the refrigerator. Small portions thaw in a few
+      hours, while a full 8-ounce block needs about 8 hours or overnight. For a
+      faster option, unwrap it and microwave at 50 percent power in 30-second
+      bursts, stirring in between. Don't leave it on the counter to thaw, since
+      perishable dairy shouldn't sit at room temperature for more than 2 hours.
+  - question: How do you make frozen cream cheese smooth again?
+    answer: Once it's fully thawed, drain off any liquid on the surface, then beat
+      the cream cheese with a hand mixer or whisk for a minute or two. Warming
+      it slightly in the microwave first helps. This makes it much smoother,
+      though not quite as silky as fresh. For cooked recipes, melting it into a
+      warm sauce or soup hides the texture completely.
+  - question: Can you freeze cream cheese frosting?
+    answer: Yes. Cream cheese frosting can be frozen, and it's easier to bring back
+      than plain cream cheese because you re-whip it anyway. Freeze it in an
+      airtight container, thaw it overnight in the fridge, then beat it again
+      with a mixer to make it fluffy before using. The National Center for Home
+      Food Preservation also notes cream cheese blended with heavy cream can be
+      frozen for dips and icings.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A block of cream cheese cut into portions on parchment paper next to a
+  labeled freezer bag
+seo: Can you freeze cream cheese? Yes, it's safe, but the texture changes. How
+  to freeze blocks and opened cream cheese, how long it lasts, how to thaw it,
+  how to fix grainy cream cheese, and the best recipes for frozen cream cheese.
 ---
 You bought the big pack of cream cheese because it was on sale, or you needed two tablespoons for a recipe and now the rest of the block is sitting in the [fridge](/blog/best-side-by-side-refrigerator/). A week later you're wondering if you can just throw it in the freezer before it goes bad.
 
