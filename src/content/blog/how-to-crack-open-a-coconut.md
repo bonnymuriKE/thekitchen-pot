@@ -1,39 +1,72 @@
 ---
-excerpt: "A whole coconut has no flat side and a shell about 4mm thick, so hammers slip and knives skid. Here is the order that works: drain, split, then free the flesh."
+excerpt: "A whole coconut has no flat side and a shell about 4mm thick, so
+  hammers slip and knives skid. Here is the order that works: drain, split, then
+  free the flesh."
 showTableOfContents: true
 authorId: kitchenpot1
-title: "How to Crack Open a Coconut (Drain It, Split It, Free the Flesh)"
+title: How to Crack Open a Coconut (Drain It, Split It, Free the Flesh)
 source: wordpress
 slug: how-to-crack-open-a-coconut
 pubDate: 2021-03-04
 modDate: 2026-09-24
-image: ""
+image: /images/how-to-open-coconut-2647735.jpg
+description: "How to crack open a coconut without a mess: first drain the water
+  through the soft eye, then split the shell in the freezer or the oven and free
+  the flesh."
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A mature brown coconut split in half on a cutting board next to a rubber mallet and a glass of coconut water
 tags:
   - how-to-crack-open-a-coconut
   - opening-a-coconut
   - young-thai-coconut
   - coconut-water
-authorImageAlt: kitchenpot1
-description: "How to crack open a coconut without a mess: first drain the water through the soft eye, then split the shell in the freezer or the oven and free the flesh."
-seo: "How to crack open a coconut in three stages: drain the water through the soft eye, split the shell with the freezer, oven or mallet method, then free the flesh."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "How do you open a coconut without a hammer?"
-    answer: "Freeze the drained coconut for two hours, then drop it onto a hard outdoor surface like a concrete step. Cold shell is brittle and usually splits on the first or second drop. If you would rather stay indoors, bake the drained coconut at 400 degrees Fahrenheit for about 15 minutes. The shell cracks in the heat and finishes with a light tap from the back of a heavy knife."
-  - question: "Why do coconuts have three eyes and which one do you use?"
-    answer: "The three dark circles are germination pores. Two of them are plugged solid, and only one is open enough for a shoot to push through. That open pore is the soft eye, and it is the one you pierce to drain the water. Press each eye with the tip of a screwdriver. The one that dents or gives way first is the one you want."
-  - question: "Do you have to drain a coconut before you crack it?"
-    answer: "Yes, and it matters most with the oven method. Water trapped inside a sealed shell turns to steam as the coconut heats, and steam needs somewhere to go. Draining first removes that risk and saves the water, which is the best part. It also keeps you from losing a cup of liquid across the counter the moment the shell splits."
-  - question: "How do you get the brown skin off coconut flesh?"
-    answer: "Pry the white flesh out of the shell in large pieces first, then run a sharp vegetable peeler along the brown layer the way you would peel a potato. Work in short strokes and keep the piece flat against the board. The brown skin is edible, so peeling is about looks and texture rather than safety. Leave it on for curries and take it off for desserts."
-  - question: "How long does fresh coconut flesh keep?"
-    answer: "Store peeled pieces in an airtight container in the fridge and use them within about a week. Fresh coconut is high in fat, so it picks up fridge smells and eventually turns soapy. For longer storage, grate or chop the flesh and freeze it in a sealed bag. Frozen coconut keeps its flavor for months and goes straight into curries and smoothies."
-  - question: "Can you open a young green coconut the same way?"
-    answer: "No. A young green coconut has a thick fibrous husk and a soft shell, so mallets and ovens do nothing useful. Instead, shave the husk off the pointed top with a heavy cleaver until you see pale shell. Then cut a small square lid into that shell and lift it off. The water is right underneath, and the flesh inside is soft enough to spoon out."
+  - question: How do you open a coconut without a hammer?
+    answer: Freeze the drained coconut for two hours, then drop it onto a hard
+      outdoor surface like a concrete step. Cold shell is brittle and usually
+      splits on the first or second drop. If you would rather stay indoors, bake
+      the drained coconut at 400 degrees Fahrenheit for about 15 minutes. The
+      shell cracks in the heat and finishes with a light tap from the back of a
+      heavy knife.
+  - question: Why do coconuts have three eyes and which one do you use?
+    answer: The three dark circles are germination pores. Two of them are plugged
+      solid, and only one is open enough for a shoot to push through. That open
+      pore is the soft eye, and it is the one you pierce to drain the water.
+      Press each eye with the tip of a screwdriver. The one that dents or gives
+      way first is the one you want.
+  - question: Do you have to drain a coconut before you crack it?
+    answer: Yes, and it matters most with the oven method. Water trapped inside a
+      sealed shell turns to steam as the coconut heats, and steam needs
+      somewhere to go. Draining first removes that risk and saves the water,
+      which is the best part. It also keeps you from losing a cup of liquid
+      across the counter the moment the shell splits.
+  - question: How do you get the brown skin off coconut flesh?
+    answer: Pry the white flesh out of the shell in large pieces first, then run a
+      sharp vegetable peeler along the brown layer the way you would peel a
+      potato. Work in short strokes and keep the piece flat against the board.
+      The brown skin is edible, so peeling is about looks and texture rather
+      than safety. Leave it on for curries and take it off for desserts.
+  - question: How long does fresh coconut flesh keep?
+    answer: Store peeled pieces in an airtight container in the fridge and use them
+      within about a week. Fresh coconut is high in fat, so it picks up fridge
+      smells and eventually turns soapy. For longer storage, grate or chop the
+      flesh and freeze it in a sealed bag. Frozen coconut keeps its flavor for
+      months and goes straight into curries and smoothies.
+  - question: Can you open a young green coconut the same way?
+    answer: No. A young green coconut has a thick fibrous husk and a soft shell, so
+      mallets and ovens do nothing useful. Instead, shave the husk off the
+      pointed top with a heavy cleaver until you see pale shell. Then cut a
+      small square lid into that shell and lift it off. The water is right
+      underneath, and the flesh inside is soft enough to spoon out.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A mature brown coconut split in half on a cutting board next to a
+  rubber mallet and a glass of coconut water
+seo: "How to crack open a coconut in three stages: drain the water through the
+  soft eye, split the shell with the freezer, oven or mallet method, then free
+  the flesh."
 ---
 A coconut is a ball with a shell about 4mm thick and no flat side to rest on. That is the whole problem. Hammers slip, knives skid, and the fruit rolls off the counter.
 
