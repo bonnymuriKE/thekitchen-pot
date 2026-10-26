@@ -1,40 +1,74 @@
 ---
-excerpt: "Seven induction cooktops that earn their price, from 1800-watt countertop burners you can plug into a normal outlet to 30-inch built-ins with verified element wattages, cutout sizes and safety features."
+excerpt: Seven induction cooktops that earn their price, from 1800-watt
+  countertop burners you can plug into a normal outlet to 30-inch built-ins with
+  verified element wattages, cutout sizes and safety features.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Induction Cooktop for the Money (7 Portable and Built-In Picks)"
+title: Best Induction Cooktop for the Money (7 Portable and Built-In Picks)
 source: wordpress
 slug: best-induction-cooktop-for-the-money
 pubDate: 2020-10-31
 modDate: 2026-09-22
-image: ""
-category: Small Appliances
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A portable induction cooktop and a built-in induction cooktop side by side in a small kitchen
+image: /images/Best-Induction-Cooktop.jpg
+description: "Compare the best induction cooktop for the money: 1800W portable
+  burners and 30-inch built-ins, with verified wattages, cutout sizes and
+  cookware guidance."
+category: Cookware Equipment
 tags:
   - best-induction-cooktop-for-the-money
   - portable-induction-cooktop
   - built-in-induction-cooktop
   - induction-cooking
   - small-kitchen-appliances
-authorImageAlt: kitchenpot1
-description: "Compare the best induction cooktop for the money: 1800W portable burners and 30-inch built-ins, with verified wattages, cutout sizes and cookware guidance."
-seo: "Looking for the best induction cooktop for the money? Compare seven portable and built-in induction cooktops with verified wattages, temperature ranges, cutout dimensions, safety features and a plain-English guide to power, pans and cleaning."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "How many watts does a portable induction cooktop need?"
-    answer: "Most full-size portable induction burners top out at 1800 watts, which is about as much as a standard 120-volt, 15-amp household circuit can safely supply. That is enough to bring a covered pot of water to a boil quickly. Smaller units like the Nuwave PIC Flex cap out at 1300 watts, which draws less and is safer on old apartment wiring or a shared dorm circuit."
-  - question: "Do all pans work on an induction cooktop?"
-    answer: "No. Induction only heats cookware that a magnet sticks to, so cast iron, carbon steel, enameled cast iron and magnetic stainless steel all work. Plain aluminum, copper, glass and most anodized nonstick pans do not. Hold a fridge magnet to the bottom of the pan. If it clings firmly rather than sliding off, the pan will heat."
-  - question: "What size circuit does a built-in induction cooktop need?"
-    answer: "A 30-inch built-in induction cooktop runs on 240 volts and usually needs a dedicated 40-amp circuit. The GE Profile PHP9030DTBB lists a 7.7 kW maximum connected load at 240 volts, and Empava's 30-inch models list 7,200 to 7,700 watts total. That is the same wiring a standard electric range uses, so a swap from an old electric cooktop is often simple."
-  - question: "Is induction cheaper to run than gas or electric?"
-    answer: "The U.S. Department of Energy says induction appliances are up to three times more efficient than gas stoves and up to 10% more efficient than smooth-top electric ranges. Most of the energy goes straight into the pan instead of the air, so your kitchen also stays cooler. The savings on a monthly bill are modest, but the faster boil times are obvious right away."
-  - question: "Can you put a portable induction cooktop on any countertop?"
-    answer: "Almost any flat, heat-tolerant surface works, as long as you leave the vents clear. These units pull cooling air through side or rear openings, so keep two to four inches of space around them and never run one on a soft placemat or a towel. Avoid setting one directly on a laminate edge or a wooden cutting board during long, high-power cooking."
-  - question: "How do you clean an induction cooktop without scratching it?"
-    answer: "Let the glass cool, wipe spills with a damp cloth and a drop of dish soap, then dry it. For burnt-on sugar or starch, use a dedicated ceramic cooktop cream and a plastic scraper held at a low angle. Skip steel wool, scouring powder and abrasive pads. The glass stays cooler than a radiant element, so spills rarely bake on in the first place."
+  - question: How many watts does a portable induction cooktop need?
+    answer: Most full-size portable induction burners top out at 1800 watts, which
+      is about as much as a standard 120-volt, 15-amp household circuit can
+      safely supply. That is enough to bring a covered pot of water to a boil
+      quickly. Smaller units like the Nuwave PIC Flex cap out at 1300 watts,
+      which draws less and is safer on old apartment wiring or a shared dorm
+      circuit.
+  - question: Do all pans work on an induction cooktop?
+    answer: No. Induction only heats cookware that a magnet sticks to, so cast iron,
+      carbon steel, enameled cast iron and magnetic stainless steel all work.
+      Plain aluminum, copper, glass and most anodized nonstick pans do not. Hold
+      a fridge magnet to the bottom of the pan. If it clings firmly rather than
+      sliding off, the pan will heat.
+  - question: What size circuit does a built-in induction cooktop need?
+    answer: A 30-inch built-in induction cooktop runs on 240 volts and usually needs
+      a dedicated 40-amp circuit. The GE Profile PHP9030DTBB lists a 7.7 kW
+      maximum connected load at 240 volts, and Empava's 30-inch models list
+      7,200 to 7,700 watts total. That is the same wiring a standard electric
+      range uses, so a swap from an old electric cooktop is often simple.
+  - question: Is induction cheaper to run than gas or electric?
+    answer: The U.S. Department of Energy says induction appliances are up to three
+      times more efficient than gas stoves and up to 10% more efficient than
+      smooth-top electric ranges. Most of the energy goes straight into the pan
+      instead of the air, so your kitchen also stays cooler. The savings on a
+      monthly bill are modest, but the faster boil times are obvious right away.
+  - question: Can you put a portable induction cooktop on any countertop?
+    answer: Almost any flat, heat-tolerant surface works, as long as you leave the
+      vents clear. These units pull cooling air through side or rear openings,
+      so keep two to four inches of space around them and never run one on a
+      soft placemat or a towel. Avoid setting one directly on a laminate edge or
+      a wooden cutting board during long, high-power cooking.
+  - question: How do you clean an induction cooktop without scratching it?
+    answer: Let the glass cool, wipe spills with a damp cloth and a drop of dish
+      soap, then dry it. For burnt-on sugar or starch, use a dedicated ceramic
+      cooktop cream and a plastic scraper held at a low angle. Skip steel wool,
+      scouring powder and abrasive pads. The glass stays cooler than a radiant
+      element, so spills rarely bake on in the first place.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A portable induction cooktop and a built-in induction cooktop side by
+  side in a small kitchen
+seo: Looking for the best induction cooktop for the money? Compare seven
+  portable and built-in induction cooktops with verified wattages, temperature
+  ranges, cutout dimensions, safety features and a plain-English guide to power,
+  pans and cleaning.
 ---
 Hold a fridge magnet against the bottom of your favorite frying pan. If it grabs on hard, that pan will work on an induction cooktop. If it slides off, it won't. That five-second test settles more about whether induction suits you than any spec sheet does.
 
