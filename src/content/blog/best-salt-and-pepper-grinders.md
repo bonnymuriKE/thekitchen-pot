@@ -1,5 +1,7 @@
 ---
-excerpt: "Matched salt and pepper grinder sets, plus the rechargeable mills worth buying, with the mechanism differences that decide whether a pair lasts two years or twenty."
+excerpt: Matched salt and pepper grinder sets, plus the rechargeable mills worth
+  buying, with the mechanism differences that decide whether a pair lasts two
+  years or twenty.
 showTableOfContents: true
 authorId: kitchenpot1
 title: "Best Salt and Pepper Grinders: 6 Sets and Electric Mills"
@@ -7,33 +9,64 @@ source: wordpress
 slug: best-salt-and-pepper-grinders
 pubDate: 2020-06-02
 modDate: 2026-09-22
-image: ""
+image: /images/salt.jpg
+description: Compare the best salt and pepper grinders, from matched manual sets
+  to rechargeable electric mills, with verified specs, grind settings and six
+  real picks.
 category: Cookware Equipment
-author: Boniface Muriuki
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
-authorImage: ""
-coverAlt: A matched pair of stainless steel salt and pepper grinders on a kitchen counter beside coarse sea salt
 tags:
   - best-salt-and-pepper-grinders
   - salt-and-pepper-grinders
   - electric-grinders
   - kitchen-tools
-authorImageAlt: kitchenpot1
-description: "Compare the best salt and pepper grinders, from matched manual sets to rechargeable electric mills, with verified specs, grind settings and six real picks."
-seo: "Salt and pepper grinders look identical but should never share a mechanism. This guide explains why, then compares six current sets and electric mills from Cole & Mason, Peugeot, OXO, Latent Epicure, FinaMill and Kuhn Rikon."
 faq:
-  - question: "Can you put salt in a pepper grinder?"
-    answer: "Not in a good one. Most quality pepper mills use carbon steel or case-hardened steel burrs, and salt corrodes steel. Peugeot's warranty on its pepper mills specifically excludes rust for this reason. Salt belongs in a ceramic or corrosion-resistant stainless mechanism. If a set is sold as a matched pair, the two mills almost always have different internals for exactly this reason."
-  - question: "What kind of salt works best in a salt grinder?"
-    answer: "Dry, coarse crystals between about 2 and 4mm. Coarse sea salt and rock salt are ideal. Fine table salt slips straight through without being ground and often contains anti-caking agents that clump. Damp or flaky finishing salts also cause trouble: moisture makes salt bridge inside the hopper, so the mill turns freely and nothing comes out."
-  - question: "Are electric salt and pepper grinders worth it?"
-    answer: "They are worth it if one-handed seasoning solves a real problem for you, such as limited grip strength or cooking while holding a pan. They are not faster than a good manual mill and most use small ceramic burrs with modest output. Buy one for convenience and accessibility, not for grind quality, and prefer a rechargeable model over one that eats AA batteries."
-  - question: "Should I buy a matched salt and pepper set or two separate mills?"
-    answer: "A matched set is usually cheaper than two singles, looks better on a table and makes it obvious which is which. Separate mills make sense when your needs differ, for example a large steel pepper mill for heavy use next to a small ceramic salt mill. If you go separate, still keep one mill for salt only and one for pepper only."
-  - question: "Why has my salt grinder stopped grinding?"
-    answer: "Usually moisture. Salt absorbs water from the air, then bridges into a solid plug above the mechanism so the knob spins without resistance. Empty the mill, tip out the damp salt, dry the hopper completely, and refill with fresh coarse salt. Keeping the mill away from the stove and the sink prevents most of it."
-  - question: "How often should salt and pepper grinders be cleaned?"
-    answer: "Empty and brush both out about once a year, more often if you cook in a humid kitchen. Use a dry pastry brush on the mechanism, never water on a steel pepper burr. Wooden bodies get a wipe with a barely damp cloth and nothing more. Ceramic mechanisms tolerate a rinse if the body allows it, but everything must be bone dry before refilling."
+  - question: Can you put salt in a pepper grinder?
+    answer: Not in a good one. Most quality pepper mills use carbon steel or
+      case-hardened steel burrs, and salt corrodes steel. Peugeot's warranty on
+      its pepper mills specifically excludes rust for this reason. Salt belongs
+      in a ceramic or corrosion-resistant stainless mechanism. If a set is sold
+      as a matched pair, the two mills almost always have different internals
+      for exactly this reason.
+  - question: What kind of salt works best in a salt grinder?
+    answer: "Dry, coarse crystals between about 2 and 4mm. Coarse sea salt and rock
+      salt are ideal. Fine table salt slips straight through without being
+      ground and often contains anti-caking agents that clump. Damp or flaky
+      finishing salts also cause trouble: moisture makes salt bridge inside the
+      hopper, so the mill turns freely and nothing comes out."
+  - question: Are electric salt and pepper grinders worth it?
+    answer: They are worth it if one-handed seasoning solves a real problem for you,
+      such as limited grip strength or cooking while holding a pan. They are not
+      faster than a good manual mill and most use small ceramic burrs with
+      modest output. Buy one for convenience and accessibility, not for grind
+      quality, and prefer a rechargeable model over one that eats AA batteries.
+  - question: Should I buy a matched salt and pepper set or two separate mills?
+    answer: A matched set is usually cheaper than two singles, looks better on a
+      table and makes it obvious which is which. Separate mills make sense when
+      your needs differ, for example a large steel pepper mill for heavy use
+      next to a small ceramic salt mill. If you go separate, still keep one mill
+      for salt only and one for pepper only.
+  - question: Why has my salt grinder stopped grinding?
+    answer: Usually moisture. Salt absorbs water from the air, then bridges into a
+      solid plug above the mechanism so the knob spins without resistance. Empty
+      the mill, tip out the damp salt, dry the hopper completely, and refill
+      with fresh coarse salt. Keeping the mill away from the stove and the sink
+      prevents most of it.
+  - question: How often should salt and pepper grinders be cleaned?
+    answer: Empty and brush both out about once a year, more often if you cook in a
+      humid kitchen. Use a dry pastry brush on the mechanism, never water on a
+      steel pepper burr. Wooden bodies get a wipe with a barely damp cloth and
+      nothing more. Ceramic mechanisms tolerate a rinse if the body allows it,
+      but everything must be bone dry before refilling.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A matched pair of stainless steel salt and pepper grinders on a
+  kitchen counter beside coarse sea salt
+seo: Salt and pepper grinders look identical but should never share a mechanism.
+  This guide explains why, then compares six current sets and electric mills
+  from Cole & Mason, Peugeot, OXO, Latent Epicure, FinaMill and Kuhn Rikon.
 ---
 Your salt grinder and your pepper grinder should not have the same thing inside them. Salt eats steel, pepper blunts ceramic, and most cheap pairs ignore both facts.
 
