@@ -1,55 +1,60 @@
 ---
 title: "Air Fryer vs. Oven: Which Costs Less to Run?"
+source: decap
 slug: air-fryer-vs-oven-which-costs-less-to-run
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-10-02
 modDate: 2026-10-02
-author: boniface-muriuki
-image: ""
-excerpt: An air fryer and a full-size oven can cook the same chicken thighs,
-  but not for the same price. Here's the real math on wattage, cooking time,
-  and electricity cost, and when the oven still wins despite using more power.
-description: Air fryer vs oven energy cost compared with real wattage and electricity rate math, plus when a full oven is still the better choice.
+image: /images/Air-Fryer-Vs-Nuwave-Oven-1.jpg
+excerpt: An air fryer and a full-size oven can cook the same chicken thighs, but
+  not for the same price. Here's the real math on wattage, cooking time, and
+  electricity cost, and when the oven still wins despite using more power.
+description: Air fryer vs oven energy cost compared with real wattage and
+  electricity rate math, plus when a full oven is still the better choice.
 category: Small Appliances
 tags:
   - air fryer vs oven energy cost
   - does an air fryer save electricity
   - cheapest way to cook small meals
-smallSpacePillar: eco-friendly-appliances
 faq:
-  - question: "Does an air fryer really use less electricity than an oven?"
-    answer: Yes, for most everyday meals. An air fryer typically draws 1,400
-      to 1,800 watts and cooks in less time than a full oven, which draws
-      2,000 to 5,000 watts and needs time to preheat a much larger interior.
-      The combination of lower wattage and shorter time usually means a lower
-      total cost per meal.
-  - question: "How much does it cost to run an air fryer for 20 minutes?"
-    answer: At a 1,500-watt draw and the current U.S. average residential
-      rate of around 17 cents per kilowatt-hour, 20 minutes of air frying
-      costs roughly 8 to 9 cents. Your actual cost depends on your local
-      electricity rate and your specific air fryer's wattage.
-  - question: "Is it cheaper to cook a full meal in an air fryer or an oven?"
-    answer: For small to medium portions, the air fryer is almost always
-      cheaper, since it skips a long preheat and uses less power overall. For
-      large batches or multiple dishes at once, a full oven can close the gap
-      or even come out ahead, since it only preheats once for everything inside.
-  - question: "Does preheating affect the cost comparison?"
-    answer: Significantly. Preheating a full oven to 400 degrees draws power
-      for several minutes before you even start cooking, which is a cost the
-      air fryer avoids almost entirely, since it comes to temperature in a
-      couple of minutes at most.
-  - question: "Are there meals where the oven is still the better choice?"
-    answer: Yes. Large roasts, sheet-pan dinners that fill a full-size tray,
-      and baking multiple items at once all favor the oven, since you're
-      cooking more food per preheat cycle than an air fryer's smaller basket
-      can hold.
-  - question: "Does air fryer size affect how much electricity it uses?"
-    answer: Yes. Larger air fryers draw more wattage and take slightly longer
-      to heat a bigger basket, narrowing the cost gap with an oven somewhat.
+  - question: Does an air fryer really use less electricity than an oven?
+    answer: Yes, for most everyday meals. An air fryer typically draws 1,400 to
+      1,800 watts and cooks in less time than a full oven, which draws 2,000 to
+      5,000 watts and needs time to preheat a much larger interior. The
+      combination of lower wattage and shorter time usually means a lower total
+      cost per meal.
+  - question: How much does it cost to run an air fryer for 20 minutes?
+    answer: At a 1,500-watt draw and the current U.S. average residential rate of
+      around 17 cents per kilowatt-hour, 20 minutes of air frying costs roughly
+      8 to 9 cents. Your actual cost depends on your local electricity rate and
+      your specific air fryer's wattage.
+  - question: Is it cheaper to cook a full meal in an air fryer or an oven?
+    answer: For small to medium portions, the air fryer is almost always cheaper,
+      since it skips a long preheat and uses less power overall. For large
+      batches or multiple dishes at once, a full oven can close the gap or even
+      come out ahead, since it only preheats once for everything inside.
+  - question: Does preheating affect the cost comparison?
+    answer: Significantly. Preheating a full oven to 400 degrees draws power for
+      several minutes before you even start cooking, which is a cost the air
+      fryer avoids almost entirely, since it comes to temperature in a couple of
+      minutes at most.
+  - question: Are there meals where the oven is still the better choice?
+    answer: Yes. Large roasts, sheet-pan dinners that fill a full-size tray, and
+      baking multiple items at once all favor the oven, since you're cooking
+      more food per preheat cycle than an air fryer's smaller basket can hold.
+  - question: Does air fryer size affect how much electricity it uses?
+    answer: Yes. Larger air fryers draw more wattage and take slightly longer to
+      heat a bigger basket, narrowing the cost gap with an oven somewhat.
       They're still generally more efficient than a full oven for the same
       portion size.
+smallSpacePillar: eco-friendly-appliances
 showTableOfContents: true
-source: decap
+author: boniface-muriuki
+authorBio: >+
+  Boniface founded The Kitchen Pot to help small-space cooks make the most of
+  limited square footage. He writes and edits guides for apartments, studios,
+  and small kitchens, some based on hands-on testing, others carefully
+  researched, and always labeled as one or the other.
 ---
 An air fryer and a full-size oven can cook the exact same chicken thighs, crisp the same fries, and reheat the same leftovers. They just don't cost the same amount of electricity to do it.
 
