@@ -1,5 +1,7 @@
 ---
-excerpt: "Lo mein is tossed, chow mein is fried. That one verb explains the noodles, the sauce, the texture and what shows up when you order. Here's how to tell them apart and cook both at home."
+excerpt: Lo mein is tossed, chow mein is fried. That one verb explains the
+  noodles, the sauce, the texture and what shows up when you order. Here's how
+  to tell them apart and cook both at home.
 showTableOfContents: true
 authorId: kitchenpot1
 title: "Lo Mein vs Chow Mein: The Real Difference (Noodles, Sauce and Cooking)"
@@ -7,32 +9,60 @@ source: wordpress
 slug: lo-mein-vs-chow-mein
 pubDate: 2021-02-02
 modDate: 2026-09-22
-image: ""
+image: /images/lo-mein-examples.jpg
+description: "Lo mein vs chow mein comes down to one thing: lo mein noodles are
+  tossed in sauce and chow mein noodles are fried. See how noodles, sauce and
+  texture vary."
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A plate of soft, saucy lo mein beside a plate of crispy pan-fried chow mein noodles with vegetables
 tags:
   - lo-mein
   - chow-mein
   - chinese-noodles
   - takeout-at-home
   - stir-fry
-authorImageAlt: kitchenpot1
-description: "Lo mein vs chow mein comes down to one thing: lo mein noodles are tossed in sauce and chow mein noodles are fried. See how noodles, sauce and texture vary."
-seo: "Lo mein vs chow mein explained: what the names mean, which noodles each uses, crispy vs soft chow mein, Cantonese vs American takeout versions, which is healthier, and how to make both at home."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What is the main difference between lo mein and chow mein?"
-    answer: "The cooking method. Lo mein means tossed or stirred noodles: the noodles are boiled until soft and then mixed with sauce, vegetables and meat. Chow mein means stir-fried noodles: the noodles are boiled briefly and then fried in oil, so some or all of them turn crisp. Both usually start with Chinese wheat and egg noodles, though lo mein noodles tend to be thicker."
-  - question: "Which is healthier, lo mein or chow mein?"
-    answer: "Neither is automatically healthier. Chow mein is fried, so it can soak up more oil, especially the crispy noodle cake style. Takeout lo mein is often coated in a sweet, salty sauce, which adds sodium and sugar. At home you control both. Use less oil, a lighter hand with oyster and soy sauce, and plenty of vegetables, and either dish becomes a reasonable weeknight meal."
-  - question: "Can I use spaghetti instead of lo mein noodles?"
-    answer: "Yes. The Woks of Life suggests dried spaghetti as a substitute for fresh lo mein noodles, using about half the weight called for in the recipe since dried pasta swells as it cooks. Boil it to al dente, drain it well and toss it in the sauce. It won't have quite the same springy bite as egg noodles, but it's close enough for a weeknight."
-  - question: "Is chow mein supposed to be crispy?"
-    answer: "It depends on the style. Hong Kong style pan-fried noodles are fried into a golden, crunchy cake and topped with a saucy stir-fry. Everyday Cantonese chow mein is softer, with a mix of tender and lightly crisp strands. Some American takeout shops sell crunchy fried noodle bits as chow mein, while others serve soft noodles under the same name."
-  - question: "What is the difference between chow mein and chop suey?"
-    answer: "Chop suey is a stir-fry of meat and vegetables in a thickened sauce, usually served with rice rather than mixed with noodles. Chow mein is built around the noodles themselves. The two overlap on some American menus: in Chicago, for example, chop suey is spooned over crunchy fried noodles and sold as chow mein."
+  - question: What is the main difference between lo mein and chow mein?
+    answer: "The cooking method. Lo mein means tossed or stirred noodles: the
+      noodles are boiled until soft and then mixed with sauce, vegetables and
+      meat. Chow mein means stir-fried noodles: the noodles are boiled briefly
+      and then fried in oil, so some or all of them turn crisp. Both usually
+      start with Chinese wheat and egg noodles, though lo mein noodles tend to
+      be thicker."
+  - question: Which is healthier, lo mein or chow mein?
+    answer: Neither is automatically healthier. Chow mein is fried, so it can soak
+      up more oil, especially the crispy noodle cake style. Takeout lo mein is
+      often coated in a sweet, salty sauce, which adds sodium and sugar. At home
+      you control both. Use less oil, a lighter hand with oyster and soy sauce,
+      and plenty of vegetables, and either dish becomes a reasonable weeknight
+      meal.
+  - question: Can I use spaghetti instead of lo mein noodles?
+    answer: Yes. The Woks of Life suggests dried spaghetti as a substitute for fresh
+      lo mein noodles, using about half the weight called for in the recipe
+      since dried pasta swells as it cooks. Boil it to al dente, drain it well
+      and toss it in the sauce. It won't have quite the same springy bite as egg
+      noodles, but it's close enough for a weeknight.
+  - question: Is chow mein supposed to be crispy?
+    answer: It depends on the style. Hong Kong style pan-fried noodles are fried
+      into a golden, crunchy cake and topped with a saucy stir-fry. Everyday
+      Cantonese chow mein is softer, with a mix of tender and lightly crisp
+      strands. Some American takeout shops sell crunchy fried noodle bits as
+      chow mein, while others serve soft noodles under the same name.
+  - question: What is the difference between chow mein and chop suey?
+    answer: "Chop suey is a stir-fry of meat and vegetables in a thickened sauce,
+      usually served with rice rather than mixed with noodles. Chow mein is
+      built around the noodles themselves. The two overlap on some American
+      menus: in Chicago, for example, chop suey is spooned over crunchy fried
+      noodles and sold as chow mein."
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A plate of soft, saucy lo mein beside a plate of crispy pan-fried chow
+  mein noodles with vegetables
+seo: "Lo mein vs chow mein explained: what the names mean, which noodles each
+  uses, crispy vs soft chow mein, Cantonese vs American takeout versions, which
+  is healthier, and how to make both at home."
 ---
 Most people assume lo mein and chow mein use different noodles. Mostly they don't. Both are usually made with Chinese wheat noodles that contain egg, and on a lot of takeout menus the ingredient list for the two dishes is almost identical.
 
