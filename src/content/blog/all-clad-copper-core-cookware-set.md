@@ -1,17 +1,19 @@
 ---
-excerpt: "All-Clad Copper Core costs about twice as much as D3 for the same set of pans. Here is what the copper layer really does, who it suits, and when D3 or D5 is the better buy."
+excerpt: All-Clad Copper Core costs about twice as much as D3 for the same set
+  of pans. Here is what the copper layer really does, who it suits, and when D3
+  or D5 is the better buy.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "All-Clad Copper Core Review (Is the Copper Worth Twice the D3 Price?)"
+title: All-Clad Copper Core Review (Is the Copper Worth Twice the D3 Price?)
 source: wordpress
 slug: all-clad-copper-core-cookware-set
 pubDate: 2021-04-06
 modDate: 2026-09-30
-image: ""
+image: /images/All-clad-pan.jpg
+description: "All-Clad Copper Core review: the 5-ply copper build, weight, 600F
+  oven limit, induction, care, each current set and pan, and when D3 or D5 is a
+  better buy."
 category: Cookware Equipment
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A polished All-Clad Copper Core fry pan and saute pan showing the thin copper band around the base
 tags:
   - all-clad-copper-core
   - all-clad-copper-core-review
@@ -19,23 +21,55 @@ tags:
   - all-clad-copper-core-vs-d3
   - copper-core-cookware-set
   - 5-ply-stainless-cookware
-authorImageAlt: kitchenpot1
-description: "All-Clad Copper Core review: the 5-ply copper build, weight, 600F oven limit, induction, care, each current set and pan, and when D3 or D5 is a better buy."
-seo: "All-Clad Copper Core review covering the 5-ply stainless, aluminum and copper build, the copper band, listed weights, prices, induction, the 600F oven limit, hand-wash care, every current Copper Core set and pan, and when D3 or D5 makes more sense."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Is All-Clad Copper Core worth the money?"
-    answer: "It is worth it for a narrow group of cooks. Copper Core reacts a little faster to burner changes than D5 and holds heat better than D3, and it is made in Pennsylvania with a limited lifetime warranty. But the 10-piece set lists at about twice the D3 price for the same pieces. If you do not cook delicate sauces or fast pan work often, D3 gives you most of the result."
-  - question: "What is the difference between All-Clad Copper Core and D5?"
-    answer: "Both are five bonded layers with stainless steel inside and out. D5 puts a thin stainless layer in the middle, between two aluminum layers. Copper Core puts copper in that middle spot instead. Copper moves heat faster than stainless, so Copper Core responds more quickly when you raise or lower the flame. D5 is cheaper and heats in a slower, steadier way."
-  - question: "Is All-Clad Copper Core dishwasher safe?"
-    answer: "All-Clad's current Copper Core product pages list every piece as hand wash only. Older Amazon listings still carry the words dishwasher safe in their titles, which can confuse buyers. Harsh detergent dulls the polished steel and can darken the exposed copper band. Warm water, dish soap and a soft sponge handle daily cleaning, and Bar Keepers Friend handles stains."
-  - question: "Does All-Clad Copper Core work on induction?"
-    answer: "Yes. All-Clad lists Copper Core as compatible with all stovetops, including induction. The outer layer is magnetic stainless steel, so the induction coil can heat the pan directly. The copper and aluminum layers inside then spread that heat across the base and up the walls. Copper by itself would not work on induction, which is why it sits in the middle."
-  - question: "How hot can All-Clad Copper Core go in the oven?"
-    answer: "All-Clad rates Copper Core oven and broiler safe up to 600°F, which is 315°C. That rating covers the pans and the stainless steel lids. It means you can sear a steak on the stove and move the pan straight into a hot oven to finish. Use an oven mitt, because the stainless handles get hot in the oven."
-  - question: "Why does All-Clad Copper Core have a copper stripe?"
-    answer: "The copper band is where the copper layer shows through. All-Clad cuts a thin ring into the outer stainless near the base, which exposes the copper underneath. It is mostly a visual signature, so you can tell Copper Core from D3 or D5 at a glance. It does not change how the pan cooks, and it can darken over time."
+  - question: Is All-Clad Copper Core worth the money?
+    answer: It is worth it for a narrow group of cooks. Copper Core reacts a little
+      faster to burner changes than D5 and holds heat better than D3, and it is
+      made in Pennsylvania with a limited lifetime warranty. But the 10-piece
+      set lists at about twice the D3 price for the same pieces. If you do not
+      cook delicate sauces or fast pan work often, D3 gives you most of the
+      result.
+  - question: What is the difference between All-Clad Copper Core and D5?
+    answer: Both are five bonded layers with stainless steel inside and out. D5 puts
+      a thin stainless layer in the middle, between two aluminum layers. Copper
+      Core puts copper in that middle spot instead. Copper moves heat faster
+      than stainless, so Copper Core responds more quickly when you raise or
+      lower the flame. D5 is cheaper and heats in a slower, steadier way.
+  - question: Is All-Clad Copper Core dishwasher safe?
+    answer: All-Clad's current Copper Core product pages list every piece as hand
+      wash only. Older Amazon listings still carry the words dishwasher safe in
+      their titles, which can confuse buyers. Harsh detergent dulls the polished
+      steel and can darken the exposed copper band. Warm water, dish soap and a
+      soft sponge handle daily cleaning, and Bar Keepers Friend handles stains.
+  - question: Does All-Clad Copper Core work on induction?
+    answer: Yes. All-Clad lists Copper Core as compatible with all stovetops,
+      including induction. The outer layer is magnetic stainless steel, so the
+      induction coil can heat the pan directly. The copper and aluminum layers
+      inside then spread that heat across the base and up the walls. Copper by
+      itself would not work on induction, which is why it sits in the middle.
+  - question: How hot can All-Clad Copper Core go in the oven?
+    answer: All-Clad rates Copper Core oven and broiler safe up to 600°F, which is
+      315°C. That rating covers the pans and the stainless steel lids. It means
+      you can sear a steak on the stove and move the pan straight into a hot
+      oven to finish. Use an oven mitt, because the stainless handles get hot in
+      the oven.
+  - question: Why does All-Clad Copper Core have a copper stripe?
+    answer: The copper band is where the copper layer shows through. All-Clad cuts a
+      thin ring into the outer stainless near the base, which exposes the copper
+      underneath. It is mostly a visual signature, so you can tell Copper Core
+      from D3 or D5 at a glance. It does not change how the pan cooks, and it
+      can darken over time.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A polished All-Clad Copper Core fry pan and saute pan showing the thin
+  copper band around the base
+seo: All-Clad Copper Core review covering the 5-ply stainless, aluminum and
+  copper build, the copper band, listed weights, prices, induction, the 600F
+  oven limit, hand-wash care, every current Copper Core set and pan, and when D3
+  or D5 makes more sense.
 ---
 All-Clad Copper Core is five layers of metal with a sheet of copper in the middle. It costs roughly twice what D3 costs for the same pans.
 
