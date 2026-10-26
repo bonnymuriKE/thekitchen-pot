@@ -1,37 +1,66 @@
 ---
-excerpt: "Raw potatoes last about 2 weeks on the counter and up to 3 months somewhere cool and dark. Cooked ones get 3 to 4 days in the fridge. Here's how to store them, and when to throw them out."
+excerpt: Raw potatoes last about 2 weeks on the counter and up to 3 months
+  somewhere cool and dark. Cooked ones get 3 to 4 days in the fridge. Here's how
+  to store them, and when to throw them out.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "How Long Do Potatoes Last? (Raw, Cooked, Fridge and Freezer)"
+title: How Long Do Potatoes Last? (Raw, Cooked, Fridge and Freezer)
 source: wordpress
 slug: how-long-do-potatoes-last
 pubDate: 2021-01-31
 modDate: 2026-09-22
-image: ""
+image: /images/how-long-do-potatoes-last-1020x510-1.jpg
+description: How long do potatoes last? About 2 weeks on the counter, up to 3
+  months in a cool dark spot, and 3 to 4 days once cooked. Plus signs a potato
+  has gone bad.
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A paper bag of russet potatoes on a pantry shelf next to a bowl of leftover roasted potatoes
 tags:
   - how-long-do-potatoes-last
   - storing-potatoes
   - food-storage
   - food-safety
-authorImageAlt: kitchenpot1
-description: "How long do potatoes last? About 2 weeks on the counter, up to 3 months in a cool dark spot, and 3 to 4 days once cooked. Plus signs a potato has gone bad."
-seo: "How long do potatoes last raw, cooked, in the pantry, fridge and freezer, whether to refrigerate potatoes, how to store cut potatoes, how to tell if potatoes are bad, and when green or sprouted potatoes are safe."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "How long do potatoes last at room temperature?"
-    answer: "Iowa State University Extension says raw potatoes keep for about 2 weeks at room temperature. In a cool, dark, dry, well-ventilated spot at around 45 to 50°F, the same potatoes can last up to three months or longer. Warmth and light are what shorten their life, so a cupboard away from the stove beats a sunny countertop."
-  - question: "Should potatoes be stored in the fridge?"
-    answer: "It depends whose advice you follow. The UK Food Standards Agency changed its guidance to say raw potatoes can be stored in the fridge, since research found it doesn't meaningfully raise acrylamide when they're later fried or roasted. US potato growers still advise against it, because fridge temperatures turn some starch to sugar, which can make potatoes taste sweeter and brown faster."
-  - question: "How long do cooked potatoes last in the fridge?"
-    answer: "Cooked potatoes, including mashed, baked, boiled and roasted, last 3 to 4 days in the fridge, which is the USDA's general guidance for cooked leftovers. Refrigerate them within 2 hours of cooking, or within 1 hour if it's above 90°F. Store them in shallow, covered containers so they cool quickly, and reheat to 165°F."
-  - question: "Is it safe to eat a potato that has sprouted?"
-    answer: "Usually, if the potato is still firm and the sprouts are small. Iowa State University Extension advises cutting away the sprouts and any green parts before cooking. Throw the potato out if the sprouts are an inch or longer and the potato has gone soft or shriveled, or if green color runs deep beneath the skin."
-  - question: "Can you freeze raw potatoes?"
-    answer: "Not well. Penn State Extension explains that freezing separates the water from the starch in raw potatoes, so they turn watery when reheated. Blanching them first, or freezing them already cooked, works much better. Small waxy potatoes can be blanched whole, homemade fries can be par-cooked, and mashed potatoes freeze best with butter or cream mixed in."
+  - question: How long do potatoes last at room temperature?
+    answer: Iowa State University Extension says raw potatoes keep for about 2 weeks
+      at room temperature. In a cool, dark, dry, well-ventilated spot at around
+      45 to 50°F, the same potatoes can last up to three months or longer.
+      Warmth and light are what shorten their life, so a cupboard away from the
+      stove beats a sunny countertop.
+  - question: Should potatoes be stored in the fridge?
+    answer: It depends whose advice you follow. The UK Food Standards Agency changed
+      its guidance to say raw potatoes can be stored in the fridge, since
+      research found it doesn't meaningfully raise acrylamide when they're later
+      fried or roasted. US potato growers still advise against it, because
+      fridge temperatures turn some starch to sugar, which can make potatoes
+      taste sweeter and brown faster.
+  - question: How long do cooked potatoes last in the fridge?
+    answer: Cooked potatoes, including mashed, baked, boiled and roasted, last 3 to
+      4 days in the fridge, which is the USDA's general guidance for cooked
+      leftovers. Refrigerate them within 2 hours of cooking, or within 1 hour if
+      it's above 90°F. Store them in shallow, covered containers so they cool
+      quickly, and reheat to 165°F.
+  - question: Is it safe to eat a potato that has sprouted?
+    answer: Usually, if the potato is still firm and the sprouts are small. Iowa
+      State University Extension advises cutting away the sprouts and any green
+      parts before cooking. Throw the potato out if the sprouts are an inch or
+      longer and the potato has gone soft or shriveled, or if green color runs
+      deep beneath the skin.
+  - question: Can you freeze raw potatoes?
+    answer: Not well. Penn State Extension explains that freezing separates the
+      water from the starch in raw potatoes, so they turn watery when reheated.
+      Blanching them first, or freezing them already cooked, works much better.
+      Small waxy potatoes can be blanched whole, homemade fries can be
+      par-cooked, and mashed potatoes freeze best with butter or cream mixed in.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A paper bag of russet potatoes on a pantry shelf next to a bowl of
+  leftover roasted potatoes
+seo: How long do potatoes last raw, cooked, in the pantry, fridge and freezer,
+  whether to refrigerate potatoes, how to store cut potatoes, how to tell if
+  potatoes are bad, and when green or sprouted potatoes are safe.
 ---
 It depends on two things: whether the potato is raw or cooked, and how cool and dark you can keep it. A raw potato on a warm [counter](/blog/countertop-organization-ideas-for-a-small-kitchen/) lasts days to a couple of weeks. The same potato in a cool cupboard can last months. Once it's cooked, the clock drops to a few days.
 
