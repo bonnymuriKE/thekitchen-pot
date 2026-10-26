@@ -1,40 +1,74 @@
 ---
-excerpt: "Six mini fridges for beer, sized in cans and in bottles rather than vague cubic feet, with the compressor versus thermoelectric question settled and real temperature ranges for every pick."
+excerpt: Six mini fridges for beer, sized in cans and in bottles rather than
+  vague cubic feet, with the compressor versus thermoelectric question settled
+  and real temperature ranges for every pick.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Mini Fridge for Beer (6 Picks Sized by Cans and Bottles)"
+title: Best Mini Fridge for Beer (6 Picks Sized by Cans and Bottles)
 source: wordpress
 slug: best-mini-fridge-for-beer
 pubDate: 2020-06-15
 modDate: 2026-09-22
-image: ""
+image: /images/Best-mini-fridge-for-beer.jpg
+description: The best mini fridge for beer, sized in cans and bottles, with
+  compressor and thermoelectric picks, real temperature ranges, noise levels and
+  shelf advice.
 category: Small Appliances
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A glass-door mini fridge for beer filled with cans and longneck bottles on adjustable shelves
 tags:
   - best-mini-fridge-for-beer
   - beverage-refrigerator
   - beer-storage
   - compact-appliances
   - home-bar
-authorImageAlt: kitchenpot1
-description: "The best mini fridge for beer, sized in cans and bottles, with compressor and thermoelectric picks, real temperature ranges, noise levels and shelf advice."
-seo: "A sizing-first guide to the best mini fridge for beer, with six picks compared by cubic feet, can and bottle capacity, temperature range, noise and energy use, plus a plain explanation of compressor versus thermoelectric cooling."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "How many beers fit in a 3.4 cubic foot mini fridge?"
-    answer: "About 126 standard 12 oz cans, which is the figure Newair publishes for its 3.4 cubic foot beverage fridge. That works out to roughly 37 cans per cubic foot on purpose-built beverage racks. Longneck bottles are a different story. A 12 oz longneck stands 9.1 inches tall against a can's 4.8 inches, so you have to pull shelves out and you lose close to half the count."
-  - question: "What temperature should a beer fridge be set to?"
-    answer: "Around 38°F suits mainstream lagers, and that is the coldest most people need. The American Homebrewers Association puts light American lagers at 33 to 40°F, pale ales and IPAs at 45 to 50°F, and stouts and porters at 45 to 55°F. If you drink a mix, set the fridge near 40°F and let stronger beers warm in the glass for a few minutes."
-  - question: "Is a thermoelectric or compressor mini fridge better for beer?"
-    answer: "A compressor, in almost every case. Compressor fridges hold a set temperature no matter how warm the room gets, the same way your kitchen fridge does. Thermoelectric units cool a fixed amount below room temperature instead. Cooluli, for example, rates its units at 35 to 40°F below ambient, so an 80°F room gives you 40 to 45°F beer rather than 38°F."
-  - question: "Can you put a mini fridge in the garage?"
-    answer: "Only if the garage stays within the range the maker allows. GE says standard refrigerators are built to run between 60°F and 110°F ambient. Below 60°F the refrigerant may not boil properly and cooling can stop, and above 110°F the compressor oil can break down. Garage-ready models widen that to about 38°F, but most beverage fridges are not garage-rated."
-  - question: "Do mini fridges have reversible doors?"
-    answer: "Many do, but not all, so check before you buy. Whynter and Danby both list a reversible hinge on the models here, and Newair describes a reversible glass door on its 126-can fridge. A reversible door matters in a tight room, because a door that swings the wrong way blocks a walkway or stops you reaching the shelves."
-  - question: "How loud is a beer fridge?"
-    answer: "Most compressor beverage fridges land between 35 and 41 decibels, which is quieter than a normal conversation. Newair lists 35 dB for its 126-can model and under 41 dB for the 160-can. Danby says its compact fridges run between 35 and 46 decibels. The noise comes in cycles rather than constantly, so a bedroom sleeper should aim for the low end."
+  - question: How many beers fit in a 3.4 cubic foot mini fridge?
+    answer: About 126 standard 12 oz cans, which is the figure Newair publishes for
+      its 3.4 cubic foot beverage fridge. That works out to roughly 37 cans per
+      cubic foot on purpose-built beverage racks. Longneck bottles are a
+      different story. A 12 oz longneck stands 9.1 inches tall against a can's
+      4.8 inches, so you have to pull shelves out and you lose close to half the
+      count.
+  - question: What temperature should a beer fridge be set to?
+    answer: Around 38°F suits mainstream lagers, and that is the coldest most people
+      need. The American Homebrewers Association puts light American lagers at
+      33 to 40°F, pale ales and IPAs at 45 to 50°F, and stouts and porters at 45
+      to 55°F. If you drink a mix, set the fridge near 40°F and let stronger
+      beers warm in the glass for a few minutes.
+  - question: Is a thermoelectric or compressor mini fridge better for beer?
+    answer: A compressor, in almost every case. Compressor fridges hold a set
+      temperature no matter how warm the room gets, the same way your kitchen
+      fridge does. Thermoelectric units cool a fixed amount below room
+      temperature instead. Cooluli, for example, rates its units at 35 to 40°F
+      below ambient, so an 80°F room gives you 40 to 45°F beer rather than 38°F.
+  - question: Can you put a mini fridge in the garage?
+    answer: Only if the garage stays within the range the maker allows. GE says
+      standard refrigerators are built to run between 60°F and 110°F ambient.
+      Below 60°F the refrigerant may not boil properly and cooling can stop, and
+      above 110°F the compressor oil can break down. Garage-ready models widen
+      that to about 38°F, but most beverage fridges are not garage-rated.
+  - question: Do mini fridges have reversible doors?
+    answer: Many do, but not all, so check before you buy. Whynter and Danby both
+      list a reversible hinge on the models here, and Newair describes a
+      reversible glass door on its 126-can fridge. A reversible door matters in
+      a tight room, because a door that swings the wrong way blocks a walkway or
+      stops you reaching the shelves.
+  - question: How loud is a beer fridge?
+    answer: Most compressor beverage fridges land between 35 and 41 decibels, which
+      is quieter than a normal conversation. Newair lists 35 dB for its 126-can
+      model and under 41 dB for the 160-can. Danby says its compact fridges run
+      between 35 and 46 decibels. The noise comes in cycles rather than
+      constantly, so a bedroom sleeper should aim for the low end.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A glass-door mini fridge for beer filled with cans and longneck
+  bottles on adjustable shelves
+seo: A sizing-first guide to the best mini fridge for beer, with six picks
+  compared by cubic feet, can and bottle capacity, temperature range, noise and
+  energy use, plus a plain explanation of compressor versus thermoelectric
+  cooling.
 ---
 Most beer fridges are sold by can count, not by cubic feet. That is marketing. It is also, for once, the more useful number.
 
