@@ -1,7 +1,8 @@
 ---
-excerpt: A combo grill puts a propane burner and a charcoal firebox in one frame,
-  so you get weeknight speed and weekend smoke without buying two grills. Here are
-  four that are still in production, checked against the makers' own sites.
+excerpt: A combo grill puts a propane burner and a charcoal firebox in one
+  frame, so you get weeknight speed and weekend smoke without buying two grills.
+  Here are four that are still in production, checked against the makers' own
+  sites.
 showTableOfContents: true
 authorId: kitchenpot1
 title: Best Gas and Charcoal Grill Combo (4 Dual-Fuel Picks Still Sold)
@@ -9,57 +10,63 @@ source: wordpress
 slug: best-gas-and-charcoal-grill-combo
 pubDate: 2020-03-28
 modDate: 2026-09-29
-image: ""
+image: /images/The-5-Best-Gas-Charcoal-Grill-Combos-1024x536-1.jpg
+description: The best gas and charcoal grill combo pairs quick propane heat with
+  real charcoal flavor. Four dual-fuel picks still in production, plus how to
+  choose one.
 category: Gas And Charcoal Grills
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A dual-fuel combo grill with a gas chamber and a charcoal chamber side by side on a patio
 tags:
   - gas and charcoal grill combo
   - dual fuel grill
   - best combo grill
   - char-griller
-authorImageAlt: kitchenpot1
-description: "The best gas and charcoal grill combo pairs quick propane heat with real charcoal flavor. Four dual-fuel picks still in production, plus how to choose one."
-seo: A guide to the best gas and charcoal grill combo models still in production, what "combo" really means on the box, and how to pick between dual-fuel designs.
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What is a gas and charcoal grill combo?"
+  - question: What is a gas and charcoal grill combo?
     answer: It's one grill with a propane burner system on one side and a charcoal
       firebox on the other. Most true combos keep the two fuels in separate
       chambers under a shared cart, and each chamber gets its own lid. You pick
       the fuel that suits the evening, propane for speed or charcoal for smoke,
       without paying for and storing two grills.
-  - question: "Can you use the gas side and the charcoal side at the same time?"
+  - question: Can you use the gas side and the charcoal side at the same time?
     answer: On a two-chamber combo, yes. Each side has its own burners or firebox,
       its own grates and usually its own lid, so both can run at once at
       different temperatures. Convertible hybrids are different. They have one
-      cooking surface and a charcoal tray that drops in over the burners, so only
-      one fuel works per cook.
-  - question: "Is a combo grill worse than a dedicated gas or charcoal grill?"
+      cooking surface and a charcoal tray that drops in over the burners, so
+      only one fuel works per cook.
+  - question: Is a combo grill worse than a dedicated gas or charcoal grill?
     answer: A little, at the same price. Splitting one budget across two fuel
       systems means fewer burners, thinner steel or a smaller firebox than a
       single-fuel grill of the same cost. What you gain is one footprint instead
       of two. If you know you will use one fuel for nine cooks out of ten, buy
       the dedicated grill instead.
-  - question: "How much cooking space do gas and charcoal combo grills have?"
+  - question: How much cooking space do gas and charcoal combo grills have?
     answer: Current models run from about 620 square inches of total area up to
       roughly 1,330 square inches. The total usually includes a warming rack, so
       check the primary grate figure too. Also check how the space divides
       between the two sides, because one chamber is often clearly smaller than
       the other.
-  - question: "How long does a combo grill take to assemble?"
+  - question: How long does a combo grill take to assemble?
     answer: Longer than a single-fuel grill, because you are building two cooking
       systems on one cart. Owner reviews across dual-fuel models commonly report
       one and a half to three hours. A second person helps most at the point
-      where you lift the two chambers onto the frame. Sorting the hardware before
-      you start saves real time.
-  - question: "Do combo grills come with one lid or two?"
+      where you lift the two chambers onto the frame. Sorting the hardware
+      before you start saves real time.
+  - question: Do combo grills come with one lid or two?
     answer: Two-chamber combos give each side its own lid, and most add a
       temperature gauge to each one. That is what lets you sear on gas and smoke
       on charcoal at the same time. A convertible hybrid has a single lid over a
       single cooking surface, so there is only one temperature to manage and one
       fuel at a time.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A dual-fuel combo grill with a gas chamber and a charcoal chamber side
+  by side on a patio
+seo: A guide to the best gas and charcoal grill combo models still in
+  production, what "combo" really means on the box, and how to pick between
+  dual-fuel designs.
 ---
 
 Three of the most-recommended combo grills on the internet are out of production. Their Amazon listings are still up, which is why bad roundups keep pointing at them.
