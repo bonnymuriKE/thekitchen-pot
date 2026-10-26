@@ -1,38 +1,64 @@
 ---
-excerpt: "The best 2 slice toaster for bagels, thick bread and small counters. Five in-stock picks from $38 to $110, why toast comes out uneven, and when a toaster oven makes more sense."
+excerpt: The best 2 slice toaster for bagels, thick bread and small counters.
+  Five in-stock picks from $38 to $110, why toast comes out uneven, and when a
+  toaster oven makes more sense.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best 2 Slice Toaster (5 In-Stock Picks for Bagels and Thick Bread)"
+title: Best 2 Slice Toaster (5 In-Stock Picks for Bagels and Thick Bread)
 source: wordpress
 slug: best-2-slice-toaster
 pubDate: 2020-03-25
 modDate: 2026-09-30
-image: ""
+image: /images/2-slicer-2.jpg
+description: "The best 2 slice toaster for bagels, thick bread and small
+  counters: five in-stock picks from Breville, Hamilton Beach, BUYDEEM and
+  Cuisinart side by side."
 category: Bakeware
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: "A brushed stainless steel 2 slice toaster with two slices of golden toast popping up"
 tags:
   - best-2-slice-toaster
   - toaster
   - bagel-toaster
   - small-kitchen-appliances
   - breakfast
-authorImageAlt: kitchenpot1
-description: "The best 2 slice toaster for bagels, thick bread and small counters: five in-stock picks from Breville, Hamilton Beach, BUYDEEM and Cuisinart side by side."
-seo: "Compare the best 2 slice toasters from Breville, Hamilton Beach, BUYDEEM and Cuisinart on slot width, shade settings, bagel modes, size and warranty."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What is the best 2 slice toaster?"
-    answer: "For most people, the Breville A Bit More (BTA720) is the best 2 slice toaster. It has extra wide, deep slots, variable browning with an LED progress bar, and one-touch buttons to add a little more time or lift and check the toast. Breville listed it at $109.95. If you want to spend less, the Hamilton Beach Gourmet 22996 at $44.99 is a strong budget pick."
-  - question: "Why does my toaster toast unevenly?"
-    answer: "Uneven toast usually comes from uneven heat or bread that sits off-center. The heating wires on each side of the slot glow at slightly different strengths, and bread closer to one side browns faster. Self-centering guides help, and so does a single-slice mode that adjusts heat when only one slot is used. Crumbs building up near the elements can also cause dark spots."
-  - question: "How wide should toaster slots be for bagels?"
-    answer: "Look for slots around 1.4 to 1.5 inches wide. The BUYDEEM DT620 has 1.4-inch slots and the Cuisinart CPT-122 has 1.5-inch slots. A bagel setting also matters. It toasts the cut side and only warms the rounded side, so the inside gets crisp without the outside turning hard."
-  - question: "Is a 2 slice toaster better than a toaster oven?"
-    answer: "A 2 slice toaster is faster, smaller and cheaper for toast and bagels. A toaster oven does more jobs, like reheating pizza and baking small batches, but it takes longer to toast and uses more counter space. If you mostly make toast, a 2 slice toaster is the better tool. If you want one appliance to replace the oven for small jobs, go with a toaster oven."
-  - question: "How often should you clean a toaster crumb tray?"
-    answer: "Empty the crumb tray at least once a week if you toast daily. Built-up crumbs can burn, smell and in rare cases catch fire. Unplug the toaster first and let it cool. Slide out the tray, empty it into the bin, and wipe it with a damp cloth. Never poke inside the slots with a metal knife."
+  - question: What is the best 2 slice toaster?
+    answer: For most people, the Breville A Bit More (BTA720) is the best 2 slice
+      toaster. It has extra wide, deep slots, variable browning with an LED
+      progress bar, and one-touch buttons to add a little more time or lift and
+      check the toast. Breville listed it at $109.95. If you want to spend less,
+      the Hamilton Beach Gourmet 22996 at $44.99 is a strong budget pick.
+  - question: Why does my toaster toast unevenly?
+    answer: Uneven toast usually comes from uneven heat or bread that sits
+      off-center. The heating wires on each side of the slot glow at slightly
+      different strengths, and bread closer to one side browns faster.
+      Self-centering guides help, and so does a single-slice mode that adjusts
+      heat when only one slot is used. Crumbs building up near the elements can
+      also cause dark spots.
+  - question: How wide should toaster slots be for bagels?
+    answer: Look for slots around 1.4 to 1.5 inches wide. The BUYDEEM DT620 has
+      1.4-inch slots and the Cuisinart CPT-122 has 1.5-inch slots. A bagel
+      setting also matters. It toasts the cut side and only warms the rounded
+      side, so the inside gets crisp without the outside turning hard.
+  - question: Is a 2 slice toaster better than a toaster oven?
+    answer: A 2 slice toaster is faster, smaller and cheaper for toast and bagels. A
+      toaster oven does more jobs, like reheating pizza and baking small
+      batches, but it takes longer to toast and uses more counter space. If you
+      mostly make toast, a 2 slice toaster is the better tool. If you want one
+      appliance to replace the oven for small jobs, go with a toaster oven.
+  - question: How often should you clean a toaster crumb tray?
+    answer: Empty the crumb tray at least once a week if you toast daily. Built-up
+      crumbs can burn, smell and in rare cases catch fire. Unplug the toaster
+      first and let it cool. Slide out the tray, empty it into the bin, and wipe
+      it with a damp cloth. Never poke inside the slots with a metal knife.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A brushed stainless steel 2 slice toaster with two slices of golden
+  toast popping up
+seo: Compare the best 2 slice toasters from Breville, Hamilton Beach, BUYDEEM
+  and Cuisinart on slot width, shade settings, bagel modes, size and warranty.
 ---
 Most toasters fail at the same job: the second slice. One side comes out dark, the other barely warm.
 
