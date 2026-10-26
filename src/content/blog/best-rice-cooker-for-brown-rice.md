@@ -1,40 +1,75 @@
 ---
-excerpt: "Six rice cookers with real brown rice programs, compared on cup capacity, heating type, soak cycles and counter footprint, plus how to get softer brown rice from any of them."
+excerpt: Six rice cookers with real brown rice programs, compared on cup
+  capacity, heating type, soak cycles and counter footprint, plus how to get
+  softer brown rice from any of them.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Rice Cooker for Brown Rice (6 Picks With Real Brown Settings)"
+title: Best Rice Cooker for Brown Rice (6 Picks With Real Brown Settings)
 source: wordpress
 slug: best-rice-cooker-for-brown-rice
 pubDate: 2020-03-22
 modDate: 2026-09-22
-image: ""
+image: /images/Best-Rice-Cooker-for-Brown-Rice.jpg
+description: The best rice cooker for brown rice, compared on capacity, heating
+  type and soak cycles, with compact picks for one or two people, and a full
+  buying guide.
 category: Cookware Equipment
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A compact rice cooker on a small kitchen counter with a bowl of cooked brown rice beside it
 tags:
   - best-rice-cooker-for-brown-rice
   - brown-rice
   - rice-cookers
   - small-kitchen-appliances
   - fuzzy-logic-rice-cooker
-authorImageAlt: kitchenpot1
-description: "The best rice cooker for brown rice, compared on capacity, heating type and soak cycles, with compact picks for one or two people, and a full buying guide."
-seo: "A guide to the best rice cooker for brown rice, comparing fuzzy logic, induction and pressure models on brown rice programs, cup capacity and counter footprint, with tips for softer grains."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Do you need a special rice cooker for brown rice?"
-    answer: "Not strictly, but a brown rice setting makes a large difference. Brown rice keeps its bran layer, so it needs more water and a longer, gentler cook than white rice. A dedicated program soaks the grain first and extends the cooking stage, which is why brown rice cycles often run 80 to 110 minutes against about 40 for white. A basic on-off cooker will produce brown rice, just chewier and less even."
-  - question: "What is the brown rice to water ratio in a rice cooker?"
-    answer: "Most brown rice needs more water than white, typically around 1 cup of rice to 1.25 cups of water in a cooker with a brown rice program, because the machine manages evaporation. Cookers with marked inner pots make this easier: add the rice, then fill to the brown rice line for that number of cups. If your grains come out firm, add an extra two tablespoons of water next time."
-  - question: "How long does brown rice take in a rice cooker?"
-    answer: "Expect 80 to 110 minutes on a fuzzy logic or induction cooker, because the brown rice program includes a soak stage before it starts heating in earnest. Pressure cookers are much faster, often finishing brown rice in around 30 to 40 minutes. A basic on-off cooker takes roughly 45 to 60 minutes but does not soak, so the texture is less consistent."
-  - question: "What is GABA brown rice and is it worth using?"
-    answer: "GABA brown rice is brown rice held warm long enough to start germinating, which softens the grain and changes its flavor and texture. Zojirushi's GABA setting holds the rice at around 104°F for about two hours before cooking. Cuckoo includes a GABA or brown rice mode on its pressure models. It takes a long time, so most people use it on a delay timer overnight rather than at dinnertime."
-  - question: "Should you rinse and soak brown rice before cooking?"
-    answer: "Rinsing is optional for brown rice and mostly removes dust rather than surface starch, since the bran is still on. Soaking is the useful step: 30 to 60 minutes in cool water softens the bran and gives you noticeably more even grains. If your cooker has a brown rice program, it soaks for you, so you can skip it."
-  - question: "What size rice cooker do you need for one or two people?"
-    answer: "A 3-cup uncooked model is plenty. Three cups uncooked yields roughly six cups cooked, which is several meals for one person and a comfortable dinner for two with leftovers. The 3-cup models also take up noticeably less counter space, which usually matters more in a small kitchen than the extra capacity of a 5.5-cup machine you never fill."
+  - question: Do you need a special rice cooker for brown rice?
+    answer: Not strictly, but a brown rice setting makes a large difference. Brown
+      rice keeps its bran layer, so it needs more water and a longer, gentler
+      cook than white rice. A dedicated program soaks the grain first and
+      extends the cooking stage, which is why brown rice cycles often run 80 to
+      110 minutes against about 40 for white. A basic on-off cooker will produce
+      brown rice, just chewier and less even.
+  - question: What is the brown rice to water ratio in a rice cooker?
+    answer: "Most brown rice needs more water than white, typically around 1 cup of
+      rice to 1.25 cups of water in a cooker with a brown rice program, because
+      the machine manages evaporation. Cookers with marked inner pots make this
+      easier: add the rice, then fill to the brown rice line for that number of
+      cups. If your grains come out firm, add an extra two tablespoons of water
+      next time."
+  - question: How long does brown rice take in a rice cooker?
+    answer: Expect 80 to 110 minutes on a fuzzy logic or induction cooker, because
+      the brown rice program includes a soak stage before it starts heating in
+      earnest. Pressure cookers are much faster, often finishing brown rice in
+      around 30 to 40 minutes. A basic on-off cooker takes roughly 45 to 60
+      minutes but does not soak, so the texture is less consistent.
+  - question: What is GABA brown rice and is it worth using?
+    answer: GABA brown rice is brown rice held warm long enough to start
+      germinating, which softens the grain and changes its flavor and texture.
+      Zojirushi's GABA setting holds the rice at around 104°F for about two
+      hours before cooking. Cuckoo includes a GABA or brown rice mode on its
+      pressure models. It takes a long time, so most people use it on a delay
+      timer overnight rather than at dinnertime.
+  - question: Should you rinse and soak brown rice before cooking?
+    answer: "Rinsing is optional for brown rice and mostly removes dust rather than
+      surface starch, since the bran is still on. Soaking is the useful step: 30
+      to 60 minutes in cool water softens the bran and gives you noticeably more
+      even grains. If your cooker has a brown rice program, it soaks for you, so
+      you can skip it."
+  - question: What size rice cooker do you need for one or two people?
+    answer: A 3-cup uncooked model is plenty. Three cups uncooked yields roughly six
+      cups cooked, which is several meals for one person and a comfortable
+      dinner for two with leftovers. The 3-cup models also take up noticeably
+      less counter space, which usually matters more in a small kitchen than the
+      extra capacity of a 5.5-cup machine you never fill.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A compact rice cooker on a small kitchen counter with a bowl of cooked
+  brown rice beside it
+seo: A guide to the best rice cooker for brown rice, comparing fuzzy logic,
+  induction and pressure models on brown rice programs, cup capacity and counter
+  footprint, with tips for softer grains.
 ---
 Brown rice is not white rice with a tan. It still has its bran layer and germ, and that intact bran is a barrier: water has to work through it before the starch inside can soften. Press the white rice button on brown rice and you get the predictable result, grains that are chewy in the middle and a pot that smells faintly scorched at the bottom.
 
