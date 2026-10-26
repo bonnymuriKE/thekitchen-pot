@@ -1,39 +1,74 @@
 ---
-excerpt: "There is a filter in the floor of your dishwasher that lifts out by hand, and most people have never touched theirs. Start there, then work outward to the spray arms, the door seal and the drain."
+excerpt: There is a filter in the floor of your dishwasher that lifts out by
+  hand, and most people have never touched theirs. Start there, then work
+  outward to the spray arms, the door seal and the drain.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "How to Clean a Dishwasher (Start With the Filter Nobody Removes)"
+title: How to Clean a Dishwasher (Start With the Filter Nobody Removes)
 source: wordpress
 slug: how-to-clean-a-dishwasher
 pubDate: 2020-11-01
 modDate: 2026-09-22
-image: ""
+image: /images/how-to-clean-a-dishwasher-filter-t1.jpg
+description: "How to clean a dishwasher the right way: pull out the filter,
+  clear the blocked spray arms, wipe the door seal, then fix smells, film and
+  hard water scale."
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A dishwasher filter lifted out of the floor of an open dishwasher next to a bottle of white vinegar
 tags:
   - how-to-clean-a-dishwasher
   - dishwasher-filter
   - hard-water
   - kitchen-cleaning
-authorImageAlt: kitchenpot1
-description: "How to clean a dishwasher the right way: pull out the filter, clear the blocked spray arms, wipe the door seal, then fix smells, film and hard water scale."
-seo: "How to clean a dishwasher, starting with the removable filter most owners never touch. Covers spray arms, the door gasket, the drain, vinegar and baking soda cycles, hard water scale, smells and a simple monthly maintenance schedule."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "How do I clean my dishwasher filter?"
-    answer: "Pull out the lower rack and look at the floor of the tub. Twist the round filter cylinder counterclockwise, lift it out, then lift out the flat mesh plate underneath. Rinse both under hot running water and use an old toothbrush on any trapped food. Skip wire brushes and scouring pads, which damage the mesh. Dry the parts, drop the flat plate back in, then twist the cylinder until it locks."
-  - question: "How often should you clean a dishwasher?"
-    answer: "Rinse the filter once a month. Whirlpool suggests every two weeks if you run the machine daily or cook for a large household. Wipe the door gasket weekly, since that takes under a minute. Run an empty cleaning cycle monthly, and check the spray arm holes every few months. If you have hard water, a monthly descaling cycle keeps film off your glasses."
-  - question: "Is vinegar or baking soda better for cleaning a dishwasher?"
-    answer: "They do different jobs, so the answer depends on the problem. Vinegar is acidic, so it dissolves mineral scale, soap scum and cloudy film. Baking soda is alkaline and mildly abrasive, so it helps with odor and light grease. Do not run them together in one cycle. An acid and a base cancel each other out, and you end up with fizz and salty water."
-  - question: "Why does my dishwasher still smell after cleaning it?"
-    answer: "The smell almost always comes from trapped food, so look for the food. Check the filter, the sump area under it, the spray arm holes, and the rubber seal along the bottom of the door. Also check the drain hose connection at the sink and the air gap on the counter. A cleaning cycle on its own will not fix a smell that comes from a clog."
-  - question: "Can you use bleach to clean a dishwasher?"
-    answer: "Usually no. Samsung warns against bleach in any dishwasher with a stainless steel interior, because it can damage or discolor the tub. Bleach is also risky next to the vinegar most people reach for. Mixing bleach with vinegar or any acid releases chlorine gas, which is dangerous in a small kitchen. Use a citric acid cleaner tablet instead."
-  - question: "Why is my dishwasher leaving a white film on glasses?"
-    answer: "A chalky white film is usually mineral deposit from hard water, not detergent failure. Water above 120 mg/L of calcium carbonate counts as hard, and the minerals stay behind when the water evaporates. Fill the rinse aid reservoir, add a citric acid booster to the detergent cup, and run a monthly descaling cycle. Etched, permanently cloudy glass is different and cannot be reversed."
+  - question: How do I clean my dishwasher filter?
+    answer: Pull out the lower rack and look at the floor of the tub. Twist the
+      round filter cylinder counterclockwise, lift it out, then lift out the
+      flat mesh plate underneath. Rinse both under hot running water and use an
+      old toothbrush on any trapped food. Skip wire brushes and scouring pads,
+      which damage the mesh. Dry the parts, drop the flat plate back in, then
+      twist the cylinder until it locks.
+  - question: How often should you clean a dishwasher?
+    answer: Rinse the filter once a month. Whirlpool suggests every two weeks if you
+      run the machine daily or cook for a large household. Wipe the door gasket
+      weekly, since that takes under a minute. Run an empty cleaning cycle
+      monthly, and check the spray arm holes every few months. If you have hard
+      water, a monthly descaling cycle keeps film off your glasses.
+  - question: Is vinegar or baking soda better for cleaning a dishwasher?
+    answer: They do different jobs, so the answer depends on the problem. Vinegar is
+      acidic, so it dissolves mineral scale, soap scum and cloudy film. Baking
+      soda is alkaline and mildly abrasive, so it helps with odor and light
+      grease. Do not run them together in one cycle. An acid and a base cancel
+      each other out, and you end up with fizz and salty water.
+  - question: Why does my dishwasher still smell after cleaning it?
+    answer: The smell almost always comes from trapped food, so look for the food.
+      Check the filter, the sump area under it, the spray arm holes, and the
+      rubber seal along the bottom of the door. Also check the drain hose
+      connection at the sink and the air gap on the counter. A cleaning cycle on
+      its own will not fix a smell that comes from a clog.
+  - question: Can you use bleach to clean a dishwasher?
+    answer: Usually no. Samsung warns against bleach in any dishwasher with a
+      stainless steel interior, because it can damage or discolor the tub.
+      Bleach is also risky next to the vinegar most people reach for. Mixing
+      bleach with vinegar or any acid releases chlorine gas, which is dangerous
+      in a small kitchen. Use a citric acid cleaner tablet instead.
+  - question: Why is my dishwasher leaving a white film on glasses?
+    answer: A chalky white film is usually mineral deposit from hard water, not
+      detergent failure. Water above 120 mg/L of calcium carbonate counts as
+      hard, and the minerals stay behind when the water evaporates. Fill the
+      rinse aid reservoir, add a citric acid booster to the detergent cup, and
+      run a monthly descaling cycle. Etched, permanently cloudy glass is
+      different and cannot be reversed.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A dishwasher filter lifted out of the floor of an open dishwasher next
+  to a bottle of white vinegar
+seo: How to clean a dishwasher, starting with the removable filter most owners
+  never touch. Covers spray arms, the door gasket, the drain, vinegar and baking
+  soda cycles, hard water scale, smells and a simple monthly maintenance
+  schedule.
 ---
 Your dishwasher has a filter in the floor of the tub that lifts out by hand. Most owners have never touched theirs.
 
