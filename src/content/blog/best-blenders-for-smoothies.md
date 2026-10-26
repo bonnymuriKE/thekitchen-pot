@@ -1,38 +1,64 @@
 ---
-excerpt: "The best blenders for smoothies, from a $90 Ninja to the Vitamix 5200. Four picks for frozen fruit, leafy greens and single cups, and the loading order that makes any blender smoother."
+excerpt: The best blenders for smoothies, from a $90 Ninja to the Vitamix 5200.
+  Four picks for frozen fruit, leafy greens and single cups, and the loading
+  order that makes any blender smoother.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Blenders for Smoothies (4 Picks for Frozen Fruit and Greens)"
+title: Best Blenders for Smoothies (4 Picks for Frozen Fruit and Greens)
 source: wordpress
 slug: best-blenders-for-smoothies
 pubDate: 2020-07-27
 modDate: 2026-09-30
-image: ""
+image: /images/Best-Blender-for-Smoothies.jpg
+description: "The best blenders for smoothies, from a $90 Ninja to the Vitamix
+  5200: four picks for frozen fruit, greens and single cups, plus how to blend
+  silky smooth."
 category: Blenders And Juicing Equipment
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: "A countertop blender pitcher full of a thick green smoothie with frozen fruit"
 tags:
   - best-blenders-for-smoothies
   - smoothie-blender
   - vitamix
   - ninja-blender
   - personal-blender
-authorImageAlt: kitchenpot1
-description: "The best blenders for smoothies, from a $90 Ninja to the Vitamix 5200: four picks for frozen fruit, greens and single cups, plus how to blend silky smooth."
-seo: "Compare the best blenders for smoothies from Ninja, Vitamix and Blendtec on power, pitcher size, presets and warranty, with tips for smoother frozen fruit and greens."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What is the best blender for smoothies?"
-    answer: "For most people, the Ninja Professional Plus BN701 is the best smoothie blender for the money. It has a 1,400 peak watt motor, a 72 oz pitcher and Auto-iQ presets for smoothies and frozen drinks, and Ninja listed it at $89.99. If you want the smoothest possible texture with leafy greens and seeds, and a 7-year warranty, the Vitamix 5200 is the step up."
-  - question: "Do you need a high-powered blender for smoothies?"
-    answer: "Not for every smoothie. Soft fruit, yogurt and milk blend fine in almost any blender. Power matters when you add frozen fruit, ice, kale, seeds or nuts. Stronger motors spin the blades faster and pull tough ingredients through more times, which is why they leave fewer bits of skin and fiber behind."
-  - question: "What order do you put smoothie ingredients in a blender?"
-    answer: "Liquids go in first, then soft ingredients like yogurt and banana, then leafy greens, and frozen fruit or ice last. Liquid at the bottom helps the blade spin freely and start a vortex. The heavy frozen pieces on top push everything down into the blade. For a personal blender where the cup is flipped, reverse the order."
-  - question: "Is a personal blender good for smoothies?"
-    answer: "Yes, if you make one smoothie at a time. A personal blender like the Ninja Nutri-Blender Pro blends right in a to-go cup, so there is less to wash. It is less suited to big batches or very thick frozen blends, because the small cup has less room for ingredients to move."
-  - question: "Why is my smoothie not blending?"
-    answer: "Usually there is not enough liquid, or the frozen fruit has formed an air pocket above the blade. Add a splash more liquid, stop and stir, or use a tamper if your blender has one. Letting frozen fruit sit for five minutes before blending also helps. Overfilling the pitcher past the max line can stall the blade too."
+  - question: What is the best blender for smoothies?
+    answer: For most people, the Ninja Professional Plus BN701 is the best smoothie
+      blender for the money. It has a 1,400 peak watt motor, a 72 oz pitcher and
+      Auto-iQ presets for smoothies and frozen drinks, and Ninja listed it at
+      $89.99. If you want the smoothest possible texture with leafy greens and
+      seeds, and a 7-year warranty, the Vitamix 5200 is the step up.
+  - question: Do you need a high-powered blender for smoothies?
+    answer: Not for every smoothie. Soft fruit, yogurt and milk blend fine in almost
+      any blender. Power matters when you add frozen fruit, ice, kale, seeds or
+      nuts. Stronger motors spin the blades faster and pull tough ingredients
+      through more times, which is why they leave fewer bits of skin and fiber
+      behind.
+  - question: What order do you put smoothie ingredients in a blender?
+    answer: Liquids go in first, then soft ingredients like yogurt and banana, then
+      leafy greens, and frozen fruit or ice last. Liquid at the bottom helps the
+      blade spin freely and start a vortex. The heavy frozen pieces on top push
+      everything down into the blade. For a personal blender where the cup is
+      flipped, reverse the order.
+  - question: Is a personal blender good for smoothies?
+    answer: Yes, if you make one smoothie at a time. A personal blender like the
+      Ninja Nutri-Blender Pro blends right in a to-go cup, so there is less to
+      wash. It is less suited to big batches or very thick frozen blends,
+      because the small cup has less room for ingredients to move.
+  - question: Why is my smoothie not blending?
+    answer: Usually there is not enough liquid, or the frozen fruit has formed an
+      air pocket above the blade. Add a splash more liquid, stop and stir, or
+      use a tamper if your blender has one. Letting frozen fruit sit for five
+      minutes before blending also helps. Overfilling the pitcher past the max
+      line can stall the blade too.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A countertop blender pitcher full of a thick green smoothie with frozen fruit
+seo: Compare the best blenders for smoothies from Ninja, Vitamix and Blendtec on
+  power, pitcher size, presets and warranty, with tips for smoother frozen fruit
+  and greens.
 ---
 A smoothie blender has one hard job: frozen fruit. Anything can blend a banana and milk.
 
