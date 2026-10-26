@@ -1,38 +1,64 @@
 ---
-excerpt: "The best bread proofing baskets for home bakers. Four in-stock Frieling brotforms compared by shape and size, plus how bannetons work, liners, care and a King Arthur option."
+excerpt: The best bread proofing baskets for home bakers. Four in-stock Frieling
+  brotforms compared by shape and size, plus how bannetons work, liners, care
+  and a King Arthur option.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Bread Proofing Baskets (4 Brotforms Compared by Shape and Size)"
+title: Best Bread Proofing Baskets (4 Brotforms Compared by Shape and Size)
 source: wordpress
 slug: best-bread-proofing-basket-reviews
 pubDate: 2020-09-13
 modDate: 2026-09-30
-image: ""
+image: /images/Best-bread-proofing-baskets.png
+description: "The best bread proofing baskets for sourdough and yeast bread:
+  four in-stock Frieling brotforms by shape and size, plus liners, care and a
+  King Arthur set."
 category: Bakeware
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: "A round cane bread proofing basket dusted with flour next to a shaped loaf of sourdough"
 tags:
   - bread-proofing-basket
   - banneton
   - brotform
   - sourdough-tools
   - bread-baking
-authorImageAlt: kitchenpot1
-description: "The best bread proofing baskets for sourdough and yeast bread: four in-stock Frieling brotforms by shape and size, plus liners, care and a King Arthur set."
-seo: "Compare the best bread proofing baskets by shape and size, with in-stock Frieling brotforms, liner advice, dough capacity tips and how to clean a banneton."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What size proofing basket do I need?"
-    answer: "Match the basket to your dough weight. As a rough guide, an 8.5-inch round suits about 1 to 1.5 pounds of dough, and a 10-inch round suits about 1.5 to 2 pounds. Most home sourdough recipes that use 500 grams of flour make a loaf that fits a 10-inch round or a 10x7-inch oval. If the dough rises well above the rim, the basket is too small."
-  - question: "Do I need a liner for my banneton?"
-    answer: "No. A bare cane basket gives the loaf its floury spiral or ribbed pattern. A cloth liner gives a smooth top and helps with wet, sticky dough. Many bakers start with the liner and switch to the bare basket once they learn how much flour their dough needs. Frieling sells its liners separately, while many Amazon listings bundle one in."
-  - question: "How do you stop dough sticking to a proofing basket?"
-    answer: "Dust the basket with rice flour, or a mix of rice flour and wheat flour. Rice flour has no gluten, so it does not turn gummy when it touches wet dough. Dust more heavily for the first few bakes, until the cane builds up a light coating. A cloth liner also helps with very wet dough."
-  - question: "How do you clean a bread proofing basket?"
-    answer: "Let the basket dry completely, then knock out the loose flour and brush the rest away with a dry, stiff brush. Frieling says its brotforms clean up by dusting off the flour. Avoid soaking a cane basket, because trapped moisture can lead to mold. If you must rinse it, dry it fast in a warm, low oven or in the sun."
-  - question: "Can I use a bowl instead of a proofing basket?"
-    answer: "Yes. A mixing bowl or colander lined with a well-floured kitchen towel works for most loaves. The towel holds the shape and releases the dough when you tip it out. You lose the ribbed pattern, and cloth wicks less moisture than cane, so the crust can be a little softer."
+  - question: What size proofing basket do I need?
+    answer: Match the basket to your dough weight. As a rough guide, an 8.5-inch
+      round suits about 1 to 1.5 pounds of dough, and a 10-inch round suits
+      about 1.5 to 2 pounds. Most home sourdough recipes that use 500 grams of
+      flour make a loaf that fits a 10-inch round or a 10x7-inch oval. If the
+      dough rises well above the rim, the basket is too small.
+  - question: Do I need a liner for my banneton?
+    answer: No. A bare cane basket gives the loaf its floury spiral or ribbed
+      pattern. A cloth liner gives a smooth top and helps with wet, sticky
+      dough. Many bakers start with the liner and switch to the bare basket once
+      they learn how much flour their dough needs. Frieling sells its liners
+      separately, while many Amazon listings bundle one in.
+  - question: How do you stop dough sticking to a proofing basket?
+    answer: Dust the basket with rice flour, or a mix of rice flour and wheat flour.
+      Rice flour has no gluten, so it does not turn gummy when it touches wet
+      dough. Dust more heavily for the first few bakes, until the cane builds up
+      a light coating. A cloth liner also helps with very wet dough.
+  - question: How do you clean a bread proofing basket?
+    answer: Let the basket dry completely, then knock out the loose flour and brush
+      the rest away with a dry, stiff brush. Frieling says its brotforms clean
+      up by dusting off the flour. Avoid soaking a cane basket, because trapped
+      moisture can lead to mold. If you must rinse it, dry it fast in a warm,
+      low oven or in the sun.
+  - question: Can I use a bowl instead of a proofing basket?
+    answer: Yes. A mixing bowl or colander lined with a well-floured kitchen towel
+      works for most loaves. The towel holds the shape and releases the dough
+      when you tip it out. You lose the ribbed pattern, and cloth wicks less
+      moisture than cane, so the crust can be a little softer.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A round cane bread proofing basket dusted with flour next to a shaped
+  loaf of sourdough
+seo: Compare the best bread proofing baskets by shape and size, with in-stock
+  Frieling brotforms, liner advice, dough capacity tips and how to clean a
+  banneton.
 ---
 A proofing basket holds shaped dough during its final rise. It keeps a soft, wet loaf from spreading flat before it reaches the oven.
 
