@@ -1,17 +1,19 @@
 ---
-excerpt: "Griswold stopped making cast iron in 1957, so every real one is vintage. Here's how to buy a genuine Griswold without getting burned, and five modern skillets that give you the same smooth, light feel new."
+excerpt: Griswold stopped making cast iron in 1957, so every real one is
+  vintage. Here's how to buy a genuine Griswold without getting burned, and five
+  modern skillets that give you the same smooth, light feel new.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Griswold Cast Iron Skillet Review (Vintage Buying Guide + 5 Modern Picks)"
+title: Griswold Cast Iron Skillet Review (Vintage Buying Guide + 5 Modern Picks)
 source: wordpress
 slug: griswold-cast-iron-skillet-review
 pubDate: 2021-02-07
 modDate: 2026-09-30
-image: ""
+image: /images/Griswold-cast-iron-skillet-size-10-1.jpg
+description: "Griswold cast iron skillet review: Griswold stopped making
+  skillets in 1957. How to buy a real vintage one safely, plus 5 new skillets
+  with that same feel."
 category: Cookware Equipment
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: "Vintage Griswold cast iron skillet with a smooth cooking surface next to a modern cast iron skillet"
 tags:
   - griswold cast iron skillet review
   - vintage griswold skillet
@@ -19,21 +21,45 @@ tags:
   - griswold alternatives
   - smooth cast iron skillet
   - lodge cast iron skillet
-authorImageAlt: kitchenpot1
-description: "Griswold cast iron skillet review: Griswold stopped making skillets in 1957. How to buy a real vintage one safely, plus 5 new skillets with that same feel."
-seo: "Griswold cast iron skillets are vintage only. Learn how to identify a real Griswold by its logo, pattern number and heat ring, what to pay, and which modern skillets feel the same."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Is Griswold cast iron still made?"
-    answer: "No. The Griswold company was sold in 1957 and the Erie, Pennsylvania foundry stopped making its cookware. Wagner's owners used the Griswold name on some pans made in Sidney, Ohio after that, and the name was dropped by 1973. Every Griswold skillet you can buy today is a used, vintage piece. There is no new Griswold and no factory warranty."
-  - question: "Why are Griswold skillets so expensive?"
-    answer: "Supply is fixed and demand is steady. Griswold skillets were cast thin and machined smooth, so they are lighter and slicker than most modern cast iron. Collectors also chase rare sizes and early logos. Common small block No. 8 skillets are fairly affordable, but rare sizes and early marks can sell for thousands, and one skillet reportedly sold for $17,000."
-  - question: "How can I tell if my Griswold skillet is real?"
-    answer: "Check the bottom. A real Griswold has a crisp, even logo, the words Erie or Erie PA, a size number, and a pattern number such as 704 on a No. 8. The casting should be clean and the cooking surface smooth. Rough, grainy iron, blurry letters or odd numbers often point to a reproduction."
-  - question: "Is a Griswold better than a Lodge skillet?"
-    answer: "It is lighter and smoother, which many cooks prefer for eggs and everyday frying. A Lodge is heavier, rougher and far cheaper, and it holds heat well for searing. Both cook well once seasoned. The Lodge is new, easy to find and covered by a warranty. A Griswold is a used purchase with no warranty."
-  - question: "Can I use a vintage Griswold on a glass top stove?"
-    answer: "Yes, if the bottom is flat. Smooth-bottom Griswolds sit fully on the glass. Heat ring models touch the glass only on the ring, so they heat slower and can rock. Lift the pan instead of sliding it, and do a spin test first. A skillet that spins or wobbles on a flat counter is warped."
+  - question: Is Griswold cast iron still made?
+    answer: No. The Griswold company was sold in 1957 and the Erie, Pennsylvania
+      foundry stopped making its cookware. Wagner's owners used the Griswold
+      name on some pans made in Sidney, Ohio after that, and the name was
+      dropped by 1973. Every Griswold skillet you can buy today is a used,
+      vintage piece. There is no new Griswold and no factory warranty.
+  - question: Why are Griswold skillets so expensive?
+    answer: Supply is fixed and demand is steady. Griswold skillets were cast thin
+      and machined smooth, so they are lighter and slicker than most modern cast
+      iron. Collectors also chase rare sizes and early logos. Common small block
+      No. 8 skillets are fairly affordable, but rare sizes and early marks can
+      sell for thousands, and one skillet reportedly sold for $17,000.
+  - question: How can I tell if my Griswold skillet is real?
+    answer: Check the bottom. A real Griswold has a crisp, even logo, the words Erie
+      or Erie PA, a size number, and a pattern number such as 704 on a No. 8.
+      The casting should be clean and the cooking surface smooth. Rough, grainy
+      iron, blurry letters or odd numbers often point to a reproduction.
+  - question: Is a Griswold better than a Lodge skillet?
+    answer: It is lighter and smoother, which many cooks prefer for eggs and
+      everyday frying. A Lodge is heavier, rougher and far cheaper, and it holds
+      heat well for searing. Both cook well once seasoned. The Lodge is new,
+      easy to find and covered by a warranty. A Griswold is a used purchase with
+      no warranty.
+  - question: Can I use a vintage Griswold on a glass top stove?
+    answer: Yes, if the bottom is flat. Smooth-bottom Griswolds sit fully on the
+      glass. Heat ring models touch the glass only on the ring, so they heat
+      slower and can rock. Lift the pan instead of sliding it, and do a spin
+      test first. A skillet that spins or wobbles on a flat counter is warped.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: Vintage Griswold cast iron skillet with a smooth cooking surface next
+  to a modern cast iron skillet
+seo: Griswold cast iron skillets are vintage only. Learn how to identify a real
+  Griswold by its logo, pattern number and heat ring, what to pay, and which
+  modern skillets feel the same.
 ---
 Griswold hasn't made a skillet since 1957. Every one for sale today is used, and some of them are fakes.
 
