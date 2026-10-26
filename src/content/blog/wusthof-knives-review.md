@@ -1,39 +1,70 @@
 ---
-excerpt: "Wusthof has made knives in Solingen since 1814. Here is what the steel, the hardness and the forging actually buy you, which lines are forged, and where the price stops making sense."
+excerpt: Wusthof has made knives in Solingen since 1814. Here is what the steel,
+  the hardness and the forging actually buy you, which lines are forged, and
+  where the price stops making sense.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Wusthof Knives Review (Classic, Ikon, Gourmet and Pro Compared)"
+title: Wusthof Knives Review (Classic, Ikon, Gourmet and Pro Compared)
 source: wordpress
 slug: wusthof-knives-review
 pubDate: 2021-01-22
 modDate: 2026-09-22
-image: ""
+image: /images/Wusthof-kitchen-knife-buying-guide-FB.png
+description: A frank Wusthof knives review covering Classic, Classic Ikon,
+  Gourmet and Pro, the steel and hardness Wusthof publishes, plus where the
+  price does pay off.
 category: Kitchenware
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A forged Wusthof Classic chef's knife resting on a wooden cutting board
 tags:
   - wusthof-knives-review
   - german-kitchen-knives
   - forged-vs-stamped-knives
   - wusthof-classic
-authorImageAlt: kitchenpot1
-description: "A frank Wusthof knives review covering Classic, Classic Ikon, Gourmet and Pro, the steel and hardness Wusthof publishes, plus where the price does pay off."
-seo: "Wusthof knives review of the Classic, Classic Ikon, Gourmet and Pro lines, covering forged versus stamped construction, X50CrMoV15 steel, 58 Rockwell hardness and Precision Edge Technology."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Are Wusthof knives worth the money?"
-    answer: "For a chef's knife you will use most days for twenty years, yes. You get forged German steel at 58 Rockwell, a factory edge ground at about 14 degrees per side, and a lifetime warranty. For a twelve-piece block set full of knives you never touch, no. Buy two or three Wusthof knives rather than a big set and the value case gets much stronger."
-  - question: "Which Wusthof lines are forged and which are stamped?"
-    answer: "Classic, Classic Ikon, Ikon, Amici, Crafter and Grand Prix II are forged from a single bar of steel. Gourmet and Pro are stamped, meaning the blade is laser cut from sheet steel. Forged blades carry a bolster and usually run at 58 Rockwell. Wusthof lists the stamped lines at 56 Rockwell."
-  - question: "What steel do Wusthof knives use?"
-    answer: "Most Wusthof blades use X50CrMoV15, a German stainless alloy with about 0.5 percent carbon and 15 percent chromium, plus molybdenum and vanadium. The chromium resists rust, the molybdenum and vanadium refine the grain and add wear resistance. It is a well-proven alloy, and Wusthof's German rivals use the same family of steel."
-  - question: "What is Wusthof Precision Edge Technology?"
-    answer: "PEtec is Wusthof's laser-guided sharpening process. Lasers measure each blade, software sets the angle, and robots grind the edge on whetstones before a hand polish. Wusthof puts the result at 14.5 degrees per side, against roughly 20 degrees on many rival knives, and claims a 20 percent sharper edge with double the retention."
+  - question: Are Wusthof knives worth the money?
+    answer: For a chef's knife you will use most days for twenty years, yes. You get
+      forged German steel at 58 Rockwell, a factory edge ground at about 14
+      degrees per side, and a lifetime warranty. For a twelve-piece block set
+      full of knives you never touch, no. Buy two or three Wusthof knives rather
+      than a big set and the value case gets much stronger.
+  - question: Which Wusthof lines are forged and which are stamped?
+    answer: Classic, Classic Ikon, Ikon, Amici, Crafter and Grand Prix II are forged
+      from a single bar of steel. Gourmet and Pro are stamped, meaning the blade
+      is laser cut from sheet steel. Forged blades carry a bolster and usually
+      run at 58 Rockwell. Wusthof lists the stamped lines at 56 Rockwell.
+  - question: What steel do Wusthof knives use?
+    answer: Most Wusthof blades use X50CrMoV15, a German stainless alloy with about
+      0.5 percent carbon and 15 percent chromium, plus molybdenum and vanadium.
+      The chromium resists rust, the molybdenum and vanadium refine the grain
+      and add wear resistance. It is a well-proven alloy, and Wusthof's German
+      rivals use the same family of steel.
+  - question: What is Wusthof Precision Edge Technology?
+    answer: PEtec is Wusthof's laser-guided sharpening process. Lasers measure each
+      blade, software sets the angle, and robots grind the edge on whetstones
+      before a hand polish. Wusthof puts the result at 14.5 degrees per side,
+      against roughly 20 degrees on many rival knives, and claims a 20 percent
+      sharper edge with double the retention.
   - question: "Wusthof Classic or Classic Ikon: what is the difference?"
-    answer: "Both are forged, both use the same steel at 58 Rockwell, and both cut identically. The Classic has a straight handle and a traditional full bolster. The Classic Ikon has a contoured handle and a second bolster at the heel, which shifts the balance back toward your hand. The Ikon costs more and weighs more; an 8-inch Ikon chef's knife runs around 9.1 ounces against 7.7 for a demi-bolster Classic."
-  - question: "Can you put Wusthof knives in the dishwasher?"
-    answer: "No. Wusthof's own care guidance is to wash by hand and towel dry straight away. Dishwasher detergent is abrasive and alkaline, the heat is hard on the handle, and blades knock into other items in the rack. A hand wash takes fifteen seconds and is the single easiest way to make the knife last."
+    answer: Both are forged, both use the same steel at 58 Rockwell, and both cut
+      identically. The Classic has a straight handle and a traditional full
+      bolster. The Classic Ikon has a contoured handle and a second bolster at
+      the heel, which shifts the balance back toward your hand. The Ikon costs
+      more and weighs more; an 8-inch Ikon chef's knife runs around 9.1 ounces
+      against 7.7 for a demi-bolster Classic.
+  - question: Can you put Wusthof knives in the dishwasher?
+    answer: No. Wusthof's own care guidance is to wash by hand and towel dry
+      straight away. Dishwasher detergent is abrasive and alkaline, the heat is
+      hard on the handle, and blades knock into other items in the rack. A hand
+      wash takes fifteen seconds and is the single easiest way to make the knife
+      last.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A forged Wusthof Classic chef's knife resting on a wooden cutting board
+seo: Wusthof knives review of the Classic, Classic Ikon, Gourmet and Pro lines,
+  covering forged versus stamped construction, X50CrMoV15 steel, 58 Rockwell
+  hardness and Precision Edge Technology.
 ---
 Wusthof has been forging knives in Solingen since 1814, and the family still runs it. That history is real. It is also the reason a lot of Wusthof writing reads like a brochure.
 
