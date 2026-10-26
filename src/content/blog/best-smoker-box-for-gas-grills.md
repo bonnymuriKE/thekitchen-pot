@@ -9,21 +9,24 @@ source: wordpress
 slug: best-smoker-box-for-gas-grills
 pubDate: 2020-04-27
 modDate: 2025-01-20
-image: ""
+image: /images/Smoker-box-for-gas-grills.jpg
+description: Want smoky flavors on a gas grill? These best smoker boxes add
+  authentic BBQ taste effortlessly. Durable, easy to use & transform your
+  grill—get one today!
 category: Gas And Charcoal Grills
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: 8 Best Smoker Box for Gas Grill
 tags:
   - best-smoker-box-for-gas-grills
   - gas-grills
   - smoker-box
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
 authorImageAlt: kitchenpot1
-description: "Want smoky flavors on a gas grill? These best smoker boxes add authentic BBQ taste effortlessly. Durable, easy to use & transform your grill—get one today!"
+coverAlt: 8 Best Smoker Box for Gas Grill
 seo: Did you know that you can turn your gas grill into smokers? Well, the best
   smoker box for gas grills will help you achieve that smoky flavor in your
   meat. Here's a comprehensive guide
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 ---
 Did you know that you can turn your gas grill into smokers? Well, the best smoker box for gas grills will help you achieve that smoky flavor in your barbecue!
 
