@@ -1,15 +1,17 @@
 ---
-title: "What Is an Instant Pot? How It Works and What Every Button Does"
+title: What Is an Instant Pot? How It Works and What Every Button Does
+source: decap
 slug: what-is-an-instant-pot
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-03-05
 modDate: 2026-09-24
-author: Boniface Muriuki
-image: images/capture.png
-excerpt: "An Instant Pot is an electric pressure cooker with a microprocessor and a set of preset programs. Here is how the pressure works, what each button changes, how the model lines differ, and the jobs it does badly."
-description: "An Instant Pot is an electric pressure cooker running preset programs. Here is what every button really does, what it cooks well, and where it falls short."
-seo: "What is an Instant Pot? A plain-English explainer on how electric pressure cooking works, what each program does, the Duo, Pro, RIO and Crisp model lines, natural versus quick release, the burn message, and what the appliance is bad at."
-coverAlt: "A stainless steel electric pressure cooker on a kitchen counter with its lid sealed and the control panel lit"
+image: /images/11-Instant.jpg
+excerpt: An Instant Pot is an electric pressure cooker with a microprocessor and
+  a set of preset programs. Here is how the pressure works, what each button
+  changes, how the model lines differ, and the jobs it does badly.
+description: An Instant Pot is an electric pressure cooker running preset
+  programs. Here is what every button really does, what it cooks well, and where
+  it falls short.
 category: Small Appliances
 tags:
   - what-is-an-instant-pot
@@ -17,21 +19,59 @@ tags:
   - electric-pressure-cooker
   - multi-cooker
   - small-appliances
-showTableOfContents: true
-source: decap
 faq:
-  - question: "What exactly is an Instant Pot?"
-    answer: "An Instant Pot is a countertop electric pressure cooker with a microprocessor inside. A locking lid and a silicone ring seal the pot, so steam builds pressure and water boils hotter than 212°F. Sensors track the heat and pressure, and the control board holds them steady for the time you set. The same housing also sautés, steams, slow cooks, makes rice and ferments yogurt."
-  - question: "How much faster does an Instant Pot cook?"
-    answer: "It depends on the dish, but tough, slow foods gain the most. A chuck roast that needs three hours in the oven is usually tender in about an hour under pressure. Dried beans cook in under an hour with no overnight soak. Quick foods gain almost nothing, because the pot still needs 10 to 20 minutes to reach pressure before the timer even starts."
-  - question: "Is an Instant Pot the same as an air fryer?"
-    answer: "No. A standard Instant Pot cooks with wet steam under pressure, which is the opposite of the dry, fast-moving hot air an air fryer uses. Nothing crisps under a sealed pressure lid. Only the Duo Crisp, Pro Crisp and Duo Crisp Ultimate models air fry, and they do it with a second lid that you swap on after the pressure cooking is finished."
-  - question: "Why does my Instant Pot say burn?"
-    answer: "The burn message means the sensor at the base read a temperature that is too high for the liquid inside. Usually something is stuck to the bottom of the inner pot, or there is not enough thin liquid to make steam. Cancel the program, release the pressure, open the lid and scrape the base clean. Add about half a cup of water, put thick sauce on top without stirring, and restart."
-  - question: "What is the difference between natural release and quick release?"
-    answer: "Natural release means you walk away and let the pot cool on its own, which takes 10 to 30 minutes and keeps cooking the food the whole time. Quick release means flipping the valve to vent, which dumps the steam in a minute or two and stops the cooking. Use natural release for meat, beans and anything foamy. Use quick release for vegetables, fish and pasta."
-  - question: "Which Instant Pot size should I buy?"
-    answer: "The 6-quart size fits most households and has the widest choice of accessories and recipes. Pick a 3-quart or 4-quart Mini if you cook for one or two people and counter space is tight. Go to 8 quarts only if you batch cook, make big pots of stock, or feed five or more people. Bigger pots also take longer to come up to pressure."
+  - question: What exactly is an Instant Pot?
+    answer: An Instant Pot is a countertop electric pressure cooker with a
+      microprocessor inside. A locking lid and a silicone ring seal the pot, so
+      steam builds pressure and water boils hotter than 212°F. Sensors track the
+      heat and pressure, and the control board holds them steady for the time
+      you set. The same housing also sautés, steams, slow cooks, makes rice and
+      ferments yogurt.
+  - question: How much faster does an Instant Pot cook?
+    answer: It depends on the dish, but tough, slow foods gain the most. A chuck
+      roast that needs three hours in the oven is usually tender in about an
+      hour under pressure. Dried beans cook in under an hour with no overnight
+      soak. Quick foods gain almost nothing, because the pot still needs 10 to
+      20 minutes to reach pressure before the timer even starts.
+  - question: Is an Instant Pot the same as an air fryer?
+    answer: No. A standard Instant Pot cooks with wet steam under pressure, which is
+      the opposite of the dry, fast-moving hot air an air fryer uses. Nothing
+      crisps under a sealed pressure lid. Only the Duo Crisp, Pro Crisp and Duo
+      Crisp Ultimate models air fry, and they do it with a second lid that you
+      swap on after the pressure cooking is finished.
+  - question: Why does my Instant Pot say burn?
+    answer: The burn message means the sensor at the base read a temperature that is
+      too high for the liquid inside. Usually something is stuck to the bottom
+      of the inner pot, or there is not enough thin liquid to make steam. Cancel
+      the program, release the pressure, open the lid and scrape the base clean.
+      Add about half a cup of water, put thick sauce on top without stirring,
+      and restart.
+  - question: What is the difference between natural release and quick release?
+    answer: Natural release means you walk away and let the pot cool on its own,
+      which takes 10 to 30 minutes and keeps cooking the food the whole time.
+      Quick release means flipping the valve to vent, which dumps the steam in a
+      minute or two and stops the cooking. Use natural release for meat, beans
+      and anything foamy. Use quick release for vegetables, fish and pasta.
+  - question: Which Instant Pot size should I buy?
+    answer: The 6-quart size fits most households and has the widest choice of
+      accessories and recipes. Pick a 3-quart or 4-quart Mini if you cook for
+      one or two people and counter space is tight. Go to 8 quarts only if you
+      batch cook, make big pots of stock, or feed five or more people. Bigger
+      pots also take longer to come up to pressure.
+showTableOfContents: true
+author: Boniface Muriuki
+authorBio: >+
+  Boniface founded The Kitchen Pot to help small-space cooks make the most of
+  limited square footage. He writes and edits guides for apartments, studios,
+  and small kitchens, some based on hands-on testing, others carefully
+  researched, and always labeled as one or the other.
+
+coverAlt: A stainless steel electric pressure cooker on a kitchen counter with
+  its lid sealed and the control panel lit
+seo: What is an Instant Pot? A plain-English explainer on how electric pressure
+  cooking works, what each program does, the Duo, Pro, RIO and Crisp model
+  lines, natural versus quick release, the burn message, and what the appliance
+  is bad at.
 ---
 An Instant Pot is not a slow cooker with extra buttons. It is an electric pressure cooker with a computer in the base, and that computer is the whole point.
 
