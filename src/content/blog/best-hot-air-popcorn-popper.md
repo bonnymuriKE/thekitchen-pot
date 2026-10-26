@@ -1,5 +1,7 @@
 ---
-excerpt: "Air-popped popcorn tastes like corn, because there is no oil hiding anything. These six hot air poppers are sorted by wattage, bowl size and how much they waste."
+excerpt: Air-popped popcorn tastes like corn, because there is no oil hiding
+  anything. These six hot air poppers are sorted by wattage, bowl size and how
+  much they waste.
 showTableOfContents: true
 authorId: kitchenpot1
 title: "Best Hot Air Popcorn Popper: 6 Oil-Free Picks for the Money"
@@ -7,32 +9,58 @@ source: wordpress
 slug: best-hot-air-popcorn-popper
 pubDate: 2020-06-07
 modDate: 2026-09-24
-image: ""
+image: /images/Best-Hot-Air-Popcorn-Popper.jpg
+description: Air-popped corn tastes like corn, not oil. Six hot air popcorn
+  poppers are compared on wattage, bowl size, the butter tray and how many
+  kernels they waste.
 category: Cookware Equipment
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A hot air popcorn popper with popped corn falling into a bowl
 tags:
   - best-popcorn-popper
   - hot-air-popcorn-popper-vs-microwave-popcorn-popper
   - popcorn-popper
-authorImageAlt: kitchenpot1
-description: "Air-popped corn tastes like corn, not oil. Six hot air popcorn poppers are compared on wattage, bowl size, the butter tray and how many kernels they waste."
-seo: "A hot air popcorn popper uses heat and a fan instead of oil. Six poppers compared on wattage, bowl size, the butter tray and the kernels they leave behind."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Do hot air popcorn poppers need any oil?"
-    answer: "No, and adding oil to the popping chamber is the one thing every manual warns against. The machine works by blowing hot air fast enough to spin the kernels. Oil slows that spin and can coat the heating element. If you want an oily finish, melt butter in the tray on top or toss the popped corn afterwards."
-  - question: "Why do kernels fly out of my popper before they pop?"
-    answer: "Small kernels are light enough for the airflow to lift them before they reach popping temperature. Two things fix it. Use a larger kernel, such as a yellow mushroom or butterfly type, and fill only to the line marked in the measuring cup. Overfilling makes the airflow push everything up the chute at once."
-  - question: "Can you melt butter in the tray on top?"
-    answer: "Yes, that is what the tray is for, but go easy. Melted butter is mostly water, and water is what makes air-popped corn go soggy within a minute. Clarified butter or ghee has the water removed, so it flavours the corn without softening it."
-  - question: "Is air-popped popcorn actually healthier?"
-    answer: "It has no added fat, so a cup of plain air-popped corn is far lighter than the same cup popped in oil. The catch is that salt does not stick to a dry surface, so most people add butter or oil afterwards anyway. Air popping just lets you control how much goes on."
-  - question: "How long does a hot air popper last?"
-    answer: "These are simple machines with a heating element and a fan, so there is little to break. The usual end comes from the plastic chute discolouring or cracking with heat over several years. Letting the machine cool fully before storing it, and keeping unpopped kernels out of the base, both help."
-  - question: "Can you pop anything other than popcorn in one?"
-    answer: "Some people roast small batches of coffee beans in them, because the fluid-bed airflow is the same principle a commercial air roaster uses. It works, but it shortens the popper's life and fills the kitchen with smoke and chaff. Use a cheap second machine if you want to try it."
+  - question: Do hot air popcorn poppers need any oil?
+    answer: No, and adding oil to the popping chamber is the one thing every manual
+      warns against. The machine works by blowing hot air fast enough to spin
+      the kernels. Oil slows that spin and can coat the heating element. If you
+      want an oily finish, melt butter in the tray on top or toss the popped
+      corn afterwards.
+  - question: Why do kernels fly out of my popper before they pop?
+    answer: Small kernels are light enough for the airflow to lift them before they
+      reach popping temperature. Two things fix it. Use a larger kernel, such as
+      a yellow mushroom or butterfly type, and fill only to the line marked in
+      the measuring cup. Overfilling makes the airflow push everything up the
+      chute at once.
+  - question: Can you melt butter in the tray on top?
+    answer: Yes, that is what the tray is for, but go easy. Melted butter is mostly
+      water, and water is what makes air-popped corn go soggy within a minute.
+      Clarified butter or ghee has the water removed, so it flavours the corn
+      without softening it.
+  - question: Is air-popped popcorn actually healthier?
+    answer: It has no added fat, so a cup of plain air-popped corn is far lighter
+      than the same cup popped in oil. The catch is that salt does not stick to
+      a dry surface, so most people add butter or oil afterwards anyway. Air
+      popping just lets you control how much goes on.
+  - question: How long does a hot air popper last?
+    answer: These are simple machines with a heating element and a fan, so there is
+      little to break. The usual end comes from the plastic chute discolouring
+      or cracking with heat over several years. Letting the machine cool fully
+      before storing it, and keeping unpopped kernels out of the base, both
+      help.
+  - question: Can you pop anything other than popcorn in one?
+    answer: Some people roast small batches of coffee beans in them, because the
+      fluid-bed airflow is the same principle a commercial air roaster uses. It
+      works, but it shortens the popper's life and fills the kitchen with smoke
+      and chaff. Use a cheap second machine if you want to try it.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A hot air popcorn popper with popped corn falling into a bowl
+seo: A hot air popcorn popper uses heat and a fan instead of oil. Six poppers
+  compared on wattage, bowl size, the butter tray and the kernels they leave
+  behind.
 ---
 
 Air-popped popcorn tastes like corn. That is the whole pitch, and it is also the complaint, because there is no oil hiding anything.
