@@ -1,38 +1,65 @@
 ---
-excerpt: "The best lazy Susan organizers for kitchen cabinets, pantries and fridges. Four in-stock picks, why a rectangle fits more than a circle, and how to measure before you order."
+excerpt: The best lazy Susan organizers for kitchen cabinets, pantries and
+  fridges. Four in-stock picks, why a rectangle fits more than a circle, and how
+  to measure before you order.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Lazy Susan Organizers for Your Kitchen (4 Picks and Where They Fit)"
+title: Best Lazy Susan Organizers for Your Kitchen (4 Picks and Where They Fit)
 source: wordpress
 slug: 8-best-lazy-susan-organizers-for-your-kitchen
 pubDate: 2020-08-16
 modDate: 2026-09-30
-image: ""
+image: /images/Best-Lazy-Susan-Organizers.jpg
+description: "The best lazy Susan organizers for kitchen cabinets, pantries and
+  the fridge: four in-stock picks, round vs rectangle, and how to measure before
+  you order."
 category: Kitchenware
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: "A two-tier lazy Susan turntable holding spice jars and oils inside a kitchen cabinet"
 tags:
   - lazy-susan-organizers
   - kitchen-turntable
   - cabinet-organization
   - spice-organizer
   - small-kitchen-storage
-authorImageAlt: kitchenpot1
-description: "The best lazy Susan organizers for kitchen cabinets, pantries and the fridge: four in-stock picks, round vs rectangle, and how to measure before you order."
-seo: "Compare the best lazy Susan organizers for kitchen cabinets, pantries and fridges, including two-tier, bin and rectangle turntables, with measuring and fit tips."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What size lazy Susan do I need for my cabinet?"
-    answer: "Measure the inside depth of the cabinet, then subtract about an inch so the turntable spins without hitting the door or back wall. Standard upper cabinets are often around 12 inches deep, so a 10 to 11 inch turntable usually fits. Also measure the door opening, not just the shelf, because the face frame can be narrower than the inside."
-  - question: "Is a rectangular or round lazy Susan better?"
-    answer: "A rectangular turntable fits more into a standard cabinet. A circle only covers about 79 percent of the square it sits in, so the corners go unused. YouCopia's MagicTrack rectangle turntables solve this with a track that swings the tray forward as it spins. Round turntables are cheaper and simpler, and they work well in corners and on counters."
-  - question: "Where should I put a lazy Susan in the kitchen?"
-    answer: "The best spots are deep or hard-to-reach places: corner cabinets, the back of the fridge, upper cabinet shelves and the pantry. A turntable brings items at the back to the front with one spin. It works best for groups of small items like spices, oils, sauces, vitamins and baking supplies."
-  - question: "Can you use a lazy Susan in the fridge?"
-    answer: "Yes. A turntable on a fridge shelf keeps jars and condiments from getting lost at the back. Choose a plastic turntable that wipes clean, and pick a size that leaves room for the door to close. Put the items you use most on the outer edge, so a quick spin brings them within reach."
-  - question: "What is the difference between a corner cabinet lazy Susan and a turntable?"
-    answer: "A corner cabinet lazy Susan is built into the cabinet. It mounts on a center pole and has one or two large shelves, often kidney or pie shaped, that spin inside a blind corner. A turntable is a loose tray you set on any shelf. Built-in units hold far more but need installing and measuring to the cabinet."
+  - question: What size lazy Susan do I need for my cabinet?
+    answer: Measure the inside depth of the cabinet, then subtract about an inch so
+      the turntable spins without hitting the door or back wall. Standard upper
+      cabinets are often around 12 inches deep, so a 10 to 11 inch turntable
+      usually fits. Also measure the door opening, not just the shelf, because
+      the face frame can be narrower than the inside.
+  - question: Is a rectangular or round lazy Susan better?
+    answer: A rectangular turntable fits more into a standard cabinet. A circle only
+      covers about 79 percent of the square it sits in, so the corners go
+      unused. YouCopia's MagicTrack rectangle turntables solve this with a track
+      that swings the tray forward as it spins. Round turntables are cheaper and
+      simpler, and they work well in corners and on counters.
+  - question: Where should I put a lazy Susan in the kitchen?
+    answer: "The best spots are deep or hard-to-reach places: corner cabinets, the
+      back of the fridge, upper cabinet shelves and the pantry. A turntable
+      brings items at the back to the front with one spin. It works best for
+      groups of small items like spices, oils, sauces, vitamins and baking
+      supplies."
+  - question: Can you use a lazy Susan in the fridge?
+    answer: Yes. A turntable on a fridge shelf keeps jars and condiments from
+      getting lost at the back. Choose a plastic turntable that wipes clean, and
+      pick a size that leaves room for the door to close. Put the items you use
+      most on the outer edge, so a quick spin brings them within reach.
+  - question: What is the difference between a corner cabinet lazy Susan and a turntable?
+    answer: A corner cabinet lazy Susan is built into the cabinet. It mounts on a
+      center pole and has one or two large shelves, often kidney or pie shaped,
+      that spin inside a blind corner. A turntable is a loose tray you set on
+      any shelf. Built-in units hold far more but need installing and measuring
+      to the cabinet.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A two-tier lazy Susan turntable holding spice jars and oils inside a
+  kitchen cabinet
+seo: Compare the best lazy Susan organizers for kitchen cabinets, pantries and
+  fridges, including two-tier, bin and rectangle turntables, with measuring and
+  fit tips.
 ---
 The back of a kitchen cabinet is where spices go to expire. You cannot see them, so you buy them again.
 
