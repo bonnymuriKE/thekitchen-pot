@@ -1,40 +1,76 @@
 ---
-excerpt: "A close look at the Lodge cast iron skillet: real specs, sizes, weights, seasoning and warranty, plus four alternatives if the rough surface or the weight puts you off."
+excerpt: "A close look at the Lodge cast iron skillet: real specs, sizes,
+  weights, seasoning and warranty, plus four alternatives if the rough surface
+  or the weight puts you off."
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Lodge Cast Iron Skillet Review (Specs, Sizes and Who It Suits)"
+title: Lodge Cast Iron Skillet Review (Specs, Sizes and Who It Suits)
 source: wordpress
 slug: lodge-cast-iron-skillet-review
 pubDate: 2021-01-21
 modDate: 2026-10-19
-image: ""
+image: /images/Lodge-cast.jpg
+description: A Lodge cast iron skillet review with real sizes, weights,
+  seasoning steps and warranty detail, plus four alternatives and a clear pick
+  for your first pan.
 category: Cookware Equipment
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A seasoned black Lodge cast iron skillet on a stovetop next to a bottle of cooking oil
 tags:
   - lodge-cast-iron-skillet-review
   - cast-iron-skillet
   - cast-iron-seasoning
   - cookware-reviews
   - small-kitchen-cookware
-authorImageAlt: kitchenpot1
-description: "A Lodge cast iron skillet review with real sizes, weights, seasoning steps and warranty detail, plus four alternatives and a clear pick for your first pan."
-seo: "A detailed Lodge cast iron skillet review covering sizes, weights, seasoning, oven limits and warranty, plus four alternatives and a clear buying recommendation."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Is the Lodge cast iron skillet worth buying?"
-    answer: "For most home cooks, yes. A 10.25-inch Lodge skillet usually costs less than a mid-range nonstick pan, comes pre-seasoned with vegetable oil, works on every heat source including a campfire, and is covered by a limited lifetime warranty against cracks, warps and casting defects. The main trade-offs are weight, a rougher surface than machined pans, and the fact that you have to keep the seasoning up."
-  - question: "What size Lodge skillet should I buy first?"
-    answer: "Start with the 10.25-inch. It weighs about 5.7 pounds, fits two chicken thighs or a four-egg omelet comfortably, and still fits in a standard 30-inch oven alongside a sheet pan. The 12-inch is better for a family of four or a whole spatchcocked chicken, but it is noticeably heavier and covers two burners on some compact ranges."
-  - question: "Do you need to season a new Lodge skillet before using it?"
-    answer: "No. Lodge seasons every pan at the factory with 100% natural vegetable oil, so it is ready to cook on out of the box. You will still want to re-season occasionally. Lodge's own method is to wash and dry the pan, rub a very thin layer of vegetable, canola or melted shortening over every surface, then bake it upside down at 450 to 500 degrees Fahrenheit for one hour."
-  - question: "Can you use soap on a Lodge cast iron skillet?"
-    answer: "Yes. Lodge itself tells you to wash the pan with warm, soapy water as the first step of re-seasoning. Modern dish soap does not strip polymerized seasoning the way old lye-based soaps did. What you should avoid is soaking the pan, running it through the dishwasher, or leaving it wet, because those cause rust and can void the warranty."
-  - question: "How does Lodge compare to Le Creuset and other cast iron brands?"
-    answer: "Lodge is sand-cast with a slightly pebbled surface and costs a fraction of the alternatives. Lancaster and other small American foundries machine the cooking surface smooth and cast the iron thinner, so their pans are lighter and release food sooner, at four to six times the price. Le Creuset coats the iron in enamel, so there is no seasoning at all, but you lose the very high heat searing cast iron is known for."
-  - question: "What temperature can a Lodge skillet handle in the oven?"
-    answer: "Bare seasoned cast iron has no plastic or enamel to fail, so it handles any normal oven, broiler or grill temperature. Lodge's own seasoning instructions call for baking the pan at 450 to 500 degrees Fahrenheit. The practical limit is your seasoning, not the iron: very long sessions above 500 degrees can burn the oil layer off and leave a dull grey pan you need to re-season."
+  - question: Is the Lodge cast iron skillet worth buying?
+    answer: For most home cooks, yes. A 10.25-inch Lodge skillet usually costs less
+      than a mid-range nonstick pan, comes pre-seasoned with vegetable oil,
+      works on every heat source including a campfire, and is covered by a
+      limited lifetime warranty against cracks, warps and casting defects. The
+      main trade-offs are weight, a rougher surface than machined pans, and the
+      fact that you have to keep the seasoning up.
+  - question: What size Lodge skillet should I buy first?
+    answer: Start with the 10.25-inch. It weighs about 5.7 pounds, fits two chicken
+      thighs or a four-egg omelet comfortably, and still fits in a standard
+      30-inch oven alongside a sheet pan. The 12-inch is better for a family of
+      four or a whole spatchcocked chicken, but it is noticeably heavier and
+      covers two burners on some compact ranges.
+  - question: Do you need to season a new Lodge skillet before using it?
+    answer: No. Lodge seasons every pan at the factory with 100% natural vegetable
+      oil, so it is ready to cook on out of the box. You will still want to
+      re-season occasionally. Lodge's own method is to wash and dry the pan, rub
+      a very thin layer of vegetable, canola or melted shortening over every
+      surface, then bake it upside down at 450 to 500 degrees Fahrenheit for one
+      hour.
+  - question: Can you use soap on a Lodge cast iron skillet?
+    answer: Yes. Lodge itself tells you to wash the pan with warm, soapy water as
+      the first step of re-seasoning. Modern dish soap does not strip
+      polymerized seasoning the way old lye-based soaps did. What you should
+      avoid is soaking the pan, running it through the dishwasher, or leaving it
+      wet, because those cause rust and can void the warranty.
+  - question: How does Lodge compare to Le Creuset and other cast iron brands?
+    answer: Lodge is sand-cast with a slightly pebbled surface and costs a fraction
+      of the alternatives. Lancaster and other small American foundries machine
+      the cooking surface smooth and cast the iron thinner, so their pans are
+      lighter and release food sooner, at four to six times the price. Le
+      Creuset coats the iron in enamel, so there is no seasoning at all, but you
+      lose the very high heat searing cast iron is known for.
+  - question: What temperature can a Lodge skillet handle in the oven?
+    answer: "Bare seasoned cast iron has no plastic or enamel to fail, so it handles
+      any normal oven, broiler or grill temperature. Lodge's own seasoning
+      instructions call for baking the pan at 450 to 500 degrees Fahrenheit. The
+      practical limit is your seasoning, not the iron: very long sessions above
+      500 degrees can burn the oil layer off and leave a dull grey pan you need
+      to re-season."
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A seasoned black Lodge cast iron skillet on a stovetop next to a
+  bottle of cooking oil
+seo: A detailed Lodge cast iron skillet review covering sizes, weights,
+  seasoning, oven limits and warranty, plus four alternatives and a clear buying
+  recommendation.
 ---
 A Lodge 10.25-inch skillet costs about as much as two takeout pizzas, and the company has been pouring iron in South Pittsburg, Tennessee since 1896. That combination is why it shows up in more American kitchens than any other single pan.
 
