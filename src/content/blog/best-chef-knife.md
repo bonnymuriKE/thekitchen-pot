@@ -1,15 +1,18 @@
 ---
-title: "Best Chef's Knife (8 Picks for Every Budget, Hand and Cutting Style)"
+title: Best Chef's Knife (8 Picks for Every Budget, Hand and Cutting Style)
+source: decap
 slug: best-chef-knife
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-10-14
 modDate: 2026-10-14
-author: Boniface Muriuki
-image: ""
-coverAlt: "An 8-inch chef's knife resting on a wooden cutting board next to chopped onions and herbs"
-excerpt: "Eight chef's knives that are easy to recommend, from the light Victorinox Fibrox to the MAC MTH-80, Wüsthof Classic and Global G-2, plus plain-English help on German vs Japanese style, blade length, steel and keeping the edge sharp."
-description: "The best chef's knife for most home cooks, from the cheap Victorinox to the MAC MTH-80, Wüsthof and Global, with help on size, steel, grips and sharpening."
-seo: "The best chef's knife for most home cooks, compared: MAC, Victorinox, Wüsthof, Zwilling, Global, Misen, Mercer and Tojiro, with a buying guide on size, steel, handles and sharpening."
+image: /images/WUSTHOF-Classic-8-Inch-Chefs-KnifeBlack8-Inch.jpg
+excerpt: Eight chef's knives that are easy to recommend, from the light
+  Victorinox Fibrox to the MAC MTH-80, Wüsthof Classic and Global G-2, plus
+  plain-English help on German vs Japanese style, blade length, steel and
+  keeping the edge sharp.
+description: The best chef's knife for most home cooks, from the cheap
+  Victorinox to the MAC MTH-80, Wüsthof and Global, with help on size, steel,
+  grips and sharpening.
 category: Cookware Equipment
 tags:
   - best chef's knife
@@ -18,18 +21,49 @@ tags:
   - what size chef knife
   - best chef's knife under 100
 faq:
-  - question: "What size chef's knife should I get?"
-    answer: "An 8-inch blade suits most home cooks. It is long enough to slice a large onion or a cabbage in one stroke, but short enough to control on a normal cutting board. Go down to 6 or 7 inches if your hands are small, your board is small or your counter is tight. Go up to 10 inches only if you often cut big squash, melons or roasts."
-  - question: "Are Japanese chef's knives better than German ones?"
-    answer: "Neither is better across the board. Japanese-style knives use harder steel and thinner blades, so they cut cleanly and stay sharp longer, but the thin edge can chip on bones or frozen food. German-style knives are softer and thicker, so they shrug off rough work and are easy to touch up with a honing steel. Pick the one that matches how you cook."
-  - question: "Is a chef's knife better than a santoku?"
-    answer: "A chef's knife is the more flexible of the two for most people. Its curved belly lets you rock the blade to mince herbs and garlic, and the longer blade handles bigger food. A santoku has a flatter edge and a shorter blade, which suits up-and-down chopping and thin slicing. If you only own one knife, an 8-inch chef's knife covers more jobs."
-  - question: "How often should you sharpen a chef's knife?"
-    answer: "Hone it with a steel every few uses and sharpen it properly when honing stops bringing the edge back. For a typical home cook that means sharpening once or twice a year. Harder Japanese-style steel can go longer between sharpenings. A simple test is to slice a sheet of paper or a ripe tomato. If the blade slips or tears, it is time."
-  - question: "Can a chef's knife go in the dishwasher?"
-    answer: "Some makers, such as Victorinox and Zwilling, say certain knives are dishwasher safe, but hand washing is still kinder to any knife. Hot water, harsh detergent and knocking against other cutlery dull the edge and can damage handles. Wash the blade with warm soapy water right after use, dry it with a towel and put it away."
+  - question: What size chef's knife should I get?
+    answer: An 8-inch blade suits most home cooks. It is long enough to slice a
+      large onion or a cabbage in one stroke, but short enough to control on a
+      normal cutting board. Go down to 6 or 7 inches if your hands are small,
+      your board is small or your counter is tight. Go up to 10 inches only if
+      you often cut big squash, melons or roasts.
+  - question: Are Japanese chef's knives better than German ones?
+    answer: Neither is better across the board. Japanese-style knives use harder
+      steel and thinner blades, so they cut cleanly and stay sharp longer, but
+      the thin edge can chip on bones or frozen food. German-style knives are
+      softer and thicker, so they shrug off rough work and are easy to touch up
+      with a honing steel. Pick the one that matches how you cook.
+  - question: Is a chef's knife better than a santoku?
+    answer: A chef's knife is the more flexible of the two for most people. Its
+      curved belly lets you rock the blade to mince herbs and garlic, and the
+      longer blade handles bigger food. A santoku has a flatter edge and a
+      shorter blade, which suits up-and-down chopping and thin slicing. If you
+      only own one knife, an 8-inch chef's knife covers more jobs.
+  - question: How often should you sharpen a chef's knife?
+    answer: Hone it with a steel every few uses and sharpen it properly when honing
+      stops bringing the edge back. For a typical home cook that means
+      sharpening once or twice a year. Harder Japanese-style steel can go longer
+      between sharpenings. A simple test is to slice a sheet of paper or a ripe
+      tomato. If the blade slips or tears, it is time.
+  - question: Can a chef's knife go in the dishwasher?
+    answer: Some makers, such as Victorinox and Zwilling, say certain knives are
+      dishwasher safe, but hand washing is still kinder to any knife. Hot water,
+      harsh detergent and knocking against other cutlery dull the edge and can
+      damage handles. Wash the blade with warm soapy water right after use, dry
+      it with a towel and put it away.
 showTableOfContents: true
-source: decap
+author: Boniface Muriuki
+authorBio: >+
+  Boniface founded The Kitchen Pot to help small-space cooks make the most of
+  limited square footage. He writes and edits guides for apartments, studios,
+  and small kitchens, some based on hands-on testing, others carefully
+  researched, and always labeled as one or the other.
+
+coverAlt: An 8-inch chef's knife resting on a wooden cutting board next to
+  chopped onions and herbs
+seo: "The best chef's knife for most home cooks, compared: MAC, Victorinox,
+  Wüsthof, Zwilling, Global, Misen, Mercer and Tojiro, with a buying guide on
+  size, steel, handles and sharpening."
 ---
 One good chef's knife does more work than a whole block of average ones. It chops, slices, minces and smashes garlic, and it is the knife you reach for every night.
 
