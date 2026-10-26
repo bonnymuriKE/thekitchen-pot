@@ -1,37 +1,69 @@
 ---
-excerpt: "Hard anodized pans hate two things: dishwasher detergent and harsh scouring. Here's how to clean hard anodized cookware safely, from the nightly wash to burnt food and a faded exterior."
+excerpt: "Hard anodized pans hate two things: dishwasher detergent and harsh
+  scouring. Here's how to clean hard anodized cookware safely, from the nightly
+  wash to burnt food and a faded exterior."
 showTableOfContents: true
 authorId: kitchenpot1
-title: "How to Clean Hard Anodized Cookware (Without Ruining the Finish)"
+title: How to Clean Hard Anodized Cookware (Without Ruining the Finish)
 source: wordpress
 slug: how-to-clean-hard-anodized-cookware
 pubDate: 2020-09-02
 modDate: 2026-09-22
-image: ""
+image: /images/How-to-Clean-Hard-Anodized-Cookware.jpg
+description: "How to clean hard anodized cookware safely: hand wash in mild
+  soap, lift burnt food without scouring, remove sticky spray residue and keep
+  the dark finish."
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A dark gray hard anodized frying pan being washed with a soft sponge and soapy water in a sink
 tags:
   - hard-anodized-cookware
   - cleaning-cookware
   - nonstick-pan
   - calphalon
-authorImageAlt: kitchenpot1
-description: "How to clean hard anodized cookware safely: hand wash in mild soap, lift burnt food without scouring, remove sticky spray residue and keep the dark finish."
-seo: "How to clean hard anodized cookware, inside and out: everyday hand washing, burnt food, sticky cooking spray buildup, white spots, dull exteriors, which cleaners are safe and whether hard anodized pans can go in the dishwasher."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Can you put hard anodized cookware in the dishwasher?"
-    answer: "Only if the manufacturer says that specific line is dishwasher safe. Calphalon Classic Nonstick and Calphalon Commercial Hard Anodized are hand wash only, while lines like Calphalon Unison and Circulon Symmetry are labeled dishwasher safe. Even then, dishwasher detergent is strongly alkaline and can fade the dark exterior over time, so hand washing keeps the pans looking better for longer."
-  - question: "Can I use Bar Keepers Friend on hard anodized cookware?"
-    answer: "It's best not to. America's Test Kitchen says not to use Bar Keepers Friend on anodized aluminum, and Calphalon warns that abrasive cleansers can damage its hard anodized pans and void the warranty. For stubborn residue, America's Test Kitchen points to Cameo or Soft Scrub instead, and Calphalon approves Soft Scrub for the interior of its Unison nonstick line."
-  - question: "Why is my hard anodized pan turning white or faded?"
-    answer: "A pale, chalky or faded look on the outside of a hard anodized pan usually comes from the dishwasher. The alkaline detergent slowly eats into the anodized layer, and once that happens the original dark color doesn't come back. Chalky spots on the inside are more often mineral deposits from hard water, which a soapy wash or a quick wipe with diluted vinegar usually removes."
-  - question: "How do you get burnt food off a hard anodized pan?"
-    answer: "Let the pan cool, then fill it with hot water and a squirt of dish soap and let it soak for 20 to 30 minutes. Simmering plain water in the pan for a few minutes also loosens stuck food. Scrape gently with a wooden or silicone spatula, then wash with a soft sponge. For what's left, rub on a baking soda paste with a non-scratch sponge."
-  - question: "Why is my hard anodized nonstick pan sticky?"
-    answer: "The usual cause is aerosol cooking spray. Calphalon and Circulon both warn against it because the spray leaves a residue that burns onto the surface and is hard to remove, and Circulon says it can void its lifetime warranty. Clean the residue with a soft sponge and a gentle cleanser, then cook with a little oil or butter from now on instead."
+  - question: Can you put hard anodized cookware in the dishwasher?
+    answer: Only if the manufacturer says that specific line is dishwasher safe.
+      Calphalon Classic Nonstick and Calphalon Commercial Hard Anodized are hand
+      wash only, while lines like Calphalon Unison and Circulon Symmetry are
+      labeled dishwasher safe. Even then, dishwasher detergent is strongly
+      alkaline and can fade the dark exterior over time, so hand washing keeps
+      the pans looking better for longer.
+  - question: Can I use Bar Keepers Friend on hard anodized cookware?
+    answer: It's best not to. America's Test Kitchen says not to use Bar Keepers
+      Friend on anodized aluminum, and Calphalon warns that abrasive cleansers
+      can damage its hard anodized pans and void the warranty. For stubborn
+      residue, America's Test Kitchen points to Cameo or Soft Scrub instead, and
+      Calphalon approves Soft Scrub for the interior of its Unison nonstick
+      line.
+  - question: Why is my hard anodized pan turning white or faded?
+    answer: A pale, chalky or faded look on the outside of a hard anodized pan
+      usually comes from the dishwasher. The alkaline detergent slowly eats into
+      the anodized layer, and once that happens the original dark color doesn't
+      come back. Chalky spots on the inside are more often mineral deposits from
+      hard water, which a soapy wash or a quick wipe with diluted vinegar
+      usually removes.
+  - question: How do you get burnt food off a hard anodized pan?
+    answer: Let the pan cool, then fill it with hot water and a squirt of dish soap
+      and let it soak for 20 to 30 minutes. Simmering plain water in the pan for
+      a few minutes also loosens stuck food. Scrape gently with a wooden or
+      silicone spatula, then wash with a soft sponge. For what's left, rub on a
+      baking soda paste with a non-scratch sponge.
+  - question: Why is my hard anodized nonstick pan sticky?
+    answer: The usual cause is aerosol cooking spray. Calphalon and Circulon both
+      warn against it because the spray leaves a residue that burns onto the
+      surface and is hard to remove, and Circulon says it can void its lifetime
+      warranty. Clean the residue with a soft sponge and a gentle cleanser, then
+      cook with a little oil or butter from now on instead.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A dark gray hard anodized frying pan being washed with a soft sponge
+  and soapy water in a sink
+seo: "How to clean hard anodized cookware, inside and out: everyday hand
+  washing, burnt food, sticky cooking spray buildup, white spots, dull
+  exteriors, which cleaners are safe and whether hard anodized pans can go in
+  the dishwasher."
 ---
 Most pans sold as "hard anodized" are not bare anodized metal on the inside. They're hard anodized aluminum on the outside, with a nonstick coating on the cooking surface. That's why the right way to clean one depends less on the words on the box and more on which kind you own.
 
