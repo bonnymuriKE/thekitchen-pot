@@ -1,40 +1,73 @@
 ---
-excerpt: "Seven under-cabinet range hoods worth buying, plus the CFM sizing rule, duct diameter math and sone ratings that decide whether a hood actually clears the air."
+excerpt: Seven under-cabinet range hoods worth buying, plus the CFM sizing rule,
+  duct diameter math and sone ratings that decide whether a hood actually clears
+  the air.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Under-Cabinet Range Hood (CFM Sizing, Ducting and 7 Picks)"
+title: Best Under-Cabinet Range Hood (CFM Sizing, Ducting and 7 Picks)
 source: wordpress
 slug: best-under-cabinet-range-hood
 pubDate: 2020-04-20
 modDate: 2026-09-22
-image: ""
+image: /images/Best-Under-Cabinet-Range-Hood-1.jpg
+description: "How to pick the best under cabinet range hood: CFM sizing by width
+  and BTU, ducted versus ductless, duct size, sone ratings, plus seven picks
+  worth buying."
 category: Range Hoods
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A stainless steel under-cabinet range hood mounted above a gas cooktop in a small kitchen
 tags:
   - under-cabinet-range-hood
   - range-hood
   - kitchen-ventilation
   - ducted-range-hood
   - small-kitchen-appliances
-authorImageAlt: kitchenpot1
-description: "How to pick the best under cabinet range hood: CFM sizing by width and BTU, ducted versus ductless, duct size, sone ratings, plus seven picks worth buying."
-seo: "How to choose the best under cabinet range hood: CFM sizing by cooktop width and BTU, ducted vs ductless, duct diameter, sone ratings, filters and seven picks."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "How many CFM do I need for an under-cabinet range hood?"
-    answer: "Work it out two ways and take the bigger number. For width, allow 100 CFM for every foot of cooktop, so a 30-inch cooktop needs about 250 CFM. For a gas range, divide the total burner BTU by 100, so a 50,000 BTU range wants around 500 CFM. Electric and induction cooktops can use the width rule on its own."
-  - question: "Do ductless range hoods actually work?"
-    answer: "They work for grease and smell, and not for much else. A charcoal filter traps odor molecules and a mesh filter catches grease, so the air coming out is cleaner. Heat, steam and combustion moisture all go straight back into the room. If you cannot run a duct outside, a recirculating hood is still better than nothing, but expect a warm, humid kitchen."
-  - question: "What size duct does a range hood need?"
-    answer: "Match the duct to the size the manufacturer specifies and never reduce it. A 6-inch round duct or a 3.25 by 10-inch rectangular duct suits most hoods up to about 400 CFM. Above that you usually need 7 or 8 inches. Dropping from 6 inches to 4 inches removes more than half the cross-section, so the fan works harder and moves less air."
-  - question: "How high should an under-cabinet range hood be above the stove?"
-    answer: "Broan recommends 24 to 30 inches between the cooktop and the bottom of the hood, and most manufacturers land in the same range. Check your own manual, since gas ranges often need a little more clearance than electric ones. Mount it too high and the plume spreads before the hood catches it. Too low and you risk heat damage and burnt knuckles."
-  - question: "What is a good sone rating for a range hood?"
-    answer: "Anything around 1.5 sones at normal speed is quiet for an under-cabinet hood. Sones are linear, so 3 sones is twice as loud as 1.5. Broan puts 1 sone at the level of a running refrigerator, 3 sones at face-to-face conversation and 5 sones at a busy restaurant. Most budget hoods run 4 to 6 sones on their top speed."
-  - question: "Can a range hood be wider than the cooktop?"
-    answer: "Yes, and it usually should be. Smoke and steam rise in a plume that spreads as it travels, so a hood that matches the cooktop exactly catches less than one that overhangs it. Three inches of extra width on each side is the common recommendation. In a small kitchen that is often impossible, so match the width and mount the hood at the lower end of the clearance range instead."
+  - question: How many CFM do I need for an under-cabinet range hood?
+    answer: Work it out two ways and take the bigger number. For width, allow 100
+      CFM for every foot of cooktop, so a 30-inch cooktop needs about 250 CFM.
+      For a gas range, divide the total burner BTU by 100, so a 50,000 BTU range
+      wants around 500 CFM. Electric and induction cooktops can use the width
+      rule on its own.
+  - question: Do ductless range hoods actually work?
+    answer: They work for grease and smell, and not for much else. A charcoal filter
+      traps odor molecules and a mesh filter catches grease, so the air coming
+      out is cleaner. Heat, steam and combustion moisture all go straight back
+      into the room. If you cannot run a duct outside, a recirculating hood is
+      still better than nothing, but expect a warm, humid kitchen.
+  - question: What size duct does a range hood need?
+    answer: Match the duct to the size the manufacturer specifies and never reduce
+      it. A 6-inch round duct or a 3.25 by 10-inch rectangular duct suits most
+      hoods up to about 400 CFM. Above that you usually need 7 or 8 inches.
+      Dropping from 6 inches to 4 inches removes more than half the
+      cross-section, so the fan works harder and moves less air.
+  - question: How high should an under-cabinet range hood be above the stove?
+    answer: Broan recommends 24 to 30 inches between the cooktop and the bottom of
+      the hood, and most manufacturers land in the same range. Check your own
+      manual, since gas ranges often need a little more clearance than electric
+      ones. Mount it too high and the plume spreads before the hood catches it.
+      Too low and you risk heat damage and burnt knuckles.
+  - question: What is a good sone rating for a range hood?
+    answer: Anything around 1.5 sones at normal speed is quiet for an under-cabinet
+      hood. Sones are linear, so 3 sones is twice as loud as 1.5. Broan puts 1
+      sone at the level of a running refrigerator, 3 sones at face-to-face
+      conversation and 5 sones at a busy restaurant. Most budget hoods run 4 to
+      6 sones on their top speed.
+  - question: Can a range hood be wider than the cooktop?
+    answer: Yes, and it usually should be. Smoke and steam rise in a plume that
+      spreads as it travels, so a hood that matches the cooktop exactly catches
+      less than one that overhangs it. Three inches of extra width on each side
+      is the common recommendation. In a small kitchen that is often impossible,
+      so match the width and mount the hood at the lower end of the clearance
+      range instead.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A stainless steel under-cabinet range hood mounted above a gas cooktop
+  in a small kitchen
+seo: "How to choose the best under cabinet range hood: CFM sizing by cooktop
+  width and BTU, ducted vs ductless, duct diameter, sone ratings, filters and
+  seven picks."
 ---
 A recirculating range hood cannot remove heat or steam. It traps grease and smell in a filter, then pushes the same hot, damp air back into the room.
 
