@@ -1,40 +1,73 @@
 ---
-excerpt: "Six metal spatula sets worth owning, judged on the thing that matters most: how thin and flexible the blade is where it meets the pan. With a comparison table and storage advice for small kitchens."
+excerpt: "Six metal spatula sets worth owning, judged on the thing that matters
+  most: how thin and flexible the blade is where it meets the pan. With a
+  comparison table and storage advice for small kitchens."
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Metal Spatula Set (6 Picks That Slide Under Anything)"
+title: Best Metal Spatula Set (6 Picks That Slide Under Anything)
 source: wordpress
 slug: best-metal-spatula-set
 pubDate: 2020-09-01
 modDate: 2026-09-22
-image: ""
+image: /images/Best-Metal-Spatula-for-Your-Kitchen.jpg
+description: The best metal spatula set has thin, flexible, bevelled blades that
+  slide under food. Compare six real sets, with full specs and honest pros and
+  cons here.
 category: Cookware Equipment
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A set of thin stainless steel spatulas and turners laid out on a wooden kitchen counter
 tags:
   - best-metal-spatula-set
   - fish-spatula
   - metal-turner
   - stainless-steel-utensils
   - small-kitchen-tools
-authorImageAlt: kitchenpot1
-description: "The best metal spatula set has thin, flexible, bevelled blades that slide under food. Compare six real sets, with full specs and honest pros and cons here."
-seo: "A practical guide to the best metal spatula set, covering blade thickness and flex, bevelled leading edges, slotted vs solid turners, why metal wrecks nonstick, and six real sets compared side by side."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What makes a metal spatula better than a plastic one?"
-    answer: "Thickness. A stamped stainless blade can be well under a millimetre at the front edge, while a nylon or silicone turner has to be several times thicker to stay rigid. That thin metal edge slides into the gap between food and pan instead of shoving the food forward. Metal also survives 500°F cast iron and grill grates, which plastic turners do not."
-  - question: "Will a metal spatula ruin a nonstick pan?"
-    answer: "On most nonstick pans, yes, eventually. The coating is softer than stainless steel, so a metal edge leaves scratches that spread and flake. Some hard-anodized lines are rated metal-utensil safe, and Calphalon lists which of its collections qualify. If your pan's care sheet does not say metal safe, treat it as not safe and keep a silicone turner for that pan."
-  - question: "What is a fish spatula and do I need one?"
-    answer: "A fish spatula is a slotted metal turner with a long, tapered, slightly flexible head and a bevelled front edge. It was designed for lifting delicate fillets without breaking them, but it turns out to be the most useful turner in the drawer for eggs, pancakes, smash burgers, cookies and roasted vegetables. If you buy one metal spatula, buy this shape."
+  - question: What makes a metal spatula better than a plastic one?
+    answer: Thickness. A stamped stainless blade can be well under a millimetre at
+      the front edge, while a nylon or silicone turner has to be several times
+      thicker to stay rigid. That thin metal edge slides into the gap between
+      food and pan instead of shoving the food forward. Metal also survives
+      500°F cast iron and grill grates, which plastic turners do not.
+  - question: Will a metal spatula ruin a nonstick pan?
+    answer: On most nonstick pans, yes, eventually. The coating is softer than
+      stainless steel, so a metal edge leaves scratches that spread and flake.
+      Some hard-anodized lines are rated metal-utensil safe, and Calphalon lists
+      which of its collections qualify. If your pan's care sheet does not say
+      metal safe, treat it as not safe and keep a silicone turner for that pan.
+  - question: What is a fish spatula and do I need one?
+    answer: A fish spatula is a slotted metal turner with a long, tapered, slightly
+      flexible head and a bevelled front edge. It was designed for lifting
+      delicate fillets without breaking them, but it turns out to be the most
+      useful turner in the drawer for eggs, pancakes, smash burgers, cookies and
+      roasted vegetables. If you buy one metal spatula, buy this shape.
   - question: "Slotted or solid: which metal spatula should I use?"
-    answer: "Use slotted for anything you want to drain, like fried eggs, bacon, fish or anything that has been shallow-fried. The slots let fat and liquid fall back into the pan and also reduce suction, so the food releases more easily. Use a solid turner for loose or saucy food, for scooping, and for pressing burgers on a griddle."
-  - question: "How do you clean and store a metal spatula set?"
-    answer: "Most stainless turners are dishwasher safe, but wooden handles are not, so hand wash those and dry them right away. For burnt-on residue, soak the blade in hot soapy water for ten minutes rather than scrubbing the bevel with steel wool. Store them by hanging them from the handle hole or standing them in a crock so the thin edges do not get bent in a crowded drawer."
-  - question: "What size metal spatula is best for a small kitchen?"
-    answer: "A head around three by six inches suits an 8 or 10-inch skillet and still fits in a standard drawer. Bigger nine-inch griddle turners are great on a two-burner griddle but awkward in a small pan and hard to store. If you only have room for two, pick one slotted fish spatula and one narrow offset turner."
+    answer: Use slotted for anything you want to drain, like fried eggs, bacon, fish
+      or anything that has been shallow-fried. The slots let fat and liquid fall
+      back into the pan and also reduce suction, so the food releases more
+      easily. Use a solid turner for loose or saucy food, for scooping, and for
+      pressing burgers on a griddle.
+  - question: How do you clean and store a metal spatula set?
+    answer: Most stainless turners are dishwasher safe, but wooden handles are not,
+      so hand wash those and dry them right away. For burnt-on residue, soak the
+      blade in hot soapy water for ten minutes rather than scrubbing the bevel
+      with steel wool. Store them by hanging them from the handle hole or
+      standing them in a crock so the thin edges do not get bent in a crowded
+      drawer.
+  - question: What size metal spatula is best for a small kitchen?
+    answer: A head around three by six inches suits an 8 or 10-inch skillet and
+      still fits in a standard drawer. Bigger nine-inch griddle turners are
+      great on a two-burner griddle but awkward in a small pan and hard to
+      store. If you only have room for two, pick one slotted fish spatula and
+      one narrow offset turner.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A set of thin stainless steel spatulas and turners laid out on a
+  wooden kitchen counter
+seo: A practical guide to the best metal spatula set, covering blade thickness
+  and flex, bevelled leading edges, slotted vs solid turners, why metal wrecks
+  nonstick, and six real sets compared side by side.
 ---
 Most spatula problems are not technique. They are thickness. A blade that is a hair too thick will not get under a pancake, so you push it instead of lifting it.
 
