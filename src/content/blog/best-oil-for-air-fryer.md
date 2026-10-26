@@ -1,38 +1,67 @@
 ---
-excerpt: "Smoke point decides which oil belongs in an air fryer. Here are the real numbers, why extra virgin olive oil is fine, why aerosol spray ruins baskets, and eight picks."
+excerpt: Smoke point decides which oil belongs in an air fryer. Here are the
+  real numbers, why extra virgin olive oil is fine, why aerosol spray ruins
+  baskets, and eight picks.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Oil for Air Fryer (Smoke Points, Sprays and 8 Real Picks)"
+title: Best Oil for Air Fryer (Smoke Points, Sprays and 8 Real Picks)
 source: wordpress
 slug: best-oil-for-air-fryer
 pubDate: 2020-06-27
 modDate: 2026-09-22
-image: ""
+image: /images/best-oil-for-air-fryer.jpg
+description: The best oil for air fryer cooking comes down to smoke point. Here
+  are real figures for eight oils, why aerosol spray ruins baskets, and what to
+  buy first.
 category: Small Appliances
-author: Boniface Muriuki
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
-authorImage: ""
-coverAlt: Bottles of avocado, olive and grapeseed oil beside a refillable oil mister and an open air fryer basket
 tags:
   - best-oil-for-air-fryer
   - air-fryer-tips
   - cooking-oil-smoke-point
   - oil-sprayer
   - air-fryer-basket-care
-authorImageAlt: kitchenpot1
-description: "The best oil for air fryer cooking comes down to smoke point. Here are real figures for eight oils, why aerosol spray ruins baskets, and what to buy first."
-seo: "Best oil for air fryer use, ranked by smoke point: refined avocado, light olive, extra virgin olive, canola, grapeseed, peanut and sunflower oil, plus why aerosol cooking spray damages air fryer baskets and which refillable mister to use instead."
 faq:
-  - question: "What is the best oil to use in an air fryer?"
-    answer: "Refined avocado oil is the safest all-round choice, because reference tables put its smoke point around 520°F, well above any air fryer setting. Refined peanut, refined sunflower and light olive oil are close behind at roughly 450°F. All four are neutral enough not to change the taste of your food, and all four stay stable at the 400°F most air fryers top out at."
-  - question: "Can you use olive oil in an air fryer?"
-    answer: "Yes, both kinds. Light or extra light olive oil is refined and sits around 390°F to 470°F, so it handles any air fryer setting. Extra virgin olive oil runs lower, roughly 350°F to 410°F, but food never reaches the air temperature while it still holds moisture. For vegetables, chicken and potatoes at 375°F or below, extra virgin works and tastes better."
-  - question: "Can you use Pam or other cooking spray in an air fryer?"
-    answer: "No, not the aerosol kind. Instant's air fryer manual tells owners not to use pressurized aerosol oil sprays because they contain chemicals that damage the non-stick finish. The emulsifier lecithin is the main problem, since it degrades at low temperatures and leaves a sticky brown film. Use a refillable pump mister filled with plain oil instead."
-  - question: "How much oil do you put in an air fryer?"
-    answer: "About one to two teaspoons for a full basket, tossed through the food rather than poured in. Never pour oil into the drawer itself. Instant's manual warns that excess oil can cause a fire. One teaspoon is roughly 40 calories and 4.5 grams of fat, which is a fraction of what deep frying adds."
-  - question: "Do you have to use oil in an air fryer at all?"
-    answer: "Not always. Frozen fries, breaded nuggets and bacon already carry enough fat to crisp on their own. Lean or dry foods are different. Chicken breast, tofu, chickpeas and fresh-cut potatoes need a light coating, or they dry out and stick to the basket. A thin film of oil also carries seasoning so it clings instead of blowing around."
+  - question: What is the best oil to use in an air fryer?
+    answer: Refined avocado oil is the safest all-round choice, because reference
+      tables put its smoke point around 520°F, well above any air fryer setting.
+      Refined peanut, refined sunflower and light olive oil are close behind at
+      roughly 450°F. All four are neutral enough not to change the taste of your
+      food, and all four stay stable at the 400°F most air fryers top out at.
+  - question: Can you use olive oil in an air fryer?
+    answer: Yes, both kinds. Light or extra light olive oil is refined and sits
+      around 390°F to 470°F, so it handles any air fryer setting. Extra virgin
+      olive oil runs lower, roughly 350°F to 410°F, but food never reaches the
+      air temperature while it still holds moisture. For vegetables, chicken and
+      potatoes at 375°F or below, extra virgin works and tastes better.
+  - question: Can you use Pam or other cooking spray in an air fryer?
+    answer: No, not the aerosol kind. Instant's air fryer manual tells owners not to
+      use pressurized aerosol oil sprays because they contain chemicals that
+      damage the non-stick finish. The emulsifier lecithin is the main problem,
+      since it degrades at low temperatures and leaves a sticky brown film. Use
+      a refillable pump mister filled with plain oil instead.
+  - question: How much oil do you put in an air fryer?
+    answer: About one to two teaspoons for a full basket, tossed through the food
+      rather than poured in. Never pour oil into the drawer itself. Instant's
+      manual warns that excess oil can cause a fire. One teaspoon is roughly 40
+      calories and 4.5 grams of fat, which is a fraction of what deep frying
+      adds.
+  - question: Do you have to use oil in an air fryer at all?
+    answer: Not always. Frozen fries, breaded nuggets and bacon already carry enough
+      fat to crisp on their own. Lean or dry foods are different. Chicken
+      breast, tofu, chickpeas and fresh-cut potatoes need a light coating, or
+      they dry out and stick to the basket. A thin film of oil also carries
+      seasoning so it clings instead of blowing around.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: Bottles of avocado, olive and grapeseed oil beside a refillable oil
+  mister and an open air fryer basket
+seo: "Best oil for air fryer use, ranked by smoke point: refined avocado, light
+  olive, extra virgin olive, canola, grapeseed, peanut and sunflower oil, plus
+  why aerosol cooking spray damages air fryer baskets and which refillable
+  mister to use instead."
 ---
 Air fryers do not fry. They blow hot air fast, and oil is there to carry heat and flavor onto the surface of your food.
 
