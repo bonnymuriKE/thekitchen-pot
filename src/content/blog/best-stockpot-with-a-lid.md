@@ -1,40 +1,73 @@
 ---
-excerpt: "Six stockpots with lids, from a 6-quart everyday pot to a 15.5-quart canner, with real specs, a sizing chart and the difference between clad and disc bases."
+excerpt: Six stockpots with lids, from a 6-quart everyday pot to a 15.5-quart
+  canner, with real specs, a sizing chart and the difference between clad and
+  disc bases.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Stockpot With a Lid (6 Picks From 6 to 15.5 Quarts)"
+title: Best Stockpot With a Lid (6 Picks From 6 to 15.5 Quarts)
 source: wordpress
 slug: best-stockpot-with-a-lid
 pubDate: 2026-02-03
 modDate: 2026-09-22
-image: ""
+image: /images/Best-stockpot-with-a-lid.jpg
+description: "How to choose the best stockpot with a lid: six sizes from 6 to
+  15.5 quarts compared, with verified specs, base construction notes and a
+  canning checklist."
 category: Pans And Pots
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: "A tall stainless steel stockpot with a fitted lid simmering on a home cooktop"
 tags:
   - best-stockpot-with-a-lid
   - stockpot-sizes
   - stainless-steel-cookware
   - soup-pot
   - canning
-authorImageAlt: kitchenpot1
-description: "How to choose the best stockpot with a lid: six sizes from 6 to 15.5 quarts compared, with verified specs, base construction notes and a canning checklist."
-seo: "Stockpots are the one piece of cookware most people buy in the wrong size. This guide compares six stockpots with lids from 6 to 15.5 quarts, explains disc bases versus fully clad walls, and covers what you need for pasta, stock and water bath canning."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What size stockpot should I buy?"
-    answer: "An 8-quart pot is the most useful single size for a household of two to four. It boils a pound of pasta with room to spare, holds a chicken for stock, and still fits most cabinets. Go to 12 quarts only if you regularly cook for a crowd or make big batches to freeze, and drop to 6 quarts if you cook for one or two."
-  - question: "Can you use a stockpot for canning?"
-    answer: "Only for water bath canning, and only if the pot is deep enough. Guidance from the National Center for Home Food Preservation is that jars must sit on a rack and be covered by one to two inches of water, with headroom above for a rolling boil. A purpose-built canner has the rack and the depth built in. Pressure canning needs a pressure canner, never a stockpot."
-  - question: "Is a fully clad stockpot worth the extra money?"
-    answer: "Less than it is for a frying pan. Stockpots mostly heat liquid, and liquid circulates heat on its own, so a thick disc base handles boiling and simmering well. Fully clad walls help when you brown meat in the bottom of the pot first, or when you reduce a stock hard at the end. If you mostly boil, a good disc-bottom pot saves you money."
-  - question: "How many quarts do I need to boil a pound of pasta?"
-    answer: "A pound of dry pasta wants about 4 quarts of water, so a 6-quart pot is the practical minimum and an 8-quart pot gives you room to stop a boil-over. Bigger is not always better here: a 12-quart pot takes noticeably longer to bring to a boil and uses more energy for the same amount of pasta."
-  - question: "What should the lid on a stockpot be made of?"
-    answer: "A stainless lid can go into the oven with the pot and will not crack if you set it down hot. A tempered glass lid lets you watch a simmer without losing steam, but it is usually rated to a lower temperature than the pot and can break. For stock and long braises, stainless is the more practical choice."
-  - question: "Can a stockpot go in the dishwasher?"
-    answer: "Most all-stainless stockpots are dishwasher safe, including the Tramontina, Cuisinart and Misen pots here. Enamel-on-steel canners are usually fine too, though hand washing protects the enamel from chips. The real limit is size. A 12-quart pot rarely fits in a home dishwasher rack, so plan on washing it in the sink either way."
+  - question: What size stockpot should I buy?
+    answer: An 8-quart pot is the most useful single size for a household of two to
+      four. It boils a pound of pasta with room to spare, holds a chicken for
+      stock, and still fits most cabinets. Go to 12 quarts only if you regularly
+      cook for a crowd or make big batches to freeze, and drop to 6 quarts if
+      you cook for one or two.
+  - question: Can you use a stockpot for canning?
+    answer: Only for water bath canning, and only if the pot is deep enough.
+      Guidance from the National Center for Home Food Preservation is that jars
+      must sit on a rack and be covered by one to two inches of water, with
+      headroom above for a rolling boil. A purpose-built canner has the rack and
+      the depth built in. Pressure canning needs a pressure canner, never a
+      stockpot.
+  - question: Is a fully clad stockpot worth the extra money?
+    answer: Less than it is for a frying pan. Stockpots mostly heat liquid, and
+      liquid circulates heat on its own, so a thick disc base handles boiling
+      and simmering well. Fully clad walls help when you brown meat in the
+      bottom of the pot first, or when you reduce a stock hard at the end. If
+      you mostly boil, a good disc-bottom pot saves you money.
+  - question: How many quarts do I need to boil a pound of pasta?
+    answer: "A pound of dry pasta wants about 4 quarts of water, so a 6-quart pot is
+      the practical minimum and an 8-quart pot gives you room to stop a
+      boil-over. Bigger is not always better here: a 12-quart pot takes
+      noticeably longer to bring to a boil and uses more energy for the same
+      amount of pasta."
+  - question: What should the lid on a stockpot be made of?
+    answer: A stainless lid can go into the oven with the pot and will not crack if
+      you set it down hot. A tempered glass lid lets you watch a simmer without
+      losing steam, but it is usually rated to a lower temperature than the pot
+      and can break. For stock and long braises, stainless is the more practical
+      choice.
+  - question: Can a stockpot go in the dishwasher?
+    answer: Most all-stainless stockpots are dishwasher safe, including the
+      Tramontina, Cuisinart and Misen pots here. Enamel-on-steel canners are
+      usually fine too, though hand washing protects the enamel from chips. The
+      real limit is size. A 12-quart pot rarely fits in a home dishwasher rack,
+      so plan on washing it in the sink either way.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A tall stainless steel stockpot with a fitted lid simmering on a home cooktop
+seo: Stockpots are the one piece of cookware most people buy in the wrong size.
+  This guide compares six stockpots with lids from 6 to 15.5 quarts, explains
+  disc bases versus fully clad walls, and covers what you need for pasta, stock
+  and water bath canning.
 ---
 > **Quick answer:** buy an 8-quart stockpot with a stainless lid if you only want one. It boils a pound of pasta, holds a whole chicken for stock, fits a standard cabinet and still comes to a boil in a reasonable time. Go bigger only if you really do cook in bulk.
 
