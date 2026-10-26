@@ -1,40 +1,72 @@
 ---
-excerpt: "Six air fryers under $100, compared on usable basket space, wattage and temperature range, with plain-English explanations of how air frying works and who each model suits."
+excerpt: Six air fryers under $100, compared on usable basket space, wattage and
+  temperature range, with plain-English explanations of how air frying works and
+  who each model suits.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Air Fryers Under $100 (6 Picks That Actually Crisp)"
+title: Best Air Fryers Under $100 (6 Picks That Actually Crisp)
 source: wordpress
 slug: best-air-fryers-under-100
 pubDate: 2020-04-08
 modDate: 2026-09-22
-image: ""
+image: /images/best-air-fryers-under-100.jpg
+description: Compare the best air fryers under $100 on usable basket space,
+  wattage and heat range, with clear pros and cons and a sizing guide that saves
+  you a return.
 category: Cookware Equipment
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A compact basket air fryer on a small kitchen counter with crisp food in the basket
 tags:
   - best-air-fryers-under-100
   - air-fryers
   - budget-appliances
   - small-kitchen-appliances
   - countertop-cooking
-authorImageAlt: kitchenpot1
-description: "Compare the best air fryers under $100 on usable basket space, wattage and heat range, with clear pros and cons and a sizing guide that saves you a return."
-seo: "Looking for the best air fryers under $100? We compare six current models on usable basket space, wattage, temperature range and cleanup, with a full sizing guide."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Is an air fryer under $100 worth buying?"
-    answer: "Yes, for most households. An air fryer is a small convection oven, and the heating element and fan in a $90 model work on the same principle as the ones in a $250 model. What you give up under $100 is basket size, preset buttons, a viewing window and app control. Crisping ability barely changes."
-  - question: "What size air fryer do I need for two people?"
-    answer: "A 4-quart basket is the sweet spot for one or two people. It holds about two pounds of fries or two chicken breasts in a single layer, which is what matters, since air-fried food only browns properly when it is not stacked. Go to 5.5 to 8 quarts only if you regularly cook for four or more."
-  - question: "Do air fryers need to be preheated?"
-    answer: "Most do not require it, but a two to three minute preheat gives better browning because the basket is already hot when food touches it. America's Test Kitchen found preheating helped on its winning model. If your air fryer has no preheat button, just run it empty at your cooking temperature for a couple of minutes."
-  - question: "How much oil do you use in an air fryer?"
-    answer: "One to two teaspoons for a full basket is usually enough, tossed with the food rather than poured into the basket. Oil helps heat transfer and browning, so completely dry food often comes out pale and leathery. Use an oil with a smoke point above your cooking temperature, and skip aerosol sprays, which can damage nonstick coatings."
-  - question: "Can you put aluminum foil or parchment in an air fryer?"
-    answer: "You can, but only under food and never covering the whole basket floor. The fan needs air to move up through the perforated crisper plate. Loose parchment can also fly into the heating element and burn. If you want easier cleanup, use pre-cut perforated liners and weigh them down with the food."
-  - question: "Why does my air fryer food come out dry instead of crispy?"
-    answer: "Usually overcrowding or too little fat. Food stacked two layers deep steams in its own moisture instead of browning, so cook in one layer and shake the basket halfway. A light coat of oil also helps, since browning reactions need both heat and some fat. Dropping the temperature 25 degrees and adding time fixes food that dries out before it colors."
+  - question: Is an air fryer under $100 worth buying?
+    answer: Yes, for most households. An air fryer is a small convection oven, and
+      the heating element and fan in a $90 model work on the same principle as
+      the ones in a $250 model. What you give up under $100 is basket size,
+      preset buttons, a viewing window and app control. Crisping ability barely
+      changes.
+  - question: What size air fryer do I need for two people?
+    answer: A 4-quart basket is the sweet spot for one or two people. It holds about
+      two pounds of fries or two chicken breasts in a single layer, which is
+      what matters, since air-fried food only browns properly when it is not
+      stacked. Go to 5.5 to 8 quarts only if you regularly cook for four or
+      more.
+  - question: Do air fryers need to be preheated?
+    answer: Most do not require it, but a two to three minute preheat gives better
+      browning because the basket is already hot when food touches it. America's
+      Test Kitchen found preheating helped on its winning model. If your air
+      fryer has no preheat button, just run it empty at your cooking temperature
+      for a couple of minutes.
+  - question: How much oil do you use in an air fryer?
+    answer: One to two teaspoons for a full basket is usually enough, tossed with
+      the food rather than poured into the basket. Oil helps heat transfer and
+      browning, so completely dry food often comes out pale and leathery. Use an
+      oil with a smoke point above your cooking temperature, and skip aerosol
+      sprays, which can damage nonstick coatings.
+  - question: Can you put aluminum foil or parchment in an air fryer?
+    answer: You can, but only under food and never covering the whole basket floor.
+      The fan needs air to move up through the perforated crisper plate. Loose
+      parchment can also fly into the heating element and burn. If you want
+      easier cleanup, use pre-cut perforated liners and weigh them down with the
+      food.
+  - question: Why does my air fryer food come out dry instead of crispy?
+    answer: Usually overcrowding or too little fat. Food stacked two layers deep
+      steams in its own moisture instead of browning, so cook in one layer and
+      shake the basket halfway. A light coat of oil also helps, since browning
+      reactions need both heat and some fat. Dropping the temperature 25 degrees
+      and adding time fixes food that dries out before it colors.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A compact basket air fryer on a small kitchen counter with crisp food
+  in the basket
+seo: Looking for the best air fryers under $100? We compare six current models
+  on usable basket space, wattage, temperature range and cleanup, with a full
+  sizing guide.
 ---
 An air fryer is a small convection oven with an unusually aggressive fan. That one fact explains why a $90 model crisps about as well as a $250 one.
 
