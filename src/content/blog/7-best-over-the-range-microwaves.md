@@ -1,6 +1,6 @@
 ---
-excerpt: An over-the-range microwave does two jobs, not one. It heats food and it
-  vents your cooktop. Here are 7 real models, what their CFM and cubic-foot
+excerpt: An over-the-range microwave does two jobs, not one. It heats food and
+  it vents your cooktop. Here are 7 real models, what their CFM and cubic-foot
   numbers actually mean, and the 30-inch rule every installer follows.
 showTableOfContents: true
 authorId: kitchenpot1
@@ -9,54 +9,55 @@ source: Wordpress
 slug: 7-best-over-the-range-microwaves
 pubDate: 2020-07-15
 modDate: 2026-09-30
-image: ""
+image: /images/Over-the-range-microwaves.png
+description: The 7 best over-the-range microwaves for 2026, ranked by real CFM
+  venting, cubic-foot capacity, sensor cooking, and the required 30-inch install
+  clearance.
 category: Small Appliances
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: 7 Best Over-the-Range Microwaves
 tags:
   - best over the range microwave
   - over the range microwave CFM
   - over the range microwave installation height
-authorImageAlt: kitchenpot1
-description: The 7 best over-the-range microwaves for 2026, ranked by real CFM
-  venting, cubic-foot capacity, sensor cooking, and the required 30-inch install
-  clearance.
-seo: The 7 best over-the-range microwaves for 2026, with real CFM and cubic-foot
-  specs, the 30-inch install rule, and how to pick one for your kitchen.
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What CFM is good for an over-the-range microwave?"
-    answer: Look for at least 300 CFM if you cook often, and 400 CFM or more if
-      you sear or fry regularly. The Home Ventilating Institute recommends 250
-      CFM or higher for a standard 30-inch cooktop. A microwave's vent fan is
-      weaker than a dedicated range hood, so heavy cooks may still want a
-      separate hood instead.
-  - question: "How high should an over-the-range microwave be mounted?"
-    answer: Most manufacturers require 30 inches between the cooktop surface and
-      the bottom of the microwave. That height keeps steam and flare-ups clear
-      of the unit while still letting most people reach the controls and turntable
+  - question: What CFM is good for an over-the-range microwave?
+    answer: Look for at least 300 CFM if you cook often, and 400 CFM or more if you
+      sear or fry regularly. The Home Ventilating Institute recommends 250 CFM
+      or higher for a standard 30-inch cooktop. A microwave's vent fan is weaker
+      than a dedicated range hood, so heavy cooks may still want a separate hood
+      instead.
+  - question: How high should an over-the-range microwave be mounted?
+    answer: Most manufacturers require 30 inches between the cooktop surface and the
+      bottom of the microwave. That height keeps steam and flare-ups clear of
+      the unit while still letting most people reach the controls and turntable
       without a step stool.
-  - question: "Does an over-the-range microwave replace a range hood?"
+  - question: Does an over-the-range microwave replace a range hood?
     answer: It can, but not as well. The built-in fan handles light, everyday
       cooking fine. Heavy frying, wok cooking, or a gas range with high BTU
       burners usually needs the stronger, more consistent draw of a dedicated
       range hood instead.
-  - question: "What size over-the-range microwave fits a 30-inch cabinet?"
+  - question: What size over-the-range microwave fits a 30-inch cabinet?
     answer: Almost every over-the-range microwave is built to fit a standard
       30-inch-wide cabinet opening, since that matches the common range and
       cooktop width. Always confirm your model's exact width and depth against
       your cabinet before you order one.
-  - question: "Is ducted or recirculating venting better for an over-the-range microwave?"
+  - question: Is ducted or recirculating venting better for an over-the-range microwave?
     answer: Ducted is better. It pushes smoke, grease, and moisture outside the
       house. Recirculating mode filters the air and blows it back into the
       kitchen, which is easier to install but leaves more odor and moisture
       behind, especially over gas burners.
-  - question: "How many cubic feet do I need in an over-the-range microwave?"
-    answer: 1.5 to 1.7 cubic feet fits most dinner plates and single servings.
-      Go with 1.8 to 2.1 cubic feet if you regularly reheat a 9-by-13 casserole
-      dish or a large mixing bowl, since the smaller cavities can be too
-      shallow for tall or wide dishes.
+  - question: How many cubic feet do I need in an over-the-range microwave?
+    answer: 1.5 to 1.7 cubic feet fits most dinner plates and single servings. Go
+      with 1.8 to 2.1 cubic feet if you regularly reheat a 9-by-13 casserole
+      dish or a large mixing bowl, since the smaller cavities can be too shallow
+      for tall or wide dishes.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: 7 Best Over-the-Range Microwaves
+seo: The 7 best over-the-range microwaves for 2026, with real CFM and cubic-foot
+  specs, the 30-inch install rule, and how to pick one for your kitchen.
 ---
 An over-the-range microwave has two jobs. It heats your food, and it vents your cooktop. Most buyers only shop for the first one.
 
