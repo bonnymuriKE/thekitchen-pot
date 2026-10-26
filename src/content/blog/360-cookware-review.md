@@ -1,5 +1,7 @@
 ---
-excerpt: "Is 360 Cookware worth the money? What vapor cooking really does, how the USA-made tri-ply pans are built, what they cost, and which pieces to buy first."
+excerpt: Is 360 Cookware worth the money? What vapor cooking really does, how
+  the USA-made tri-ply pans are built, what they cost, and which pieces to buy
+  first.
 showTableOfContents: true
 authorId: kitchenpot1
 title: "360 Cookware Review: Is Vapor Cooking Worth the Price?"
@@ -7,32 +9,58 @@ source: wordpress
 slug: 360-cookware-review
 pubDate: 2021-06-09
 modDate: 2026-09-30
-image: ""
+image: /images/360-waterless-Cookware.jpg
+description: Our 360 Cookware review explains what vapor cooking does, the T-316
+  tri-ply build, weight, prices and warranty, and which USA-made pieces are
+  worth buying.
 category: Pans And Pots
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: "Polished 360 stainless steel saute pan with its domed lid on a stovetop"
 tags:
   - 360-cookware-review
   - vapor-cooking
   - waterless-cookware
   - stainless-steel-cookware
   - made-in-usa-cookware
-authorImageAlt: kitchenpot1
-description: "Our 360 Cookware review explains what vapor cooking does, the T-316 tri-ply build, weight, prices and warranty, and which USA-made pieces are worth buying."
-seo: "An honest 360 Cookware review: what vapor cooking does and doesn't do, the tri-ply stainless build, weight, handles, oven and induction use, warranty, current prices, and the five 360 pieces worth buying."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Is 360 Cookware worth the money?"
-    answer: "It can be, if you want thick, USA-made stainless steel and you like cooking low and slow with the lid on. The pans are heavy, well finished and covered by a lifetime warranty against defects. But they cost more than most tri-ply brands. If you mainly sear and want fast heat, a cheaper 5-ply pan like Misen does that job for less money."
-  - question: "What is 360 vapor cooking?"
-    answer: "Vapor cooking is 360's name for covered, low-heat cooking with little or no added water. You heat the pan on medium with the lid on until vapor escapes. When the lid spins freely on a thin film of water, you turn the heat to low and leave the lid in place. The food cooks in its own moisture instead of in a pot of water."
-  - question: "Is 360 Cookware T-304 or T-316 stainless steel?"
-    answer: "360's current product and materials pages list a T-316 surgical-grade stainless steel cooking surface, described as 18/10. An older FAQ on the same site still mentions T304. Both are food-safe, non-reactive steels. The T-316 grade adds molybdenum, which helps it resist pitting from salt. The outer layer is T-400 series steel, which makes the pans work on induction."
-  - question: "Is 360 Cookware dishwasher safe?"
-    answer: "360's FAQ says its items are dishwasher safe, but the product pages recommend hand washing. The warranty also excludes damage from dishwasher detergents that contain surfactants, hydroxides or abrasives. So the safe choice is to wash by hand with warm soapy water and dry the pan right away. That keeps the finish bright and the warranty clean."
-  - question: "Where is 360 Cookware made?"
-    answer: "360 Cookware is made in West Bend, Wisconsin. The company says its pans are handcrafted in the USA, and its site header reads 'Made in the USA with global materials.' That means the pans are formed and finished in Wisconsin, but some raw materials may come from elsewhere. Customer service runs from Mount Dora, Florida."
+  - question: Is 360 Cookware worth the money?
+    answer: It can be, if you want thick, USA-made stainless steel and you like
+      cooking low and slow with the lid on. The pans are heavy, well finished
+      and covered by a lifetime warranty against defects. But they cost more
+      than most tri-ply brands. If you mainly sear and want fast heat, a cheaper
+      5-ply pan like Misen does that job for less money.
+  - question: What is 360 vapor cooking?
+    answer: Vapor cooking is 360's name for covered, low-heat cooking with little or
+      no added water. You heat the pan on medium with the lid on until vapor
+      escapes. When the lid spins freely on a thin film of water, you turn the
+      heat to low and leave the lid in place. The food cooks in its own moisture
+      instead of in a pot of water.
+  - question: Is 360 Cookware T-304 or T-316 stainless steel?
+    answer: 360's current product and materials pages list a T-316 surgical-grade
+      stainless steel cooking surface, described as 18/10. An older FAQ on the
+      same site still mentions T304. Both are food-safe, non-reactive steels.
+      The T-316 grade adds molybdenum, which helps it resist pitting from salt.
+      The outer layer is T-400 series steel, which makes the pans work on
+      induction.
+  - question: Is 360 Cookware dishwasher safe?
+    answer: 360's FAQ says its items are dishwasher safe, but the product pages
+      recommend hand washing. The warranty also excludes damage from dishwasher
+      detergents that contain surfactants, hydroxides or abrasives. So the safe
+      choice is to wash by hand with warm soapy water and dry the pan right
+      away. That keeps the finish bright and the warranty clean.
+  - question: Where is 360 Cookware made?
+    answer: 360 Cookware is made in West Bend, Wisconsin. The company says its pans
+      are handcrafted in the USA, and its site header reads 'Made in the USA
+      with global materials.' That means the pans are formed and finished in
+      Wisconsin, but some raw materials may come from elsewhere. Customer
+      service runs from Mount Dora, Florida.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: Polished 360 stainless steel saute pan with its domed lid on a stovetop
+seo: "An honest 360 Cookware review: what vapor cooking does and doesn't do, the
+  tri-ply stainless build, weight, handles, oven and induction use, warranty,
+  current prices, and the five 360 pieces worth buying."
 ---
 360 Cookware costs about as much as All-Clad, and it's made in a small town in Wisconsin. The pitch is "vapor cooking": low heat, a tight lid and almost no water or oil.
 
