@@ -1,11 +1,11 @@
 ---
 title: Best Bakeware for Small Kitchens (Space-Saving Picks That Still Work)
+source: decap
 slug: best-bakeware-for-small-kitchens
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-21
 modDate: 2026-09-21
-author: Boniface Muriuki
-image: ""
+image: /images/Rachael-Ray-Nonstick-Bakeware.jpg
 excerpt: You don't need a full-size baking cabinet to bake well. If your kitchen
   is tiny, the trick is choosing bakeware that's sized right, stacks well, and
   pulls double duty. Here's exactly what to buy, and what to skip, when every
@@ -18,31 +18,35 @@ tags:
   - space-saving bakeware
   - compact baking pans
 faq:
-  - question: "What is the single most useful piece of bakeware for a small kitchen?"
+  - question: What is the single most useful piece of bakeware for a small kitchen?
     answer: A quarter sheet pan. It fits in almost any oven, works for cookies,
       roasting small batches of vegetables, and reheating leftovers, and it
       stores flat in places a full sheet pan won't fit.
-  - question: "Do I need a full bakeware set if I have a small kitchen?"
-    answer: No. Most small-kitchen bakers do better buying 5 to 7 individual
-      pieces that nest or stack well, rather than a boxed set that includes
-      pans you'll rarely use and can't store easily.
-  - question: "Is glass or metal bakeware better for a small kitchen?"
-    answer: Metal is usually the better pick for tight storage, since it's
-      lighter, thinner, and less likely to chip or crack when pans are stacked
-      tightly together. Glass is fine for one or two pieces, like a baking dish
-      you also use for reheating.
-  - question: "Can I use one pan for multiple types of baking?"
+  - question: Do I need a full bakeware set if I have a small kitchen?
+    answer: No. Most small-kitchen bakers do better buying 5 to 7 individual pieces
+      that nest or stack well, rather than a boxed set that includes pans you'll
+      rarely use and can't store easily.
+  - question: Is glass or metal bakeware better for a small kitchen?
+    answer: Metal is usually the better pick for tight storage, since it's lighter,
+      thinner, and less likely to chip or crack when pans are stacked tightly
+      together. Glass is fine for one or two pieces, like a baking dish you also
+      use for reheating.
+  - question: Can I use one pan for multiple types of baking?
     answer: Yes. A light-colored metal quarter sheet pan can handle cookies,
       sheet-pan dinners, roasting, and even reheating pizza, which is exactly
       why it's worth prioritizing over more specialized pans.
-  - question: "What bakeware should I skip if I have limited storage?"
-    answer: Skip bulky specialty pans you'll use once or twice a year, like a
-      full bundt pan, a springform pan, or a novelty-shaped cake pan, unless
-      you bake that specific thing often. Rent or borrow for one-off projects
-      instead.
+  - question: What bakeware should I skip if I have limited storage?
+    answer: Skip bulky specialty pans you'll use once or twice a year, like a full
+      bundt pan, a springform pan, or a novelty-shaped cake pan, unless you bake
+      that specific thing often. Rent or borrow for one-off projects instead.
 smallSpacePillar: small-space-bakeware
 showTableOfContents: true
-source: decap
+author: Boniface Muriuki
+authorBio: >+
+  Boniface founded The Kitchen Pot to help small-space cooks make the most of
+  limited square footage. He writes and edits guides for apartments, studios,
+  and small kitchens, some based on hands-on testing, others carefully
+  researched, and always labeled as one or the other.
 ---
 Baking in a small kitchen can feel like a contradiction. Baking usually means pans, sheets, dishes, cooling racks, and measuring tools, and a small kitchen usually means one shallow drawer and half a cabinet shelf to hold all of it. It's easy to assume you simply can't bake much until you have more space.
 
