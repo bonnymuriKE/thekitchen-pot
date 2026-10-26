@@ -1,38 +1,68 @@
 ---
-excerpt: "Smoke at startup, a sticky film that soap won't shift, crumbs welded into the crisper plate. Here's how to clean an air fryer basket for every kind of mess without wrecking the nonstick coating."
+excerpt: Smoke at startup, a sticky film that soap won't shift, crumbs welded
+  into the crisper plate. Here's how to clean an air fryer basket for every kind
+  of mess without wrecking the nonstick coating.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "How to Clean an Air Fryer Basket (Grease, Sticky Film and Burnt Bits)"
+title: How to Clean an Air Fryer Basket (Grease, Sticky Film and Burnt Bits)
 source: wordpress
 slug: how-to-clean-an-air-fryer-basket
 pubDate: 2020-06-02
 modDate: 2026-09-22
-image: ""
+image: /images/cleaning-an-air-fryer-basket-scaled.jpg
+description: How to clean an air fryer basket and crisper plate, from the daily
+  wash to baked-on grease and sticky spray films, without scratching its
+  nonstick coating.
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: An air fryer basket and crisper plate soaking in a sink of warm soapy water next to a soft brush and baking soda
 tags:
   - how-to-clean-an-air-fryer-basket
   - air-fryer-cleaning
   - air-fryer-care
   - nonstick-coating
   - small-appliances
-authorImageAlt: kitchenpot1
-description: "How to clean an air fryer basket and crisper plate, from the daily wash to baked-on grease and sticky spray films, without scratching its nonstick coating."
-seo: "How to clean an air fryer basket and crisper plate: daily washing, soaking, a baking soda paste for burnt grease, removing sticky cooking spray residue, and dishwasher advice by brand."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Can I put my air fryer basket in the dishwasher?"
-    answer: "Many baskets and crisper plates are labeled dishwasher safe, including Cosori's and Ninja's. But Ninja's own manual says hand washing is recommended to extend their life, and some Instant Vortex models say the basket should be hand washed. Dishwasher detergent and high heat wear nonstick coatings faster. Check your manual, and if you do use the dishwasher, save it for occasional deep cleans."
-  - question: "How do you get baked-on grease off an air fryer basket?"
-    answer: "Soak the basket in hot, soapy water for 10 to 15 minutes first. Then make a paste of baking soda and water. Cosori suggests 2 tablespoons of baking soda to 1 tablespoon of water. Spread it on the greasy spots, leave it for 15 minutes, then scrub gently with a soft brush or non-abrasive sponge. Rinse, wash with soap and dry fully before using."
-  - question: "Why is my air fryer basket sticky even after washing?"
-    answer: "A tacky film that soap won't remove is usually polymerized oil, often from aerosol cooking spray. The lecithin and other additives in these sprays can build up on nonstick surfaces and harden with heat. A baking soda paste and a long soak will remove most of it. To prevent it, brush or spritz plain oil onto the food instead of spraying the basket."
-  - question: "How often should you clean an air fryer basket?"
-    answer: "Cosori recommends cleaning the basket and crisper plate after every use. A quick wash with warm soapy water takes a couple of minutes while the basket is still slightly warm, and it stops grease from baking on during the next cook. Plan on a deeper clean, including wiping the inside of the unit and the heating element area, every few weeks or whenever you notice smoke or odors."
-  - question: "Is it safe to use an air fryer basket with peeling coating?"
-    answer: "It's best not to. Flakes can end up in your food, and bare metal under the coating makes food stick more, which leads to more scrubbing and more peeling. Small scratches that aren't flaking are usually just cosmetic. If the coating is chipping off, contact the manufacturer about a replacement basket, since many sell them as spare parts."
+  - question: Can I put my air fryer basket in the dishwasher?
+    answer: Many baskets and crisper plates are labeled dishwasher safe, including
+      Cosori's and Ninja's. But Ninja's own manual says hand washing is
+      recommended to extend their life, and some Instant Vortex models say the
+      basket should be hand washed. Dishwasher detergent and high heat wear
+      nonstick coatings faster. Check your manual, and if you do use the
+      dishwasher, save it for occasional deep cleans.
+  - question: How do you get baked-on grease off an air fryer basket?
+    answer: Soak the basket in hot, soapy water for 10 to 15 minutes first. Then
+      make a paste of baking soda and water. Cosori suggests 2 tablespoons of
+      baking soda to 1 tablespoon of water. Spread it on the greasy spots, leave
+      it for 15 minutes, then scrub gently with a soft brush or non-abrasive
+      sponge. Rinse, wash with soap and dry fully before using.
+  - question: Why is my air fryer basket sticky even after washing?
+    answer: A tacky film that soap won't remove is usually polymerized oil, often
+      from aerosol cooking spray. The lecithin and other additives in these
+      sprays can build up on nonstick surfaces and harden with heat. A baking
+      soda paste and a long soak will remove most of it. To prevent it, brush or
+      spritz plain oil onto the food instead of spraying the basket.
+  - question: How often should you clean an air fryer basket?
+    answer: Cosori recommends cleaning the basket and crisper plate after every use.
+      A quick wash with warm soapy water takes a couple of minutes while the
+      basket is still slightly warm, and it stops grease from baking on during
+      the next cook. Plan on a deeper clean, including wiping the inside of the
+      unit and the heating element area, every few weeks or whenever you notice
+      smoke or odors.
+  - question: Is it safe to use an air fryer basket with peeling coating?
+    answer: It's best not to. Flakes can end up in your food, and bare metal under
+      the coating makes food stick more, which leads to more scrubbing and more
+      peeling. Small scratches that aren't flaking are usually just cosmetic. If
+      the coating is chipping off, contact the manufacturer about a replacement
+      basket, since many sell them as spare parts.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: An air fryer basket and crisper plate soaking in a sink of warm soapy
+  water next to a soft brush and baking soda
+seo: "How to clean an air fryer basket and crisper plate: daily washing,
+  soaking, a baking soda paste for burnt grease, removing sticky cooking spray
+  residue, and dishwasher advice by brand."
 ---
 If your air fryer smokes when you turn it on, smells like last week's fish, or makes fresh fries taste faintly burnt, the culprit is almost always old grease in and under the basket. Air fryers push hot air hard. Every bit of fat that drips through the crisper plate and bakes onto the drawer gets reheated each time you cook, and in a kitchen without much airflow that smoke lingers, which is one reason a [ductless range hood](/blog/6-best-ductless-range-hood/) earns its place over a counter appliance.
 
