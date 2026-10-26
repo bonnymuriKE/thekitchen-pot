@@ -1,40 +1,70 @@
 ---
-excerpt: "Six steamer baskets that actually fit an Instant Pot, with the 3-quart, 6-quart and 8-quart sizing problem explained, plus how trivet height and steam circulation decide whether your vegetables steam or boil."
+excerpt: Six steamer baskets that actually fit an Instant Pot, with the 3-quart,
+  6-quart and 8-quart sizing problem explained, plus how trivet height and steam
+  circulation decide whether your vegetables steam or boil.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Steamer Basket for Instant Pot (6 Picks by Pot Size)"
+title: Best Steamer Basket for Instant Pot (6 Picks by Pot Size)
 source: wordpress
 slug: best-steamer-basket-for-instant-pot
 pubDate: 2020-06-07
 modDate: 2026-09-22
-image: ""
+image: /images/Best-Steamer-Basket-for-Instant-Pot.jpg
+description: The best steamer basket for Instant Pot fits your pot size and
+  lifts food clear of the water. See six real picks, with specs, honest pros,
+  cons and sizing.
 category: Pans And Pots
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A stainless steel steamer basket full of broccoli lifted out of an Instant Pot inner pot
 tags:
   - best-steamer-basket-for-instant-pot
   - instant-pot-accessories
   - pressure-cooker-steaming
   - stackable-steamer
   - small-kitchen-cooking
-authorImageAlt: kitchenpot1
-description: "The best steamer basket for Instant Pot fits your pot size and lifts food clear of the water. See six real picks, with specs, honest pros, cons and sizing."
-seo: "A practical guide to the best steamer basket for Instant Pot, covering how steam circulation and trivet height work, the 3-quart vs 6-quart vs 8-quart fit problem, and six real baskets compared."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Do I need a steamer basket if my Instant Pot came with a trivet?"
-    answer: "For anything larger than a few potatoes, yes. The trivet is a bare wire rack with nothing to hold food, so small pieces fall through into the water and boil. A basket keeps broccoli florets, green beans, dumplings and eggs above the water line as a single contained load you can lift out in one motion."
-  - question: "Will a 6-quart steamer basket fit a 3-quart Instant Pot?"
-    answer: "No. The 3-quart inner pot measures roughly 7 inches across and 4.75 inches deep, while a typical 6-quart basket is about 8.1 inches wide and 5.2 inches tall. It will not drop in. Both Salbree and Hatrigo sell separate 3-quart, 6-quart and 8-quart versions, so buy the one that matches your cooker."
-  - question: "How much water goes under a steamer basket in an Instant Pot?"
-    answer: "Most recipes use one cup for a 6-quart and one and a half cups for an 8-quart, which is enough to generate steam and reach pressure without touching the basket. What matters is that the water sits below the basket feet. If food is sitting in water, it is boiling, not steaming, and it will end up waterlogged."
-  - question: "Why does the height of the feet or trivet matter?"
-    answer: "The gap under the basket is where steam has to circulate. If the basket sits flat on the bottom, water contacts the food directly and steam cannot get underneath, so the bottom layer cooks differently from the top. Feet or a trivet create that gap and let steam wrap the whole load evenly."
-  - question: "Can you stack two steamer baskets in an Instant Pot?"
-    answer: "Yes, and it is one of the best reasons to own a stackable set. Two tiers let you cook vegetables above fish, or rice below chicken, in a single run. Add a little time, because the upper tier is slightly cooler than the lower one, and leave gaps between the food so the steam can move through."
-  - question: "Are silicone steamer baskets as good as stainless steel?"
-    answer: "They cook just as well, since steam does the work either way. Silicone is quieter, will not scratch the inner pot, and folds flat for storage, which matters in a small kitchen. Stainless steel is more rigid, easier to lift when loaded, and doubles as a colander. Silicone can also hold onto strong smells over time."
+  - question: Do I need a steamer basket if my Instant Pot came with a trivet?
+    answer: For anything larger than a few potatoes, yes. The trivet is a bare wire
+      rack with nothing to hold food, so small pieces fall through into the
+      water and boil. A basket keeps broccoli florets, green beans, dumplings
+      and eggs above the water line as a single contained load you can lift out
+      in one motion.
+  - question: Will a 6-quart steamer basket fit a 3-quart Instant Pot?
+    answer: No. The 3-quart inner pot measures roughly 7 inches across and 4.75
+      inches deep, while a typical 6-quart basket is about 8.1 inches wide and
+      5.2 inches tall. It will not drop in. Both Salbree and Hatrigo sell
+      separate 3-quart, 6-quart and 8-quart versions, so buy the one that
+      matches your cooker.
+  - question: How much water goes under a steamer basket in an Instant Pot?
+    answer: Most recipes use one cup for a 6-quart and one and a half cups for an
+      8-quart, which is enough to generate steam and reach pressure without
+      touching the basket. What matters is that the water sits below the basket
+      feet. If food is sitting in water, it is boiling, not steaming, and it
+      will end up waterlogged.
+  - question: Why does the height of the feet or trivet matter?
+    answer: The gap under the basket is where steam has to circulate. If the basket
+      sits flat on the bottom, water contacts the food directly and steam cannot
+      get underneath, so the bottom layer cooks differently from the top. Feet
+      or a trivet create that gap and let steam wrap the whole load evenly.
+  - question: Can you stack two steamer baskets in an Instant Pot?
+    answer: Yes, and it is one of the best reasons to own a stackable set. Two tiers
+      let you cook vegetables above fish, or rice below chicken, in a single
+      run. Add a little time, because the upper tier is slightly cooler than the
+      lower one, and leave gaps between the food so the steam can move through.
+  - question: Are silicone steamer baskets as good as stainless steel?
+    answer: They cook just as well, since steam does the work either way. Silicone
+      is quieter, will not scratch the inner pot, and folds flat for storage,
+      which matters in a small kitchen. Stainless steel is more rigid, easier to
+      lift when loaded, and doubles as a colander. Silicone can also hold onto
+      strong smells over time.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A stainless steel steamer basket full of broccoli lifted out of an
+  Instant Pot inner pot
+seo: A practical guide to the best steamer basket for Instant Pot, covering how
+  steam circulation and trivet height work, the 3-quart vs 6-quart vs 8-quart
+  fit problem, and six real baskets compared.
 ---
 Most Instant Pot vegetables come out soggy for one reason: they were sitting in water, not above it. That is a hardware problem, not a recipe problem.
 
