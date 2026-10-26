@@ -1,39 +1,69 @@
 ---
-excerpt: "Six electric egg cookers that actually earn their counter space, plus how the steam method works, how much water to use for soft, medium and hard eggs, and how long the results keep."
+excerpt: Six electric egg cookers that actually earn their counter space, plus
+  how the steam method works, how much water to use for soft, medium and hard
+  eggs, and how long the results keep.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Hard Boiled Egg Cooker (6 Picks and How They Work)"
+title: Best Hard Boiled Egg Cooker (6 Picks and How They Work)
 source: wordpress
 slug: best-hard-boiled-egg-cooker
 pubDate: 2020-06-21
 modDate: 2026-09-22
-image: ""
+image: /images/hard-boiled-egg.jpg
+description: The best hard boiled egg cooker picks, from a $15 seven-egg model
+  to a 14-egg batch cooker, plus how they work, water amounts and safe fridge
+  storage tips.
 category: Cookware Equipment
-author: Boniface Muriuki
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
-authorImage: ""
-coverAlt: An electric egg cooker on a counter with peeled hard boiled eggs beside it
 tags:
   - best-hard-boiled-egg-cooker
   - egg-cooker
   - hard-boiled-eggs
   - small-kitchen-appliances
   - meal-prep
-authorImageAlt: kitchenpot1
-description: "The best hard boiled egg cooker picks, from a $15 seven-egg model to a 14-egg batch cooker, plus how they work, water amounts and safe fridge storage tips."
 faq:
-  - question: "How does an electric egg cooker work?"
-    answer: "You add a measured amount of water to a heated plate in the base, set the eggs on a rack above it, and put the lid on. The plate boils the water away as steam, which cooks the eggs. When the last of the water is gone the plate cools or the sensor trips, and a buzzer sounds. The amount of water, not a timer, is what sets the doneness."
-  - question: "How much water do you put in an egg cooker for hard boiled eggs?"
-    answer: "Use the measuring cup that came with it. Every model has markings for soft, medium and hard, and hard-boiled takes the most water, typically 50 to 60 ml for a full tray. Never guess with a kitchen measuring jug, because the marks are calibrated to that specific base plate. If your eggs come out under-done, add a few more millilitres next time."
-  - question: "How long do hard boiled eggs last in the fridge?"
-    answer: "The USDA says hard-cooked eggs keep for one week in the refrigerator, whether peeled or still in the shell, and your fridge should run at 40°F or below. Cooked eggs should not sit at room temperature for more than two hours. Leaving them in the shell keeps them from picking up fridge smells and from drying out."
-  - question: "Why are eggs from an egg cooker easier to peel?"
-    answer: "Two reasons. Steam gets between the shell and the membrane faster than boiling water does, which loosens the egg. And the piercing pin on the measuring cup makes a tiny hole in the wide end, letting the air cell expand instead of pressing the white against the shell. Older eggs also peel better, because the white's pH rises as an egg ages and it clings to the shell less."
-  - question: "Is an egg cooker better than boiling eggs on the stove?"
-    answer: "It is more consistent and needs no attention. A pot works fine, but the result changes with pot size, water volume, altitude and how long you leave it. An egg cooker removes those variables and shuts itself off, and it uses far less water and energy than heating a full pot. A pot is better if you want 18 eggs at once."
-  - question: "Can you cook other things in an egg cooker?"
-    answer: "Most models include an omelet tray that doubles as a small steamer for vegetables, dumplings or a fillet of fish. The capacity is small, usually one or two servings. If you want to steam properly as well as cook eggs, a dedicated stainless steamer like the BUYDEEM G32 is a better fit than an egg cooker with a tray thrown in."
+  - question: How does an electric egg cooker work?
+    answer: You add a measured amount of water to a heated plate in the base, set
+      the eggs on a rack above it, and put the lid on. The plate boils the water
+      away as steam, which cooks the eggs. When the last of the water is gone
+      the plate cools or the sensor trips, and a buzzer sounds. The amount of
+      water, not a timer, is what sets the doneness.
+  - question: How much water do you put in an egg cooker for hard boiled eggs?
+    answer: Use the measuring cup that came with it. Every model has markings for
+      soft, medium and hard, and hard-boiled takes the most water, typically 50
+      to 60 ml for a full tray. Never guess with a kitchen measuring jug,
+      because the marks are calibrated to that specific base plate. If your eggs
+      come out under-done, add a few more millilitres next time.
+  - question: How long do hard boiled eggs last in the fridge?
+    answer: The USDA says hard-cooked eggs keep for one week in the refrigerator,
+      whether peeled or still in the shell, and your fridge should run at 40°F
+      or below. Cooked eggs should not sit at room temperature for more than two
+      hours. Leaving them in the shell keeps them from picking up fridge smells
+      and from drying out.
+  - question: Why are eggs from an egg cooker easier to peel?
+    answer: Two reasons. Steam gets between the shell and the membrane faster than
+      boiling water does, which loosens the egg. And the piercing pin on the
+      measuring cup makes a tiny hole in the wide end, letting the air cell
+      expand instead of pressing the white against the shell. Older eggs also
+      peel better, because the white's pH rises as an egg ages and it clings to
+      the shell less.
+  - question: Is an egg cooker better than boiling eggs on the stove?
+    answer: It is more consistent and needs no attention. A pot works fine, but the
+      result changes with pot size, water volume, altitude and how long you
+      leave it. An egg cooker removes those variables and shuts itself off, and
+      it uses far less water and energy than heating a full pot. A pot is better
+      if you want 18 eggs at once.
+  - question: Can you cook other things in an egg cooker?
+    answer: Most models include an omelet tray that doubles as a small steamer for
+      vegetables, dumplings or a fillet of fish. The capacity is small, usually
+      one or two servings. If you want to steam properly as well as cook eggs, a
+      dedicated stainless steamer like the BUYDEEM G32 is a better fit than an
+      egg cooker with a tray thrown in.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: An electric egg cooker on a counter with peeled hard boiled eggs beside it
 ---
 An egg cooker isn't a novelty gadget pretending to solve a problem you don't have. It solves a real one: the same pot of eggs comes out different every time, because pot size, water volume and how long you leave them sitting all change the result. An egg cooker removes every one of those variables.
 
