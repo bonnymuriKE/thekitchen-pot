@@ -1,5 +1,8 @@
 ---
-excerpt: "The Gotham Steel Smokeless Grill pulls smoke down through the grates instead of letting it rise off your food. That mechanism is real. The catch is that Gotham Steel no longer lists the grill on its own website, though it is still sold on Amazon."
+excerpt: The Gotham Steel Smokeless Grill pulls smoke down through the grates
+  instead of letting it rise off your food. That mechanism is real. The catch is
+  that Gotham Steel no longer lists the grill on its own website, though it is
+  still sold on Amazon.
 showTableOfContents: true
 authorId: kitchenpot1
 title: "Gotham Steel Smokeless Grill Review: Is It Really Smokeless?"
@@ -7,33 +10,58 @@ source: wordpress
 slug: gotham-steel-smokeless-grill-review
 pubDate: 2021-01-24
 modDate: 2026-09-29
-image: ""
+image: /images/Gotham-Steel-Smokeless-Grill.jpg
+description: "Gotham Steel Smokeless Grill review: how its downdraft fan
+  actually works, where the smokeless claim fails, and three current indoor
+  grills to buy instead."
 category: Gas And Charcoal Grills
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: The Gotham Steel Smokeless Grill on a kitchen counter with a temperature dial and drip tray visible
 tags:
   - gotham steel smokeless grill review
   - is the gotham steel grill really smokeless
   - indoor smokeless grill nonstick coating
   - gotham steel grill availability
   - best smokeless indoor grill
-description: "Gotham Steel Smokeless Grill review: how its downdraft fan actually works, where the smokeless claim fails, and three current indoor grills to buy instead."
-seo: "An honest look at the Gotham Steel Smokeless Grill: how the downdraft fan works, why the smokeless claim only half holds, and which indoor grills are still sold."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Is the Gotham Steel Smokeless Grill actually smokeless?"
-    answer: "Not completely. It cuts smoke a lot with lean foods like chicken breast, shrimp or vegetables, because the fan pulls rising vapour down and away. Fatty meats are different. Bacon, sausages and higher-fat burgers still smoke once grease drips and heats up, even with the fan running."
-  - question: "Does Gotham Steel still sell the Smokeless Grill?"
-    answer: "Not on gothamsteel.com. The site now sells cookware, bakeware, crisper trays, a sandwich maker and a stovetop double grill plate, with no electric grill category at all. The grill is still sold on Amazon, so you can buy it there, but the maker's own store no longer promotes it."
-  - question: "How does a smokeless grill actually work?"
-    answer: "A fan in the base pulls air down through slots in the cooking grate. That downdraft drags smoke and steam away from the food instead of letting it rise into the room. A drip tray underneath catches grease before it sits on hot metal long enough to smoke on its own."
-  - question: "Does the ceramic nonstick coating on the Gotham Steel grill wear out?"
-    answer: "Yes, over time. Loss of slickness is the most common complaint in owner reviews of ceramic nonstick surfaces generally. The coating performs best when new and needs more oil after months of regular use. Metal tools and very high heat both speed that up, so wooden or silicone tools help."
-  - question: "What is the best smokeless indoor grill you can buy now?"
-    answer: "The Ninja Sizzle indoor grill and griddle is the closest current replacement. Ninja lists it at $149.99 with 14-inch by 9-inch interchangeable grill and griddle plates, 1,450 watts and heat to 500F. A perforated mesh lid cuts smoke and splatter, and that lid is removable and dishwasher safe."
-  - question: "Can you put an indoor electric grill in the dishwasher?"
-    answer: "Only the removable parts. On the Gotham Steel grill, the grill plate and drip pan are dishwasher safe while the base and the temperature probe are not. The base holds the heating element, the fan and the wiring, so it gets wiped with a damp cloth and never submerged."
+  - question: Is the Gotham Steel Smokeless Grill actually smokeless?
+    answer: Not completely. It cuts smoke a lot with lean foods like chicken breast,
+      shrimp or vegetables, because the fan pulls rising vapour down and away.
+      Fatty meats are different. Bacon, sausages and higher-fat burgers still
+      smoke once grease drips and heats up, even with the fan running.
+  - question: Does Gotham Steel still sell the Smokeless Grill?
+    answer: Not on gothamsteel.com. The site now sells cookware, bakeware, crisper
+      trays, a sandwich maker and a stovetop double grill plate, with no
+      electric grill category at all. The grill is still sold on Amazon, so you
+      can buy it there, but the maker's own store no longer promotes it.
+  - question: How does a smokeless grill actually work?
+    answer: A fan in the base pulls air down through slots in the cooking grate.
+      That downdraft drags smoke and steam away from the food instead of letting
+      it rise into the room. A drip tray underneath catches grease before it
+      sits on hot metal long enough to smoke on its own.
+  - question: Does the ceramic nonstick coating on the Gotham Steel grill wear out?
+    answer: Yes, over time. Loss of slickness is the most common complaint in owner
+      reviews of ceramic nonstick surfaces generally. The coating performs best
+      when new and needs more oil after months of regular use. Metal tools and
+      very high heat both speed that up, so wooden or silicone tools help.
+  - question: What is the best smokeless indoor grill you can buy now?
+    answer: The Ninja Sizzle indoor grill and griddle is the closest current
+      replacement. Ninja lists it at $149.99 with 14-inch by 9-inch
+      interchangeable grill and griddle plates, 1,450 watts and heat to 500F. A
+      perforated mesh lid cuts smoke and splatter, and that lid is removable and
+      dishwasher safe.
+  - question: Can you put an indoor electric grill in the dishwasher?
+    answer: Only the removable parts. On the Gotham Steel grill, the grill plate and
+      drip pan are dishwasher safe while the base and the temperature probe are
+      not. The base holds the heating element, the fan and the wiring, so it
+      gets wiped with a damp cloth and never submerged.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+coverAlt: The Gotham Steel Smokeless Grill on a kitchen counter with a
+  temperature dial and drip tray visible
+seo: "An honest look at the Gotham Steel Smokeless Grill: how the downdraft fan
+  works, why the smokeless claim only half holds, and which indoor grills are
+  still sold."
 ---
 A fan under the grates pulls smoke downward instead of letting it drift up into your face. That is the whole idea behind the Gotham Steel Smokeless Grill, and it is a real mechanism.
 
