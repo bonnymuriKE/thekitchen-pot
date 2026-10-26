@@ -1,38 +1,66 @@
 ---
-excerpt: "A recipe says \"2 chicken breasts\" but yours look twice the size of the ones in the photo. Here's how much a chicken breast really weighs, raw and cooked, and how to adjust."
+excerpt: A recipe says "2 chicken breasts" but yours look twice the size of the
+  ones in the photo. Here's how much a chicken breast really weighs, raw and
+  cooked, and how to adjust.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "How Much Does a Chicken Breast Weigh? (Raw, Cooked and Per Pound)"
+title: How Much Does a Chicken Breast Weigh? (Raw, Cooked and Per Pound)
 source: wordpress
 slug: how-much-does-a-chicken-breast-weigh
 pubDate: 2021-01-30
 modDate: 2026-09-22
-image: ""
+image: /images/chicken-2.jpg
+description: How much does a chicken breast weigh? Most boneless breasts run 6
+  to 10 ounces raw today. See cooked weights, breasts per pound, and how to
+  scale a recipe.
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: Two raw boneless skinless chicken breasts on a digital kitchen scale next to a cutting board
 tags:
   - how-much-does-a-chicken-breast-weigh
   - chicken-breast-weight
   - raw-vs-cooked-chicken
   - cooking-for-one
   - meal-prep
-authorImageAlt: kitchenpot1
-description: "How much does a chicken breast weigh? Most boneless breasts run 6 to 10 ounces raw today. See cooked weights, breasts per pound, and how to scale a recipe."
-seo: "How much does a chicken breast weigh raw and cooked, how many chicken breasts are in a pound, how much weight chicken loses when cooked, protein per breast, and how to adjust recipes and cooking times for big or small breasts."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "How much does one chicken breast weigh?"
-    answer: "A boneless, skinless chicken breast from a US supermarket usually weighs somewhere between 6 and 10 ounces raw (about 170 to 285 grams). USDA's food-safety guide still lists a boneless breast half at 4 ounces, but that figure reflects smaller birds from decades ago. Bone-in, skin-on breasts weigh more because you're also paying for bone and skin."
-  - question: "How many chicken breasts are in a pound?"
-    answer: "With today's typical 6 to 10 ounce boneless breasts, you'll get about 2 breasts per pound, sometimes only 1 large one plus a bit. If your store sells smaller 4 to 5 ounce breasts or thin-sliced cutlets, expect 3 to 4 pieces per pound. The quickest way to know is to check the package weight and count the pieces."
-  - question: "How much does a chicken breast weigh after cooking?"
-    answer: "Chicken breast loses roughly a quarter of its weight as it cooks, mostly as water. A common rule of thumb is that 4 ounces of raw boneless chicken cooks down to about 3 ounces. So an 8-ounce raw breast ends up around 6 ounces cooked. Overcooking pushes out more moisture, so the cooked weight drops further and the meat gets dry."
-  - question: "How much protein is in a chicken breast?"
-    answer: "According to USDA nutrient data, roasted chicken breast meat has about 31 grams of protein per 100 grams, or roughly 26 grams in a 3-ounce cooked serving. A typical 8-ounce raw breast cooks down to around 6 ounces, which works out to roughly 50 grams of protein. Weigh your portion if you're tracking closely, since breast sizes vary a lot."
-  - question: "Should I weigh chicken raw or cooked?"
-    answer: "Weigh it raw if you can. Raw weight is consistent, while cooked weight changes depending on how long you cook it and which method you use. Most nutrition labels on raw chicken packages list values for raw meat. If you only weigh cooked chicken, make sure you use nutrition numbers for cooked chicken so your totals line up."
+  - question: How much does one chicken breast weigh?
+    answer: A boneless, skinless chicken breast from a US supermarket usually weighs
+      somewhere between 6 and 10 ounces raw (about 170 to 285 grams). USDA's
+      food-safety guide still lists a boneless breast half at 4 ounces, but that
+      figure reflects smaller birds from decades ago. Bone-in, skin-on breasts
+      weigh more because you're also paying for bone and skin.
+  - question: How many chicken breasts are in a pound?
+    answer: With today's typical 6 to 10 ounce boneless breasts, you'll get about 2
+      breasts per pound, sometimes only 1 large one plus a bit. If your store
+      sells smaller 4 to 5 ounce breasts or thin-sliced cutlets, expect 3 to 4
+      pieces per pound. The quickest way to know is to check the package weight
+      and count the pieces.
+  - question: How much does a chicken breast weigh after cooking?
+    answer: Chicken breast loses roughly a quarter of its weight as it cooks, mostly
+      as water. A common rule of thumb is that 4 ounces of raw boneless chicken
+      cooks down to about 3 ounces. So an 8-ounce raw breast ends up around 6
+      ounces cooked. Overcooking pushes out more moisture, so the cooked weight
+      drops further and the meat gets dry.
+  - question: How much protein is in a chicken breast?
+    answer: According to USDA nutrient data, roasted chicken breast meat has about
+      31 grams of protein per 100 grams, or roughly 26 grams in a 3-ounce cooked
+      serving. A typical 8-ounce raw breast cooks down to around 6 ounces, which
+      works out to roughly 50 grams of protein. Weigh your portion if you're
+      tracking closely, since breast sizes vary a lot.
+  - question: Should I weigh chicken raw or cooked?
+    answer: Weigh it raw if you can. Raw weight is consistent, while cooked weight
+      changes depending on how long you cook it and which method you use. Most
+      nutrition labels on raw chicken packages list values for raw meat. If you
+      only weigh cooked chicken, make sure you use nutrition numbers for cooked
+      chicken so your totals line up.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: Two raw boneless skinless chicken breasts on a digital kitchen scale
+  next to a cutting board
+seo: How much does a chicken breast weigh raw and cooked, how many chicken
+  breasts are in a pound, how much weight chicken loses when cooked, protein per
+  breast, and how to adjust recipes and cooking times for big or small breasts.
 ---
 You're making a recipe that calls for "2 boneless chicken breasts," and the pack you bought has two breasts that together weigh almost 2 pounds. Or the recipe asks for 1 pound of chicken and you have no idea whether that means two breasts or four. Chicken breast is one of those ingredients where "one" can mean very different amounts.
 
