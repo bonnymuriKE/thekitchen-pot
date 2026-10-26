@@ -1,39 +1,71 @@
 ---
-excerpt: "A gas flame heats the bottom of a kettle and everything around it. These six stovetop kettles have the base width, the handle and the whistle to deal with a live burner."
+excerpt: A gas flame heats the bottom of a kettle and everything around it.
+  These six stovetop kettles have the base width, the handle and the whistle to
+  deal with a live burner.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Tea Kettle for Gas Stove (6 Stovetop Picks for a Live Flame)"
+title: Best Tea Kettle for Gas Stove (6 Stovetop Picks for a Live Flame)
 source: wordpress
 slug: best-tea-kettle-for-gas-stove
 pubDate: 2020-04-08
 modDate: 2026-09-22
-image: ""
+image: /images/Tea-Kettle-for-Gas-Stove.jpg
+description: A gas flame wraps around a kettle, not just under it. These six
+  stovetop picks have the base width, a cool handle and a good whistle for a
+  live gas burner.
 category: Beverages Equipment
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A stainless steel whistling tea kettle sitting on a lit gas burner
 tags:
   - best-tea-kettle-for-gas-stove
   - stovetop-tea-kettle
   - whistling-kettle
   - gas-stove
-authorImageAlt: kitchenpot1
-description: "A gas flame wraps around a kettle, not just under it. These six stovetop picks have the base width, a cool handle and a good whistle for a live gas burner."
-seo: "The best tea kettle for a gas stove needs a wide flat base, a handle that stays clear of the flame and a whistle you can hear. Six stovetop picks compared."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Can you use any tea kettle on a gas stove?"
-    answer: "Almost any stovetop kettle works on gas, which is the most forgiving burner type. The two things that matter are the base and the handle. A flat base wider than the flame ring sits steady and picks up more heat. A handle that arches high, or folds back, stays out of the flames that curl up the sides. Electric kettles are a different product and never go on a burner."
-  - question: "What is the best material for a tea kettle on a gas stove?"
-    answer: "Stainless steel is the safest all-round choice. It shrugs off flame contact, does not chip, and cleans up with a scrub. Enamel on steel looks better and heats just as well, but the enamel is glass and can chip if you knock it. Copper conducts heat fastest of the three, though it tarnishes over a gas flame and needs polishing to stay bright."
-  - question: "Why does the bottom of my tea kettle turn black on a gas stove?"
-    answer: "That black film is soot, and it means the flame is not burning cleanly. A healthy gas flame is blue. Yellow or orange tips leave carbon on the metal. Check that the burner ports are not blocked by spills, then turn the flame down so it sits under the base instead of licking up the sides. Soot wipes off stainless steel with a paste of baking soda and water."
-  - question: "How full should you fill a stovetop kettle?"
-    answer: "Fill it to just below the spout opening, and no higher. Water expands as it heats, and an overfilled kettle spits boiling water out of the spout. Filling only what you need also saves gas, since you are not paying to boil water you will pour down the sink. Most kettles have a fill line stamped inside or printed on the box."
-  - question: "Is a stovetop kettle better than an electric kettle?"
-    answer: "Each wins at something. An electric kettle boils faster and shuts itself off, so it is the better daily driver if you only make tea. A stovetop kettle has no cord, no circuit board and nothing to fail, so it tends to last far longer. On a gas stove it also works during a power cut, which an electric kettle cannot do."
-  - question: "Do stovetop kettles work on induction as well as gas?"
-    answer: "Only if the base is magnetic. Stainless steel kettles usually work, and enamel-on-steel kettles almost always do, because there is steel under the coating. Aluminium and pure copper kettles do not. Hold a fridge magnet against the base before you buy. If it grabs and holds, the kettle will heat on induction too."
+  - question: Can you use any tea kettle on a gas stove?
+    answer: Almost any stovetop kettle works on gas, which is the most forgiving
+      burner type. The two things that matter are the base and the handle. A
+      flat base wider than the flame ring sits steady and picks up more heat. A
+      handle that arches high, or folds back, stays out of the flames that curl
+      up the sides. Electric kettles are a different product and never go on a
+      burner.
+  - question: What is the best material for a tea kettle on a gas stove?
+    answer: Stainless steel is the safest all-round choice. It shrugs off flame
+      contact, does not chip, and cleans up with a scrub. Enamel on steel looks
+      better and heats just as well, but the enamel is glass and can chip if you
+      knock it. Copper conducts heat fastest of the three, though it tarnishes
+      over a gas flame and needs polishing to stay bright.
+  - question: Why does the bottom of my tea kettle turn black on a gas stove?
+    answer: That black film is soot, and it means the flame is not burning cleanly.
+      A healthy gas flame is blue. Yellow or orange tips leave carbon on the
+      metal. Check that the burner ports are not blocked by spills, then turn
+      the flame down so it sits under the base instead of licking up the sides.
+      Soot wipes off stainless steel with a paste of baking soda and water.
+  - question: How full should you fill a stovetop kettle?
+    answer: Fill it to just below the spout opening, and no higher. Water expands as
+      it heats, and an overfilled kettle spits boiling water out of the spout.
+      Filling only what you need also saves gas, since you are not paying to
+      boil water you will pour down the sink. Most kettles have a fill line
+      stamped inside or printed on the box.
+  - question: Is a stovetop kettle better than an electric kettle?
+    answer: Each wins at something. An electric kettle boils faster and shuts itself
+      off, so it is the better daily driver if you only make tea. A stovetop
+      kettle has no cord, no circuit board and nothing to fail, so it tends to
+      last far longer. On a gas stove it also works during a power cut, which an
+      electric kettle cannot do.
+  - question: Do stovetop kettles work on induction as well as gas?
+    answer: Only if the base is magnetic. Stainless steel kettles usually work, and
+      enamel-on-steel kettles almost always do, because there is steel under the
+      coating. Aluminium and pure copper kettles do not. Hold a fridge magnet
+      against the base before you buy. If it grabs and holds, the kettle will
+      heat on induction too.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A stainless steel whistling tea kettle sitting on a lit gas burner
+seo: The best tea kettle for a gas stove needs a wide flat base, a handle that
+  stays clear of the flame and a whistle you can hear. Six stovetop picks
+  compared.
 ---
 A gas flame does not only heat the bottom of your kettle. It heats whatever it touches, and that often includes the handle.
 
