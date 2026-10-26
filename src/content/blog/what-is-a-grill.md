@@ -5,7 +5,7 @@ slug: what-is-a-grill
 layout: ../../layouts/BlogLayout.astro
 pubDate: 2026-09-28
 modDate: 2026-09-28
-image: /images/best-gas-grills-under-500.jpg
+image: /images/13-grill-combo.jpg
 excerpt: A grill is any appliance that cooks food with direct, high heat from
   below or beside it. Past that simple definition, gas, charcoal, electric,
   pellet, kamado, and infrared grills all work differently. Here's what
@@ -71,7 +71,7 @@ faq:
       adequate heat before extra features.
 showTableOfContents: true
 author: Boniface Muriuki
-authorBio: >+
+authorBio: >
   Boniface founded The Kitchen Pot to help small-space cooks make the most of
   limited square footage. He writes and edits guides for apartments, studios,
   and small kitchens, some based on hands-on testing, others carefully
