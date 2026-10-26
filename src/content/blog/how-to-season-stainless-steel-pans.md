@@ -1,37 +1,65 @@
 ---
-excerpt: "Stainless steel doesn't need seasoning the way cast iron does, but a quick oil seasoning can help with eggs and fish. Here's how to do it, and when to skip it."
+excerpt: Stainless steel doesn't need seasoning the way cast iron does, but a
+  quick oil seasoning can help with eggs and fish. Here's how to do it, and when
+  to skip it.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "How to Season Stainless Steel Pans (and When You Don't Need To)"
+title: How to Season Stainless Steel Pans (and When You Don't Need To)
 source: wordpress
 slug: how-to-season-stainless-steel-pans
 pubDate: 2020-09-09
 modDate: 2026-09-22
-image: ""
+image: /images/Season-Stainless-Steel-Pan.jpg
+description: How to season stainless steel pans with a thin coat of oil, why it
+  lasts only until your next wash, plus the preheat habit that stops food
+  sticking anyway.
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A stainless steel skillet on a gas burner with a thin film of oil being wiped across it with a paper towel
 tags:
   - how-to-season-stainless-steel-pans
   - stainless-steel-cookware
   - stop-food-sticking
   - cookware-care
-authorImageAlt: kitchenpot1
-description: "How to season stainless steel pans with a thin coat of oil, why it lasts only until your next wash, plus the preheat habit that stops food sticking anyway."
-seo: "How to season stainless steel pans on the stovetop, which oils to use, how long seasoning lasts, whether stainless steel needs seasoning at all, and how to keep eggs and fish from sticking using the water drop test."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Do you need to season stainless steel pans?"
-    answer: "No. Stainless steel doesn't rust and doesn't need a protective coating like cast iron or carbon steel. Cookware brands such as Made In recommend against seasoning it. A light seasoning can still make eggs, fish and pancakes release more easily for a cook or two, but proper preheating and enough fat do most of the same work every time you cook."
-  - question: "What oil is best for seasoning a stainless steel pan?"
-    answer: "Use a neutral oil with a high smoke point, such as avocado, grapeseed, canola, sunflower or vegetable oil. You only need about a teaspoon for a 10- to 12-inch pan. Skip butter and extra virgin olive oil, which burn at lower temperatures, and avoid cooking sprays, which GreenPan warns leave a sticky residue on stainless steel."
-  - question: "How long does seasoning last on stainless steel?"
-    answer: "Not long. Stainless steel is nonporous, so the oil layer sits on the surface instead of building up the way it does on cast iron. Washing with dish soap, running the pan through the dishwasher, cooking acidic foods like tomato sauce, or scrubbing with a cleanser will remove it. Plan on reseasoning after a deep clean or every few uses if you want the effect."
-  - question: "Can you season stainless steel in the oven?"
-    answer: "You can, but there's little reason to. Oven seasoning is a cast iron technique meant to bake on many thin layers over time. Stainless steel won't hold those layers, and baking oil onto it tends to leave the sticky, brownish film cookware makers warn about. The quick stovetop method gives you the same short-term benefit in about five minutes."
-  - question: "Why does everything stick to my stainless steel pan?"
-    answer: "Usually the pan wasn't hot enough, or the food was moved too soon. Preheat the empty pan over medium for two to four minutes, until a drop of water forms a ball that skates across the surface, then add oil and food. Let meat and fish sit until they release on their own. Cold, wet food straight from the fridge sticks more, so pat it dry first."
+  - question: Do you need to season stainless steel pans?
+    answer: No. Stainless steel doesn't rust and doesn't need a protective coating
+      like cast iron or carbon steel. Cookware brands such as Made In recommend
+      against seasoning it. A light seasoning can still make eggs, fish and
+      pancakes release more easily for a cook or two, but proper preheating and
+      enough fat do most of the same work every time you cook.
+  - question: What oil is best for seasoning a stainless steel pan?
+    answer: Use a neutral oil with a high smoke point, such as avocado, grapeseed,
+      canola, sunflower or vegetable oil. You only need about a teaspoon for a
+      10- to 12-inch pan. Skip butter and extra virgin olive oil, which burn at
+      lower temperatures, and avoid cooking sprays, which GreenPan warns leave a
+      sticky residue on stainless steel.
+  - question: How long does seasoning last on stainless steel?
+    answer: Not long. Stainless steel is nonporous, so the oil layer sits on the
+      surface instead of building up the way it does on cast iron. Washing with
+      dish soap, running the pan through the dishwasher, cooking acidic foods
+      like tomato sauce, or scrubbing with a cleanser will remove it. Plan on
+      reseasoning after a deep clean or every few uses if you want the effect.
+  - question: Can you season stainless steel in the oven?
+    answer: You can, but there's little reason to. Oven seasoning is a cast iron
+      technique meant to bake on many thin layers over time. Stainless steel
+      won't hold those layers, and baking oil onto it tends to leave the sticky,
+      brownish film cookware makers warn about. The quick stovetop method gives
+      you the same short-term benefit in about five minutes.
+  - question: Why does everything stick to my stainless steel pan?
+    answer: Usually the pan wasn't hot enough, or the food was moved too soon.
+      Preheat the empty pan over medium for two to four minutes, until a drop of
+      water forms a ball that skates across the surface, then add oil and food.
+      Let meat and fish sit until they release on their own. Cold, wet food
+      straight from the fridge sticks more, so pat it dry first.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A stainless steel skillet on a gas burner with a thin film of oil
+  being wiped across it with a paper towel
+seo: How to season stainless steel pans on the stovetop, which oils to use, how
+  long seasoning lasts, whether stainless steel needs seasoning at all, and how
+  to keep eggs and fish from sticking using the water drop test.
 ---
 Stainless steel doesn't need seasoning. That's the first thing to know before you start wiping oil onto your new pan, and it surprises a lot of people who grew up with cast iron.
 
