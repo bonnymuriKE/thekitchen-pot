@@ -1,39 +1,72 @@
 ---
-excerpt: "Six over-the-sink cutting boards that fit real sinks, with a clear look at how the rails and colanders work, where they fail, and how to measure before you buy."
+excerpt: Six over-the-sink cutting boards that fit real sinks, with a clear look
+  at how the rails and colanders work, where they fail, and how to measure
+  before you buy.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Over the Sink Cutting Board (6 Picks That Actually Fit)"
+title: Best Over the Sink Cutting Board (6 Picks That Actually Fit)
 source: wordpress
 slug: best-over-the-sink-cutting-board
 pubDate: 2020-06-27
 modDate: 2026-09-22
-image: ""
+image: /images/cutting-boards.jpg
+description: The best over the sink cutting board for extra prep space, compared
+  by size, colander design and sink fit, with verified specs and practical
+  buying advice.
 category: Cookware Equipment
-author: Boniface Muriuki
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
-authorImage: ""
-coverAlt: A bamboo over the sink cutting board with a collapsible colander spanning a stainless steel kitchen sink
 tags:
   - best-over-the-sink-cutting-board
   - cutting-boards
   - small-kitchen-prep
   - sink-accessories
-authorImageAlt: kitchenpot1
-description: "The best over the sink cutting board for extra prep space, compared by size, colander design and sink fit, with verified specs and practical buying advice."
-seo: "An over the sink cutting board turns your sink into counter space, but only if it fits. This guide explains how the rails and colanders work, where they fail, and compares six current boards in bamboo, poly and stainless steel."
 faq:
-  - question: "How do I measure my sink for an over the sink cutting board?"
-    answer: "Measure the outside width of the sink from the far edge of one rim to the far edge of the opposite rim, not the bowl opening. Fixed boards need rails that land outside that measurement; expandable boards need a range that covers it. Also measure from the rim to the base of your tap, since a tall board plus a low spout means you cannot fill a pot without moving the board."
-  - question: "Do over the sink cutting boards fit every sink?"
-    answer: "No, and fit is the single most common complaint owners have. Deep farmhouse sinks, wide double bowls and workstation sinks with a built-in ledge all cause trouble. Boards with sliding arms handle a much wider range than fixed boards. If you have a workstation sink, buy the accessory board made for that sink instead of a universal one."
-  - question: "Are bamboo or plastic over the sink boards better?"
-    answer: "Bamboo is kinder to knife edges and looks better on show, but it must be hand washed and oiled and it will warp if it sits wet. Plastic and poly boards can usually go in the dishwasher and shrug off standing water, which matters a lot on a board that lives over a sink. Many people keep bamboo for produce and a poly board for raw meat."
-  - question: "Can you put an over the sink cutting board in the dishwasher?"
-    answer: "Poly and plastic boards generally can. Bamboo and solid wood should not: university extension guidance notes that bamboo boards may warp or get damaged in a dishwasher, and glued boards can crack. Silicone colanders are usually dishwasher safe even when the board is not, so detach the colander and wash the board by hand."
-  - question: "What is the colander on an over the sink cutting board actually for?"
-    answer: "It catches whatever you sweep off the board. You chop, push the trimmings or the washed produce through the cut-out into the basket, then lift the whole basket out to drain or bin it. The catch is that the cut-out steals cutting area, and the basket has to sit over the bowl rather than over the divider or the counter, or it drips."
-  - question: "When should I replace an over the sink cutting board?"
-    answer: "When the surface develops deep grooves, cracks or heavy wear, since damaged surfaces can trap bacteria. On these boards also watch the underside rails: once bamboo rails swell and loosen, or plastic feet lose their grip, the board rocks under the knife and becomes unsafe long before the cutting surface wears out."
+  - question: How do I measure my sink for an over the sink cutting board?
+    answer: Measure the outside width of the sink from the far edge of one rim to
+      the far edge of the opposite rim, not the bowl opening. Fixed boards need
+      rails that land outside that measurement; expandable boards need a range
+      that covers it. Also measure from the rim to the base of your tap, since a
+      tall board plus a low spout means you cannot fill a pot without moving the
+      board.
+  - question: Do over the sink cutting boards fit every sink?
+    answer: No, and fit is the single most common complaint owners have. Deep
+      farmhouse sinks, wide double bowls and workstation sinks with a built-in
+      ledge all cause trouble. Boards with sliding arms handle a much wider
+      range than fixed boards. If you have a workstation sink, buy the accessory
+      board made for that sink instead of a universal one.
+  - question: Are bamboo or plastic over the sink boards better?
+    answer: Bamboo is kinder to knife edges and looks better on show, but it must be
+      hand washed and oiled and it will warp if it sits wet. Plastic and poly
+      boards can usually go in the dishwasher and shrug off standing water,
+      which matters a lot on a board that lives over a sink. Many people keep
+      bamboo for produce and a poly board for raw meat.
+  - question: Can you put an over the sink cutting board in the dishwasher?
+    answer: "Poly and plastic boards generally can. Bamboo and solid wood should
+      not: university extension guidance notes that bamboo boards may warp or
+      get damaged in a dishwasher, and glued boards can crack. Silicone
+      colanders are usually dishwasher safe even when the board is not, so
+      detach the colander and wash the board by hand."
+  - question: What is the colander on an over the sink cutting board actually for?
+    answer: It catches whatever you sweep off the board. You chop, push the
+      trimmings or the washed produce through the cut-out into the basket, then
+      lift the whole basket out to drain or bin it. The catch is that the
+      cut-out steals cutting area, and the basket has to sit over the bowl
+      rather than over the divider or the counter, or it drips.
+  - question: When should I replace an over the sink cutting board?
+    answer: "When the surface develops deep grooves, cracks or heavy wear, since
+      damaged surfaces can trap bacteria. On these boards also watch the
+      underside rails: once bamboo rails swell and loosen, or plastic feet lose
+      their grip, the board rocks under the knife and becomes unsafe long before
+      the cutting surface wears out."
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A bamboo over the sink cutting board with a collapsible colander
+  spanning a stainless steel kitchen sink
+seo: An over the sink cutting board turns your sink into counter space, but only
+  if it fits. This guide explains how the rails and colanders work, where they
+  fail, and compares six current boards in bamboo, poly and stainless steel.
 ---
 Your sink is the largest unused work surface in the kitchen. A board that spans it can add 200 square inches of prep space for under $40.
 
