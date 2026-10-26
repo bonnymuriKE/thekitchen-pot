@@ -1,40 +1,71 @@
 ---
-excerpt: "Seven gas grills under $500 that are worth buying, plus a clear look at what the price cap actually costs you in metal thickness, grate area and burner life."
+excerpt: Seven gas grills under $500 that are worth buying, plus a clear look at
+  what the price cap actually costs you in metal thickness, grate area and
+  burner life.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Best Gas Grills Under $500 (7 Real Picks and What You Give Up)"
+title: Best Gas Grills Under $500 (7 Real Picks and What You Give Up)
 source: wordpress
 slug: best-gas-grills-under-500
 pubDate: 2020-03-22
 modDate: 2026-09-22
-image: ""
+image: /images/best-gas-grills-under-500.jpg
+description: Seven of the best gas grills under $500, compared on grate area,
+  BTU per square inch and build quality, plus a clear look at what that price
+  cap costs you.
 category: Gas And Charcoal Grills
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A two-burner propane gas grill with the lid open on a small backyard patio
 tags:
   - gas-grills
   - budget-grills
   - under-500
   - propane-grills
   - small-patio-grilling
-authorImageAlt: kitchenpot1
-description: "Seven of the best gas grills under $500, compared on grate area, BTU per square inch and build quality, plus a clear look at what that price cap costs you."
-seo: "Best gas grills under $500, compared on grate area, BTU per square inch, grate material and build. Includes what the price cap costs you and who each grill suits."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "How many BTUs do you need in a gas grill under $500?"
-    answer: "Look at BTUs per square inch of grate, not the total on the box. Napoleon suggests roughly 80 to 100 BTU per square inch as a healthy target. A 26,600 BTU two-burner with 360 square inches of grate lands near 74, and it sears fine because the lid and grates hold heat. A 60,000 BTU number on a thin grill can still run cool in wind."
-  - question: "Can you get a good gas grill for under $500?"
-    answer: "Yes, as long as you buy for build rather than burner count. Under $500 you can get porcelain-enameled cast iron grates, a warranted cookbox and stainless burners. What you give up is metal thickness, rotisserie kits, sealed cabinets and long parts warranties. A well-built two or three-burner usually outlives a thin four-burner at the same price."
-  - question: "How much cooking area do I need on a gas grill?"
-    answer: "Plan on about 25 to 30 square inches of primary grate per burger if you want room to move food around. A couple is fine with 200 to 280 square inches. A family of four wants 300 to 400. If you regularly host eight or more people, look for 450 square inches or more of primary grate, not counting the warming rack."
-  - question: "Are cast aluminum grills worse than stainless steel grills?"
-    answer: "No. Cast aluminum cookboxes cannot rust through, which is the way most cheap steel grills die. Weber uses cast aluminum on the Q series and Broil King uses it on the Gem. The tradeoff is weight and cost per inch of cooking space, so cast aluminum grills tend to be smaller. Thin stainless steel is the material to be wary of, not aluminum."
-  - question: "Why do budget gas grills take so long to assemble?"
-    answer: "Cheap grills ship flat to cut freight cost, so the cart, cookbox, shelves and burners all go together at your end. Owner reviews in this price band complain about assembly more than anything else. Count the parts against the manifest before you start, use two people for the cookbox, and set aside two hours rather than the time printed on the box."
-  - question: "Is a flat-top griddle better than a gas grill?"
-    answer: "It depends on what you cook. A griddle wins for smash burgers, breakfast, fried rice and anything small enough to fall through grates. A grill wins for thick steaks, chicken pieces and anything you want to cook with the lid down and the burners off underneath. Griddles also cannot do indirect heat, so roasting a whole chicken is out."
+  - question: How many BTUs do you need in a gas grill under $500?
+    answer: Look at BTUs per square inch of grate, not the total on the box.
+      Napoleon suggests roughly 80 to 100 BTU per square inch as a healthy
+      target. A 26,600 BTU two-burner with 360 square inches of grate lands near
+      74, and it sears fine because the lid and grates hold heat. A 60,000 BTU
+      number on a thin grill can still run cool in wind.
+  - question: Can you get a good gas grill for under $500?
+    answer: Yes, as long as you buy for build rather than burner count. Under $500
+      you can get porcelain-enameled cast iron grates, a warranted cookbox and
+      stainless burners. What you give up is metal thickness, rotisserie kits,
+      sealed cabinets and long parts warranties. A well-built two or
+      three-burner usually outlives a thin four-burner at the same price.
+  - question: How much cooking area do I need on a gas grill?
+    answer: Plan on about 25 to 30 square inches of primary grate per burger if you
+      want room to move food around. A couple is fine with 200 to 280 square
+      inches. A family of four wants 300 to 400. If you regularly host eight or
+      more people, look for 450 square inches or more of primary grate, not
+      counting the warming rack.
+  - question: Are cast aluminum grills worse than stainless steel grills?
+    answer: No. Cast aluminum cookboxes cannot rust through, which is the way most
+      cheap steel grills die. Weber uses cast aluminum on the Q series and Broil
+      King uses it on the Gem. The tradeoff is weight and cost per inch of
+      cooking space, so cast aluminum grills tend to be smaller. Thin stainless
+      steel is the material to be wary of, not aluminum.
+  - question: Why do budget gas grills take so long to assemble?
+    answer: Cheap grills ship flat to cut freight cost, so the cart, cookbox,
+      shelves and burners all go together at your end. Owner reviews in this
+      price band complain about assembly more than anything else. Count the
+      parts against the manifest before you start, use two people for the
+      cookbox, and set aside two hours rather than the time printed on the box.
+  - question: Is a flat-top griddle better than a gas grill?
+    answer: It depends on what you cook. A griddle wins for smash burgers,
+      breakfast, fried rice and anything small enough to fall through grates. A
+      grill wins for thick steaks, chicken pieces and anything you want to cook
+      with the lid down and the burners off underneath. Griddles also cannot do
+      indirect heat, so roasting a whole chicken is out.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A two-burner propane gas grill with the lid open on a small backyard patio
+seo: Best gas grills under $500, compared on grate area, BTU per square inch,
+  grate material and build. Includes what the price cap costs you and who each
+  grill suits.
 ---
 Under $500, the metal gets thinner before anything else does. Lids, cookboxes and burners all lose thickness, and that is what decides how long a grill lasts.
 
