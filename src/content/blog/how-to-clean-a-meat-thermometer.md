@@ -1,37 +1,66 @@
 ---
-excerpt: "Raw chicken on the probe, grease in the seams, a reading that seems off. Here's how to clean a meat thermometer of any type without wrecking the electronics."
+excerpt: Raw chicken on the probe, grease in the seams, a reading that seems
+  off. Here's how to clean a meat thermometer of any type without wrecking the
+  electronics.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "How to Clean a Meat Thermometer (Instant-Read, Probe and Dial Types)"
+title: How to Clean a Meat Thermometer (Instant-Read, Probe and Dial Types)
 source: wordpress
 slug: how-to-clean-a-meat-thermometer
 pubDate: 2022-01-18
 modDate: 2026-09-22
-image: ""
+image: /images/Clean-a-Meat-Thermometer.jpg
+description: "How to clean a meat thermometer after raw meat: wash the probe in
+  hot, soapy water, sanitize it, and keep water out of the case on digital and
+  dial models."
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A digital instant-read meat thermometer being wiped clean with a paper towel next to a bowl of soapy water
 tags:
   - how-to-clean-a-meat-thermometer
   - sanitize-food-thermometer
   - meat-thermometer-care
   - kitchen-food-safety
-authorImageAlt: kitchenpot1
-description: "How to clean a meat thermometer after raw meat: wash the probe in hot, soapy water, sanitize it, and keep water out of the case on digital and dial models."
-seo: "How to clean a meat thermometer the right way: washing the probe, sanitizing with alcohol or bleach solution, cleaning leave-in and wireless probes, what not to put in the dishwasher, calibrating and storing it."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "How do you clean a meat thermometer between uses?"
-    answer: "Wash the metal probe with hot, soapy water, rinse it, and dry it with a clean paper towel. The USDA advises cleaning a food thermometer before and after each use. If you just probed raw meat and need to check something else right away, wipe the probe with soapy water or a sanitizing wipe first so you don't carry raw juices into cooked food."
-  - question: "Can you put a meat thermometer in the dishwasher?"
-    answer: "Most digital thermometers should never go in the dishwasher. ThermoWorks says outright that Thermapens and its cabled probes are not dishwasher safe. The heat, long soak and harsh detergent can push water past the seals and ruin the electronics. A few wireless probes are an exception: MEATER says its Pro Collection probes are dishwasher safe, though it still recommends hand washing."
-  - question: "Can I sanitize a meat thermometer with rubbing alcohol?"
-    answer: "Yes, for the metal probe. A 70 percent isopropyl alcohol swab or wipe works well on the stem after you've washed off the grease. Keep strong alcohol off the plastic body and display, though. ThermoWorks advises against wipes with a high concentration of isopropyl alcohol on the Thermapen body. Use a damp cloth with a little dish soap there instead."
-  - question: "Can you submerge a digital meat thermometer in water?"
-    answer: "Only if the manufacturer says it's waterproof, and only for a quick rinse. An IP67 rating, like the Thermapen ONE has, means the unit can survive being dunked. IP65 models handle splashes and running water but shouldn't be soaked. Older and cheaper models are often only splash-proof, so wash the probe and wipe the body instead of dipping it."
-  - question: "How often should you calibrate a meat thermometer?"
-    answer: "Check it every few months, and any time it has been dropped or the readings seem off. Put the probe at least 2 inches into a glass of ice and water, stir, and wait. It should read 32°F. Many digital models can't be adjusted at home, so if one is out by more than a couple of degrees, contact the maker or replace it."
+  - question: How do you clean a meat thermometer between uses?
+    answer: Wash the metal probe with hot, soapy water, rinse it, and dry it with a
+      clean paper towel. The USDA advises cleaning a food thermometer before and
+      after each use. If you just probed raw meat and need to check something
+      else right away, wipe the probe with soapy water or a sanitizing wipe
+      first so you don't carry raw juices into cooked food.
+  - question: Can you put a meat thermometer in the dishwasher?
+    answer: "Most digital thermometers should never go in the dishwasher.
+      ThermoWorks says outright that Thermapens and its cabled probes are not
+      dishwasher safe. The heat, long soak and harsh detergent can push water
+      past the seals and ruin the electronics. A few wireless probes are an
+      exception: MEATER says its Pro Collection probes are dishwasher safe,
+      though it still recommends hand washing."
+  - question: Can I sanitize a meat thermometer with rubbing alcohol?
+    answer: Yes, for the metal probe. A 70 percent isopropyl alcohol swab or wipe
+      works well on the stem after you've washed off the grease. Keep strong
+      alcohol off the plastic body and display, though. ThermoWorks advises
+      against wipes with a high concentration of isopropyl alcohol on the
+      Thermapen body. Use a damp cloth with a little dish soap there instead.
+  - question: Can you submerge a digital meat thermometer in water?
+    answer: Only if the manufacturer says it's waterproof, and only for a quick
+      rinse. An IP67 rating, like the Thermapen ONE has, means the unit can
+      survive being dunked. IP65 models handle splashes and running water but
+      shouldn't be soaked. Older and cheaper models are often only splash-proof,
+      so wash the probe and wipe the body instead of dipping it.
+  - question: How often should you calibrate a meat thermometer?
+    answer: Check it every few months, and any time it has been dropped or the
+      readings seem off. Put the probe at least 2 inches into a glass of ice and
+      water, stir, and wait. It should read 32°F. Many digital models can't be
+      adjusted at home, so if one is out by more than a couple of degrees,
+      contact the maker or replace it.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A digital instant-read meat thermometer being wiped clean with a paper
+  towel next to a bowl of soapy water
+seo: "How to clean a meat thermometer the right way: washing the probe,
+  sanitizing with alcohol or bleach solution, cleaning leave-in and wireless
+  probes, what not to put in the dishwasher, calibrating and storing it."
 ---
 You pull the chicken out of the oven, stab the thickest part with your thermometer, see 165°F, and move on to dinner. The probe goes back in the drawer. A week later, you use the same probe to check a steak, and you're pushing whatever was left from that raw chicken straight into your food.
 
