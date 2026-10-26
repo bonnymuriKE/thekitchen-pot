@@ -1,14 +1,18 @@
 ---
-excerpt: "Six ductless and convertible range hoods that are still sold, plus the truth about charcoal filters, what CFM means when there is no duct, and when to duct instead."
+excerpt: Six ductless and convertible range hoods that are still sold, plus the
+  truth about charcoal filters, what CFM means when there is no duct, and when
+  to duct instead.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "6 Best Ductless Range Hoods (Honest Picks, Filters and Running Costs)"
+title: 6 Best Ductless Range Hoods (Honest Picks, Filters and Running Costs)
 source: wordpress
 slug: 6-best-ductless-range-hood
 pubDate: 2020-07-14
 modDate: 2026-09-30
-image: ""
-description: "The best ductless range hood picks for a kitchen with no duct: six current models, charcoal filter costs, CFM, noise and sizing, plus when to duct instead."
+image: /images/Best-ductless-range-hoods.jpg
+description: "The best ductless range hood picks for a kitchen with no duct: six
+  current models, charcoal filter costs, CFM, noise and sizing, plus when to
+  duct instead."
 category: Range Hoods
 tags:
   - ductless-range-hood
@@ -16,23 +20,52 @@ tags:
   - convertible-range-hood
   - charcoal-filter
   - small-kitchen-ventilation
+faq:
+  - question: Do ductless range hoods actually work?
+    answer: Yes, for grease and odor. A ductless hood pulls cooking air through a
+      metal grease filter and then a charcoal filter, and the charcoal holds on
+      to many smell molecules. What it cannot do is remove heat, steam or the
+      gases from a gas flame, because the air comes straight back into the room.
+      It helps a lot in a small kitchen with no duct. It is not a substitute for
+      venting outside when venting is possible.
+  - question: How often should you replace the charcoal filter in a ductless range hood?
+    answer: Broan-NuTone and Cosmo both say every six months, or sooner if you cook
+      a lot of greasy food. Charcoal cannot be washed back to life, because the
+      odor molecules stay stuck inside it. Budget roughly $50 to $90 a year for
+      genuine filters, depending on the brand. If the kitchen starts smelling
+      after cooking even with the fan on, the charcoal is probably full,
+      whatever the calendar says.
+  - question: What CFM do I need for a ductless range hood?
+    answer: "Less than most spec sheets suggest. For a recirculating hood, the rated
+      CFM is a ducted number, and the charcoal filter adds resistance that cuts
+      real airflow. A hood in the 300 to 400 CFM class is plenty for most
+      30-inch cooktops. What matters more is capture: a hood as wide as the
+      cooktop or wider, mounted near the low end of its allowed height, running
+      before the pan gets hot."
+  - question: Can any range hood be converted to ductless?
+    answer: No. Only hoods the maker lists as convertible or non-ducted can run
+      without a duct. They have a place to hold charcoal filters and a way to
+      send air back into the room. Convertible hoods need the maker's charcoal
+      kit, which is usually sold separately. A hood sold as ducted only has
+      nowhere to put the charcoal, so the air would just blow out of the top of
+      the hood unfiltered.
+  - question: Is a ductless range hood OK over a gas stove?
+    answer: It will catch grease and odor, but it will not remove heat, moisture or
+      combustion gases from the burners. The Home Ventilating Institute says
+      high BTU gas cooking equipment should always be ducted outside. If you
+      cook on gas and cannot duct, run the hood every time, crack a window when
+      you can, and consider a convertible hood so you can switch to ducted
+      later.
 author: Boniface Muriuki
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
 authorImage: /images/authors/chris-thompson.png
 authorImageAlt: kitchenpot1
-coverAlt: A stainless steel ductless range hood with charcoal filters mounted over a cooktop in a small apartment kitchen
-seo: "The best ductless range hoods for kitchens with no duct: six current picks, charcoal filter costs, CFM, sones, sizing, and when a ducted hood is the better buy."
-faq:
-  - question: "Do ductless range hoods actually work?"
-    answer: "Yes, for grease and odor. A ductless hood pulls cooking air through a metal grease filter and then a charcoal filter, and the charcoal holds on to many smell molecules. What it cannot do is remove heat, steam or the gases from a gas flame, because the air comes straight back into the room. It helps a lot in a small kitchen with no duct. It is not a substitute for venting outside when venting is possible."
-  - question: "How often should you replace the charcoal filter in a ductless range hood?"
-    answer: "Broan-NuTone and Cosmo both say every six months, or sooner if you cook a lot of greasy food. Charcoal cannot be washed back to life, because the odor molecules stay stuck inside it. Budget roughly $50 to $90 a year for genuine filters, depending on the brand. If the kitchen starts smelling after cooking even with the fan on, the charcoal is probably full, whatever the calendar says."
-  - question: "What CFM do I need for a ductless range hood?"
-    answer: "Less than most spec sheets suggest. For a recirculating hood, the rated CFM is a ducted number, and the charcoal filter adds resistance that cuts real airflow. A hood in the 300 to 400 CFM class is plenty for most 30-inch cooktops. What matters more is capture: a hood as wide as the cooktop or wider, mounted near the low end of its allowed height, running before the pan gets hot."
-  - question: "Can any range hood be converted to ductless?"
-    answer: "No. Only hoods the maker lists as convertible or non-ducted can run without a duct. They have a place to hold charcoal filters and a way to send air back into the room. Convertible hoods need the maker's charcoal kit, which is usually sold separately. A hood sold as ducted only has nowhere to put the charcoal, so the air would just blow out of the top of the hood unfiltered."
-  - question: "Is a ductless range hood OK over a gas stove?"
-    answer: "It will catch grease and odor, but it will not remove heat, moisture or combustion gases from the burners. The Home Ventilating Institute says high BTU gas cooking equipment should always be ducted outside. If you cook on gas and cannot duct, run the hood every time, crack a window when you can, and consider a convertible hood so you can switch to ducted later."
+coverAlt: A stainless steel ductless range hood with charcoal filters mounted
+  over a cooktop in a small apartment kitchen
+seo: "The best ductless range hoods for kitchens with no duct: six current
+  picks, charcoal filter costs, CFM, sones, sizing, and when a ducted hood is
+  the better buy."
 ---
 ![Ductless Range Hood](/images/ductless-range-hood.jpg)
 
