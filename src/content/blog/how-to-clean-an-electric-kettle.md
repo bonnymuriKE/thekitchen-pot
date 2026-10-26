@@ -1,40 +1,70 @@
 ---
-excerpt: "The white crust in your kettle is limescale, not dirt. Here's how to clean an electric kettle with citric acid or vinegar, how often to do it, and what to never do."
+excerpt: The white crust in your kettle is limescale, not dirt. Here's how to
+  clean an electric kettle with citric acid or vinegar, how often to do it, and
+  what to never do.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "How to Clean an Electric Kettle (Descale It in About 20 Minutes)"
+title: How to Clean an Electric Kettle (Descale It in About 20 Minutes)
 source: wordpress
 slug: how-to-clean-an-electric-kettle
 pubDate: 2021-02-01
 modDate: 2026-09-22
-image: ""
+image: /images/Clean-an-electrric-kettle-1-scaled.jpg
+description: How to clean an electric kettle and clear the limescale inside it,
+  using citric acid or white vinegar, plus how often to descale for your water's
+  hardness.
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A stainless steel electric kettle with white limescale inside, next to a jar of citric acid powder and a bottle of white vinegar
 tags:
   - how-to-clean-an-electric-kettle
   - descale-electric-kettle
   - limescale-removal
   - electric-kettle-care
   - hard-water
-authorImageAlt: kitchenpot1
-description: "How to clean an electric kettle and clear the limescale inside it, using citric acid or white vinegar, plus how often to descale for your water's hardness."
-seo: "How to clean an electric kettle and remove limescale using citric acid or white vinegar, plus how often to descale based on your water hardness."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "What is the best thing to clean an electric kettle with?"
-    answer: "Citric acid powder is the best all-round choice. One to two tablespoons in a half-full kettle dissolves limescale in about 20 minutes, and it rinses away without leaving a smell. White vinegar works just as well chemically and costs less, but the sour smell can linger for a few boils. Both are safer for the kettle than abrasive pads or bleach."
-  - question: "How often should you descale an electric kettle?"
-    answer: "It depends on your water. On soft water, every three to four months is enough. On moderately hard water, aim for every two months. On hard or very hard water, monthly is realistic, and some households need it every few weeks. The honest rule is to look at the element each week and descale when you can see a film forming."
-  - question: "Is limescale in a kettle bad for you?"
-    answer: "No. Limescale is calcium carbonate, the same compound found in chalk, antacid tablets and calcium supplements. Drinking water that carries a few flakes of it will not hurt you. The real cost is to the kettle, not to you: scale slows the boil, makes the kettle louder and wastes electricity, so it is worth removing anyway."
-  - question: "Can you use baking soda to clean an electric kettle?"
-    answer: "Not for limescale. Baking soda is alkaline, and limescale is alkaline too, so there is no reaction to dissolve the deposit. Baking soda is still useful as a gentle paste for stains and marks on the outside of the kettle. For scale inside, you need an acid such as citric acid or white vinegar."
-  - question: "How do you get the vinegar taste out of an electric kettle?"
-    answer: "Rinse the kettle three or four times with cold water, paying attention to the spout and the lid seal. Then fill it with fresh water, boil it and pour the whole lot away. Repeat that boil-and-discard step once more. If a faint sourness is still there, one more rinse and boil clears it."
-  - question: "Can you put an electric kettle in the dishwasher?"
-    answer: "No. The body holds the heating element and the electrical contacts, and dishwasher water will ruin them. Never put the kettle or its power base in a dishwasher or a sink of water. Wipe both with a damp cloth instead. Some kettles have a removable spout filter that can be rinsed by hand under the tap."
+  - question: What is the best thing to clean an electric kettle with?
+    answer: Citric acid powder is the best all-round choice. One to two tablespoons
+      in a half-full kettle dissolves limescale in about 20 minutes, and it
+      rinses away without leaving a smell. White vinegar works just as well
+      chemically and costs less, but the sour smell can linger for a few boils.
+      Both are safer for the kettle than abrasive pads or bleach.
+  - question: How often should you descale an electric kettle?
+    answer: It depends on your water. On soft water, every three to four months is
+      enough. On moderately hard water, aim for every two months. On hard or
+      very hard water, monthly is realistic, and some households need it every
+      few weeks. The honest rule is to look at the element each week and descale
+      when you can see a film forming.
+  - question: Is limescale in a kettle bad for you?
+    answer: "No. Limescale is calcium carbonate, the same compound found in chalk,
+      antacid tablets and calcium supplements. Drinking water that carries a few
+      flakes of it will not hurt you. The real cost is to the kettle, not to
+      you: scale slows the boil, makes the kettle louder and wastes electricity,
+      so it is worth removing anyway."
+  - question: Can you use baking soda to clean an electric kettle?
+    answer: Not for limescale. Baking soda is alkaline, and limescale is alkaline
+      too, so there is no reaction to dissolve the deposit. Baking soda is still
+      useful as a gentle paste for stains and marks on the outside of the
+      kettle. For scale inside, you need an acid such as citric acid or white
+      vinegar.
+  - question: How do you get the vinegar taste out of an electric kettle?
+    answer: Rinse the kettle three or four times with cold water, paying attention
+      to the spout and the lid seal. Then fill it with fresh water, boil it and
+      pour the whole lot away. Repeat that boil-and-discard step once more. If a
+      faint sourness is still there, one more rinse and boil clears it.
+  - question: Can you put an electric kettle in the dishwasher?
+    answer: No. The body holds the heating element and the electrical contacts, and
+      dishwasher water will ruin them. Never put the kettle or its power base in
+      a dishwasher or a sink of water. Wipe both with a damp cloth instead. Some
+      kettles have a removable spout filter that can be rinsed by hand under the
+      tap.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A stainless steel electric kettle with white limescale inside, next to
+  a jar of citric acid powder and a bottle of white vinegar
+seo: How to clean an electric kettle and remove limescale using citric acid or
+  white vinegar, plus how often to descale based on your water hardness.
 ---
 That chalky white crust in the bottom of your kettle is not dirt. It is rock.
 
