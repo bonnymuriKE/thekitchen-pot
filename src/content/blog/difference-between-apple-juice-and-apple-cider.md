@@ -1,39 +1,74 @@
 ---
-excerpt: "In the US, apple cider is fresh-pressed, unfiltered apple juice and apple juice is filtered and pasteurized. Here's how they differ in taste, safety, nutrition and cooking."
+excerpt: In the US, apple cider is fresh-pressed, unfiltered apple juice and
+  apple juice is filtered and pasteurized. Here's how they differ in taste,
+  safety, nutrition and cooking.
 showTableOfContents: true
 authorId: kitchenpot1
-title: "Difference Between Apple Juice and Apple Cider (Taste, Safety, Uses)"
+title: Difference Between Apple Juice and Apple Cider (Taste, Safety, Uses)
 source: wordpress
 slug: difference-between-apple-juice-and-apple-cider
 pubDate: 2020-10-05
 modDate: 2026-09-22
-image: ""
+image: /images/what-is-the-difference-between-apple-juice-and-apple-cider-chowhound.png
+description: The difference between apple juice and apple cider comes down to
+  filtering and pasteurizing. See how they compare for taste, safety, nutrition
+  and recipes.
 category: How To Guides
-author: Boniface Muriuki
-authorImage: ""
-coverAlt: A glass of cloudy amber apple cider next to a glass of clear golden apple juice and a few red apples
 tags:
   - apple-juice-vs-apple-cider
   - apple-cider
   - unpasteurized-juice
   - juicing
-authorImageAlt: kitchenpot1
-description: "The difference between apple juice and apple cider comes down to filtering and pasteurizing. See how they compare for taste, safety, nutrition and recipes."
-seo: "What is the difference between apple juice and apple cider? How each is made, whether cider is pasteurized, which is healthier, how long each lasts, what hard cider is, and when you can swap one for the other in cooking and baking."
-authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where he writes about making small kitchens, apartments, and studios work better.
 faq:
-  - question: "Is apple cider just unfiltered apple juice?"
-    answer: "In the United States, mostly yes. Fresh apple cider is pressed apple juice that hasn't been filtered to remove the pulp and sediment, so it looks cloudy and tastes tarter. Apple juice is usually filtered until clear, then pasteurized so it keeps longer. There's no single federal definition, though, and some brands sell the same pasteurized product under both names."
-  - question: "Is apple cider alcoholic?"
-    answer: "Not in the US, unless it says hard cider. Sweet cider sold at orchards and grocery stores is non-alcoholic apple juice. Hard cider is fermented, so the sugar has turned into alcohol. Outside North America, including the UK, Ireland and Australia, the word cider on its own normally means the alcoholic drink, so read labels carefully when traveling."
-  - question: "Is unpasteurized apple cider safe to drink?"
-    answer: "It carries a real risk. Raw cider can contain E. coli O157:H7, Salmonella or Cryptosporidium, and there have been outbreaks linked to it. The FDA says children, older adults, pregnant women and people with weakened immune systems should choose pasteurized or treated juice. If you buy raw cider, you can heat it to a simmer before drinking to kill harmful bacteria."
-  - question: "Which is healthier, apple juice or apple cider?"
-    answer: "They're very close. Both have roughly the same calories and natural sugar, about 114 calories and 24 grams of sugar per cup for unsweetened juice. Cloudy cider keeps more of the apple's solids, and a 2007 study found cloudy apple juice had about four times the polyphenols of clear juice. Neither contains much fiber, so a whole apple still beats both."
-  - question: "Can I use apple juice instead of apple cider in a recipe?"
-    answer: "Yes, in most recipes. Swap it one for one in braises, glazes, brines, baked goods and hot drinks. The result will be a little sweeter and less tangy, so add a squeeze of lemon juice or a teaspoon of cider vinegar per cup to bring back some sharpness. Don't swap in apple cider vinegar for either one, since it's far more acidic."
-  - question: "How long does apple cider last in the fridge?"
-    answer: "Once opened, pasteurized cider or juice usually stays good for about 7 to 10 days in the fridge. Martinelli's, for example, says 5 to 10 days after opening. Raw, unpasteurized cider spoils faster, often in about 5 days once opened. If it turns fizzy, foamy or smells sour, it has started to ferment and it's time to throw it out."
+  - question: Is apple cider just unfiltered apple juice?
+    answer: In the United States, mostly yes. Fresh apple cider is pressed apple
+      juice that hasn't been filtered to remove the pulp and sediment, so it
+      looks cloudy and tastes tarter. Apple juice is usually filtered until
+      clear, then pasteurized so it keeps longer. There's no single federal
+      definition, though, and some brands sell the same pasteurized product
+      under both names.
+  - question: Is apple cider alcoholic?
+    answer: Not in the US, unless it says hard cider. Sweet cider sold at orchards
+      and grocery stores is non-alcoholic apple juice. Hard cider is fermented,
+      so the sugar has turned into alcohol. Outside North America, including the
+      UK, Ireland and Australia, the word cider on its own normally means the
+      alcoholic drink, so read labels carefully when traveling.
+  - question: Is unpasteurized apple cider safe to drink?
+    answer: It carries a real risk. Raw cider can contain E. coli O157:H7,
+      Salmonella or Cryptosporidium, and there have been outbreaks linked to it.
+      The FDA says children, older adults, pregnant women and people with
+      weakened immune systems should choose pasteurized or treated juice. If you
+      buy raw cider, you can heat it to a simmer before drinking to kill harmful
+      bacteria.
+  - question: Which is healthier, apple juice or apple cider?
+    answer: They're very close. Both have roughly the same calories and natural
+      sugar, about 114 calories and 24 grams of sugar per cup for unsweetened
+      juice. Cloudy cider keeps more of the apple's solids, and a 2007 study
+      found cloudy apple juice had about four times the polyphenols of clear
+      juice. Neither contains much fiber, so a whole apple still beats both.
+  - question: Can I use apple juice instead of apple cider in a recipe?
+    answer: Yes, in most recipes. Swap it one for one in braises, glazes, brines,
+      baked goods and hot drinks. The result will be a little sweeter and less
+      tangy, so add a squeeze of lemon juice or a teaspoon of cider vinegar per
+      cup to bring back some sharpness. Don't swap in apple cider vinegar for
+      either one, since it's far more acidic.
+  - question: How long does apple cider last in the fridge?
+    answer: Once opened, pasteurized cider or juice usually stays good for about 7
+      to 10 days in the fridge. Martinelli's, for example, says 5 to 10 days
+      after opening. Raw, unpasteurized cider spoils faster, often in about 5
+      days once opened. If it turns fizzy, foamy or smells sour, it has started
+      to ferment and it's time to throw it out.
+author: Boniface Muriuki
+authorBio: Boniface Muriuki is the founder and editor of The Kitchen Pot, where
+  he writes about making small kitchens, apartments, and studios work better.
+authorImage: ""
+authorImageAlt: kitchenpot1
+coverAlt: A glass of cloudy amber apple cider next to a glass of clear golden
+  apple juice and a few red apples
+seo: What is the difference between apple juice and apple cider? How each is
+  made, whether cider is pasteurized, which is healthier, how long each lasts,
+  what hard cider is, and when you can swap one for the other in cooking and
+  baking.
 ---
 Some brands sell the exact same bottle under both names. Martinelli's, the California company famous for its sparkling apple drinks, says on its FAQ page that its apple juice and apple cider are both 100% juice from fresh US apples, and it keeps the cider label only because some shoppers prefer the traditional name.
 
